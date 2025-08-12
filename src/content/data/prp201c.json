@@ -813,7 +813,7 @@
   },
   {
     "question": "What does this SQL command do? 1 SELECT COUNT(*) FROM Users Hint: This is not from the lecture",
-    "answers": ["It counts the rows in the table"]
+    "answers": ["It counts the rows in the table Users"]
   },
   {
     "question": "What is the primary added value of relational databases over flat files?",
@@ -972,7 +972,7 @@
   },
   {
     "question": "Which of the following lines of Python code contains a syntax error? 1 2 3 4 5 6 x = 12 if x < 5: print(\"smaller\") else: print(\"bigger\") print(\"all done\")",
-    "answers": ["else:"]
+    "answers": ["print(\"smaller\")"]
   },
   {
     "question": "Which of the following best describes \"Regular Expressions\"?",

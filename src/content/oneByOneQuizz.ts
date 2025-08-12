@@ -102,14 +102,17 @@
   };
 
   const inputField = async (inputs: HTMLInputElement[], answer: string) => {
-    const field = inputs.find((i) =>
-      ["text", "number", "email", "search", "tel", "url"].includes(i.type)
+    const field = inputs.find(
+      (i) =>
+        ["text", "number", "email", "search", "tel", "url"].includes(i.type) &&
+        i.required
     );
     if (!field) return;
     await delay(50);
     field.value = answer;
     field.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị input:", answer);
+    return;
   };
 
   const textareaField = async (
@@ -122,27 +125,6 @@
     textarea.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị textarea:", answer);
   };
-
-  // const handleSubmitButton = async () => {
-  //   const buttons = (await checkElement(
-  //     'button[type="button"]'
-  //   )) as HTMLElement[];
-
-  //   const submitButton = buttons.find((btn) =>
-  //     ["Check", "Next", "Submit assignment"].some((k) =>
-  //       normalizeText(btn.innerText).includes(k)
-  //     )
-  //   );
-  //   if (!submitButton) return false;
-
-  //   const text = normalizeText(submitButton.innerText);
-  //   await delay(500);
-  //   submitButton.dispatchEvent(
-  //     new MouseEvent("click", { view: window, bubbles: true, cancelable: true })
-  //   );
-  //   submitButton.click();
-  //   return text !== "Submit assignment";
-  // };
 
   const getButton = async (timeOut = 3000): Promise<HTMLElement | null> => {
     const innerButton = ["Check", "Next", "Submit assignment"];
@@ -325,15 +307,6 @@
 
   // Đăng ký listener
   chrome.runtime.onMessage.addListener((window as any)._quizMessageListener);
-
-  // Dọn dẹp khi rời trang
-  // window.addEventListener("beforeunload", () => {
-  //   chrome.runtime.onMessage.removeListener(
-  //     (window as any)._quizMessageListener
-  //   );
-  //   delete (window as any)._quizMessageListener;
-  //   delete (window as any)._quizScriptRunning;
-  // });
 
   window.addEventListener("beforeunload", () => {
     const fn = (window as any)._quizMessageListener;
