@@ -1,0 +1,373 @@
+[
+  {
+    "question": "TRUE OR FALSE: The main goal of futures thinking is to get better at accurately predicting the future.",
+    "answers": ["False"]
+  },
+  {
+    "question": "TRUE OR FALSE: According to a global scientific study, most people say YES, if it were possible, I would like to know what will happen in my own future - for example, the cause of my death, or whether my marriage will end in divorce.",
+    "answers": ["FALSE"]
+  },
+  {
+    "question": "According to Alvin Toffler, author of FUTURE SHOCK, \"When it comes to thinking about the future, it's more important to be WHAT than to be right?\"",
+    "answers": ["It's more important to be IMAGINATIVE than to be right."]
+  },
+  {
+    "question": "Professional futurists often say: \"There are no WHAT about the future?\"",
+    "answers": ["There are no FACTS about the future."]
+  },
+  {
+    "question": "You've finished your first week of futures thinking training - congratulations! What's the single most important thing YOU would teach someone else, if you were trying to explain futures thinking to someone who had never heard about it? (This is a chance for you to reflect and offer your own personal answer. There is no wrong answer! Use this question as an opportunity to reach your own \"aha\" insight.)",
+    "answers": [
+      "If I were explaining futures thinking to someone new to the concept, I'd emphasize this idea: **\"The future is not something that just happens to us; it's something we shape through our choices and actions today.\"** Futures thinking is all about recognizing that the future isn't predetermined or set in stone. By understanding various possible scenarios and the forces driving change, we can better prepare for and influence what lies ahead. The key is to broaden our perspectives, anticipate various outcomes, and make informed decisions that steer us toward desired futures. So, the single most important thing to grasp is that our present actions and decisions play a crucial role in shaping the future, and being proactive and thoughtful about them can make a significant difference."
+    ]
+  },
+  {
+    "question": "In how many years does the future start, according to professional futurists?",
+    "answers": ["10"]
+  },
+  {
+    "question": "Is creativity one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is foresight one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is empathy one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is practical skepticism one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is strategy one of the seven strengths you will build by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is hope one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is smarter investing one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is talent spotting one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is accurate prediction one of the seven strengths you will develop by practicing futures thinking?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is mental flexibility one of the strengths you will develop by practicing futures thinking?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "This week, you learned about signals of change. Which of these are accurate descriptions of signals of change? Choose all that apply.",
+    "answers": [
+      "They are the \"raw ingredients\" or \"building blocks\" of futures thinking.",
+      "They are clues to how the future might be different.",
+      "They are real things, happening now, in the real world."
+    ]
+  },
+  {
+    "question": "This week, you read a report about the Future of Work in the year 2030. This quiz is about some of the SIGNALS OF CHANGE described in the report. The computer vision research team at the Allen Institute for Artificial Intelligence recently released a collaborative game. In the game, a human and an AI take turns drawing scenes that the other can understand and identify correctly. The goal of the game is to improve human-AI communication. What kind of CHANGE is this a SIGNAL of?",
+    "answers": ["AI is becoming more collaborative with humans."]
+  },
+  {
+    "question": "Etch is a new blockchain-based payroll system that automatically pays wages to workers in real-time. Instead of waiting for a check every two weeks or 30 days for an invoice to be paid, Etch gets you your wages the second you earn them. Or, as they say: \"You can buy lunch with the money you earned at work that morning.\" What kind of CHANGE is this a SIGNAL of?",
+    "answers": [
+      "Secure distributed ledgers like blockchain will make it easier for people to get paid right away for work in the future, increasing their economic security."
+    ]
+  },
+  {
+    "question": "A new kind of technology called \"ultra-haptics\" will allow people to interact with machines without touching them. One signal in this field is an ATM (cash withdrawal machine) that you can operate without touching any buttons. You simply wave your hands in the air. What kind of CHANGE is this a SIGNAL of?",
+    "answers": [
+      "Interacting with machines will be safer and cleaner in the future, especially in spaces where many different people interact with the same machines."
+    ]
+  },
+  {
+    "question": "Interplay Learning is an online learning platform that uses Virtual Reality and 3D simulations to train workers in new skills. Workers can access 100s of hours of lessons anywhere, anytime. What kind of SIGNAL of CHANGE is this?",
+    "answers": [
+      "In the future, online learning and workplace learning is likely to be more immersive and simulation-based. It may incorporate Virtual Reality and Augmented Reality into every learning experience. The majority of Coursera courses could be VR and AR based by 2030!"
+    ]
+  },
+  {
+    "question": "Which of these signals of change do you personally find most interesting, or think is most likely to impact YOU in the future? (There is no right or wrong answer to this question. Use it as a chance to reflect on what you read!)",
+    "answers": [
+      "The AI/human collaborative drawing game",
+      "Etch, the instant payroll platform",
+      "Ultrahaptics \"no touch\" interfaces",
+      "Interplay Learning by VR and 3D simulation"
+    ]
+  },
+  {
+    "question": "When was the Institute for the Future founded?",
+    "answers": ["1960s"]
+  },
+  {
+    "question": "What was the primary reason for the creation of the Institute for the Future?",
+    "answers": [
+      "To deal with the accelerating rate and scale of change in society, and to help society learn how to control those forces of change."
+    ]
+  },
+  {
+    "question": "Which is the best description of the method of futures thinking that Institute for the Future proposed to create and teach to others?",
+    "answers": [
+      "Explore multiple alternative futures, analyze the comparative risks and benefits of each, and devise strategies and action plans for increasing the probability of the most desired futures"
+    ]
+  },
+  {
+    "question": "The prospectus for Institute for the Future says that it will be \"imaginative by design.\" What does this mean?",
+    "answers": [
+      "It will encourage a wide range of writers, scientists, philosophers, artists, engineers and social innovators to contribute their creative vision and unique point of view about what they believe could be possible in the future."
+    ]
+  },
+  {
+    "question": "This type of futures thinking is the first step in any new futures project. It asks the question: How might the world be different in the next 10 years? It looks for evidence of changes already happening today and helps us anticipate what's coming next.",
+    "answers": ["Forecasting skills"]
+  },
+  {
+    "question": "This type of futures thinking helps you immerse yourself in possible futures. It challenges you to feel and experience the future before it happens. The goal is to help you decide which futures you want to make more likely, which futures you want to prevent, and what actions you can take to thrive and succeed in any given future.",
+    "answers": ["Simulation skills"]
+  },
+  {
+    "question": "This type of futures thinking is designed to help you avoid blindspots when it comes to the future. It lets you see the future from many diverse points of view. It helps you work with others to uncover the hardest-to-anticipate consequences and ripple effects of change.",
+    "answers": ["Collaborative gaming skills"]
+  },
+  {
+    "question": "This type of futures thinking helps you strategize about what you can do today to make the future you want more likely, and the futures you don't want less likely.",
+    "answers": ["Action skills"]
+  },
+  {
+    "question": "Which of these types of futures thinking are you personally most excited to learn and practice? There is no right or wrong answer to this question. Use it as an opportunity to reflect on what you've learned this week!",
+    "answers": [
+      "Forecasting skills",
+      "Simulation skills",
+      "Collaborative gaming skills",
+      "Urgent optimism / Action skills"
+    ]
+  },
+  {
+    "question": "You've met four new people this week who use futures thinking in their work. You've also had a chance to read a report on how professional (full-time) futurists do their work. With this glimpse into a day in the life of a a diverse group of futurists, how do you think futures thinking might fit into your own work or your community involvement? If you were to explain to someone in just a few sentences, \"This is why I think futures thinking is going to be important to me personally...\", what would you say? (This is a chance for you to reflect and offer your own personal answer. There is no wrong answer! Use this question as an opportunity to reach your own \"aha\" insight.)",
+    "answers": [
+      "Futures thinking is important to me personally because it equips me with the tools to anticipate and navigate complex changes in my work and community. By considering various future scenarios and understanding emerging trends, I can make more informed decisions, proactively address potential challenges, and seize opportunities that align with long-term goals. This proactive mindset not only enhances my strategic planning but also helps me contribute to building a more resilient and adaptable community."
+    ]
+  },
+  {
+    "question": "What's the best definition for a future forecast?",
+    "answers": [
+      "A prediction of what COULD happen in the future, based on evidence of how the world is already changing. This evidence is called \"signals\" of change."
+    ]
+  },
+  {
+    "question": "Futurist Bob Johansen has a three-word philosophy that sums up the purpose and methods of future forecasting. He uses it in his daily personal life, and not just at work, to practice the skills of arriving before the masses and giving yourself enough time to think more clearly and respond to surprising challenges. What is this three-word philosophy?",
+    "answers": ["Get There Early"]
+  },
+  {
+    "question": "Institute for the Future uses a three-step methodology that Bob Johansen explains in his mini-masterclass video and in the reading this week. The first step of the methodology, or cycle, is to anticipate what might be different in the future. What is the name of this step?",
+    "answers": ["Foresight"]
+  },
+  {
+    "question": "The second step of the Institute for the Future methodology is to make sense of the possible changes and imagine what you might do to prepare for and take advantage of those changes, or to slow them down and prevent them. What is the name of this step?",
+    "answers": ["Insight"]
+  },
+  {
+    "question": "The third step in the Institute for the Future methodology is to start trying new things, today, that let you experiment with possible strategies for the future. What is the name of this step in the cycle?",
+    "answers": ["Action"]
+  },
+  {
+    "question": "Professional futurists often talk about \"drivers of change\" when making future forecasts. What's a driver of change?",
+    "answers": [
+      "A major new technology, global trend or phenomenon that is likely to have a big influence on what the future will be."
+    ]
+  },
+  {
+    "question": "What's the best way to describe what Blockchain technology is?",
+    "answers": [
+      "A decentralized system of record-keeping, protected by cryptography, that creates trust because everyone connected to the system has a complete copy of the record, preventing individuals from faking data or altering the record"
+    ]
+  },
+  {
+    "question": "The Blockchain forecast you read this week predicts that we will see three waves of innovation when it comes to blockchain over the next decade. Computing: The rise of a new global \"stateful\" computing platform that will be highly automated and transparent, and replace Cloud computing Currencies: The invention of new forms of money, or crypto-tokens, and many new ways of exchanging and distributing money with fewer middle-men Commons: Important physical resources and infrastructure start to be managed by the crowd (ordinary people), instead of by the governments and corporations, when blockchain computing is connected to the Internet of Things What order are these 3 waves of innovation expected to occur in?",
+    "answers": ["Currencies, Computing, Commons"]
+  },
+  {
+    "question": "Blockchain is an exciting but complicated driver of change. What jumps out at you this from this week's video or reading as being personally of interest to YOU about blockchain? Is there a particular use for Blockchain, or a signal in the report, or scenario that feels personally important to YOUR work or YOUR life? Or is there one thing you'd like to learn more about the Blockchain, based on what you learned this week? There is no right or wrong answer here - whatever you share will count as a correct response! Use this question as a chance to reflect on what you've learned this week and make a personal connection to the material.",
+    "answers": ["The Blockchain forecast you read this week"]
+  },
+  {
+    "question": "This week, you watched two demonstration videos of how to turn signals and drivers into forecasts. Which of the two demonstrated forecasts do you think would impact you the most if it came true? (There is no right or wrong answer to this question. It's just an opportunity for you to reflect on what you learned this week!)",
+    "answers": [
+      "Yes, you can play with your food! Virtual reality and 3D food printers make mealtime more fun and experimental"
+    ]
+  },
+  {
+    "question": "Thinking about the forecast you chose as most likely to impact you personally... HOW do you think it might impact you, for better or for worse? Take a moment to imagine yourself living in this future. How is your life or work different? There is no right or wrong answer to this question. Use it as an opportunity for you to reflect on what you learned this week, and to make a personal connection to the future topics we discussed.",
+    "answers": ["Yes, you can play with your food! Virtual reali"]
+  },
+  {
+    "question": "This week, you had the option to read one or more future forecasts from Wired World. Pick ONE of the forecasts you read. Which one did you read, and how do you think it might impact you, for better or for worse? How could this future change YOUR life personally? Take a moment to imagine yourself living in this future. How is your life or work different? There is no right or wrong answer to this question. Use it as an opportunity for you to reflect on what you learned this week, and to make a personal connection to the future topics we discussed.",
+    "answers": ["e option to read one or more future forecasts fro"]
+  },
+  {
+    "question": "In this week's readings, you encountered three new scenarios about the future of machines. In the scenario \"Machines as Consumers\", what is different about this future?",
+    "answers": [
+      "Instead of deciding what to buy for themselves, most people let artificially intelligent \"personal assistants\" do their shopping for them."
+    ]
+  },
+  {
+    "question": "In the scenario \"Machines as Criminals\", what's different in this future?",
+    "answers": [
+      "Lawmakers have to decide who should be legally responsible when \"smart\" objects break the law: the people who own the objects, or the companies who make them? For example, if a self-driving car gets a speeding ticket, who should pay: the owner of the car, or the auto manufacturer who programmed it to speed?"
+    ]
+  },
+  {
+    "question": "In the scenario \"Machines as Conscience\", what is different in this future?",
+    "answers": [
+      "A new AI called the \"Digital Consequence Awareness System\" helps people understand the ripple effects and long-term consequences of their actions, so they can behave more ethically."
+    ]
+  },
+  {
+    "question": "Of these 3 scenarios, which one do you personally think is the most thought-provoking and important to consider? There is no right or wrong answer to this question; use it as an opportunity to reflect on what you've read this week. (Whatever answer you pick will be marked correct!)",
+    "answers": [
+      "Machines as Consumers",
+      "Machines as Criminals",
+      "Machines as Conscience"
+    ]
+  },
+  {
+    "question": "This week you learned about the neurological pathways and activity areas of the brain that support thinking more creatively about the future. One of the most important neurological activities in thinking about the future is \"scene construction.\" During scene construction, the brain creates a vivid movie or 3D virtual reality in your mind's eye. It allows you to \"look around\" and immerse yourself in a simulated scene, whether it's something that you're remembering or something you're imagining could happen in the future. What is another term for this neurological activity?",
+    "answers": ["Memory and simulation"]
+  },
+  {
+    "question": "Another important neurological activity that happens when we think about the future is that we try to simulate how other people might feel and what they might do. This activity is a way for our own brain to \"get inside someone else's mind.\" That why it's called:",
+    "answers": ["Mentalizing"]
+  },
+  {
+    "question": "A third neurological activity that happens when we think about the future is a kind of \"scanning\" of the future for possible opportunities to make choices and take actions that serve our own personal goals. What is this called?",
+    "answers": ["Performance monitoring"]
+  },
+  {
+    "question": "If you want to build up all of the neurological pathways that support these 3 important activities - memory and simulation, mentalizing and performance monitoring - you can practice the \"magic triangle\" of simulation. What are the 3 habits that make up this magic triangle? Pick three answers only.",
+    "answers": [
+      "Remembering the future as if it has already happened",
+      "Predicting the future, and explaining why it will be that way",
+      "Hard empathy, or imagining yourself in situations you've never directly experienced"
+    ]
+  },
+  {
+    "question": "There's a region of the brain that fires up whenever you register something as important to you, personally. It says, \"Hey! This matters to YOU! It's about YOU! Pay attention!\" What is this region called?",
+    "answers": ["Medial PreFrontal Cortext"]
+  },
+  {
+    "question": "What does this same part of the brain do, for most people, when they imagine themselves in a far future - say, 10 years out or more?",
+    "answers": [
+      "It acts like they're thinking about a complete stranger, someone who doesn't matter to them at all."
+    ]
+  },
+  {
+    "question": "What's the result of this part of the brain's behavior, when it comes to imagining your future self?",
+    "answers": [
+      "It's hard to have empathy for your future self. As a result, you make decisions that feel good in the short run but are maybe not-so-good in the long run."
+    ]
+  },
+  {
+    "question": "This week, you learned about 3 different areas of simulation innovation. One area of innovation is creating realistic video or audio of a real person saying something they've never actually said, or doing something they've never actually done. These videos and audio recordings are based on machine intelligence. An AI creates an authentic-seeming \"fake\" based on real, previous videos and audio recordings. So they are a hybrid of \"real\" and \"faked.\" What does futurist Jamais Cascio call these new kinds of half-real simulations?",
+    "answers": ["\"Simulacra\""]
+  },
+  {
+    "question": "Another area of simulation innovation is the use of shipping containers to create a portable Virtual Reality environment that can easily be set up, moved, and re-installed anywhere in the world. Futurists are using these spaces to imagine how real shipping containers, an important and underutilized part of the global infrastructure, might be used in the future. What is this project/technology called?",
+    "answers": ["Simtainers"]
+  },
+  {
+    "question": "The third simulation technology explored this week is technology that simulates touch. It allows you to have a physical sensation of touching a virtual object, or being touched by a virtual object. This can include anything from simulated hugs via video chat to phone vibrations that feel like raindrops falling on your hand. What is this technology field called?",
+    "answers": ["Haptics"]
+  },
+  {
+    "question": "It's not hard to imagine negative consequences of simulacra technologies. Convincingly faked videos or faked audio created through AI machine learning will almost certainly lead to new forms disinformation, propaganda, and new kinds of bullying and harassment. But your reading this week identifies several possible positive uses of the technologies. Which example stands out to you as the most legitimately useful application? Or, can you think of another potential positive use of this tech? What might it be? This is an open-ended question with no right or wrong answers! Whatever you share will be marked as correct. Use it as an opportunity to reflect on, and make a more personal connection, with the material you read this week.",
+    "answers": [
+      "hard to imagine negative consequences of simulacra technologies. Convincing"
+    ]
+  },
+  {
+    "question": "In his interview, David Birnbaum points to the potential ethical issues around haptics. If you can simulate good touch, you can also simulate unpleasant or harmful touch. What kinds of negative uses can you imagine in the future, if haptics become more commonplace? What kind of touch would you NOT want to experience, or what safeguards would you want in place to prevent others online from \"touching\" you in unwanted ways or at unwanted times? This is an open-ended question with no right or wrong answers! Whatever you share will be marked as correct. Use it as an opportunity to reflect on, and make a more personal connection, with the material you read this week.",
+    "answers": [
+      "hard to imagine negative consequences of simulacra technologies. Convincing"
+    ]
+  },
+  {
+    "question": "Which of these three types of simulation technologies are personally most interesting to you? Which one could you see yourself being most affected by in the future, or taking the time to work with and create something yourself in the future? (There is no right or wrong answer to this question. Whatever you choose will be marked \"correct.\" Use this question as an opportunity to reflect and make a more personal connection with this week's lesson.)",
+    "answers": ["Simulacra videos/audio recordings"]
+  },
+  {
+    "question": "Who invented and first described \"Afrofuturism\"?",
+    "answers": ["Mark Dery"]
+  },
+  {
+    "question": "Which of these are true statements about Afrofuturism? Check all that apply.",
+    "answers": [
+      "It focuses on the experience of black people in the future.",
+      "It usually has a positive or utopian aspect, depicting a better world than today.",
+      "It is often practiced and communicated through popular culture, like music videos, fashion magazines, movies, and science-fiction writing.",
+      "For many people, it is a kind of artistic therapy, working through the traumas of the past and present by imagining a more just future."
+    ]
+  },
+  {
+    "question": "In one of this week's videos, Professor Lonny Brooks says the African diaspora community \"have always been futurists.\" Why? (The African Diaspora is the term commonly used to describe the mass dispersion of people from Africa during the Transatlantic Slave Trades, from the 1500s to the 1800s. This Diaspora took millions of people from Western and Central Africa to diﬀerent regions throughout the Americas and the Caribbean.)",
+    "answers": [
+      "The slave trade took Africans against their will to far-away, strange lands where they needed to adapt, innovate, and invent new culture in order to survive."
+    ]
+  },
+  {
+    "question": "Afrofuturism is a storytelling, art-making practice focused on a particular cultural imagination, rising out of a unique community: the African diaspora. What other communities who have been displaced or traumatized in the past and present do you think have an important role to play in imagining better futures? What other kinds of futurism could you imagine building on and being inspired by the important cultural work of Afrofuturism? Or how would you like to see Afrofuturism itself develop and be used in the future? There is no right or wrong answer to this question. Use it as an opportunity for you to reflect on what you learned this week, and to make a personal connection to the future topics we discussed.",
+    "answers": ["turism is a storytelling, art"]
+  },
+  {
+    "question": "What goes at the center of a future wheel?",
+    "answers": [
+      "A forecast or scenario you want to explore the consequences of"
+    ]
+  },
+  {
+    "question": "What question is the main question you ask, in order to fill out your future wheel?",
+    "answers": ["If this future change happened, what might happen NEXT?"]
+  },
+  {
+    "question": "What is the primary goal of filling out a future wheel?",
+    "answers": [
+      "To uncover hard-to-predict, surprising consequences of any future change or event."
+    ]
+  },
+  {
+    "question": "This week's quiz is a kind of \"true or false\" quiz. Which of these are real signals of change that already exist today? Which are made up, and do not in fact exist? (All of the \"real\" signals appear in this week's videos and readings!) Here's your first signal: A neurosensing headband monitors how \"focused\" or \"bored\" you are. If you are deeply focused on a task, it automatically cancels notifications to your phone and hides new emails so you can stay focused on your job.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A smart wallet that knows how much money you've spent this month so far and what your total monthly budget is. It becomes harder and harder to pry open the closer you get to your maximum budget.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A smart shirt for rugby fans that uses haptic feedback to help them \"feel\" the action on the sports field. For example, the fan would feel a strong rumbling in their chest when a player is tackled in the real match.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A videogame that uses mind-reading technology to allow two players to cooperate. Player one can see the screen and \"thinks\" of what they want to do in the game. Player two controls the joystick but cannot see the screen. The muscles in the second player's finger are connected to player one's brain, and automatically fire and do whatever the first player thinks of doing, essentially creating a remote, mind-controlled hand.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A radio that can detect your feelings like anxiety and stress when you walk by it. It does this by bouncing wi-fi signals off of your body, to detect heart rate and breathing rate.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A small, non-invasive wearable earpiece that stimulates the vagus nerve to change your mood. You get to pick how you want to feel. You can set it to increase your energy and alertness or to decrease anxiety, and feel calm and peaceful.",
+    "answers": ["This is real, it already exists."]
+  },
+  {
+    "question": "A global social network that allows users to share their feelings with others by sharing heartrate, breathing rate, hormone levels and more. A peripheral headset can stimulate the same feelings so you can literally \"feel\" what someone else is feeling.",
+    "answers": ["This is not real."]
+  }
+]

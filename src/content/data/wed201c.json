@@ -1,0 +1,1268 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": ["Hypertext Markup Language"]
+  },
+  {
+    "question": "Unlike earlier versions of HTML, HTML5 produces pages that look the same across all browsers.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Read this question carefully since we are asking about things we want to avoid. HTML5 should **NOT**...",
+    "answers": ["take advantage of the most up-to-date plugins."]
+  },
+  {
+    "question": "An HTML5 tag will always have the same semantic meaning, regardless of the browser being used.",
+    "answers": ["False"]
+  },
+  {
+    "question": "W3C stands for:",
+    "answers": ["World Wide Web Consortium"]
+  },
+  {
+    "question": "The creation of HTML5 was a cooperation between many parties. Which of the following was NOT part of that cooperation?",
+    "answers": ["DARPA"]
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "answers": ["Hypertext Transfer Protocol"]
+  },
+  {
+    "question": "Which of the following is part of a URL?",
+    "answers": ["domain (or host)"]
+  },
+  {
+    "question": "Which of the following is an example of a top-level domain?",
+    "answers": [".biz", ".com"]
+  },
+  {
+    "question": "The Domain Name Service looks up the domain and returns the:",
+    "answers": ["IP address"]
+  },
+  {
+    "question": "Which organization is responsible for assigning top-level domain names?",
+    "answers": ["Internet Corporation for Assigned Numbers and Names (ICANN)"]
+  },
+  {
+    "question": "The Internet is a type of:",
+    "answers": ["Wide Area Network"]
+  },
+  {
+    "question": "A ________________________ is a computer that is in charge of handling resource requests from multiple computers.",
+    "answers": ["server"]
+  },
+  {
+    "question": "A single web page may require several iterations of the Request-Response Cycle.",
+    "answers": ["True"]
+  },
+  {
+    "question": "HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.",
+    "answers": ["tags"]
+  },
+  {
+    "question": "The original developers of HTML were opposed to the addition of tags for graphical images.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The first graphical browser was.... (please use one word answer)",
+    "answers": ["Mosaic"]
+  },
+  {
+    "question": "What are proprietary tags?",
+    "answers": ["Tags that work only on certain browsers"]
+  },
+  {
+    "question": "Which of these tags breaks the tenet of the separation of content and layout?",
+    "answers": ["center", "font"]
+  },
+  {
+    "question": "Which of the following are browsers?",
+    "answers": ["Chrome, Firefox, Safari", "Safari, Chrome, Edge"]
+  },
+  {
+    "question": "A basic functionality of browsers is to translate HTML documents into viewable webpages.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which version of HTML introduced semantic tags?",
+    "answers": ["HTML 5"]
+  },
+  {
+    "question": "You should write your code using the Sublime editor if you want an easy way for others to see your webpage.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is an Integrated Development Environment?",
+    "answers": ["Replit"]
+  },
+  {
+    "question": "Which of the following filename is using camel case?",
+    "answers": ["myFirstFile.html"]
+  },
+  {
+    "question": "What editor are you using?",
+    "answers": ["VSCode"]
+  },
+  {
+    "question": "What browser(s) are you using?",
+    "answers": ["Chrome"]
+  },
+  {
+    "question": "Which of the editors below has the most built-in functionality for creating .html files?",
+    "answers": ["Sublime"]
+  },
+  {
+    "question": "Which of the following best explains the difference between syntax and semantics?",
+    "answers": [
+      "A browser may have trouble displaying a page if the syntax is incorrect."
+    ]
+  },
+  {
+    "question": "HTTP stands for",
+    "answers": ["Hypertext Transfer Protocol"]
+  },
+  {
+    "question": "If you use HTML5 tags correctly, your pages will be rendered identically on any browser.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The Request-Response Cycle…",
+    "answers": ["may require several iterations of the Request-Response Cycle."]
+  },
+  {
+    "question": "The original web was developed",
+    "answers": ["as a way for scientists to exchange information"]
+  },
+  {
+    "question": "Which of the following should you avoid when naming your files ?",
+    "answers": ["Using spaces in a file name."]
+  },
+  {
+    "question": "When you open a webpage in Chrome it may look slightly different if opened in a different browser.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does WAN stand for?",
+    "answers": ["Wide Area Network"]
+  },
+  {
+    "question": "DOM stands for:",
+    "answers": ["Document object model"]
+  },
+  {
+    "question": "HTML is organized into what type of structure?",
+    "answers": ["tree"]
+  },
+  {
+    "question": "There can be only one <body> element in a document.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which two visual elements appear in the <head> section of the HTML?",
+    "answers": ["title and favicon"]
+  },
+  {
+    "question": "You can choose to validate your code at https://validator.w3.org/ by uploading files or by providing a URL.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The HTML5 headings are block-level elements.",
+    "answers": ["True"]
+  },
+  {
+    "question": "All HTML elements can have attributes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Whitespace added to an HTML document between span-level elements will generally be ignored by the browser and are not added to increase spacing on the rendered HTML page.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The only element we can place as a direct child of the <ul> and <ol> elements is the <li> element.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can add comments to your HTML source by using the following syntax:",
+    "answers": ["<!-- Write your comments here →"]
+  },
+  {
+    "question": "Which semantic tag is used to identify a group of introductory or navigational aids: title, navigation links, etc. ?",
+    "answers": ["header"]
+  },
+  {
+    "question": "Which semantic tag specifies independent, self-contained content?",
+    "answers": ["article"]
+  },
+  {
+    "question": "What is the correct HTML for inserting an image?",
+    "answers": ["<img src=\"images/logo.gif\" alt=\"logo\">"]
+  },
+  {
+    "question": "The alternative text will be displayed under what conditions? (Select all that apply)",
+    "answers": [
+      "if the image format is not supported by the browser",
+      "if the image is blocked from being displayed",
+      "if an image fails to render due to an incorrect URL"
+    ]
+  },
+  {
+    "question": "It is good practice to start all of your alt text with “Image of a …” followed by a description.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is better to skip the alt attribute altogether than include an empty alt attribute (alt = “”).",
+    "answers": ["False"]
+  },
+  {
+    "question": "A screen reader will automatically provide a visual description of icons.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following are sources that were recommended in the Finding Usable Materials reading? (Note, you must select all correct answers to get full credit)",
+    "answers": [
+      "Pexels",
+      "Freepik",
+      "Everypixel",
+      "Openverse",
+      "Google Image Search"
+    ]
+  },
+  {
+    "question": "What is a potential issue when using both a height and width attribute on an image?",
+    "answers": [
+      "The image may appear skewed if the change in the height isn’t proportional to the change in the width"
+    ]
+  },
+  {
+    "question": "Which attribute on an <a> anchor element specifies whether a hyperlink should be opened in the same window or a new one?",
+    "answers": ["target"]
+  },
+  {
+    "question": "You can create an on-page link by first setting which attribute on the element you wish to link to?",
+    "answers": ["id"]
+  },
+  {
+    "question": "All links should be in the <nav> element.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The line break element requires only an opening tag and must not have a closing tag.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is the lowest level HTML heading element?",
+    "answers": ["h6"]
+  },
+  {
+    "question": "Which attribute references the location of new content in an anchor tag?",
+    "answers": ["href"]
+  },
+  {
+    "question": "An absolute reference includes the URL protocol in the href.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A relative URL can link to which of the following:",
+    "answers": ["a local file in the same folder"]
+  },
+  {
+    "question": "Have you been typing in the code as we go along?",
+    "answers": [
+      "Yes, I’ve been following along and testing the code in my editor"
+    ]
+  },
+  {
+    "question": "A local link (a link to a page within the same website) is specified with a relative URL, i.e without any \"https://www\" at the front.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The anchor element <a> can create hyperlinks to different parts of the same HTML document.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When setting an alt attribute for a non-essential image you should:",
+    "answers": ["use the empty string"]
+  },
+  {
+    "question": "Which element creates a bulleted list?",
+    "answers": ["ul"]
+  },
+  {
+    "question": "Can you think of other reasons that alternative text is important in your code?",
+    "answers": [
+      "Alternative text improves accessibility for visually impaired users, enhances SEO, and helps when images fail to load"
+    ]
+  },
+  {
+    "question": "Which special entity would you use to insert an extra blank space (not blank line) into your webpage?",
+    "answers": ["&nbsp"]
+  },
+  {
+    "question": "HTML5 headings come in how many different rankings?",
+    "answers": ["6"]
+  },
+  {
+    "question": "Which website provides a validation tool for checking the syntax of your HTML code?",
+    "answers": ["https://validator.w3.org/"]
+  },
+  {
+    "question": "When deciding between using an h2 heading or an h3 heading you should base your decision on how big you want the text to be. You may need to review earlier Week 1 material about HTML5 Tags.",
+    "answers": ["False"]
+  },
+  {
+    "question": "You should use the alt attribute on icons.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The img tag has how many required attributes to display an accessible image?",
+    "answers": ["2"]
+  },
+  {
+    "question": "Which semantic tag is used to identify a section that contains info such as copyright data, related documents, and links to social media?",
+    "answers": ["footer"]
+  },
+  {
+    "question": "Which HTML attribute specifies descriptive text for an image if the image cannot be displayed? (Select all that apply.)",
+    "answers": ["alt"]
+  },
+  {
+    "question": "Which element creates a numbered list?",
+    "answers": ["ol"]
+  },
+  {
+    "question": "A screen reader will automatically provide a visual description of emojis.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following are recommended sources for finding images for diverse audiences? (You must select all that apply for full credit.)",
+    "answers": ["Disabled and Here", "PICNOI"]
+  },
+
+  {
+    "question": "The W3 validator will detect if you are using the alt attribute in your image tags.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does View Source do?",
+    "answers": ["Displays the contents of the file."]
+  },
+  {
+    "question": "The role of a web accessibility coordinator includes which of the following? (You must select all that apply.)",
+    "answers": [
+      "Assists those with disabilities to access online infrastructure",
+      "Evaluates web interfaces for accessibility",
+      "Keep pace with changing technology"
+    ]
+  },
+  {
+    "question": "Which of the following can affect the visual accessibility of your site? (Select all that apply.)",
+    "answers": ["font size", "color contrast", "font family"]
+  },
+  {
+    "question": "Which of the following can affect the visual accessibility of your site?",
+    "answers": ["Both font color and font size."]
+  },
+  {
+    "question": "The W3C Web Content Accessibility Guidelines are based on the latest technology.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The Wave validator will detect if you have bad color contrast on your page.",
+    "answers": ["True"]
+  },
+  {
+    "question": "How well are people validating their code? Type the URL of some of your favorite sites into https://validator.w3.org/ . What types of errors do you see the most often?",
+    "answers": ["Runtime errors"]
+  },
+  {
+    "question": "The W3 validator will detect if you have bad color contrast on your page.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Submit the URLs again to the accessibility checker at https://wave.webaim.org/ . Do you see more or less errors than the w3 validator?",
+    "answers": ["Yes, i see a lot"]
+  },
+  {
+    "question": "The acronym for the four principles of accessibility is:",
+    "answers": ["POUR"]
+  },
+  {
+    "question": "A relative reference includes the URL protocol in the href.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is NOT an option for specifying a color in CSS3?",
+    "answers": ["All of these options are valid."]
+  },
+  {
+    "question": "If your body tag uses the style attribute style=\"text-align:center\", you can overwrite that property by using the CSS3 rule: body{ text-align: left; }",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is wrong with the following code? 1 2 3 4 5 body{ color: #000000; background-color:#FFFFFF font-family: Times, Arial, Cursive; }",
+    "answers": ["There is a missing semicolon"]
+  },
+  {
+    "question": "Assume the following rule is the only one that styles the body element: 1 2 3 body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support any of these font families?",
+    "answers": ["The text will be displayed in the default browser font-family"]
+  },
+  {
+    "question": "The browser defaults override rules specified in an external stylesheet.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Using the code below, will the body of the page have the background-color defined in the file style.css or the background color defined in the <style> tag? 1 2 3 4 5 6 7 8 9 10 <head> <meta charset = \"UTF-8\"> <title>Test code</title> <link rel \"stylesheet\" href = \"style.css\"> <style> body{ background-color: #44CCDD; } </style> </head>",
+    "answers": ["<style>"]
+  },
+  {
+    "question": "Internal styling (rules specified in the <head> section) override rules specified with the style attribute in a tag.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The default display value for paragraphs is:",
+    "answers": ["block"]
+  },
+  {
+    "question": "The default display value for <span> is:",
+    "answers": ["inline"]
+  },
+  {
+    "question": "A block element takes up the full width of its parent, even if the content is smaller than the parent. So two block elements at the same time will not be side-by-side.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Inline elements take up the full width of the browser, even if the content is smaller than the browser size.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which CSS3 property is used to center text? (We are only asking about the property name; not the value.)",
+    "answers": ["text-align"]
+  },
+  {
+    "question": "What is the correct HTML for referring to an external style sheet?",
+    "answers": ["<link rel=\"stylesheet\" href=\"mystyle.css\">"]
+  },
+  {
+    "question": "What is the correct HTML for referring to an external style sheet stored in a subfolder called css?",
+    "answers": ["<link rel=\"stylesheet\" href=\"css/mystyle.css\">"]
+  },
+  {
+    "question": "The link to the external style sheet should be in the:",
+    "answers": ["Meta-data - <head>"]
+  },
+  {
+    "question": "Using an external stylesheet allows you to update the style of many pages with only a few lines of code.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When creating a CSS rule you need to specify the selector, _______, and value.",
+    "answers": ["property"]
+  },
+  {
+    "question": "You can use the Inspect Element tool in your browser to see your CSS rules.",
+    "answers": ["True"]
+  },
+  {
+    "question": "CSS stands for Cascading Style Sheets. This is because the webpage style can come from many different sources.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which property can remove the underline from links? (Only provide the property name; do not give it a value.)",
+    "answers": ["text-decoration"]
+  },
+  {
+    "question": "The property/value pair list-style-type:upper-roman; is best used to visually alter:",
+    "answers": ["ordered lists"]
+  },
+  {
+    "question": "Descendant selectors nav a{ .... } are more specific than child selectors nav>a{ .... }",
+    "answers": ["False"]
+  },
+  {
+    "question": "The class selectors are part of the DOM",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is true about this code? 1 <p class = \"fancy box\"> ....</p>",
+    "answers": [
+      "From this code, you can't know which styling will take precedence."
+    ]
+  },
+  {
+    "question": "This is probably a typo, why? 1 .body{ font-size: 16px; }",
+    "answers": [
+      "The period in front of the word body means the browser will look for a class called body, not the element."
+    ]
+  },
+  {
+    "question": "Not only can you use a # to style an element. You can also use it to create a destination for an anchor link..",
+    "answers": ["True"]
+  },
+  {
+    "question": "An id name can be used by multiple HTML elements, while a class name must only be used by one HTML element within the page.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Both id and class names are case sensitive.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: yellow; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p>Hi</p> What color font is used to display \"Hi\"?",
+    "answers": ["yellow"]
+  },
+  {
+    "question": "Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: yellow; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p class = \"plain fancy\">Hi</p> What color font is used to display \"Hi\"?",
+    "answers": ["black"]
+  },
+  {
+    "question": "Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 p{ color: red; background: yellow; } .style1 { font-family: cursive; background: red; color: green; } .style2 { font-family: Times, serif; } 1 <p class = \"style1 style2\">Hi</p> What color font is used to display \"Hi\"?",
+    "answers": ["green"]
+  },
+  {
+    "question": "The styling contained in the style tag has precedence over the style attribute.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which CSS property controls the text size?",
+    "answers": ["font-size"]
+  },
+  {
+    "question": "How do you display hyperlinks without an underline?",
+    "answers": ["a { text-decoration:none; }"]
+  },
+  {
+    "question": "A default style sheet is used to:",
+    "answers": ["Eliminate differences in browser default styling."]
+  },
+  {
+    "question": "Descendant selectors nav a{ .... } are more general than child selectors nav>a{ .... }",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which property will set the number of columns in an element that is using grid?",
+    "answers": ["grid-template-columns"]
+  },
+  {
+    "question": "If you use display:grid your elements will resize automatically to fit the screen width.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which property will set the number of horizontal elements in an element that is using flex?",
+    "answers": [
+      "You can't set the number of columns since they will be set based on the browser window size."
+    ]
+  },
+  {
+    "question": "The default value for the position property is:",
+    "answers": ["static"]
+  },
+  {
+    "question": "What is wrong with this code? 1 2 3 4 div{ position: relative; left: 10px; }",
+    "answers": ["There is nothing wrong with this code."]
+  },
+  {
+    "question": "If you want your navigation bar to remain visible, even when the user scrolls downward, you should use which type of positioning?",
+    "answers": ["fixed", "sticky"]
+  },
+  {
+    "question": "Assume that this code is linked together correctly. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 p{ color: red; background: black; } .fancy{ font-family: cursive; background: red; color: green; } .plain{ font-family: Times, serif; color: black; } 1 <p class = \"fancy plain\">Hi</p> What color font is used to display \"Hi\"?",
+    "answers": ["black"]
+  },
+  {
+    "question": "Sometimes elements overlap one another. Which property specifies the stacking order of the elements? (A high value means it is more likely to be placed in front of another.) ONLY PROVIDE THE PROPERTY, NOT A VALUE.",
+    "answers": ["z-index"]
+  },
+  {
+    "question": "The # symbol specifies that the selector is a/an",
+    "answers": ["id"]
+  },
+  {
+    "question": "What are the four principles of Accessibility?",
+    "answers": ["POUR"]
+  },
+  {
+    "question": "Given this rule: 1 2 3 div{ border-width:10px 3px 5px 9px; } what is the width of the left border?",
+    "answers": ["9px"]
+  },
+  {
+    "question": "Which snippet of CSS is commonly used to center an element horizontally?",
+    "answers": ["margin: 0 auto;"]
+  },
+  {
+    "question": "Which of the following is the best way to convey that your text has special meaning?",
+    "answers": ["Using semantic tags in addition to color and/or font."]
+  },
+  {
+    "question": "Skip to Main Content is a feature that:",
+    "answers": ["Allows keyboard users to easily navigate your site."]
+  },
+  {
+    "question": "The margin is the space between elements.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Padding is...",
+    "answers": ["The space between an element and its border"]
+  },
+  {
+    "question": "The padding and margin properties can be styled with unique colors.",
+    "answers": ["False."]
+  },
+  {
+    "question": "How much horizontal space (\"width\") will this div use? 1 2 3 4 5 6 div{ width:50px; padding: 10px; margin: 5px; border: 2px; }",
+    "answers": ["84px"]
+  },
+  {
+    "question": "How much vertical space (\"height\") will this div use? 1 2 3 4 5 6 div{ height:50px; padding: 5px 10px; margin: 5px; border: 2px; }",
+    "answers": ["74px"]
+  },
+  {
+    "question": "In the following code snippet, what value is given for the right margin? margin: 5px 10px 3px 8px;",
+    "answers": ["10px"]
+  },
+  {
+    "question": "Which of the following would be used to create an id called button which has a width of 750px, a height of 30px and the color of the text is black?",
+    "answers": [
+      "1 2 3 4 5 #button { height: 30px; width: 750px; color: black; }"
+    ]
+  },
+  {
+    "question": "How much width will this div occupy? 1 2 3 4 5 6 div{ width:100px; padding: 10px; margin: 5px; border: 2px; }",
+    "answers": ["134px"]
+  },
+  {
+    "question": "When creating a CSS rule you need to specify the selector, property, and _______.",
+    "answers": ["value"]
+  },
+  {
+    "question": "The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Assume the following rule is the only one that styles the body element: 1 2 3 body{ font-family: Cursive, Helvetica, Verdana; } What happens if the browser doesn't support Cursive or Helvetica?",
+    "answers": ["The text will be displayed in Verdana"]
+  },
+  {
+    "question": "Which CSS3 property is used to center text? (Provide only the property, not the value!)",
+    "answers": ["text-align"]
+  },
+  {
+    "question": "When creating a CSS rule you need to specify the _______, property, and value.",
+    "answers": ["selector"]
+  },
+  {
+    "question": "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is wrong with the following rule? 1 2 3 4 5 body{ color: #000000; background-color:#FFFFFF; font-family: Times, Arial, Cursive; }",
+    "answers": ["Nothing - This is a valid rule"]
+  },
+  {
+    "question": "What is wrong with this code? 1 2 3 4 div{ position: static; left: 10px; } No Results",
+    "answers": [
+      "The code works, but the left property is not necessary since static elements don't allow offsets"
+    ]
+  },
+  {
+    "question": "Assume that this code is linked together correctly. 15 12 13 14 9 10 11 6 7 8 3 4 5 1 2 } .plain{ font-family: Times, serif; color: black; color: green; } .fancy{ font-family: cursive; background: red; background: black; } p{ color: red; 1 <p class = \"fancy plain\">Hi</p> What color font is used to display \"Hi\"?",
+    "answers": ["black"]
+  },
+  {
+    "question": "Given this rule: 3 } what is the width of the right border?",
+    "answers": ["5px"]
+  },
+  {
+    "question": "The padding and margin properties inherit their background colors from their parent elements.",
+    "answers": ["True"]
+  },
+  {
+    "question": "How much vertical space (\"height\") will this div use? 6 3 4 5 1 2 } padding: 5px 10px; margin: 5px; border: 2px; div{ height:50px;",
+    "answers": ["74px"]
+  },
+  {
+    "question": "Which of the following would be used to create a class called button which has a width of 750px, a height of 30px and the color of the text is black?",
+    "answers": [
+      "1 2 3 4 5 .button { height: 30px; width: 750px; color: black; }"
+    ]
+  },
+
+  {
+    "question": "In the following code snippet, what value is given for the left margin? margin: 5px 10px 3px 8px;",
+    "answers": ["8px"]
+  },
+  {
+    "question": "Every valid web page can be represented as a tree. This tree is referred to as the",
+    "answers": ["DOM"]
+  },
+  {
+    "question": "JavaScript can change all the HTML elements but not the CSS styles in the page",
+    "answers": ["False"]
+  },
+  {
+    "question": "JavaScript uses what kind of interface to access the DOM structure?",
+    "answers": ["an API"]
+  },
+  {
+    "question": "Which of these is not valid? (Hint, pay attention to if the method should return one thing, or many things...)",
+    "answers": [
+      "document.getElementsById(idName)",
+      "var my_array = document.querySelector(#idName) first_element = my_array[0]",
+      "var my_array = document.getElementById(idName) first_element = my_array[0]"
+    ]
+  },
+  {
+    "question": "You must include the period when using the getElementsByClassName() method.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Unless you are writing multiple statements on the same line, you don't need to add a semicolon.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is not a valid method for generating output to the screen?",
+    "answers": ["print"]
+  },
+  {
+    "question": "Which of these options does NOT require the use of parentheses?",
+    "answers": ["innerHTML"]
+  },
+  {
+    "question": "Which of the following does not generate output directly to the screen?",
+    "answers": ["console.log(message);"]
+  },
+  {
+    "question": "How does prompt differ from alert?",
+    "answers": ["The prompt will return a value, alert does not."]
+  },
+  {
+    "question": "Variables allow you to save data.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In JavaScript the keywords def is used to declare a variable.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What does it mean that variables are case-sensitive?",
+    "answers": [
+      "That the computer does not think that the variables name and Name are the same thing."
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid variable name?",
+    "answers": ["variable-2", "1variable"]
+  },
+  {
+    "question": "What does mnemonic mean?",
+    "answers": [
+      "That variable names should help describe the value being stored."
+    ]
+  },
+  {
+    "question": "What is wrong with this code? var name = \"Mike\"; \"Colleen\" = name;",
+    "answers": [
+      "This code is illegal and it doesn't make sense to have the non-variable \"Colleen\" (also called a constant) on the left-hand side of an assignment statement. Please review the lecture on Variables from Week 1."
+    ]
+  },
+  {
+    "question": "What value is stored in name if the person hits the Cancel button on a prompt? var name = prompt(\"What is your name?\");",
+    "answers": ["null"]
+  },
+  {
+    "question": "Boolean variables store either true or false.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When a function returns a node from the DOM, it is of type",
+    "answers": ["Object"]
+  },
+  {
+    "question": "A function that wants to return multiple values at once (such as document.getElementsByTagName) will return a/an",
+    "answers": ["Array"]
+  },
+  {
+    "question": "Which of the following is not a valid operator?",
+    "answers": ["=+"]
+  },
+  {
+    "question": "What value is returned by 17 % 5?",
+    "answers": ["2"]
+  },
+  {
+    "question": "What is the difference between == and === ?",
+    "answers": [
+      "The == operator only checks for equivalent values, not equivalent type too."
+    ]
+  },
+  {
+    "question": "What is the logical operator for OR?",
+    "answers": ["||"]
+  },
+  {
+    "question": "If your browser supports debugging, you can use which of the following to display JavaScript values in the debugger window:",
+    "answers": ["console.log"]
+  },
+  {
+    "question": "Which tag is used to let the browser know that it is about to see JavaScript code?",
+    "answers": ["<script>"]
+  },
+  {
+    "question": "Where can you put JavaScript?",
+    "answers": ["In A), B) and C) above"]
+  },
+  {
+    "question": "Which attribute is used to link to an external JavaScript file?",
+    "answers": ["src; e.g., src = \"extFile.js\""]
+  },
+  {
+    "question": "Which keyword is used to define a function in JavaScript?",
+    "answers": ["function"]
+  },
+  {
+    "question": "Which of the following best defines the relationship between defining a function and calling a function?",
+    "answers": ["A function can be called multiple times in a single file."]
+  },
+  {
+    "question": "A function can be called multiple times in a single file.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can define a function without calling it.",
+    "answers": ["True"]
+  },
+  {
+    "question": "One of the events that the JavaScript API will listen for is onload.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can use single quotes or double quotes when calling a function with an event.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Consider the following code: 1 2 3 4 <body onload = \"Hello()\"> <p> This is paragraph one </p> <p onclick = \"Hello()\"> This is paragraph two </p> </body> The function Hello() will be called every time:",
+    "answers": ["A and C"]
+  },
+  {
+    "question": "Consider the following code: 1 2 3 4 <body> <p> This is paragraph one </p> <p onclick = \"Hello()\"> This is paragraph two </p> </body> The function Hello() will be called every time:",
+    "answers": ["C) The user clicks on the second paragraph on the page"]
+  },
+  {
+    "question": "What is syntactically wrong with this function definition? 1 2 3 4 function Hello();{ alert(\"Hello\"); document.write(\"Hello on the screen\"); }",
+    "answers": ["The semicolon after Hello()"]
+  },
+  {
+    "question": "Which is the correct syntax to change the contents of the HTML element below? <p id = \"quiz\">This is a quiz. </p>",
+    "answers": ["document.getElementById('quiz').innerHTML = \"New content!\";"]
+  },
+  {
+    "question": "The following is valid JavaScript code: <button onclick=\"this.style.display='none'\">Click to Remove Me!</button>",
+    "answers": ["True"]
+  },
+  {
+    "question": "The following is valid JavaScript code: <button onclick=\"document.getElementById('demo').innerHTML = Date()\">The time is?</button>",
+    "answers": ["True"]
+  },
+  {
+    "question": "Arrays can store multiple, related pieces of information.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Array indexes start with 0. [0] is the first element. [1] is the second element, etc.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Arrays can store multiple, related pieces of information, but they must all be of the same type (String, Object, etc.).",
+    "answers": ["False"]
+  },
+  {
+    "question": "Array values are separated by commas.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Every index in an array must be a numeric value.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Elements are referenced by index.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In JavaScript the first index in an array is 0.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is the value of the element in position 2? 12 45 32 56 1 12 10",
+    "answers": ["32"]
+  },
+  {
+    "question": "What is the index of the element with the value of 2? 2 45 10 56 1 14 12",
+    "answers": ["0"]
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[5] ?",
+    "answers": ["Undefined"]
+  },
+  {
+    "question": "var my_array = [\"cat\", \"dog\", 1, 2] What is the value of my_array.length ?",
+    "answers": ["4"]
+  },
+  {
+    "question": "JavaScript Arrays have attributes and methods.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When declaring an array Spaces and line breaks are important. A declaration can not span multiple lines.",
+    "answers": ["False"]
+  },
+  {
+    "question": "How do you properly access the first element in an array variable named \"fruit\"",
+    "answers": ["fruit[0]"]
+  },
+  {
+    "question": "JavaScript can change all the HTML elements and HTML attributes in the page",
+    "answers": ["True"]
+  },
+  {
+    "question": "The querySelectorAll() method returns a collection of an element's child elements that match a specified CSS selector(s).",
+    "answers": ["True"]
+  },
+  {
+    "question": "You must include the # when selecting an id using the querySelector() method.",
+    "answers": ["*A: True"]
+  },
+  {
+    "question": "In JavaScript the keywords variable is used to declare a variable.",
+    "answers": ["False"]
+  },
+  {
+    "question": "To create a String variable, use quotes around the value you want to save.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What value is returned by 9 % 5?",
+    "answers": ["4"]
+  },
+  {
+    "question": "What is the logical operator for AND?",
+    "answers": ["&&"]
+  },
+  {
+    "question": "When a web page is loaded, the browser creates a Document Object Model of the page.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In JavaScript the keywords let and var are used to declare a variable.",
+    "answers": ["True"]
+  },
+  {
+    "question": "document.getElementById(idName) and document.querySelector(#idName) both return a single element.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following best defines the difference between defining a function and calling a function?",
+    "answers": ["You can define a function without calling it."]
+  },
+  {
+    "question": "One of the events that the JavaScript API will listen for is onpagereload.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In JavaScript, the this keyword refers to a(n):",
+    "answers": ["Object"]
+  },
+  {
+    "question": "JavaScript code must be placed in the <head> section of the document.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which word is used to define a function in JavaScript?",
+    "answers": ["function"]
+  },
+  {
+    "question": "One of the events that the JavaScript API will listen for is onresize.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is the index of the element with the value of 10? 12 45 10 56 1 14 12",
+    "answers": ["2"]
+  },
+  {
+    "question": "Which is the proper way to declare an array?",
+    "answers": ["var grades= [80, 87, 94, 82, 62, 98, 81, 81, 74, 91]"]
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[2] ?",
+    "answers": ["6"]
+  },
+  {
+    "question": "How do you properly access the third element in an array variable named \"fruit”?",
+    "answers": ["Use large fixed width elements."]
+  },
+  {
+    "question": "What is the value of the element in position 4? 12 45 32 56 1 12 10",
+    "answers": ["1"]
+  },
+  {
+    "question": "What is the index of the element with the value of 10? 12 45 32 56 1 12 10",
+    "answers": ["6"]
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array.length ?",
+    "answers": ["5"]
+  },
+  {
+    "question": "What is the value of the element in position 1? 12 45 32 56 1 12 10",
+    "answers": ["45"]
+  },
+  {
+    "question": "var my_array = [2, 4, 6, 8, 10] What is the value of my_array[4] ?",
+    "answers": ["10"]
+  },
+  {
+    "question": "Responsive Web Design is...",
+    "answers": [
+      "Designing pages for multiple platforms by incorporating fluid measurements and varying CSS rules."
+    ]
+  },
+  {
+    "question": "Adaptive design with dynamic serving is....",
+    "answers": [
+      "Designing multiple pages, one for each type of major device (phone, tablet, laptop, and desktop) and returning the appropriate version based on the device making the page request."
+    ]
+  },
+  {
+    "question": "Which of the following is a true statement about using a separate \"m.\" site for your content?",
+    "answers": [
+      "It is difficult to keep multiple versions of your site consistent. Any updates must be made in multiple places."
+    ]
+  },
+  {
+    "question": "The mobile version of your web page should have the same capabilities of every other version of your site.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which fluid measurement type returns a percentage of the viewport height?",
+    "answers": ["vh"]
+  },
+  {
+    "question": "When defining a measurement whitespace you must include the unit - even when the measurement is 0.",
+    "answers": ["False"]
+  },
+  {
+    "question": "For some CSS properties, negative lengths are allowed.",
+    "answers": ["True"]
+  },
+  {
+    "question": "1 _____ = 1% of viewport width",
+    "answers": ["vw"]
+  },
+  {
+    "question": "An em is the size of an uppercase M in any typeface, making the size relative to the font.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which term matches the browser window size?",
+    "answers": ["viewport"]
+  },
+  {
+    "question": "Which suggestion does Chris Coyier make in his article on Font Size?",
+    "answers": ["px at the Root, rem for Components, em for Text Elements"]
+  },
+  {
+    "question": "If you have an element with the font size of 18px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)",
+    "answers": ["9"]
+  },
+  {
+    "question": "Which measurement is easier and comfortable for the designer/ developer to use when coding their CSS but does not provide the best experience for the user?",
+    "answers": ["px"]
+  },
+  {
+    "question": "A tool you install on your browser so that you do not need to go to a different tab to test a site is called",
+    "answers": ["an extension"]
+  },
+  {
+    "question": "Which line of code gives the browser instructions on how to control the page's dimensions and scaling?",
+    "answers": [
+      "1 <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+    ]
+  },
+  {
+    "question": "Which of the following code segments will keep people from being able to zoom in or out on your content?",
+    "answers": [
+      "1 2 <meta name = ‘viewport’ content=‘width=device-width, initial-scale=1, maximum-scale = 1’>"
+    ]
+  },
+  {
+    "question": "When designing mobile first you should use max-width in your media query.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which term is used to define the different viewport sizes that trigger media queries?",
+    "answers": ["breakpoint"]
+  },
+  {
+    "question": "Breakpoints often correspond with common screen sizes for phones, tablets, and laptops, but it is not necessary.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can use media queries to change the layout of your page when the orientation of a mobile device changes from portrait to landscape.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?",
+    "answers": ["80%"]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 10 @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on a 750px screen?",
+    "answers": ["80%"]
+  },
+  {
+    "question": "Consider the following CSS rule: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?",
+    "answers": [
+      "The div elements will have a width of 25% only when the page is printed"
+    ]
+  },
+  {
+    "question": "Wireframes should...",
+    "answers": ["specify the layout and content of your pages"]
+  },
+  {
+    "question": "When modifying your layout from small screen to larger screen it is common to go from a vertical to horizontal layout for your navigation.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is NOT a fluid measurement",
+    "answers": ["px"]
+  },
+  {
+    "question": "The mobile version of your web page should have the same layout of every other version of your site.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Responsive sites can have a mixture of fluid and absolute measurements.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When defining a measurement whitespace cannot appear between the number and the unit unless the value is 0.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following measurements is relative to the size of its parent element?",
+    "answers": ["em"]
+  },
+  {
+    "question": "If you have an element with the font size of 32px, and a child element inside with a a font-size set to 2em, what is the font size of the child in px? (Provide a number only, not the measurement too.)",
+    "answers": ["64"]
+  },
+  {
+    "question": "HTML5 introduced a method to let web designers take control over the viewport. The new tag is the ______ tag.",
+    "answers": ["meta"]
+  },
+  {
+    "question": "Which of the following should you NOT do when creating a responsive page?",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 10 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 350px screen?",
+    "answers": ["80%"]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 div{ width: 80%; } @media print { div{ width: 25%; } } Which of the following is a true statement?",
+    "answers": [
+      "The div elements will have a width of 25% only when the page is printed"
+    ]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 @media all and (min-width: 500px){ div{ width: 25%; } } div{ width: 80%; } What is the width of any div elements on a 750px screen?",
+    "answers": ["80%"]
+  },
+  {
+    "question": "Consider the following CSS rules: 1 2 3 4 5 6 7 8 9 div{ width: 80%; } @media all and (min-width: 500px){ div{ width: 25%; } } What is the width of any div elements on a 750px screen?",
+    "answers": ["25%"]
+  },
+  {
+    "question": "Consider the following code using Bootstrap: 1 <div class = \"col-md-3 col-lg-7\"> In a md viewport the div will be _____ columns wide.",
+    "answers": ["3"]
+  },
+  {
+    "question": "The Bootstrap grid system is based on how many columns?",
+    "answers": ["12"]
+  },
+  {
+    "question": "Every major web browser supports reduce-motion, including Chrome, Edge, Firefox, Safari, and Opera.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The default value for (prefers-reduced-motion) without is \"reduce\".",
+    "answers": ["True"]
+  },
+  {
+    "question": "The possible values for the prefers-contrast CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer – prefers-contrast - CSS: Cascading Style Sheets | MDN .)",
+    "answers": ["True"]
+  },
+  {
+    "question": "The possible values for the prefers-color-scheme CSS media feature include light and dark.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which fluid measurement type returns a percentage of the viewport width?",
+    "answers": ["vw"]
+  },
+  {
+    "question": "The fluid measurement % can only be used on non-textual elements",
+    "answers": ["False"]
+  },
+  {
+    "question": "If you have an element with the font size of 24px, and a child element inside with a font-size set to .5em, what is the font size of the child in px? (Provide a number only, not the measurement too.)",
+    "answers": ["12"]
+  },
+  {
+    "question": "When designing mobile first, instead of changing styles when the width gets smaller, we should change the design when the width gets larger.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can add as many breakpoints as you want.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In tech when something is \"deprecated\" it means",
+    "answers": [
+      "software developers are no longer actively supporting it, so its use is discouraged."
+    ]
+  },
+  {
+    "question": "When designing your site you should choose your breakpoints based on specific device sizes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A key component of your wireframes should test",
+    "answers": ["interaction"]
+  },
+  {
+    "question": "Consider the following code using Bootstrap: 1 <div class = \"col-sm-2 col-lg-4\"> In a lg viewport the div will be _____ columns wide.",
+    "answers": ["4"]
+  },
+  {
+    "question": "Bootstrap is mobile-first.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The best way to improve accessibility on your page is to eliminate all animation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The possible values for the prefers-contrast CSS media feature include light and dark.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The possible values for the prefers-color-scheme CSS media feature include more, less, and custom. (Not sure? Here is a link to help you find the answer – prefers-color-scheme - CSS: Cascading Style Sheets | MDN .)",
+    "answers": ["False"]
+  },
+  {
+    "question": "Write a media query that changes the background color of the screen from red, to blue, to green as the screen gets larger. If you have problems, you can post your answer to replit or codepen and link your code to the forums. However, please do not post your code directly in the forums. People like to have the opportunity to work on it on their own before seeing other's answer. If you really want a challenge, set a different background image of your page depending upon the screen size!! I have provided a correct answer as feedback.",
+    "answers": [
+      "If you have problems, you can post your answer to replit or codepen and link your code to the forums. However, please do not post your code directly in the forums. People like to have the opportunity to work on it on their own before seeing other's answer. If you really want a challenge, set a different background image of your page depending upon the screen size!! I have provided a correct answer as feedback."
+    ]
+  }
+]

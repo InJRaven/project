@@ -1,0 +1,997 @@
+[
+  {
+    "question": "When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?",
+    "answers": [
+      "What Python statement would you like me to run?",
+      "What would you like to do?"
+    ]
+  },
+  {
+    "question": "What will the following program print out: 1 2 3 >>> x = 15 >>> x = x + 5 >>> print(x)",
+    "answers": ["20"]
+  },
+  {
+    "question": "Python scripts (files) have names that end with:",
+    "answers": [".py"]
+  },
+  {
+    "question": "Which of these words is a reserved word in Python ?",
+    "answers": ["while"]
+  },
+  {
+    "question": "What is the proper way to say “good-bye” to Python?",
+    "answers": ["quit()"]
+  },
+  {
+    "question": "Which of the parts of a computer actually executes the program instructions?",
+    "answers": ["Central Processing Unit"]
+  },
+  {
+    "question": "What is \"code\" in the context of this course?",
+    "answers": ["A sequence of instructions in a programming language"]
+  },
+  {
+    "question": "A USB memory stick is an example of which of the following components of computer architecture?",
+    "answers": ["Secondary Memory"]
+  },
+  {
+    "question": "What is the best way to think about a \"Syntax Error\" while programming?",
+    "answers": [
+      "The computer did not understand the statement that you entered"
+    ]
+  },
+  {
+    "question": "Which of the following is not one of the programming patterns covered in Chapter 1?",
+    "answers": ["Random steps"]
+  },
+  {
+    "question": "Which of these words are reserved words in Python ?",
+    "answers": ["if", "break"]
+  },
+  {
+    "question": "Which of the following is a comment in Python?",
+    "answers": ["# This is a test"]
+  },
+  {
+    "question": "In the following code, 1 print(98.6) What is \"98.6\"?",
+    "answers": ["A constant"]
+  },
+  {
+    "question": "In the following code,1x = 42",
+    "answers": ["A variable"]
+  },
+  {
+    "question": "Which of the following variables is the \"most mnemonic\"?",
+    "answers": ["hours"]
+  },
+  {
+    "question": "Which of the following is not a Python reserved word?",
+    "answers": ["iterate", "spam"]
+  },
+  {
+    "question": "Which of the following is a bad Python variable name?",
+    "answers": ["spam.23", "23spam"]
+  },
+  {
+    "question": "Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do? 1 x = x + 2",
+    "answers": [
+      "Retrieve the current value for x, add two to it, and put the sum back into x",
+      "Retrieve the current value for x, add two to it and put the sum back into x"
+    ]
+  },
+  {
+    "question": "Which of the following elements of a mathematical expression in Python is evaluated first?",
+    "answers": ["Parentheses ( )"]
+  },
+  {
+    "question": "What is the value of the following expression 1 42 % 10 Hint - the \"%\" is the remainder operator",
+    "answers": ["2"]
+  },
+  {
+    "question": "What will be the value of x after the following statement executes: 1 x = 1 + 2 * 3 - 8 / 4",
+    "answers": ["5.0"]
+  },
+  {
+    "question": "What will be the value of x when the following statement is executed: 1 x = int(98.6)",
+    "answers": ["98"]
+  },
+  {
+    "question": "What does the Python input() function do?",
+    "answers": ["Pause the program and read data from the user"]
+  },
+  {
+    "question": "What do we do to a Python statement that is immediately after an if statement to indicate that the statement is to be executed only when the if statement is true?",
+    "answers": ["Indent the line below the if statement"]
+  },
+  {
+    "question": "Which of these operators is not a comparison / logical operator?",
+    "answers": ["="]
+  },
+  {
+    "question": "What is true about the following code segment: 1 2 3 4 if x == 5 : print('Is 5') print('Is Still 5') print('Third 5')",
+    "answers": [
+      "Depending on the value of x, either all three of the print statements will execute or none of the statements will execute"
+    ]
+  },
+  {
+    "question": "When you have multiple lines in an if block, how do you indicate the end of the if block?",
+    "answers": [
+      "You de-indent the next line past the if block to the same level of indent as the original if statement"
+    ]
+  },
+  {
+    "question": "You look at the following text: 1 2 3 4 if x == 6 : print('Is 6') print('Is Still 6') print('Third 6') It looks perfect but Python is giving you an 'Indentation Error' on the second print statement. What is the most likely reason?",
+    "answers": ["You have mixed tabs and spaces in the file"]
+  },
+  {
+    "question": "What is the Python reserved word that we use in two-way if tests to indicate the block of code that is to be executed if the logical test is false?",
+    "answers": ["else"]
+  },
+  {
+    "question": "What will the following code print out? 1 2 3 4 5 6 7 8 x = 0 if x < 2 : print('Small') elif x < 10 : print('Medium') else : print('LARGE') print('All done')",
+    "answers": ["Small All done"]
+  },
+  {
+    "question": "For the following code, 1 2 3 4 5 6 if x < 2 : print('Below 2') elif x >= 2 : print('Two or more') else : print('Something else') What value of 'x' will cause 'Something else' to print out?",
+    "answers": [
+      "This code will never print 'Something else' regardless of the value for 'x'"
+    ]
+  },
+  {
+    "question": "In the following code (numbers added) - which will be the last line to execute successfully? 1 2 3 4 5 6 (1) astr = 'Hello Bob' (2) istr = int(astr) (3) print('First', istr) (4) astr = '123' (5) istr = int(astr) (6) print('Second', istr) ",
+    "answers": ["1"]
+  },
+  {
+    "question": "For the following code: 1 2 3 4 5 6 astr = 'Hello Bob' istr = 0 try: istr = int(astr) except: istr = -1 What will the value be for istr after this code executes?",
+    "answers": ["-1"]
+  },
+  {
+    "question": "Which Python keyword indicates the start of a function definition?",
+    "answers": ["def"]
+  },
+  {
+    "question": "In Python, how do you indicate the end of the block of code that makes up the function?",
+    "answers": [
+      "You de-indent a line of code to the same indent level as the def keyword"
+    ]
+  },
+  {
+    "question": "In Python what is the input() feature best described as?",
+    "answers": ["A built-in function"]
+  },
+  {
+    "question": "What does the following code print out? 1 2 3 4 def thing(): print('Hello') print('There')",
+    "answers": ["There"]
+  },
+  {
+    "question": "In the following Python code, which of the following is an \"argument\" to a function? 1 2 3 x = 'banana' y = max(x) print(y)",
+    "answers": ["'banana'"]
+  },
+  {
+    "question": "What will the following Python code print out? 1 2 3 4 5 def func(x) : print(x) func(10) func(20)",
+    "answers": ["10 20"]
+  },
+  {
+    "question": "Which line of the following Python program will never execute? 1 2 3 4 5 6 def stuff(): print('Hello') return print('World') stuff()",
+    "answers": ["print ('World')"]
+  },
+  {
+    "question": "What will the following Python program print out? 1 2 3 4 5 6 7 8 9 def greet(lang): if lang == 'es': return 'Hola' elif lang == 'fr': return 'Bonjour' else: return 'Hello' print(greet('fr'),'Michael')",
+    "answers": ["Bonjour Michael"]
+  },
+  {
+    "question": "What does the following Python code print out? (Note that this is a bit of a trick question and the code has what many would consider to be a flaw/bug - so read carefully). 1 2 3 4 5 6 def addtwo(a, b): added = a + b return a x = addtwo(2, 7) print(x)",
+    "answers": ["2"]
+  },
+  {
+    "question": "What is the most important benefit of writing your own functions?",
+    "answers": [
+      "Avoiding writing the same non-trivial code more than once in your program"
+    ]
+  },
+  {
+    "question": "What is wrong with this Python loop: 1 2 3 4 n = 5 while n > 0 : print(n) print('All done')",
+    "answers": ["This loop will run forever"]
+  },
+  {
+    "question": "What does the break statement do?",
+    "answers": ["Exits the currently executing loop"]
+  },
+  {
+    "question": "What does the following Python program print out? 1 2 3 4 tot = 0 for i in [5, 4, 3, 2, 1] : tot = tot + 1 print(tot)",
+    "answers": ["5"]
+  },
+  {
+    "question": "What does the continue statement do?",
+    "answers": [
+      "Jumps to the \"top\" of the loop and starts the next iteration"
+    ]
+  },
+  {
+    "question": "What is the iteration variable in the following Python code: 1 2 3 4 friends = ['Joseph', 'Glenn', 'Sally'] for friend in friends : print('Happy New Year:', friend) print('Done!') ",
+    "answers": ["friend"]
+  },
+  {
+    "question": "What is a good description of the following bit of Python code? 1 2 3 4 zork = 0 for thing in [9, 41, 12, 3, 74, 15] : zork = zork + thing print('After', zork)",
+    "answers": ["Sum all the elements of a list"]
+  },
+  {
+    "question": "What will the following code print out? 1 2 3 4 5 smallest_so_far = -1 for the_num in [9, 41, 12, 3, 74, 15] : if the_num < smallest_so_far : smallest_so_far = the_num print(smallest_so_far) Hint: This is a trick question and most would say this code has a bug - so read carefully",
+    "answers": ["-1"]
+  },
+  {
+    "question": "What is a good statement to describe the is operator as used in the following if statement: 1 2 if smallest is None : smallest = value",
+    "answers": ["matches both type and value"]
+  },
+  {
+    "question": "Which reserved word indicates the start of an \"indefinite\" loop in Python?",
+    "answers": ["while"]
+  },
+  {
+    "question": "How many times will the body of the following loop be executed? 1 2 3 4 5 n = 0 while n > 0 : print('Lather') print('Rinse') print('Dry off!')",
+    "answers": ["0"]
+  },
+  {
+    "question": "What does the following code print out? 1 print(\"123\" + \"abc\")",
+    "answers": ["123abc"]
+  },
+  {
+    "question": "What does the following Python Program print out? 1 2 3 4 str1 = \"Hello\" str2 = 'there' bob = str1 + str2 print(bob)",
+    "answers": ["Hellothere"]
+  },
+  {
+    "question": "What does the following Python program print out? 1 2 3 x = '40' y = int(x) + 2 print(y)",
+    "answers": ["42"]
+  },
+  {
+    "question": "How would you use the index operator [] to print out the letter q from the following string? 1 x = 'From marquard@uct.ac.za'",
+    "answers": ["print(x[8])"]
+  },
+  {
+    "question": "How would you use string slicing [:] to print out 'uct' from the following string? 1 x = 'From marquard@uct.ac.za'",
+    "answers": ["print(x[14:17])"]
+  },
+  {
+    "question": "What is the iteration variable in the following Python code? 1 2 for letter in 'banana' : print(letter)",
+    "answers": ["letter"]
+  },
+  {
+    "question": "What does the following Python code print out? 1 print(len('banana')*7)",
+    "answers": ["42"]
+  },
+  {
+    "question": "How would you print out the following variable in all upper case in Python? 1 greet = 'Hello Bob'",
+    "answers": ["1 print(greet.upper())"]
+  },
+  {
+    "question": "Which of the following is not a valid string method in Python?",
+    "answers": ["twist()", "boldface()"]
+  },
+  {
+    "question": "What will the following Python code print out? 1 2 3 data = 'From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008' pos = data.find('.') print(data[pos:pos+3])",
+    "answers": [".ma"]
+  },
+  {
+    "question": "Which of the following string methods removes whitespace from both the beginning and end of a string?",
+    "answers": ["strip()"]
+  },
+  {
+    "question": "Given the architecture and terminology we introduced in Chapter 1, where are files stored?",
+    "answers": ["Secondary memory"]
+  },
+  {
+    "question": "What is stored in a \"file handle\" that is returned from a successful open() call?",
+    "answers": ["The handle is a connection to the file's data"]
+  },
+  {
+    "question": "What do we use the second parameter of the open() call to indicate?",
+    "answers": [
+      "Whether we want to read data from the file or write data to the file"
+    ]
+  },
+  {
+    "question": "What is the purpose of the newline character in text files?",
+    "answers": [
+      "It indicates the end of one line of text and the beginning of another line of text"
+    ]
+  },
+  {
+    "question": "What Python function would you use if you wanted to prompt the user for a file name to open?",
+    "answers": ["input()"]
+  },
+  {
+    "question": "If we open a file as follows: 1 xfile = open('mbox.txt') What statement would we use to read the file one line at a time?",
+    "answers": ["1 for line in xfile:"]
+  },
+  {
+    "question": "What is the purpose of the following Python code? 1 2 3 4 5 fhand = open('mbox.txt') x = 0 for line in fhand: x = x + 1 print(x)",
+    "answers": ["Count the lines in the file 'mbox.txt'"]
+  },
+  {
+    "question": "If you write a Python program to read a text file and you see extra blank lines in the output that are not present in the file input as shown below, what Python string function will likely solve the problem? 1 2 3 4 5 6 7 8 9 From: stephen.marquard@uct.ac.za From: louis@media.berkeley.edu From: zqian@umich.edu From: rjlowe@iupui.edu ...",
+    "answers": ["rstrip()"]
+  },
+  {
+    "question": "The following code sequence fails with a traceback when the user enters a file that does not exist. How would you avoid the traceback and make it so you could print out your own error message when a bad file name was entered? 1 2 fname = input('Enter the file name: ') fhand = open(fname)",
+    "answers": ["try / except"]
+  },
+  {
+    "question": "What does the following Python code do? 1 2 fhand = open('mbox-short.txt') inp = fhand.read()",
+    "answers": ["Reads the entire file into the variable inp as a string"]
+  },
+  {
+    "question": "How are \"collection\" variables different from normal variables?",
+    "answers": [
+      "Collection variables can store multiple values in a single variable"
+    ]
+  },
+  {
+    "question": "What are the Python keywords used to construct a loop to iterate through a list?",
+    "answers": ["for / in"]
+  },
+  {
+    "question": "For the following list, how would you print out 'Sally'? 1 friends = [ 'Joseph', 'Glenn', 'Sally' ]",
+    "answers": ["print(friends[2])"]
+  },
+  {
+    "question": "What would the following Python code print out? 1 2 3 fruit = 'Banana' fruit[0] = 'b' print(fruit)",
+    "answers": [
+      "Nothing would print - the program fails with a traceback error"
+    ]
+  },
+  {
+    "question": "Which of the following Python statements would print out the length of a list stored in the variable data?",
+    "answers": ["print(len(data))"]
+  },
+  {
+    "question": "What type of data is produced when you call the range() function? 1 x = list(range(5))",
+    "answers": ["A list of integers"]
+  },
+  {
+    "question": "What does the following Python code print out? 1 2 3 4 a = [1, 2, 3] b = [4, 5, 6] c = a + b print(len(c))",
+    "answers": ["6"]
+  },
+  {
+    "question": "Which of the following slicing operations will produce the list [12, 3]? 1 t = [9, 41, 12, 3, 74, 15]",
+    "answers": ["t[2:4]"]
+  },
+  {
+    "question": "What list method adds a new item to the end of an existing list?",
+    "answers": ["append()"]
+  },
+  {
+    "question": "What will the following Python code print out? 1 2 3 friends = [ 'Joseph', 'Glenn', 'Sally' ] friends.sort() print(friends[0])",
+    "answers": ["Glenn"]
+  },
+  {
+    "question": "Which of the following lines of Python is equivalent to the following sequence of statements assuming that counts is a dictionary? 1 2 3 4 if key in counts: counts[key] = counts[key] + 1 else: counts[key] = 1",
+    "answers": ["counts[key] = counts.get(key,0) + 1"]
+  },
+  {
+    "question": "How are Python dictionaries different from Python lists?",
+    "answers": [
+      "Python lists are indexed using integers and dictionaries can use strings as indexes"
+    ]
+  },
+  {
+    "question": "What is a term commonly used to describe the Python dictionary feature in other programming languages?",
+    "answers": ["Associative arrays"]
+  },
+  {
+    "question": "What would the following Python code print out? 1 2 stuff = dict() print(stuff['candy'])",
+    "answers": ["The program would fail with a traceback"]
+  },
+  {
+    "question": "What would the following Python code print out? 1 2 stuff = dict() print(stuff.get('candy',-1))",
+    "answers": ["-1"]
+  },
+  {
+    "question": "What is a common use of Python dictionaries in a program?",
+    "answers": [
+      "Building a histogram counting the occurrences of various strings in a file"
+    ]
+  },
+  {
+    "question": "In the following Python, what does the for loop iterate through? 1 2 3 4 x = dict() ... for y in x : ...",
+    "answers": ["It loops through the keys in the dictionary"]
+  },
+  {
+    "question": "Which method in a dictionary object gives you a list of the values in the dictionary?",
+    "answers": ["values()"]
+  },
+  {
+    "question": "What is the purpose of the second parameter of the get() method for Python dictionaries?",
+    "answers": ["To provide a default value if the key is not found"]
+  },
+  {
+    "question": "What is the difference between a Python tuple and Python list?",
+    "answers": ["Lists are mutable and tuples are not mutable"]
+  },
+  {
+    "question": "Which of the following methods work both in Python lists and Python tuples?",
+    "answers": ["index()"]
+  },
+  {
+    "question": "What will end up in the variable y after this code is executed? 1 x , y = 3, 4",
+    "answers": ["4"]
+  },
+  {
+    "question": "In the following Python code, what will end up in the variable y? 1 2 x = { 'chuck' : 1 , 'fred' : 42, 'jan': 100} y = x.items()",
+    "answers": ["A list of tuples"]
+  },
+  {
+    "question": "Which of the following tuples is greater than x in the following Python sequence? 1 2 3 x = (5, 1, 3) if ??? > x : ...",
+    "answers": ["(6, 0, 0)"]
+  },
+  {
+    "question": "What does the following Python code accomplish, assuming the c is a non-empty dictionary? 1 2 3 tmp = list() for k, v in c.items() : tmp.append( (v, k) )",
+    "answers": [
+      "It creates a list of tuples where each tuple is a value, key pair"
+    ]
+  },
+  {
+    "question": "If the variable data is a Python list, how do we sort it in reverse order?",
+    "answers": ["data.sort(reverse=True)"]
+  },
+  {
+    "question": "Using the following tuple, how would you print 'Wed'? 1 days = ('Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun')",
+    "answers": ["print(days[2])"]
+  },
+  {
+    "question": "In the following Python loop, why are there two iteration variables (k and v)? 1 2 3 c = {'a':10, 'b':1, 'c':22} for k, v in c.items() : ...",
+    "answers": [
+      "Because the items() method in dictionaries returns a list of tuples"
+    ]
+  },
+  {
+    "question": "Given that Python lists and Python tuples are quite similar - when might you prefer to use a tuple over a list?",
+    "answers": [
+      "For a temporary variable that you will use and discard without modifying"
+    ]
+  },
+  {
+    "question": "Which of the following regular expressions would extract 'uct.ac.za' from this string using re.findall? 1 From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008",
+    "answers": ["@(\\S+)"]
+  },
+  {
+    "question": "What will the '\\$' regular expression match?",
+    "answers": ["A dollar sign"]
+  },
+  {
+    "question": "What would the following mean in a regular expression? [a-z0-9]",
+    "answers": ["Match a lowercase letter or a digit"]
+  },
+  {
+    "question": "What is the type of the return value of the re.findall() method?",
+    "answers": ["A list of strings"]
+  },
+  {
+    "question": "What is the \"wild card\" character in a regular expression (i.e., the character that matches any character)?",
+    "answers": ["."]
+  },
+  {
+    "question": "What is the difference between the \"+\" and \"*\" character in regular expressions?",
+    "answers": [
+      "The \"+\" matches at least one character and the \"*\" matches zero or more characters"
+    ]
+  },
+  {
+    "question": "What does the \"[0-9]+\" match in a regular expression?",
+    "answers": ["One or more digits"]
+  },
+  {
+    "question": "What does the following Python sequence print out? 1 2 3 x = 'From: Using the : character' y = re.findall('^F.+:', x) print(y)",
+    "answers": ["['From: Using the :']"]
+  },
+  {
+    "question": "What character do you add to the \"+\" or \"*\" to indicate that the match is to be done in a non-greedy manner?",
+    "answers": ["?"]
+  },
+  {
+    "question": "What do we call it when a browser uses the HTTP protocol to load a file or page from a server and display it in the browser?",
+    "answers": ["The Request/Response Cycle"]
+  },
+  {
+    "question": "Which of the following is most similar to a TCP port number?",
+    "answers": ["A telephone extension"]
+  },
+  {
+    "question": "What must you do in Python before opening a socket?",
+    "answers": ["import socket"]
+  },
+  {
+    "question": "In a client-server application on the web using sockets, which must come up first?",
+    "answers": ["server"]
+  },
+  {
+    "question": "What separates the HTTP headers from the body of the HTTP document?",
+    "answers": ["A blank line"]
+  },
+  {
+    "question": "Which of the following is most like an open socket in an application?",
+    "answers": ["An \"in-progress\" phone conversation"]
+  },
+  {
+    "question": "What does the \"H\" of HTTP stand for?",
+    "answers": ["HyperText"]
+  },
+  {
+    "question": "What is an important aspect of an Application Layer protocol like HTTP?",
+    "answers": ["Which application talks first? The client or server?"]
+  },
+  {
+    "question": "What are the three parts of this URL (Uniform Resource Locator)? 1 http://www.dr-chuck.com/page1.htm",
+    "answers": ["Protocol, host, and document"]
+  },
+  {
+    "question": "When you click on an anchor tag in a web page like below, what HTTP request is sent to the server? 1 2 <p>Please click <a href=\"page1.htm\">here</a>.</p>",
+    "answers": ["GET"]
+  },
+  {
+    "question": "Which organization publishes Internet Protocol Standards?",
+    "answers": ["IETF"]
+  },
+  {
+    "question": "Which of the following Python data structures is most similar to the value returned in this line of Python: 1 x = urllib.request.urlopen('http://data.pr4e.org/romeo.txt')",
+    "answers": ["file handle"]
+  },
+  {
+    "question": "In this Python code, which line actually reads the data? 1 2 3 4 5 6 7 8 9 10 11 12 13 import socket mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) mysock.connect(('data.pr4e.org', 80)) cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\\n\\n'.encode() mysock.send(cmd) while True: data = mysock.recv(512) if (len(data) < 1): break print(data.decode()) mysock.close()",
+    "answers": ["mysock.recv()"]
+  },
+  {
+    "question": "Which of the following regular expressions would extract the URL from this line of HTML: 1 <p>Please click <a href=\"http://www.dr-chuck.com\">here</a></p>",
+    "answers": ["href=\"(.+)\""]
+  },
+  {
+    "question": "In this Python code, which line is most like the open() call to read a file: 1 2 3 4 5 6 7 8 9 10 11 12 13 import socket mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) mysock.connect(('data.pr4e.org', 80)) cmd = 'GET http://data.pr4e.org/romeo.txt HTTP/1.0\\n\\n'.encode() mysock.send(cmd) while True: data = mysock.recv(512) if (len(data) < 1): break print(data.decode()) mysock.close()",
+    "answers": ["mysock.connect()"]
+  },
+  {
+    "question": "Which HTTP header tells the browser the kind of document that is being returned?",
+    "answers": ["Content-Type:"]
+  },
+  {
+    "question": "What should you check before scraping a web site?",
+    "answers": ["That the web site allows scraping"]
+  },
+  {
+    "question": "What is the purpose of the BeautifulSoup Python library?",
+    "answers": [
+      "It repairs and parses HTML to make it easier for a program to understand"
+    ]
+  },
+  {
+    "question": "What ends up in the \"x\" variable in the following code: 1 2 3 html = urllib.request.urlopen(url).read() soup = BeautifulSoup(html, 'html.parser') x = soup('a')",
+    "answers": ["A list of all the anchor tags (<a..) in the HTML from the URL"]
+  },
+  {
+    "question": "What is the most common Unicode encoding when moving data between systems?",
+    "answers": ["UTF-8"]
+  },
+  {
+    "question": "What is the decimal (Base-10) numeric value for the upper case letter \"G\" in the ASCII character set?",
+    "answers": ["71"]
+  },
+  {
+    "question": "What word does the following sequence of numbers represent in ASCII: 108, 105, 110, 101",
+    "answers": ["line"]
+  },
+  {
+    "question": "What word does the following sequence of numbers represent in ASCII: 108, 105, 115, 116",
+    "answers": ["list"]
+  },
+  {
+    "question": "How are strings stored internally in Python 3?",
+    "answers": ["Unicode"]
+  },
+  {
+    "question": "When reading data across the network (i.e. from a URL) in Python 3, what method must be used to convert it to the internal format used by strings?",
+    "answers": ["decode()"]
+  },
+  {
+    "question": "What is \"serialization\" when we are talking about web services?",
+    "answers": [
+      "The act of taking data stored in a program and formatting it so it can be sent across the network"
+    ]
+  },
+  {
+    "question": "Which of the following lines will never print out regardless of the value of \"x\"? 1 2 3 4 5 6 if x < 2 : print(\"Below 2\") elif x < 0 : print(\"Negative\") else : print(\"Something else\")",
+    "answers": ["Negative"]
+  },
+  {
+    "question": "Which of the following lines will never print out regardless of the value for x? 1 2 3 4 5 6 7 8 if x < 2 : print(\"Below 2\") elif x < 20 : print(\"Below 20\") elif x < 10 : print(\"Below 10\") else : print(\"Something else\")",
+    "answers": ["Below 10"]
+  },
+  {
+    "question": "What would the following Python code sequence print out? 1 2 zap = \"hello there bob\" print(zap[4])",
+    "answers": ["o"]
+  },
+  {
+    "question": "Which of the following lines of Python code contains a syntax error? 3 4 5 6 print(\"smaller\") else: print(\"bigger\") print(\"all done\")",
+    "answers": ["3"]
+  },
+  {
+    "question": "What is the name of the Python 2.x library to parse XML data?",
+    "answers": ["xml.etree.ElementTree"]
+  },
+  {
+    "question": "Which of the following are not commonly used serialization formats?",
+    "answers": ["HTTP", "Dictionaries", "TCP"]
+  },
+  {
+    "question": "What is the method to cause Python to parse XML that is stored in a string?",
+    "answers": ["fromstring()"]
+  },
+  {
+    "question": "In this XML, which are the \"complex elements\"?",
+    "answers": ["people", "person"]
+  },
+  {
+    "question": "In the following XML, which are attributes?",
+    "answers": ["type", "hide"]
+  },
+  {
+    "question": "In the following XML, which node is the parent node of node e",
+    "answers": ["c"]
+  },
+  {
+    "question": "Looking at the following XML, what text value would we find at path \"/a/c/e\"",
+    "answers": ["Z"]
+  },
+  {
+    "question": "What is the purpose of XML Schema?",
+    "answers": ["To establish a contract as to what is valid XML"]
+  },
+  {
+    "question": "If you were building an XML Schema and wanted to limit the values allowed in an xs:string field to only those in a particular list, what XML tag would you use in your XML Schema definition?",
+    "answers": ["xs:enumeration"]
+  },
+  {
+    "question": "What is a good time zone to use when computers are exchanging data over APIs?",
+    "answers": ["Universal Time / GMT"]
+  },
+  {
+    "question": "What does the \"Z\" mean in this representation of a time: 1 2002-05-30T09:30:10Z",
+    "answers": ["his time is in the UTC timezone"]
+  },
+  {
+    "question": "Which of the following dates is in ISO8601 format?",
+    "answers": ["2002-05-30T09:30:10Z"]
+  },
+  {
+    "question": "Who is credited with getting the JSON movement started?",
+    "answers": ["Douglas Crockford"]
+  },
+  {
+    "question": "Who is credited with the REST approach to web services?",
+    "answers": ["Roy Fielding"]
+  },
+  {
+    "question": "What Python library do you have to import to parse and handle JSON?",
+    "answers": ["import json"]
+  },
+  {
+    "question": "What is the method used to parse a string containing JSON data so that you can work with the data in Python?",
+    "answers": ["json.loads()"]
+  },
+  {
+    "question": "What kind of variable will you get in Python when the following JSON is parsed: 1 [ \"Glenn\", \"Sally\", \"Jen\" ]",
+    "answers": [""]
+  },
+  {
+    "question": "What kind of variable will you get in Python when the following JSON is parsed: 1 2 3 4 { \"id\" : \"001\", \"x\" : \"2\", \"name\" : \"Chuck\" }",
+    "answers": ["A dictionary with three key / value pairs"]
+  },
+  {
+    "question": "Which of the following is not true about the service-oriented approach? ",
+    "answers": ["An application runs together all in one place"]
+  },
+  {
+    "question": "Which of these two web service approaches is preferred in most modern service-oriented applications?",
+    "answers": ["REST - Representational state transfer"]
+  },
+  {
+    "question": "What library call do you make to append properly encoded parameters to the end of a URL like the following: 1 http://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=Ann+Arbor%2C+MI",
+    "answers": ["urllib.parse.urlencode()"]
+  },
+  {
+    "question": "what Python code would extract \"Leah Culver\" from the JSON?",
+    "answers": ["x[\"users\"][0][\"name\"]"]
+  },
+  {
+    "question": "What is one advantage of a Service Oriented Architecture?",
+    "answers": [
+      "An application can be developed that makes use of data provided by other organizations"
+    ]
+  },
+  {
+    "question": "What happens when you exceed the Google geocoding API rate limit?",
+    "answers": ["You cannot use the API for 24 hour"]
+  },
+  {
+    "question": "What protocol does Twitter use to protect its API?",
+    "answers": ["OAuth"]
+  },
+  {
+    "question": "When accessing API end points, what is OAuth typically used for?",
+    "answers": ["Providing security credentials to access the API"]
+  },
+  {
+    "question": "What Python package is used to parse XML?",
+    "answers": ["xml.etree.ElementTree"]
+  },
+  {
+    "question": "What header does Twitter use to tell you how many more API requests you can make before you will be rate limited?",
+    "answers": ["x-rate-limit-remaining"]
+  },
+  {
+    "question": "Which came first, the instance or the class?",
+    "answers": ["class"]
+  },
+  {
+    "question": "In Object Oriented Programming, what is another name for the \"attributes\" of an object?",
+    "answers": ["fields"]
+  },
+  {
+    "question": "At the moment of creation of a new object, Python looks at the _________ definition to define the structure and capabilities of the newly created object.",
+    "answers": ["class"]
+  },
+  {
+    "question": "Which of the following is NOT a good synonym for \"class\" in Python?",
+    "answers": ["direction"]
+  },
+  {
+    "question": "What does this Python statement do if PartyAnimal is a class? 1 zap = PartyAnimal()",
+    "answers": [
+      "Use the PartyAnimal template to make a new object and assign it to zap"
+    ]
+  },
+  {
+    "question": "What is the syntax to look up the fullname attribute in an object stored in the variable colleen?",
+    "answers": ["colleen.fullname"]
+  },
+  {
+    "question": "Which of these statements is used to indicate that class A will inherit all the features of class B?",
+    "answers": ["class A(B) :"]
+  },
+  {
+    "question": "What keyword is used to indicate the start of a method in a Python class?",
+    "answers": ["def"]
+  },
+  {
+    "question": "What is \"self\" typically used for in a Python method within a class?",
+    "answers": ["To refer to the instance in which the method is being called"]
+  },
+  {
+    "question": "What does the Python dir() function show when we pass an object into it as a parameter?",
+    "answers": ["It shows the methods and attributes of the object"]
+  },
+  {
+    "question": "Which of the following is rarely used in Object Oriented Programming?",
+    "answers": ["Destructor"]
+  },
+  {
+    "question": "Structured Query Language (SQL) is used to (check all that apply)",
+    "answers": ["Delete data", "Insert data", "Create a table"]
+  },
+  {
+    "question": "Which of these is the right syntax to make a new table?",
+    "answers": ["CREATE TABLE people;"]
+  },
+  {
+    "question": "Which SQL command is used to insert a new row into a table?",
+    "answers": ["INSERT INTO"]
+  },
+  {
+    "question": "Which command is used to retrieve all records from a table?",
+    "answers": ["SELECT * FROM Users"]
+  },
+  {
+    "question": "Which keyword will cause the results of the query to be displayed in sorted order?",
+    "answers": ["ORDER BY"]
+  },
+  {
+    "question": "In database terminology, another word for table is",
+    "answers": ["relation"]
+  },
+  {
+    "question": "In a typical online production environment, who has direct access to the production database?",
+    "answers": ["Database Administrator"]
+  },
+  {
+    "question": "Which of the following is the database software used in this class?",
+    "answers": ["SQLite"]
+  },
+  {
+    "question": "What happens if a DELETE command is run on a table without a WHERE clause?",
+    "answers": ["All the rows in the table are deleted"]
+  },
+  {
+    "question": "Which of the following commands would update a column named \"name\" in a table named \"Users\"?",
+    "answers": ["UPDATE Users SET name='new name' WHERE ..."]
+  },
+  {
+    "question": "What does this SQL command do? 1 SELECT COUNT(*) FROM Users Hint: This is not from the lecture",
+    "answers": ["It counts the rows in the table"]
+  },
+  {
+    "question": "What is the primary added value of relational databases over flat files?",
+    "answers": ["Ability to scan large amounts of data quickly"]
+  },
+  {
+    "question": "Which of the following is NOT a good rule to follow when developing a database model?",
+    "answers": ["Use a person's email address as their primary key"]
+  },
+  {
+    "question": "What is the purpose of a primary key?",
+    "answers": ["To look up a particular row in a table very quickly"]
+  },
+  {
+    "question": "If our user interface (i.e., like iTunes) has repeated strings on one column of the user interface, how should we model this properly in a database?",
+    "answers": [
+      "Make a table that maps the strings in the column to numbers and then use those numbers in the column"
+    ]
+  },
+  {
+    "question": "Which of the following is the label we give a column that the \"outside world\" uses to look up a particular row?",
+    "answers": ["Logical key"]
+  },
+  {
+    "question": "What is the label we give to a column that is an integer and used to point to a row in a different table?",
+    "answers": ["Foreign key"]
+  },
+  {
+    "question": "What is the SQL keyword that reconnects rows that have foreign keys with the corresponding data in the table that the foreign key points to?",
+    "answers": ["JOIN"]
+  },
+  {
+    "question": "What SQLite keyword is added to primary keys in a CREATE TABLE statement to indicate that the database is to provide a value for the column when records are inserted?",
+    "answers": ["AUTOINCREMENT"]
+  },
+  {
+    "question": "What happens when you JOIN two tables together without an ON clause?",
+    "answers": [
+      "The number of rows you get is the number of rows in the first table times the number of rows in the second table"
+    ]
+  },
+  {
+    "question": "When you are doing a SELECT with a JOIN across multiple tables with identical column names, how do you distinguish the column names?",
+    "answers": ["tablename.columnname"]
+  },
+  {
+    "question": "How do we model a many-to-many relationship between two database tables?",
+    "answers": ["We add a table with two foreign keys"]
+  },
+  {
+    "question": "In Python, what is a database \"cursor\" most like?",
+    "answers": ["A file handle"]
+  },
+  {
+    "question": "What method do you call in an SQLIte cursor object in Python to run an SQL command?",
+    "answers": ["execute()"]
+  },
+  {
+    "question": "In the following SQL, 1 cur.execute('SELECT count FROM Counts WHERE org = ? ', (org, )) what is the purpose of the \"?\"?",
+    "answers": ["It is a placeholder for the contents of the \"org\" variable"]
+  },
+  {
+    "question": "In the following Python code sequence (assuming cur is a SQLite cursor object), 1 2 cur.execute('SELECT count FROM Counts WHERE org = ? ', (org, )) row = cur.fetchone()",
+    "answers": ["None"]
+  },
+  {
+    "question": "What does the LIMIT clause in the following SQL accomplish? 1 2 SELECT org, count FROM Counts ORDER BY count DESC LIMIT 10",
+    "answers": ["It only retrieves the first 10 rows from the table"]
+  },
+  {
+    "question": "What does the executescript() method in the Python SQLite cursor object do that the normal execute() method does not do?",
+    "answers": ["It allows multiple SQL statements separated by semicolons"]
+  },
+  {
+    "question": "What is the purpose of \"OR IGNORE\" in the following SQL: 1 INSERT OR IGNORE INTO Course (title) VALUES ( ? )",
+    "answers": [
+      "It makes sure that if a particular title is already in the table, there are no duplicate rows inserted"
+    ]
+  },
+  {
+    "question": "What do we generally avoid in a many-to-many junction table?",
+    "answers": ["An AUTOINCREMENT primary key column"]
+  },
+
+  {
+    "question": "What will the following Python program print out? 1 2 3 4 5 6 7 8 9 def fred(): print(\"Zap\") def jane(): print(\"ABC\") jane() fred() jane()",
+    "answers": ["ABC Zap ABC"]
+  },
+  {
+    "question": "Where in the computer is a variable such as \"X\" stored? 1 x = 123",
+    "answers": ["Main Memory"]
+  },
+  {
+    "question": "What is the primary use of the Python dictionary?",
+    "answers": ["To store key / value pairs"]
+  },
+  {
+    "question": "What does the following Python code print out? 1 2 stuff = ['joseph', 'sally', 'walter', 'tim'] print(stuff[2])",
+    "answers": ["walter"]
+  },
+  {
+    "question": "What will the following Python program print out? (This is a bit tricky so look carefully). 1 2 3 4 5 6 def hello(): print(\"Hello\") print(\"There\") x = 10 x = x + 1",
+    "answers": ["Nothing will print"]
+  },
+  {
+    "question": "What will the following Python program print out? 1 2 3 4 5 x = -1 for value in [3, 41, 12, 9, 74, 15] : if value > x : x = value print(x)",
+    "answers": ["74"]
+  },
+  {
+    "question": "What will the following Python program print out? 1 2 3 4 total = 0 for abc in range(5): total = total + abc print(total)",
+    "answers": ["10"]
+  },
+  {
+    "question": "The following Python code causes a traceback: 1 2 3 4 a = \"123\" b = 456 c = a + b print(c)",
+    "answers": ["3"]
+  },
+  {
+    "question": "In the following example, an error occurs in \"line3\" that normally causes a traceback if it were not in a try/except. 1 2 3 4 5 6 7 8 line1 try: line2 line3 line4 except: line5 line6 What is the sequence of lines executed in this program?",
+    "answers": ["line1, line2, line3, line5, line6"]
+  },
+  {
+    "question": "What would the following Python code print out? 1 2 3 abc = \"With three words\" stuff = abc.split() print(stuff)",
+    "answers": ["['With', 'three', 'words']"]
+  },
+  {
+    "question": "What would the following Python code print out? 1 2 3 abc = \"With three words\" stuff = abc.split() print(len(stuff))",
+    "answers": ["3"]
+  },
+  {
+    "question": "Which of the following is not a good synonym for \"class\" in Python?",
+    "answers": ["direction"]
+  },
+  {
+    "question": "What is \"self\" typically used in a Python method within a class?",
+    "answers": ["To refer to the instance in which the method is being called"]
+  },
+  {
+    "question": "How is a Python socket different than a Python file handle?",
+    "answers": ["You can read and write using the same socket"]
+  },
+  {
+    "question": "In the following XML, what is \"type\"? 1 2 3 4 5 6 7 <person> <name>Chuck</name> <phone type=\"intl\"> +1 734 303 4456 </phone> <email hide=\"yes\" /> </person>",
+    "answers": ["An attribute"]
+  },
+  {
+    "question": "Which programming language serves as the basis for the JSON syntax?",
+    "answers": ["JavaScript"]
+  },
+  {
+    "question": "In the following code, 1 x = 42 What is \"x\"?",
+    "answers": ["A variable"]
+  },
+  {
+    "question": "In the following Python code, which of the following is an \"argument\" to a function? 1 2 3 x = 'banana' y = max(x) z = y * 2",
+    "answers": ["x"]
+  },
+  {
+    "question": "Which of the following lines of Python code contains a syntax error? 1 2 3 4 5 6 x = 12 if x < 5: print(\"smaller\") else: print(\"bigger\") print(\"all done\")",
+    "answers": ["else:"]
+  },
+  {
+    "question": "Which of the following best describes \"Regular Expressions\"?",
+    "answers": ["A small programming language unto itself"]
+  },
+  {
+    "question": "Which of the following is the way we match the \"start of a line\" in a regular expression?",
+    "answers": ["^"]
+  },
+  {
+    "question": "What is the ASCII character that is associated with the decimal value 42?",
+    "answers": ["*"]
+  },
+  {
+    "question": "Given the following line of text: 1 From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008 What would the regular expression '\\S+?@\\S+' match?",
+    "answers": ["stephen.marquard@uct.ac.za"]
+  },
+  {
+    "question": "For this XML Schema: 1 2 3 4 5 6 7 <xs:complexType name=”person”> <xs:sequence> <xs:element name=\"lastname\" type=\"xs:string\"/> <xs:element name=\"age\" type=\"xs:integer\"/> <xs:element name=\"dateborn\" type=\"xs:date\"/> </xs:sequence> </xs:complexType> And this XML, 1 2 3 4 5 6 <person> <lastname>Severance</lastname> <Age>17</Age> <dateborn>2001-04-17</dateborn> </person> Which tag is incorrect?",
+    "answers": ["Age"]
+  }
+]

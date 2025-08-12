@@ -1,0 +1,1481 @@
+[
+  {
+    "question": "Which of the following defines the AI black box problem?",
+    "answers": [
+      "The challenge of understanding the inner workings of opaque systems"
+    ]
+  },
+  {
+    "question": "Which of the following elements are important aspects of ethical integrity with regards to data? (Select two.)",
+    "answers": [
+      "Whether the data was gathered in an ethical manner.",
+      "If the holders of data are trustworthy entities."
+    ]
+  },
+  {
+    "question": "Which of the following best describes why data is sometimes compared to oil? (Select two.)",
+    "answers": [
+      "Data can fuel algorithmic technologies.",
+      "Data can be monetarily valuable."
+    ]
+  },
+  {
+    "question": "At what point should ethical consideration ideally be applied to emerging technologies?",
+    "answers": [
+      "From its inception, through maintenance, to applying foresight regarding its decommissioning."
+    ]
+  },
+  {
+    "question": "Which of the following describes dual-use or multipurpose data?",
+    "answers": [
+      "Data collected for one application that could also be applied to another application in a different domain."
+    ]
+  },
+  {
+    "question": "Which of the following are important ethical elements to safeguard within ethical AI systems? (Select two.)",
+    "answers": [
+      "Transparency and explainability, balanced with privacy.",
+      "Accountability and management of bias."
+    ]
+  },
+  {
+    "question": "Which of the following is the generally agreed upon current state of the art of AI?",
+    "answers": ["Narrow AI"]
+  },
+  {
+    "question": "Which of the following describe important aspects of why emerging technologies are so capable and powerful? (Select two.)",
+    "answers": [
+      "They may be able to self-improve by learning from data.",
+      "They can automate very complex operations."
+    ]
+  },
+  {
+    "question": "Management asks someone to do a data-related task. Which of the following would likely be ethically problematic? (Select two.)",
+    "answers": [
+      "Manipulate data or alter its interpretation.",
+      "Delete any erroneous data."
+    ]
+  },
+  {
+    "question": "Which of the following describe important aspects in the role of an ethical AI engineer? (Select two.)",
+    "answers": [
+      "Cleaning and sorting data, and auditing for bias.",
+      "Keeping up with the latest developments and vulnerabilities."
+    ]
+  },
+  {
+    "question": "Which of the following, by itself, qualifies as personally identifiable information (PII)?",
+    "answers": ["A user’s home address"]
+  },
+  {
+    "question": "Why are groups like race and religion considered protected classes?",
+    "answers": [
+      "These groups have been used as the basis for wholesale discrimination."
+    ]
+  },
+  {
+    "question": "Which of the following describes an opt-out policy in regards to the collection of private data?",
+    "answers": [
+      "Data about the user is automatically collected unless that user explicitly states that you should not do so."
+    ]
+  },
+  {
+    "question": "Which of the following are key principles of privacy by design? (Select two.)",
+    "answers": [
+      "Organizations must incorporate privacy protections throughout the project lifecycle.",
+      "Organizations must be proactive in protecting against privacy risks, not reactive."
+    ]
+  },
+  {
+    "question": "What is the purpose of differential privacy?",
+    "answers": [
+      "To enable parties to share private data without revealing individuals represented in the data."
+    ]
+  },
+  {
+    "question": "Which of the following describes the concept of liability?",
+    "answers": ["The legal responsibility for one’s actions."]
+  },
+  {
+    "question": "What does it mean to call a click-through agreement a “contract of adhesion”?",
+    "answers": ["One party is forced into a “take-it-or-leave-it” situation."]
+  },
+  {
+    "question": "Which of the following is a type of technology contract that establishes the goals of both parties and describes how those goals will be achieved?",
+    "answers": ["Service-level agreement (SLA)"]
+  },
+  {
+    "question": "How does a smart contract differ from a traditional contract?",
+    "answers": ["Smart contracts eliminate the need for a central authority."]
+  },
+  {
+    "question": "How can a visual contract be easier to understand than a written contract?",
+    "answers": [
+      "The use of pictures with simple text makes it easier for the layperson to understand the details of a contract."
+    ]
+  },
+  {
+    "question": "What causes bias?",
+    "answers": [
+      "Biases are learned from our families, our social groups, and the media."
+    ]
+  },
+  {
+    "question": "What is the fundamental attribution error?",
+    "answers": [
+      "When you say your bad behavior is caused by the situation, but when other people display the same bad behavior, it is caused by a personality trait."
+    ]
+  },
+  {
+    "question": "Which of the following are actions that can help combat implicit bias? (Select three.)",
+    "answers": [
+      "Exposing yourself to “counter-stereotypical” examples.",
+      "Cultivating awareness of your own biases.",
+      "Interacting with diverse groups of people."
+    ]
+  },
+  {
+    "question": "When conducting an opinion poll, which of the following biases do you need to guard against the most when collecting your data?",
+    "answers": ["Sampling bias"]
+  },
+  {
+    "question": "Which of the following is an example of a cognitive bias?",
+    "answers": ["Anchoring bias"]
+  },
+  {
+    "question": "Are criminal justice risk assessments race-neutral?",
+    "answers": ["No, the data is biased as it reflects historical bias."]
+  },
+  {
+    "question": "Which type of bias causes people to trust an automated decision-making system (ADS) over a human’s decision?",
+    "answers": ["Automation bias"]
+  },
+  {
+    "question": "How can confirmation bias impact us socially? (Select two.)",
+    "answers": [
+      "It can lead to groupthink, which can in turn halt forward progress.",
+      "It can impede socio-political cooperation."
+    ]
+  },
+  {
+    "question": "Which of the following describes an illusory-correlation bias?",
+    "answers": [
+      "When you incorrectly assume a cause and effect relationship because two variables are correlated."
+    ]
+  },
+  {
+    "question": "Which of the following is one explanation for why cognitive biases exist?",
+    "answers": ["We receive too much information and are overloaded."]
+  },
+  {
+    "question": "Which of the following is a formative ethics theory that states that maximizing happiness is the primary standard for determining what is right or wrong?",
+    "answers": ["Utilitarianism"]
+  },
+  {
+    "question": "Which of the following statements are promoted by the categorical imperative? (Select three.)",
+    "answers": [
+      "Act in such a way that your actions may become a universal law.",
+      "Don’t treat people as a means to an end; treat them always as an end.",
+      "Each person must use reason to will moral laws."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describes the philosophical concept of predeterminism?",
+    "answers": [
+      "All events, past, present, and future, are determined in advance."
+    ]
+  },
+  {
+    "question": "How do norms differ from morals?",
+    "answers": ["Morals involve value judgments; norms do not."]
+  },
+  {
+    "question": "Which of the following are consequences of saying that someone or something has moral agency? (Select two.)",
+    "answers": [
+      "The moral agent is capable of determining right and wrong.",
+      "The moral agent can be held responsible for their actions."
+    ]
+  },
+  {
+    "question": "Why is deciding how to act using moral reasoning not always a feasible goal for human beings?",
+    "answers": [
+      "Human decision making is often influenced by emotion and not logic."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true regarding the purpose of moral psychology? (Select two.)",
+    "answers": [
+      "Moral psychology seeks to understand how the human mind develops morality.",
+      "Moral psychology seeks to understand why people act morally or immorally."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of applied ethics?",
+    "answers": ["Professional ethics"]
+  },
+  {
+    "question": "Your organization has developed an AI system that recommends treatments for hospital patients. Some questions have been raised about the ethics of how these treatments are determined. What applied ethics domain do these concerns fall under?",
+    "answers": ["Bioethics"]
+  },
+  {
+    "question": "What does it mean to say that human rights are inalienable? (Select two.)",
+    "answers": [
+      "Inalienable rights are inherent in all human beings.",
+      "Inalienable rights cannot be taken away except in extreme circumstances."
+    ]
+  },
+  {
+    "question": "What does “ethics by design” mean?",
+    "answers": [
+      "An approach in which ethics is considered from the initial design stage."
+    ]
+  },
+  {
+    "question": "Which of the following describes why explainability is important?",
+    "answers": ["It provides accountability and trust."]
+  },
+  {
+    "question": "Which of the following describes personhood?",
+    "answers": ["Personhood is often used to dictate how something is treated."]
+  },
+  {
+    "question": "Which of the following describe how adopting ethical practices can be a strategic differentiator? (Select three.)",
+    "answers": [
+      "It will support the development of strategic partnerships.",
+      "It will build customer trust.",
+      "It will encourage applicants to apply for your company."
+    ]
+  },
+  {
+    "question": "Which of the following best describes beneficence?",
+    "answers": [
+      "Beneficence is the promotion of well-being, not just for moral agents like humans, but of animals, the environment, and societies."
+    ]
+  },
+  {
+    "question": "What is the difference between beneficence and non-maleficence?",
+    "answers": [
+      "Beneficence refers to “do only good” and non-maleficence refers to “do no harm.”"
+    ]
+  },
+  {
+    "question": "Which of the following are valid concerns regarding electronic personalities? (Select two.)",
+    "answers": [
+      "That they would create unfair advantages, as not everyone has access to the same rights.",
+      "That they would absolve manufacturers of liability."
+    ]
+  },
+  {
+    "question": "Which of the following are ways to participate in engineering activism? (Select two.)",
+    "answers": ["Follow a code of ethics.", "Engage with the public."]
+  },
+  {
+    "question": "How can AI uphold justice?",
+    "answers": [
+      "AI systems can be designed from the start to help promote fairness and minimize bias."
+    ]
+  },
+  {
+    "question": "Which of the following are examples of how AI can limit human autonomy? (Select two.)",
+    "answers": [
+      "Weapon systems can limit human autonomy as humans may not have decision-making capability or understand the decision making.",
+      "AI systems might impact certain vulnerable groups such as the elderly and children differently than the rest of the population, which could limit those groups’ autonomy."
+    ]
+  },
+  {
+    "question": "Which school of philosophical thought primarily advocates for the greatest good for the greatest amount of people?",
+    "answers": ["Utilitarianism"]
+  },
+  {
+    "question": "Which type of entity are the OECD Principles on Artificial Intelligence mostly geared towards?",
+    "answers": ["National governments"]
+  },
+  {
+    "question": "Which of the following principles are most commonly cited in AI-based ethical frameworks?",
+    "answers": ["Transparency and explainability"]
+  },
+  {
+    "question": "Which of the following frameworks primarily promotes human rights?",
+    "answers": ["The Toronto Declaration"]
+  },
+  {
+    "question": "Which of the following best describes capability caution as referenced in the Asilomar AI Principles?",
+    "answers": [
+      "Given a lack of consensus, we should avoid strong assumptions regarding upper limits on future AI capabilities."
+    ]
+  },
+  {
+    "question": "Which of the following describes the principle of transparency in the context of AI systems?",
+    "answers": [
+      "Transparency enables human observers to see inside the decision-making process of an AI system."
+    ]
+  },
+  {
+    "question": "Which of the following is a case study that best represents the principle of professional responsibility?",
+    "answers": [
+      "The American Medical Association’s definition of AI as augmented intelligence"
+    ]
+  },
+  {
+    "question": "If you are attempting to build a new framework for the research and development (R&D) of AI, which of the following frameworks might you look at first for its emphasis in this area?",
+    "answers": ["The Beijing AI Principles"]
+  },
+  {
+    "question": "In AI, the principle of privacy is most commonly referred to in the context of which of the following concepts?",
+    "answers": ["Data protection"]
+  },
+  {
+    "question": "Which of the following describes an ethical framework?",
+    "answers": [
+      "Ethical frameworks seek to mitigate ethical concerns by creating actionable steps."
+    ]
+  },
+  {
+    "question": "Why does the trolley problem pose an ethical predicament?",
+    "answers": [
+      "You have to make a choice between two scenarios where choosing one leads to loss of life in the other."
+    ]
+  },
+  {
+    "question": "Which of the following ethical considerations should have priority in an emergency situation like the use of contact-tracing solutions during a pandemic? (Select two.)",
+    "answers": ["Accountability", "Privacy"]
+  },
+  {
+    "question": "In using AI-enabled solutions within the context of medical imaging analysis, which of the following is the most important ethical consideration?",
+    "answers": ["Explainability"]
+  },
+  {
+    "question": "If an AI-enabled system enables addictive behavior, which of the following makes for the most compelling argument to stop development work on that system?",
+    "answers": [
+      "The system, as designed, acts counter to the well-being of the users."
+    ]
+  },
+  {
+    "question": "Why do smart toys raise additional ethical concerns over those that are raised in the course of other products and services that use AI?",
+    "answers": [
+      "Children are more susceptible to manipulation and therefore need extra protective measures."
+    ]
+  },
+  {
+    "question": "Which of the following software development principles is essential in the real-world deployment of AI-enabled software applications in critical scenarios like self-driving cars?",
+    "answers": ["Robustness to adversarial examples"]
+  },
+  {
+    "question": "Which of the following is the most important argument in favor of content moderation in online platforms?",
+    "answers": [
+      "It prevents the spread of disinformation that can cause harm to vulnerable populations."
+    ]
+  },
+  {
+    "question": "Why is the question of robot rights and emancipation one that isn’t as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks?",
+    "answers": [
+      "These rights necessitate that robots become sentient entities, which is currently not feasible."
+    ]
+  },
+  {
+    "question": "Which of the following is the most important ethical consideration regarding technical developments like deepfakes?",
+    "answers": [
+      "They usurp a person’s likeness and can then be weaponized against them."
+    ]
+  },
+  {
+    "question": "Why are anonymization and pseudonymization insufficient protection measures against breaches of data privacy and security?",
+    "answers": [
+      "They can be broken by combining this data with other publicly available data."
+    ]
+  },
+  {
+    "question": "Which of the following are ways that regulations differ from ethical frameworks? (Select two.)",
+    "answers": [
+      "Regulations have legal enforcement behind them.",
+      "Regulations provide a clear basis for potential litigation."
+    ]
+  },
+  {
+    "question": "Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company’s files?",
+    "answers": ["CCPA"]
+  },
+  {
+    "question": "Which of the following does the Brazilian General Data Protection Act (LGPD) mandate? (Select two.)",
+    "answers": [
+      "Data protection impact assessments",
+      "Data protection officers"
+    ]
+  },
+  {
+    "question": "Which of the following is a standard or regulation that focuses on ensuring the implementation of strong cybersecurity techniques like network security and cryptography to protect data?",
+    "answers": ["PCI DSS"]
+  },
+  {
+    "question": "Which of the following are requirements set forth by the Biometric Information Privacy Act (BIPA)? (Select two.)",
+    "answers": [
+      "Organizations must obtain consent from individuals regarding the collection and use of biometric data.",
+      "Organizations must destroy biometric data in a timely fashion."
+    ]
+  },
+  {
+    "question": "The Children’s Online Privacy Protection Act (COPPA) safeguards the privacy of which age group’s personal information?",
+    "answers": ["Anyone under 13 years old"]
+  },
+  {
+    "question": "Which of the following are advantages to adopting standards frameworks like ISO 27000? (Select two.)",
+    "answers": [
+      "Formal certification processes that provide competitive advantage",
+      "International support, recognition, and involvement"
+    ]
+  },
+  {
+    "question": "Which of the following is a notable aspect of the Personal Information Protection and Electronic Documents Act (PIPEDA) when compared to similar laws and regulations?",
+    "answers": [
+      "A stipulation to continue providing service even if data usage is denied"
+    ]
+  },
+  {
+    "question": "Which of the following resources does the National Institute of Standards and Technology (NIST) provide to organizations?",
+    "answers": ["Reference materials"]
+  },
+  {
+    "question": "Which of the following ethical domains does the IEEE 7000 series explore? (Select two.)",
+    "answers": ["Machine-readable privacy terms", "Emulated empathy"]
+  },
+  {
+    "question": "Which of the following are important elements of the data minimization principle? (Select two.)",
+    "answers": [
+      "Only keep data for as long as it is needed",
+      "Only collect data that is strictly necessary"
+    ]
+  },
+  {
+    "question": "Which of the following are logical arguments in favor of an organization maintaining compliance? (Select two.)",
+    "answers": [
+      "Avoidance of reputational damage",
+      "Long-term cost savings due to avoiding fines"
+    ]
+  },
+  {
+    "question": "How does increasing AI performance often conflict with the desire for explainability?",
+    "answers": [
+      "Increasing AI performance sometimes leads to greater model complexity, making it more difficult to explain decision-making processes."
+    ]
+  },
+  {
+    "question": "Which of the following explains why efficiency can sometimes incur systemic fragility?",
+    "answers": ["Efficiency benefits may lead to complex second-order costs"]
+  },
+  {
+    "question": "Which of the following are possible benefits of a human-in-the-loop (HITL) architecture? (Select two.)",
+    "answers": [
+      "Balancing the negative effects of an AI system on people with the effects on environments and objects",
+      "Mitigating excessive scope or potential collateral damage"
+    ]
+  },
+  {
+    "question": "How does the “virtuous cycle” that benefits Big Tech operate?",
+    "answers": [
+      "Data-driven algorithms improve solutions, leading to new customers, and better data."
+    ]
+  },
+  {
+    "question": "Which of the following is often in opposition to moral relativism?",
+    "answers": ["Evidence-based policy"]
+  },
+  {
+    "question": "Which of the following are important aspects of resolving complex and confounding business pressures? (Select two.)",
+    "answers": [
+      "Managing expectations that not everyone can get what they want, when they want it",
+      "Engaging with multiple stakeholders to understand their particular needs"
+    ]
+  },
+  {
+    "question": "You plan on streamlining your company’s product experience, but you also want to uphold the agency and autonomy of your users. Which of the following actions would uphold these principles? (Select two.)",
+    "answers": [
+      "Refraining from guiding users into something they didn’t wish for or intend",
+      "Respecting the right of the user to choose and customize their experiences"
+    ]
+  },
+  {
+    "question": "Which of the following describe corporate hegemony? (Select two.)",
+    "answers": [
+      "Consolidating interests through mergers and acquisitions",
+      "Locking out smaller players, leading to monopolies or cartels"
+    ]
+  },
+  {
+    "question": "Which of the following are tasks in the overall risk management process? (Select three.)",
+    "answers": ["Analysis", "Identification", "Mitigation"]
+  },
+  {
+    "question": "Which of the following risk analysis methods use words like “likely,” “unlikely,” and “rare” to describe the likelihood of risk, and words like “low,” “medium,” and “high” to describe the impact of risk? (Select two.)",
+    "answers": ["Semi-quantitative analysis", "Qualitative analysis"]
+  },
+  {
+    "question": "Which of the following is not a valid risk response technique?",
+    "answers": ["Ignore"]
+  },
+  {
+    "question": "Which of the following statements are correct about a variable that is normally distributed? (Select two.)",
+    "answers": [
+      "The variable’s distribution, when graphed, exhibits a symmetrical bell shape.",
+      "The mean, median, and mode of all measurements is the same, and all are located at the center of the distribution."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describes variance?",
+    "answers": ["Variance measures how far a data example is from the mean."]
+  },
+  {
+    "question": "In the following scatter plot, the GrossIncome variable is plotted against the Revenue variable. What type of correlation does this plot suggest?",
+    "answers": [
+      "There is a strong positive correlation between both variables."
+    ]
+  },
+  {
+    "question": "How do AI and other data-driven technologies use probability?",
+    "answers": [
+      "By providing a model of belief about the likelihood of some event happening"
+    ]
+  },
+  {
+    "question": "You have a dataset of customers that includes each customer’s gender, location, and other personal attributes. The label you are trying to predict is how much sales revenue each customer is likely to generate for the business based on these attributes. What type of machine learning outcome is this problem suited for?",
+    "answers": ["Regression"]
+  },
+  {
+    "question": "You’re training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed—the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model?",
+    "answers": ["Recall"]
+  },
+  {
+    "question": "Which of the following metrics is used to evaluate a linear regression machine learning model?",
+    "answers": ["Cost function"]
+  },
+  {
+    "question": "Which of the following best describes a marketing persona?",
+    "answers": [
+      "A description of a type of character based upon demographics, habits, and interests"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the use case for zero-knowledge protocols (ZKPs)?",
+    "answers": ["Proving that something exists, but not the specifics"]
+  },
+  {
+    "question": "Which of the following elements constitute PII? (Select two.)",
+    "answers": ["Passport numbers", "Telephone numbers"]
+  },
+  {
+    "question": "Which of the following elements should be communicated with end users when negotiating ethical access to a user’s data? (Select two.)",
+    "answers": [
+      "The intention behind a certain activity or request",
+      "A request for consent to perform an action"
+    ]
+  },
+  {
+    "question": "Which of the following describes the technique of homomorphic encryption?",
+    "answers": ["A method of performing operations on encrypted data."]
+  },
+  {
+    "question": "Which of the following describe aspects of secondary data usage that might increase ethical risks? (Select two.)",
+    "answers": [
+      "Additional organizations and processors may now have access to the data",
+      "Data applied to secondary purposes may expose private aspects or diminish personal dignity"
+    ]
+  },
+  {
+    "question": "Which of the following provide a user with more meaningful choices regarding how their data is being used? (Select two.)",
+    "answers": [
+      "Opt-out/opt-in mechanisms",
+      "Granular or modular control over data usage"
+    ]
+  },
+  {
+    "question": "Which of the following refer to legal regulations or industry frameworks for protecting data? (Select two.)",
+    "answers": ["HIPAA", "NIST Privacy Framework"]
+  },
+  {
+    "question": "Which of the following are prerequisites for high-level digital security and trust mechanisms? (Select two.)",
+    "answers": ["Authentication", "Authorization"]
+  },
+  {
+    "question": "Which of the following describe a process of cross-correlation of data? (Select two.)",
+    "answers": [
+      "Discovering new information via inference",
+      "Comparing multiple data points or sets"
+    ]
+  },
+  {
+    "question": "What does the acronym RACI stand for?",
+    "answers": ["Responsible, Accountable, Consulted, Informed"]
+  },
+  {
+    "question": "Which of the following describes extrajudicial judgment?",
+    "answers": ["A ruling or scoring made outside of a court."]
+  },
+  {
+    "question": "Which of the following elements might be considered moderately affected in an Impact Level 2 Algorithmic Impact Assessment? (Select two.)",
+    "answers": [
+      "The health and well-being of individuals or communities.",
+      "The rights of individuals or communities."
+    ]
+  },
+  {
+    "question": "Which of the following describes automation bias?",
+    "answers": ["Bias of people towards overly trusting in automation."]
+  },
+  {
+    "question": "Which of the following are likely benefits of having defined organizational policies? (Select two.)",
+    "answers": [
+      "It supports accountability and makes it more explicit.",
+      "It supports consistency of behavior and unification of culture."
+    ]
+  },
+  {
+    "question": "How might a non-stochastic decision tree be considered a black box algorithm?",
+    "answers": [
+      "If the model is far too complex to be readily understood by human beings."
+    ]
+  },
+  {
+    "question": "Which of the following are potential ethical benefits of conducting pilot testing prior to the release of emerging technologies? (Select two.)",
+    "answers": [
+      "It reveals any gaps in accountability or auditability.",
+      "It minimizes the impact of any ethical issues which may emerge."
+    ]
+  },
+  {
+    "question": "Which of the following are important steps to document during an auditing process? (Select two.)",
+    "answers": [
+      "Specify and document what precisely is being audited.",
+      "Document the audit procedures to be followed."
+    ]
+  },
+  {
+    "question": "Which of the following are common key performance indicators (KPIs) within dashboards of data-driven systems? (Select two.)",
+    "answers": [
+      "Performance metrics, such as accuracy and cost functions",
+      "Model training time"
+    ]
+  },
+  {
+    "question": "Which of the following are likely examples of a leverageable third party data-driven or data-related product? (Select two.)",
+    "answers": ["Data annotation and augmentation tools", "Compiled models"]
+  },
+  {
+    "question": "Which of the following is an explainability risk of self-learning models?",
+    "answers": [
+      "Self-learning models may introduce new data you’re unaware of."
+    ]
+  },
+  {
+    "question": "Which of the following is a transparency risk of closed source software?",
+    "answers": [
+      "Closed source software may not be accessible to independent auditors."
+    ]
+  },
+  {
+    "question": "A disruptive user on a social media site is subjected to a shadow ban. Which of the following might be an indication of that shadow ban?",
+    "answers": [
+      "A user logs in one day to find that they are able to post, but receive no direct responses."
+    ]
+  },
+  {
+    "question": "Which of the following is an effort to turn black box AI models into models whose decisions are easier to understand?",
+    "answers": ["Explainable AI"]
+  },
+  {
+    "question": "You want to solicit feedback from users who are seeking explanations about your AI products and services. So, you decide to place a form on your marketing website that users can fill out. Which of the following is the best way to structure that form for the purpose of collecting useful feedback?",
+    "answers": [
+      "Provide a large, unrestricted text box where users can enter their thoughts at length."
+    ]
+  },
+  {
+    "question": "You’re the recipient of some data collected by a third party that you’ll use in training an AI model. As per your business agreement, the third-party discloser of the data requests that you explain how you plan to use the data. At what point in the process should you provide this explanation?",
+    "answers": ["At the point of collecting the data."]
+  },
+  {
+    "question": "Which of the following are potential training data inadequacies that you should communicate to your users in support of transparency? (Select two.)",
+    "answers": [
+      "Any missing values in the dataset and how they were handled.",
+      "Any known bias in the sample data."
+    ]
+  },
+  {
+    "question": "Which of the following is a technique used by the Python tool Alibi to produce a subset of features that will usually result in the same model prediction?",
+    "answers": ["Anchor Explanations"]
+  },
+  {
+    "question": "Which of the following Python tools is designed to integrate with Google’s Cloud AI platform?",
+    "answers": ["What-If"]
+  },
+  {
+    "question": "Which of the following are typically true when comparing the LIME tool with the SHAP tool? (Select two.)",
+    "answers": [
+      "LIME outputs results faster than SHAP.",
+      "LIME is less accurate than SHAP."
+    ]
+  },
+  {
+    "question": "Which of the following types of bias emerges when the same data is sampled over and over again, limiting a model’s perspective?",
+    "answers": ["Reinforcement bias"]
+  },
+  {
+    "question": "Why is a model that has been overfitted to its training data a source of fairness risk?",
+    "answers": ["Because the model won’t generalize to the entire population."]
+  },
+  {
+    "question": "Which type of edge case is caused by data outside the normal distribution?",
+    "answers": ["Outliers"]
+  },
+  {
+    "question": "Which of the following is a function of exploratory data analysis (EDA)?",
+    "answers": [
+      "To evaluate the quality of data before it is used to train a model."
+    ]
+  },
+  {
+    "question": "How can persona modeling be used to identify potential biases in a machine learning model?",
+    "answers": [
+      "The persona may represent groups of people that could be susceptible to bias."
+    ]
+  },
+  {
+    "question": "In a classification model that determines whether or not a customer qualifies for a coupon, a significantly lower percentage of males qualified than females. Which of the following types of discrimination does this outcome potentially represent?",
+    "answers": ["Disparate impact"]
+  },
+  {
+    "question": "Which of the following describes the purpose of a STEEPV analysis?",
+    "answers": [
+      "To perform a strategic analysis of how external environments impact business operations."
+    ]
+  },
+  {
+    "question": "Which of the following are best practices for incorporating inclusive design in AI projects? (Select two.)",
+    "answers": [
+      "Leverage customer input to reduce bias.",
+      "Consider bias a spectrum."
+    ]
+  },
+  {
+    "question": "Which of the following describes the AI Fairness 360 project?",
+    "answers": [
+      "An open source library that evaluates models for bias and provides mitigation tactics to reduce that bias."
+    ]
+  },
+  {
+    "question": "What is the primary advantage of radioactive data tracing over past techniques that modify input in order to determine whether or not that input was used in training?",
+    "answers": [
+      "Radioactive data tracing doesn’t impact a model’s performance."
+    ]
+  },
+  {
+    "question": "What does the acronym SIEM stand for in a cybersecurity context?",
+    "answers": ["Security information and event management"]
+  },
+  {
+    "question": "Which of the following sources does a SIEM system typically pull data from? (Select two.)",
+    "answers": ["System event logs", "Network intrusion detection alerts"]
+  },
+  {
+    "question": "Which of the following are likely to be found within a penetration test rules of engagement (ROE)? (Select two.)",
+    "answers": [
+      "What systems may be targeted",
+      "What methods of attack are legitimate"
+    ]
+  },
+  {
+    "question": "Which team typically oversees penetration test operations and adherence to the rules of engagement (ROE)?",
+    "answers": ["White team"]
+  },
+  {
+    "question": "Which of the following benefits can be gained from establishing baseline system behaviors? (Select two.)",
+    "answers": [
+      "Restoring compromised functionality through a system rollback",
+      "Tracking deviance from norms"
+    ]
+  },
+  {
+    "question": "Which of the following could Nmap, Wireshark, or Metasploit be applied to for ethical purposes?",
+    "answers": ["Attack simulations"]
+  },
+  {
+    "question": "What does the initialism CIA stand for in a data security context?",
+    "answers": ["Confidentiality, integrity, availability"]
+  },
+  {
+    "question": "SSL, TLS, and SSH are all forms of...",
+    "answers": ["Encryption protocols"]
+  },
+  {
+    "question": "What does the acronym CSIRT stand for in a security context?",
+    "answers": ["Cybersecurity incident response team"]
+  },
+  {
+    "question": "In which of the following could STRIDE or VAST classifications be applied?",
+    "answers": ["Threat modeling or analysis tools"]
+  },
+  {
+    "question": "Why is it important to categorize ethical risks into different types? (Select two.)",
+    "answers": [
+      "It makes it easier for us to identify and manage different types of risks.",
+      "It helps us understand the many complexities involved in different types of ethical risks."
+    ]
+  },
+  {
+    "question": "Which of the following communication tactics help uphold transparency and explainability from the customer perspective? (Select two.)",
+    "answers": [
+      "Providing prompt responses to customer questions about the decisions made by data-driven systems.",
+      "Providing information about data-driven systems in simple, easy-to-understand terms."
+    ]
+  },
+  {
+    "question": "Why is it important to engage stakeholders at the beginning of the ethical risk management process?",
+    "answers": [
+      "It demonstrates that the organization is committed to accountability and transparency in their data-driven systems."
+    ]
+  },
+  {
+    "question": "Which of the following situations would most likely require communication to external stakeholders? (Select two.)",
+    "answers": [
+      "The organization’s AI product has a defect and needs to be recalled.",
+      "The organization’s data-driven service will receive an update that enhances its accuracy."
+    ]
+  },
+  {
+    "question": "Which of the following are useful strategies for communicating ethical risks to the organization? (Select two.)",
+    "answers": [
+      "Disseminate information in multiple formats",
+      "Communicate information in real time"
+    ]
+  },
+  {
+    "question": "Which of the following are useful strategies for communicating ethical risks to society? (Select two.)",
+    "answers": [
+      "Ensure communication policies are diverse, inclusive, and equitable",
+      "Be culturally sensitive and culturally aware during communication"
+    ]
+  },
+  {
+    "question": "When conducting a business impact assessment (BIA), why is it important to interview or survey personnel at the ground level, not just managers and other higher-ups?",
+    "answers": [
+      "They may have more institutional knowledge about a subject than managers."
+    ]
+  },
+  {
+    "question": "As a result of failing to communicate ethical risks, the organization’s reputation suffers and customers are less confident in the organization. What direct impact can this have?",
+    "answers": [
+      "The products or services the organization creates will have less of an impact in the marketplace."
+    ]
+  },
+  {
+    "question": "Which of the following should be conducted as part of a risk communication strategy in order to ensure the organization is upholding its regulatory obligations?",
+    "answers": ["Compliance audit"]
+  },
+  {
+    "question": "Which of the following are useful strategies for communicating ethical risks to the individual? (Select two.)",
+    "answers": [
+      "Ensure individuals feel that they have input into the process",
+      "Communicate to individuals proactively rather than reactively"
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice for incorporating diversity, equity, and inclusiveness in communication?",
+    "answers": ["Promote an organizational culture that embraces these values"]
+  },
+  {
+    "question": "Which of the following is an important concept to consider as part of building an organizational philosophy?",
+    "answers": ["Anticipating future implications of that philosophy"]
+  },
+  {
+    "question": "The endorsement of which of the following types of stakeholder is most critical when developing mission and vision statements?",
+    "answers": ["Employees"]
+  },
+  {
+    "question": "Which of the following is a benefit of providing disclosure statements?",
+    "answers": [
+      "It demonstrates that the organization has a commitment to openness."
+    ]
+  },
+  {
+    "question": "Which of the following is the most important factor to consider when developing corporate reports?",
+    "answers": [
+      "Where the data used in the report comes from and how accurate it is"
+    ]
+  },
+  {
+    "question": "Which of the following are important factors to consider when developing a media campaign? (Select two.)",
+    "answers": [
+      "The environment in which the campaign will be launched",
+      "The time-sensitive nature of communication in the campaign"
+    ]
+  },
+  {
+    "question": "Which of the following are distinguishing characteristics of a \"living\" public education campaign? (Select two.)",
+    "answers": [
+      "The campaign fosters a relationship between the organization and its stakeholders.",
+      "The campaign is continuously improved upon."
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice when participating in media inquiries? (Select two.)",
+    "answers": ["Ensure your message is consistent"]
+  },
+  {
+    "question": "What is the benefit of hosting a virtual reality press conference over a traditional in-person press conference?",
+    "answers": [
+      "The conference can be interactive without the participants needing to be co-located."
+    ]
+  },
+  {
+    "question": "Which of the following are important qualities of a press release? (Select two.)",
+    "answers": ["It’s concise", "It’s in a digital format"]
+  },
+  {
+    "question": "How does the low likelihood of a crisis relate to its potential impact?",
+    "answers": ["A crisis with low likelihood tends to have high impact."]
+  },
+  {
+    "question": "Which of the following is the most important idea that a crisis communication program should manage?",
+    "answers": ["The public’s perception of a crisis"]
+  },
+  {
+    "question": "Which of the following are important to provide to a crisis communication team? (Select two.)",
+    "answers": [
+      "Clear direction on the roles and responsibilities of team members",
+      "Access to adequate resources"
+    ]
+  },
+  {
+    "question": "Which of the following are desired qualities when choosing a spokesperson for your organization? (Select two.)",
+    "answers": [
+      "Patient when addressing tough questions or concerns",
+      "Articulate when communicating important details"
+    ]
+  },
+  {
+    "question": "The organization needs to ask itself about any quality control issues it may be having. Which of the following processes is most suitable for asking and answering that question?",
+    "answers": ["Vulnerability audit"]
+  },
+  {
+    "question": "Which of the following practices can help an organization prepare to uphold business continuity in the event of a crisis? (Select two.)",
+    "answers": [
+      "Rehearsing business continuity tasks",
+      "Performing a business impact assessment (BIA)"
+    ]
+  },
+  {
+    "question": "How can you leverage emerging technologies like AI in disaster recovery plans (DRP)?",
+    "answers": [
+      "By using data-driven techniques to inform the strategies behind the DRP."
+    ]
+  },
+  {
+    "question": "Which of the following is the first step in developing an incident response plan (IRP)?",
+    "answers": ["Identifying risks"]
+  },
+  {
+    "question": "Which of the following activities are important to conduct in a post-crisis phase? (Select two.)",
+    "answers": [
+      "Discussing lessons learned during the crisis",
+      "Communicating information about the crisis with stakeholders"
+    ]
+  },
+  {
+    "question": "Why is it important not to review a crisis too soon after it has concluded? (Select two.)",
+    "answers": [
+      "By reviewing a crisis too soon, you can exasperate the people involved.",
+      "By reviewing a crisis too soon, you may not have collected all of the useful details."
+    ]
+  },
+  {
+    "question": "Which of the following are tools of an effective media communication plan? (Select two.)",
+    "answers": ["Video briefing", "Press release"]
+  },
+  {
+    "question": "What is the purpose of a holding statement in crisis and media communications?",
+    "answers": ["To pre-write communications before they are needed"]
+  },
+  {
+    "question": "Which of the following are effective strategies when making statements on social media? (Select two.)",
+    "answers": [
+      "Being honest and up front",
+      "Presenting a face of the organization"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of obtaining feedback about an ethical crisis?",
+    "answers": ["To make operational improvements"]
+  },
+  {
+    "question": "Which of the following negative consequences is the direct result of failing to be truthful in communicating about a crisis?",
+    "answers": ["Reputational damage"]
+  },
+  {
+    "question": "When you deliver periodic statements about a crisis to the media, what should the first statement do?",
+    "answers": ["Set the tone of what is to follow"]
+  },
+  {
+    "question": "Why is it important to build a “reservoir” of goodwill with the media?",
+    "answers": [
+      "The media will be less likely to accuse the organization of being malicious or negligent in the event of a crisis."
+    ]
+  },
+  {
+    "question": "Why is it important to leverage legacy media like print, television, and radio, rather than just digital media?",
+    "answers": ["Not everyone has access to digital media platforms"]
+  },
+  {
+    "question": "Which of the following is a useful strategy when communicating the truth about a crisis becomes difficult?",
+    "answers": ["Put all of the information out there at once"]
+  },
+  {
+    "question": "How can sentiment analysis be useful in social media communication?",
+    "answers": [
+      "It can shape the content and delivery of the message based on users’ perceptions of the organization or technology."
+    ]
+  },
+  {
+    "question": "Which of the following describes ethics washing?",
+    "answers": ["Genuine ethical action gets replaced by superficial promises."]
+  },
+  {
+    "question": "Is an open door policy equivalent to ensuring employee voice?",
+    "answers": [
+      "No, because an open door policy does not ensure employees feel heard."
+    ]
+  },
+  {
+    "question": "Which of the following might be a risk of not having an ethical organizational culture?",
+    "answers": ["Employees might face cognitive dissonance."]
+  },
+  {
+    "question": "Which expression best characterizes what a company or organizational culture is?",
+    "answers": ["“This is how things are done around here.”"]
+  },
+  {
+    "question": "Which of the following describes change management?",
+    "answers": [
+      "A collective term for all approaches to prepare, support, and help individuals, teams, and organizations in making organizational change."
+    ]
+  },
+  {
+    "question": "Which organizational resource is most commonly used in terms of fostering an ethical organizational culture?",
+    "answers": ["Human resources"]
+  },
+  {
+    "question": "Which of the following describes the purpose of having an Ethics Board for a data-driven organization?",
+    "answers": [
+      "An Ethics Board can help maintain an organization’s values-based intentions and increase transparency into how they use data-driven technologies."
+    ]
+  },
+  {
+    "question": "Which of the following is a potential benefit of having an ethical organizational culture?",
+    "answers": ["Employees will feel a sense of responsibility and loyalty."]
+  },
+  {
+    "question": "Which of the following describes employee voice?",
+    "answers": [
+      "The amount of voluntary effort employees are willing to put into communicating suggestions, opinions, concerns, and ideas that can be used to make improvements."
+    ]
+  },
+  {
+    "question": "What is the purpose of ethics training in regard to fostering an ethical organizational culture?",
+    "answers": [
+      "To help employees develop their ability to recognize and promote ethical decisions in the workplace and identify ethical and unethical actions and behaviors."
+    ]
+  },
+  {
+    "question": "Why is corporate governance important when thinking about ethical considerations for the development of data-driven technologies?",
+    "answers": [
+      "It provides an accountability framework for stakeholders of the organization to prevent ethical violations."
+    ]
+  },
+  {
+    "question": "Which of the following would be the most beneficial stage to hold ethical risk reviews for a new project that your team is undertaking?",
+    "answers": ["Conception"]
+  },
+  {
+    "question": "Which of the following is NOT a common consideration when looking at the major ethical frameworks?",
+    "answers": ["Humanity"]
+  },
+  {
+    "question": "Which of the following is an ethical benefit of incorporating fair competition considerations in a data-driven technology ecosystem?",
+    "answers": ["Encouraging product or service differentiation"]
+  },
+  {
+    "question": "Which of the following principle sets are important for the creation of open data that is widely utilized?",
+    "answers": ["FAIR"]
+  },
+  {
+    "question": "Which of the following is a misuse of intellectual property (IP) when it comes to ethical accountability for an organization?",
+    "answers": [
+      "Using IP as a defensive mechanism to eschew transparency requirements."
+    ]
+  },
+  {
+    "question": "Which of the following is an ethical risk if there is non-compliance with legal and regulatory requirements within a jurisdiction ? (Select two).",
+    "answers": ["User discrimination", "Lack of transparency"]
+  },
+  {
+    "question": "Which of the following best explains why there is an emphasis on including human rights in the major ethical frameworks?",
+    "answers": [
+      "They are universal and provide scaffolding for all other ethical considerations."
+    ]
+  },
+  {
+    "question": "Why are environmental concerns important to consider in the ethical development of data-driven technologies?",
+    "answers": [
+      "Data-driven technologies can cause secondary, indirect, or cumulative effects on the environment that might impact people in the long term."
+    ]
+  },
+  {
+    "question": "Which of the following presents the most important argument for why we need to consider the impact of AI on labor in the design, development, and deployment of data-driven technology?",
+    "answers": [
+      "There might be potential labor rights and human rights violations."
+    ]
+  },
+  {
+    "question": "To which of the following groups would a code of ethics not be applicable?",
+    "answers": ["Data subjects of the data-driven technology system"]
+  },
+  {
+    "question": "Which of the following constitute internal stakeholders in the context of a code of ethics?",
+    "answers": ["Designers"]
+  },
+  {
+    "question": "Which of the following constitute external stakeholders in the context of a code of ethics?",
+    "answers": ["Regulators"]
+  },
+  {
+    "question": "How can you identify potential areas of concern for ethical practices when developing a code of ethics? (Select three).",
+    "answers": [
+      "Research similar organization’s ethical mistakes and concerns.",
+      "Obtain feedback from stakeholder focus groups.",
+      "Identify prior issues with your product or service."
+    ]
+  },
+  {
+    "question": "Which of the following are possible causes of the limited adoption of a code of ethics within an organization? (Select two).",
+    "answers": [
+      "Lack of awareness of the code of ethics and where it is meant to be applied",
+      "Lack of clarity in the code of ethics"
+    ]
+  },
+  {
+    "question": "Which style or tone is recommended for a code of ethics? (Select two.)",
+    "answers": ["Prescriptive language", "Plain language"]
+  },
+  {
+    "question": "Which of the following is a problematic reason to pilot a code of ethics prior to widespread deployment?",
+    "answers": [
+      "The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities."
+    ]
+  },
+  {
+    "question": "Which of the following is a reason to periodically update a code of ethics document?",
+    "answers": [
+      "It allows you to capture the evolving nature of the ethical risks of the product or service that you are developing."
+    ]
+  },
+  {
+    "question": "Which of the following will ensure that a code of ethics is widely adopted within the organization?",
+    "answers": [
+      "Integrating the code of ethics deeply into the existing workflows within the organization."
+    ]
+  },
+  {
+    "question": "Which of the following are reasons to design, develop, and deploy a code of ethics within an organization? (Select two).",
+    "answers": [
+      "It compels employees to operate in an ethical and integral manner.",
+      "It creates consistency in the ethical practices across the organization, rather than patchy implementation of the practices."
+    ]
+  },
+  {
+    "question": "Which of the following helps to ensure that internal and external ethics policies are adhered to in practice?",
+    "answers": [
+      "Having unambiguous procedures tied to the clauses of the policy."
+    ]
+  },
+  {
+    "question": "Which of the following is an important reason to have a policy owner for internal and external ethics policies ?",
+    "answers": [
+      "They can help to bring the right internal and external stakeholders together to help draft these ethics policies."
+    ]
+  },
+  {
+    "question": "Which of the following is a reason to engage in a comprehensive information gathering phase before drafting your internal and external ethics policies?",
+    "answers": [
+      "It helps to unearth best practices from peers in the industry."
+    ]
+  },
+  {
+    "question": "Which of the following is a reason to engage external stakeholders during the development of internal and external ethics policies ?",
+    "answers": [
+      "It can unearth new insights for how the products and services might be used in the target demographic community."
+    ]
+  },
+  {
+    "question": "Which of the following is an important action needed for the finalization of internal and external ethics policies before approval?",
+    "answers": [
+      "Documenting the assumptions and choices made in the drafting of the policies"
+    ]
+  },
+  {
+    "question": "Which of the following is an essential asset that helps to operationalize the internal and external ethics policies via procedures?",
+    "answers": [
+      "Concrete examples that show how the policies work in practice."
+    ]
+  },
+  {
+    "question": "Which of the following is a key element of communications with internal and external stakeholders regarding an organization’s ethics policies?",
+    "answers": ["Simple to follow examples"]
+  },
+  {
+    "question": "Which of the following is an important reason for continually refreshing an organization’s internal and external ethics policies?",
+    "answers": [
+      "It helps maintain alignment with the emergent risks and changing ethical posture of the products and services of the organization."
+    ]
+  },
+  {
+    "question": "Which of the following is a benefit of using focus groups over surveys?",
+    "answers": [
+      "They allow for deeper engagement with the target demographic community."
+    ]
+  },
+  {
+    "question": "Which of the following is a valid reason for tracking the number and severity of an organization’s ethical violations?",
+    "answers": [
+      "It can help provide transparency around the efforts to improve the policies."
+    ]
+  },
+  {
+    "question": "Based upon studies from conducted by accredited certification bodies and the Lumina Foundation, which of the following is true regarding professionals who hold industry validated certifications?",
+    "answers": [
+      "They have greater potential to earn higher salaries than peers without professional certifications."
+    ]
+  },
+  {
+    "question": "When scheduling your exam on Pearson VUE, you will be asked to provide information about yourself. Which of the following do you need to be sure to do when entering this information?",
+    "answers": [
+      "Match the government-issued ID that you will use to verify your identity on the day of the exam."
+    ]
+  },
+  {
+    "question": "Which of the following is a noted difference between a certificate and a certification?",
+    "answers": ["Certifications are issued by industry certification bodies."]
+  },
+  {
+    "question": "Which of thefollowing tools can be used to prepare for a certification exam?",
+    "answers": [
+      "Summative assessments in Coursera preparatory course.",
+      "The domain domains and objectives in the exam blueprint.",
+      "Instructor-led or self-paced courses in the exam domains."
+    ]
+  },
+  {
+    "question": "Which of the following are included in an exam blueprint?",
+    "answers": ["The length of the exam"]
+  },
+  {
+    "question": "Upon successful completion of your exam, which of the following actions can you take to share your certification with employers and peers?",
+    "answers": [
+      "Post your Accredible-issued badge on social platforms such as LinkedIn."
+    ]
+  },
+  {
+    "question": "You have scheduled your exam at a Pearson VUE test center. Which of the following should you do before you leave for your appointment at the test center?",
+    "answers": [
+      "Check that you have the government-issued ID that you used during registration."
+    ]
+  },
+  {
+    "question": "Which of the following are included in the CertNexus Candidate Agreement?",
+    "answers": ["Expectations of personal conduct such as cheating"]
+  },
+  {
+    "question": "Reviewing the exam blueprint prior to scheduling your exam will allow candidates to do which of the following?",
+    "answers": [
+      "Consider whether you possess the knowledge, skills, and abilities required to successfully pass the exam."
+    ]
+  },
+  {
+    "question": "Which of the following is an easy and accessible way to demonstrate your skills alongside your certification?",
+    "answers": [
+      "Post evidence of your accomplishments on your Accredible profile"
+    ]
+  },
+  {
+    "question": "Is ethics a checklist?",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is moral responsibility?",
+    "answers": [
+      "It means to be accountable for our actions and the effects of these actions"
+    ]
+  },
+  {
+    "question": "Moral responsibility is based on …",
+    "answers": [
+      "moral duties",
+      "obligations and norms arising from moral considerations"
+    ]
+  },
+  {
+    "question": "Is Passive responsibility is a form of backward-looking responsibility?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which are the elements that play a key role in assessing responsibility?",
+    "answers": ["blameworthiness", "accountability"]
+  },
+  {
+    "question": "What is foreseeability?",
+    "answers": ["to be able to know the consequences of actions"]
+  },
+  {
+    "question": "Active responsibility means …",
+    "answers": ["to prevent the negative effects of technology"]
+  },
+  {
+    "question": "Is Value Sensitive Design a form of active responsibility?",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is utilitarianism?",
+    "answers": [
+      "An ethical framework based on the utility principle",
+      "A type of consequentialism, where decisions and actions are evaluated as morally good or bad according to the consequences they bring about"
+    ]
+  },
+  {
+    "question": "Is duty ethics a framework in which an action is considered morally right if it agrees with a certain moral rule?",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does it mean that a weapon system is autonomous?",
+    "answers": [
+      "It means that has navigation, exploration and attack capabilities and does not require continuous human supervision"
+    ]
+  },
+  {
+    "question": "What Is Meaningful Human Control?",
+    "answers": [
+      "A concept proposed in the last years as a necessary condition for the responsible employment of autonomous weapon systems",
+      "The type of control for which the human controller must have enough information and time to intervene on the autonomous systems"
+    ]
+  },
+  {
+    "question": "Digital health and digital medicine have mainly four areas of application",
+    "answers": ["True"]
+  },
+  {
+    "question": "To establish the sustainability of digital services",
+    "answers": [
+      "to consider both the numerical value of their environmental impact and their social value"
+    ]
+  },
+  {
+    "question": "What is the goal of cybersecurity?",
+    "answers": [
+      "to guarantee the confidentiality, integrity, and availability of information"
+    ]
+  },
+  {
+    "question": "Automated Decision Systems",
+    "answers": [
+      "process data about people and combine human and automated decision making",
+      "have the ability to learn from experience"
+    ]
+  },
+  {
+    "question": "Is classification a possible form of learning?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Is Privacy related to the right to be left alone?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Privacy…",
+    "answers": [
+      "is not overrated",
+      "is about intensive tracking and monitoring of behaviors"
+    ]
+  },
+  {
+    "question": "Privacy does not play an essential role for the diversity of relationships",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is panopticon?",
+    "answers": ["a structure designed to serve as a prison"]
+  },
+  {
+    "question": "The moralization of technologies is",
+    "answers": [
+      "the deliberate development of technologies in order to shape moral action and moral decision-making",
+      "is the attempt to moralize the material environment in which people operate"
+    ]
+  },
+  {
+    "question": "What are experimental technologies?",
+    "answers": ["technologies with a limited operational experience"]
+  },
+  {
+    "question": "The label ‘biased algorithms’ refers to…",
+    "answers": [
+      "a systematic error in automated processes that causes unfair outcomes for certain individuals or groups"
+    ]
+  },
+  {
+    "question": "What are the ethical imperatives that AI practitioners should respect according to the European Guidelines for TAI?",
+    "answers": [
+      "fairness and explicability",
+      "prevention of harm",
+      "respect for human autonomy"
+    ]
+  },
+  {
+    "question": "What is a socio-technical perspective in the ethics of AI?",
+    "answers": [
+      "it means integrating technical solutions into broader ethical and social frameworks"
+    ]
+  },
+  {
+    "question": "Ethics of AI …",
+    "answers": ["requires a paradigm change", "involves different stakeholders"]
+  },
+  {
+    "question": "Is the following a parallel structure? Bill is interested not only in psychology but also in becoming an actor.",
+    "answers": ["no"]
+  },
+  {
+    "question": "Which of these is a good number of body paragraphs for most kinds of academic essays?",
+    "answers": ["3"]
+  },
+  {
+    "question": "True or false? The following is a good thesis statement for a compare/contrast essay: PC and Mac computers both have strengths; however, Mac has some advantages over PC.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? A compare/contrast essay usually compares three or more things, people, or ideas.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? The following is a good thesis statement for a compare/contrast essay: Superman and Batman are the super heroes in several popular movies.",
+    "answers": ["False"]
+  },
+  {
+    "question": "All of the following statements are true according to this lesson EXCEPT which one?",
+    "answers": [
+      "This lesson taught you that a compare/contrast essay must discuss both similarities and differences."
+    ]
+  },{
+    "question": "True or False? The following is a good thesis statement for a cause/effect essay: The fact that cell phone prices have gotten cheaper over the years has helped consumers in many ways.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Is this an effective thesis statement for an argument essay? Temperatures are getting hotter and rainfall has been less than the historical average.",
+    "answers": [
+      "No"
+    ]
+  }
+]
