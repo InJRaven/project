@@ -31,6 +31,7 @@ const Quizz = () => {
     { value: "prp201c", label: "PRP201c" },
     { value: "seo201c", label: "SEO201c" },
     { value: "ssl101c", label: "SSL101c" },
+    { value: "swe201c", label: "SWE201c" },
     { value: "wdu203c", label: "WDU203c" },
     { value: "wed201c", label: "WED201c" },
   ];

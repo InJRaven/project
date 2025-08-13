@@ -97,6 +97,7 @@
       }
 
       if (input.type === "radio") return true;
+      return true;
     }
     return false;
   };
@@ -112,7 +113,6 @@
     field.value = answer;
     field.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị input:", answer);
-    return;
   };
 
   const textareaField = async (
@@ -262,13 +262,25 @@
               const textarea = item.querySelector(
                 "textarea[required]"
               ) as HTMLTextAreaElement;
-
+              const chosenAnswers: boolean[] = [];
               for (const answer of matched.answers) {
-                await inputRadioAndCheckbox(inputs, answer);
+                const selected = await inputRadioAndCheckbox(inputs, answer);
+                if (selected) {
+                  chosenAnswers.push(true);
+                }
                 await inputField(inputs, answer);
                 await textareaField(textarea, answer);
               }
+              if (chosenAnswers.length === 0) {
+                const skipBtn = await getSkipButton(800);
+                if (skipBtn) {
+                  await handleClickButton(skipBtn, 800);
+                  console.log("⏭ Đã bấm Skip do không tick được đáp án nào");
+                  continue;
+                }
+              }
             }
+
             await handleClickButton(btn, 800);
             continue;
           }

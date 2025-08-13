@@ -1,0 +1,913 @@
+[
+  {
+    "question": "The difference between subsystems and modules are:",
+    "answers": [
+      "Subsystems can independently comprise the business logic by itself while modules can't."
+    ]
+  },
+  {
+    "question": "Software quality attributes that we care about during software architecture are:",
+    "answers": [
+      "Performance.",
+      "Reliability.",
+      "Testability.",
+      "Security.",
+      "Usability."
+    ]
+  },
+  {
+    "question": "Software architecture concerns itself with both estimation and quality but not partitioning.",
+    "answers": ["False."]
+  },
+  {
+    "question": "Which of the following is considered the most difficult in the software development process?",
+    "answers": ["Accurately identifying user needs"]
+  },
+  {
+    "question": "What is a Requirements Specification?",
+    "answers": ["Both"]
+  },
+  {
+    "question": "Based on the NASA statistics on budget and schedule overrun vs. time spent on requirements process, what is the recommended amount of time to spend on the requirements stage?",
+    "answers": ["5-10% of the total time spent on the project"]
+  },
+  {
+    "question": "Which of the following matches the terms to the correct definition?",
+    "answers": [
+      "Requirements - user needs in user language; Specification - solution properties designed to solve problem"
+    ]
+  },
+  {
+    "question": "Which of these is a user requirement?",
+    "answers": ["Allow the user to post a message to Facebook"]
+  },
+  {
+    "question": "Which of the following is NOT an example of a non-functional requirement.",
+    "answers": ["The user shall be able to select the course number."]
+  },
+  {
+    "question": "What element(s) of the WRSPM model belong in the environment (including the overlap between environment and system)?",
+    "answers": ["W, R"]
+  },
+  {
+    "question": "Which of these is proper definition of software architecture?",
+    "answers": [
+      "partitioning large systems into smaller ones that can be created separately, have individual business value, and can be easily integrated"
+    ]
+  },
+  {
+    "question": "Which of the following models is best suited for a system with significant shared data that needs to be shared across a variety of components or sub-systems, somewhat like global variables, but with better data integrity?",
+    "answers": ["blackboard"]
+  },
+  {
+    "question": "Which of the following models is best suited for a system that includes several subsets of functionality that are used in more than one area of the system?",
+    "answers": ["pipe-and-filter"]
+  },
+  {
+    "question": "Which of the following models is best suited for a system that benefits from the separation of complexity and processing between work which can be done locally and that which should be completed on a shared, remote service?",
+    "answers": ["client-server"]
+  },
+  {
+    "question": "Which of the following would be considered a sub-system, rather than a module?",
+    "answers": ["A set of classes which generates reports"]
+  },
+  {
+    "question": "Where does software design fit in the traditional waterfall software development lifecycle?",
+    "answers": ["Between architecture and implementation"]
+  },
+  {
+    "question": "Which of the following is NOT an aspect of software design",
+    "answers": ["Polymorphism"]
+  },
+  {
+    "question": "The ability to use a built-in function of a programming language to generate a random number is an example of which of the following?",
+    "answers": ["Information hiding"]
+  },
+  {
+    "question": "Analyzing the extent to which other modules must change when a module is modified is an example of which of the following?",
+    "answers": ["Coupling"]
+  },
+  {
+    "question": "When all of the responsibilities of a module are easily classified as being strongly related, this is an example of high what?",
+    "answers": ["Cohesion"]
+  },
+  {
+    "question": "Which of the following is most preferred?",
+    "answers": [
+      "Allowing one module to affect the program flow of another via the use of a state message (message coupling)"
+    ]
+  },
+  {
+    "question": "Which of the following is LEAST desirable?",
+    "answers": ["including functionality which occurs around the same time"]
+  },
+  {
+    "question": "Which of the following are necessary before proper testing?",
+    "answers": ["inputs, expected output, and an oracle"]
+  },
+  {
+    "question": "Which of the following is a mistake made by the developer?",
+    "answers": ["Fault"]
+  },
+  {
+    "question": "Which of the following is an example of validation?",
+    "answers": ["software is well-received by the user"]
+  },
+  {
+    "question": "In your current project, you have access to some intern development resources, which are not currently operating at full capacity. You also know that the testing timeline will be truncated, due to delays in critical-path module development. Which strategy should you employ?",
+    "answers": [
+      "Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development"
+    ]
+  },
+  {
+    "question": "When is testing complete?",
+    "answers": ["When you run out of time"]
+  },
+  {
+    "question": "Which of the following is an example of black-box testing?",
+    "answers": ["Developing test cases based on typical user behavior"]
+  },
+  {
+    "question": "What are some of the challenges with the Waterfall methods that prompted the software industry to come up with alternatives like Agile? (select 2)",
+    "answers": [
+      "It is difficult to predict user/customer needs.",
+      "Incorrect interpretations of requirements by developers go undetected for a long time. During user acceptance tests, these issues are discovered but it is very late."
+    ]
+  },
+  {
+    "question": "Which of the following statements aligns with the value \"Working software over comprehensive documentation” of Agile manifesto? (select any 2)",
+    "answers": [
+      "Value delivering software over writing documentation.",
+      "If documentation is absolutely essential then create it."
+    ]
+  },
+  {
+    "question": "Which one of the following statements/situations/conversations align with an Agile mindset?",
+    "answers": [
+      "Manager: “The customer is suggesting another change in feature X which is complete as per specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?” Developer: “Yes, if it does not fulfill user needs, we should make the change.\""
+    ]
+  },
+  {
+    "question": "Which of the following is TRUE about lean startup? (select all that apply)",
+    "answers": [
+      "Lean Startup concepts recommends to go through Build-Measure-Learn cycles as fast as you can.",
+      "In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can."
+    ]
+  },
+  {
+    "question": "Which of following is valid on a Kanban Board? (select any 2)",
+    "answers": [
+      "WIP limit for Step X is 5. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 3, and number of items in \"Done\" column is 1. One of the item in previous step is done and developer wants to move that item to Step X",
+      "WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 2, and number of items in \"Done\" column is 1. One of the items in the previous step is done and developer wants to move that item to Step X"
+    ]
+  },
+  {
+    "question": "Which of the following Framework/process model supports Agile Mindset? (select all that apply)",
+    "answers": ["XP", "Kanban", "Crystal", "DSDM", "Lean Startup", "Scrum"]
+  },
+  {
+    "question": "A software development team just started using Kanban. They had the following columns with WIP limit of 3 for each column on their Kanban board from left to right: Backlog(3), Analysis(3), Development(3), Testing(3), Deployment There are currently 3 items in Testing (3 items being tested) Similarly, there are 3 items in Development column (2 items are in development and 1 item is done being developed) One of the developers does not have anything to work on so the manager wants to add one more item to the development column so the developer looking for work can work on it. Which one of the following would be a valid action in this situation? (Select any 3)",
+    "answers": [
+      "Team should get together and discuss if we should increase the WIP limit of the development column as we have more developers and it will be smoother flow if WIP limit of the Development column is increased.",
+      "Manager should ask the developer waiting for work to help the testers so that they can finish one of the items from their column and move it to Deployment column.",
+      "The manager should ask the testers to move one of the items of the Test column temporarily to the Deployment column so that we can move items from the Development column. Later, we can move items back from the Deployment column to the Testing column."
+    ]
+  },
+  {
+    "question": "In Scrum, when is the sprint backlog created?",
+    "answers": ["During the sprint planning meeting"]
+  },
+  {
+    "question": "In Scrum, how is Product Backlog Arranged?",
+    "answers": [
+      "Most important items at the top, least important items at the bottom."
+    ]
+  },
+  {
+    "question": "Which of the following is an mistake in code which is found in code review?",
+    "answers": ["Failure"]
+  },
+  {
+    "question": "Which of the following is TRUE about Scrum? (Select all that apply)",
+    "answers": [
+      "Scrum has fixed time-boxed development cycles called sprints.",
+      "Scrum is an adaptive framework/model"
+    ]
+  },
+  {
+    "question": "Which of the following statements align with the value \"Working software over comprehensive documentation” of Agile manifesto? (select any 2)",
+    "answers": [
+      "If documentation is absolutely essential then create it.",
+      "Value delivering software over writing documentation."
+    ]
+  },
+  {
+    "question": "Which of the following are true about Agile Manifesto? (select any 2)",
+    "answers": [
+      "The Agile Manifesto consists of 4 values and 12 principles.",
+      "The Agile Manifesto is work in progress and we are continuing to learn."
+    ]
+  },
+  {
+    "question": "Which one of the following statements/situations/conversations align with an agile mindset?",
+    "answers": [
+      "Manager: “The customer is suggesting another change in feature X which is complete according to the specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?” Developer: “Yes, if it does not fulfill user needs, we should make the change.\""
+    ]
+  },
+  {
+    "question": "Why is it difficult to predict user needs and requirements? (select any 3)",
+    "answers": [
+      "Sometime the market shifts from time when the requirements were originally defined.",
+      "Translation issues. Requirements are misinterpreted.",
+      "Difficult to understand user needs."
+    ]
+  },
+  {
+    "question": "Which of the following statements align with following Agile Principle: \"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale\"",
+    "answers": [
+      "We should frequently deliver software in some environment (not necessarily to production always) to gather user/client feedback"
+    ]
+  },
+  {
+    "question": "Which of the following align with this principle: \" Working software is the primary measure of progress.\"",
+    "answers": [
+      "If a team has delivered 5 features out of 10 features (or stories), team has made progress (they are more than 0% done)"
+    ]
+  },
+  {
+    "question": "In which of the following situations, would you NOT recommend using an agile process?",
+    "answers": [
+      "For a project where change is not expected. requirements are well known, and the solution is both well known and repeatable."
+    ]
+  },
+  {
+    "question": "Which of the following is true for agile projects?",
+    "answers": [
+      "An agile methodology may help a team to go to market early by delivering with limited functionality."
+    ]
+  },
+  {
+    "question": "One of the core principles of agile is to \"Embrace Change\". This makes architecting and designing the system challenging since you don't know all of the requirements upfront. Thus, you have to be prepared to make architecture and design changes. To effectively embrace change, agile teams must learn how to keep the cost of change low. From the options below, select the ones that can help mitigate this challenge. (Select 3)",
+    "answers": [
+      "Keep the code clean and continuously improve/refactor the design as needed. Don't delay these changes for later.",
+      "Automated Regression testing provides faster feedback which helps you detect defects quickly. This in turn, gives you confidence to make changes.",
+      "Keep design simple and just build what is required. It is easier to change a simple design than to update a complicated design."
+    ]
+  },
+  {
+    "question": "Which of the following is true for a typical agile project? (select 2)",
+    "answers": [
+      "The team talks about the high-level software architecture / design as well as their approach for building software (the release plan) before directly jumping into coding.",
+      "If required, the team may need to plan and conduct training, etc. for users before launching the system."
+    ]
+  },
+  {
+    "question": "What is true about user stories in Agile Software Development? (Select any 3)",
+    "answers": [
+      "User stories are tokens for conversations.",
+      "Stories can be written at different levels and can be refined and split into smaller stories as you move from vague idea to implemented software.",
+      "User stories are used to plan, design, describe, build, and validate your product."
+    ]
+  },
+  {
+    "question": "What are some of the benefits of writing acceptance tests for a story? (select 4)",
+    "answers": [
+      "They help the product owner (who is writing the story) think through the user needs.",
+      "They help you write tests cases for the story.",
+      "They help build a common understanding between team members.",
+      "They can potentially help you split stories, if required."
+    ]
+  },
+  {
+    "question": "What is wrong with the following story? (Select any 2) \"As a product owner, I want a list of highly-rated restaurants on the brochure.\"",
+    "answers": [
+      "It doesn't specify the value of the story (the \"why\" is missing).",
+      "The user who benefits from this story is missing (the \"who\" is missing)."
+    ]
+  },
+  {
+    "question": "What is wrong with following user story? (Select any 2) \"I want the software to be easy to use.\"",
+    "answers": ["No valid user is identified.", "It is not testable."]
+  },
+  {
+    "question": "How is gathering user needs / requirements different on an agile project? (select any 3)",
+    "answers": [
+      "At any given time, the level of detail may be different for different parts of the software.",
+      "The agile way supports progressive refinement---defining the right level of detail at the right time.",
+      "Agile encourages conversations as a key method for building a shared understanding."
+    ]
+  },
+  {
+    "question": "What are some of the activities that happen during a User Story Writing Workshop? (Select any 4)",
+    "answers": [
+      "User role analysis and defining personas",
+      "Sometimes, you keep it free-form for people to write stories and later group them by theme.",
+      "To generate stories, one of the options is to start from the top down or bottom up.",
+      "Everybody silently writes user stories around a theme"
+    ]
+  },
+  {
+    "question": "Which of the following are true about the Story Mapping technique? (select 3)",
+    "answers": [
+      "It is a user-centric approach where we map out the system from a user's perspective.",
+      "The horizontal axis (moving from left to right) in a story map represents time.",
+      "The vertical axis (moving from top to bottom) in a story map represents rough priority."
+    ]
+  },
+  {
+    "question": "Due to an unpredictable market event, the Product Owner (PO) asked the team to complete the next release in 6 weeks. Assuming the backlog in Table 2 is up to date and prioritized from highest to lowest, the Product Owner wants you to estimate what can be done in next 6 weeks. Describe 1) what can be done, 2) what might be done, and 3) what will not be done. The velocity range to be used for the release planning is 15-22. The team works in 2 week iteration. Table 2: Prioritized Product Backlog Story Title Estimate (in ideal days) Story 1 5 Story 2 5 Story 3 8 Story 4 3 Story 5 5 Story 6 5 Story 7 3 Story 8 5 Story 9 8 Story 10 8 Story 11 3 Story 12 3 Story 13 3 Story 14 5 Story 15 8 Story 16 3 Story 17 5 Story 18 5 Story 19 8 Story 20 8",
+    "answers": [
+      "Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories"
+    ]
+  },
+  {
+    "question": "What is true about planning with an agile mindset? (Select any 2)",
+    "answers": ["Use Adaptive Planning.", "Plan just enough, just in time."]
+  },
+  {
+    "question": "What do we mean by Velocity in agile terms?",
+    "answers": [
+      "It is calculated at the team level and represents how much work a team can get done in an iteration."
+    ]
+  },
+  {
+    "question": "Which of the following is true about Scrum?",
+    "answers": [
+      "Burn-down and Burn-up charts help the team track the progress of the current sprint.",
+      "In the daily stand-up, everybody talks about what they worked on, what they are planning to work on, and any impediments they have."
+    ]
+  },
+  {
+    "question": "Which of the following is TRUE about Scrum? (Select two)",
+    "answers": [
+      "Scrum is an adaptive model.",
+      "Scrum has fixed, time-boxed development cycles called sprints."
+    ]
+  },
+  {
+    "question": "You are a developer on a scrum team. Your scrum master invited you to attend a sprint planning meeting. Which of following activities would you expect in that meeting?",
+    "answers": [
+      "The team will select the stories to work on for next iteration (sprint).",
+      "Either during the meeting or afterwards, developers create tasks to further solidify what work needs to be done and make final a work commitment for the sprint.",
+      "The product owner (or equivalent) shares the top priority stories for the sprint.",
+      "The developers/testers ask questions to understand the stories.",
+      "The developers/testers provide a high-level estimate for stories."
+    ]
+  },
+  {
+    "question": "During sprint planning, you are in the process of calculating team members capacity for an iteration. Which of the following activities should be EXCLUDED from the committed capacity of the team member?",
+    "answers": [
+      "Team member taking vacation / days off / Paid time off (PTO)",
+      "Organizational Meetings",
+      "Sprint Ceremonies"
+    ]
+  },
+  {
+    "question": "What should happen in the sprint review meeting? (select any 3)",
+    "answers": [
+      "What happened during the Sprint is reported.",
+      "A potentially shippable product increment is demonstrated live.",
+      "Feedback is gathered from stakeholders resulting in additional items added to the product backlog."
+    ]
+  },
+  {
+    "question": "The CEO asks a team member to do some work outside the goals of the current sprint in progress. What should the team member do?",
+    "answers": [
+      "Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team."
+    ]
+  },
+  {
+    "question": "When is a sprint complete?",
+    "answers": [
+      "When the sprint duration ends. For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks."
+    ]
+  },
+  {
+    "question": "Which of the following are goals of the daily stand-up meeting?",
+    "answers": [
+      "Set team direction and synchronize the day’s activities.",
+      "Share status information.",
+      "Identify impediments."
+    ]
+  },
+  {
+    "question": "Which of following is true about Sprint Reviews?",
+    "answers": [
+      "Individual team members should be encouraged to demo the work they did."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about the Sprint Retrospective? (select all that apply)",
+    "answers": [
+      "Team members should avoid blaming (finger pointing) other team members in the retrospective.",
+      "It is important to follow up on action items the team decided to work on."
+    ]
+  },
+  {
+    "question": "Which XP practice prescribes that \"the code [always be] written by two programmers at one machine\"?",
+    "answers": ["Pair Programming"]
+  },
+  {
+    "question": "Which of the following are primary practices prescribed by XP?",
+    "answers": ["Continuous Integration", "Pair Programming", "Whole Team"]
+  },
+  {
+    "question": "Which of the following is the meaning of XP practice \"Whole Team\"?",
+    "answers": [
+      "All the skills necessary to deliver the software product should be present on the team."
+    ]
+  },
+  {
+    "question": "If an XP team cannot provide an estimate for a story, what should they do to gain a better understanding of the story?",
+    "answers": [
+      "Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story."
+    ]
+  },
+  {
+    "question": "According to XP's principles, what should you do when a story's acceptance test fails?",
+    "answers": ["Create a bug report so it can be fixed."]
+  },
+  {
+    "question": "What activities occur as part of XP's \"Weekly Planning\" practice?",
+    "answers": [
+      "Reviewing the previous week's progress.",
+      "Breaking stories into smaller tasks.",
+      "Selecting the next week's work."
+    ]
+  },
+  {
+    "question": "According to the concept of \"Whole Team\", which of the following statements are true?",
+    "answers": [
+      "If the team finds out that they need a particular skill in the team, they can add a person with that skill to the team.",
+      "It is not recommended for a team member to be part of multiple teams.",
+      "All of the skills the team needs to be successful should be in the team."
+    ]
+  },
+  {
+    "question": "An XP team is getting feedback more frequently than they can handle. What should they do?",
+    "answers": ["Slow down the frequency of feedback."]
+  },
+  {
+    "question": "Which of the following is the right sequence when developing software using the XP practice of Test First Programming?",
+    "answers": [
+      "Write a test Make sure the test fails Write enough code so the test passes Refactor as necessary"
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about the XP value of \"Simplicity\"?",
+    "answers": ["Select the simplest design that could possibly work."]
+  },
+  {
+    "question": "In Lean software development, how can amplifying learning occur? (Select all that apply)",
+    "answers": [
+      "The developers make different solutions, each with the exact same features.",
+      "The developers use short iterations."
+    ]
+  },
+  {
+    "question": "How can waste arise in software development? (Select all that apply)",
+    "answers": [
+      "Developers work on rarely used product features.",
+      "There are product defects found late in the development."
+    ]
+  },
+  {
+    "question": "In Lean software development, what does the principle of \"defer commitment\" mean?",
+    "answers": [
+      "Decisions are made after having enough information from considering the alternatives."
+    ]
+  },
+  {
+    "question": "In Lean software development, what does the principle of \"deliver fast\" mean? (select 2 that apply)",
+    "answers": [
+      "A simpler version of software product (an MVP - Minimum Viable Product) is developed first to reach the market rapidly.",
+      "Iterations are short, so feedback is frequent, and product evolution is rapid."
+    ]
+  },
+  {
+    "question": "Which of the following align with the lean principle of \"build quality in\"? (select 2 that apply)",
+    "answers": [
+      "The developers refactor the source code to be simpler and easier to modify.",
+      "The developers apply practices to avoid or quickly catch errors while making the software product."
+    ]
+  },
+  {
+    "question": "In Lean software development, what does \"optimize the whole\" mean? (Select all the apply)",
+    "answers": [
+      "Rather than trying to optimize one part, look at the whole system for optimization opportunities.",
+      "The ability of a system to achieve its purpose depends on how well the parts work together, not just how well they perform individually."
+    ]
+  },
+  {
+    "question": "Which of the following tools can help you find waste in a process?",
+    "answers": ["Value Stream Mapping"]
+  },
+  {
+    "question": "What are some of the tools to amplify learning? (Select all that apply)",
+    "answers": [
+      "Set Based Development",
+      "Daily Builds and Smoke Tests",
+      "Iteration"
+    ]
+  },
+  {
+    "question": "How do you deliver fast (i.e reduce cycle time) without compromising the quality?",
+    "answers": ["Minimize the number of items in-process."]
+  },
+  {
+    "question": "\"The Last Responsible Moment\" is a tool for which Lean Software Principle?",
+    "answers": ["Defer Commitment"]
+  },
+  {
+    "question": "Lean helps increase productivity by:",
+    "answers": [
+      "Reducing the amount of useless activity that our resources (the team members) are currently burdened with."
+    ]
+  },
+  {
+    "question": "Which practices waste time during software development? (Choose two)",
+    "answers": [
+      "Weekly meetings that are held whether or not they are needed.",
+      "Delays in receiving work products."
+    ]
+  },
+  {
+    "question": "The 5 \"Whys\" to be considered during a Root Cause Analysis are...?",
+    "answers": ["Why, Why, Why, Why and Why"]
+  },
+  {
+    "question": "What is the purpose of the Lean tool 'Kaizen'?",
+    "answers": [
+      "An improvement activity to create more value and remove waste."
+    ]
+  },
+  {
+    "question": "Which of the following can be used to do 5 Whys analysis?",
+    "answers": ["A fishbone diagram"]
+  },
+  {
+    "question": "In Kanban, a developer pulls the next item to work on from the:",
+    "answers": ["previous column on the board"]
+  },
+  {
+    "question": "You are a developer on a team using a Kanban board to manage flow. You work on Step X within the process and it just so happens that you are looking for more work. The Kanban board is set up as follows: Step X has a WIP limit of 3. Step X is divided into \"Doing\" and \"Done.\" The number of items in the \"Doing\" column is 2. The number of items in the \"Done\" column is 1. Without violating the rules of the Kanban board, what should you do? Select all that apply.",
+    "answers": [
+      "Help the group (that picks work from the following column) finish their work so they can pull an item from the \"Done\" column of Step X. That will allow you to pick an item from the previous step.",
+      "Talk to the team about adjusting the WIP limit because increasing the WIP limit will create a better flow of work."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about Value Stream Mapping? Select all that apply.",
+    "answers": [
+      "Cycle Time is the total time taken for Value Stream.",
+      "Value-added activities are activities that add value from the customer perspective."
+    ]
+  },
+  {
+    "question": "What is the formula to calculate the Process Cycle Efficiency?",
+    "answers": ["Value Added Time / Cycle Time"]
+  },
+  {
+    "question": "What is the main goal of the Build-Measure-Learn Cycle?",
+    "answers": [
+      "To go through the build-measure-learn cycle as fast as possible."
+    ]
+  },
+  {
+    "question": "What do we mean by Validated Learning?",
+    "answers": [
+      "Validating the assumptions by conducting an experiment and collecting data."
+    ]
+  },
+  {
+    "question": "Which of the following are principles of Lean startup? Select all that apply.",
+    "answers": [
+      "Innovation Accounting",
+      "Validated Learning",
+      "Entrepreneurs are everywhere"
+    ]
+  },
+  {
+    "question": "Which of the following are true about Lean Startup? Select two.",
+    "answers": [
+      "It is based on going through the Build-Measure-Learn cycle as fast as you can.",
+      "It relies on actual data rather than gut feelings to validate assumptions or ideas."
+    ]
+  },
+  {
+    "question": "Why are traditional management principles ill-suited to the world of startups?",
+    "answers": ["Because startups face chaos and uncertainty."]
+  },
+  {
+    "question": "When a startup 'pivots', what is it doing?",
+    "answers": [
+      "Employing a revised strategy in an attempt to achieve its vision."
+    ]
+  },
+  {
+    "question": "According to Ries, which of the following adjectives describes good startup metrics? Select all that apply.",
+    "answers": ["Auditable", "Actionable", "Accessible"]
+  },
+  {
+    "question": "Which of the following are levels of Pirate Metrics? Select all that apply.",
+    "answers": ["Retention", "Revenue", "Acquisition", "Activation", "Referral"]
+  },
+  {
+    "question": "Which of the following are true about Pivot or Persevere? Select two.",
+    "answers": [
+      "Customer segment pivot: The product hypothesis is partially confirmed; it solves the right problem but for a different customer than originally anticipated.",
+      "Platform pivot: A change from an application to a platform or vice versa."
+    ]
+  },
+  {
+    "question": "How do Vanity metrics prevent/inhibit pivoting?",
+    "answers": [
+      "Vanity metrics allow entrepreneurs to draw incorrect conclusions. Based on these metrics, they assume that the product is going in the right direction when it really isn't."
+    ]
+  },
+  {
+    "question": "What are three ways that a past customer can drive sustainable growth?",
+    "answers": [
+      "Repeat purchase",
+      "Word-of-mouth referral",
+      "As side advertising due to usage of the product"
+    ]
+  },
+  {
+    "question": "What are the characteristics of \"Early Adopters\"?",
+    "answers": [
+      "Early adopters are actively seeking a solution to the problem your product solves.",
+      "Early adopters will give you their time and honest feedback."
+    ]
+  },
+  {
+    "question": "What are leap-of-faith assumptions?",
+    "answers": ["Assumptions that are the riskiest elements of a startup plan."]
+  },
+  {
+    "question": "Which of these attributes are favored by Lean startup? Select two.",
+    "answers": ["Experimentation and Iteration", "Customer feedback"]
+  },
+  {
+    "question": "Who is an \"Intrapreneur\" ?",
+    "answers": ["A manager who promotes innovations within the company."]
+  },
+  {
+    "question": "Which of the following are true about Design Thinking? Select 2.",
+    "answers": [
+      "It recommends that a cross-functional team work together in the design thinking process.",
+      "It is a process for creative problem solving."
+    ]
+  },
+  {
+    "question": "In design thinking, what are two of the main reasons to empathize with users?",
+    "answers": [
+      "To prevent team member bias from impacting their understanding of the problem and influencing the solution.",
+      "To discover the real problem to be solved."
+    ]
+  },
+  {
+    "question": "Design thinking results in innovation by integrating which three things?",
+    "answers": [
+      "Business Viability",
+      "Technical Feasibility",
+      "Human Desirability"
+    ]
+  },
+  {
+    "question": "What are the two dimensions for categorizing assumptions?",
+    "answers": [
+      "Probability that it will be wrong",
+      "Impact on our solution if it is wrong"
+    ]
+  },
+  {
+    "question": "What are the two dimensions for categorizing tests?",
+    "answers": [
+      "Quality of data collected from the test",
+      "Cost/Effort of conducting a test"
+    ]
+  },
+  {
+    "question": "The logical (intended) dependency is that observer depends on subject.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Up until now, the great state of Foo has held a lottery to help fund education in the state. The corporation tasked with the drawing of these numbers (the non-televised ones) is XYZ Numerical Tasking. You are the technical lead for the system which handles the drawings for the state's lotteries. One of your developers, with a mathematical tilt, comes to you with a proposal: change how the random numbers are generated. He suggests that the generation of random numbers could be better. NASA has released a random number generator which has been proven to be better than the one used by the company. He suggests that you make the change. One of your more senior developers notes that using the new generator will require a change. He suggests that the team connect the existing lotto system, as seen in Figure 1, to the new generator (Figure 2) using the Facade pattern. Figure 1 Figure 2 Facade, which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit. What pattern does?",
+    "answers": ["Adapter Pattern"]
+  },
+  {
+    "question": "Within the Custodial Management System, there are are a variety of items that are being watched at any given time. Certain items can receive notifications that a response is needed immediately (rather than just tracking whether the regular upkeep has been done that week/month/etc.). These items may then need one of several possible actions: rapid cleaning, bodily fluid containment and/or removal, addressing traction/slip-danger, urgent repair, etc. Each of these actions fit the same profile (action) but not necessarily the same steps. Which pattern would fit well as a solution to this systems needs?",
+    "answers": ["Observer Pattern"]
+  },
+  {
+    "question": "Early in our proof-of-concept work on the new game we are building, we effectively hard-coded the game to ask the user what action to take next, for both players. In this case, both users are tied into a single account, so that we can play against ourselves while we build out the game. Now, however, we want to add a new player type to the system, EasyDifficultyBot. While the \"player\" actions fit the same high-level format for both humans and our AI, the details of making it happen vary pretty widely. In order to allow for this change, we want to make use of a pattern that will allow this kind of expansion while minimizing changes to the existing code. What pattern would be best here?",
+    "answers": ["Strategy Pattern"]
+  },
+  {
+    "question": "Consider the statement \"In the Strategy pattern, the context should hold references to the ConcreteStrategies.\" Under what circumstances would this be true? Select all that apply.",
+    "answers": [
+      "When the context is tasked with deciding which strategy to use"
+    ]
+  },
+  {
+    "question": "In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Observer is an implementation of the Dependency Inversion principle.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Strategy Pattern helps maintain the Open/Closed Principle.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Notes: For questions 11-14, the diagram is a standard UML Class Diagram. You can view a larger version by right clicking and selecting \"View image\" (or similar) or by holding on the image and selecting \"Open image in new tab\" (or similar) if you're on mobile. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable). For the following class diagram, calculate the Instability value for the Bus class.",
+    "answers": ["0.714"]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the Stop class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).",
+    "answers": ["0.333"]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the PassengerUnloader class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).",
+    "answers": ["0.5"]
+  },
+  {
+    "question": "For the following class diagram, calculate the Instability value for the Simulator class. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable). (Hint: LocalSimulator depends on Simulator; which type of coupling is this?) Note: Simulator does not depend on ConfigManager; the arrow should go by it on its way to Stop.",
+    "answers": ["0.5"]
+  },
+  {
+    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially. LCOM4 = 1 indicates a cohesive class, which is the \"good\" class. LCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes. LCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class. Calculate the value of the LCOM4 measurement for the following code: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 #include \"src/route.h\" Route::Route(std::string name, Stop ** stops, double * distances, int num_stops, PassengerGenerator * generator) { //Constructors ignored in LCOM4 calculation } void Route::Update() { GenerateNewPassengers(); for (std::list<Stop *>::iterator it = stops_.begin(); it != stops_.end(); it++) { (*it)->Update(); } } bool Route::IsAtEnd() const { return destination_stop_index_ >= num_stops_; } void Route::NextStop() { destination_stop_index_++; if (destination_stop_index_ < num_stops_) { std::list<Stop *>::const_iterator iter = stops_.begin(); std::advance(iter, destination_stop_index_); destination_stop_ = *iter; } else { destination_stop_ = (*stops_.end()); } } Stop * Route::GetDestinationStop() const { return destination_stop_; } double Route::GetTotalRouteDistance() const { int total_distance = 0; for (std::list<double>::const_iterator iter = distances_between_.begin(); iter != distances_between_.end(); iter++) { total_distance += *iter;",
+    "answers": ["2"]
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
+    "answers": ["3"]
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
+    "answers": ["4"]
+  },
+  {
+    "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
+    "answers": ["4"]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 3?",
+    "answers": [
+      "Spacing between elements",
+      "variable name should be lowercase",
+      "variable should have trailing underscore",
+      "variable name should be separated by underscore"
+    ]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 4?",
+    "answers": [
+      "variable should have trailing underscore",
+      "variable name should be lowercase"
+    ]
+  },
+  {
+    "question": "9 10 }; Which of the following are style errors for the code on Line 5?",
+    "answers": ["order of access restrictions", "indentation"]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 6?",
+    "answers": ["Spacing between elements"]
+  },
+  {
+    "question": "9 10 }; Which of the following are style errors for the code on Line 7?",
+    "answers": ["method names should be CamelCase"]
+  },
+  {
+    "question": "Using a debugger can find all defects in code.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is created to allow a compiler to temporarily stop processing code that is being executed to allow for the developer to see current state?",
+    "answers": ["Breakpoint"]
+  },
+  {
+    "question": "Commits should happen only at the end of a daily coding session.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Only one line of code should change per commit.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Commit messages are only helpful to you at the time you make them.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Branching aids developers seeking to work on the same code simultaneously.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Project materials are stored in a remote repository through the WebHook functionality.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Compilers perform static analysis.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Static analysis can only be performed while code is being executed.",
+    "answers": ["False"]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 2?",
+    "answers": ["order of access restrictions"]
+  },
+  {
+    "question": "The goal of test selection is to find the maximum number of tests that can be successfully run.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Randomly testing is the poorest form of testing.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The developer of the code is the best person to test that code.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Manually created tests can use randomly selected inputs to maximize defect finding.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Code coverage includes statement coverage, ensuring all code statements are executed at least once by at least one test case and all tests pass.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Requirements testing is difficult because the tests can't be created until the code is written, which is quite far into the development process.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Program testing helps find defects, but testing cannot prove there are no bugs.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A test case is a set of inputs written to try and \"break the code\", i.e. find a defect.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Test obligations come from Structural Analysis, that is, from the code itself.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Tests which meet the code coverage criteria can still be poor tests.",
+    "answers": ["True"]
+  },
+  {
+    "question": "New processes/reports are able to be added to the Jenkins Pipeline through plug-ins.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Continuous Integration alerts to submitting developer of build or test failure, but cannot remove the code committed.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Continuous Integration is a subset of the capabilities in a Continuous Delivery pipeline.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Pushing code to production without the need for developer action is one of the primary benefits of Continuous Delivery.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The difference between Continuous Delivery and Continuous Deployment is whether the deployment of code to production is manual or automated, respectively.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Canary is a system of alerts to developers based on build, test, release and/or deployment. The alerts are similar to \"tweets\" as on Twitter, hence the similarity of the names.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Since the goal is for every test to pass, tests should only include inputs which will result in successful operation/behavior when executed on correct code.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The developer should first run the tests before adding anything new, as in to ensure that all tests passed before adding any new tests or code.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Continuous Delivery is an update to the Blue-Green Deployment paradigm.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Statement coverage is the strongest form of code coverage, which is why it is required for many FAA and FDA regulated software projects.",
+    "answers": ["False"]
+  }
+]
