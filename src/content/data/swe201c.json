@@ -752,14 +752,6 @@
   },
   {
     "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
-    "answers": ["3"]
-  },
-  {
-    "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
-    "answers": ["4"]
-  },
-  {
-    "question": "Cyclomatic complexity is calculated by the formula: M = E − N + 2P, where E = the number of edges of the graph. N = the number of nodes of the graph. P = the number of connected components . Calculate the cyclomatic complexity for the following control flow graph:",
     "answers": ["4"]
   },
   {
@@ -909,5 +901,370 @@
   {
     "question": "Statement coverage is the strongest form of code coverage, which is why it is required for many FAA and FDA regulated software projects.",
     "answers": ["False"]
+  },
+  {
+    "question": "Which of the following are true about requirements and specifications? (Choose all that apply)",
+    "answers": [
+      "Requirements shall be written in the user's language; system specifications shall be written in the system language.",
+      "Specifications shall meet the requirements.",
+      "Requirements are for users; specifications are for developers."
+    ]
+  },
+  {
+    "question": "The following are the requirements and specifications of an online banking service. Which of the following can be categorized as (user) requirements? Select two.",
+    "answers": [
+      "The user shall be able to check the current balance of the checking accounts that he/she own.",
+      "A user shall be able to use the online banking system securely."
+    ]
+  },
+  {
+    "question": "The following are requirements and specifications of an online banking service. Which of the following can be categorized as system specifications? Select two.",
+    "answers": [
+      "At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.",
+      "Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in has been inactive for more than 120 seconds."
+    ]
+  },
+  {
+    "question": "A constraint to only use Microsoft Project during the system development is a non-functional requirement.",
+    "answers": ["True."]
+  },
+  {
+    "question": "Which of the following are non-functional requirements:",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Looking at the difference between user requirements and system specifications in the ATM example, we know that swiping the card and prompting for a PIN are requirements, while reading the card details and a 4-digit PIN are specifications.",
+    "answers": ["True."]
+  },
+  {
+    "question": "WRSPM stands for:",
+    "answers": ["World, Requirement, Specification, Program and Machine."]
+  },
+  {
+    "question": "The purpose of the WRSPM model is to ensure that:",
+    "answers": ["Specifications meet the requirements."]
+  },
+  {
+    "question": "A subsystem in an architecture must:",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Partitioning of a large system into smaller subsystems helps the buy-or-build decision because we can examine each subsystem and reason about possible buy-or-build options for each.",
+    "answers": ["True."]
+  },
+  {
+    "question": "A good software architecture is important because:",
+    "answers": [
+      "It helps organize the workforce and resources.",
+      "It allows for parallelization in development.",
+      "It helps build-or-buy decisions.",
+      "It helps with funding decisions."
+    ]
+  },
+  {
+    "question": "A UNIX program where the output of one program is the input of another, is an example of which of the software architecture models below:",
+    "answers": ["Pipe-and-Filter Model."]
+  },
+  {
+    "question": "An online banking system is best modeled by:",
+    "answers": ["Client-Server Model."]
+  },
+  {
+    "question": "What element(s) of the WRSPM model belong in the interface (i.e. the overlap between environment and system)?",
+    "answers": ["W,R"]
+  },
+  {
+    "question": "A vehicle identification and tracking system, where each moving vehicle is tracked and monitored through a shared program, is best modeled by:",
+    "answers": ["Blackboard Model."]
+  },
+  {
+    "question": "Software design is the process of transforming the stated problem into a ready-to-use implementation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Abstract solutions do not require extensive domain knowledge and effectively reduce the costs during the software design phase.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is often advised that abstract solutions do not provide optimization details regarding the implementation.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When it comes to software design, it is always best to follow a solution that is widely popular in the industry",
+    "answers": ["False"]
+  },
+  {
+    "question": "While a solution coming from software design does not include implementation details, there are still common cases where pseudocode may be provided to correctly capture the sense of a complex algorithm.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Check all that apply: The four aspects of modularity are...",
+    "answers": [
+      "Information Hiding",
+      "Coupling",
+      "Data Encapsulation",
+      "Cohesion"
+    ]
+  },
+  {
+    "question": "Which of the four aspects of modularity is defined as: How well modules work together.",
+    "answers": ["Coupling"]
+  },
+  {
+    "question": "Which of the four aspects of modularity can be described as: Abstracting away implementation details.",
+    "answers": ["Information Hiding"]
+  },
+  {
+    "question": "Which of the four aspects of modularity can be described as: How well a module meets a single well-defined goal.",
+    "answers": ["Cohesion"]
+  },
+  {
+    "question": "Which of the four aspects of modularity can be described as: Containment of constructs and concepts within a module.",
+    "answers": ["Data Encapsulation"]
+  },
+  {
+    "question": "Three goals of ______ can be described as (1) Decomposability, (2) Composability, and (3) Ease of Understanding.",
+    "answers": ["Modularity"]
+  },
+  {
+    "question": "You have a sort function that provides no details on which sorting algorithm is used. This is an example of which aspect of modularity?",
+    "answers": ["Information Hiding"]
+  },
+  {
+    "question": "Choose the most accurate answer: Low coupling aids in...",
+    "answers": ["ensuring that changes don't cross boundaries of modules."]
+  },
+  {
+    "question": "Which of the following statements about coupling are true?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "The goal in low coupling is to ensure that changes don't cross the boundaries of modules.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The three types of tight coupling are:",
+    "answers": ["Content; Common; External"]
+  },
+  {
+    "question": "Module A relies directly on local data of module B. This is an example of what type of coupling?",
+    "answers": ["Tight content coupling"]
+  },
+  {
+    "question": "Modules A and B both rely on global data or a global variable. This is an example of what type of coupling?",
+    "answers": ["Tight common coupling"]
+  },
+  {
+    "question": "Modules rely on externally imposed format (or protocol or interface). This is an example of what type of coupling?",
+    "answers": ["Tight external coupling"]
+  },
+  {
+    "question": "The two types of medium coupling are:",
+    "answers": ["Control; Data Structure"]
+  },
+  {
+    "question": "Module A controls the logical flow of module B. This is an example of what type of coupling?",
+    "answers": ["Medium control coupling"]
+  },
+  {
+    "question": "Module A and B both rely on the same composite data structure. This is an example of what type of coupling?",
+    "answers": ["Medium data structure coupling"]
+  },
+  {
+    "question": "The three types of loose coupling are:",
+    "answers": ["Data; Message; None"]
+  },
+  {
+    "question": "Modules only share parameters. This is an example of what type of coupling?",
+    "answers": ["Loose data coupling"]
+  },
+  {
+    "question": "The loosest type of coupling; components only communicate through parameters or message passing. This is an example of what type of coupling?",
+    "answers": ["Loose message coupling"]
+  },
+  {
+    "question": "A benefit to using ______ is that you know if your data is corrupted, then it must have been corrupted by the module.",
+    "answers": ["Data Encapsulation"]
+  },
+  {
+    "question": "Choose the most accurate answer: Cohesion describes...",
+    "answers": ["how well everything within a module fits together."]
+  },
+  {
+    "question": "Which of the following statements about cohesion is true?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "The goal in real-life software development is to aim for object and functional cohesion and anything less than this should be justified.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The four types of weak cohesion are:",
+    "answers": ["Coincidental, temporal, procedural, logical association"]
+  },
+  {
+    "question": "Parts of modules are together in the same file. This is an example of what type of cohesion?",
+    "answers": ["Coincidental cohesion"]
+  },
+  {
+    "question": "Different pieces of code are activated at the same time. This is an example of what type of cohesion?",
+    "answers": ["Temporal cohesion"]
+  },
+  {
+    "question": "One piece of code runs after the other. This is an example of what type of cohesion?",
+    "answers": ["Procedural cohesion"]
+  },
+  {
+    "question": "Components do similar but separate things. This is an example of what type of cohesion?",
+    "answers": ["Logical association cohesion"]
+  },
+  {
+    "question": "The two types of medium cohesion are:",
+    "answers": ["Communicational, sequential"]
+  },
+  {
+    "question": "All elements of a component operate on the same input or produce the same output. This is an example of what type of cohesion?",
+    "answers": ["Communicational Cohesion"]
+  },
+  {
+    "question": "One component's output provides the input to another component. This is an example of what type of cohesion?",
+    "answers": ["Sequential Cohesion"]
+  },
+  {
+    "question": "The two types of strong cohesion are:",
+    "answers": ["Object, functional"]
+  },
+  {
+    "question": "Each operation in a module is provided to allow object attributes to be modified or inspected. This is an example of what type of cohesion?",
+    "answers": ["Object Cohesion"]
+  },
+  {
+    "question": "Every part of a component is necessary for a single well-defined behavior. This is an example of what type of cohesion?",
+    "answers": ["Functional Cohesion"]
+  },
+  {
+    "question": "True or False: inheritance strengthens cohesion.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Why should you program when you are alert?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following are examples of 'Write code for people not computers'? Select three.",
+    "answers": [
+      "In your comments, explain WHY the code does what it does.",
+      "Let your code (variable names, function names, etc.) explain HOW it does what it does.",
+      "Choose informative variable names."
+    ]
+  },
+  {
+    "question": "Fill in the blank. Write ____, _____, and _____ before writing functional code.",
+    "answers": ["Comments; Tests; Exception Handling."]
+  },
+  {
+    "question": "If you write the same code more than once...",
+    "answers": ["Put that code into a method."]
+  },
+  {
+    "question": "True or False: Every method can be written without side effects.",
+    "answers": ["False."]
+  },
+  {
+    "question": "Deployment occurs in the end stage of active development.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Product deployment should encapsulate three main focus areas. What are they?",
+    "answers": [
+      "Problem areas",
+      "Planned steps",
+      "Plan for recovery in case of failure"
+    ]
+  },
+  {
+    "question": "Concerns to address in your deployment plan include:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "A rollback is the reversal of actions completed during deployment with the intent to never revert a system back to its previous working state.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What are some reasons why you would need a rollback plan? Select two.",
+    "answers": [
+      "Installation doesn't go as expected.",
+      "Fixing the problem ends up taking longer than the window allows."
+    ]
+  },
+  {
+    "question": "Deployment without a rollback plan should occasionally occur. Especially when the installation involves deleting files.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The three cutover strategies are...",
+    "answers": ["Cold backup", "Warm standby", "Hot failover"]
+  },
+  {
+    "question": "If you need to have a cutover strategy where the replacement machine is ready for a full setup and install, then you would choose which of the following cutover strategies?",
+    "answers": ["Cold backup"]
+  },
+  {
+    "question": "If you need to have a cutover strategy where the replacement services are ready for the redirection of data with no installation, then you would choose which of the following cutover strategies?",
+    "answers": ["Hot failover"]
+  },
+  {
+    "question": "If you need to have a cutover strategy where the replacement machine is running and ready for installation, then you would choose which of the following cutover strategies?",
+    "answers": ["Warm standby"]
+  },
+  {
+    "question": "There is no difference between load balancing and hot failover.",
+    "answers": ["false"]
+  },
+  {
+    "question": "Test data represents possible inputs that are provided to the _____ for the purposes of testing.",
+    "answers": ["both the system and the oracle"]
+  },
+  {
+    "question": "The oracle uses information provided from test cases to decide the correctness of the software under test",
+    "answers": ["True"]
+  },
+  {
+    "question": "Test cases are composed of _______",
+    "answers": ["test data", "expected outputs"]
+  },
+  {
+    "question": "Manual oracles are sufficient and effective for the majority of real-world applications",
+    "answers": ["False"]
+  },
+  {
+    "question": "Choose the correct True-False pair: An error is the manifestation of a failure. A failure is the manifestation of an error.",
+    "answers": ["False, True"]
+  },
+  {
+    "question": "It is possible for errors to remain undiscovered as long as the erroneous ________ is never used",
+    "answers": ["component"]
+  },
+  {
+    "question": "Software testing can be used to prove the absense of failures in a module, but not the absense of faults",
+    "answers": ["False"]
+  },{
+    "question": "In waterfall method, you get your product in one big bang deployment",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Sashimi model may help decrease the time duration of the project by",
+    "answers": [
+      "Overlapping the phases"
+    ]
+  },
+  {
+    "question": "Which of the following are true for the V-model? Select two.",
+    "answers": [
+      "Testing-related activities are started earlier in the process.",
+      "It is a predictive model."
+    ]
   }
 ]
