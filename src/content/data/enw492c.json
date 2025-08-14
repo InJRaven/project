@@ -219,7 +219,8 @@
   {
     "question": "All of the following statements are true according to this lesson EXCEPT which one?",
     "answers": [
-      "This lesson taught you that a compare/contrast essay should discuss both similarities and differences."
+      "This lesson taught you that a compare/contrast essay should discuss both similarities and differences.",
+      "This lesson taught you that a compare/contrast essay must discuss both similarities and differences."
     ]
   },
   {
@@ -905,5 +906,29 @@
   {
     "question": "Use the following link to the Purdue Owl website and click on the appropriate tab on the left to answer questions about creating a Works Cited page for book sources. Purdue OWL MLA (This will open in a new window.) According to MLA 9th ed., which of the following is not a correctly formatted Works Cited entry for a book?",
     "answers": ["Option:"]
+  },
+  {
+    "question": "Which of these is a good number of body paragraphs for most kinds of academic essays?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Is this an effective thesis statement for an argument essay? Temperatures are getting hotter and rainfall has been less than the historical average.",
+    "answers": ["No"]
+  },
+  {
+    "question": "True or false? The following is a good thesis statement for a compare/contrast essay: PC and Mac computers both have strengths; however, Mac has some advantages over PC.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? A compare/contrast essay usually compares three or more things, people, or ideas.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? The following is a good thesis statement for a cause/effect essay: The fact that cell phone prices have gotten cheaper over the years has helped consumers in many ways.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? The following is a good thesis statement for a compare/contrast essay: Superman and Batman are the super heroes in several popular movies.",
+    "answers": ["False"]
   }
 ]

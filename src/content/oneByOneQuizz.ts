@@ -24,6 +24,10 @@
   const normalizeText = (text: string | null): string => {
     if (text == null) return "";
     return text
+      .replace(/\uFEFF/g, "")
+      .replace(/[\u200B-\u200D\u2060]/g, "")
+      .replace(/\u00A0/g, " ")
+      .normalize("NFKC")
       .replace(/^\d+\.\s*Question\s*\d+/i, "")
       .replace(/\d+\s*point[s]?$/i, "")
       .replace(/\s+/g, " ")
@@ -109,7 +113,8 @@
         i.required
     );
     if (!field) return;
-    await delay(50);
+    console.log(field);
+    await delay(200);
     field.value = answer;
     field.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị input:", answer);
@@ -120,7 +125,7 @@
     answer: string
   ) => {
     if (!textarea) return;
-    await delay(50);
+    await delay(200);
     textarea.value = answer;
     textarea.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị textarea:", answer);
@@ -167,6 +172,23 @@
       return null;
     }
   };
+  const getStartAssignmentBtn = async (
+    timeOut = 3000
+  ): Promise<HTMLElement | null> => {
+    try {
+      const btns = (await checkElement(
+        'button[type="button"]',
+        timeOut
+      )) as HTMLElement[];
+      return (
+        btns.find((b) =>
+          normalizeText(b.innerText).includes(normalizeText("Start assignment"))
+        ) || null
+      );
+    } catch {
+      return null;
+    }
+  };
   const readAction = (btn: HTMLElement): BtnAction => {
     const t = normalizeText(btn.innerText);
 
@@ -190,7 +212,16 @@
       const res = await fetch(jsonFilePath);
       if (!res.ok) return;
       const data: QuestionData[] = await res.json();
-
+      const checkbox = document.getElementById("agreement-checkbox-base");
+      if (checkbox) {
+        (window as any)._quizScriptRunning = null;
+        console.warn("⚠️ Đây Là List Quiz Không Phải One By One");
+        return;
+      }
+      const startAssignmentBtn = await getStartAssignmentBtn(300);
+      if (startAssignmentBtn) {
+        await handleClickButton(startAssignmentBtn, 300);
+      }
       while (true) {
         const confirmBtn = document.querySelector(
           '[data-testid="dialog-submit-button"]'
@@ -220,10 +251,10 @@
 
         switch (readAction(btn)) {
           case "SUBMIT":
-            await handleClickButton(btn, 800);
+            await handleClickButton(btn, 1000);
             break;
           case "NEXT":
-            await handleClickButton(btn, 800);
+            await handleClickButton(btn, 1000);
             break;
           case "CHECK": {
             const talkeQuestionFromCousera = (await checkElement(
@@ -249,7 +280,7 @@
 
                   const skipBtn = await getSkipButton(800);
                   if (skipBtn) {
-                    await handleClickButton(skipBtn, 800);
+                    await handleClickButton(skipBtn, 1000);
                     console.log("⏭ Đã bấm Skip do không tìm thấy câu hỏi khớp");
                   }
                   continue;
@@ -271,17 +302,22 @@
                 await inputField(inputs, answer);
                 await textareaField(textarea, answer);
               }
-              if (chosenAnswers.length === 0) {
+              if (
+                inputs.some(
+                  (i) => i.type === "radio" || i.type === "checkbox"
+                ) &&
+                chosenAnswers.length === 0
+              ) {
                 const skipBtn = await getSkipButton(800);
                 if (skipBtn) {
-                  await handleClickButton(skipBtn, 800);
-                  console.log("⏭ Đã bấm Skip do không tick được đáp án nào");
+                  await handleClickButton(skipBtn, 1000);
+                  console.log("⏭ [SKIP] Không tick được đáp án nào");
                   continue;
                 }
               }
             }
 
-            await handleClickButton(btn, 800);
+            await handleClickButton(btn, 1000);
             continue;
           }
 

@@ -470,23 +470,9 @@
     "answers": ["Yes I did."]
   },
   {
-    "question": "Which of the following statements best describes a personal learning network? Check one option.",
-    "answers": [
-      "An online network of people and information sources that can assist your learning."
-    ]
-  },
-  {
     "question": "Which is the best way to describe your online ‘social identity’? Check one option.",
     "answers": [
       "Personal data shared online through social networking services."
-    ]
-  },
-  {
-    "question": "Which of the following are ways to take control of your online identity? Check 3 options.",
-    "answers": [
-      "expect unexpected audiences",
-      "Treat video, audio and images like text.",
-      "Have a public profile that you maintain."
     ]
   },
   {
@@ -525,8 +511,7 @@
       "(b). Recognize the importance & function of problem solving & creative thought within academic study.",
       "(e). Apply problem-solving strategies to issues related to university life & study.",
       "Confidently engage in constructive and critical dialogue with respect and professionalism.",
-      "Understand the importance and function of critical thinking in academic culture.",
-      "Identify types of argument, and bias within arguments, in order to better evaluate the strength of arguments."
+      "Communicate clearly across a variety of different contexts and to a wide range of audiences by adapting communicative styles appropriately according to cultural and societal expectations."
     ]
   },
   {
@@ -539,7 +524,7 @@
       "(a). In video questions & polls.",
       "(b). Practice quizzes after each lesson.",
       "Short quizzes after each lesson",
-      "In video questions & polls"
+      "In video questions & polls."
     ]
   },
   {
@@ -1888,8 +1873,276 @@
   {
     "question": "Consider the following information graphic and corresponding text in a design specification report, detailing the creation and usage of an online resource for stroke survivors. “Usage of the SmartSurvive site gradually increased throughout 2015. After its launch in January, the first quarter saw 325 visitors to the site. Usage plateaued in the second and third quarters at 450 and 475 visitors respectively, before jumping to 595 visitors in the last quarter.” Which of the following statements about the visual aid and accompanying writing are true? Check two options.",
     "answers": [
-      "a. The student has failed to adequately describe the main information from the visual aid in the writing.",
-      "b. The visual aid has not been properly labelled."
+      "b. The visual aid has not been properly labelled.",
+      "c. The wrong form of visual aid has been used."
+    ]
+  },
+  {
+    "question": "Which of the following are learning objectives for this MOOC? Check 3 options.",
+    "answers": [
+      "Critically evaluate the reliability of sources for an academic context.",
+      "Filter, manage and organize information from a wide variety of sources for use in academic study.",
+      "Demonstrate awareness of ethical issues related to academic integrity surrounding the access and use of information."
+    ]
+  },
+  {
+    "question": "What percentage of your total marks is the final summative assessment worth? Check one option.",
+    "answers": ["35%"]
+  },
+  {
+    "question": "Which of the following are NON-assessed activities on this MOOC? Check 2 options. (Partial marks awarded.)",
+    "answers": ["In video questions & polls", "Short quizzes after each lesson"]
+  },
+  {
+    "question": "Which of the following are some of the core values and expectations of academic culture mentioned by academics 1.2a? Check 4 options.",
+    "answers": [
+      "Academic integrity",
+      "Critical thinking",
+      "Intellectual inquiry and communication",
+      "Ethical contribution"
+    ]
+  },
+  {
+    "question": "Which of the following actions would need some level of digital literacy? Check 2 options.",
+    "answers": [
+      "Writing an email to your lecturer at university.",
+      "Creating a LinkedIn profile."
+    ]
+  },
+  {
+    "question": "According to the experts in 1.2b, which of the following is an example of the contribution of information and digital literacy to the values of academic culture? Check one option.",
+    "answers": [
+      "Beginning an assignment with one opinion, but changing your opinion as you gather and read more information sources with contrary evidence."
+    ]
+  },
+  {
+    "question": "What aspects of time management does Jessa Collings say are most important at university? Check 2 options.",
+    "answers": [
+      "Complete course readings in advance.",
+      "Prepare for assignments in advance."
+    ]
+  },
+  {
+    "question": "What does Professor Nick Enfield suggest is one of the most important ways for a student to prepare for university? Check one option.",
+    "answers": ["Be open-minded."]
+  },
+  {
+    "question": "What is academic integrity? Check one option.",
+    "answers": ["Behaving ethically and responsibly at university."]
+  },
+  {
+    "question": "What does Marcella Robertson suggest students notice at university? Check one option.",
+    "answers": ["How their field understands and presents knowledge."]
+  },
+  {
+    "question": "According to the lecture, universities are not just trying to train you for a job role, but are also trying to prepare you … Check one option.",
+    "answers": ["to behave ethically"]
+  },
+  {
+    "question": "“Academic communities of integrity value the interactive, cooperative, participatory nature of learning. They honor, value, and consider diverse opinions and ideas. … In academic environments of integrity, even those who disagree on facts share … reverence for knowledge and the methods by which it is obtained.” (International Centre for Academic Integrity , 2014, pg 24). Which of the academic values is this referring to? Check one option.",
+    "answers": ["Fairness"]
+  },
+  {
+    "question": "(source: https://en.wikipedia.org/wiki/File:Soc-net-paten-growth-chart.png) Is the graph above an example of information or knowledge? Check one option.",
+    "answers": ["Information"]
+  },
+  {
+    "question": "An episode of the TV fantasy drama series Dragon's Play. Is this part of the cultural record or the scholarly record? Check one option.",
+    "answers": ["Cultural record"]
+  },
+  {
+    "question": "Is a review of the book The Politics of Free Markets in the academic journal Social Forces an example of a primary source, a secondary source, or a tertiary source? Check one option.",
+    "answers": ["Secondary source"]
+  },
+  {
+    "question": "Why can’t we rely just on textbooks as information sources at university? Check 2 options.",
+    "answers": [
+      "Because they don’t provide deep knowledge of a subject",
+      "Because they present an unproblematic view of a field and don’t always present current debates in the field."
+    ]
+  },
+  {
+    "question": "Academic journal articles allow us to enter the discussions that define our academic field. However, what is a DISADVANTAGE of academic journal articles? Check one option.",
+    "answers": [
+      "They are difficult to read because of the expert vocabulary used."
+    ]
+  },
+  {
+    "question": "What is the usual structure of a scientific journal article? Check one option.",
+    "answers": [
+      "Abstract, Introduction, Methodology, Results, Discussion, Conclusion, References"
+    ]
+  },
+  {
+    "question": "You are doing an assignment on media representations of women in business. Where would be a good place to begin your search? Check 3 options.",
+    "answers": ["Google", "library aggregated search", "YouTube"]
+  },
+  {
+    "question": "Which of the following places will give information sources with greater quality, but with a more limited range of sources? Check 2 options.",
+    "answers": [
+      "academic journal database",
+      "library website aggregated search"
+    ]
+  },
+  {
+    "question": "According to Pat, how can you search sites such as academic databases more efficiently to get the information you want? Check 2 options.",
+    "answers": ["Boolean searching", "Use key words from assignment."]
+  },
+  {
+    "question": "Consider the following question. “You have zero privacy anyway. Get over it” (Scott McNealey, 1999). What is privacy? How have changes in technology made privacy an issue for citizens and governments? The first step in developing a search strategy is to break the question down into sub-topics. Choose the best set of sub-topics for this question. Choose one option.",
+    "answers": [
+      "Definition of privacy, technology privacy issues for citizens, technology privacy issues for governments"
+    ]
+  },
+  {
+    "question": "Consider the following question. “You have zero privacy anyway. Get over it” (Scott McNealey, 1999). What is privacy? How have changes in technology made privacy an issue for citizens and governments? Another important step in developing a search strategy is to develop a set of search terms using synonyms of key words in the question. Choose the best set of synonyms of key terms from the groups below. Choose one option.",
+    "answers": ["surveillance, computers, civilians, subjects, state, politics"]
+  },
+  {
+    "question": "Consider the following question. “You have zero privacy anyway. Get over it” (Scott McNealey, 1999). What is privacy? How have changes in technology made privacy an issue for citizens and governments? A student has run the following search term while researching the question: \"privacy OR citizens OR government OR technology OR politics\" It has returned too many results, many of which are irrelevant. Why? Choose one option.",
+    "answers": [
+      "The search is too wide because using OR as a search term widens the search."
+    ]
+  },
+  {
+    "question": "Consider the following question. “You have zero privacy anyway. Get over it” (Scott McNealey, 1999). What is privacy? How have changes in technology made privacy an issue for citizens and governments? A student wants to research the effects of technology on privacy for citizens. What is the best combination of search terms below? Choose one option.",
+    "answers": [
+      "privacy AND technology AND (civilians OR citizens OR subjects)"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a criterion used to judge the credibility of sources? Check one option.",
+    "answers": ["Clarity"]
+  },
+  {
+    "question": "Which of the following may pose a problem for objectivity? Check 2 options.",
+    "answers": [
+      "A study conducted by an airline company on the relative safety of air travel compared to boat travel.",
+      "A journal article on the health impacts of a particular fast-food burger that was sponsored by the fast-food chain which makes it."
+    ]
+  },
+  {
+    "question": "Consider our example assessment question. “Doctors can be replaced by software – 80% of them can. I’d much rather have a good machine learning system diagnose my disease than the median or average doctor” (Vinod Khosla). Discuss the implications of artificial intelligence doing traditionally human tasks from technical, social and economic perspectives. A student has found the information source below for example assessment question. An interview in the ‘News’ section of National Geographic online with the writer of a book on AI and employment. The writer of the book discusses the economic benefits and drawbacks of AI to the economy. The writer of the article is a professional writer. The article was published in 2015. What is the problem with the source’s credibility? Check 2 options.",
+    "answers": ["The authority", "The source’s audience is not academic."]
+  },
+  {
+    "question": "Consider our example assessment question. “Doctors can be replaced by software – 80% of them can. I’d much rather have a good machine learning system diagnose my disease than the median or average doctor” (Vinod Khosla). Discuss the implications of artificial intelligence doing traditionally human tasks from technical, social and economic perspectives. Which of the following sources would best meet the needs of this assessment? Check 2 options.",
+    "answers": [
+      "An article in The Economist on “on-shoring” – factories moving back to developed countries from developing countries due to increased use of automation in factories.",
+      "A journal article on a new method of programming driverless cars."
+    ]
+  },
+  {
+    "question": "Consider our example assessment question. “Doctors can be replaced by software – 80% of them can. I’d much rather have a good machine learning system diagnose my disease than the median or average doctor” (Vinod Khosla). Discuss the implications of artificial intelligence doing traditionally human tasks from technical, social and economic perspectives. You have found a journal article for your assignment; the abstract of the article is below. Read the abstract and answer the question below. There are increasing policy debates on the efficacy of universal basic income (UBI) within both political and academic circles. These debates have emerged as a response to failures of the welfare state on the one hand, and the threat to employment posed by increasing automation on the other. While issues surrounding introduction and maintenance of the UBI have been explored at some length in sociological and political science literature, economics as a discipline has been slow to enter this discussion. This paper applies a new institutional economic framework to explore the effects of UBI on the economy as well as broader social effects. It shows that while the costs of implementation and the threat of work disincentives are greater than has previously been indicated, the benefits of introducing a UBI far outweigh the drawbacks, particularly when an ongoing decrease in manual and middle class jobs due to automation is assumed. Implications for welfare and social policy are explored. We need to decide if it is relevant. How useful is this for your assignment? Check one option .",
+    "answers": ["Partly"]
+  },
+  {
+    "question": "Consider our example assessment question. “Doctors can be replaced by software – 80% of them can. I’d much rather have a good machine learning system diagnose my disease than the median or average doctor” (Vinod Khosla). Discuss the implications of artificial intelligence doing traditionally human tasks from technical, social and economic perspectives. You have found a journal article for your assignment; the abstract of the article is below. Read the abstract and answer the question below. This study seeks to explore the educational affordances and constraints of English language teacher robots in Korea. With small but increasing use of AIs in service industries, there is a growing literature on the impact of robots and AI on everyday social interactions in a number of contexts; however, the effects of robots and AIs in educational contexts remain relatively unexplored. This study used ethnographic means to explore the impact of English language teacher robots in 3 primary school settings in Korea. It combined ethnographic non-participant observation with interviews to look at how language teaching could be technologically supported, drawing on the workplace studies of Heath and Luff (2000) to look at how the use of technologically-mediated language instruction offered a new range of affordances and constraints to both students and teachers. Implications for language pedagogy and curriculum development are explored. Do you think the information will be appropriately explored in this article, and not be too general or too specific to use in our assessment question? Check one option.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "You would like to save the PLos One article on robot surgery to your computer. The article citation is: Noda Y, Ida Y, Tanaka S, Toyama T, Roggia MF, et al. (2013) Impact of Robotic Assistance on Precision of Vitreoretinal Surgical Procedures. PLoS ONE 8(1): e54116. doi:10.1371/journal.pone.0054116 According to lesson 3.3a, what would be the best file name to use? Check one option.",
+    "answers": ["Noda et al_2013_robot surgery"]
+  },
+  {
+    "question": "You are saving a draft answer to our example question. The date is 20th of June, 2017. The assessment is the second assessment for the subject STEC1001 Sociology of Technology. What is the best file name to save it as? Check one option.",
+    "answers": ["170620_STEC1001_Assignment2"]
+  },
+  {
+    "question": "You have a collection of course notes from your course in Business Communications (BUS1002) from the first year of your undergraduate course in Business Management. You took the course in the second quarter of 2018 and your lecturer was Caroline Ng. What would be the best name for the top level folder in your university folder hierarchy for this information, according to lesson 3.3b? Check one option.",
+    "answers": ["2018_Quarter 2"]
+  },
+  {
+    "question": "What are the two purposes of step one in the three step approach to reading? Check 2 options.",
+    "answers": ["Assess credibility and relevance.", "Understand main ideas."]
+  },
+  {
+    "question": "Which of these parts of an academic journal article would you probably NOT read in great detail? Check one option.",
+    "answers": ["Methodology"]
+  },
+  {
+    "question": "While reading an information source, what should you do if you find references to other additional relevant information sources? Check one option.",
+    "answers": ["Circle or highlight them for later reference."]
+  },
+  {
+    "question": "When you make notes on an information source, how should you organize them? Check one option.",
+    "answers": ["According to categories based on your research question"]
+  },
+  {
+    "question": "What is the difference between unintentional and intentional plagiarism? Check one option.",
+    "answers": [
+      "Unintentional plagiarism is when you are not aware of your plagiarism, and intentional plagiarism is when you deliberately copy another’s work."
+    ]
+  },
+  {
+    "question": "Which of the following would you NOT need to reference at university? Check 2 options.",
+    "answers": ["Your own ideas", "Common knowledge"]
+  },
+  {
+    "question": "Compare the original with a student’s paraphrase below. Original “AI systems have already become far too complicated for the average person to understand, let alone repair, so there will be new roles created which will require people who can act as intermediaries between computers and humans.” (Bollegala, D. (2016, May 5). Robot revolution: rise of the intelligent automated workforce. theconversation.com. Retrieved from http://theconversation.com/robot-revolution-rise-of-the-intelligent-automated-workforce-58252 ) Student’s paraphrase The growing use of AI in society does not preclude job growth. There are those that argue that, instead, the use of AI will lead to new forms of employment. For example, because machine learning systems have already become far too complicated for ordinary people to understand or fix, there will be new jobs that will emerge which will require people who can act as mediators between AI systems and humans (Bollegala, 2016). Has the student plagiarized the original? Check one option.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What are the two places in academic writing where citations appear and must correspond? Check one option.",
+    "answers": ["In-text and end-text"]
+  },
+  {
+    "question": "What type of referencing system is being used in the text below? Check one option.",
+    "answers": ["Footnote"]
+  },
+  {
+    "question": "Look at the following in-text citation, using an in-text citing system, in an essay. There is an error with the in-text citation. What is the problem? Check one option.",
+    "answers": [
+      "The writer has given the publication name rather than the author’s name."
+    ]
+  },
+  {
+    "question": "Below is an original quote from the Noda et al. article, and also the direct quote as used in a student’s essay. Original quote “Recently robot-assisted surgery has broadened its application and has been introduced into the surgical theaters worldwide.” (Noda et al., 2013, p. 1) Student’s writing Another important innovation has been the advent of robotic surgery, which Noda et al. write has “recently ... broadened its application and has been introduced into surgical theaters worldwide” (2013, p. 1). Has the student used the quote correctly or incorrectly? If it is incorrect, why? Check one option.",
+    "answers": [
+      "The student’s use of the quote is incorrect because they should have put the ‘r’ in “recently” in square brackets."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a strategy for paraphrasing suggested by Swales and Feak (2012)? Check one option.",
+    "answers": ["Rearrange the order of information from the original."]
+  },
+  {
+    "question": "Original “Recently robot-assisted surgery has broadened its application and has been introduced into the surgical theaters worldwide” (Noda et al., 2013, p. 1). Student’s writing Some writers, such as Noda et al. (2013), have written that robotic surgery can now be found in many hospitals around the world. How has the writer modified the claim of the original in their paraphrase? Check one option.",
+    "answers": ["Softened the claim."]
+  },
+  {
+    "question": "Which of the following statements about copyright are NOT true? Check one option.",
+    "answers": ["University students are exempt from copyright laws."]
+  },
+  {
+    "question": "What is generally the rule regarding student’s use of academic journal articles downloaded from paid databases? Check one option.",
+    "answers": ["They are for personal research only."]
+  },
+  {
+    "question": "What should you do if you use intellectual property in your work at university and you are not the copyright owner? Check 2 options.",
+    "answers": [
+      "Make sure you understand the copyright license.",
+      "Cite it properly."
+    ]
+  },
+  {
+    "question": "Why is it useful for a university student to know about Creative Commons licensing? Check one option.",
+    "answers": [
+      "Because using Creative Commons licensed content can reduce your chances of infringing copyright law."
+    ]
+  },
+  {
+    "question": "Which of the following statements best describes a personal learning network? Check one option.",
+    "answers": [
+      "An online network of people and information sources that can assist your learning."
+    ]
+  },
+  {
+    "question": "Which of the following are ways to take control of your online identity? Check 3 options.",
+    "answers": [
+      "expect unexpected audiences",
+      "Treat video, audio and images like text.",
+      "Have a public profile that you maintain."
     ]
   }
 ]

@@ -24,6 +24,10 @@
   const normalizeText = (text: string | null): string => {
     if (text == null) return "";
     return text
+      .replace(/\uFEFF/g, "")
+      .replace(/[\u200B-\u200D\u2060]/g, "")
+      .replace(/\u00A0/g, " ")
+      .normalize("NFKC")
       .replace(/^\d+\.\s*Question\s*\d+/i, "")
       .replace(/\d+\s*point[s]?$/i, "")
       .replace(/\s+/g, " ")
@@ -140,6 +144,8 @@
 
       if (!checkbox) {
         (window as any)._quizScriptRunning = null;
+        console.warn("⚠️ Đây Là One By One Không Phải List Quiz ");
+
         return;
       }
 
@@ -199,7 +205,7 @@
 
         if (submitBtn) {
           submitBtn.scrollIntoView({ behavior: "smooth", block: "center" });
-
+          await delay(1000);
           submitBtn.dispatchEvent(
             new MouseEvent("click", {
               view: window,

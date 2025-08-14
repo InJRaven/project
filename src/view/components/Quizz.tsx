@@ -32,6 +32,7 @@ const Quizz = () => {
     { value: "seo201c", label: "SEO201c" },
     { value: "ssl101c", label: "SSL101c" },
     { value: "swe201c", label: "SWE201c" },
+    { value: "wdu202c", label: "WDU202c" },
     { value: "wdu203c", label: "WDU203c" },
     { value: "wed201c", label: "WED201c" },
   ];
@@ -104,6 +105,24 @@ const Quizz = () => {
     }
   };
 
+  const handleTakeQuizz = async () => {
+    if (!value) return;
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab.id) {
+      await chrome.scripting.executeScript({
+        target: { tabId: tab.id },
+        files: ["content/testTakeQuizz.js"],
+      });
+
+      chrome.tabs.sendMessage(tab.id!, {
+        action: "takeQuizz",
+        subject: value,
+      });
+    }
+  };
   const handleSelect = (selected: string) => {
     const newValue = selected === value ? "" : selected;
     setValue(newValue);
@@ -131,7 +150,7 @@ const Quizz = () => {
             </Button>
           </PopoverTrigger>
         </div>
-        <div className="flex gap-2">
+        <div className="flex gap-2 flex-wrap">
           <Button
             size="sm"
             onClick={handleSumitQuiz}
@@ -152,6 +171,14 @@ const Quizz = () => {
             className="bg-blue-500 hover:bg-blue-700 transition-colors"
           >
             Test Data Duplicate
+          </Button>
+
+          <Button
+            size="sm"
+            onClick={handleTakeQuizz}
+            className="bg-blue-500 hover:bg-blue-700 transition-colors"
+          >
+            Take Quizz
           </Button>
         </div>
         <PopoverContent className="w-[--radix-popper-anchor-width] p-0">

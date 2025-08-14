@@ -1,6 +1,7 @@
 import { Fragment, useEffect, useId, useState } from "react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Label } from "@/components/ui/label";
+
 const Setting = () => {
   const id = useId();
   const [checked, setChecked] = useState<boolean>(true);
@@ -13,6 +14,8 @@ const Setting = () => {
   useEffect(() => {
     chrome.storage.local.set({ autoSubmit: checked });
   }, [checked]);
+
+
   return (
     <Fragment>
       <div className="flex items-center space-x-2">
@@ -27,6 +30,7 @@ const Setting = () => {
           Auto Submit
         </Label>
       </div>
+
     </Fragment>
   );
 };

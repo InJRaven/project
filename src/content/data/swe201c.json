@@ -747,7 +747,7 @@
     "answers": ["0.5"]
   },
   {
-    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially. LCOM4 = 1 indicates a cohesive class, which is the \"good\" class. LCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes. LCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class. Calculate the value of the LCOM4 measurement for the following code: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 #include \"src/route.h\" Route::Route(std::string name, Stop ** stops, double * distances, int num_stops, PassengerGenerator * generator) { //Constructors ignored in LCOM4 calculation } void Route::Update() { GenerateNewPassengers(); for (std::list<Stop *>::iterator it = stops_.begin(); it != stops_.end(); it++) { (*it)->Update(); } } bool Route::IsAtEnd() const { return destination_stop_index_ >= num_stops_; } void Route::NextStop() { destination_stop_index_++; if (destination_stop_index_ < num_stops_) { std::list<Stop *>::const_iterator iter = stops_.begin(); std::advance(iter, destination_stop_index_); destination_stop_ = *iter; } else { destination_stop_ = (*stops_.end()); } } Stop * Route::GetDestinationStop() const { return destination_stop_; } double Route::GetTotalRouteDistance() const { int total_distance = 0; for (std::list<double>::const_iterator iter = distances_between_.begin(); iter != distances_between_.end(); iter++) { total_distance += *iter;",
+    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially. LCOM4 = 1 indicates a cohesive class, which is the \"good\" class. LCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes. LCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class. Calculate the value of the LCOM4 measurement for the following code:",
     "answers": ["2"]
   },
   {
@@ -771,7 +771,7 @@
     ]
   },
   {
-    "question": "9 10 }; Which of the following are style errors for the code on Line 5?",
+    "question": "1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 5?",
     "answers": ["order of access restrictions", "indentation"]
   },
   {
@@ -779,7 +779,7 @@
     "answers": ["Spacing between elements"]
   },
   {
-    "question": "9 10 }; Which of the following are style errors for the code on Line 7?",
+    "question": "1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 7?",
     "answers": ["method names should be CamelCase"]
   },
   {
@@ -1248,23 +1248,536 @@
   {
     "question": "Software testing can be used to prove the absense of failures in a module, but not the absense of faults",
     "answers": ["False"]
-  },{
+  },
+  {
     "question": "In waterfall method, you get your product in one big bang deployment",
-    "answers": [
-      "True"
-    ]
+    "answers": ["True"]
   },
   {
     "question": "Sashimi model may help decrease the time duration of the project by",
-    "answers": [
-      "Overlapping the phases"
-    ]
+    "answers": ["Overlapping the phases"]
   },
   {
     "question": "Which of the following are true for the V-model? Select two.",
     "answers": [
       "Testing-related activities are started earlier in the process.",
       "It is a predictive model."
+    ]
+  },
+  {
+    "question": "In predictive models, change during the development is expected.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In which model might you end up building something different than what you originally planned?",
+    "answers": ["Adaptive models"]
+  },
+  {
+    "question": "What are the BENEFITS of the Sashimi Model? Select two.",
+    "answers": [
+      "It can support creating a learning prototype early",
+      "It can help shorten development time"
+    ]
+  },
+  {
+    "question": "Which of the following is true for the V-model? Select two.",
+    "answers": [
+      "The V-model is useful in cases where there is ambiguity in requirements and early validation would be useful.",
+      "It is a predictive model"
+    ]
+  },
+  {
+    "question": "Which of the following is true for Incremental Models? Select three.",
+    "answers": [
+      "If deploying an increment to actual users can benefit the organization, using an incremental model is a potential candidate to consider.",
+      "You can overlap building of one increment with another",
+      "Incremental models may result in rework"
+    ]
+  },
+  {
+    "question": "Which of the following is true for the Waterfall model, V-model and Sashimi model? Select two.",
+    "answers": [
+      "In these models, we assume that we know requirements really well",
+      "In these models, the cost of change depends on how late we find out about the change. If a problem requiring a change is found during the implementation phase, it will be more expensive to fix than one found during the design phase."
+    ]
+  },
+  {
+    "question": "Which model is the best model to use in all situations?",
+    "answers": ["None"]
+  },
+  {
+    "question": "In the Unified Process, all requirements work is done upfront and no requirements work is done in the construction phase.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What are some of the activities that happen in the elaboration phase of the Unified Process? Select two.",
+    "answers": [
+      "Validate system architecture by building executable architecture baseline",
+      "Address known risks"
+    ]
+  },
+  {
+    "question": "Which of the following activities happen in Step 2 of the Spiral Model? Select two.",
+    "answers": ["Resolve risks", "Identify risks"]
+  },
+  {
+    "question": "Select the four basic steps followed in each cycle of the Spiral Model.",
+    "answers": [
+      "Identify and Resolve Risks",
+      "Define Objective",
+      "Development and Tests",
+      "Plan the Next Iteration"
+    ]
+  },
+  {
+    "question": "Which of the following are true for the Unified Processes and its variants? Select two.",
+    "answers": [
+      "Agile Unified Process and Open Unified Process are lighter versions of the \"Unified Process\".",
+      "Enterprise Unified Process adds additional practices on top of the Unified Process and Rational Unified Process."
+    ]
+  },
+  {
+    "question": "What are some of the challenges with Waterfall methods that prompted the software industry to come up with alternatives like Agile? Select three.",
+    "answers": [
+      "Wrong implementation goes undetected for a long time.",
+      "Integration issues between different components of the software go undetected for a long time. During the testing phase, when all the components are integrated, these issues are discovered but it is very late in the process.",
+      "Predicting customer needs is difficult."
+    ]
+  },
+  {
+    "question": "What are the four Agile values according to the Agile Manifesto?",
+    "answers": [
+      "Customer Collaboration over Contract Negotiation",
+      "People and Interaction over Processes and Tools.",
+      "Working Software over Comprehensive Documentation",
+      "Responding to Change over Following a Plan"
+    ]
+  },
+  {
+    "question": "Which of the following statements align with the value \"Working software over comprehensive documentation” of the Agile manifesto?",
+    "answers": ["Create documentation when it provides value."]
+  },
+  {
+    "question": "Which of the following is true about the Agile Manifesto? Select two.",
+    "answers": [
+      "The Agile Manifesto consists of 4 values and 12 principles.",
+      "The Agile Manifesto is a work in progress and we are continuing to learn."
+    ]
+  },
+  {
+    "question": "Why is it difficult to predict user needs and requirements? Select three.",
+    "answers": [
+      "Sometimes the market shifts from the time when the requirements were originally defined.",
+      "Translation issues. Requirements are misinterpreted.",
+      "Difficult to understand user needs."
+    ]
+  },
+  {
+    "question": "Which of the following are official rituals/meetings/practices in Scrum?",
+    "answers": [
+      "Daily Scrum Meeting",
+      "Sprint Planning Meeting",
+      "Sprint Retrospective Meeting",
+      "Sprint Review Meeting"
+    ]
+  },
+  {
+    "question": "Which of these are core properties of Kanban?",
+    "answers": ["Manage Flow", "Limit work in progress", "Visualize the Work"]
+  },
+  {
+    "question": "Which of the following are TRUE about Lean Startup? Select two.",
+    "answers": [
+      "In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can.",
+      "Lean Startup concepts recommend to go through Build-Measure-Learn cycles as fast as you can."
+    ]
+  },
+  {
+    "question": "Which of the following is true about product and sprint backlogs? Select two.",
+    "answers": [
+      "A sprint backlog is created during the sprint planning meeting.",
+      "The product backlog is a prioritized backlog with highest priority items on the top."
+    ]
+  },
+  {
+    "question": "Which of the following is true for adaptive models? (Select any two)",
+    "answers": [
+      "You may end-up building something different than what you originally thought"
+    ]
+  },
+  {
+    "question": "A team divided the application they were building into 4 parts and planning to build one part at a time. To build each part, they are planning to go through the steps of requirements, design, implementation, test, and deployment. Also, they are planning to complete each part fully with high fidelity. By fidelity we mean the completeness of the features implemented in each part. Based on this information, what type of model do you suggest they use for their software development process?",
+    "answers": ["Incremental"]
+  },
+  {
+    "question": "A team is working on a problem where the requirements are well known but they are short on time. They prefer to start the design phase when some of the requirements have been defined. Similarly, they want to start coding when the design for part of the system is ready. What model will best fit their needs?",
+    "answers": ["Sashimi"]
+  },
+  {
+    "question": "In the incremental model variation where you do requirements and design for all of the application once and then just increment on implementation, testing, and deployment, are you making the process more suitable for a predictive or adaptive situation?",
+    "answers": ["Predictive"]
+  },
+  {
+    "question": "Which of following is NOT true about incremental and iterative models?",
+    "answers": [
+      "An incremental model is one where you can build each part of the system individually but you release all at once."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT true for the Waterfall model, V-model and Sashimi model?",
+    "answers": [
+      "These models will be a good model to be used by a startup implement a new idea that is new to market"
+    ]
+  },
+  {
+    "question": "In the Unified Process, what does the milestone of \"Lifecycle Architecture\" mean?",
+    "answers": [
+      "Agreement among the stakeholders about the technical approach."
+    ]
+  },
+  {
+    "question": "Which of the following is true for the Unified Process? (select any 3)",
+    "answers": ["It is a framework and not a specific model."]
+  },
+  {
+    "question": "Select situations listed below where you would NOT use the Unified Process framework.",
+    "answers": [
+      "Very small, simple project where the problem and solution are well known."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT true for Spiral Model?",
+    "answers": [
+      "You always have to perform all the steps mentioned in the Spiral Model diagram"
+    ]
+  },
+  {
+    "question": "Which of the following is true about Scrum? Select two.",
+    "answers": [
+      "In daily stand-up, everybody talks about what they worked, what they are planning to work on and share any impediments they have.",
+      "Burndown and Burnup chart help teams track the progress of the current sprint."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT the benefits of the Unified Process?",
+    "answers": ["Easy to understand and implement."]
+  },
+  {
+    "question": "What are some of the challenges with waterfall methods that prompted the software industry to come up with alternatives like agile? Select three.",
+    "answers": [
+      "It is difficult to predict user/customer needs",
+      "Integration issues between different components of the software go undetected for a long time. During the testing phase, when all the components are integrated, these issues are discovered but it is very late in the process.",
+      "Incorrect interpretations of requirements by developers go undetected for a long time. During user acceptance tests, these issues are discovered but it is very late."
+    ]
+  },
+  {
+    "question": "What are the four values of the Agile Manifesto?",
+    "answers": [
+      "People and Interaction Over Processes and tools",
+      "Customer Collaboration Over Contract Negotiation",
+      "Responding to Change Over Following a plan",
+      "Working Software over comprehensive documentation"
+    ]
+  },
+  {
+    "question": "Which Agile Value does the following principle align with: \"Build projects around motivated individuals, give them the environment and support they need and trust them to get the job done.\"",
+    "answers": ["Individuals and Interaction Over Process and Tools"]
+  },
+  {
+    "question": "Which of the following align with the agile principle: \"Business people and developers work together daily throughout the project.\"",
+    "answers": [
+      "Since agile methodologies do not recommend writing all detailed requirements upfront, it is really important to support greater collaboration between business people and developers so that they can build a shared understanding of what needs to be built."
+    ]
+  },
+  {
+    "question": "What are some of the benefits organizations have seen from using agile methods? Select five.",
+    "answers": [
+      "Project Visibility",
+      "Increased productivity",
+      "Increased Team Morale",
+      "Improved Business / IT Alignment",
+      "Better Software Quality"
+    ]
+  },
+  {
+    "question": "The agile principle of \"Deliver working software frequently\" helps with which of the following challenges of predictive model? Select two.",
+    "answers": [
+      "It helps validate user needs.",
+      "It helps detect translation issues."
+    ]
+  },
+  {
+    "question": "What new challenges does agile bring? Select two.",
+    "answers": [
+      "Very uncomfortable for leaders because of unpredictable journey",
+      "Architecture/Design/Database modeling is challenging"
+    ]
+  },
+  {
+    "question": "What are some of the tactics / concepts you can use to implement agile mindset? Choose two.",
+    "answers": [
+      "To keep the cost of change down, use engineering practices like automated tests, continuous integration, incremental design",
+      "Build in small bite-sized chunks. These chunks could represent both iterative and incremental approach"
+    ]
+  },
+  {
+    "question": "If a developer says \"because we are agile, we don't need to do any discussion or upfront design\", is he/she truly representing what agile means",
+    "answers": ["No, agile does not mean start coding right away."]
+  },
+  {
+    "question": "When applying agile, we don't need to do any release planning. We only plan for a week.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What of the following are the qualities of good user story as mentioned in the INVEST model? Choose three.",
+    "answers": [
+      "Independent: Dependencies among stories should be minimized",
+      "Valuable: Stories should be valuable to user",
+      "Testable: Once the story is implemented, we should be able to test that it is done"
+    ]
+  },
+  {
+    "question": "What issues do you see in following story? As a grocery buyer, I want to see different food items in different colors: red for meats, brown for grains, green for vegetables so that i can identify food items by type.",
+    "answers": ["This story breaks the quality of negotiable."]
+  },
+  {
+    "question": "What are the 3 Cs of user stories?",
+    "answers": ["Confirmation", "Card", "Conversation"]
+  },
+  {
+    "question": "What are some of the key parts of a user story? Choose four.",
+    "answers": [
+      "Who is it for? What does the user want to do? Why does the user want to do that?",
+      "Acceptance tests",
+      "The estimated development time",
+      "The story title"
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about \"Spike\" stories? Choose three.",
+    "answers": [
+      "It is recommended that these stories have well defined acceptance criteria so that team knows what is expected at the end of exploration.",
+      "Spike stories are timeboxed.",
+      "They can be used for knowledge acquisition."
+    ]
+  },
+  {
+    "question": "The goal of a story writing workshop is to:",
+    "answers": [
+      "Write as many user stories as possible under the themes identified."
+    ]
+  },
+  {
+    "question": "What are some of the valid ways to handle non-functional requirements in agile development? Select two.",
+    "answers": [
+      "Create specific stories that outline the non-functional needs with clear acceptance criteria.",
+      "Add non-functional requirements to the definition of done for all stories."
+    ]
+  },
+  {
+    "question": "Which of the following are true about story writing workshops? Select two.",
+    "answers": [
+      "A story writing workshop can take anywhere between a few hours to a few days.",
+      "The whole team (including the product owner, the scrum master, and the development team) participates in the story writing workshop."
+    ]
+  },
+  {
+    "question": "What are some of the ways a story map can help software development? (Select any four)",
+    "answers": [
+      "It helps plan releases and work.",
+      "It helps communicate user needs with the stakeholders and get feedback.",
+      "It helps discover user needs.",
+      "It builds a shared understanding among team members."
+    ]
+  },
+  {
+    "question": "What are some of the activities you expect to see in a story mapping exercise? Select three.",
+    "answers": [
+      "Find gaps in the story map by walking through the user experience (as expressed in the activities/tasks) aloud.",
+      "Find variations in the paths the user can take through the system.",
+      "Plan releases/journeys."
+    ]
+  },
+  {
+    "question": "What are the characteristics of good product backlog? (Select any 4)",
+    "answers": [
+      "Emergent",
+      "Estimated",
+      "Prioritized",
+      "Detailed appropriately"
+    ]
+  },
+  {
+    "question": "Who estimates the effort to complete a product backlog item (a user story)?",
+    "answers": ["The scrum development team after clarifying the requirement."]
+  },
+  {
+    "question": "What is true about Agile Estimation techniques? Select two.",
+    "answers": [
+      "Estimates are shared.",
+      "They estimate effort and not duration."
+    ]
+  },
+  {
+    "question": "Which of the following estimates represents concept of relative sizing? Select three.",
+    "answers": [
+      "Story A is bigger than Story B. Story C is smaller than Story A.",
+      "Story A is 1 apple, Story B is 5 apples, and Story C is 10 apples",
+      "Story A will take half the time Story B will take. Story C will take double the time Story A will take."
+    ]
+  },
+  {
+    "question": "What is true about the planning poker estimation technique? Select three.",
+    "answers": [
+      "It helps uncover misunderstandings.",
+      "Everyone involved in development has to participate in estimation.",
+      "It supports the concept of shared estimates."
+    ]
+  },
+  {
+    "question": "Which of the following observations are true about Card Sorting? Select two.",
+    "answers": [
+      "It is very useful for estimating a large number of stories.",
+      "This technique benefits from using relative sizing."
+    ]
+  },
+  {
+    "question": "What is true about estimation using Ideal Days? Select two.",
+    "answers": [
+      "It has a potential issue of \"My ideal days are not your ideal days\".",
+      "It is very natural for a new team member to understand."
+    ]
+  },
+  {
+    "question": "Calculate the velocity range a team should use to select work for next iteration based on their past velocities (see chart below). The team uses the last 5 iterations to estimate their velocity. Use format \"from-to\" to specify the answer (e.g., 0-100). No spaces before/after the dash. Table 1: The velocity of previous iterations Iteration Story points completed 1 14 2 18 3 23 4 17 5 15 6 21 7 22 8 20",
+    "answers": ["15-22"]
+  },
+  {
+    "question": "A team was doing release planning and they decided that the next release will include all stories from Story 1 to Story 11 (see table 2 below). The velocity range to be used for the release planning is 15-22. The team works in a 2 week iteration. It costs about $50,000 per iteration to fund the entire team. Calculate the estimated duration for next release. Additionally, how much will this release cost? Table 2: Prioritized Product Backlog Story Title Estimate (in ideal days) Story 1 5 Story 2 5 Story 3 8 Story 4 3 Story 5 5 Story 6 5 Story 7 3 Story 8 5 Story 9 8 Story 10 8 Story 11 3 Story 12 3 Story 13 3 Story 14 5 Story 15 8 Story 16 3 Story 17 5 Story 18 5 Story 19 8 Story 20 8",
+    "answers": ["Duration: 6-8 weeks, Cost: 150K to 200K"]
+  },
+  {
+    "question": "Select scenarios below where the team used the correct approach to handle special cases of team velocity.",
+    "answers": [
+      "To forecast velocity for first iteration, 1) the team builds deeper understanding of few stories from the backlog 2) From the understood stories, they select stories they feel they can get done in one sprint. 3) The sum the estimates of the selected stories is the team's forecasted velocity.",
+      "One of the team members is taking a couple days off in next iteration, but the team didn't adjust its velocity to reflect that."
+    ]
+  },
+  {
+    "question": "Which of the following methods can help you track a release? (select any 2)",
+    "answers": [
+      "A cumulative flow diagram for a release",
+      "A release burn-up chart"
+    ]
+  },
+  {
+    "question": "Which of the following are official rituals/meetings/practices in scrum? Select four.",
+    "answers": [
+      "Sprint Review Meeting",
+      "Sprint Retrospective Meeting",
+      "Daily Scrum Meeting",
+      "Sprint Planning Meeting"
+    ]
+  },
+  {
+    "question": "What are the three roles in Scrum?",
+    "answers": ["Product Owner", "The Team", "Scrum Master"]
+  },
+  {
+    "question": "Who prioritizes the work in Scrum?",
+    "answers": ["Product Owner"]
+  },
+  {
+    "question": "What artifacts are defined as part of Scrum framework? Select any 3.",
+    "answers": [
+      "Product Backlog",
+      "Sprint Backlog",
+      "Iteration Burndown / Burnup"
+    ]
+  },
+  {
+    "question": "In Scrum, how is the Product Backlog arranged?",
+    "answers": [
+      "Most important items at the top, least important items at the bottom."
+    ]
+  },
+  {
+    "question": "In which agile artifact are the customer needs captured?",
+    "answers": ["In the Product Backlog"]
+  },
+  {
+    "question": "What is usually plotted on the x-axis of the Sprint Burndown Chart?",
+    "answers": ["Days of the sprint"]
+  },
+  {
+    "question": "What is a Sprint Burndown Chart?",
+    "answers": [
+      "A chart showing the trend of work remaining across time in a sprint."
+    ]
+  },
+  {
+    "question": "Your team is planning out the next sprint. You've chosen to fill the sprint by taking stories in priority order from the product backlog and stopping when you reach the first story that won't fit in the sprint. Based on following details, which stories should the team commit to for a sprint? Table 1: Prioritized story with estimated story points and total estimate in hrs of tasks for that story. Story Story Points Total of Tasks Estimates Story 1 5 16 hrs Story 2 8 16 hrs Story 3 5 24 hrs Story 4 3 16 hrs Story 5 13 32 hrs Story 6 8 26 hrs Story 7 5 8 hrs Story 8 8 15 hrs Story 9 5 12 hrs Table 2: Capacity of Team members for given sprint Name # days available Hours / day Capacity (hrs) You compute this John 3 4-5 Matt 5 2-3 Sally 5 4-5 Ram 5 2-3",
+    "answers": ["Story 1, Story 2, and Story 3"]
+  },
+  {
+    "question": "During sprint execution, when are new tasks added to the sprint?",
+    "answers": [
+      "As soon as possible after they are identified, unless they reflect a scope change in the sprint goals."
+    ]
+  },
+  {
+    "question": "Who should attend the sprint retrospective?",
+    "answers": ["All team members."]
+  },
+  {
+    "question": "How long should the Daily Standup be?",
+    "answers": ["Short fixed duration (most commonly 15 min)."]
+  },
+  {
+    "question": "Which of the following are discussed in a sprint retrospective? Select three.",
+    "answers": [
+      "What's working?",
+      "What's not working?",
+      "New action items / What can we do better?"
+    ]
+  },
+  {
+    "question": "Which of the following are 5 Lean principles? (Not the 7 principles of Lean software development)",
+    "answers": [
+      "Create flow",
+      "Map the Value Stream",
+      "Seek Perfection",
+      "Establish Pull",
+      "Identify Value"
+    ]
+  },
+  {
+    "question": "In terms of \"Lean\", what is the best description of Waste?",
+    "answers": [
+      "Waste is the usage of any resource during the process, which are not recognized by the customer as adding value to the product or service they receive."
+    ]
+  },
+  {
+    "question": "Lean techniques define \"Value\" from the perspective of who?",
+    "answers": ["The Customer"]
+  },
+  {
+    "question": "Which of these are core properties of Kanban? (Select all that apply)",
+    "answers": ["Visualize the Work", "Limit work in progress", "Manage Flow"]
+  },
+  {
+    "question": "Which of following is valid on a Kanban Board? Select two.",
+    "answers": [
+      "The WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done\". The number of items in the \"Doing\" column is 2, and the number of items in the \"Done\" column is 1.",
+      "The WIP limit for Step X is 5. Step X is divided into \"Doing\" and \"Done\". The number of items in the \"Doing\" column is 3, and the number of items in the \"Done\" column is 1. One of the items in the previous step is done and the developers want to move that item to Step X."
+    ]
+  },
+  {
+    "question": "A software development team just started using Kanban. They had the following columns on their Kanban board, in order from left to right: Backlog, Analysis, Development, Testing, Deployment. Each column has a WIP limit of 3. There are currently 3 items in testing (3 items being tested). Similarly, there are 3 items in the development column (2 items that are in development and 1 item is done with its development). One of the developers does not have anything to work on, so the manager wants to add one more item to the development column so the developer looking for work can work on it. Which of the following are valid next actions in this situation? Select all that apply.",
+    "answers": [
+      "The team should get together and discuss if they should add another tester to the test team so this bottleneck can be resolved quickly.",
+      "The manager should ask the developer waiting for work to help the testers so that they can finish one of the items in their column and move it to the deployment column.",
+      "The manager should ask the deployment team if a done item in the testing column can be deployed so there is space to move an item from development to testing."
     ]
   }
 ]
