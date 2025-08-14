@@ -163,7 +163,7 @@ const Quizz = () => {
             onClick={handleSubmitOneByeOneQuizz}
             className="bg-blue-500 hover:bg-blue-700 transition-colors"
           >
-            One By One Quizz
+            One By One Quiz
           </Button>
           <Button
             size="sm"

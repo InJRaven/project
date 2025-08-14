@@ -1308,5 +1308,11 @@
     "answers": [
       "Very Good (There are exactly one or two overarching questions, and they seem appropriate for the mini-project.)"
     ]
+  },
+  {
+    "question": "Which of these examples of personas could be more effective for guiding a design solution? Example 1 Persona 1 Project Manager in Training Unit Jorge is 35 years old, for years he used to work as a trainer in his country. Three years ago, he joined Training Unit and keeps on organizing Training Activities - approximately 5 per year. He considers himself as an experience Project Manager and distributes his knowledge to Training Unit newcomers. He is barely interested in new technologies and a bit sceptic towards new ICT system. However, he hopes that it will take away at least a bit of the administrative burden from him, so he can really focus on the content of the training course, not on the organizational matters. Persona 2 Assistant Julie works in the same team as Jorge. She is 30 years old, pretty fresh in her organization. One year ago, she has been assigned to support Jorge in his activities. However, she is also supporting 4 other Project Managers. She likes new technologies, in her free time she is using social media. Working in Training Unit is not maybe her dream, but she appreciates the stability. Julie would like to find the easiest way to keep the meeting data from all the meetings she support in a similar way. Otherwise, it is very complicated for her to find requested information. Persona 3 Head of Unit Adam is 55 years old and with vast experience in his area of expertise - training. He joined Training Unit 6 years ago and was leading it through many changes. Now, the Unit is growing rapidly and Adam feels a bit lost. He receives the update from Project Managers, but he doesn't have the opportunity to follow the meetings on his own. He is also frustrated with complaints received from assistants and Project Managers taking over someone else project. They seem never to be able to find required information. Example 2",
+    "answers": [
+      "Example 2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona’s ability to use a system."
+    ]
   }
 ]
