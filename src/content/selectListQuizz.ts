@@ -199,36 +199,24 @@
         }
       }
       if (autoSubmit) {
-        const submitBtn = document.querySelector(
-          '[data-testid="submit-button"]'
-        ) as HTMLElement | null;
-
-        if (submitBtn) {
-          submitBtn.scrollIntoView({ behavior: "smooth", block: "center" });
-          await delay(1000);
-          submitBtn.dispatchEvent(
-            new MouseEvent("click", {
-              view: window,
-              bubbles: true,
-              cancelable: true,
-            })
-          );
-          submitBtn.click();
-          await delay(500);
+        const deadline = Date.now() + 5000; // 15s timeout
+        while (Date.now() < deadline) {
           const confirmBtn = document.querySelector(
             '[data-testid="dialog-submit-button"]'
-          ) as HTMLElement | null;
-
+          ) as HTMLElement;
           if (confirmBtn) {
-            confirmBtn.dispatchEvent(
-              new MouseEvent("click", {
-                view: window,
-                bubbles: true,
-                cancelable: true,
-              })
-            );
+            console.log("✅ Đã tìm thấy và click Confirm Button");
             confirmBtn.click();
+            break;
           }
+          const submitBtn = document.querySelector(
+            '[data-testid="submit-button"]'
+          ) as HTMLElement;
+          if (submitBtn) {
+            submitBtn.scrollIntoView({ behavior: "smooth", block: "center" });
+            submitBtn.click();
+          }
+          await delay(500);
         }
       }
     } catch (err) {
