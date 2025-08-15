@@ -908,7 +908,7 @@
   },
   {
     "question": "Is the following sentence true of false? In services, it is better to sell than not selling at all as long as prices are higher than variable costs of selling that unit.",
-    "answers": ["false"]
+    "answers": ["true"]
   },
   {
     "question": "Is the following sentence true or false? In services, customers co-create the services. A college course designed as a lecture is a good example of a service co-created with customers.",
@@ -932,7 +932,7 @@
   },
   {
     "question": "Is the following sentence true or false? Premium pricing is charging a higher price to customers who are willing to pay a higher price for an essentially same product with no particular premium features.",
-    "answers": ["True"]
+    "answers": ["False"]
   },
   {
     "question": "Healthcare industry has evolved from competing on the technical quality into competing on the added value service quality. What does healthcare businesses compete on now?",

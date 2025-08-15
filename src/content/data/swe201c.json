@@ -747,7 +747,7 @@
     "answers": ["0.5"]
   },
   {
-    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially. LCOM4 = 1 indicates a cohesive class, which is the \"good\" class. LCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes. LCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class. Calculate the value of the LCOM4 measurement for the following code:",
+    "question": "While calculating LCOM4, we ignore constructors and destructors. Constructors and destructors frequently set and clear all variables in the class, making all methods connected through these variables, which increases cohesion artificially. LCOM4 = 1 indicates a cohesive class, which is the \"good\" class. LCOM4 >= 2 indicates a problem. The class should be split into so many smaller classes. LCOM4 = 0 happens when there are no methods in a class. This is also a \"bad\" class. Calculate the value of the LCOM4 measurement for the following code: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 #include \"src/route.h\" Route::Route(std::string name, Stop ** stops, double * distances, int num_stops, PassengerGenerator * generator) { //Constructors ignored in LCOM4 calculation } void Route::Update() { GenerateNewPassengers(); for (std::list<Stop *>::iterator it = stops_.begin(); it != stops_.end(); it++) { (*it)->Update(); } } bool Route::IsAtEnd() const { return destination_stop_index_ >= num_stops_; } void Route::NextStop() { destination_stop_index_++; if (destination_stop_index_ < num_stops_) { std::list<Stop *>::const_iterator iter = stops_.begin(); std::advance(iter, destination_stop_index_); destination_stop_ = *iter; } else { destination_stop_ = (*stops_.end()); } } Stop * Route::GetDestinationStop() const { return destination_stop_; } double Route::GetTotalRouteDistance() const { int total_distance = 0; for (std::list<double>::const_iterator iter = distances_between_.begin(); iter != distances_between_.end(); iter++) { total_distance += *iter;",
     "answers": ["2"]
   },
   {
@@ -1815,13 +1815,6 @@
     "answers": [
       "Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.",
       "Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle."
-    ]
-  },
-  {
-    "question": "Which of the following is true about Scrum? Select two.",
-    "answers": [
-      "Burndown and Burnup chart help teams track the progress of the current sprint.",
-      "In daily stand-up, everybody talks about what they worked, what they are planning to work on and share any impediments they have."
     ]
   }
 ]

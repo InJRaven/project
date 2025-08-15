@@ -29,7 +29,7 @@
   },
   {
     "question": "Which of the following is part of a URL?",
-    "answers": ["domain (or host)"]
+    "answers": ["domain (or host)","protocol"]
   },
   {
     "question": "Which of the following is an example of a top-level domain?",
@@ -1264,5 +1264,16 @@
     "answers": [
       "If you have problems, you can post your answer to replit or codepen and link your code to the forums. However, please do not post your code directly in the forums. People like to have the opportunity to work on it on their own before seeing other's answer. If you really want a challenge, set a different background image of your page depending upon the screen size!! I have provided a correct answer as feedback."
     ]
+  },{
+    "question": "It is possible to check your html file in the W3 validator even if it is not hosted on the internet.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In addition to being the right thing to do, efforts to create an accessible site will also improve your Search Engine Optimization.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Adherence to standards is important when trying to improve accessibility.",
+    "answers": ["True"]
   }
 ]
