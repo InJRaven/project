@@ -1816,5 +1816,12 @@
       "Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.",
       "Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle."
     ]
+  },
+  {
+    "question": "Which of the following is true about Scrum? Select two.",
+    "answers": [
+      "Burndown and Burnup chart help teams track the progress of the current sprint.",
+      "In daily stand-up, everybody talks about what they worked, what they are planning to work on and share any impediments they have."
+    ]
   }
 ]
