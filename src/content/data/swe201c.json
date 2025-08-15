@@ -1779,5 +1779,42 @@
       "The manager should ask the developer waiting for work to help the testers so that they can finish one of the items in their column and move it to the deployment column.",
       "The manager should ask the deployment team if a done item in the testing column can be deployed so there is space to move an item from development to testing."
     ]
+  },
+  {
+    "question": "Which of the following software development models can best respond to requirements changes?",
+    "answers": ["Agile models"]
+  },
+  {
+    "question": "In which of the following software development models are the software development activities performed sequentially rather than in iterations?",
+    "answers": ["The Waterfall model"]
+  },
+  {
+    "question": "Which of the following are limitations of the waterfall model? Select three.",
+    "answers": [
+      "Integration issues may remain undetected until the last phase.",
+      "Misinterpretations of requirements or design can remain undetected until the later development phases.",
+      "It is difficult to respond to requirements changes."
+    ]
+  },
+  {
+    "question": "Which is the right description about the requirement specification process?",
+    "answers": [
+      "Requirement specification is a process to identify and specify the problem to solve."
+    ]
+  },
+  {
+    "question": "Specifying requirements is difficult because (select three):",
+    "answers": [
+      "Software is intangible, which makes it difficult to comprehend and communicate.",
+      "Terminology can be interpreted in multiple ways depending on the person or the context in which it was used.",
+      "The client or end users might not be clear about what they want."
+    ]
+  },
+  {
+    "question": "Why is requirement specification important? Select two.",
+    "answers": [
+      "Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.",
+      "Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle."
+    ]
   }
 ]
