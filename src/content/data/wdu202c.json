@@ -1407,5 +1407,9 @@
   {
     "question": "What is the primary tool used in this course for constructing clickable prototypes? Please answer in all lowercase.",
     "answers": ["figma"]
+  },
+  {
+    "question": "Which language is primarily used to structure the content of a web page?",
+    "answers": ["HTML"]
   }
 ]

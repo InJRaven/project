@@ -104,8 +104,10 @@
   };
 
   const inputField = async (inputs: HTMLInputElement[], answer: string) => {
-    const field = inputs.find((i) =>
-      ["text", "number", "email", "search", "tel", "url"].includes(i.type)
+    const field = inputs.find(
+      (i) =>
+        ["text", "number", "email", "search", "tel", "url"].includes(i.type) &&
+        i.required
     );
     if (!field) return;
     await delay(50);
