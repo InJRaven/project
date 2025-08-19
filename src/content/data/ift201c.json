@@ -369,5 +369,72 @@
   {
     "question": "A global social network that allows users to share their feelings with others by sharing heartrate, breathing rate, hormone levels and more. A peripheral headset can stimulate the same feelings so you can literally \"feel\" what someone else is feeling.",
     "answers": ["This is not real."]
+  },
+  {
+    "question": "What's an image of the future? (according to professional futurists' terminology)",
+    "answers": [
+      "A representation in popular media (tv, film, books, comics, political speeches) of what the future might be like"
+    ]
+  },
+  {
+    "question": "What can we learn from images of the future? (multiple correct answers)",
+    "answers": [
+      "What some common hopes for the future are",
+      "What some common anxieties for the future are",
+      "On the whole, whether a society is feeling more optimistic or more pessimistic about a particular future topic"
+    ]
+  },
+  {
+    "question": "Who wrote the book \"The Image of the Future\" and first suggested the value of analyzing images of the future?",
+    "answers": ["Fred Polak"]
+  },
+  {
+    "question": "In his book \"Images of the Future\", the author writes: \"It was but a small step for man from realizing that he had a future to wanting to know what that future would bring.\" The author identifies some of the earliest known images of the future, ones that go much further back in human culture than the science fiction films and tv series and the modern dystopians novels often named as examples. Which of these are considered early \"images of the future?\" (multiple correct answers)",
+    "answers": [
+      "The City of God by St. Augustine",
+      "Plato's Politeia, also known as The Republic",
+      "Thomas More's Utopia"
+    ]
+  },
+  {
+    "question": "Think back to the many different images of the future you have personally consumed via television, movies, comics, novels, religious texts, political speeches, advertisements and more over your life. Which ones would you say have made the biggest impression on YOU personally? Which anxieties about the future, or which hopes for the future, did these images help cultivate and nurture in you? Take some time to list any images of the future that leap to mind, and then make some notes or bullet points about which hopes and worries resonated with you most. This exercise can help you understand what pre-existing feelings YOU bring to your futures work, and how YOU might want to help ease society's anxieties or spark society's hope for the future. This final question is a personal reflection. There are no right or wrong answers; whatever you share will automatically be graded as correct. Use this question to reflect on what you learned this week and to make a more personal connection with the material.",
+    "answers": [
+      "e many different images of the future you have personally consumed via television, movies, comics, novels, religious texts, political speeches, advertisements"
+    ]
+  },
+  {
+    "question": "What's an artifact from the future?",
+    "answers": [
+      "An artist's rendering of an everyday object, physical or digital, that might exist in the future."
+    ]
+  },
+  {
+    "question": "What's the relationship between an artifact from the future and a future forecast?",
+    "answers": [
+      "A forecast describes, generally, the world we might live in someday and how it could be different from today. An artifact is a new kind of object that might exist in that future."
+    ]
+  },
+  {
+    "question": "What are some of the benefits of creating artifacts from the future?",
+    "answers": [
+      "It makes the future more \"real\" and \"tangible\" to our imagination.",
+      "It can spark thought and conversations about the future, especially for people who don't ordinarily think about the far future.",
+      "It can blur the line between \"today\" and \"tomorrow\" in a way that provokes strong emotional reactions."
+    ]
+  },
+  {
+    "question": "This week you read a Climate Action Report from the Institute for the Future. It includes signals, drivers of change, and scenarios related to how humanity might work together to prevent and adapt to climate change in the future. The report also identifies 8 \"zones of opportunity\" for climate action. If YOU want to take action over the next decade, these 8 zones offer potentially the biggest impact. This quiz is about those 8 opportunity zones. If you need to refresh your memory: Page 5 of the reading describes the zones and Page 6 includes signals of change and scenarios from the 8 zones. This quiz is a personal reflection. There are no right or wrong answers. Your answers will automatically be marked \"correct\", whatever you say or choose. Use this quiz as an opportunity to reflect on what you've read and to make a more personal connection with the material. When you think of the 8 zones of opportunity for climate action, which ONE do you feel YOU would most likely take action in, sometime during the next decade? Pick the one you see the strongest fit with your values, interests, skills, resources and abilities. (And if you personally do not believe you will take any climate action in the next decade, feel free to choose that response.)",
+    "answers": [
+      "I do not believe that I personally will take any action to prevent or help others adapt to climate change in the future."
+    ]
+  },
+  {
+    "question": "What's one way YOU personally can see yourself taking climate action, in the zone of opportunity you chose, in the next 10 years? If you were to spend, for example, 100 hours helping prevent or adapt to climate change in the future - what would you be doing? (A few sentences of reflection are fine! And if you cannot imagine yourself doing anything to prevent or help others adapt to climate change in the future, please say so and what, if anything, might change that decision.) Again - this quiz is a personal reflection. There are no right or wrong answers. Your answers will automatically be marked \"correct\", whatever you say or choose. Use this quiz as an opportunity to reflect on what you've read and to make a more personal connection with the material.",
+    "answers": ["ne way YOU personally can see yourself"]
+  },{
+    "question": "This week, you learned about a number of projects designed to help local communities think about the future, together. These projects tackled tough issues like conflict resolution in war-torn regions and climate adaptation in areas with widespread food insecurity. One of the key principles in theseparticipatory futures projects is that people who are directly affected by problems today should be empowered to create future solutions to them. This week's quiz is a personal reflection. There are no right or wrong answers. Whatever you submit will be graded \"correct\", so use this quiz as an opportunity to make a more personal connection with the material. If YOU were able to create a futures thinking event or workshop to support a specific community, which community would you bring together, and what problem(s) or challenge(s) would you ask this community to think about using futures methods? For example: I (your instructor, Jane McGonigal) would like to bring together the residents of the California town I live in to \"future\" the topic of wildfires, which are a growing danger to our community, and which many people are not willing to address yet through changes today. I would want to help \"wake up\" my community to this risk and brainstorm creatively what different futures would look like depending on actions we take over the next ten years together. What about you?",
+    "answers": [
+      ", you learned about a number of projects designed to help local communitie"
+    ]
   }
 ]

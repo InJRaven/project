@@ -1,0 +1,590 @@
+[
+  {
+    "question": "You should have already listened to the Note-Taking Practice 1 lecture. Use your notes to answer the questions. What is the topic of the lecture?",
+    "answers": ["Things that make lectures difficult to understand"]
+  },
+  {
+    "question": "Is this lecture about a study or about the speaker's own ideas?",
+    "answers": ["a study"]
+  },
+  {
+    "question": "Why did the speaker mention “the Freshman 15”?",
+    "answers": ["To give a specific example of what lecture complexity is"]
+  },
+  {
+    "question": "According to the lecture, what does the word “redundancy” mean?",
+    "answers": ["Saying the same word or concept more than once"]
+  },
+  {
+    "question": "Which of the following in NOT an example of how a speaker “delivers” a lecture?",
+    "answers": ["How well the lecture is organized"]
+  },
+  {
+    "question": "Which of these is mentioned as a strategy for effective listening in class?",
+    "answers": ["Reviewing notes after class."]
+  },
+  {
+    "question": "The speaker gave the following example: “reviewing the lecture notes after class.” What idea does this example support?",
+    "answers": ["Strategies to help understand lectures"]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 2 lecture, use your notes to answer the following questions. According to the lecture, what are “learning styles”?",
+    "answers": [
+      "Learning styles are the different ways that people learn best."
+    ]
+  },
+  {
+    "question": "Why did the speaker want to focus on the kinesthetic learning style?",
+    "answers": ["Because not very people know much about it"]
+  },
+  {
+    "question": "Based on the speaker’s explanation of how learners learn, which of the following would NOT be a good example of how kinesthetic learners learn best?",
+    "answers": ["Going to a live theater production"]
+  },
+  {
+    "question": "Out of the following characteristics of kinesthetic learners, which did the speaker mention first?",
+    "answers": ["Very coordinated"]
+  },
+  {
+    "question": "The speaker mentioned “flashcards” as an example for what idea?",
+    "answers": ["Study tools you can manipulate"]
+  },
+  {
+    "question": "Which of the following occupations do you think would NOT be best for a kinesthetic learner?",
+    "answers": ["novelist"]
+  },
+  {
+    "question": "The language cue “because” is used in the lecture to explain why all the topics in the outline may not be taught in the course. Select the TWO reasons that were given.",
+    "answers": [
+      "That material is sometimes taught in two semesters.",
+      "There will not be enough time."
+    ]
+  },
+  {
+    "question": "“Nevertheless” shows contrast; it shows something that is the opposite of what is being discussed. Why did the professor use the language cue “nevertheless” in the phrase “nevertheless there are some very important aspects of it like black holes . . . “ ?",
+    "answers": [
+      "Black holes are an application of the General Relativity theory and the phrase preceding “nevertheless” states that there will not be much time to discuss possible applications."
+    ]
+  },
+  {
+    "question": "See how well you can determine meaning of an actual professor giving an introduction to Einstein’s General Relativity and Gravitation. The lecture is 4 minutes 39 seconds long. First, watch the entire video, then answer the following questions. General Relativity and Gravitation Lecture Play Video What phrase did the professor use to give the topic of the class?",
+    "answers": ["“This class is about . . . .”"]
+  },
+  {
+    "question": "Which of the following topics will be presented first in the class?",
+    "answers": ["the foundations of General Relativity"]
+  },
+  {
+    "question": "The professor says, “in a number of occasions I will use the famous phrase ‘it can be shown’.” When will he say “it can be shown”?",
+    "answers": [
+      "He will use this phrase when he doesn’t have time to show the proof."
+    ]
+  },
+  {
+    "question": "The language cues are in bold and underlined in the following excerpt of the lecture. Which TWO language cues signal a restatement of something that was already explained? In order to understand the theory, we need some mathematics, and it turns out that general relativity requires some understanding of tensor calculus. That is, in order to understand the foundation of Einstein’s theory and why it is in fact unique, we need to understand the mathematics that comes with it, which is not trivial but nevertheless is an essential part of it. In other words, you cannot discuss general relativity without tensor calculus and differential geometry",
+    "answers": ["in other words", "that is"]
+  },
+  {
+    "question": "Which of the following topics will be presented last in the class?",
+    "answers": ["applications of General Relativity"]
+  },
+  {
+    "question": "What language cue informs us that Einstein did not immediately get together with Marcel Grossman?",
+    "answers": ["eventually"]
+  },
+
+  {
+    "question": "What language cue was used to state that the aim of the class was to focus on fundamental issues and not practical applications of the theory?",
+    "answers": ["nevertheless"]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 3 lecture, use your notes to answer the following questions. Which of the following topics does Dave NOT lecture on?",
+    "answers": ["SAT (undergraduate entrance exam)"]
+  },
+  {
+    "question": "True or false? The Research Paragraph should be included at the end of the Statement of Purpose.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Out of the following topics to investigate, which did the speaker mention first?",
+    "answers": ["Mission Statement"]
+  },
+  {
+    "question": "True or false? The Research Paragraph should include information about the school’s Mission Statement, Curriculum, Faculty, and Facilities.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In what order did the speaker mention the following topics?",
+    "answers": ["Mission Statement, Curriculum, Faculty, Facilities"]
+  },
+  {
+    "question": "Which of the following examples of facilities at a university should not be mentioned in the Research Paragraph?",
+    "answers": ["Libraries"]
+  },
+  {
+    "question": "True or false? The speaker did not use any language cues.",
+    "answers": ["False"]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 4 lecture, use your notes to answer the following questions. What are the benefits of learning how to manage time well?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Out of the following concepts that were discussed in the talk, which was mentioned last?",
+    "answers": ["Be realistic and kind to yourself."]
+  },
+  {
+    "question": "True orFalse? When considering what is most important to you, you should think about solutions to the everyday expectations that make you worry and put these first into your calendar.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In the talk, the speaker gives the following examples: “Well, I have this test tomorrow,\" or \"I have this bill that is due on Friday.” Which of the five time management concepts was he talking about when he gave these examples?",
+    "answers": ["Identify what is most important to you."]
+  },
+  {
+    "question": "According to the lecture, what is the main reason that people give up on the schedule that they make for themselves?",
+    "answers": [
+      "They try to fit in too much into their schedule and then become frustrated when they cannot accomplish it all."
+    ]
+  },
+  {
+    "question": "What are some ways that you can “be realistic and kind to yourself” as you manage your time?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Which language cues did the speaker use?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which statement do you think the speaker would probably agree with?",
+    "answers": [
+      "Planning in social time with friends and family should be on the “most important” list.",
+      "The Statement of Purpose needs to be written in a very confident, well organized, intentional manner.",
+      "People learn best in different ways."
+    ]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 4 lecture, use your notes to answer the following questions. Who would benefit from watching this video about Time Management?",
+    "answers": ["Everyone . . . including those listed above"]
+  },
+  {
+    "question": "Out of the following concepts that were discussed in the talk, which was mentioned first?",
+    "answers": ["Know when you work best."]
+  },
+  {
+    "question": "Many people say, “I’d love to do this, but I don’t have time for it” or “I wish I would do this right, but I don’t have time.” According to the speaker, how can this be avoided?",
+    "answers": [
+      "Figure out what you love and what is most important and plan those things first into your schedule."
+    ]
+  },
+  {
+    "question": "Based on the the lecture, which statement do you think the speaker would probably agree with?",
+    "answers": [
+      "The main aim of managing time well is to keep a person happy, not stressed, and still productive."
+    ]
+  },
+  {
+    "question": "In the talk, the speaker gives the following examples: “ . . . it could be house cleaning. If you are in an office environment, it could be reading or reviewing emails. ” Which of the five time management concepts was he talking about when he gave these examples?",
+    "answers": ["Schedule mindless maintenance during “lazy” hours."]
+  },
+  {
+    "question": "Which of the following are good practices for taking lecture notes? Choose all that apply.",
+    "answers": [
+      "Make sure you understand any assignments, and ask the teacher if you don't understand.",
+      "Pay attention to language, visual, and verbal cues that help you identify key points.",
+      "Write down what the teacher writes on the board or highlights in a PowerPoint.",
+      "Compare notes with classmates after class to make sure they are accurate."
+    ]
+  },
+  {
+    "question": "True or false? If you have a good memory, you don't have to take notes during a lecture.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? Lecturers in universities may have many different speaking styles.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? When you take notes, you should try to write down main ideas and details.",
+    "answers": ["True"]
+  },
+  {
+    "question": "It's fine not to listen during a lecture because you can always listen to a recording later.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following should you write in the space on the left when taking Cornell notes? Check all that apply.",
+    "answers": ["questions you have", "important phrases", "main idea"]
+  },
+  {
+    "question": "When should you fill in the section on the right-side of the page when using a Cornell Notes template?",
+    "answers": ["during the lecture"]
+  },
+  {
+    "question": "Which of the following are good practices for taking notes during the lecture when using the Cornell Notes method? Check all that apply.",
+    "answers": ["use note-taking shortcuts", "skip lines on the page"]
+  },
+  {
+    "question": "Listen to the following TED talk. Take thorough notes using one of the templates you've been given. Then answer all of the questions that follow. Play Video What does the speaker think would make the audience relax as he begins his talk?",
+    "answers": ["Telling the audience how he was going to present his ideas"]
+  },
+  {
+    "question": "What does the speaker want to show about a person with ADD when he shows this drawing?",
+    "answers": ["They are very sensitive to everything that is around them."]
+  },
+  {
+    "question": "As the speaker hugged people in his costume, he learned something amazing: “that all of us want to be loved.” How did he emphasize this point? (Choose two answers.)",
+    "answers": [
+      "Pausing for for 3 seconds before he shared what he realized.",
+      "Saying “I learned something amazing”"
+    ]
+  },
+  {
+    "question": "Since groups realized how important it is to “make people love you”, everyone is constantly broadcasting. Which of the following examples of how information is being broadcasted were NOT mentioned?",
+    "answers": ["YouTube"]
+  },
+  {
+    "question": "True or False? The speaker thinks social media is generally being used in a positive way.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the main point of the talk?",
+    "answers": ["Be genuine and just be who you are with others"]
+  },
+  {
+    "question": "Let’s see how effective the notes that you took in the Listening Strategies lecture are. See if they can help you answer the following questions. If not, listen to that lecture again. How is the information organized in the lecture?",
+    "answers": [
+      "In the order of time (chronologically) when things happen first, second, and third"
+    ]
+  },
+  {
+    "question": "How many main things were mentioned that listeners need to do DURING the lecture?",
+    "answers": ["2"]
+  },
+  {
+    "question": "It is important to emphasize key vocabulary and information in your notes. Which of the following ways of emphasizing information were mentioned in the lecture?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "True or false? Language cues show you how to pronounce a word.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What kind of information do language cues signal? Choose all that apply.",
+    "answers": [
+      "a generalization",
+      "organization of the lecture",
+      "contrast of ideas",
+      "topic"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of language cues? Choose all that apply.",
+    "answers": ["That means...", "This class is about...", "In order to..."]
+  },
+  {
+    "question": "Listen to the following TED talk titled “Embrace Your Disobedience” by Diego Rosso. Take thorough notes using one of the templates you've been given. Then answer the questions that follow. Lecture Clip Play Video How did the speaker get the audience to focus on his topic at the beginning of his presentation? (Read all the answer choices before you choose an answer.)",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Why did the speaker tell the story about the student who visited him in his office? (It starts at 7:40.)",
+    "answers": ["To show how a professor can learn from a student."]
+  },
+  {
+    "question": "Which language cue(s) were used? (Read all the choices before you decide, especially the last one.) (Note: You normally wouldn't put these words in your notes, but you should be paying attention to them in this class to help you follow the organization of the lectures.)",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Listen to the last bit of the talk, starting at 10:40 and answer the question below. Short Clip Play Video What does the speaker mean?",
+    "answers": [
+      "The speaker will feel successful if his research about bubbles helps someone else to do something great, even if he is not remembered."
+    ]
+  },
+  {
+    "question": "Where is one good place mentioned in the lecture to write down \"housekeeping\" items from the beginning of a lecture?",
+    "answers": ["in a calendar"]
+  },
+  {
+    "question": "True or false? You should write down the hook of the lecture on the first page of your notes.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which part of the lecture introduction do you need to pay closest attention to?",
+    "answers": ["the important information"]
+  },
+  {
+    "question": "The questions should guide you in observing important aspects of the introduction. The questions will aim to make sure that you have understood the important content that the professor is trying to communicate. Listen to the lecture clip, and choose the best and most specific answer to each question. Question 1 Clip Play Video How does the professor prefer to be addressed?",
+    "answers": ["Julie"]
+  },
+  {
+    "question": "Question 2 Clip Play Video When sending an email to the professor, what should the subject of the email include?",
+    "answers": ["The name of the class: ESS 1"]
+  },
+  {
+    "question": "Question 3 Clip Play Video Which of the following topics would you NOT expect to learn about in this class?",
+    "answers": ["how to be safe during a natural disaster"]
+  },
+  {
+    "question": "Question 4 Clip Play Video True or False? The professor will upload two different versions of her lecture slides for each lecture.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Question 5 Clip Play Video True or false? You should review your notes within one week of hearing the lecture.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Question 6 Clip Play Video Which kind of information from the introduction does this clip contain?",
+    "answers": ["Housekeeping information"]
+  },
+  {
+    "question": "Question 7 Clip Play Video What skill does the professor expect his students to develop in his physics course?",
+    "answers": ["the ability to identify important information"]
+  },
+  {
+    "question": "Listen to the video clip taken from a longer lecture called “The Distracted Mind,” given by Professor Gazzaley. Take notes on your own paper. Do your best to identify the main idea and details from the lecture segment and to write them in indented form as you learned to do in the Main Idea video lecture. Then answer the following questions. Lecture Clip Play Video True or false? The main idea of this lecture is about all the positive characteristics of the brain.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Professor Gazzaley named the three limitations in the beginning, but he presented them in a different order. What order did he PRESENT the three limitations?",
+    "answers": ["attention, speed, working memory"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he said, “and that is why some people say that phone numbers are only seven digits long.” Which limitation was he referring to?",
+    "answers": ["working memory"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he says that “the brain is a vast network and so information has to travel between many regions which in the brain is very far.” What limitation is he describing when he says this?",
+    "answers": ["speed"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he says that “You have a build up of processing lags.” What limitation is he describing when he says this?",
+    "answers": ["speed"]
+  },
+  {
+    "question": "Listen to the following TED talk titled “The Future of Water” by Bill Cooper. Take thorough notes on one of the templates you've been given. Do your best to identify the important information that you should put in your notes based on the video lesson you have just watched. Then answer the following questions. Lecture Clip (This will open in a new window.) 1. True or False. The following outline represents the structure of the lecture.",
+    "answers": ["True"]
+  },
+  {
+    "question": "How much of the world’s oxygen is produced from phytoplankton in the ocean?",
+    "answers": ["50%"]
+  },
+  {
+    "question": "What is the purpose of this talk?",
+    "answers": [
+      "To make people realize that there is not an unlimited amount of water and that the environment needs to be respected"
+    ]
+  },
+  {
+    "question": "What statement do you think the speaker would probably NOT agree with?",
+    "answers": ["There is nothing we can do to fix this water problem."]
+  },
+  {
+    "question": "Listen to the video segment of Professor Loftus speaking about “The fiction of memory”. Take notes. Do your best to identify the important information that you should put in your notes based on the video lesson you have just watched. Then answer the following questions. Lecture Clip Play Video What does Dr. Loftus study?",
+    "answers": ["When people remember untrue information"]
+  },
+  {
+    "question": "Which language cue do we use to identify the important information of what Dr. Loftus studies?",
+    "answers": ["Parallel Structure"]
+  },
+  {
+    "question": "According to a project conducted in the United States, how many innocent people have been convicted of a crime they did not do?",
+    "answers": ["300"]
+  },
+  {
+    "question": "What verbal cues helps us identify the important information the number of people convicted due to a false memory? Select all that apply.",
+    "answers": ["Louder volume", "Higher pitch", "Spoken more slowly"]
+  },
+  {
+    "question": "Look at this transcript from part of the video you just watched. What words and concepts are repeated in order to emphasize the important point that people were wrongly convicted of crimes because witnesses remembered the facts that really didn’t happen? Select TWO. “In one project in the United States, information has been gathered on 300 innocent people, 300 defendants who were convicted of crimes they didn't do. They spent 10, 20, 30 years in prison for these crimes, and now DNA testing has proven that they are actually innocent. And when those cases have been analyzed, three quarters of them are due to faulty memory, faulty eyewitness memory.”",
+    "answers": ["faulty", "innocent"]
+  },
+  {
+    "question": "Directly after Dr. Loftus says “Three quarters of them are due to faulty memory,” she says, “But why?” These two words signal that she will give a reason why innocent people have been put in jail due to faulty memories. What is the reason?",
+    "answers": [
+      "Because the jurors believe the everything the witnesses say is true."
+    ]
+  },
+  {
+    "question": "True or false? When the word “hit” was emphasized, people recalled that cars were going faster and they reported that there was broken glass at the accident, even though in reality there wasn’t.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What phrase, or language cue, does Dr. Loftus use to signal the findings of the experiments that she described?",
+    "answers": [" “ . . . what these studies are showing is that . . . “"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 1 Video Clip Play Video What does the dark green line refer to?",
+    "answers": ["Americans believe there is more crime."]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 2 Video Clip Play Video What year was the survey given?",
+    "answers": ["2011"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 3 Video Clip Play Video What are the two data sets comparing?",
+    "answers": [
+      "People’s perception of crime nationally versus crime in their neighborhood"
+    ]
+  },
+  {
+    "question": "Play Video Watch this video clip and then answer the question that follows. Question 4 Video Clip Which chart/graph did the professor use?",
+    "answers": ["line graph"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 1 Video Clip Play Video What is the chart/graph in this video clip measuring?",
+    "answers": ["What is the actual number of violent crime victims?"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 2 Video Clip Play Video Think about the information you heard in the video clips in the previous activity, Analyzing Charts and Graphs Listening Practice 1, and compare them with the findings in this video clip. What can you conclude?",
+    "answers": ["People’s perception of violent crime is worse than reality."]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 3 Video Clip Play Video What is the chart/graph measuring?",
+    "answers": [
+      "The amount of property crime compared to violent crime in California"
+    ]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 4 Video Clip Play Video The professor says, “We see a precipitous drop in property crime.” Which sentence below has the closest meaning?",
+    "answers": ["We see a significant drop in property crime."]
+  },
+  {
+    "question": "For questions 1-3, listen to the lecture clip below on psychology and take notes as you listen. Pay attention to the information in the charts or graphs. After you listen, use your notes to answer the following questions. Questions 1-3 Lecture Clip Play Video Prof. Steyvers mentions a study by Ebbinghuas. What was Ebbinghaus trying to study in the experiment?",
+    "answers": [
+      "whether there is a relationship between retention interval on memory"
+    ]
+  },
+  {
+    "question": "What graph/chart did the professor use?",
+    "answers": ["line graph"]
+  },
+  {
+    "question": "True or false? Ebbinghaus found that after about 10 hours, all memory was usually lost and relearning had to occur.",
+    "answers": ["False"]
+  },
+  {
+    "question": "For question 4, listen to the lecture clip below on psychology and take notes as you listen. Pay attention to the information in the charts or graphs. After you listen, use your notes to answer the following questions. Question 4 Lecture Clip Play Video What is the suggested cause for a reminiscence bump?",
+    "answers": ["both optimal brain function and primacy effect"]
+  },
+  {
+    "question": "True or false? Diction involves the words that a person chooses to express their meaning.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following words convey a positive tone or stance? Choose all that apply.",
+    "answers": ["beneficial", "logical", "positive"]
+  },
+  {
+    "question": "As you learned in the lecture, qualifiers and intensifiers communicate how certain a speaker is in a statement. Choose the correct order of words and phrases below to show how certain a speaker would be when using them. The first word should be the most certain, and the last word should be the least certain.",
+    "answers": [
+      "clearly evident, absolutely, definitely, without a doubt likely possible not likely, doubtful improbable inconceivable, no way, not possible"
+    ]
+  },
+  {
+    "question": "Listen to the lecture clip below and answer the question that follows. Question 1 Lecture Clip Play Video Which word could be used to describe the speaker’s stance/tone/attitude?",
+    "answers": ["insistent"]
+  },
+  {
+    "question": "Listen to the lecture clip below and answer the question that follows. Question 2 Lecture Clip Play Video Which word could be used to describe the speaker’s stance/tone/attitude?",
+    "answers": ["disheartened"]
+  },
+  {
+    "question": "True or false? The speaker’s main point is easier to understand when you understand his or her stance and attitude.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Listen to the clip that belongs with each question. Then answer the question that follows. Question 1 Clip Play Video The view held by ancient people that the Earth is fixed and the stars and planets are moving around the Earth is an example of:",
+    "answers": ["An inductive inference"]
+  },
+  {
+    "question": "Question 2 Clip Play Video The statement that a light year is a measurement of distance, not of time, is true by:",
+    "answers": ["Definition"]
+  },
+  {
+    "question": "Question 3 Clip Play Video This argument was used in the lecture: Premise 1: Only elementary particles can exist in an extremely dense environment. Premise 2: The universe was infinitely dense when it was first born in the Big Bang. Conclusion: Therefore, only elementary particles existed when the universe was first born in the Big Bang. This deductive argument is:",
+    "answers": ["Valid"]
+  },
+  {
+    "question": "Listen to the clip that belongs with each question. Then answer the question that follows. Question 1 Clip Play Video The idea that a schema can be based on atypical (non-typical) information is false by:",
+    "answers": ["Definition"]
+  },
+  {
+    "question": "Question 2 Clip Play Video This is an argument that was in the clip. Premise 1: Confidence and accuracy are not always positively correlated. Premise 2: For eyewitness accounts to be right, confidence and accuracy must be positively correlated. Conclusion: Therefore, eyewitness accounts are not always right. This conclusion follows the premises by:",
+    "answers": ["Deductive inference"]
+  },
+  {
+    "question": "Question 3 Clip Play Video A unbiased lineup of six individuals would have a probability of 1/6 (16.7%) for each individual. It is necessarily true that a 46% probability of choosing one of the individuals shows bias due to:",
+    "answers": ["Mathematical necessity"]
+  },
+  {
+    "question": "What are the three parts of a good presentation?",
+    "answers": ["introduction, body, and conclusion"]
+  },
+  {
+    "question": "This photo is an example of which mode of persuasion?",
+    "answers": ["pathos"]
+  },
+  {
+    "question": "If the audience doesn’t feel that you are a trustworthy expert with thorough knowledge of your subject matter, what have you lost?",
+    "answers": ["logos"]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follow. Question 4 Clip (This will open in a new window.) Play Video What information was NOT provided?",
+    "answers": ["The reasons why there are several types of shoppers."]
+  },
+  {
+    "question": "Listen to this clip and answer the questions that follow. Question 5 Clip (This will open in a new window.) Play Video Does this presenter use the three parts of an introduction mentioned in this week's lectures?",
+    "answers": ["Yes"]
+  },
+
+  {
+    "question": "Complete the sentence. Throughout the presentation, the speaker seemed to present information __________.",
+    "answers": ["objectively (neutrally)"]
+  },
+  {
+    "question": "The speaker does a good job of including an outline of her presentation in her introduction. What does the speaker say she will discuss first in the presentation?",
+    "answers": ["the definition of cyberbullying"]
+  },
+  {
+    "question": "It is important for speakers to define key terms that audience members should know in order to follow the presentation. The speaker does a good job of this by defining cyberbullying. What is the basic definition she gives?",
+    "answers": ["Cyberbullying is harassment through technology"]
+  },
+  {
+    "question": "In which type of speech do you stand up and talk in front of your peers?",
+    "answers": ["oral"]
+  },
+  {
+    "question": "Listen to this clip and answer the questions that follow. Question 5 Clip (This will open in a new window.) Play Video What phrase does the speaker use to shift to the outline of the speech?",
+    "answers": ["Today, ..."]
+  },
+  {
+    "question": "The speaker mentions that the topic of her presentation is “cyberbullying”. However, like any good presenter, she also has a more narrow focus, or controlling idea. She uses the phrase “ties in with” to introduce the more specific issue related to cyberbullying. What is this idea?",
+    "answers": ["right to free speech"]
+  },
+  {
+    "question": "For questions 6-10, you need to refer to the following video. Watch the video and answer the questions that follow. Questions 6-10 Video (This will open in a new window.)",
+    "answers": ["oral", "to inform"]
+  },
+  {
+    "question": "The speaker does a good job of including an outline of her presentation in her introduction. What does the speaker say she will discuss last in the presentation?",
+    "answers": ["a solution for cyberbullying"]
+  },
+  {
+    "question": "At the end of the presentation, the speaker shares her opinion, per the request of an audience member. What is the speaker’s opinion about the topic?",
+    "answers": [
+      "She thinks that cyberbullying needs to be more clearly defined by schools and states."
+    ]
+  },
+  {
+    "question": "What type of presentation is this?",
+    "answers": ["poster"]
+  },
+  {
+    "question": "Complete the sentence. To conclude her presentation, the speaker says ________________.",
+    "answers": ["In summary . . ."]
+  },
+  {
+    "question": "Which mode of persuasion is about the step-by-step, logical development of your arguments?",
+    "answers": ["logos"]
+  }
+]
