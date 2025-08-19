@@ -1,5 +1,5 @@
 (() => {
-  const SCRIPT_NAME = "TakeQuizz";
+  const SCRIPT_NAME = "CheckQuiz";
 
   if (
     (window as any)._quizScriptRunning &&
@@ -65,7 +65,7 @@
     });
   };
 
-  const takeQuizz = async (subject: string, autoSubmit: boolean) => {
+  const checQuiz = async (subject: string, autoSubmit: boolean) => {
     const jsonFilePath = chrome.runtime.getURL(`content/data/${subject}.json`);
 
     try {
@@ -96,24 +96,24 @@
     }
   };
 
-  if ((window as any)._takeQuizzListener) {
-    chrome.runtime.onMessage.removeListener((window as any)._takeQuizzListener);
+  if ((window as any)._checkQuizListener) {
+    chrome.runtime.onMessage.removeListener((window as any)._checkQuizListener);
   }
 
   // ===== Tạo listener mới =====
-  (window as any)._takeQuizzListener = (
+  (window as any)._checkQuizListener = (
     message: any,
     sender: chrome.runtime.MessageSender,
     sendResponse: (response?: any) => void
   ) => {
-    if (message.action === "takeQuizz" && message.subject) {
+    if (message.action === "checkQuiz" && message.subject) {
       (async () => {
-        await takeQuizz(message.subject, message.autoSubmit);
+        await checQuiz(message.subject, message.autoSubmit);
       })();
     }
   };
 
-  chrome.runtime.onMessage.addListener((window as any)._takeQuizzListener);
+  chrome.runtime.onMessage.addListener((window as any)._checkQuizListener);
 
   // Dọn dẹp khi rời trang
   // window.addEventListener("beforeunload", () => {
@@ -124,12 +124,12 @@
   //   delete (window as any)._quizScriptRunning;
   // });
   window.addEventListener("beforeunload", () => {
-    const fn = (window as any)._takeQuizzListener;
+    const fn = (window as any)._checkQuizListener;
     if (fn) {
       try {
         chrome.runtime.onMessage.removeListener(fn);
       } catch {}
-      delete (window as any)._takeQuizzListener;
+      delete (window as any)._checkQuizListener;
     }
     delete (window as any)._quizScriptRunning;
   });

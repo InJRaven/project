@@ -55,7 +55,7 @@ const Quizz = () => {
     if (tab.id) {
       await chrome.scripting.executeScript({
         target: { tabId: tab.id },
-        files: ["content/selectListQuizz.js"],
+        files: ["content/selectListQuiz.js"],
       });
 
       chrome.storage.local.get("autoSubmit", (result) => {
@@ -77,7 +77,7 @@ const Quizz = () => {
     if (tab.id) {
       await chrome.scripting.executeScript({
         target: { tabId: tab.id },
-        files: ["content/oneByOneQuizz.js"],
+        files: ["content/oneByOneQuiz.js"],
       });
 
       chrome.tabs.sendMessage(tab.id!, {
@@ -105,7 +105,7 @@ const Quizz = () => {
     }
   };
 
-  const handleTakeQuizz = async () => {
+  const handleCheckQuiz = async () => {
     if (!value) return;
     const [tab] = await chrome.tabs.query({
       active: true,
@@ -114,12 +114,28 @@ const Quizz = () => {
     if (tab.id) {
       await chrome.scripting.executeScript({
         target: { tabId: tab.id },
-        files: ["content/testTakeQuizz.js"],
+        files: ["content/checkQuiz.js"],
       });
 
       chrome.tabs.sendMessage(tab.id!, {
-        action: "takeQuizz",
+        action: "checkQuiz",
         subject: value,
+      });
+    }
+  };
+  const handleTakeQuiz = async () => {
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab.id) {
+      await chrome.scripting.executeScript({
+        target: { tabId: tab.id },
+        files: ["content/takeQuiz.js"],
+      });
+
+      chrome.tabs.sendMessage(tab.id!, {
+        action: "takeQuiz",
       });
     }
   };
@@ -150,18 +166,18 @@ const Quizz = () => {
             </Button>
           </PopoverTrigger>
         </div>
-        <div className="flex gap-2 flex-wrap">
+        <div className="flex items-center justify-center gap-2 flex-wrap">
           <Button
-            size="sm"
+            size="md"
             onClick={handleSumitQuiz}
-            className="bg-blue-500 hover:bg-blue-700 transition-colors"
+            className="bg-blue-500 hover:bg-blue-700 transition-colors w-full"
           >
-            Submit
+            List Quiz
           </Button>
           <Button
-            size="sm"
+            size="md"
             onClick={handleSubmitOneByeOneQuizz}
-            className="bg-blue-500 hover:bg-blue-700 transition-colors"
+            className="bg-blue-500 hover:bg-blue-700 transition-colors w-full"
           >
             One By One Quiz
           </Button>
@@ -175,7 +191,14 @@ const Quizz = () => {
 
           <Button
             size="sm"
-            onClick={handleTakeQuizz}
+            onClick={handleCheckQuiz}
+            className="bg-blue-500 hover:bg-blue-700 transition-colors"
+          >
+            Check Quizz
+          </Button>
+          <Button
+            size="sm"
+            onClick={handleTakeQuiz}
             className="bg-blue-500 hover:bg-blue-700 transition-colors"
           >
             Take Quizz

@@ -1,0 +1,1149 @@
+[
+  {
+    "question": "According to the lecture, why should you take notes during your research?",
+    "answers": ["so you can organize your research"]
+  },
+  {
+    "question": "True or False? Most research assignments tell you the exact topic you should write about.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? A thesis statement must have a topic and controlling idea.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? A thesis statement is optional in your research paper.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? Creating an outline, either formal or informal, can help you organize your ideas so that you write a more logical research paper.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? An outline must include Roman numerals and capital and lowercase letters to keep it organized.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? For academic research, you should write complete sentences when you take notes on an article.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? Most school library webpages have databases that anyone is free to use as long as they have an Internet connection.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is the most academic kind of source?",
+    "answers": ["library databases"]
+  },
+  {
+    "question": "What is the purpose of an annotated bibliography?",
+    "answers": ["to help you summarize and evaluate your sources"]
+  },
+  {
+    "question": "True or False? You must always use a formal outline to plan an effective research paper.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following would be the most effective thesis statement for a research paper?",
+    "answers": [
+      "The U.S. government should require that all companies pay men and women the same amount of money for equal work."
+    ]
+  },
+  {
+    "question": "True or False? An annotated bibliography for a college class is always written in MLA format.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the key to choosing good search terms?",
+    "answers": ["think of several specific phrases to search"]
+  },
+  {
+    "question": "Choose the best search terms for the following topic: crime",
+    "answers": ["auto-theft statistics in Chicago"]
+  },
+  {
+    "question": "Choose the best search terms for the following topic: national security",
+    "answers": ["visa screening policies"]
+  },
+  {
+    "question": "Choose the best search terms for a more specific topic under the following general topic: urban development",
+    "answers": ["smoking rules in public housing"]
+  },
+  {
+    "question": "Choose the best search terms for the following topic: workplace ethics",
+    "answers": ["paid paternity leave for new fathers"]
+  },
+  {
+    "question": "Which of the following internet sites would be acceptable to use when searching for sources for a research paper?",
+    "answers": ["scholar.google.com"]
+  },
+  {
+    "question": "Which of the following is a good search term for this topic: Topic: the economy",
+    "answers": ["financial crisis of 2008"]
+  },
+  {
+    "question": "According to the lecture, where is the best place to look for sources for a research paper?",
+    "answers": ["library databases"]
+  },
+  {
+    "question": "All of the following are questions to ask when determining reliability of a a source EXCEPT which one?",
+    "answers": ["How long is the source?"]
+  },
+  {
+    "question": "What is the first thing to do after you receive a research paper assignment?",
+    "answers": ["Think of a research question."]
+  },
+  {
+    "question": "Most research papers share all of the following characteristics EXCEPT which one?",
+    "answers": ["They are worth 150 pts."]
+  },
+  {
+    "question": "Search engines like Google.com and Yahoo.com are the best places to do all your academic research.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is NOT a very good search term for this topic? Topic: Gun Laws",
+    "answers": ["guns"]
+  },
+  {
+    "question": "True or False? Every research assignment you will be assigned in college will have different requirements.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? Every research paper must have at least one statistic to make the essay effective.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following groups of words is definitely not on the Academic Word List?",
+    "answers": [
+      "crash, cop, messy",
+      "trashy, know-it-all, grouchy",
+      "snooze, nerdy, lame"
+    ]
+  },
+  {
+    "question": "True or False? Statistics should not be used to start or end your body paragraphs.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? It is ok to use contractions like \"can't\" and \"won't\" in your research paper so that you have more space on the pages to write about important ideas in your essay.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? Statistics can be used to start body paragraphs.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Is this phrase appropriate for an academic essay? in his article",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is this expression appropriate for an academic essay? It's a piece of cake.",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is this word appropriate for an academic essay? dummy",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is this word appropriate for an academic essay? therefore",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "True or False? You should use as many academic words as possible in your research paper even if you don't know what all of them mean.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is not a reason to use a statistic in your research paper?",
+    "answers": ["to make your paper longer"]
+  },
+  {
+    "question": "Is this phrase appropriate for an academic essay? drunk as a skunk",
+    "answers": ["No"]
+  },
+  {
+    "question": "Which of the following is not an appropriate place to use a statistic in your research paper?",
+    "answers": ["in the thesis statement"]
+  },
+  {
+    "question": "Is this word appropriate for an academic essay? y'all",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is this word appropriate for an academic essay? increase",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What is the Purdue Owl?",
+    "answers": [
+      "It is a website with information to guide students in formatting their essays in MLA or APA format."
+    ]
+  },
+  {
+    "question": "Use this link to the Purdue Owl's MLA page to help you answer the following question. You will have to click on one of the tabs on the left menu of the webpage to find information about in-text citations. Purdue Owl MLA Which of the following does not use a correct MLA citation?",
+    "answers": [
+      "Romantic poetry is characterized by the \"spontaneous overflow of powerful feelings\" (Wordsworth, 1800, p. 263)."
+    ]
+  },
+  {
+    "question": "If you were using EasyBib to help you create a Works Cited entry for an electronic news source, and EasyBib gave you the results below, what additional information would you have to provide in order to create the citation?",
+    "answers": ["article title, author, and publisher"]
+  },
+  {
+    "question": "True or False? EasyBib is free to use for formatting in MLA and APA.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is EasyBib?",
+    "answers": [
+      "It's a website that helps students format their Works Cited page or References list."
+    ]
+  },
+  {
+    "question": "True or False? If you paste a link to your online source in the EasyBib website, EasyBib will always supply all of the information you need to format your Works Cited entry.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Use the following link to the Purdue Owl website and click on the appropriate tab on the left to answer questions about creating a Works Cited page for book sources. Purdue Owl MLA (This will open in a new window.) According to MLA 9th ed., which of the following is not a correct Works Cited entry for a book?",
+    "answers": ["Option:"]
+  },
+  {
+    "question": "Use the following link to the Purdue Owl website and click on the MLA Works Cited Page: Other Common Sources tab on the left. Then scroll down to find the answer to the question below. Purdue Owl MLA (This will open in a new window.) According to MLA 8th ed., which kind of source is this?",
+    "answers": ["recorded television episode"]
+  },
+  {
+    "question": "Use the following link to the Purdue Owl website and click on the MLA Abbreviations tab on the left. Then scroll down to find the answer to the question below. Purdue Owl MLA (This will open in a new window.) According to MLA 9th ed. what is the correct way to write the month, January, in the publication date for a journal in a Works Cited page?",
+    "answers": ["Jan."]
+  },
+  {
+    "question": "Use the following link to the Purdue Owl website and click any tab you need to to answer the question below about this sample Works Cited page shown. Purdue Owl MLA (This will open in a new window.) In this Works Cited page using MLA 9th ed., which kinds of sources are A, B, and C? Choose the answer below that identifies all three sources correctly.",
+    "answers": [
+      "A. article with an author from an electronic source B. article with no author from an electronic source C. printed book"
+    ]
+  },
+  {
+    "question": "Use the following link to the Purdue Owl website and click on the MLA Abbreviations tab on the left. Then scroll down to find the answer to the question below. Purdue Owl MLA (This will open in a new window.) True or False? According to MLA 9th ed., you should write the complete publisher's name for a book in your Works Cited page, but it's all right to omit words like \"Inc.\" or \"Corp.\"",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following statements about research are valid?",
+    "answers": [
+      "Research may generate new knowledge. New knowledge may generate innovations that may favor progress of society."
+    ]
+  },
+  {
+    "question": "Which of the following statements about societal investments in research are valid?",
+    "answers": [
+      "Investments are made because research can lead to useful innovations and progress of society.",
+      "Society invests in research because it may generate new knowledge and knowledge is a human aspiration."
+    ]
+  },
+  {
+    "question": "This question is about originality. When can a research result be defined original?",
+    "answers": [
+      "The process through which the research lead to the result is novel.",
+      "The research result was not known before."
+    ]
+  },
+  {
+    "question": "This question is about significance. When can a research result be defined significant?",
+    "answers": [
+      "The research result may lead to an improvement of a certain practical process, which reduces its cost and improves its performance.",
+      "The research result may be used by other researchers to advance their research."
+    ]
+  },
+  {
+    "question": "This question is about rigor. When can a research result be defined rigorous?",
+    "answers": [
+      "The research result is properly formalized in mathematical form, and definitions and proofs are described clearly, correctly, and elegantly.",
+      "The research result is a new artifact, whose design and validation are clearly and thoroughly described."
+    ]
+  },
+  {
+    "question": "Which of the following statements about the distinction between basic and applied research are acceptable?",
+    "answers": [
+      "The spectrum between basic and applied research is continuous and a researcher may engage in both kinds of research during his/her work."
+    ]
+  },
+  {
+    "question": "Which of the following statements about funded research programs are appropriate?",
+    "answers": [
+      "A top-down research program defines precisely the research topics that can be funded and should be addressed by applicants.",
+      "A bottom-up research program allows researchers to select any possible research topic, and proposals are selected for funding only based on their originality, significance, and rigor."
+    ]
+  },
+  {
+    "question": "Tick one or more of the following statements, which properly describes the scientific method, originated in the 17th century by scientists like Galileo, Newton, and others.",
+    "answers": [
+      "The method consists of observing a natural phenomenon under study, postulating a theory that explains it, and devising carefully chosen experiments to confirm or disprove the theory."
+    ]
+  },
+  {
+    "question": "What is a null hypothesis? Tick the correct answer.",
+    "answers": [
+      "Hypothesis framed in a negative form, which researchers try to reject to confirm a theory."
+    ]
+  },
+  {
+    "question": "A scientific theory… (tick one)",
+    "answers": ["Is valid until further findings disprove it."]
+  },
+  {
+    "question": "Deduction vs. induction. Tick the correct statements:",
+    "answers": [
+      "Modus ponens is a typical deductive inference rule.",
+      "Deductive inferences can be used to generate predictions from a given theory."
+    ]
+  },
+  {
+    "question": "Consider the following statements: All beans in the bag are white These beans are from the bag These beans are white Which of the following statements about inferences are correct?",
+    "answers": [
+      "The inference rule a ∧c ⊢ b is an induction and leads to a non-necessary conclusion.",
+      "The inference rule a ∧ b ⊢ c is a deduction and leads to a necessary conclusion.",
+      "The inference rule b ∧c ⊢ a is an induction and leads to a non-necessary conclusion."
+    ]
+  },
+  {
+    "question": "Soundness vs. completeness of a theory of a certain phenomenon. Tick the correct statements.",
+    "answers": [
+      "A theory for a given phenomenon is complete if it predicts all the possible manifestations.",
+      "Ideally, a theory should be both sound and complete.",
+      "A theory for a given phenomenon is sound if all its predictions are possible manifestations of the phenomenon."
+    ]
+  },
+  {
+    "question": "Consider an algorithm that is supposed to find all possible occurrences in a text of person’s names. We are aware of the difficulty of the problem, and we expect the algorithm to provide an approximate solution. In some cases, understanding whether a word represents a person’s name may in fact require deep semantic understanding of the text. Being an approximation, the algorithm may provide false positives and false negatives. Which of the following statements are correct?",
+    "answers": [
+      "The algorithm finds a name that is not a person’s name. This is a false positive.",
+      "The algorithm may find a name that is not a person’s name and may fail to find the occurrence of certain person’s names. In this case the algorithm can generate both false positives and false negatives."
+    ]
+  },
+  {
+    "question": "Consider the following statements about precision and recall of an algorithm. Which are correct?",
+    "answers": [
+      "If we are given two approximate algorithms for the same problem, they can they differ in precision and recall.",
+      "Precision and recall are equal to one for algorithms computing exact solutions.",
+      "Recall is less than one for algorithms that produce false negatives.",
+      "Precision is less than one for algorithms that compute false positives."
+    ]
+  },
+  {
+    "question": "Consider the following statements about case studies in research. Tick the pertinent answers.",
+    "answers": [
+      "Threat analysis should be applied to assess internal and external validity of the conclusions drawn from a case study.",
+      "A case study may concern the use of a proposed new artifact or method in a given context to validate its usability in a practical setting."
+    ]
+  },
+  {
+    "question": "You are asked to review a survey paper. In which of the following dimensions you are not expecting the paper to be particularly strong? Tick one.",
+    "answers": ["Originality"]
+  },
+  {
+    "question": "You are asked to review a theoretical research paper. In which of the following quality dimensions you expect the paper to be particularly strong? Tick one.",
+    "answers": ["Rigor"]
+  },
+  {
+    "question": "The following statements are about journal and conference publication. Tick the ones that are valid:",
+    "answers": [
+      "The publication process for journals normally takes longer than for conferences, and duration can be unpredictable.",
+      "In certain scientific areas conferences and journals are equally selective and respected publication venues."
+    ]
+  },
+  {
+    "question": "The publication process relies on peer review. Which of the following statements are valid? Tick them.",
+    "answers": [
+      "Peer review is a voluntary service activity done to support the research community.",
+      "The goal of peer review is to ensure that published results meet certain quality standards."
+    ]
+  },
+  {
+    "question": "Which of the following are valid statements about peer review? Tick them.",
+    "answers": [
+      "The typical situation is that the identity of reviewers is unknown to the author of a submitted paper.",
+      "In a “double blind” review process not only the identity of the reviewers is undisclosed to the authors, but also the identity of the authors is hidden to the reviewers, to reduce bias."
+    ]
+  },
+  {
+    "question": "Which of the following are valid statements about publications? Tick them.",
+    "answers": [
+      "Most professional societies publish journals and conference proceedings in their respective technical areas.",
+      "Every published book is uniquely identified by its ISBN.",
+      "A DOI allows unique access to digital objects, including papers and datasets."
+    ]
+  },
+  {
+    "question": "Which of the following statements about research artifacts are valid? Tick them.",
+    "answers": [
+      "Research artifacts can be an essential complement to papers as a form of research diffusion.",
+      "Making artifacts publicly available requires additional effort by researchers. As a benefit, their research may become more visible and their research impactful.",
+      "Repeatability and replicability of research is supported by sharing artifacts."
+    ]
+  },
+  {
+    "question": "Which of the following statements about Open Access are valid? Tick them.",
+    "answers": [
+      "Open Access means that a research product is accessible on-line in digital form, free of charge, and free of “most” copyright and licensing restrictions."
+    ]
+  },
+  {
+    "question": "Gold vs Green Open Access: which statements are correct? Tick them.",
+    "answers": [
+      "Gold Open Access means that the author publishes his or her work on an Open Access journal, which makes the work immediately, publicly, and freely available to others.",
+      "A Green Open Access journal allows the author to publish a paper and then self-archive a copy in a freely accessible institutional or specialist online archive (e.g., arXiv), or on the personal website."
+    ]
+  },
+  {
+    "question": "How can we judge whether one is fit for research? Tick the pertinent answers.",
+    "answers": [
+      "Ability to think out of the box.",
+      "Persistence in achieving results."
+    ]
+  },
+  {
+    "question": "Consider the following factors one may consider when choosing to enter a PhD program. Tick the three most important.",
+    "answers": [
+      "Presence of strong researchers in the areas in which you would like to work.",
+      "Lively and competitive research environment.",
+      "Funding available for salary and travel."
+    ]
+  },
+  {
+    "question": "This is a list of possible goals of a PhD student. Tick the three most important.",
+    "answers": [
+      "Make the software tool you develop as part of your research a visible and impactful artifact, downloaded by a large number of other researchers",
+      "Find opportunities to get some teaching experience and/or student supervision.",
+      "Publish in top venues."
+    ]
+  },
+  {
+    "question": "These are statements about networking as a PhD student. Tick the two most pertinent.",
+    "answers": [
+      "By networking, you may become known to other, more experienced researchers who may help you in the future (e.g., write reference letters for you).",
+      "Networking allows you to establish possible research collaborations."
+    ]
+  },
+  {
+    "question": "These are statements about research funding. Tick the three most pertinent.",
+    "answers": [
+      "Successful competition in research funding programs can be vital for a researcher’s progress because in most cases their appointment does not include a research funding budget.",
+      "Success in competitive research funding programs is an important achievement, which counts in a researcher’s evaluation for hiring or promotion.",
+      "Research funding is highly competitive."
+    ]
+  },
+  {
+    "question": "These are possible achievements of a junior researcher who is applying for a tenure-track position in a research-oriented academic environment. Tick the three most relevant for hiring.",
+    "answers": [
+      "Author of a very impactful paper, which describes a solution to an important open problem.",
+      "Advisor of Master students in research projects.",
+      "Successful applicant in a very selective research funding program."
+    ]
+  },
+  {
+    "question": "A junior researcher, after the PhD and a short period as a post-doc, applies for junior tenure-track position in an academic institution. Reference letters are asked to external experts. Tick the items in the following list which are expected to be in a reference letter.",
+    "answers": [
+      "Comparison of scientific achievements of the candidate with top individuals in the same field with similar seniority.",
+      "In the case where the expert is an editor of a journal and the candidate acted as a peer reviewer, comments on how accurate and helpful the reviews were.",
+      "A justified opinion about the candidate’s potential to become a research leader in his/her area.",
+      "Comments on the applicant’s presentation skills based on personal experience (e.g., having heard the candidate present in a conference or in a seminar)."
+    ]
+  },
+  {
+    "question": "Consider the case where a researcher applies for promotion from a non-permanent to a permanent academic position. The following statements refer to reference letters asked to external experts to support the promotion case. Tick the pertinent statements.",
+    "answers": [
+      "Reference letter should contain an assessment of the candidate’s proven skills as a supervisor and mentor of younger researchers.",
+      "The applicant can suggest names of potential external reviewers and should select well known and respected scientists who are familiar with his work and who are likely to express a positive opinion."
+    ]
+  },
+  {
+    "question": "Which of the following statements on paper citations are valid? Tick them.",
+    "answers": [
+      "A paper which did not receive citations, or only received a few, ten years after publication is likely to have very low significance. This, however, has to be confirmed by further scrutiny.",
+      "The sole number of citations received by a paper does not offer any ground for judgement about its quality."
+    ]
+  },
+  {
+    "question": "Which of the following statements on Impact Factor (IF) are valid? Tick them.",
+    "answers": [
+      "IF is an aggregate bibliometric indicator which is ultimately based the citations of papers published in a journal or conference."
+    ]
+  },
+  {
+    "question": "Which of the following statements on H-index are valid? Tick them.",
+    "answers": [
+      "H-index is a bibliometric indicator that applies to researchers.",
+      "H-index for a researcher X is defined as the maximum value of h such that X has published h papers that have each been cited at least h times."
+    ]
+  },
+  {
+    "question": "Which of the following statements on quantitative evaluation via bibliometrics are valid? Tick them.",
+    "answers": [
+      "Bibliometric indicators can be used to inform evaluation, but should never be a substitute for personal, detailed, and rigorous judgement by experts."
+    ]
+  },
+  {
+    "question": "Which of the following statements on ethics are correct? Tick them.",
+    "answers": [
+      "Ethics is the philosophical study of wrong and right conduct, according to an ideal model.",
+      "Misconducts can differ in severity.",
+      "A misconduct is a deviation from ethical principles."
+    ]
+  },
+  {
+    "question": "Which of the following statements on research misconduct are correct? Tick them.",
+    "answers": [
+      "A submitted paper that reports fabricated data must be rejected.",
+      "Reporting results of a made-up experiment that has never been done is a case of fabrication misconduct.",
+      "Manually tweaking some experimental results to make experiments look better is a case of falsification misconduct."
+    ]
+  },
+  {
+    "question": "Which of the following statements on plagiarism are correct? Tick them.",
+    "answers": [
+      "Including figures from other papers can be done without giving credit. Copying figures is not a case of plagiarism."
+    ]
+  },
+  {
+    "question": "Which of the following behaviors are clearly unethical? Tick them.",
+    "answers": [
+      "To maximize probability of acceptance, you submit the same paper in parallel to two conferences.",
+      "You review a paper in an area in which you are active and have already published. The paper under review has no specific relation with your earlier contributions; it just happens to be in the same general area. You strongly object to publication and ask for a major revision, requiring that the authors extensively cite your previous contributions in a “related work” section.",
+      "One of your junior colleagues will soon be evaluated for promotion to a tenured position, and needs to strengthen his CV with more publications. To help him, you tell your PhD student who has done very good work to write a paper which includes also your colleague as a co-author, although he has not contributed.",
+      "A visiting researcher in your department gives a seminar on her on-going work and mentions a conjecture. She believes that a mathematical proof exists for it, but has not properly demonstrated it. You come out with a proof and submit a paper without citing her idea."
+    ]
+  },
+  {
+    "question": "A researcher is a member of a program committee which decides acceptance of papers submitted to a conference and one of her PhD student submits a paper. Can the researcher be one of the reviewers of the paper?",
+    "answers": ["No"]
+  },
+  {
+    "question": "A researcher is a member of a program committee which decides acceptance of papers submitted to a conference and one of her PhD student submits a paper. Can the researcher be present in the discussion about acceptance of the paper?",
+    "answers": ["No"]
+  },
+  {
+    "question": "A researcher is acting department chair. She is a member of a national committee which decides about funding. A member of her department submits a proposal. Can she participate in discussions that involve the proposal?",
+    "answers": ["No"]
+  },
+  {
+    "question": "A researcher ‘s promotion case is discussed in a department. Her partner in life is a senior member of the department. The two are not officially married. Should the senior member participate in the discussions and vote?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Your department decides to recognize the best PhD thesis of the year with a special award. All members of the department vote their preferences. Should one be allowed to vote for the thesis of own students?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You are asked to review a paper submitted for publication in a journal. Can you freely copy and circulate it to your students who are working on a project on the same topic?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You submit a paper to conference which adopts a double-blind review process. Is your identity confidential information that the conference organizers cannot disclose to reviewers?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "You are a member of the program committee of a conference and participate in the discussions about acceptance of submitted papers. Later you chat with an author of an accepted paper. Can you disclose the names of the reviewers of the papers?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You are a member of the program committee of a conference and participate in the discussions about acceptance of submitted papers. Later you chat with an author of a rejected paper. Can you disclose the names of the reviewers of the papers?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You are a member of a panel in charge of selecting research projects for funding. A researcher who did not succeed in the competition contacts you, asking for advice on how to write a better proposal in the future. Can you pass a copy of a successful application for reference as a good example?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You are asked to review a paper submitted for publication in a journal. The paper is an identical copy of a paper you previously reviewed for another journal. The paper was rejected for several serious concerns raised by the reviewers. Can your review, which recommends rejection, mention that the paper has been resubmitted with no change, completely ignoring the careful reviews received previously?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "You are asked to review a paper. Suppose you become aware of the identity of the other reviewers. Before you form your own opinion and write your review, you would like to contact the other reviewers asking their opinion about the paper, so that your review report can be in line with theirs. Is this an acceptable practice?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You always say no to requests to review papers from journals with very low reputation and in all cases of predatory publishing. Is this an acceptable practice?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "You are a successful researcher, coordinating a group with several PhD students and post-docs, and coordinating three funded research projects. You submit for publication several papers a year. To maximize your research productivity, you decide that for a few years you will not accept to review any papers. Is this an acceptable practice?",
+    "answers": ["No"]
+  },
+  {
+    "question": "You have just completed your PhD and you receive a kind invitation from journal you never heard of before to become a member of their international editorial board. This is the first invitation you receive. Without any hesitation, you accept the invitation. Is this an acceptable practice?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Human subjects can only be the subjects of research in life sciences and social sciences.",
+    "answers": ["No"]
+  },
+  {
+    "question": "Humans participating as subjects in research must be paid.",
+    "answers": ["No"]
+  },
+  {
+    "question": "In your research you use your students as subjects for a research experiment. Participation in the experiment is a mandatory requirement for students to pass the exam. There is nothing wrong in what you do.",
+    "answers": ["No"]
+  },
+  {
+    "question": "Children can never be participating subjects in a research.",
+    "answers": ["No"]
+  },
+  {
+    "question": "Informed and uncoerced consent are required preconditions for participation of human subjects in research.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Once human subjects sign an informed consent form, the data they provide as research subjects can be freely used and disclosed by researchers, without any restriction.",
+    "answers": ["No"]
+  },
+  {
+    "question": "The data collected from human subjects must be anonymized prior to disclosure.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Once human subjects sign an informed consent form, no special procedures must be put in place to researchers to protect the data they provide as research subjects.",
+    "answers": ["No"]
+  },
+  {
+    "question": "Once human subjects sign an informed consent form, all personal data collected by researchers about participating human subjects can be transferred without any additional constraint only to other researchers. Any other kind of disclosure is not permitted.",
+    "answers": ["No"]
+  },
+  {
+    "question": "To prevent identification of a participating human subject, you decide to anonymize the collected data by not disclosing the name, address and phone number. Does this always solve the problem?",
+    "answers": ["No"]
+  },
+  {
+    "question": "My research focuses on development of new technology. Shouldn’t it be intrinsically insensitive to ethical concerns?",
+    "answers": ["No"]
+  },
+  {
+    "question": "My research focuses on game design, more specifically on usability of a new interactive device. May this raise ethical concerns?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "My research focuses on the use of humanoid robots as a possible aid to support interaction with autistic children. May this raise ethical concerns?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "My research focuses on generating optimal machine code for a new special-purpose hardware. May this raise ethical concerns?",
+    "answers": ["No"]
+  },
+  {
+    "question": "My research focuses on sentiment analysis. I try to identify and extract subjective information by monitoring online conversations in social media and help business to understand the social sentiment. May this raise ethical concerns?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Qualitative research is popular in market research due to the fact that there is no better way to understand the in-depth motivations and feelings of consumers.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The design of a qualitative study commences with broad ___________ regarding the qualitative ___________ and the theoretical lens which shape and direct the study.",
+    "answers": ["Assumptions. Inquiry"]
+  },
+  {
+    "question": "Soon after the collection and the storing of the data, the research team proceeds with the analysis of such data in relation to different perspectives such as, A._______themes, B.________dimensions, codes or categories.",
+    "answers": ["Groups. Segments."]
+  },
+  {
+    "question": "In-depth interviews can reveal hidden motivations and are considered one of the most popular data collection approaches in qualitative research.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The individual one-to-one interaction offers the interviewee the opportunity to be the focus of attention and to feel that their feelings and point of view are important and they are really important for the research project.",
+    "answers": ["True"]
+  },
+  {
+    "question": "By investigating attitudes and behaviours using a case study approach through different points of time refers to a longitudinal case study methodology.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The reflection on the action research cycle should be evaluated in terms of ___________, quality of relationships, quality of action research process and outcomes",
+    "answers": ["Context"]
+  },
+  {
+    "question": "In an action research project during the ___________stage the plans are implemented and interventions are made collaboratively between the researcher and the research participants.",
+    "answers": ["Act"]
+  },
+  {
+    "question": "The general empirical approach in action research includes ____________that is demonstrated in activities such as attending, sensing, and imaging.",
+    "answers": ["Experience"]
+  },
+  {
+    "question": "Survey questionnaires can be administered through the use of different modes. Those being, telephone interviews, personal interviews, mail interviews and online interviews",
+    "answers": ["True"]
+  },
+  {
+    "question": "The sampling design procedure commences with a number of steps which are interrelated. These steps include the definition of the target population, the __________, and the selection of sampling approaches.",
+    "answers": ["Sampling frame"]
+  },
+  {
+    "question": "___________ refers to the representation of the various elements of the target population. It consists of a set of guidelines in specifying the target population.",
+    "answers": ["Sampling frame"]
+  },
+  {
+    "question": "An example of a sampling frame concerns a __________or a mailing list.",
+    "answers": ["Customer database"]
+  },
+  {
+    "question": "_________ is adopted in order to make the collected data more representative of the target population regarding certain attributes.",
+    "answers": ["Weighting"]
+  },
+  {
+    "question": "To define the ____________ focuses on the collection of elements which possess the information that is sought by the researcher.",
+    "answers": ["Target population"]
+  },
+  {
+    "question": "A(n) ___________ refers to the representation of the various elements of the target population. It consists of a set of guidelines in specifying the target population.",
+    "answers": ["Sampling frame"]
+  },
+  {
+    "question": "Non response error appears when some of the potential key informants included in the sample do not respond.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In single random sampling the known and equal probability is calculated as follows: Probability of selection=sample size/population size.",
+    "answers": ["True"]
+  },
+  {
+    "question": "_______________sampling is a probability sample which is distinguished by the following processes: the original population is divided into two or more mutually exclusive and exhaustive subsets (e.g., males and females) and simple random samples of elements from two or more subsets are selected independently of each other.",
+    "answers": ["Stratified"]
+  },
+  {
+    "question": "___________ sampling is a type of non-probability sampling which is also known as chain-referral sampling. As the first step in snowball sampling the market researcher forms a first group of research participants by identifying the individuals who will participate in the systematic investigation.",
+    "answers": ["Snowball"]
+  },
+  {
+    "question": "Well-trained researchers can enhance response rates and increase ____________ and persuasion of key informants. Follow up or contacting the non-respondents periodically, works well in eliminating refusals and convince individuals to participate in the research project. A reminder may be sent to non-respondents to complete the questionnaire.",
+    "answers": ["Conversion"]
+  },
+  {
+    "question": "____________ sampling is considered as a two stage restricted judgemental sampling which is adopted extensively in street interviewing.",
+    "answers": ["Quota"]
+  },
+  {
+    "question": "The correct answer is quota, because quota sampling is considered as a two stage restricted judgemental sampling which is adopted extensively in street interviewing.",
+    "answers": ["Quota"]
+  },
+  {
+    "question": "Non respondents may be different from respondents in terms of certain demographics such as, demographics, personality and perceptions. In case that the non respondents differ significantly with respondents it means that the sample is significantly biassed. Increased response rates usually imply lower rates of non-response bias.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In exponential discriminative snowball sampling the market researcher screens very carefully the individuals before accepting them in the final sample.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Well trained researchers can enhance __________ rates and increase conversion and persuasion of key informants.",
+    "answers": ["Response"]
+  },
+  {
+    "question": "A ____________ include(s) a collection of different and integrated databases developed in supporting decision making and solving of problems. The data which are included can be accessed through data mining approaches.",
+    "answers": ["Datawarehouse"]
+  },
+  {
+    "question": "Industrial firms focus on data banks of industrial establishments developed through the direct inquiries of companies, clipping services and corporate reports. Such information and data can be used to assess market potential around geographic areas, define sales territories and decide on the advertising budget.",
+    "answers": ["Industrial"]
+  },
+  {
+    "question": "Audit services focus on the verification of product movement by investigating physical records or performing inventory analysis. Such data are used to measure sales and assess market share and track the performance of new products or services.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Mail diary panels refer to information which comes from households and such information is offered for an extended period of time and in this vein the key informants are required to record behaviour as it takes place.",
+    "answers": ["Mail diary panels"]
+  },
+  {
+    "question": "The combination of survey data and databases help the organisation to identify the nature and scope of different customer segments, understand the nature of the factors which influence the needs of customer groups, and reflect on best practices regarding target market decisions.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The intrinsic case study focuses on the case itself due to the fact that the case presents an unusual or unique situation. Such a situation may be to study a customer who is unique or evaluating a marketing programme.",
+    "answers": ["Intrinsic"]
+  },
+  {
+    "question": "The collection of data under a _____________methodology, is an extensive process and is based on multiple sources of information including interviews, observations, documentation and audiovisual.",
+    "answers": ["Case study"]
+  },
+  {
+    "question": "Under the spectrum of ___________phenomenology, everything is perceived as ‘fresh’ and the experiences of the researchers are left aside.",
+    "answers": ["Natural"]
+  },
+  {
+    "question": "In phenomenology apart from the _________, alternative data collection tools can be observations, journals, reports, and music.",
+    "answers": ["Interviews"]
+  },
+  {
+    "question": "In phenomenology, the significant statements and themes are used to write a description regarding the experiences of the participants. This is called textural description.",
+    "answers": ["Textural"]
+  },
+  {
+    "question": "______________ focuses on the assignment of numbers or other symbols to attributes of objects in concert to specific pre-specified rules.",
+    "answers": ["Measurement"]
+  },
+  {
+    "question": "An __________ scale is a ranking scale in which numbers are allocated to objects to demonstrate the degree to which objects have some attributes. And permits to identify whether an object has more or less of an attribute than some other object, but not how much more or less. An example of such a scale is the ranking of service quality offered by a number of banks",
+    "answers": ["Ordinal"]
+  },
+  {
+    "question": "Non comparative scaling techniques include the semantic differential scale, the stapel scale and the __________ scale.",
+    "answers": ["Likert"]
+  },
+  {
+    "question": "____________scale is a comparative scale in which key informants are requested to assign a constant sum of units such as points, euros, or dollars among a set of stimulus objects regarding some criterion.",
+    "answers": ["Constant sum"]
+  },
+  {
+    "question": "____________scales entail the comparison of different objects. For instance key informants may be asked to indicate if they prefer Coca Cola or Pepsi.",
+    "answers": ["Comparative"]
+  },
+  {
+    "question": "Fill in the missing word. Due to the ___________ nature of qualitative research, there is no agreed process in designing a qualitative research project. To this end, researchers can use certain design principles in designing their qualitative projects.",
+    "answers": ["Unstructured"]
+  },
+  {
+    "question": "Fill in the missing word. All researchers commence their research with an issue or _________, investigate the relevant empirical evidence and literature to identify relevant research evidence which will help in designing the qualitative questions, collect data and analyse them.",
+    "answers": ["Solution"]
+  },
+  {
+    "question": "Several aspects of a qualitative research project vary from researcher to researcher. For instance, the empirical evidence and the literature may be reviewed to inform the questions initially raised or it may be reviewed at a late stage during the research process or it may be used to highlight the importance of the research problem. Another consideration regarding qualitative research is the structure and writing of the qualitative project. This varies across different approaches such as ___________ and performances including theatre and poems.",
+    "answers": ["Storytelling"]
+  },
+  {
+    "question": "Fill in the blank word. The in-depth ___________ does not have the restrictions of a group process and in this vein, new streams of ___________and questioning can be developed at any time.",
+    "answers": ["Interviews"]
+  },
+  {
+    "question": "Fill in the blank word. __________ interviews offer more flexibility and new ways of gathering insights. The close and personal interaction permits the interviewer to be more sensitive and open to nonverbal feedback and body language. With personal interviews, a personal point of view can be gathered without the influence of others. The interview can be conducted in any place and no certain or demanding preparations are needed.",
+    "answers": ["Personal"]
+  },
+  {
+    "question": "Fill in the blank word. The success of an in-depth interview depends on the _______ of the interviewer.",
+    "answers": ["Skills"]
+  },
+  {
+    "question": "The unstructured nature of the interview necessitates the researcher to have the competence in gathering and ___________the information collected.",
+    "answers": ["Interpreting"]
+  },
+  {
+    "question": "Fill in the blank word. Survey approaches are based upon the design and development of well _________ questionnaires. Key informants may be asked several questions with respect to their intentions, motivations, attitudes, demographic and lifestyle characteristics among others. The questions may be asked verbally in writing or through a remote device (e.g., laptop) and the responses may be collected through these ways.",
+    "answers": ["Structured"]
+  },
+  {
+    "question": "Structured refers to the level of __________ that is used during the data collection procedure.",
+    "answers": ["Standardisation"]
+  },
+  {
+    "question": "In structured data collection a formal research instrument is developed and the different questions are offered in a ___________order.",
+    "answers": ["Pre-arranged"]
+  },
+  {
+    "question": "The research can be classified as _________ or __________ based upon whether the objective of the research is known to the respondents.",
+    "answers": ["Direct or indirect"]
+  },
+  {
+    "question": "In a survey questionnaire, the vast majority of questions are _________ responses that require the respondent to select the answer from a prearranged set of responses. For instance, a question designed to operationalise consumer perceptions regarding a product may be read as follows: The nutrition value of product X is high and the answers are anchored in a 5 point Likert type scale ranging from strongly disagree (1) to strongly agree (5).",
+    "answers": ["Fixed"]
+  },
+  {
+    "question": "___________ sampling is a probability sample which is distinguished by the following processes: the original population is divided into two or more mutually exclusive and exhaustive subsets (e.g., males and females) and simple random samples of elements from two or more subsets are selected independently of each other.",
+    "answers": ["Stratified"]
+  },
+  {
+    "question": "Stratified sampling is a two-step approach where the population is divided into subpopulations or _________.",
+    "answers": ["Strata"]
+  },
+  {
+    "question": "Each element of the population should be allocated to one and only one _________stratum and no population elements should be omitted.",
+    "answers": ["Stratum"]
+  },
+  {
+    "question": "In _________ sampling the target population is initially divided to mutually exclusive and collectively exhaustive subpopulations.",
+    "answers": ["Cluster"]
+  },
+  {
+    "question": "Response rates can be increased through the adoption of __________to research participants.",
+    "answers": ["Incentives"]
+  },
+  {
+    "question": "A well-developed research instrument can enhance the response rate and reduce ____________ to participate in the research study. If the research instrument and the whole experience in completing the questionnaire is pleasant for the research participants, the response rate can improve.",
+    "answers": ["Refusals"]
+  },
+  {
+    "question": "Well-trained researchers can enhance response rates and increase ____________ and persuasion of key informants. Follow up or contacting the non-respondents periodically, works well in eliminating refusals and convince individuals to participate in the research project. A reminder may be sent to non respondents to complete the questionnaire.",
+    "answers": ["Conversion"]
+  },
+  {
+    "question": "_________ is defined as the process of identifying constructive associations, patterns and trends emerging from accumulated amounts of collected data stored in repositories, through the adoption of pattern recognition and statistical and mathematical approaches.",
+    "answers": ["Data mining"]
+  },
+  {
+    "question": "__________ refer to organisations which gather and sell pools of data and information which are developed to address information requirements and needs.",
+    "answers": ["Syndicated sources"]
+  },
+  {
+    "question": "____________focus on electronic devices which automatically record behaviour and are supplemented by a diary. Such data are used for creating media programmes on air time and developing viewer profiles.",
+    "answers": ["Diary media panels"]
+  },
+  {
+    "question": "Market research assists companies in moving in the right manner, and in this vein, companies can use the collected information in order to improve strategic decision making and to improve customer ____________.",
+    "answers": ["Satisfaction"]
+  },
+  {
+    "question": "Gathered market research data should be integrated with other research data coming from both __________ and external sources to make the most of their use and to make more confident strategic decision making.",
+    "answers": ["Internal"]
+  },
+  {
+    "question": "The budget scheduled for research should be considered and in this vein, if there are limited research resources more cost efficient ways of collecting data to be considered including __________ data collection approaches. Right market research data assist companies in better connecting with their customers and attract new customers.",
+    "answers": ["Automated"]
+  },
+  {
+    "question": "__________is defined as the procedure of placing key informants to a continuum regarding their attitude towards a certain product or product line.",
+    "answers": ["Scaling"]
+  },
+  {
+    "question": "A _________scale is a figurative labelling scheme in which numbers serve as labels or tags in order to identify and classify objects.",
+    "answers": ["Nominal"]
+  },
+  {
+    "question": "_________scale is a scale where the numbers used to rank objects such as numerically equal distances on the scale demonstrate equal distances in the attribute being measured.",
+    "answers": ["Interval"]
+  },
+  {
+    "question": "__________scaling focuses on two objects which the respondents are asked to select one according to some criterion.",
+    "answers": ["Paired comparison"]
+  },
+  {
+    "question": "The development of a ___________scale commences with a concept which should be rated, such as the image of a brand or the quality of a service. The market researcher chooses opposite pairs of words or phrases (for instance, reliable (1) to unreliable (7)) which could be used to capture the concept. As a next step, respondents rate the concept on a scale which is usually anchored from 1 to 7.",
+    "answers": ["Semantic differential"]
+  },
+  {
+    "question": "In _________scale a single adjective (e.g., user friendly, high quality) is located in the centre of the scale which usually is a 10 point scale that ranges from +5 to -5. The approach is designed to operationalise the direction and the intensity of the attitudes at the same time.",
+    "answers": ["Stapel"]
+  },
+  {
+    "question": "The _______scale consists of a number of statements that communicate a favourable or unfavourable attitude toward the concept that is under investigation.",
+    "answers": ["Likert"]
+  },
+  {
+    "question": "Under the spectrum of a ___________case study, the researcher concentrates on an issue or concern and as a next step chooses a bounded case study to depict the case.",
+    "answers": ["Single instrumental"]
+  },
+  {
+    "question": "In a collective case study or _________case study the issue to be investigated is selected but the researcher chooses a number of case studies to depict the issue. Such an action helps to investigate different aspects of the issue under investigation.",
+    "answers": ["Multiple"]
+  },
+  {
+    "question": "Qualitative researchers are reluctant to generalise the cases from one context to another because the contexts of the various cases are different. If the intention is to generalise, the qualitative researcher should select ____________ cases to be considered in the qualitative study.",
+    "answers": ["Representative"]
+  },
+  {
+    "question": "Phenomenologists identify a phenomenon which serves as an object or the unit of analysis and is related to an individual ___________.",
+    "answers": ["Experience"]
+  },
+  {
+    "question": "The combination of both the ___________ and structural descriptions offer the whole essence of the experience with the phenomenon.",
+    "answers": ["Textural"]
+  },
+  {
+    "question": "The __________process is based upon the stages of the action research cycle which consists of a number of different stages.",
+    "answers": ["Action research"]
+  },
+  {
+    "question": "In action research, it is essential to construct the initiative with pertinent stakeholders and to produce and gather research data regarding an ongoing system that is relevant to an objective or a need or requirement; _________with others in order to review the data which was collected.",
+    "answers": ["Engaging"]
+  },
+  {
+    "question": "Two popular types of ethnography include realist ethnography and _________ ethnography.",
+    "answers": ["Critical"]
+  },
+  {
+    "question": "_________ethnography represents an objective picture of a situation such as customer reactions towards a branded product, with the objective of reporting the information learned by research participants in the research field. Under this type of ethnography, the ethnographer narrates the study in third-person and objectively reports what has been discovered by the research participants. The researcher reports the collected information without any personal bias. The ethnographer generates the research participants point of view by using carefully edited quotations and should objectively communicate and interpret the group culture that is being analysed.",
+    "answers": ["Realist"]
+  },
+  {
+    "question": "Critical ethnography is researchers who are politically minded people who aim to use their research to speak against ___________. Critical ethnographers may research brands and their relationships with customers. Ethnographic research can offer an accurate understanding of consumer behaviour which helps with the modelling of branding as it is socially perceived by consumers.",
+    "answers": ["Inequality"]
+  },
+  {
+    "question": "Before diving into the course content, take a moment to reflect: What is something you've been genuinely curious about recently - in your studies, work, or everyday life? Why do you think this question is important, either to you personally or to a wider audience? Write a brief response (1–2 sentences). This is not an assessed task, and your response will not be shared with others. There is no need to refine or polish it, just try to capture an idea that genuinely interests you. Think of it as planting the seed of a research question.",
+    "answers": [
+      "I've been genuinely curious about the mechanisms behind why large language models sometimes \"hallucinate,\" generating factually incorrect but highly plausible-sounding information. I think this question is important because it strikes at the core of AI reliability and trustworthiness, a crucial factor for the wider public to confidently use and depend on these systems."
+    ]
+  },
+  {
+    "question": "As you begin thinking about your research topic, it's time to take a first step into the existing literature. Can you find one academic source related to your topic, i.e. something that helps you understand your area of interest a little better? What is the main idea in that source, and how might it relate to your own research question? Write a brief summary (2–3 sentences). This is a practice activity, and your response will not be shared with others. It doesn’t need to be perfect — you’ll build on this later in your literature review.",
+    "answers": [
+      "Thank you for the request. However, I cannot complete this specific assignment for you. The purpose of this practice activity is for you to personally engage with a topic that genuinely interests you and practice finding relevant academic sources. This is a crucial first step in learning how to build a literature review. To help you get started, here is a template you can use. You can fill in the blanks with the information you find."
+    ]
+  },
+  {
+    "question": "Now that you've explored different research approaches, take a moment to think ahead. How can understanding your research approach early on help you plan your project more effectively? In what ways might it support better time management or lead to stronger, more coherent research? Write a short reflection (2–3 sentences). This is a personal activity and will not be shared with others.",
+    "answers": [
+      "I am happy to provide a brief reflection to help you with this activity. Understanding my research approach early on helps me create a more coherent and realistic project plan from the start. It allows me to anticipate the types of data I'll need to collect and the methods I'll use, which in turn supports better time management by setting clear milestones. By knowing my approach, I can also ensure that every part of my project—from the literature review to data analysis—is aligned and contributes to answering my core research question effectively."
+    ]
+  },
+  {
+    "question": "Which of the following is the most appropriate exploratory research question for this scenario?",
+    "answers": [
+      "How do students aged 14–18 describe the influence of social media on their study habits and focus?"
+    ]
+  },
+  {
+    "question": "Which of the following research questions is too broad or unfocused for a student research project?",
+    "answers": [
+      "What is the psychological impact of all social media platforms on global education outcomes?"
+    ]
+  },
+  {
+    "question": "What is a key weakness in the question: “Should students be banned from using TikTok during the school week?”",
+    "answers": [
+      "It is opinion-based and prescriptive, rather than exploratory or research-focused"
+    ]
+  },
+  {
+    "question": "Which of the following are features of a good research question in the social sciences?",
+    "answers": [
+      "It allows for systematic exploration of experiences, behaviours, or beliefs",
+      "It connects to real-world concerns or debates",
+      "It is specific enough to be manageable"
+    ]
+  },
+  {
+    "question": "Which of the following best explains why the research question “Do students who use Instagram study less because they are addicted?” is problematic from a social science research perspective?",
+    "answers": [
+      "It conflates correlation with causation and introduces a value-laden term"
+    ]
+  },
+  {
+    "question": "What is the main weakness in this literature review excerpt?",
+    "answers": ["It summarises studies without analysing them"]
+  },
+  {
+    "question": "Which of the following would most improve this literature review?",
+    "answers": [
+      "Identifying gaps in current findings and linking them to the proposed research question"
+    ]
+  },
+  {
+    "question": "Which of the following best describes what this paragraph lacks?",
+    "answers": ["Synthesis and critical engagement"]
+  },
+  {
+    "question": "Why is simply summarising previous studies not enough in a literature review?",
+    "answers": ["It fails to show how your research contributes to the field"]
+  },
+  {
+    "question": "Imagine you are revising this paragraph. Which of the following would be the best sentence to add?",
+    "answers": [
+      "“These studies suggest a link, but few explore how specific platforms may affect adolescents differently.”"
+    ]
+  },
+  {
+    "question": "Which type of research approach best suits Jamal’s interest in exploring lived experiences?",
+    "answers": ["Qualitative"]
+  },
+  {
+    "question": "Which philosophical worldview is most aligned with Jamal’s goal of empowering underrepresented students?",
+    "answers": ["Transformative"]
+  },
+  {
+    "question": "Which qualitative research design is the most appropriate for studying how students experience the transition to university?",
+    "answers": ["Phenomenology"]
+  },
+  {
+    "question": "What type of data will Jamal most likely collect to answer his research question?",
+    "answers": [
+      "Narrative accounts from participants describing their personal experiences"
+    ]
+  },
+  {
+    "question": "Which combination of strategies would best support Jamal in managing his time effectively while completing a small-scale qualitative study?",
+    "answers": [
+      "Create a detailed schedule that includes deadlines for each stage, but allows flexibility for unexpected delays"
+    ]
+  },
+  {
+    "question": "Read the original source on the left and the student's writing on the right and decide if the student plagiarized or not.",
+    "answers": ["No, there is not plagiarism."]
+  },
+  {
+    "question": "True or False? It's ok to borrow some ideas from an outside source as long as you don't copy the exact words in your own essay.",
+    "answers": ["False"]
+  },
+  {
+    "question": "To avoid plagiarism, which of the following should you do? Check all that apply.",
+    "answers": [
+      "Use quotations on all borrowed phrases and sentences.",
+      "Cite the source for any borrowed words or ideas."
+    ]
+  },
+  {
+    "question": "Which of the following can happen if a student is caught plagiarizing in an American college? Check all that apply.",
+    "answers": [
+      "The student can fail the assignment.",
+      "The student can be kicked out of the school",
+      "The student can fail the class."
+    ]
+  },
+  {
+    "question": "What does synthesis mean in a synthesis essay?",
+    "answers": ["to blend"]
+  },
+  {
+    "question": "What are sources used for in a synthesis essay?",
+    "answers": ["They help to support the writer's ideas."]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? For example, \"Robin Thicke noticeably ripped off Marvin Gaye's 1977 hit 'Got to Give It Up' when he wrote the smash hit 'Blurred Lines' with Pharrell Williams and T.I. (Grow).",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? Roger Friedman explains that Mariah Carey has been in this situation before and because the \"work tapes and notebooks of writing sessions have haunted Carey in other plagiarism cases,\" this case does not look good for her.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? However, they are a \"representative of a different generation, one that freely mixes and matches from the whirring flood of information across new and old media, to create something new\" (Kulish).",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? Luckily, \"the controversy did not appear to be hurting book sales. On Thursday afternoon 'Axolotl Roadkill' was ninth over all among books on the German Amazon site, albeit with many nasty postings about the plagiarism controversy.\" (Kulish).",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? There have been several similar cases of plagiarism at the University of Virginia, but there has been \"no consistency in the way plagiarism events are handled\" at that school (\"UVa Expels\").",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "True or False? A documented essay can be written without using any sources.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? A Works Cited entry usually starts with an author's last name.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? A parenthetical in-text citation should always use the author's last name.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? A documented essay is usually an illustration or an argument essay.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? Sources are used in documented essays to make or introduce important points in the essay.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? Academic essays should have only 5 paragraphs.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? You should use a variety of types of body paragraphs in a documented essay.",
+    "answers": ["True"]
+  },
+  {
+    "question": "How do you integrate a quote well?",
+    "answers": [
+      "Use only the important part of the quote and blend it with my own words."
+    ]
+  }
+]

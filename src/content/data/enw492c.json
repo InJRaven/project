@@ -390,7 +390,7 @@
   },
   {
     "question": "Read the original source on the left and the student's writing on the right and decide if the student plagiarized or not.",
-    "answers": ["Yes, there is plagiarism.", "No, there is not plagiarism."]
+    "answers": ["No, there is not plagiarism."]
   },
   {
     "question": "True or False? It's ok to borrow some ideas from an outside source as long as you don't copy the exact words in your own essay.",
