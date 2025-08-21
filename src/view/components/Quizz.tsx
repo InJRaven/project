@@ -23,6 +23,7 @@ const Quizz = () => {
     { value: "eal202c", label: "EAL202c" },
     { value: "enw492c", label: "ENW492c" },
     { value: "enw493c", label: "ENW493c" },
+    { value: "epe301c", label: "EPE301c" },
     { value: "ift201c", label: "IFT201c" },
     { value: "ita203c", label: "ITA203c" },
     { value: "ite302c", label: "ITE302c" },
