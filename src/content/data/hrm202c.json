@@ -1,0 +1,2999 @@
+[
+  {
+    "question": "What type of employment entails working outside a traditional setting like an office? Select two that apply.",
+    "answers": ["Telecommuting", "Remote work"]
+  },
+  {
+    "question": "The Fair Labor Standards Act mandates that employers specify what two things? Select two that apply.",
+    "answers": [
+      "The job will pay the legal minimum wage.",
+      "Duties and tasks that will require mandatory overtime."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Most, though not all, workers who are paid by the hour are _____ employees.",
+    "answers": ["Nonexempt employees"]
+  },
+  {
+    "question": "As a member of the HR team at Urban Attire, you realize that sales are projected to increase during the holiday season, as it has during every previous holiday season since the store opened. After speaking to others on the HR team, you decide to hire five new salespeople. This is an example of what method to forecast workforce needs?",
+    "answers": ["Trend predictions"]
+  },
+  {
+    "question": "What job design approach focuses on the position of a task within a process?",
+    "answers": ["Relational"]
+  },
+  {
+    "question": "Fill in the blank: You have identified Devon as an employee who has the potential to become a manager. You create a succession plan to indicate what training, education, and _____ Alex needs to become a manager.",
+    "answers": ["experience"]
+  },
+  {
+    "question": "True or false: Independent contractors are considered employees by an organization.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What type of worker is hired from a staffing agency and works short-term?",
+    "answers": ["Temporary Employee"]
+  },
+  {
+    "question": "How do most gig workers usually obtain work today?",
+    "answers": ["Apps"]
+  },
+  {
+    "question": "According to the Family and Medical Leave Act, eligible employees can take up to _____ weeks of unpaid leave for specific family and medical reasons?",
+    "answers": ["12"]
+  },
+  {
+    "question": "True or false: When managers need to fill a position, they submit a request to human resources. Then, HR produces an employee requisition.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What type of recruitment involves sharing the job description with people outside of the organization through various platforms?",
+    "answers": ["External recruitment"]
+  },
+  {
+    "question": "What recruitment strategy uses assessments to discover if a candidate’s character traits align with a specific role?",
+    "answers": ["Pre-employment assessments"]
+  },
+  {
+    "question": "You have been asked to create an inclusive professional development session with a group of like-minded colleagues to share knowledge about diversity and inclusion. What recruitment strategy is this?",
+    "answers": ["Employee resource groups"]
+  },
+  {
+    "question": "How can an organization create job descriptions that are inclusive and unbiased?",
+    "answers": [
+      "By offering jobs that are more flexible, accessible, and adjustable to employees’ individual needs"
+    ]
+  },
+  {
+    "question": "What recruitment strategy hides personal information and characteristics that are unrelated to the qualification and experiences needed in the role?",
+    "answers": ["Blind resume"]
+  },
+  {
+    "question": "What type of interview allows an employee to freely respond to a question, which provides the interviewer with an opportunity to ask follow-up questions?",
+    "answers": ["An unstructured interview"]
+  },
+  {
+    "question": "What statement details the tasks performed on a job and the purpose of the job itself.",
+    "answers": ["Job description"]
+  },
+  {
+    "question": "You are creating a listing for a new position in your organization. You include the education, experience, training, and required skills needed for the position. What is this an example of?",
+    "answers": ["Job specification"]
+  },
+  {
+    "question": "In what process do you choose the most qualified person from a pool of candidates?",
+    "answers": ["Selection"]
+  },
+  {
+    "question": "True or False: The last step in the talent acquisition life cycle involves using tests to evaluate prospective employees.",
+    "answers": ["False"]
+  },
+  {
+    "question": "An HR professional conducts several informal face-to-face interviews to find qualified candidates. What talent-sourcing strategy did they use?",
+    "answers": ["Job fairs"]
+  },
+  {
+    "question": "What is resume mining?",
+    "answers": [
+      "Sorting through large amounts of human-capital data and extracting relevant information to fill job openings"
+    ]
+  },
+  {
+    "question": "An HR professional must verify a prospective employee’s background before hiring them. Which background checks might they conduct? Select three that apply.",
+    "answers": [
+      "Motor vehicle record check",
+      "Criminal record check",
+      "Credit check"
+    ]
+  },
+  {
+    "question": "Why would an organization require a candidate to take a medical test?",
+    "answers": [
+      "To ensure they are physically capable of performing the job duties"
+    ]
+  },
+  {
+    "question": "What refers to the deliberate, discriminatory language and actions that express prejudiced attitudes toward certain groups?",
+    "answers": ["Explicit bias"]
+  },
+  {
+    "question": "Which of the following is NOT a pre-employment test organizations use to evaluate potential employees?",
+    "answers": ["Relationship test"]
+  },
+  {
+    "question": "A hiring manager prepares questions for an interview with a candidate and leaves room for them to discuss different topics as they come up, depending on how the candidate responds. What type of interview is this?",
+    "answers": ["Semi-structured interview"]
+  },
+  {
+    "question": "A hiring manager interviews a candidate for a role that will regularly encounter tense and difficult situations while on the job. What type of interview would they conduct?",
+    "answers": ["Stress interview"]
+  },
+  {
+    "question": "Which of the following is an interview best practice?",
+    "answers": ["Ask questions about required tasks or skills for the role"]
+  },
+  {
+    "question": "What is a collaborative negotiation?",
+    "answers": [
+      "When a hiring manager works with a candidate toward a mutually beneficial outcome"
+    ]
+  },
+  {
+    "question": "An HR manager includes a clause in an employment contract stating that an employee cannot approach the organization’s customers, vendors or employees for a specified time after leaving the organization. What is this clause?",
+    "answers": ["*A:Non-solicitation clause"]
+  },
+  {
+    "question": "True or False: A non-compete clause states that an employee cannot seek employment with a competitor for a specified time after leaving an organization.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When an employee joins an organization, the HR team places them on payroll, signs them up for benefits, and introduces them to the organization’s culture. What is this process known as?",
+    "answers": ["Onboarding"]
+  },
+  {
+    "question": "What does a successful orientation program enable? Select three that apply.",
+    "answers": [
+      "New hires can resolve issues",
+      "New hires can comfortably ask questions",
+      "New hires can make informed decisions"
+    ]
+  },
+  {
+    "question": "While assessing how inclusive their onboarding is, an HR manager collects employee feedback. What information should they aim to learn from this? Select three that apply.",
+    "answers": [
+      "If there is any bias or discrimination during onboarding",
+      "How can they better support new employees",
+      "How engaged or satisfied the employees are during onboarding"
+    ]
+  },
+  {
+    "question": "Which of the following is typically part of an employee’s first day of onboarding?",
+    "answers": ["Take a tour of the office"]
+  },
+  {
+    "question": "During an employee’s first day, they receive information regarding employee procedures, policies, and benefits. What did they receive?",
+    "answers": ["An employee handbook"]
+  },
+  {
+    "question": "An HR manager identifies employees with the potential to fill key roles within an organization in the future. They provide these employees with training and development opportunities. Which retention strategy does this refer to?",
+    "answers": ["Succession planning"]
+  },
+  {
+    "question": "Which of the following should you consider when calculating the cost of hiring a new employee? Select three that apply.",
+    "answers": ["Interviewing", "Advertising", "Screening"]
+  },
+  {
+    "question": "What type of work arrangement allows employees to work from home, but requires that they live within a few hours of their place of employment.",
+    "answers": ["Telecommuting"]
+  },
+  {
+    "question": "What law mandates that employers pay their employees the legal minimum wage?",
+    "answers": ["Fair Labor Standards Act"]
+  },
+  {
+    "question": "Alva is an hourly worker at Urban Attire, making $15 an hour, and is paid overtime when they work more than 40 hours a week. What type of worker is Alva?",
+    "answers": ["Nonexempt employees"]
+  },
+  {
+    "question": "What method for forecasting workforce needs is based on the expectation of how particular employment-related factors may change over time.",
+    "answers": ["Trend predictions"]
+  },
+  {
+    "question": "True or False: The relational approach evaluates all job stages and focuses on all of the job tasks within a process.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Rae works for Connective on a project-to-project basis. Right now, Rae is creating a new software to streamline the buying process for both customers and salespeople. What type of worker is Rae?",
+    "answers": ["An independent contractor"]
+  },
+  {
+    "question": "What type of worker provides greater flexibility for an organization because they can be employed for just a few days or a full year, depending on the business’ needs.",
+    "answers": ["Temporary Employee"]
+  },
+  {
+    "question": "Fill in the blank: companies like Lyft, Uber, Instacart, and Doordash use ____ to accomplish thousands of jobs quickly and efficiently.",
+    "answers": ["Gig workers"]
+  },
+  {
+    "question": "What entitles eligible employees up to a 12 week absence for reasons like the birth of a child or to care for a spouse? ?",
+    "answers": ["Family and Medical Leave Act"]
+  },
+  {
+    "question": "A manager at your organization sent in a request to fill a position. What do you produce to begin the hiring process?",
+    "answers": ["An employee requisition"]
+  },
+  {
+    "question": "You need to hire a new employee that does not currently work at your organization. What type of recruitment should you use?",
+    "answers": ["External recruitment"]
+  },
+  {
+    "question": "Your organization needs to hire five new employees that all have similar personality traits, including good communication skills and the ability to adapt easily to situations. You use an outside organization to create a personality evaluation to reveal whether a candidate is likely to succeed in your organization. What recruitment strategy is this?",
+    "answers": ["Pre-employment assessments"]
+  },
+  {
+    "question": "You are responsible for creating a job description for a new position within your organization. In order to achieve your organization's objectives for a varied and welcoming workforce, you must align your recruitment strategies with what?",
+    "answers": ["Diversity and inclusion principles"]
+  },
+  {
+    "question": "Fill in the blank: _____ focus attention on an applicant's qualifications and skills, regardless of their demographic background.",
+    "answers": ["Blind resumes"]
+  },
+  {
+    "question": "During an interview, you ask the following question: “What are your most time-sensitive responsibilities in your current role, and how do you prioritize them?” The applicant answers and you follow-up with more questions. What type of interview is this?",
+    "answers": ["An unstructured interview"]
+  },
+  {
+    "question": "Which step in the talent acquisition life cycle includes using bias-free interview techniques?",
+    "answers": [
+      "Candidate screening"
+    ]
+  },
+  {
+    "question": "An organization uses its website and workplace culture to attract suitable candidates. What talent-sourcing strategy did they use?",
+    "answers": [
+      "Employee branding"
+    ]
+  },
+  {
+    "question": "Which of the following sourcing strategies refers to a list of potential talent with skills, backgrounds, and experiences that often match particular roles in an organization?",
+    "answers": [
+      "Candidate pipeline"
+    ]
+  },
+  {
+    "question": "What type of background check requires an employer to seek permission from an applicant before obtaining a report?",
+    "answers": [
+      "Credit check"
+    ]
+  },
+  {
+    "question": "An HR manager conducts a test that determines a candidate’s ability to create spreadsheets. This will be part of their role if they are hired. What type of test did they use?",
+    "answers": [
+      "Hands-on test"
+    ]
+  }, 
+  {
+    "question": "A hiring manager evaluates candidates by comparing their responses and interactions with one another. What type of interview is this?",
+    "answers": [
+      "Group interview"
+    ]
+  },
+  {
+    "question": "A hiring manager interviews for a sales role. According to interview best practices, which of the following questions would they ask?",
+    "answers": [
+      "“How do you overcome customer objections to close a sale?”"
+    ]
+  }, 
+  {
+    "question": "What clause includes information about any severance an organization might owe an employee?",
+    "answers": [
+      "Termination clause"
+    ]
+  },
+  {
+    "question": "What is employee onboarding?",
+    "answers": [
+      "Welcoming people recruited into the organization and its culture"
+    ]
+  },
+  {
+    "question": "Why do new employees meet their team members and direct supervisors during orientation?",
+    "answers": [
+      "To build trust and a sense of belonging"
+    ]
+  },
+  
+  {
+    "question": "Fill in the blank: When developing an onboarding process, HR should consider _____.",
+    "answers": [
+      "the employees’ objectives during onboarding"
+    ]
+  },
+  {
+    "question": "Which of the following would you include in an employee handbook? Select three that apply.",
+    "answers": [
+      "Workplace safety procedures",
+      "Privacy policies",
+      "An organization chart"
+    ]
+  },
+  {
+    "question": "Which best practice will help HR determine how satisfied employees are with an organization?",
+    "answers": [
+      "Conduct stay interviews"
+    ]
+  }, 
+  {
+    "question": "How can an organization enable an employee’s career development during the maintenance stage of the career lifecycle?",
+    "answers": [
+      "Offer them new challenges, such as learning new skills or mentoring co-workers"
+    ]
+  },
+  {
+    "question": "An organization offers its employees career guidance and support. What career development tool does this refer to?",
+    "answers": [
+      "Counseling"
+    ]
+  },
+  {
+    "question": "What is the first phase of career development?",
+    "answers": [
+      "Assessment"
+    ]
+  },
+  {
+    "question": "What does the retention phase of career development involve?",
+    "answers": [
+      "Updating job skills and building a professional network"
+    ]
+  },
+  {
+    "question": "True or False: Lectures, tutorials, workshops, and seminars are examples of training methods.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "An HR team defines its training and development goals and states that they hope to improve customer service through various service delivery strategies. Which step in the learning and development process are they?",
+    "answers": [
+      "Objectives"
+    ]
+  },
+  {
+    "question": "What questions would an HR team ask ahead of doing a training needs analysis to help them determine an organization’s training needs? Select all that apply.",
+    "answers": [
+      "What tasks are required for roles in the organization?",
+      "What knowledge, skills, and abilities will an employee need to succeed in their role?"
+    ]
+  },
+  {
+    "question": "What are the resources, strategies, and techniques used to help employees advance their careers?",
+    "answers": [
+      "Career development tools"
+    ]
+  },
+  {
+    "question": "An organization aims to use career development tools to help employees advance their careers. Which of the following are tools they can use to achieve this goal?",
+    "answers": [
+      "Feedback sessions"
+    ]
+  },
+  {
+    "question": "Which career planning tool focuses on identifying promising employees who have the potential to occupy managerial or executive roles in an organization?",
+    "answers": [
+      "Succession planning"
+    ]
+  },
+  {
+    "question": "Which are the key components in the KSA learning model when designing effective training and development programs? Select all that apply.",
+    "answers": [
+      "Identify the necessary knowledge for a role",
+      "Identify the abilities needed for a role",
+      "Identify the skills needed for a role"
+    ]
+  },
+  {
+    "question": "At which level of Bloom's taxonomy framework would employees be required to discuss and describe a topic or concept?",
+    "answers": [
+      "Understand"
+    ]
+  },
+  {
+    "question": "When managers assess the \"behavior\" level in the Kirkpatrick model, what aspects of employee performance do they typically evaluate?",
+    "answers": [
+      "Job performance after training"
+    ]
+  },
+  {
+    "question": "An organization implements an on-the-job training program designed for new employees. How does on-the-job training contribute to the development and success of these new employees?",
+    "answers": [
+      "New employees can observe and work with experienced employees, making them proficient in their new positions"
+    ]
+  },
+  {
+    "question": "How can job instruction training help improve employee efficiency?",
+    "answers": [
+      "Employees observing and learning from the same group of experienced employees"
+    ]
+  },
+  {
+    "question": "Which teaching method involves presenting employees with a real or fictional scenario they analyze and solve based on their knowledge and skills?",
+    "answers": [
+      "Case study"
+    ]
+  },
+  {
+    "question": "An HR team conducts an apprenticeship program within an organization and identifies employees to participate. What would the employees do as an apprentice?",
+    "answers": [
+      "Mentor new employees and teach them about their new role within the organization"
+    ]
+  },
+  {
+    "question": "How does job rotation increase flexibility in an organization?",
+    "answers": [
+      "Employees with diverse skills and knowledge can adapt to changing customer needs or markets"
+    ]
+  },
+  {
+    "question": "What is the difference between internships and apprenticeships?",
+    "answers": [
+      "Internships are short term"
+    ]
+  },
+  {
+    "question": "What qualities should an HR manager consider when creating an adult learning program? Select two that apply.",
+    "answers": [
+      "Adult learning programs should be experiential",
+      "Adult learning programs should be collaborative"
+    ]
+  },
+  {
+    "question": "As part of a training program, an organization includes lectures, podcasts, and recordings that create a conducive learning environment. What type of learning style is this best suited for?",
+    "answers": [
+      "Auditory"
+    ]
+  },
+  {
+    "question": "SliceU wants to implement a new DEI initiative to improve employee knowledge on various DEI topics. They need a training method that allows new and current employees to experience real-world situations, receive immediate feedback, and improve their engagement and retention. Which of the following methods should they use?",
+    "answers": [
+      "On-the-job training"
+    ]
+  },
+  {
+    "question": "True or false: Instructor-led training is not cost effective because we all learn differently.",
+    "answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which of the following is training led by experts outside the organization?",
+    "answers": [
+      "External training"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Self-paced learning can be more _____ than instructor-led training because it does not require hiring an instructor or providing a venue.",
+    "answers": [
+      "Cost-effective"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _______ evaluates how employees initially react to the training materials, how students learn the new material, assessing job performance, and looking at feedback from the training.",
+    "answers": [
+      "The Kirkpatrick model"
+    ]
+  },
+  {
+    "question": "True or false: After action reviews answer three questions: what happened, why did it happen, and how did it happen or how can it be improved?",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "True or false: Return on investment, or ROI is the amount of money that an organization earns from an investment minus the amount of money it cost to make that investment.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Learner engagement can be very useful in measuring the training cost per employee, because it helps gauge whether the financial cost was worth it in improving employee knowledge and _____.",
+    "answers": [
+      "Productivity"
+    ]
+  },
+  {
+    "question": "True or false: Training experience satisfaction is the degree of satisfaction felt from the learning received and can be gauged using a net promoter score (NPS).",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "True or false: In a pilot test, a focus group consisting of a small number of workers and management evaluate a training program before it is implemented and provide feedback on any changes that need to be made.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Which of the following are types of compliance training? Select all that apply.",
+    "answers": [
+      "Health and safety training",
+      "Anti-harassment and discrimination training",
+      "Information security training"
+    ]
+  },
+  {
+    "question": "An organization conducts workplace training covering the internal policies and procedures related to honesty and integrity, respect, and upholding the organization's standards. What type of training did they implement?",
+    "answers": [
+      "Code of conduct and ethics training"
+    ]
+  },
+  {
+    "question": "True or False: Anti-harassment and discrimination training addresses the unfair treatment of employees based on their beliefs, gender, or other characteristics.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "An HR specialist uses an HRM system to analyze employee training data. What does this training analysis involve?",
+    "answers": [
+      "Identifying trends, skills gaps, and where to refine the training program"
+    ]
+  },
+  {
+    "question": "Which HRM capability enables HR teams to monitor regulatory training requirements?",
+    "answers": [
+      "Compliance tracking"
+    ]
+  },
+  {
+    "question": "An organization is creating an information security training program. What first step would you recommend when designing the training experience?",
+    "answers": [
+      "Conduct a training needs analysis"
+    ]
+  },
+  {
+    "question": "By the end of an ethics training program, the objective is for 85% of employees to demonstrate a thorough understanding of ethical principles and adhere to the organization's Code of Conduct. Furthermore, the training aims to achieve a 15% decrease in ethics-related incidents over six months. What training program development step does this apply to?",
+    "answers": [
+      "Create a SMART goal"
+    ]
+  },
+  {
+    "question": "An organization creates an anti-harassment and discrimination training program, after which the HR team conducts pre and post-training assessments. What do these assessments enable them to do?",
+    "answers": [
+      "Measure the training program’s success"
+    ]
+  },
+  {
+    "question": "Which of the following steps involves determining the most appropriate format for delivering a training program to employees?",
+    "answers": [
+      "Select a training type"
+    ]
+  },
+  {
+    "question": "True or False: Setting a SMART goal is the final step in creating a training program.",
+    "answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "What refers to the stages that an individual goes through in their career, from the beginning of their working life until their retirement?",
+    "answers": [
+      "Career lifecycle"
+    ]
+  },
+  {
+    "question": "An individual assesses their values and interests to identify the type of work they would like to pursue. What stage of the career life cycle does this refer to?",
+    "answers": [
+      "Exploration stage"
+    ]
+  },
+  {
+    "question": "Which of the following tasks can a talent management system include?",
+    "answers": [
+      "Succession planning"
+    ]
+  },
+  {
+    "question": "An HR professional is designing a training program for an organization. What four types of learning structures should they consider to create the most effective learning experience for employees?",
+    "answers": [
+      "Parallel, simulated, cooperative, blended"
+    ]
+  },
+  {
+    "question": "What is a learning management system (LMS)?",
+    "answers": [
+      "A software system used to create, administer, document, track, report on, and deliver online educational courseware"
+    ]
+  },
+  {
+    "question": "What level of the Kirkpatrick model evaluates how well participants apply the knowledge and skills they learned during training?",
+    "answers": [
+      "The third level, “Behavior”"
+    ]
+  },
+  {
+    "question": "A focus group evaluates a training before it is implemented and provides feedback on any changes needed. What type of evaluation is this?",
+    "answers": [
+      "Pilot test"
+    ]
+  },
+  {
+    "question": "After employees complete a customer service training program, a treatment and control group complete a post-training assessment to measure their customer service skills. What is this method known as?",
+    "answers": [
+      "Experimental design"
+    ]
+  },
+  {
+    "question": "A team sets a SMART goal, making it easy to monitor their progress and identify when they reach it. Which part of the SMART acronym does this refer to?",
+    "answers": [
+      "Measurable"
+    ]
+  },
+  {
+    "question": "True or False: Training Cost Per Employee is calculated by dividing the total cost of training by the number of employees.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Fill in the blank: To measure learner engagement, _____ can be administered before, during, and after training to gauge the engagement and satisfaction of the learners.",
+    "answers": [
+      "surveys"
+    ]
+  },
+  {
+    "question": "An individual prepares to enter the work environment by setting goals and learning relevant skills. After choosing a role, they learn about what education, skills, and other requirements they would need. What career development phase does this refer to?",
+    "answers": [
+      "Preparation"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a career development tool?",
+    "answers": [
+      "Skills assessment"
+    ]
+  },
+  {
+    "question": "Fill in the blank: ______ is a framework for learning, teaching, and achievement.",
+    "answers": [
+      "Bloom’s Taxonomy"
+    ]
+  },
+  {
+    "question": "Which of the following types of simulation training would an HR manager use for training employees?",
+    "answers": [
+      "Vestibule training"
+    ]
+  },
+  {
+    "question": "A manager aims to encourage employees to work together. They shift employees across the organization through various jobs to increase their interest and motivation. What is this known as?",
+    "answers": [
+      "Job rotation"
+    ]
+  },
+  {
+    "question": "What is the process of acquiring knowledge, skills, and attitudes through educational activities or experiences specifically designed for post-childhood education?",
+    "answers": [
+      "Adult learning"
+    ]
+  },
+  {
+    "question": "An HR professional creates a training program for visual learners. What should they remember about visual learners?",
+    "answers": [
+      "Visual learners learn best by seeing or observing information"
+    ]
+  },
+  {
+    "question": "An HR manager identifies promising employees who can fulfill managerial or executive roles in an organization. What area of talent management systems helps them to complete this process?",
+    "answers": [
+      "Succession planning"
+    ]
+  },
+  {
+    "question": "An HR manager uses talent management systems to automate compensation management. What does compensation management involve?",
+    "answers": [
+      "The legal requirements, pay equity within an organization, and competitive pay within an industry"
+    ]
+  },
+  {
+    "question": "As part of an employee’s career growth and progression, what are the four stages in the career lifecycle?",
+    "answers": [
+      "Exploration, establishment, maintenance, and disengagement"
+    ]
+  },
+  
+  {
+    "question": "What does the investigation phase of career development involve?",
+    "answers": [
+      "Exploring the education and skills needed for a role"
+    ]
+  },
+  {
+    "question": "What is the last phase of career development?",
+    "answers": [
+      "Transition"
+    ]
+  },
+  
+  {
+    "question": "As part of an organization’s learning and development planning, the HR team conducts a training needs analysis (TNA). What does this TNA enable them to do?",
+    "answers": [
+      "Determine which employees require training or development and the delivery methods to use"
+    ]
+  },
+  {
+    "question": "What method do HR teams use to identify employee training goals by examining areas in an organization that could be improved?",
+    "answers": [
+      "Training needs analysis"
+    ]
+  },
+  
+  {
+    "question": "An HR associate uses formal career planning resources as a career development tool. What does this include?",
+    "answers": [
+      "Offering employees career resources and support, such as access to career counselors"
+    ]
+  },
+  {
+    "question": "An organization implements dual career ladders as a way to promote promising employees. Which employees is this career planning aimed at?",
+    "answers": [
+      "Employees who are not interested in managerial or supervisory positions."
+    ]
+  },
+  {
+    "question": "While creating a training plan for a sales team, an HR manager recognizes that an employee has an in-depth understanding of prospecting principles and consumer behavior. Which part of the KSA framework have they identified?",
+    "answers": [
+      "Knowledge"
+    ]
+  },
+  {
+    "question": "After sharing a sales manual with the sales team and asking them to explain the ideas they've learned, an HR manager brings the sales team together to work in groups and problem-solve various sales-related scenarios. What level of Bloom's taxonomy does this refer to?",
+    "answers": [
+      "Apply"
+    ]
+  },
+  {
+    "question": "According to the Kirkpatrick training evaluation model, which level involves asking employees questions such as “Did you find the training program useful?” or “Did the training program meet your expectations?”",
+    "answers": [
+      "Reaction"
+    ]
+  },
+  {
+    "question": "In which instance would on-the-job training NOT be appropriate? Select two that apply.",
+    "answers": [
+      "When handling sensitive or confidential information",
+      "If training poses a safety risk"
+    ]
+  },
+  {
+    "question": "What is job instruction training?",
+    "answers": [
+      "A type of training where the learner observes a task before demonstrating their skills"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ is a technique in which employees act out a scenario or situation to practice and develop specific skills or behaviors.",
+    "answers": [
+      "Roleplay"
+    ]
+  },
+  {
+    "question": "When should an organization consider apprenticeship training?",
+    "answers": [
+      "When a task requires certification"
+    ]
+  },
+  {
+    "question": "The HR team aims to implement the most effective training approach to enhance employee engagement and build a culture of teamwork and collaboration within the organization. Which type of training would be most suitable to achieve these objectives?",
+    "answers": [
+      "Roleplay"
+    ]
+  },
+  {
+    "question": "Why would an organization consider offering internships?",
+    "answers": [
+      "The organization wants to enhance diversity and inclusion"
+    ]
+  },
+  {
+    "question": "True or False: Adult learning is generally conceptual and theoretical, avoiding skills-bases, practical education.",
+    "answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "Which type of learners typically process information through materials such as PowerPoint presentations, infographics, diagrams, handouts, and books?",
+    "answers": [
+      "Visual learners"
+    ]
+  },
+  {
+    "question": "Fill in the blank: On-the-job training allows new employees to experience real-world situations, receive immediate feedback, and _______?",
+    "answers": [
+      "Improve engagement and retention"
+    ]
+  },
+  {
+    "question": "True or false: In-house training programs are led by employees within the organization, and external training is conducted by outside experts.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "True or false: One of the cons of self-paced training is that it is repeatable.",
+    "answers": [
+      "False"
+    ]
+  },
+  {
+    "question": "The Kirkpatrick model of training evaluation assesses which of the following? Select all that apply.",
+    "answers": [
+      "Assessing job performance",
+      "Reviewing feedback from the training",
+      "Initial reaction to training materials"
+    ]
+  },
+  {
+    "question": "Which of the following methods of evaluation involves answering three questions: what happened, why did it happen, and how did it happen or how can it be improved?",
+    "answers": [
+      "After-action"
+    ]
+  },
+  
+  {
+    "question": "True or false: Learner engagement can be very useful in measuring the training cost per employee, because it helps predict how long an employee will stay at the company.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Training experience satisfaction is the degree of satisfaction felt from the learning received. Satisfaction data can be gathered in a few different ways, including which of the following? Select two that apply.",
+    "answers": [
+      "Focus groups",
+      "Surveys"
+    ]
+  },
+   
+  {
+    "question": "You are an HR professional responsible for implementing an organization's code of conduct and ethics training program. What will this training program include?",
+    "answers": [
+      "Policies and procedures related to morally correct behavior, conflicts of interest, and other relevant topics"
+    ]
+  },
+  {
+    "question": "Which HRM capability enables HR teams to monitor what trainings employees have finished by maintaining up-to-date training records?",
+    "answers": [
+      "Training completion tracking"
+    ]
+  },
+ 
+  {
+    "question": "An organization decides to implement on-site training, which includes group sessions and roleplay. What step did they complete in creating the training program?",
+    "answers": [
+      "Select a training type"
+    ]
+  },
+  
+  {
+    "question": "An HR manager designs a post-training evaluation. What does this enable them to do?",
+    "answers": [
+      "Assess the training program's effectiveness by gathering participant feedback"
+    ]
+  },
+  
+  {
+    "question": "Employees at an organization access their training courses through an online platform that tracks and reports their progress and reports it to management. What type of software are they using?",
+    "answers": [
+      "Learning management system"
+    ]
+  },
+  
+  {
+    "question": "An organization uses a versatile procedure that summarizes the findings of a training program. What is this known as?",
+    "answers": [
+      "After action review"
+    ]
+  },
+  
+  {
+    "question": "A manager sets a SMART goal that helps them reach the organization’s long-term objectives. Which part of the SMART acronym does this refer to?",
+    "answers": [
+      "Relevant"
+    ]
+  },
+  
+  {
+    "question": "An HR specialist determines the amount of time and effort employees put into the learning process. How might they measure learner engagement? Select all that apply.",
+    "answers": [
+      "Surveys",
+      "Attendance records",
+      "Performance data",
+      "Interviews"
+    ]
+  },
+  {
+    "question": "A graduate applies for a job, accepts a job offer, and chooses a career in marketing. What career development phase are they in?",
+    "answers": [
+      "Commitment"
+    ]
+  },
+  {
+    "question": "An individual uses techniques, resources and strategies to plan, manage and advance their career in sales. What are these referred to as a whole?",
+    "answers": [
+      "Career development tools"
+    ]
+  },
+  {
+    "question": "Which stage of Bloom’s taxonomy do learners differentiate, organize, relate, compare and contrast, or test their knowledge through critical thinking skills?",
+    "answers": [
+      "Analyze"
+    ]
+  },
+  {
+    "question": "An HR manager aims to reduce the safety risks and costs of training. What type of training enables them to do that?",
+    "answers": [
+      "Simulation training"
+    ]
+  },
+  
+  {
+    "question": "Which of the following characteristics are common in adult learning programs? Select all that apply.",
+    "answers": [
+      "Self-directed",
+      "Experiential",
+      "Goal-oriented"
+    ]
+  },
+  {
+    "question": "True or False: Tactile, or kinesthetic learners learn best by doing and experiencing information.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What type of software automates and manages processes such as compensation and performance management?",
+    "answers": [
+      "Talent management systems"
+    ]
+  },
+  
+  {
+    "question": "Why would an organization implement a compensation program? Select all that apply.",
+    "answers": [
+      "To create incentives for future efforts",
+      "To offer employees fair reward for their achievements",
+      "To retain and motivate employees"
+    ]
+  },
+  {
+    "question": "What compensation offers employees a fixed monetary reward for performing standard duties?",
+    "answers": [
+      "Base wage or salary"
+    ]
+  },
+  {
+    "question": "True or False: An incentive is a monetary or non-monetary reward to motivate an employee, like a bonus or extra time off.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "An organization provides employees with health insurance and retirement pensions in addition to their base salary. What is this known as?",
+    "answers": [
+      "Benefits"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Salary and wages are common types of compensation. _____ is compensation paid in addition to these types of compensation depending on certain situations and conditions.",
+    "answers": [
+      "Differential pay"
+    ]
+  },
+  {
+    "question": "Neri works for Urban Attire and is an exempt employee. What does this mean?",
+    "answers": [
+      "Neri does not get paid for overtime"
+    ]
+  },
+  {
+    "question": "An employee receives additional pay after they were asked to come back to work after their regular hours. What pay did they receive?",
+    "answers": [
+      "Call-back pay"
+    ]
+  },
+  {
+    "question": "When might an organization consider offering geographic pay?",
+    "answers": [
+      "If they have employees in more than one location"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Most organizations that have employees in more than one location provide _____.",
+    "answers": [
+      "geographic pay differentials"
+    ]
+  },
+  {
+    "question": "An organization creates a compensation program to retain and motivate employees. Which of the following components are typically included in a compensation program?",
+    "answers": [
+      "Annual performance bonuses based on sales targets"
+    ]
+  },
+  {
+    "question": "Which of the following is true about pay grades?",
+    "answers": [
+      "Pay grades have upper and lower limits, and once a worker reaches the top, any salary increase requires a job change."
+    ]
+  },
+  {
+    "question": "What is the agreed upon compensation given to an employee when they join a company?",
+    "answers": [
+      "Base pay"
+    ]
+  },
+  {
+    "question": "An HR manager reviews an employee’s performance and notes their superior job performance. What type of raise would they offer this employee?",
+    "answers": [
+      "Merit pay"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ promotes compensation fairness and reduces pay disparities for similar work.",
+    "answers": [
+      "A hierarchical pay structure"
+    ]
+  },
+  {
+    "question": "What does a compa ratio higher or lower than 100% indicate?",
+    "answers": [
+      "That an employee is either overpaid or underpaid"
+    ]
+  },
+  {
+    "question": "An HR manager uses multiple salary surveys to compare their organization's internal pay levels with those of other organizations. What is the primary purpose of conducting these comparisons?",
+    "answers": [
+      "To achieve external equity"
+    ]
+  },
+  {
+    "question": "How can HR professionals compare an organization's compensation packages with other organizations",
+    "answers": [
+      "Use industry associations to access compensation surveys and stay up-to-date on compensation trends"
+    ]
+  },
+  {
+    "question": "What are the benefits of pay for performance for employees?",
+    "answers": [
+      "Employees can earn more by performing well and contributing to the organization's success."
+    ]
+  },
+  {
+    "question": "How can organizations avoid wage compression?",
+    "answers": [
+      "Increase underpaid employees’ salaries"
+    ]
+  },
+  {
+    "question": "Alex earns a fraction of each sale they make. What commission does Alex earn?",
+    "answers": [
+      "Percentage of sales"
+    ]
+  },
+
+  {
+    "question": "Employers can offer optional health-related benefits. These benefits can include dental, vision, and which of the following? Select all that apply.",
+    "answers": [
+      "Life insurance",
+      "Disability insurance"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The ______ is found by dividing the total cost of the benefit for the year by the number of employees who received that benefit.",
+    "answers": [
+      "cost per employee"
+    ]
+  },
+  {
+    "question": "Which of the following are optional components of healthcare benefits that might be offered? Select all that apply.",
+    "answers": [
+      "Discounts on products and services",
+      "Telemedicine",
+      "Mental health resources"
+    ]
+  },
+  {
+    "question": "Which of the following healthcare plans is a tax-advantaged account that helps workers covered under high-deductible health plans, or HDHPs, to prepare for medical expenses that HDHPs do not cover?",
+    "answers": [
+      "Health savings accounts"
+    ]
+  },
+  {
+    "question": "In order for an employee to be eligible for Medicare, they must be at least how old?",
+    "answers": [
+      "65"
+    ]
+  },
+  {
+    "question": "According to the Family Medical Leave Act, or FMLA, which of the following types of leave refers to when an employee is away from work for an extended time, usually starting after three consecutive absent days.",
+    "answers": [
+      "Continuous"
+    ]
+  },
+  {
+    "question": "Neri at Urban Attire is helping the HR team put together benefits packages for the upcoming year. They have decided to start offering childcare benefits to all employees. Which of the following are some common childcare benefits Neri can offer? Select all that apply.",
+    "answers": [
+      "Assistance finding information",
+      "Onsite care",
+      "Vouchers or discounts"
+    ]
+  },
+  {
+    "question": "Avery at Urban Attire likes the retirement benefits they receive from Urban Attire, but wants to supplement their employer-established account with one that is untaxed and with an independent bank. Which retirement plan should Avery look into?",
+    "answers": [
+      "An IRA"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A ______ is a retirement account that allows employees to save part of their wages and invest them in stocks, bonds, mutual funds, and other investments and is often partially matched by an employer.",
+    "answers": [
+      "401(k)"
+    ]
+  },
+  {
+    "question": "According to the IRS, usually, how old must a worker be before they can collect their retirement payments?",
+    "answers": [
+      "65"
+    ]
+  },
+  {
+    "question": "Which of the following is a typical HR compensation and benefits task?",
+    "answers": [
+      "Create pay structures that maintain internal and external equity"
+    ]
+  },
+  {
+    "question": "Fill in the blank: An HR professional would typically review _____ in concurrence with the annual performance reviews",
+    "answers": [
+      "Base salary"
+    ]
+  },
+  {
+    "question": "Which of the following is a type of differential pay?",
+    "answers": [
+      "Shift pay"
+    ]
+  },
+  {
+    "question": "Which of the following aspects informs base salary decisions?",
+    "answers": [
+      "Pay equity"
+    ]
+  },
+  {
+    "question": "Ely just started at a new company. The company has said that their stock options cannot be fulfilled for the first year. What is this time period known as?",
+    "answers": [
+      "Vesting period"
+    ]
+  },
+  {
+    "question": "A social media manager performs exceptionally well during a seasonal social media campaign. Their department lead recognizes their outstanding performance in reaching their goal and awards them a salary increase. What type of increase did the employee receive?",
+    "answers": [
+      "Merit increase"
+    ]
+  },
+  {
+    "question": "Fill in the blank: In job evaluation, the _____ is a combination of the ranking and points factor methods.",
+    "answers": [
+      "Factor comparison method"
+    ]
+  },
+  {
+    "question": "True or False: Asking new employees about their experiences, compensation, perks, and benefits at other organizations is a great way to gather valuable information about compensation in the market.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "An employee receives a form of payment linked to the organization’s desired results. What payment strategy does the organization follow?",
+    "answers": [
+      "Pay for performance"
+    ]
+  },
+  {
+    "question": "An organization is interested in implementing a group incentive pay system. Which of the following approaches should they consider?",
+    "answers": [
+      "Tying the team manager's compensation to the team's specific goals, putting a portion of their pay \"at risk\""
+    ]
+  },
+  {
+    "question": "A fashion retailer rewards employees for acquiring new skills and sets salaries and wages based on the skills of new hires. What type of compensation do they use?",
+    "answers": [
+      "Skill-based pay"
+    ]
+  },
+  {
+    "question": "What compensation recognizes employees for their tenure with an organization?",
+    "answers": [
+      "Service awards"
+    ]
+  },
+  {
+    "question": "Which of the following benefits are organizations legally required to offer as part of a benefits package? Select all that apply.",
+    "answers": [
+      "Medicare contributions",
+      "Social Security contributions"
+    ]
+  },
+  {
+    "question": "As an HR professional responsible for tracking benefit costs, you use the cost per employee per year method. How would you calculate the cost per employee per year for offering benefits?",
+    "answers": [
+      "Divide the total cost of the benefit for the year by the number of employees who received that benefit"
+    ]
+  },
+  {
+    "question": "An organization aims to reduce the cost of paying employee benefits. Which of the following options might they consider to reduce healthcare costs?",
+    "answers": [
+      "Offer defined coverage plans"
+    ]
+  },
+  {
+    "question": "Why would an organization include home injuries insurance in its benefits package?",
+    "answers": [
+      "To provide coverage and support for work-from-home injuries and ergonomic-related issues"
+    ]
+  },
+  {
+    "question": "Neri at Urban Attire aims to reduce employee expenses by requiring all employees to obtain healthcare from a specific group of providers. Which of the following health insurance plans is best suited to reach this goal?",
+    "answers": [
+      "Health maintenance organizations"
+    ]
+  },
+  {
+    "question": "According to The Family and Medical Leave Act, which of the following is an example of continuous leave?",
+    "answers": [
+      "Parental leave"
+    ]
+  },
+  {
+    "question": "What should an organization consider when offering onsite child care?",
+    "answers": [
+      "Onsite childcare has risks and is expensive"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of employee assistance programs (EAPs)?",
+    "answers": [
+      "Counseling and advisory services for personal matters"
+    ]
+  },
+  {
+    "question": "Which of the following is usually true about time off allowances?",
+    "answers": [
+      "The more time employees work for a company, the more days off they receive."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Employees can make _____ to qualified retirement plans, such as 401(k) plans, 403(b) plans, and different IRA plans.",
+    "answers": [
+      "salary deferrals"
+    ]
+  },
+  {
+    "question": "True or False: Employees do not pay taxes on traditional 401 (k) contributions until withdrawn.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "What are IRA Retirement Plans?",
+    "answers": [
+      "Untaxed retirement savings accounts established through a bank instead of an employer"
+    ]
+  },
+  {
+    "question": "What is a simplified employee pension plan?",
+    "answers": [
+      "A retirement plan that involves employers setting aside money in retirement accounts for employees"
+    ]
+  },
+  {
+    "question": "As an HR specialist, you are required to keep records of employees personal information. What employee information do you keep?",
+    "answers": [
+      "Information relating to hiring efforts, including applications and employment tests, as well as terminations."
+    ]
+  },
+  {
+    "question": "Fill in the blank: A _____ supports all aspects of HR.",
+    "answers": [
+      "comprehensive HRIS"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ has the benefit of being stored in small spaces or on remote servers.",
+    "answers": [
+      "Electronic data storage"
+    ]
+  },
+  {
+    "question": "As part of your HR tasks, you are required to handle compensation and benefits-related claims. Which of the following claims might you expect to handle? Select all that apply.",
+    "answers": [
+      "Wage and hour",
+      "Workers' compensation"
+    ]
+  },
+  {
+    "question": "An employee files a claim for an FMLA violation and seeks legal counsel to initiate the claim process with the Department of Labor. What is HR’s role during this process?",
+    "answers": [
+      "HR should maintain accurate communication with internal and external legal representatives"
+    ]
+  },
+
+  {
+    "question": "An organization creates a compensation program to reward employees fairly for their achievements. Which of the following can they include in their compensation program to achieve this?",
+    "answers": [
+      "Weekly or monthly salaries"
+    ]
+  },
+  
+  {
+    "question": "Which of the following incentives can employees access immediately?",
+    "answers": [
+      "Cash bonuses"
+    ]
+  },
+  
+  {
+    "question": "Which of the following is true about salaries?",
+    "answers": [
+      "It is typically expressed as the amount of money someone makes over a year"
+    ]
+  },
+  {
+    "question": "Jae is a non-exempt employee at SliceU, and their manager asks them to work more than 40 hours this week. What is SliceU required to do in this case?",
+    "answers": [
+      "Pay them 1.5 times the base rate for each additional hour worked"
+    ]
+  },
+  {
+    "question": "Which type of pay compensates employees for their time outside of normal working hours? Select two that apply.",
+    "answers": [
+      "Call-back pay",
+      "On-call pay"
+    ]
+  },
+  {
+    "question": "What is hazard pay?",
+    "answers": [
+      "Pay given to compensate workers for the physical and psychological risks they encounter on the job"
+    ]
+  },
+  
+  {
+    "question": "True or False: Company incentives include bonuses, commissions, profit sharing, and life insurance.",
+    "answers": [
+      "False"
+    ]
+  },
+
+  {
+    "question": "Employees perform well throughout the year and earn compensation in addition to their base salary at the end of the year. What compensation did they receive?",
+    "answers": [
+      "Bonus pay"
+    ]
+  },
+  {
+    "question": "An organization motivates its employees by offering them raises. Which of the following are raises the organization may provide to their employees? Select three that apply.",
+    "answers": [
+      "Merit increases",
+      "Annual raises",
+      "Performance-based raises"
+    ]
+  },
+  {
+    "question": "An organization uses a process to create a limited number of salary bands with a large difference between the minimum and maximum pay levels. What happens to jobs in this case?",
+    "answers": [
+      "Broadbanding"
+    ]
+  },
+  {
+    "question": "True or False: A 100% compa-ratio means an employee is paid at the exact midpoint of the salary range.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ ensures that jobs of similar value to an organization receive equal compensation.",
+    "answers": [
+      "Internal equity"
+    ]
+  },
+  {
+    "question": "Which of the following could you use to compare your organization’s compensation packages and another organization's compensation packages?",
+    "answers": [
+      "Analyze market trends and economic indicators to determine competitive compensation levels"
+    ]
+  },
+  {
+    "question": "Which of the following pay-for-performance strategies helps to incentivize employees?",
+    "answers": [
+      "Merit pay"
+    ]
+  },
+  {
+    "question": "What are the consequences of wage compression?",
+    "answers": [
+      "It causes uncertainty about an organization's fairness"
+    ]
+  },
+  {
+    "question": "Neri, an HR professional at Urban Attire, is designing a clear and employee-friendly incentive program. Which of the following incentives should Neri consider to motivate employees? Select all that apply.",
+    "answers": [
+      "Commissions",
+      "Profit sharing",
+      "Bonuses"
+    ]
+  },
+
+  {
+    "question": "Fill in the blank: ____ is an optional health-related benefit employers commonly offer.",
+    "answers": [
+      "Life insurance"
+    ]
+  },
+  {
+    "question": "Fill in the blank: One method of tracking benefit costs is to look at the ______ of making a particular benefit available.",
+    "answers": [
+      "annual cost"
+    ]
+  },
+  {
+    "question": "Neri is helping to create benefits packages for Urban Attire. Neri wants to include some optional health components to the healthcare benefits. Which of the following might they include? Select all that apply.",
+    "answers": [
+      "Mental health resources",
+      "Telemedicine"
+    ]
+  },
+  {
+    "question": "Which of the following healthcare plans prioritizes reducing employee expenses and requires all healthcare be obtained from a specific group of providers?",
+    "answers": [
+      "Health reimbursement arrangements"
+    ]
+  },
+  
+  {
+    "question": "Which of the following are the most common types of childcare benefits an organization might offer? Select all that apply.",
+    "answers": [
+      "Assistance finding information",
+      "Onsite care",
+      "Vouchers or discounts"
+    ]
+  },
+  {
+    "question": "Fill in the blank: IRAs are untaxed retirement savings accounts established through ______ instead of an employer.",
+    "answers": [
+      "a bank"
+    ]
+  },
+  {
+    "question": "When does a worker start being taxed on their standard 401(k) account?",
+    "answers": [
+      "When they start collecting from the account"
+    ]
+  },
+  
+  {
+    "question": "An HR team manages employees’ pay and additional offerings. What type of tasks would the HR team typically perform to manage pay and additional offerings?",
+    "answers": [
+      "Establish and maintain compensation and benefits programs for all employees"
+    ]
+  },
+  {
+    "question": "An organization pays employees a base salary for performing their duties. What does this base salary include?",
+    "answers": [
+      "Fixed monetary reward"
+    ]
+  },
+  {
+    "question": "An IT professional was requested to remain available during the weekend in case any work arises that falls outside their regular working hours. Why did the employee not receive on-call pay for their time?",
+    "answers": [
+      "Their activities were not restricted while on-call"
+    ]
+  },
+  {
+    "question": "An HR professional determines whether their organization pays their employees a fair market wage relative to other organizations in the same industry and location. What term describes this compensation consideration?",
+    "answers": [
+      "Competitive pay"
+    ]
+  },
+  
+  {
+    "question": "An organization offers all of its employees a company-wide, set yearly increase. Which of the following might determine what the raise amount is?",
+    "answers": [
+      "The organization’s financial performance"
+    ]
+  },
+  {
+    "question": "An HR manager groups positions with common characteristics, such as managers, in the same grade. Then they assign all managers in the organization to a specific pay range. What job evaluation technique did the HR manager use?",
+    "answers": [
+      "Classification"
+    ]
+  },
+  {
+    "question": "What group might be able to provide you with compensation surveys to help compare compensation packages to those offered by other similar, local competitors?",
+    "answers": [
+      "Industry associations"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ is a form of payment linked to the organization’s desired result. .",
+    "answers": [
+      "Pay for performance"
+    ]
+  },
+  {
+    "question": "A retail organization rewards employees for achieving collective sales goals. What type of incentive pay is this?",
+    "answers": [
+      "Group incentive pay"
+    ]
+  },
+  
+  {
+    "question": "An organization honors an employee's 5-year milestone by giving them a bonus and a personalized gift. What type of recognition is this?",
+    "answers": [
+      "Service awards"
+    ]
+  },
+  {
+    "question": "Which of the following are optional health benefits an organization may offer its employees?",
+    "answers": [
+      "Dental insurance"
+    ]
+  },
+  
+  {
+    "question": "An organization aims to introduce mental health resources as part of its healthcare-related benefits. Which of the following might they consider? Select all that apply.",
+    "answers": [
+      "Covering the cost of therapy sessions with psychologists",
+      "Offering free subscriptions to mental wellness apps"
+    ]
+  },
+  {
+    "question": "True or False: Health maintenance organizations reduce the costs of healthcare for employers.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "Under the Family and Medical Leave Act, what are the three types of leave?",
+    "answers": [
+      "Continuous, reduced, and intermittent"
+    ]
+  },
+  
+  {
+    "question": "Fill in the blank: Some _____ provide counseling and advisory services for personal issues, including child and elder care, adoption assistance, mental health counseling, and life event planning.",
+    "answers": [
+      "Employee assistance programs"
+    ]
+  },
+  
+  {
+    "question": "Which of the following fundamental guidelines of retirement plans should employees know?",
+    "answers": [
+      "Employees must be 21 years old and have at least one year of service to qualify"
+    ]
+  },
+  {
+    "question": "An organization offers a retirement account that allows employees to save part of their wages and invest them. What is this known as?",
+    "answers": [
+      "401(k)"
+    ]
+  },
+  
+  {
+    "question": "Which of the following are applicable to both 457(b) plans and 401(k) plans?",
+    "answers": [
+      "Employees can choose to place their contributions into investments and earn money"
+    ]
+  },
+  {
+    "question": "Why would an organization consider paying employees semi-monthly instead of weekly?",
+    "answers": [
+      "Weekly pay schedules can be challenging for accounting departments with additional monthly reports to complete."
+    ]
+  },
+  {
+    "question": "An HR manager considers implementing an HRIS to help with HR-related tasks. Which of the following should they consider before choosing a system?",
+    "answers": [
+      "Who will have access to the information"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Though simpler to manage than organization-owned servers, _____ may require additional effort and communication when it is time to dispose of employees’ records.",
+    "answers": [
+      "cloud storage"
+    ]
+  },
+  
+  {
+    "question": "A company creates a clear message stating what they do, their audience, and plans for the future. They aim to inspire their employees by sharing insights into the company and its purpose. What did the company create?",
+    "answers": [
+      "Mission statement"
+    ]
+  },
+  {
+    "question": "What makes a mission statement “relevant”?",
+    "answers": [
+      "Readers should easily understand how it relates to their lives or applies to them"
+    ]
+  },
+  {
+    "question": "What four components of a vision statement should an organization consider?",
+    "answers": [
+      "Vision statements should be ambitious, feasible, broad, and strategic."
+    ]
+  },
+  {
+    "question": "While creating their value statement, a leadership team begins by brainstorming potential values. What should they do at this stage of the process?",
+    "answers": [
+      "Ask employees what they think the organization’s core values are"
+    ]
+  },
+  {
+    "question": "As an HR professional, you aim to inform employees about the behaviors your company restricts or prohibits. What source of information helps you achieve your goal?",
+    "answers": [
+      "A code of ethics"
+    ]
+  },
+  {
+    "question": "Why is it important to include clear internal control in a company’s code of ethics?",
+    "answers": [
+      "It informs employees and stakeholders of the system for reporting and investigating code violations and delivering disciplinary action, as necessary."
+    ]
+  },
+  {
+    "question": "An HR rep creates a communication strategy with the aim of effectively sharing information such as the company’s values and ethics. Which three primary delivery methods should they include in this communication strategy? Select all that apply.",
+    "answers": [
+      "An employee handbook",
+      "Training",
+      "Email"
+    ]
+  },
+  {
+    "question": "Telecom brand, Connective, outlines its employee conduct expectations, reporting structure, and key roles in the company in a detailed manual. Where can employees find this information?",
+    "answers": [
+      "In the employee handbook"
+    ]
+  },
+  {
+    "question": "An HR team introduces team meetings as part of an organization’s communication strategy. What role do team meetings play in this process?",
+    "answers": [
+      "Meetings bring employees together to discuss updates, share insights, and align efforts toward shared goals."
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ should be an ongoing process to ensure an organization's long-term success.",
+    "answers": [
+      "Training"
+    ]
+  },
+
+  {
+    "question": "What does it mean for an organization to have an open-door policy?",
+    "answers": [
+      "Employees may access and approach leaders and managers in an organization at all levels"
+    ]
+  },
+  {
+    "question": "What strategies help organizations maintain a diverse and inclusive workplace?",
+    "answers": [
+      "Community outreach"
+    ]
+  },
+  {
+    "question": "How does flexible scheduling help an organization attract a more diverse workforce and appeal to diverse candidates?",
+    "answers": [
+      "It shows the organization understands individual circumstances, such as time off for religious holidays"
+    ]
+  },
+  {
+    "question": "An organization implements department meetings as an employee communication strategy. Which of the following should they consider to ensure the meetings are effective? Select all that apply.",
+    "answers": [
+      "Department meetings typically occur at regularly scheduled intervals",
+      "Department meetings focus on discussing relevant issues",
+      "Department meetings include all staff within a department"
+    ]
+  },
+  {
+    "question": "Managers often demonstrate trust in their employees by allowing them to do their jobs and make decisions without waiting for approval. What employee involvement tactic does this refer to?",
+    "answers": [
+      "Delegation of authority"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ help managers understand why employees continue to work for an organization or why they might leave their current positions.",
+    "answers": [
+      "Stay interviews"
+    ]
+  },
+  {
+    "question": "Which benefits might an organization introduce to help employees achieve a healthy work-life balance?",
+    "answers": [
+      "Sabbaticals"
+    ]
+  },
+  {
+    "question": "An organization hosts an informal party for employees every quarter. What type of employee recognition does this refer to?",
+    "answers": [
+      "Special events"
+    ]
+  },
+  {
+    "question": "Why is it important to ensure employees are not only engaged but also satisfied?",
+    "answers": [
+      "Satisfied employees are less likely to actively search for another job."
+    ]
+  },
+  {
+    "question": "An organization aims to measure employee satisfaction and engagement. Which of the following tools should they consider using?",
+    "answers": [
+      "Questions on a five-point scale"
+    ]
+  },
+
+  {
+    "question": "Fill in the blank: _____ is the process of setting goals, measuring progress, and rewarding or correcting employees.",
+    "answers": [
+      "Performance management"
+    ]
+  },
+  {
+    "question": "“Define performance expectations” and “measure and evaluate performance” are the first two steps of the performance management cycle. Which of the following are the other steps? Select all that apply.",
+    "answers": [
+      "Provide feedback",
+      "Adjust pay scales"
+    ]
+  },
+  {
+    "question": "Fill in the blank: __________ involves the following steps: set objectives, create action plans, review performance, and assess performance and reward meeting objectives.",
+    "answers": [
+      "Management by objectives"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The _______ performance appraisal method judges the performance of individual employees in relation to other employees.",
+    "answers": [
+      "comparison"
+    ]
+  },
+  {
+    "question": "Which of the following types of discipline involves steps that become more severe and are designed to change an employee's inappropriate behavior?",
+    "answers": [
+      "Progressive discipline"
+    ]
+  },
+  {
+    "question": "Which of the following are reasons to keep good documentation of disciplinary records? Select all that apply.",
+    "answers": [
+      "Establishes a pattern of behavior",
+      "Allows the manager to think carefully prior to action",
+      "Provides a record that protects the employer"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of likely wrongful termination? Select all that apply.",
+    "answers": [
+      "Employee was working under an \"Implied contract\" such as guidelines in an employee handbook",
+      "Termination broke federal or state equal employment and workplace laws",
+      "Employee refusing to break the law",
+      "Employee is part of a union and was terminated anyway"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of negative behavior? Select all that apply.",
+    "answers": [
+      "Disorganization",
+      "Overconfidence"
+    ]
+  },
+  {
+    "question": "Which of the following are ways an organization can attempt to avoid dangerous workplace conflicts? Select two that apply.",
+    "answers": [
+      "Having a response plan",
+      "Focusing on prevention"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The _____ relies on instances of especially good or poor employee performance.",
+    "answers": [
+      "critical incident method"
+    ]
+  },
+
+  {
+    "question": "An organization highlights specialization as one of its core competencies. What does specialization refer to?",
+    "answers": [
+      "It refers to the organization's expertise in a unique area"
+    ]
+  },
+  {
+    "question": "An organization asks its employees to conduct business with integrity, respect, and excellent customer service. What statement might include this request?",
+    "answers": [
+      "A value statement"
+    ]
+  },
+  {
+    "question": "Which of the following is true about a code of ethics?",
+    "answers": [
+      "A code of ethics should reinforce a set of values upon which the organization wants to build its culture."
+    ]
+  },
+  {
+    "question": "Which employee communication tool includes huddles, workshops, and status updates?",
+    "answers": [
+      "Meetings"
+    ]
+  },
+  {
+    "question": "An organization is interested in offering employees professional development and growth opportunities. What tool might they use to achieve this?",
+    "answers": [
+      "Voluntary training programs"
+    ]
+  },
+  {
+    "question": "What are the three most common categories for employment relationships?",
+    "answers": [
+      "Employees, contractors, and freelancers"
+    ]
+  },
+  {
+    "question": "An HR team changes policies to address discriminatory incidents and achieve diversity objectives. What do the policy changes enable?",
+    "answers": [
+      "Clear guidelines for behavior and specific penalties for those who violate these policies"
+    ]
+  },
+  {
+    "question": "True or False: Committees are groups that address ongoing issues within an organization.",
+    "answers": [
+      "True"
+    ]
+  },
+  {
+    "question": "To support work-life balance, an organization offers employees sabbaticals. What does this benefit enable employees to do?",
+    "answers": [
+      "Take a paid rest or break from work"
+    ]
+  },
+  {
+    "question": "When releasing an engagement survey, what should the questions measure?",
+    "answers": [
+      "If the work conditions of the organization foster its core values"
+    ]
+  },
+  {
+    "question": "Which step in the performance management cycle involves discussing an employee's performance with them and identifying areas to improve?",
+    "answers": [
+      "Provide feedback"
+    ]
+  },
+  {
+    "question": "Why is it important for managers to consider sensitivity when conducting performance evaluations?",
+    "answers": [
+      "It allows them to prevent unnecessary negative feelings while motivating employees to improve their performance"
+    ]
+  },
+  {
+    "question": "What step in the Management by Objectives (MBO) process involves managers meeting with employees to provide feedback on their performance?",
+    "answers": [
+      "Review performance"
+    ]
+  },
+  {
+    "question": "What are the four methods for performance appraisal?",
+    "answers": [
+      "Behavioral, comparison, rating, and narrative"
+    ]
+  },
+  {
+    "question": "What performance appraisal method judges an employee based on their conduct as it relates to the job?",
+    "answers": [
+      "Behavioral performance appraisal"
+    ]
+  },
+  {
+    "question": "Which of the following is true about the factor comparison method in performance appraisal?",
+    "answers": [
+      "It evaluates employees based on specific aspects or factors related to their job performance, rather than their overall performance"
+    ]
+  },
+  {
+    "question": "Which of the following is true about a descriptive scale?",
+    "answers": [
+      "The scale usually includes phrases such as “Always meets expectations, sometimes meets expectations, or never meets expectations”"
+    ]
+  },
+  {
+    "question": "An organization lists an employee's role as follows: Customer Service Representative: Handles demanding customers and other customer-related situations cooperatively, politely, and helpfully. A manager then rates the employee’s customer service skills on a scale from 1 to 5. What method did they use?",
+    "answers": [
+      "Graphic rating scale"
+    ]
+  },
+  {
+    "question": "Which of the following is a strength of the performance appraisal process?",
+    "answers": [
+      "A good performance appraisal process reinforces good behavior"
+    ]
+  },
+  {
+    "question": "What is progressive discipline?",
+    "answers": [
+      "Disciplinary steps that become more severe and are designed to change an employee's inappropriate behavior"
+    ]
+  },
+  {
+    "question": "Progressive discipline is a form of organizational due process. What does due process refer to?",
+    "answers": [
+      "Employees will be notified of impending actions and will be allowed to defend themselves, if necessary, before any employment decisions are made."
+    ]
+  },
+  {
+    "question": "What issues can cause conflict over money? Select all that apply.",
+    "answers": [
+      "Allocating resources",
+      "Payments to outside parties",
+      "Employee benefits"
+    ]
+  },
+  {
+    "question": "What is the benefit of preventing groupthink in an organization?",
+    "answers": [
+      "A diverse, well-managed team with a range of competencies, thinking patterns, and experiences"
+    ]
+  },
+  {
+    "question": "How do Human resource information systems (HRIS) improve HR's efficiency?",
+    "answers": [
+      "By coordinating tasks such as timekeeping, payroll, scheduling, recruiting, workforce planning, and benefits eligibility"
+    ]
+  },
+  {
+    "question": "During an organizational audit, you assess six significant organizational characteristics. What do you learn when determining the \"shared mindset\" of the organization?",
+    "answers": [
+      "Does the organization agree on the same mission and goals?"
+    ]
+  },
+  {
+    "question": "What is an example of a functional organization structure?",
+    "answers": [
+      "An organization's finance department is grouped according to their skills into accounting, financial planning, and treasury teams"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of flexible work schedules? Select three that apply.",
+    "answers": [
+      "Split shifts",
+      "Staggered hours",
+      "Variable days"
+    ]
+  },
+  {
+    "question": "What employee personal file category includes performance evaluations, training history, and letters of recognition?",
+    "answers": [
+      "Performance management"
+    ]
+  },
+  {
+    "question": "Under what circumstances are employees allowed to view their HR-related records?",
+    "answers": [
+      "In an office with an HR representative or relevant manager present"
+    ]
+  },
+  {
+    "question": "According to OSHA, employers are not required to keep records of non-work-related incidents. Which of the following is an example of a non-work-related incident?",
+    "answers": [
+      "An employee sustains an injury while traveling to the office"
+    ]
+  },
+
+  
+  {
+    "question": "What are the four characteristics of a mission statement?",
+    "answers": [
+      "Mission statements should be simple, captivating, measurable, and relevant."
+    ]
+  },
+  
+  {
+    "question": "An organization’s leadership shares a statement that informs employees how to conduct business. What did they share with their employees?",
+    "answers": [
+      "An ethics code"
+    ]
+  },
+  {
+    "question": "What characteristic is always true of company ethics?",
+    "answers": [
+      "Company ethics state an organization's principles, social responsibilities and obligations, and long-term goals."
+    ]
+  },
+  {
+    "question": "What are the three main components to an effective code of ethics?",
+    "answers": [
+      "Values, explicit and unambiguous rules, and clear internal controls"
+    ]
+  },
+  
+  {
+    "question": "A retail company creates a manual that includes their mission and vision statements, discipline procedures, and information regarding holidays and time off. What document does this refer to?",
+    "answers": [
+      "Employee handbook"
+    ]
+  },
+  
+  {
+    "question": "An HR manager designs engaging learning experiences for employees. What formats might they consider to engage employees and improve their knowledge retention? Select all that apply.",
+    "answers": [
+      "Role-playing exercises",
+      "Gamification",
+      "Team-building activities"
+    ]
+  },
+
+  
+  {
+    "question": "Which of the following is a diversity and inclusion initiative an organization might implement?",
+    "answers": [
+      "Mentorship"
+    ]
+  },
+  {
+    "question": "An HR manager suspects bias during the hiring process, which leads to a workforce dominated by older men. What policy changes may they implement to ensure a more diverse workforce?",
+    "answers": [
+      "Remove information about candidates’ genders from résumés and applications"
+    ]
+  },
+  {
+    "question": "As an HR manager, you implement strategies to establish communication with employees. Why would you consider lunch-and-learn sessions?",
+    "answers": [
+      "It allows employees to discuss various issues and concerns in a relaxed setting that includes both managers and employees."
+    ]
+  },
+  {
+    "question": "What strategy would you consider implementing to build a sense of involvement within an organization?",
+    "answers": [
+      "Work teams"
+    ]
+  },
+  {
+    "question": "What does employee feedback include?",
+    "answers": [
+      "How employees feel about their work, their peers, their managers, and the organization"
+    ]
+  },
+  {
+    "question": "Why would an organization offer childcare options to help employees achieve a work-life balance?",
+    "answers": [
+      "It allows parents to focus on work, knowing their children are nearby and cared for"
+    ]
+  },
+  {
+    "question": "Which type of employee relations programs involve acknowledging employees for their excellent performance?",
+    "answers": [
+      "Recognition program"
+    ]
+  },
+  {
+    "question": "True or False: While engaged employees are almost always satisfied with their jobs, satisfied employees are not necessarily engaged.",
+    "answers": [
+      "True"
+    ]
+  },
+   
+  {
+    "question": "Across an organization, managers are discussing special projects, deadlines, quality standards, and other relevant performance criteria with their employees. Which step of the performance management cycle are they in?",
+    "answers": [
+      "Define performance expectations"
+    ]
+  },
+  
+  {
+    "question": "Fill in the blank: The _______ performance appraisal method uses numerical rankings for performance appraisals.",
+    "answers": [
+      "rating"
+    ]
+  },
+  {
+    "question": "Which of the following types of discipline is an approach that can guide an employee toward improved behavior, ensure continued compliance, or preempt larger issues.",
+    "answers": [
+      "Progressive discipline"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Records of _________ can include written or verbal warnings issued, suspensions, and changes in pay.",
+    "answers": [
+      "corrective actions"
+    ]
+  },
+  {
+    "question": "A manager has come to you for insight as to whether it is possible to terminate the employment of an employee. According to the manager, the employee was insubordinate. You decide to get the employee’s perspective, and they tell you that the manager has been asking employees to work during their lunch breaks without logging the hours, and the employee declined. Which of the following exceptions that protect employees from wrongful termination applies to this employee?",
+    "answers": [
+      "Public policy exemptions such as an employee refusing to break the law"
+    ]
+  },
+  {
+    "question": "The first step of handling a difficult employee is to address the unwanted behavior. What comes next?",
+    "answers": [
+      "Active listening and discussion"
+    ]
+  },
+  
+  {
+    "question": "What is an example of core competencies in an organization?",
+    "answers": [
+      "Knowledge of laws and regulations"
+    ]
+  },
+  
+  {
+    "question": "Which of the following is true about mandatory training programs?",
+    "answers": [
+      "They ensure that all employees acquire essential knowledge"
+    ]
+  },
+  {
+    "question": "What is an employment relationship?",
+    "answers": [
+      "The legal link between employers and employees"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A highly-effective way to improve an organization’s diversity is to change how it ______.",
+    "answers": [
+      "recruits job applicants"
+    ]
+  },
+  
+  {
+    "question": "Which of the following is true about flexible work hours?",
+    "answers": [
+      "Instead of working a specific number of hours a day, employees work to achieve specific goals"
+    ]
+  },
+  {
+    "question": "Fill in the blank: One of the the most common survey question types is the _____, in which employees read a statement and are asked to select one choice from on a spectrum from Strongly Agree to Strongly Disagree.",
+    "answers": [
+      "five-point scale"
+    ]
+  },
+  {
+    "question": "A manager meets with an employee to define performance expectations. What are examples of these expectations?",
+    "answers": [
+      "Deadlines, quality standards, and performance criteria"
+    ]
+  },
+  {
+    "question": "One of the core characteristics of a performance evaluation is honesty. What does this entail?",
+    "answers": [
+      "Sharing all feedback, whether it is positive, negative, or neutral"
+    ]
+  },
+  
+  {
+    "question": "True or False: The most common behavioral method for employee evaluation is the BARS method.",
+    "answers": [
+      "True"
+    ]
+  },
+  
+  {
+    "question": "Which of the following should you consider during the performance appraisal process?",
+    "answers": [
+      "It is important to restate or reset expectations"
+    ]
+  },
+  {
+    "question": "What is a common reason for dismissing an employee?",
+    "answers": [
+      "Unsatisfactory performance"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Progressive discipline is a form of organizational _____. This means employees will be notified of impending actions and will be allowed to defend themselves, if necessary, before any employment decisions are made.",
+    "answers": [
+      "due process"
+    ]
+  },
+  {
+    "question": "Which of the following describes a workplace conflict relating to values?",
+    "answers": [
+      "Differing religious, moral, ethical, or political beliefs affect relationships between employees"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Healthy conversations about diversity and inclusion and incorporating initiatives into the workplace help prevent _____.",
+    "answers": [
+      "workplace conflicts"
+    ]
+  },
+  {
+    "question": "As an HR professional in a growing organization, you use an HRM system to manage various HR processes and tasks. Which of the following is a key benefit of using an HRM system in your daily responsibilities?",
+    "answers": [
+      "It helps organizations comply with legal and social obligations"
+    ]
+  },
+  
+  {
+    "question": "An organization groups its departments according to specialties, such as Sales, Accounting, Administration, Marketing, Operations, Human Resources, and IT. What organizational structure does this describe?",
+    "answers": [
+      "Functional structure"
+    ]
+  },
+  
+  
+  {
+    "question": "According to ADA, the Americans with Disabilities Act, when may an employer breach confidentiality and disclose employees’ medical records?",
+    "answers": [
+      "During workers’ compensation claims"
+    ]
+  },
+  {
+    "question": "An employee has a car accident on company property while commuting to work. Why is the employer not required to keep records of this incident, according to OSHA?",
+    "answers": [
+      "It is a non-work-related incident"
+    ]
+  },
+  {
+    "question": "What does the HR manager do in the “assess the risks” stage of the risk management process?",
+    "answers": [
+      "Determine the chance of a particular risk occurring and the financial impact on the organization if it does."
+    ]
+  },
+  {
+    "question": "What are the two main categories of risk management?",
+    "answers": [
+      "Protecting employees and protecting the organization"
+    ]
+  },
+  {
+    "question": "An organization aims to prevent or reduce possible events that could harm them. What are these events known as?",
+    "answers": [
+      "Negative risks"
+    ]
+  },
+  {
+    "question": "What is a risk mindset?",
+    "answers": [
+      "A person’s attitude or outlook towards risk"
+    ]
+  },
+  {
+    "question": "When approaching risk with a positive mindset, why is it important to be proactive?",
+    "answers": [
+      "Early identification and assessment of a risk can help determine if the risk is a potential opportunity."
+    ]
+  },
+  {
+    "question": "What does it mean to approach risk management with a negative mindset?",
+    "answers": [
+      "Focusing risk management efforts on eliminating all risks"
+    ]
+  },
+  {
+    "question": "In which of the following ways does compliance sustain an organization?",
+    "answers": [
+      "It enhances an organization’s reputation"
+    ]
+  },
+  {
+    "question": "Which of the following is an industry-specific organization that monitors compliance?",
+    "answers": [
+      "Federal Transit Administration (FTA)"
+    ]
+  },
+  {
+    "question": "What is the difference between legal and organizational compliance?",
+    "answers": [
+      "Legal compliance refers to external laws and regulations, while organizational compliance deals with internal policies and procedures."
+    ]
+  },
+  {
+    "question": "How can compliance positively affect an organization's operations?",
+    "answers": [
+      "Adhering to compliance rules builds trust with employees, customers, and clients"
+    ]
+  },
+
+  {
+    "question": "Which of the following statements is true about the Age Discrimination in Employment Act of 1967?",
+    "answers": [
+      "The act prohibits employers from terminating employees over 40 years old based solely on their age"
+    ]
+  },
+  {
+    "question": "Which of the following describes protected classes?",
+    "answers": [
+      "Groups of people legally protected from harm or harassment by laws, practices, and policies that discriminate against them due to a shared characteristic"
+    ]
+  },
+  {
+    "question": "An HR manager assesses if protected groups in an organization are represented fairly compared to the overall labor force. What method for identifying discrimination did they use?",
+    "answers": [
+      "Impact ratio analysis"
+    ]
+  },
+  {
+    "question": "What risks might an organization experience due to a lack of diversity?",
+    "answers": [
+      "Employees may experience reduced job satisfaction and engagement, decreasing productivity"
+    ]
+  },
+  {
+    "question": "An organization commits to affirmative action initiatives to promote diversity and inclusion in the workplace. Which of the following initiatives may help them achieve their goal?",
+    "answers": [
+      "Actively recruit individuals from underrepresented groups"
+    ]
+  },
+  {
+    "question": "As part of an affirmative action program, an HR executive conducts a utilization analysis. What rule can they use to determine underutilization?",
+    "answers": [
+      "The 80% rule, that enables organizations to bypass underutilization"
+    ]
+  },
+  {
+    "question": "What license grants the inventor the exclusive right to use or sell an invention for a set amount of time?",
+    "answers": [
+      "Patent"
+    ]
+  },
+  {
+    "question": "What activities does the Taft-Hartley Act define as unfair labor practices?",
+    "answers": [
+      "Unions forcing employees to join a union"
+    ]
+  },
+  {
+    "question": "What are the four main types of unions?",
+    "answers": [
+      "Local, national, federation, and international"
+    ]
+  },
+  {
+    "question": "According to the Equal Pay Act and the Fair Pay Act, what laws must organizations follow regarding compensation?",
+    "answers": [
+      "Workers must receive equal pay for equal work regardless of gender"
+    ]
+  },
+  {
+    "question": "Which of the following are considered safety issues in the workplace? Select all that apply.",
+    "answers": [
+      "Lack of fire protection measures",
+      "Repetitive motion",
+      "Lack of protective gear"
+    ]
+  },
+  {
+    "question": "Which of the following might cause employee conflict? Select all that apply.",
+    "answers": [
+      "Absenteeism",
+      "Differences in compensation",
+      "Differences in lifestyle",
+      "Organizational issues"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The ________ protects employees with alcoholism from workplace discrimination.",
+    "answers": [
+      "Americans with Disabilities Act"
+    ]
+  },
+  {
+    "question": "Which of the following physical hazards can result in anxiety, panic attacks, exhaustion, and even heart problems?",
+    "answers": [
+      "Stress hazards"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A _______ uses various communication tools such as posters, publications, films, bulletins, pamphlets, newsletters, and displays to engage and inform individuals about safety practices and potential risks in the workplace.",
+    "answers": [
+      "safety awareness campaign"
+    ]
+  },
+  {
+    "question": "Avery was off from work when they received a phone call. The person on the other line claimed to be an HR representative and mentioned that Avery’s paycheck could not be deposited into their bank account due to an error in the bank information Avery provided. The caller asked Avery to provide her bank account information again. Luckily, Avery knew that this was a scam because an HR representative would never ask for banking information over the phone. Which of the following tactics did the caller try to use on Avery?",
+    "answers": [
+      "Vishing"
+    ]
+  },
+  {
+    "question": "Which of the following entities defines sexual harassment as unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature.",
+    "answers": [
+      "Equal Employment Opportunity Commission"
+    ]
+  },
+  {
+    "question": "Which of the following are common examples of hostile work environment harassment? Select all that apply.",
+    "answers": [
+      "Using crude or offensive language",
+      "Discussing sexual activities",
+      "Sabotaging someone’s work"
+    ]
+  },
+  {
+    "question": "Employers are usually deemed to know of sexual harassment if which of the following criteria are true? Select all that apply.",
+    "answers": [
+      "The harassment was well-known among employees",
+      "The harassment was openly practiced in the workplace"
+    ]
+  },
+  {
+    "question": "When interviewing an employee who is filing a sexual harassment complaint, an HR manager asks when and where the incident occurred. What is another important question they should ask?",
+    "answers": [
+      "Which other employees might have seen or heard about the conduct in question?"
+    ]
+  },
+
+  {
+    "question": "Which of the following organizational restructuring strategies involves recruiting and retaining quality workers to support an organization’s business model?",
+    "answers": [
+      "Growth"
+    ]
+  },
+  {
+    "question": "In the growth phase of an organization, which of the following actions can an organization take to encourage expansion in addition to offering relocation incentives and bonuses to new hires?",
+    "answers": [
+      "Encourage current employees to refer candidates"
+    ]
+  },
+  {
+    "question": "A clothing company has decided to close an underperforming store. In order to retain staff, they move the staff of the closing store to a higher-performing store in the area. HR is enlisted to ensure the transition of staff from one store to another is smooth. Which of the following types of restructuring is the clothing store conducting?",
+    "answers": [
+      "Downsizing"
+    ]
+  },
+  {
+    "question": "Fill in the blank: ________ combine two organizations by absorbing one organization into the other.",
+    "answers": [
+      "Acquisitions"
+    ]
+  },
+  {
+    "question": "If an organization has a surplus of employees and does not want to implement extensive layoffs, which of the following is an option the organization might pursue?",
+    "answers": [
+      "Shared work"
+    ]
+  },
+  {
+    "question": "FIll in the blank: ____ is the practice of paying an outside entity to perform specialized business functions.",
+    "answers": [
+      "Outsourcing"
+    ]
+  },
+  {
+    "question": "A tornado damages a factory. The workers are safe and accounted for, but the building is unsafe for use. What type of business continuity threat does this situation represent?",
+    "answers": [
+      "Natural"
+    ]
+  },
+  {
+    "question": "Which of the following are HR’s responsibilities when an organization is conducting a divestiture? Select all that apply.",
+    "answers": [
+      "Ensure that information is available while protecting employee privacy",
+      "Gathering information on employees"
+    ]
+  },
+  {
+    "question": "At the beginning of the COVID-19 pandemic, a restaurant was forced to dramatically cut back on hours and staffing to meet safety requirements. Workers were expected to return to work as restrictions lifted and were gradually given hours or additional hours as business returned to normal. Which of the following terms describes this situation?",
+    "answers": [
+      "Furloughs"
+    ]
+  },
+  {
+    "question": "When instituting a furlough, HR might consider which of the following when deciding which employees to furlough?",
+    "answers": [
+      "Which positions are most critical"
+    ]
+  },
+  {
+    "question": "An HR manager identifies an organization's potential risks. What does the HR manager do at this stage of the risk management process?",
+    "answers": [
+      "Identify all possible risks including a comprehensive audit of the organization"
+    ]
+  },
+  {
+    "question": "In the context of risk management, what do negative risks refer to?",
+    "answers": [
+      "Events beyond the organization’s control that can hurt the organization"
+    ]
+  },
+  {
+    "question": "An HR manager is trying to define how they perceive, assess, and respond to risk. They are trying to define their risk what?",
+    "answers": [
+      "Mindset"
+    ]
+  },
+  {
+    "question": "An HR manager is attempting to approach risk with a positive mindset. Which of the following is a best practice they can follow?",
+    "answers": [
+      "Adopt a proactive approach"
+    ]
+  },
+  {
+    "question": "An HR manager is attempting to approach risk with a negative mindset. Which of the following is a benefit of this mindset?",
+    "answers": [
+      "Encourages visualization"
+    ]
+  },
+  {
+    "question": "A design firm holds a weekend retreat to refresh workers on the values and ethics that the firm has committed to. What type of compliance is this an example of?",
+    "answers": [
+      "Organizational compliance"
+    ]
+  },
+  {
+    "question": "Which of the following acts requires that employers accommodate employees with disabilities by making reasonable changes in the workplace?",
+    "answers": [
+      "Americans with Disabilities Act"
+    ]
+  },
+  {
+    "question": "What term is used to describe groups of people legally protected from harm or harassment by laws, practices, and policies that discriminate against them due to a shared characteristic?",
+    "answers": [
+      "Protected classes"
+    ]
+  },
+  {
+    "question": "What does an availability analysis examine?",
+    "answers": [
+      "How many individuals from protected classes qualify, have the necessary skills, and live in the areas to qualify for employment"
+    ]
+  },
+  {
+    "question": "Which of the following could be considered a discriminatory barrier in an organization?",
+    "answers": [
+      "Unequal pay"
+    ]
+  },
+  {
+    "question": "What type of patent is typically used for inventions?",
+    "answers": []
+  },
+  {
+    "question": "What type of union might represent a single group of tradespeople in one city?",
+    "answers": [
+      "Local"
+    ]
+  },
+  {
+    "question": "An HR team is reviewing complaints from workers in a plant. Which of the following would be considered a safety issue?",
+    "answers": [
+      "Missing protective gear"
+    ]
+  },
+  {
+    "question": "Which of the following acts protects employees with alcoholism from workplace discrimination?",
+    "answers": [
+      "Americans with Disabilities Act"
+    ]
+  },
+  {
+    "question": "What type of workplace hazard is a substance that an employee regularly handles or is present in the work environment that can cause illness or death?",
+    "answers": [
+      "Chemical"
+    ]
+  },
+  {
+    "question": "What is vishing?",
+    "answers": [
+      "A cybercrime that uses phone calls to trick individuals into revealing personal information."
+    ]
+  },
+  {
+    "question": "Which of the following federal agencies handles complaints of discrimination and harassment?",
+    "answers": [
+      "Equal Employment Opportunity Commission"
+    ]
+  },
+  {
+    "question": "A hostile work environment is generally created by supervisors and co-workers. Which of the following groups can also potentially create a hostile work environment?",
+    "answers": [
+      "Customers"
+    ]
+  },
+  {
+    "question": "What generally occurs if an organization goes through a concentration?",
+    "answers": [
+      "Eliminate units that are not supporting profits"
+    ]
+  },
+  {
+    "question": "During a downsizing, how can an HR professional be an “employee champion?”",
+    "answers": [
+      "By making the downsizing process dignified and fair"
+    ]
+  },
+  {
+    "question": "A company wants to close down their in-store sales division to focus on the more profitable online sales division. What is this process known as?",
+    "answers": [
+      "Concentration"
+    ]
+  },
+  {
+    "question": "What term describes the combination of two organizations into one new, joint venture?",
+    "answers": [
+      "Mergers"
+    ]
+  },
+  {
+    "question": "What term describes the elimination of jobs in an organization to improve productivity?",
+    "answers": [
+      "Downsizing"
+    ]
+  },
+  {
+    "question": "What is a divestiture?",
+    "answers": [
+      "When a business unit is partially or completely disposed of through sale, exchange, closure, or bankruptcy."
+    ]
+  },
+  {
+    "question": "Which of the following is a common HR task associated with risk management?",
+    "answers": [
+      "Promote employee health and well-being"
+    ]
+  },
+  {
+    "question": "Which section of a risk management policy usually defines the reason the document exists clearly and concisely?",
+    "answers": [
+      "Purpose"
+    ]
+  },
+  {
+    "question": "After conducting a business impact analysis, What is the second step in preparing a business continuity plan?",
+    "answers": [
+      "Create recovery strategies"
+    ]
+  },
+  {
+    "question": "Which of the following processes should include the completion of required organization, local, or federal training?",
+    "answers": [
+      "Orientation"
+    ]
+  },
+  {
+    "question": "What type of training gives employees flexibility to complete the training at their convenience?",
+    "answers": [
+      "Virtual"
+    ]
+  },
+  {
+    "question": "In addition to health, safety, harassment training, which of the following is a common type of compliance training?",
+    "answers": [
+      "Information security training"
+    ]
+  },
+
+  {
+    "question": "What is the final step in the risk management process?",
+    "answers": [
+      "Monitor and refine the risk management program"
+    ]
+  },
+  {
+    "question": "An HR team protects an organization as part of its risk management process. What responsibilities typically fall under this risk management category?",
+    "answers": [
+      "Safety and health programs"
+    ]
+  },
+  {
+    "question": "An architecture firm accepts a large-scale project to design a complex building within a tight deadline. The firm ends up completing the project earlier than anticipated. What type of risk does this situation present?",
+    "answers": [
+      "Positive risk"
+    ]
+  },
+  
+  {
+    "question": "When approaching risk with a positive mindset, why is it important to emphasize open communication?",
+    "answers": [
+      "When communication is valued, everyone in the organization is more confident to share potential risks."
+    ]
+  },
+  
+  {
+    "question": "In what way can non-compliance affect an organization and its operations?",
+    "answers": [
+      "Loss of reputation due to being perceived as unethical or irresponsible"
+    ]
+  },
+  
+
+  {
+    "question": "Which act made it illegal for employers to mistreat employees because of their race, color, religion, sex, or national origin?",
+    "answers": [
+      "Title VII of the Civil Rights Act of 1964"
+    ]
+  },
+  
+  {
+    "question": "How does an availability analysis enable HR teams to determine if discrimination occurs in the workplace?",
+    "answers": [
+      "Availability analyses examine how many individuals from protected classes qualify, have the necessary skills, and live in the areas to qualify for employment"
+    ]
+  },
+  {
+    "question": "An organization must fulfill EEO reporting obligations. What does this involve?",
+    "answers": [
+      "Providing a demographic breakdown of its workforce to regulatory bodies"
+    ]
+  },
+  {
+    "question": "An HR team aims to remove discriminatory barriers that prevent underrepresented groups from advancing in the workplace. Which of the following is an example of this?",
+    "answers": [
+      "Ensuring equal pay"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of affirmative action steps?",
+    "answers": [
+      "Communicating open roles to underrepresented groups"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Patents for inventions are known as _____.",
+    "answers": [
+      "utility patents"
+    ]
+  },
+  {
+    "question": "What is the role of the Taft-Hartley Act in labor relations?",
+    "answers": [
+      "It identifies certain union activities as “unfair labor practices”"
+    ]
+  },
+  {
+    "question": "What union is a collection of national unions representing employers in related industries?",
+    "answers": [
+      "Federation"
+    ]
+  },
+  {
+    "question": "What is the role of the Fair Labor Standards Act (FLSA)?",
+    "answers": [
+      "It sets basic minimum wage and overtime pay standards for nonexempt employees and regulates the employment of minors"
+    ]
+  },
+
+  {
+    "question": "Fill in the blank: The Health Insurance Portability and Accountability Act (HIPAA) regulates access to ________.",
+    "answers": [
+      "protected health information"
+    ]
+  },
+  {
+    "question": "Fill in the blank: ________ occurs when employees refuse to comply with authority figures or do not follow orders.",
+    "answers": [
+      "Insubordination"
+    ]
+  },
+  
+  {
+    "question": "Which of the following physical hazards can result in anxiety, panic attacks, exhaustion, and even heart problems?",
+    "answers": [
+      "Stress hazards"
+    ]
+  },
+  {
+    "question": "Which of the following educates employees about potential hazards and how to identify them, including how and when to report potential hazards and injuries, and what to do in an emergency?",
+    "answers": [
+      "Accident prevention program"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ is a deceptive tactic where cyber criminals send fraudulent messages, such as emails, phone recordings, or social media messages, that appear legitimate and trustworthy. These messages act as bait, enticing recipients to disclose valuable information.",
+    "answers": [
+      "Phishing"
+    ]
+  },
+  
+  {
+    "question": "Which of the following are common examples of hostile work environment harassment? Select all that apply.",
+    "answers": [
+      "Discussing sexual activities",
+      "Sabotaging someone’s work",
+      "Using crude or offensive language"
+    ]
+  },
+  {
+    "question": "In addition to establishing written harassment policies, which of the following is a best practice for preventing sexual harassment?",
+    "answers": [
+      "Train employees"
+    ]
+  },
+  
+  {
+    "question": "Which of the following organizational restructuring strategies is defined as an organization eliminating products and services that are not profitable in favor of those that are?",
+    "answers": [
+      "Concentration"
+    ]
+  },
+  {
+    "question": "An HR department offers a $100 incentive payment to employees who suggest r candidates to the organization to help with recruitment during a growth phase. What is this an example of?",
+    "answers": [
+      "Encouraging current employees to refer candidates"
+    ]
+  },
+  {
+    "question": "What is the restructuring phase or process where underperforming business units are closed in favor of better performing units?",
+    "answers": [
+      "Downsizing"
+    ]
+  },
+  {
+    "question": "A clothing company has been working toward expansion. They've noticed a similar clothing business that is growing too and could become a significant rival. The company offers to buy the other organization and the other company accepts. Which of the following stages of restructuring have these two companies completed??",
+    "answers": [
+      "Acquisitions"
+    ]
+  },
+  {
+    "question": "Fill in the blank: ______ is when jobs need to be eliminated in order to maintain or improve the organization’s productivity and profitability.",
+    "answers": [
+      "Downsizing"
+    ]
+  },
+  {
+    "question": "Which of the following restructuring options describes an organization establishing a foreign subsidiary, shifting work from higher-paid American workers to less expensive workers outside the U.S.",
+    "answers": [
+      "Offshoring"
+    ]
+  },
+  
+  {
+    "question": "In addition to possibly helping an organization become profitable and repay debts, what is another benefit of a divestiture?",
+    "answers": [
+      "Cut costs"
+    ]
+  },
+  {
+    "question": "Which of the following is a mandatory, usually temporary, suspension from work.",
+    "answers": [
+      "Furlough"
+    ]
+  },
+   
+  {
+    "question": "An organization experiences an unexpected event that ends up benefiting them. What are these events known as?",
+    "answers": [
+      "Positive risks"
+    ]
+  },
+  {
+    "question": "Which of the following are two types of risk mindsets?",
+    "answers": [
+      "Risk-averse and risk-tolerant"
+    ]
+  },
+  {
+    "question": "An HR manager is attempting to approach risk with a positive mindset. Which of the following is a best practice they can follow?",
+    "answers": [
+      "Emphasize open communication"
+    ]
+  },
+  
+  {
+    "question": "Which of the following acts requires that employers pay genders the same for similar work, regardless of job titles?",
+    "answers": [
+      "Equal Pay Act of 1963"
+    ]
+  },
+  {
+    "question": "What is illegal discrimination?",
+    "answers": [
+      "Unfair and unjust treatment based on characteristics such as race, gender, or disability, which is prohibited by law"
+    ]
+  },
+  {
+    "question": "What does an impact ratio analysis measure?",
+    "answers": [
+      "If protected groups in an organization are represented fairly compared to the overall labor force"
+    ]
+  },
+  
+  {
+    "question": "What is a patent?",
+    "answers": [
+      "A license that grants an inventor the exclusive right to use or sell an invention for a set time"
+    ]
+  },
+  {
+    "question": "What action can a union take that terminates the union’s right to represent them?",
+    "answers": [
+      "Decertify"
+    ]
+  },
+  {
+    "question": "An HR team is reviewing complaints from workers in an office. Which of the following would be considered a health issue?",
+    "answers": [
+      "Repetitive motion"
+    ]
+  },
+  
+  {
+    "question": "What type of workplace hazard is a condition, design flaw, or unsafe object that can jeopardize the safety and health of employees?",
+    "answers": [
+      "Physical"
+    ]
+  },
+  
+  {
+    "question": "A manager promises an employee a promotion if they go on a date with and later sleep with them. What type of harassment is this?",
+    "answers": [
+      "Quid pro quo"
+    ]
+  },
+  {
+    "question": "A hostile work environment can include many things like discussing sexual activities or using offensive language. What is another activity that may be an aspect of a hostile work environment?",
+    "answers": [
+      "Sabotaging someone’s work"
+    ]
+  },
+  {
+    "question": "What generally occurs in an organization’s growth stage?",
+    "answers": [
+      "Recruiting and retaining quality workers"
+    ]
+  },
+  {
+    "question": "In what phase might an organization encourage current employees to refer candidates for new roles?",
+    "answers": [
+      "Growth"
+    ]
+  },
+  {
+    "question": "A local restaurant chain is beginning the process of closing down their table service locations so that they can focus all their efforts on the more profitable counter service. What restructuring process is this an example of?",
+    "answers": [
+      "Concentration"
+    ]
+  },
+  {
+    "question": "A clothing company has been working toward expansion. They've noticed a complimentary shoe store that is marketing to the same audience. The clothing company offers to combine their two companies and create one new, joint venture. Which of the following stages of restructuring does this describe?",
+    "answers": [
+      "Merger"
+    ]
+  },
+  {
+    "question": "What is shared work?",
+    "answers": [
+      "Scheduling workers for reduced hours, enabling them to receive partial unemployment benefits"
+    ]
+  },
+  {
+    "question": "What is outsourcing?",
+    "answers": [
+      "Paying an outside entity to perform specialized business functions."
+    ]
+  },
+  {
+    "question": "Which of the following is a common HR task associated with risk management?",
+    "answers": [
+      "Identify and comply with laws"
+    ]
+  },
+  
+  {
+    "question": "Why is it important to conduct tests and document results when practicing a business continuity plan?",
+    "answers": [
+      "It allows for the plan to be updated based on the outcomes of the practice sessions"
+    ]
+  },
+  
+  {
+    "question": "Which of the following terms describes an informal training opportunity where issues and concerns are identified?",
+    "answers": [
+      "Safety walk"
+    ]
+  },
+  {
+    "question": "In addition to state and federal governments, what other group might require compliance training?",
+    "answers": [
+      "The organization itself"
+    ]
+  }
+]

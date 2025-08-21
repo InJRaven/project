@@ -1,0 +1,977 @@
+[
+  {
+    "question": "A friend of yours is trying to write a list that displays on a browser like this: Instead, your friend’s list displays like this: Here is a copy of your friend’s HTML. 1 2 3 4 5 6 7 8 <ul> <li> AAA </li> <li> BBB </li></li> <li> CCC <li> <li> DDD </li> <li> EEE </li> </ul> While there are a couple errors in the HTML and some odd formatting, there is only one error causing the problem of the blank bullet point. What is the error?",
+    "answers": [
+      "There is a tab between the list items for \"BBB\" and \"CCC.\""
+    ]
+  },
+  {
+    "question": "What is the difference between the two HTML table tags: <th> and <td> ?",
+    "answers": [
+      "The <th> tag bolds a table data item, and the <td> tag does not."
+    ]
+  },
+  {
+    "question": "What is the difference between the CSS “id=” and “class=” in an HTML tag?",
+    "answers": [
+      "The “id=something” can be used to style one HTML element, whereas the “class=something” could be used to style multiple elements."
+    ]
+  },
+  {
+    "question": "If the blue part of a RGB value were set to 0, how many color choices would you still have available by changing the other components of the RGB value?",
+    "answers": ["65,536"]
+  },
+  {
+    "question": "Which of the following are valid hexadecimal digits? (Check all that apply.)",
+    "answers": ["C", "3"]
+  },
+  {
+    "question": "The RGB color corresponding to (222,184,135) also has the name BurlyWood. Is the following statement true or false? Any RGB value has a name you can use instead of numbers.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following are valid RGB colors on a computer? (Each option below is a collection of three values for red, green and blue, respectively. Check all that apply.)",
+    "answers": ["(0, 0, 0)", "(8, 108, 208)"]
+  },
+  {
+    "question": "Consider the following image on the left, which has been modified into the image on the right with green by changing the red and blue values of some pixels to 0. Which one of the following is most likely the code that modifies the first image to look like the second image? Hint: be sure to review how image x and y coordinates work. You can review this on our documentation page.",
+    "answers": [
+      "1 2 3 4 5 6 7 8 9 for (var pixel of image.values()) { x = pixel.getX(); y = pixel.getY(); if (x > y) { pixel.setRed(0); pixel.setBlue(0); } }"
+    ]
+  },
+  {
+    "question": "Consider the following code in which the starting image named image is all red (each pixel has red value 255, green value 0 and blue value 0) as shown below on the left and the resulting image shown on the right below is supposed to be all green, but is all yellow. The image is a 200 pixel by 200 pixel image. 1 2 3 4 5 for (var pixel of image.values()) { if (pixel.getRed() > 250) { pixel.setGreen(255); } } Which one of the following correctly identifies a statement or statements that should be added to the body of the if statement so that the red square turns into a green square when the code executes?",
+    "answers": ["1 pixel.setRed(0);"]
+  },
+  {
+    "question": "Recall the function addBorder you wrote in a programming exercise that has a parameter image and another parameter thickness. This function returns image with an added black border around each side of the image that is thickness pixels wide. Which two of the following are correct implementations of addBorder?",
+    "answers": [
+      "11 12 13 14 15 16 17 18 19 8 9 10 6 7 3 4 5 1 2 if (y < thickness){ px = setBlack(px); } if (y >= image.getHeight()-thickness){ px = setBlack(px); } } return image; } if (x >= image.getWidth()-thickness){ px = setBlack(px); } px = setBlack(px); } var x = px.getX(); var y = px.getY(); if (x < thickness){ function addBorder(image, thickness){ for (var px of image.values()){",
+      "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 addBorder(image, thickness){ for (var px of image.values()){ if (px.getX() < thickness){ px = setBlack(px); } if (px.getX() > image.getWidth()-thickness){ px = setBlack(px); } if (px.getY() < thickness){ px = setBlack(px); } if (px.getY() > image.getHeight()-thickness){ px = setBlack(px); } } return image; }"
+    ]
+  },
+  {
+    "question": "Consider the following program that uses the setBlack function you wrote in the Advanced Modifying Images programming exercise: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 function pixelOnEdge(image,pixel,horizontalThick, verticalThick){ var x = pixel.getX(); var y = pixel.getY(); if (x < verticalThick || x > image.getWidth() - verticalThick){ return true; } if (y < horizontalThick || y > image.getHeight() - horizontalThick){ return true; } return false; } function addBorders(image,horizontalThick, verticalThick){ for (var px of image.values()){ if (pixelOnEdge(image,px,horizontalThick,verticalThick)){ px = setBlack(px); } } return image; } var img = new SimpleImage(\"skyline.png\"); img = addBorders(img,40,20); print(img); What is the best description of the purpose of the pixelOnEdge function?",
+    "answers": [
+      "To identify pixels that are within the borders by returning true"
+    ]
+  },
+  {
+    "question": "Consider the following function named compose that has two string parameters, one named word and one named separator, and returns a string of the word three times with the separator in between each pair of words. The function is shown below with missing code and two calls to the function. function compose(word, separator) { // missing code } var phrase = compose(\"duck\", \"goose\"); print(phrase); var phrase2 = compose(\"meow\",\"-\"); print(phrase2); Here is the corresponding output to those calls to the function: duckgooseduckgooseduck meow-meow-meow Which one of the following is the correct missing code for this function?",
+    "answers": ["return word + separator + word + separator + word;"]
+  },
+  {
+    "question": "Consider the following code with if statements, in which lines are numbered for convenience so we can refer to them. 1 if (x > 10) { 2 print(\"one\"); 3 if (y < 10) { 4 print(\"two\"); 5 } 6 } 7 if (x < 20) { 8 print(\"three\"); 9 if (y > 5) ( 10 print(\"four\"); 11 } 12 } If x has the value 30 and y has the value 8, which one of the following is the output resulting from this code executing?",
+    "answers": ["one two"]
+  },
+  {
+    "question": "Consider writing code to answer the following question. How many pixels in an image have a red component whose value is greater than or equal to one number and less than or equal to a second number? Suppose you were to write a function to calculate this value. Which one of the following is the best choice for the parameters for this function?",
+    "answers": [
+      "Three parameters: 1) filename - the name of the file for the image 2) low - representing the lowest red value and 3) high - representing the highest red value in the range."
+    ]
+  },
+  {
+    "question": "What is the purpose of initializing the global image variables to null in the green screen web page?",
+    "answers": ["The code can check if the image is null before processing it."]
+  },
+  {
+    "question": "You would like to display an alert message if the image variable for the foreground image fgImage is not loaded. Which two of the following expressions evaluate to true if the image is not ready?",
+    "answers": ["fgImage == null", "! fgImage.complete()"]
+  },
+  {
+    "question": "In which of the following code snippets does the program alert the user \"x is null\"?",
+    "answers": [
+      "1 2 3 4 5 6 7 8 var x = null; function myFunction() { var x = 2; } myFunction(); if (x == null) { alert(\"x is null\"); }"
+    ]
+  },
+  {
+    "question": "You have created the following file input element:",
+    "answers": ["id=\"finput\""]
+  },
+  {
+    "question": "You have the following code excerpt to allow a user to select a file from the input element with ID \"finput\" and display it to a canvas with ID \"can.\" 1 2 3 4 var file = document.getElementById(\"finput\"); var image = new SimpleImage(file); var canvas = document.getElementById(\"can\"); image.drawTo(canvas); Which of the following do you need to add, so that this code will work in CodePen or on another web page?",
+    "answers": [
+      "A script specifying where to find the JavaScript library for SimpleImage"
+    ]
+  },
+  {
+    "question": "You have two pixels to convert to grayscale, and you would like to determine visually whether your code is likely to be working, so you work an example by hand. The first pixel is orange and has rgb(255,153,51), and the second pixel is green and has rgb(51,153,51). Once the grayscale pixels are printed, which one should appear as a lighter gray (closer to white).",
+    "answers": ["First pixel"]
+  },
+  {
+    "question": "You are building a web page, and you create a text input element and specify an element ID for it. Why did you do this?",
+    "answers": [
+      "You would like to be able to reference the input element programmatically."
+    ]
+  },
+  {
+    "question": "You have two pixels to convert to grayscale, and you would like to determine visually whether your code is likely to be working, so you work an example by hand. The first pixel is teal and has rgb(0,153,153), and the second pixel is purple and has rgb(153,51,255). Once the grayscale pixels are printed, which one should appear as a lighter gray (closer to white).",
+    "answers": ["Second pixel"]
+  },
+  {
+    "question": "You have created the following file input element: 1 <input type=\"file\" onchange=\"loadImage()\" > Which of the following attributes can you add to specify the element ID?",
+    "answers": ["id=\"finput\""]
+  },
+  {
+    "question": "What is the purpose of adding CSS to a web page?",
+    "answers": ["To style the web page"]
+  },
+  {
+    "question": "Which of the following are examples of nesting? Select all that are correct.",
+    "answers": ["A for loop inside a for loop", "A list of lists"]
+  },
+  {
+    "question": "Consider the following HTML and CSS to make a web page. HTML: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 <head> </head> <title>Cities</title> <body> <p><img src=\"http://s12.postimg.org/yj9byjs3x/DSCN6056_copy.jpg\"/> </p> <p> <ol> <li class = oddNums>New York</li> <ul> <li>Empire State Building</li> <li>Statue of Liberty</li> <li>Times Square</li> </ul> <li>Los Angeles</li> <li class = oddNums>Chicago</li> </ol> </p> </body> CSS: 1 2 3 4 5 6 body { background-color : #567898; } oddNums { color : purple; } Which of the following are errors in this code? Select all that are correct.",
+    "answers": [
+      "The HTML is missing <html> tags.",
+      "The <title> tag should be inside the <head> tag.",
+      "The unordered list inside the ordered list should go inside the list element New York, not after it.",
+      "In the CSS there should be a dot before oddNums to indicate that it is a class."
+    ]
+  },
+  {
+    "question": "Consider the following image in which the upper left quadrant is cyan, the upper right quadrant is green, the lower left quadrant is blue, and the lower right quadrant is black: Now consider the code that attempts to create that image but has a mistake, and instead produces this image, in which the upper left quadrant is blue instead of cyan: Here is the code: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 var img = new SimpleImage(200,200); for (var px of img.values()){ var x = px.getX(); var y = px.getY(); if (x < img.getWidth()/2){ px.setBlue(255); } else { if (y < img.getHeight()/2){ px.setGreen(255); } } } print (img); Which of the following is the best explanation of why this code doesn’t produce the first image?",
+    "answers": [
+      "The code inside the else statement is only applied to pixels that did not satisfy the first if statement. So only pixels in the upper half of the image that are not also in the left half of the image are made green by the if statement inside the else statement."
+    ]
+  },
+  {
+    "question": "Consider the following short program that defines a function to make an image darker by a certain amount and applies it to the image chapel.png. 11 8 9 10 5 6 7 3 4 1 2 img = new SimpleImage(\"chapel.png\"); img = makeDarker(50); print(img); px.setBlue(px.getBlue()-amount); } } px.setRed(px.getRed()-amount); px.setGreen(px.getGreen()-amount); function makeDarker(image,amount){ for (var px of image.values()){ Which of the following are errors in the program? Select all that are correct.",
+    "answers": [
+      "The call to makeDarker does not pass an image as an argument.",
+      "The function makeDarker is missing a return statement so there will be an error when the program assigns the return value of makeDarker to the variable img."
+    ]
+  },
+  {
+    "question": "Imagine you want to write a program to turn an image into a mirror image of itself. Which of the following would be the best approach to take?",
+    "answers": [
+      "Work small examples by hand, write down what you did, look for patterns, translate your algorithm to code, test and debug your program."
+    ]
+  },
+  {
+    "question": "Consider the following JavaScript code. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 var grayimage = null; var image; function loadImage(){ var ff = document.getElementById(\"fbutton\"); gcanvas = document.getElementById(\"can\"); doclear(); image = new SimpleImage(ff); image.drawTo(can); } function makeGray(theImage) { for (var pix of theImage.pixels()){ var total = pix.getGreen() + pix.getRed() + pix.getBlue(); var avg = total/3; pix.setGreen(avg); pix.setBlue(avg); pix.setRed(avg); } return theImage; } Which of the variables are global variables? Select all that are correct.",
+    "answers": ["image", "grayimage"]
+  },
+  {
+    "question": "Which is the appropriate event handler to do something once a file has loaded?",
+    "answers": ["onchange"]
+  },
+  {
+    "question": "Consider the following code that calls the function filterGreen (code for this function not shown) to apply a green filter to the image greenImage. 1 2 3 4 5 function doGreen() { if (imageIsLoaded(greenImage)) { filterGreen(); } } What line needs to be added to this code to display the final image on the canvas? You can assume that there is a variable named canvas that can be used to reference the canvas.",
+    "answers": ["greenImage.drawTo(canvas);"]
+  },
+  {
+    "question": "Consider the examples you have seen of web pages that enable users to upload images and add filters to them. Which of the following describes what happens when the user clicks a button to add a filter to an image?",
+    "answers": [
+      "The onclick event handler calls a function that applies the filter to the image, then the filtered image is drawn on the canvas."
+    ]
+  },
+  {
+    "question": "For many of the questions in this quiz, you will need to have completed the Calculating the Shape of a Perimeter programming exercise, using the ProgrammingAssignmentRunner BlueJ Project on DukeLearnToProgram.com: http://www.dukelearntoprogram.com/course2/files.php . What is the perimeter of the shape made from the file datatest1.txt whose contents are shown below (Truncate your answer to two decimal places)? -3,3 -4,-3 4,-2 6,5",
+    "answers": ["7.66"]
+  },
+  {
+    "question": "What is the average length of a side in the shape made from the file datatest1.txt whose contents are shown below (Truncate your answer to two decimal places)? -3,3 -4,-3 4,-2 6,5",
+    "answers": ["7.66"]
+  },
+  {
+    "question": "What is the longest side in the shape made from the file datatest1.txt whose contents are shown below (Truncate your answer to two decimal places)? -3,3 -4,-3 4,-2 6,5",
+    "answers": ["9.21"]
+  },
+  {
+    "question": "What is the largest perimeter of a shape made from the shapes in files dataset1.txt, dataset2.txt, dataset3.txt, dataset4.txt, dataset5.txt, and dataset6.txt (Truncate your answer to two decimal places)?",
+    "answers": ["62.65"]
+  },
+  {
+    "question": "What is the name of the file that has the shape with the largest perimeter from the six files dataset1.txt, dataset2.txt, dataset3.txt, dataset4.txt, dataset5.txt, and dataset6.txt?",
+    "answers": ["dataset5.txt"]
+  },
+  {
+    "question": "The method getNumPoints returns the number of points in a Shape s. Which one of the following is NOT a correct implementation of getNumPoints?",
+    "answers": [
+      "1 2 3 4 5 6 7 public int getNumPoints (Shape s) { int count = 0; for (Point p : s.getPoints()) { count = count + count; } return count; }"
+    ]
+  },
+  {
+    "question": "Consider the following code for the function mysteryShape that has one parameter a Shape s and calls the function getNumPoints from the assignment. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 public double mysteryShape (Shape s) { double tmp = 0; for (Point p : s.getPoints()) { if (p.getX() > 0) { if (p.getY() < 0) { tmp = tmp + 1; } } } return tmp / getNumPoints(s); } Which one of the following best describes the purpose of this function?",
+    "answers": [
+      "The function computes the percentage of those points from the Shape s that have a positive X and a negative Y."
+    ]
+  },
+  {
+    "question": "What is the average length of a side in the shape made from the file datatest4.txt whose contents are shown below (Truncate your answer to two decimal places)? -3, 9 -8, 7 -12, 4 -6, -2 -4, -6 2, -8 6, -5 10, -3 8, 5 4, 8",
+    "answers": ["5.94"]
+  },
+  {
+    "question": "What is the longest side in the shape made from the file datatest4.txt whose contents are shown below (Truncate your answer to two decimal places)? -3, 9 -8, 7 -12, 4 -6, -2 -4, -6 2, -8 6, -5 10, -3 8, 5 4, 8",
+    "answers": ["8.48"]
+  },
+  {
+    "question": "What is the name of the file that has the shape with the largest perimeter from the four files example1.txt, example2.txt, example3.txt and example4.txt?",
+    "answers": ["example3.txt"]
+  },
+  {
+    "question": "Consider finding all the YouTube links on a web page. What is the video for the second YouTube link on the web page http://www.dukelearntoprogram.com/course2/data/manylinks.html about?",
+    "answers": ["Turkeys, Ducks and Quails"]
+  },
+  {
+    "question": "Consider the following mystery method. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 public String mystery(String dna) { int pos = dna.indexOf(\"T\"); int count = 0; int startPos = 0; String newDna = \"\"; if (pos == -1) { return dna; } while (count < 3) { count += 1; newDna = newDna + dna.substring(startPos,pos); startPos = pos+1; pos = dna.indexOf(\"T\", startPos); if (pos == -1) { break; } } newDna = newDna + dna.substring(startPos); return newDna; } Which of the following best describes what it does?",
+    "answers": [
+      "The method mystery is given a string and it returns a string which is the same string but with the first three T’s removed."
+    ]
+  },
+  {
+    "question": "Use the following data file to answer this question: http://www.cs.duke.edu/~rodger/GRch38dnapart.fa . How many genes are in this file?",
+    "answers": ["69"]
+  },
+  {
+    "question": "Use the following data file to answer this question: http://www.cs.duke.edu/~rodger/GRch38dnapart.fa . How many genes in this file are longer than 60?",
+    "answers": ["23"]
+  },
+  {
+    "question": "Use the following data file to answer this question: http://www.cs.duke.edu/~rodger/GRch38dnapart.fa . How many genes in this file have cgRatio greater than 0.35?",
+    "answers": ["40"]
+  },
+  {
+    "question": "Use the following data file to answer this question which represents one long strand of DNA: http://www.cs.duke.edu/~rodger/GRch38dnapart.fa . How many times does the codon CTG appear in this strand of DNA?",
+    "answers": ["224"]
+  },
+  {
+    "question": "Use the following data file to answer this question: http://www.cs.duke.edu/~rodger/GRch38dnapart.fa . What is the length of the longest gene in the collection of genes found in this file?",
+    "answers": ["489"]
+  },
+  {
+    "question": "Questions 1–3 refer to the data file exportdata.csv, available in the .zip download here . Run your program from the first lesson programming exercise Parsing Export Data on the file exportdata.csv. What is the name of the country that is listed as the second country that exports both cotton and flowers?",
+    "answers": ["Zambia"]
+  },
+  {
+    "question": "Run your program from the first lesson programming exercise Parsing Export Data on the file exportdata.csv. How many countries export cocoa? Note: You should only enter a one- or two-digit number representing the number of countries, with no other information included.",
+    "answers": ["17"]
+  },
+  {
+    "question": "Run your program from the first lesson programming exercise Parsing Export Data on the file exportdata.csv. What is the name of the third country (on the third line of the output) listed whose exports are valued at one trillion US dollars or more? (Hint: Their value in the CSV file should be greater than $999,999,999,999.)",
+    "answers": ["Germany"]
+  },
+  {
+    "question": "Questions 4–11 refer to weather data in the folder nc_weather, available as a .zip download here . Run your program developed in Parsing Weather Data to determine the lowest humidity in the file for June 29th, 2014 (weather-2014-06-29.csv). What was the lowest humidity reading on that day? Note: You should only enter your two-digit number result, with no other additional information included.",
+    "answers": ["40"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine the lowest humidity in the file for July 22nd, 2014 (weather-2014-07-22.csv). At what time of day did that humidity occur? (Refer to the time from the DateUTC column.)",
+    "answers": ["20:51:00"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine the lowest humidity reading in the entire year of 2013. What was the lowest humidity reading? Note: You should only enter your two-digit number result, with no other additional information included.",
+    "answers": ["16"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine the lowest humidity reading in 2013. At what time of day did that lowest humidity occur? (Refer to the time from the DateUTC column.)",
+    "answers": ["21:51:00"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine the average temperature in Fahrenheit on August 10, 2013 (weather-2013-08-10.csv). Give your answer with four decimal digits and truncate the rest.",
+    "answers": ["80.1964"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine the average temperature in Fahrenheit for those temperature readings when the humidity is greater than or equal to 80 on September 2, 2013 (weather-2013-09-02.csv). Give your answer with three decimal digits and truncate the rest.",
+    "answers": ["72"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data to determine which day of the year had the coldest temperature in 2013.",
+    "answers": ["January 23, 2013"]
+  },
+  {
+    "question": "Run your program from programming exercise Parsing Weather Data on 2013 data. What was the coldest temperature recorded in 2013? Give your answer with one decimal digit. (For example: 10.0)",
+    "answers": ["19.0"]
+  },
+  {
+    "question": "All questions in this quiz refer to the complete baby name data that you can download below. us_babynames ZIP File You should ignore the short fake data files for testing in the preceding MiniProject Exercise Guide. What is the number of girls' names in the file yob1900.csv?",
+    "answers": ["2225"]
+  },
+  {
+    "question": "What is the number of boys' names in the file yob1905.csv?",
+    "answers": ["1421"]
+  },
+  {
+    "question": "What is the rank of the girl’s name “Emily” in 1960?",
+    "answers": ["251"]
+  },
+  {
+    "question": "What is the rank of the boy’s name “Frank” in 1971?",
+    "answers": ["54"]
+  },
+  {
+    "question": "What is the girl’s name of rank 350 in 1980?",
+    "answers": ["Mia"]
+  },
+  {
+    "question": "What is the boy’s name of rank 450 in 1982?",
+    "answers": ["Forrest"]
+  },
+  {
+    "question": "Suppose Susan was born in 1972. Based on her name's rank in 1972, what would her name be if she were born in 2014 (that is, what name in 2014 had the same rank that \"Susan\" had in 1972)?",
+    "answers": ["Addison"]
+  },
+  {
+    "question": "Suppose Owen was born in 1974. Based on his name's rank in 1974, what would his name be if he were born in 2014 (that is, what name in 2014 had the same rank that \"Owen\" had in 1974)?",
+    "answers": ["Leonel"]
+  },
+  {
+    "question": "In which year from 1880 to 2014 does the girl’s name \"Genevieve\" have the highest rank (over all the data files)? If there is more than one year with the highest rank, choose the earliest one.",
+    "answers": ["1914"]
+  },
+  {
+    "question": "In which year from 1880 to 2014 does the boy’s name \"Mich\" have the highest rank (over all the data files)? If there is more than one year with the highest rank, choose the earliest one.",
+    "answers": ["1960"]
+  },
+  {
+    "question": "What is the average rank of the girl’s name \"Susan\" over all the data files? Give the answer to two decimal places.",
+    "answers": ["173.51"]
+  },
+  {
+    "question": "What is the average rank of the boy's name \"Robert\" over all the data files? Give the answer to two decimal places.",
+    "answers": ["10.75"]
+  },
+  {
+    "question": "What is the total number of girls born in 1990 with names ranked higher than the girl's name \"Emily\" in 1990? Give the answer without any commas or decimal points.",
+    "answers": ["323200"]
+  },
+  {
+    "question": "All questions in this quiz refer to the complete baby name data that you can download by clicking here . You should ignore the short fake data files for testing in the preceding MiniProject Exercise Guide. What is the number of girls' names in the file yob1900.csv?",
+    "answers": ["2225"]
+  },
+  {
+    "question": "What is the perimeter of the shape made from the file datatest4.txt whose contents are shown below (Truncate your answer to two decimal places)? -3, 9 -8, 7 -12, 4 -6, -2 -4, -6 2, -8 6, -5 10, -3 8, 5 4, 8",
+    "answers": ["59.45"]
+  },
+  {
+    "question": "What is the total number of boys born in 1990 with names ranked higher than the boy's name \"Drew\" in 1990? Give the answer without any commas or decimal points.",
+    "answers": ["1498074"]
+  },
+  {
+    "question": "Consider writing code to list out files in one of your folders using DirectoryResource. The following attempt at writing such code has an error. Which one of the following best explains what the error is?",
+    "answers": ["The dr that is highlighted should be dir."]
+  },
+  {
+    "question": "Shown below is the code that was developed in one of the videos to convert many images to grayscale and to display those grayscale images. Consider adding additional code to this program to save each of the new grayscale images created as a file. Which one of the following is the best method to modify to make this change?",
+    "answers": ["Modify the selectAndConvert method."]
+  },
+  {
+    "question": "Suppose one wants to convert a given image to grayscale and then display and save the resulting grayscale image as a file. The code below has been started for you. The variable f is a file of an image and the method makeGray returns an image that is the grayscale image of the original image. 1 2 3 ImageResource original = new ImageResource(f); ImageResource grayscale = makeGray(original); [MISSING CODE] Which one of the following is the missing code that will convert the original image into a new file that is a grayscale version of the original image?",
+    "answers": [
+      "1 2 3 4 5 String fname = original.getFileName(); String newName = \"grayscale-\" + fname; grayscale.setFileName(newName); grayscale.draw(); grayscale.save();"
+    ]
+  },
+  {
+    "question": "Consider writing a program to create new images that are photographic negatives (or inverted images) of selected images. In inverting an image, a pixel’s red, blue and green components are modified to be the exact opposite within the 0 to 255 range. That is, if a pixel’s red, blue, and green values are (34, 198, 240) then that same pixel in the inverted image would have the red, blue, and green values of (221, 57, 15). Note that 255 - 34 is 221, 255 - 198 is 57, and 255 - 240 is 15. For example, these images show the original and inverse images of Robert. Suppose a pixel has RGB values of (100, 30, 250). Which one of the following shows the correct RGB values for the inverted pixel?",
+    "answers": ["The RGB values would be (155, 225, 5)."]
+  },
+  {
+    "question": "Consider writing a program to create new images that are photographic negatives (or inverted images) of selected images. Suppose we have a Pixel named pxInvert and a Pixel named pxOriginal. What is the line of code to change pxInvert’s red color to the inverted red color of pxOriginal? Hints: Start with pxInvert.setRed Remember the semi colon at the end.",
+    "answers": ["pxInvert.setRed(255 - pxOriginal.getRed());"]
+  },
+  {
+    "question": "Consider writing a program to create new images that are photographic negatives (or inverted images) of selected images. Suppose we have an ImageResource variable named picture whose current value is for an image file named dragon.png. See the following code segment below. 1 2 3 4 5 ImageResource invertImage = makeInverted(picture); String fname = picture.getFileName(); invertImage.setFileName(“inv-” + fname); invertImage.draw(); invertImage.save(); What is the name of the resulting file?",
+    "answers": ["inv-dragon.png"]
+  },
+  {
+    "question": "Encrypt the following phrase with the Caesar Cipher algorithm, using key 15. Can you imagine life WITHOUT the internet AND computers in your pocket? What is the encrypted string? (Note: Spacing and punctuation should be preserved in your encrypted message.)",
+    "answers": [
+      "Rpc ndj xbpvxct axut LXIWDJI iwt xcitgcti PCS rdbejitgh xc ndjg edrzti?"
+    ]
+  },
+  {
+    "question": "Encrypt the following phrase with the algorithm described for using two Caesar Cipher keys, with key1 = 21 and key2 = 8. Can you imagine life WITHOUT the internet AND computers in your pocket? What is the encrypted string? (Note: Spacing and punctuation should be preserved in your encrypted message.)",
+    "answers": [
+      "Xii twp duvodvz gqam EDBCWPB bcm qibzzimo VVY xwhxpbzzn dv gjcm kwxszb?"
+    ]
+  },
+  {
+    "question": "Consider the Caesar Cipher two-key algorithm described in this course. Every other character, starting with the first, will use the Caesar Cipher algorithm with key1, and every other character, starting with the second, will use the Caesar Cipher algorithm with key2. Assume shiftedAlphabet1 is the shifted alphabet using key1 and shiftedAlphabet2 is the shifted alphabet using key2, both are of type String. If i is the location of the current character in the message, and idx is the integer variable of the location of the current character in the original alphabet, which one of the following segments of code correctly gets the corresponding encrypted character?",
+    "answers": [
+      "1 2 3 4 5 6 if (i % 2 == 0) { newChar = shiftedAlphabet1.charAt(idx); } else { newChar = shiftedAlphabet2.charAt(idx); }"
+    ]
+  },
+  {
+    "question": "Consider the file errors.txt . What is the most common word length (ignoring the punctuation of the first and last character of each group of characters)?",
+    "answers": ["4"]
+  },
+  {
+    "question": "Consider the file manywords.txt . What is the most common word length (ignoring the punctuation of the first and last character of each group of characters)?",
+    "answers": ["7"]
+  },
+  {
+    "question": "The following phrase was encrypted with the two-key encryption method we discussed using the two keys 14 and 24. What is the decrypted message? Hfs cpwewloj loks cd Hoto kyg Cyy. (Note: Spacing and punctuation should be preserved in your answer.)",
+    "answers": ["The original name of Java was Oak."]
+  },
+  {
+    "question": "The following phrase was encrypted with the two-key encryption method described in this course. You will need to figure out which keys were used to encrypt it. Aal uttx hm aal Qtct Fhljha pl Wbdl. Pvxvxlx! What is the original message? (Note: Spacing and punctuation should be preserved in your answer.)",
+    "answers": ["The name of the Java Mascot is Duke. Woeoeee!"]
+  },
+  {
+    "question": "Decrypt the encrypted file mysteryTwoKeysQuiz.txt . This file is encrypted with the two-key encryption method we discussed. You’ll need to decrypt the complete file by figuring out which keys were used to decrypt it. What are the first five decrypted words? (Note: Spacing and punctuation should be preserved in your answer.)",
+    "answers": ["Duke Computer Science Department Overview"]
+  },
+  {
+    "question": "Decrypt the encrypted file mysteryTwoKeysQuiz.txt . This file is encrypted with the two-key encryption method we discussed. You’ll need to decrypt the complete file by figuring out which keys were used to decrypt it. What are the two keys used to encrypt it? Note: Enter your answer as firstkey,secondkey with no spaces, for example: 1,2",
+    "answers": ["17,4"]
+  },
+  {
+    "question": "Which of the following is the best choice for adding additional private fields to the CaesarCipherTwo class created in the last lesson to make it easier to call decrypt on a string that was encrypted using an object of this class?",
+    "answers": [
+      "As key1 and key2 of type int, which are parameters to the constructor."
+    ]
+  },
+  {
+    "question": "Should the halfOfString method in the TestCaesarCipherTwo class be public or private?",
+    "answers": ["private"]
+  },
+  {
+    "question": "Consider the following two classes Simple and TestSimple for the remaining questions. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 public class Simple{ private String word; private String phrase; public Simple(int number, String w) { word = w; phrase = mystery(number, w); } private String mystery(int num, String s) { String answer = \"\"; for (int k=0; k<num; k++) { answer = answer + s; } return answer; } public String toString() { return phrase + \" is \" + word + \" repeated\"; } } 1 2 3 4 5 6 public class TestSimple{ public void print() { Simple item = new Simple(3, \"blue\"); System.out.println(item); } } Why is there no return type for the method Simple?",
+    "answers": ["It should not have a return type."]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 public class Simple{ private String word; private String phrase; public Simple(int number, String w) { word = w; phrase = mystery(number, w); } private String mystery(int num, String s) { String answer = \"\"; for (int k=0; k<num; k++) { answer = answer + s; } return answer; } public String toString() { return phrase + \" is \" + word + \" repeated\"; } } 1 2 3 4 5 6 public class TestSimple{ public void print() { Simple item = new Simple(3, \"blue\"); System.out.println(item); } } What is printed when the print method in TestSimple is called?",
+    "answers": ["blueblueblue is blue repeated"]
+  },
+  {
+    "question": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 public class Simple{ private String word; private String phrase; public Simple(int number, String w) { word = w; phrase = mystery(number, w); } private String mystery(int num, String s) { String answer = \"\"; for (int k=0; k<num; k++) { answer = answer + s; } return answer; } public String toString() { return phrase + \" is \" + word + \" repeated\"; } } 1 2 3 4 5 6 public class TestSimple{ public void print() { Simple item = new Simple(3, \"blue\"); System.out.println(item); } } Suppose the following line is added as the last line in the print method of the class TestSimple. 1 System.out.println(item.mystery(5, \"ho\")); How does this line affect what happens with the code in the print method?",
+    "answers": [
+      "A compile error occurs when compiling this class, because mystery is private and cannot be called by the TestSimple class."
+    ]
+  },
+  {
+    "question": "Consider the first version of GladLibs we saw in this lesson, which stores label substitutions in ArrayLists. Assume an ArrayList named wordsUsed will keep track of words used as replacements so no replacement word will be used more than once. The code below was used as part of a program by a learner in the method processWord. The learner's program runs but still results in duplicate words sometimes. 1 2 3 4 5 6 7 8 9 10 String sub = getSubstitute(w.substring(first+1,last)); while (true) { if (wordsUsed.contains(sub)) { sub = getSubstitute(w.substring(first+1,last)); break; } else { wordsUsed.add(sub); } } Which one of the following best explains why this code still returns duplicates sometimes?",
+    "answers": [
+      "If a word is a repeated word, then this code gets another random word and uses that second word without checking to see if it is a repeated word."
+    ]
+  },
+  {
+    "question": "Consider the first version of GladLibs we saw in this lesson, which you modified so there would not be duplicate words chosen for the story. Assume an instance variable is used to keep track of the total number of word tags that are replaced. Which one of the following methods is most likely where that variable is updated?",
+    "answers": ["processWord"]
+  },
+  {
+    "question": "Consider the class WordFrequencies, which you wrote in an assignment, that can determine facts about words in a file. How many unique words are in the file errors.txt? (You should lowercase all words and include the punctuation as part of a word. Thus, “end.” is different than “end”, but “All” is the same as “all”.)",
+    "answers": ["3721"]
+  },
+  {
+    "question": "Consider the class WordFrequencies, which you wrote in an assignment, that can determine facts about words in a file. Which word occurs the most often in the file errors.txt? (You should lowercase all words and include the punctuation as part of a word. Thus, “end.” is different than “end”, but “All” is the same as “all”.)",
+    "answers": ["of"]
+  },
+  {
+    "question": "Consider the class WordFrequencies, which you wrote in an assignment, that can determine facts about words in a file. Find the word that occurs the most often in the file errors.txt. (You should lowercase all words and include the punctuation as part of a word. Thus, “end.” is different than “end”, but “All” is the same as “all”.) How many times does the most common word occur?",
+    "answers": ["609"]
+  },
+  {
+    "question": "Consider the class CharactersInPlay, which you wrote in an assignment, that determines who the characters were in one of Shakespeare’s plays and also how many lines they had. Of the characters who have fewer than 100 lines in the file errors.txt, which of these characters has the most speaking parts?",
+    "answers": ["ADRIANA"]
+  },
+  {
+    "question": "Consider the class CharactersInPlay, which you wrote in an assignment, that determines who the characters were in one of Shakespeare’s plays and also how many lines they had. Find the name of the character with the third most speaking parts in the file errors.txt. How many speaking parts does this person have?",
+    "answers": ["79"]
+  },
+  {
+    "question": "Consider the class CharactersInPlay, which you wrote in an assignment, that determines who the characters were in one of Shakespeare’s plays and also how many lines they had. How many characters in the file errors.txt have at least 10 speaking parts, but no more than 15 speaking parts?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Consider the class you wrote to find out how many times each codon occurs in a strand of DNA based on reading frames. The file dnaMystery2 represents a long strand of DNA. How many unique codons are there if you use a reading frame that starts at position 1?",
+    "answers": ["32"]
+  },
+  {
+    "question": "Consider the class you wrote to find out how many times each codon occurs in a strand of DNA based on reading frames. The file dnaMystery2 represents a long strand of DNA. What is the number of occurrences of the codon that occurs the most often using a reading frame that starts at position 2?",
+    "answers": ["10"]
+  },
+  {
+    "question": "Consider the class you wrote to find out how many times each codon occurs in a strand of DNA based on reading frames. The file dnaMystery2 represents a long strand of DNA. Using a reading frame that starts at position 0, which of the following codons occur 7 times? (Select all that are correct.)",
+    "answers": ["CAG", "CAA"]
+  },
+  {
+    "question": "Consider the class WordsInFiles, which you wrote in an assignment, that determines which words occur in several files, and for each word, which files they occur in. Consider the seven files: caesar.txt, confucius.txt, errors.txt, hamlet.txt, likeit.txt, macbeth.txt, and romeo.txt. How many words are there that each occur in all seven files?",
+    "answers": ["570"]
+  },
+  {
+    "question": "Consider the class WordsInFiles, which you wrote in an assignment, that determines which words occur in several files, and for each word, which files they occur in. Consider the seven files: caesar.txt, confucius.txt, errors.txt, hamlet.txt, likeit.txt, macbeth.txt and romeo.txt. How many words are there that each occur in four of the seven files?",
+    "answers": ["826"]
+  },
+  {
+    "question": "Consider the class WordsInFiles, which you wrote in an assignment, that determines which words occur in several files, and for each word, which files they occur in. Consider the seven files: caesar.txt, confucius.txt, errors.txt, hamlet.txt, likeit.txt, macbeth.txt and romeo.txt. In which file does the word “sea” NOT appear? (Consider only the exact lowercase string \"sea\". \"SEA\" or \"sea.\" would be different words.)",
+    "answers": ["likeit.txt"]
+  },
+  {
+    "question": "Consider the class WordsInFiles, which you wrote in an assignment, that determines which words occur in several files, and for each word, which files they occur in. Consider the seven files: caesar.txt, confucius.txt, errors.txt, hamlet.txt, likeit.txt, macbeth.txt and romeo.txt. In which of the following files does the word “tree” appear? (Choose all that apply.) (Consider only the exact lowercase string \"tree\". \"TREE\" or \"tree.\" would be different words.)",
+    "answers": ["confucius.txt", "likeit.txt", "macbeth.txt", "romeo.txt"]
+  },
+  {
+    "question": "Consider the map version of GladLibs where a map is created that maps a category to a list of words in that category. In which method are the individual ArrayLists of words for categories created?",
+    "answers": ["initializeFromSource"]
+  },
+  {
+    "question": "Consider the map version of GladLibs where a map is created that maps a category to a list of words in that category. In which method are these individual ArrayLists of words placed into the HashMap?",
+    "answers": ["initializeFromSource"]
+  },
+  {
+    "question": "Consider the map version of GladLibs and consider the method totalWordsInMap that returns the total number of words in all the ArrayLists in the HashMap myMap. Which two of the following code possibilities compute this sum of total number of words in the variable sum?",
+    "answers": [
+      "1 2 3 4 5 int sum = 0; for (String category : myMap.keySet()) { ArrayList<String> words = myMap.get(category); sum += words.size(); }",
+      "1 2 3 4 int sum = 0; for (String category : myMap.keySet()) { sum += myMap.get(category).size(); }"
+    ]
+  },
+  {
+    "question": "Consider the map version of GladLibs and consider the method totalWordsConsidered that returns the total number of words in the ArrayLists of the categories that were used for a particular GladLib. Assume a private variable of type ArrayList<String> and named categoriesUsed is used to store the unique categories found as the GladLib is created. In which method would we put a category into this ArrayList?",
+    "answers": ["processWord"]
+  },
+  {
+    "question": "Suppose a web log is modified to now have a sixth piece of information, a priority, that can be represented as a String. Which one of the following is the least likely change to the LogEntry class to accommodate this new part of a web log?",
+    "answers": [
+      "The toString method is modified to include a String parameter."
+    ]
+  },
+  {
+    "question": "Consider the following code for the readFile method of the LogAnalyzer class. 1 2 3 4 5 6 public void readFile(String filename) { FileResource fr = new FileResource(filename); for (String line : fr.lines()) { LogEntry le = WebLogParser.parseEntry(line); } } In the Tester class, readFile is called with a correct filename, and then printAll is called, but nothing is printed. Which one of the following is likely the best reason why?",
+    "answers": ["In readFile, the log entries were not stored in records."]
+  },
+  {
+    "question": "Consider the following code for the method printAllHigherThanNum with one integer parameter num. This method should print all the logs that have a status code higher than num. Which one of the following would be the best choice for suitable code for this method?",
+    "answers": [
+      "1 2 3 4 5 for (LogEntry le : records) { if (le.getStatusCode() > num) { System.out.println(le); } }"
+    ]
+  },
+  {
+    "question": "Run the method countUniqueIPs on the file weblog2_log. How many unique IP addresses are in the file?",
+    "answers": ["45"]
+  },
+  {
+    "question": "Run the method uniqueIPVisitsOnDay(“Sep 24”) on the file weblog2_log. What size is the ArrayList that is returned?",
+    "answers": ["8"]
+  },
+  {
+    "question": "Run the method countUniqueIPsInRange(200,299) on the file weblog2_log. What number is returned?",
+    "answers": ["23"]
+  },
+  {
+    "question": "Run the method mostNumberVisitsByIP after a HashMap has been created from the method countVisitsPerIP on the file weblog2_log. What number is returned?",
+    "answers": ["63"]
+  },
+  {
+    "question": "Run the method iPsMostVisits after a HashMap has been created from the method countVisitsPerIP on the file weblog2_log. What single IP address is returned in the ArrayList?",
+    "answers": ["188.162.84.63"]
+  },
+  {
+    "question": "Run the method dayWithMostIPVisits with a HashMap has been created from the method iPsForDays on the file weblog2_log. What day is returned?",
+    "answers": ["Sep 24"]
+  },
+  {
+    "question": "Run the method iPsWithMostVisitsOnDay with two parameters—one, a HashMap that has been created from the method iPsForDays on the file weblog2_log and two, the day “Sep 29”. One IP address is returned in the ArrayList—what is it?",
+    "answers": ["212.128.74.248"]
+  },
+  {
+    "question": "What is the language of secretmessage3.txt?",
+    "answers": ["French"]
+  },
+  {
+    "question": "What is the first line of the message you decrypted from secretmessage3.txt?",
+    "answers": ["La chambre à coucher de Juliette."]
+  },
+  {
+    "question": "What is the language of secretmessage4.txt?",
+    "answers": ["German"]
+  },
+  {
+    "question": "What is the first line of the message you decrypted from secretmessage4.txt?",
+    "answers": ["Drei Hexen treten auf."]
+  },
+  {
+    "question": "Recall that the choice to test key lengths 1–100 was arbitrary, and that the longer a key is with respect to an encrypted message, the less likely this Vigenère decryption algorithm is to work. How long would a key have to be, so that you could gain no information about an original message by analyzing the encrypted message?",
+    "answers": ["Exactly the message length"]
+  },
+  {
+    "question": "The Vigenère decryption algorithm used in this lesson has limitations. In which of the following scenarios could the program return incorrect results? (Select all that are correct.)",
+    "answers": [
+      "The language of the original message is not included in the dictionaries.",
+      "The language of the original message has many characters not in the English alphabet.",
+      "The language of the original message has multiple letters of comparable high frequency.",
+      "The language of the original message when written in sentences has different letter frequencies than the sum of individual words in the dictionary.",
+      "The language of the original message has an unusual letter that is highest in frequency (not 'e' or 'a')."
+    ]
+  },
+  {
+    "question": "Consider the Vigenère decryption algorithm described in this lesson. Which one of the following could be a problem?",
+    "answers": ["The key length is long compared with the message."]
+  },
+  {
+    "question": "Consider the class WordsInFiles, which you wrote in an assignment, that determines which words occur in several files, and for each word, which files they occur in. Consider the seven files: caesar.txt, confucius.txt, errors.txt, hamlet.txt, likeit.txt, macbeth.txt and romeo.txt. In which file does the word “laid” NOT appear?",
+    "answers": ["likeit.txt"]
+  },
+  {
+    "question": "Consider the class CharactersInPlay, which you wrote in an assignment, that determines who the characters were in one of Shakespeare’s plays and also how many lines they had. What is the name of the character with the third most speaking parts in the file errors.txt?",
+    "answers": ["ADRIANA"]
+  },
+  {
+    "question": "Run the method iPsWithMostVisitsOnDay with two parameters—one, a HashMap that has been created from the method iPsForDays on the file weblog2_log and two, the day “Sep 30”. Two IP addresses are returned in the ArrayList—which are they?",
+    "answers": ["66.67.61.44", "106.220.155.36"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesOfDepth to print all the earthquakes from a data source whose depth is between a given minimum and maximum value, and also to print out the number of earthquakes found. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for quakes with depth between -12,000.0 and -10,000.0, exclusive. How many such earthquakes are there?",
+    "answers": ["127"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesOfDepth to print all the earthquakes from a data source whose depth is between a given minimum and maximum value, and also to print out the number of earthquakes found. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for quakes with depth between -4000.0 and -2000.0, exclusive. How many such earthquakes are there?",
+    "answers": ["156"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesByPhrase to print all the earthquakes from a data source whose title has a phrase in it at a specified location, and also to print out the number of earthquakes found. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for quakes with the phrase “Quarry Blast” at the start of the earthquake’s title. How many such earthquakes are there?",
+    "answers": ["19"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesByPhrase to print all the earthquakes from a data source whose title has a phrase in it at a specified location, and also to print out the number of earthquakes found. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for quakes with the phrase “Alaska” at the end of the earthquake’s title. How many such earthquakes are there?",
+    "answers": ["364"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesByPhrase to print all the earthquakes from a data source whose title has a phrase in it at a specified location, and also to print out the number of earthquakes found. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for quakes with the phrase “Can” as a substring anywhere in the earthquake’s title. How many such earthquakes are there?",
+    "answers": ["58"]
+  },
+  {
+    "question": "For the assignment you wrote the method findLargestQuakes to print a given number of earthquakes from a data source in order from largest magnitude. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for the 20 earthquakes with the largest magnitude. What was the magnitude of the 20th largest earthquake?",
+    "answers": ["5.10"]
+  },
+  {
+    "question": "For the assignment you wrote the method findLargestQuakes to print a given number of earthquakes from a data source in order from largest magnitude. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) for the 50 earthquakes with the largest magnitude. What country had the 50th largest earthquake?",
+    "answers": ["Japan"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesWithFilter in the class EarthQuakeClient2 to filter earthquakes using two criteria. Modify that criteria to be those that are 1,000,000 meters (1,000 km) from Denver, Colorado whose location is (39.7392, -104.9903), and that end with an ‘a’ in their title (for example, that might be an earthquake in Nevada as that ends in ‘a’). Run your program on the file nov20quakedata.atom (a file with information on 1518 quakes). You should also print out the number of such earthquakes found. How many such earthquakes are there?",
+    "answers": ["74"]
+  },
+  {
+    "question": "For the assignment you wrote the method quakesWithFilter in the class EarthQuakeClient2 to filter earthquakes using two criteria. Modify that critieria to be magnitude between 3.5 and 4.5 inclusive and depth between -55,000.0 and -20,000.0 inclusive. Run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) with this criteria. You should also print out the number of such earthquakes found. How many such earthquakes are there?",
+    "answers": ["15"]
+  },
+  {
+    "question": "For the assignment you wrote the method testMatchAllFilter in the class EarthQuakeClient2 to filter earthquakes using three criteria. Modify that criteria to be those with magnitude between 1.0 and 4.0 inclusive, to test the depth between -180,000.0 and -30,000.0 inclusive, and if the letter “o” is in the title. Modify this method to run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) with the same criteria. You should also print out the number of such earthquakes found. How many such earthquakes are there?",
+    "answers": ["187"]
+  },
+  {
+    "question": "For the assignment you wrote the method testMatchAllFilter2 in the class EarthQuakeClient2 to filter earthquakes using three criteria. Modify that criteria to be those with magnitude between 0.0 and 5.0 inclusive, to test for the distance from Billund, Denmark at location (55.7308, 9.1153) is less than 3,000,000 meters (3000 km), and if the letter “e” is in the title. Run your program on the file nov20quakedata.atom (a file with information on 1518 quakes) with the same criteria. You should also print out the number of such earthquakes found. How many such earthquakes are there?",
+    "answers": ["17"]
+  },
+  {
+    "question": "Suppose one adds the getName( ) method to the Filter interface and adds a String parameter to the constructor of all the classes that implement a Filter to include the name of the Filter. Suppose one then creates the following code segment after reading in earthquake data into the ArrayList of QuakeData called list. 1 2 3 4 5 6 MatchAllFilter maf = new MatchAllFilter(); maf.addFilter(new MagnitudeFilter(3.0,5.0,\"Magnitude\")); Location city = new Location(51.7308,-34.1153); maf.addFilter(new DistanceFromFilter(3000*1000, city, \"Distance\")); maf.addFilter(new PhraseFilter(\"any\", \"i\", \"Phrase\")); System.out.println(\"Filters used are: \" + maf.getName()); There are no compile errors—the DistanceFromFilter class includes “implements Filter” in the first line of the class definition, the program runs and the output is: Filters used are: Magnitude null Phrase Which of the following is most likely the error as to why “null” was printed instead of Distance?",
+    "answers": [
+      "In the DistanceFromFilter class, a private variable for the name was not assigned the value of the parameter representing the name of the filter in the Constructor method."
+    ]
+  },
+  {
+    "question": "For an assignment you wrote the method sortByLargestDepth in the class QuakeSortInPlace to sort earthquakes by their depth from largest depth to smallest depth using the selection sort algorithm. Modify this method to do exactly 70 passes and then modify testSort to run this method on the file earthQuakeDataDec6sample2.atom. The file may not be completely sorted as there are many quakes in the file. After running your program of 70 selection sort passes on this file, what is the depth of the last earthquake in the ArrayList? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct number of sort passes!",
+    "answers": ["-100000.00"]
+  },
+  {
+    "question": "For an assignment you wrote the method sortByMagnitudeWithCheck in the class QuakeSortInPlace to sort earthquakes by their magnitude from smallest to largest using the selection sort algorithm, and stopping with passes once the ArrayList is sorted. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample2.atom. How many passes are needed to sort this file? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["1277"]
+  },
+  {
+    "question": "For an assignment you wrote the method sortByMagnitudeWithBubbleSortWithCheck in the class QuakeSortInPlace to sort earthquakes by their magnitude from smallest to largest using the bubble sort algorithm, and stopping with passes once the ArrayList is sorted. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample1.atom. How many passes are needed to sort this file? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["1241"]
+  },
+  {
+    "question": "Consider an ArrayList of following six integers. 2 4 5 9 8 1 What does this ArrayList look like after two passes of selection sort that sorts the elements in numeric order from smallest to largest?",
+    "answers": ["1 2 5 9 8 4"]
+  },
+  {
+    "question": "Consider an ArrayList of following six integers. 4 2 5 9 8 1 What does this ArrayList look like after two passes of bubble sort that sorts the elements in numeric order from smallest to largest?",
+    "answers": ["2 4 5 1 8 9"]
+  },
+  {
+    "question": "For an assignment, you modified the compareTo operator in the class QuakeEntry to sort earthquakes by their magnitude first, from smallest magnitude to largest magnitude, and to break ties by their depth, from largest depth to smallest depth. Then you wrote the method sortWithCompareTo in the DifferentSorters class using the Collections.sort method. Modify this method to print out the QuakeEntry in position 600 after sorting the QuakeEntry’s by the above method. Run this method on the file earthQuakeDataWeekDec6sample2.atom. What is the depth of the earthquake that is in position 600 after the earthquakes are sorted by the above method? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["-53600.00"]
+  },
+  {
+    "question": "For an assignment, you wrote the TitleAndDepthComparator to sort earthquakes by their title first, in alphabetical order, and to break ties by their depth, from smallest depth to largest depth. You then used the Collections.sort method with the TitleAndDepthComparator. Modify the sortByTitleAndDepth method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. Run this method on the file earthQuakeDataWeekDec6sample2.atom. What is the depth of the earthquake that is in position 500 after the earthquakes are sorted by the above method? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["-7630.00"]
+  },
+  {
+    "question": "For an assignment, you wrote the TitleLastAndMagnitudeComparator to sort earthquakes by the last word in their title first, in alphabetical order, and to break ties by their magnitude, from smallest to largest. You then used the Collections.sort method with the TitleLastAndMagnitudeComparator. Modify the sortByLastWordInTitleThenByMagnitude method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. Run this method on the file earthQuakeDataWeekDec6sample2.atom. What is the depth of the earthquake that is in position 500 after the earthquakes are sorted by the above method? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["-1490.00"]
+  },
+  {
+    "question": "Here is the code for runMarkovZero. 1 2 3 4 5 6 7 8 9 10 11 1 public void runMarkovZero() { 2 FileResource fr = new FileResource(); 3 String st = fr.asString(); 4 st = st.replace('\\n', ' '); 5 MarkovZero markov = new MarkovZero(); 6 markov.setTraining(st); 7 for(int k=0; k < 3; k++) { 8 String text = markov.getRandomText(500); 9 printOut(text); 10 } 11 } Suppose the line 1 markov.setRandom(18); is put between lines 7 and 8, as the first line in the body of the for loop. Which one of the following options best describes how this line affects the program?",
+    "answers": ["Each of three randomly generated texts will all be identical."]
+  },
+  {
+    "question": "In the MarkovRunner class in the runMarkovZero method, set the random seed to 1024 and run this method on the file confucius.txt. What is the first line of text output when this program runs?",
+    "answers": [
+      "eeuefmespwhsfoyu, s giowhersa eell; bma s.7shni:.at.ttdr.w aknf"
+    ]
+  },
+  {
+    "question": "In the Tester class, run the program testGetFollowsWithFile with the string “o” and the file confucius.txt. What is the size of the ArrayList of characters that follow “o”?",
+    "answers": ["10453"]
+  },
+  {
+    "question": "In the Tester class, run the program testGetFollowsWithFile with the string “he” and the file confucius.txt. What is the size of the ArrayList of characters that follow “he”?",
+    "answers": ["3715"]
+  },
+  {
+    "question": "After the completion of the MarkovOne class to generate random text by finding all the characters that follow one character, set the random seed in the runMarkovOne method in the MarkovRunner class to 365. Then run runMarkovOne on the file romeo.txt. What is the first line generated?",
+    "answers": [
+      "y O wirs bloay Ger. fo. tifthy The, A My; st- ie d, s. bluolate,"
+    ]
+  },
+  {
+    "question": "After the completion of the MarkovFour class to generate random text by finding all the characters that follow four characters, set the random seed in the runMarkovFour method in the MarkovRunner class to 715. Then run runMarkovFour on the file romeo.txt. What is the first line of text generated?",
+    "answers": [
+      "man in a green, for that haste, for a foot in her from Tybalt!"
+    ]
+  },
+  {
+    "question": "After the completion of the MarkovModel class to generate random text by finding all the characters that follow N characters, set the random seed in the runMarkovModel method in the MarkovRunner class to 953 and pass in N as 7. Then run runMarkovModel on the file romeo.txt. What is the first line of text generated?",
+    "answers": ["e uncle Capulet's orchard. Enter an officer, and light- more"]
+  },
+  {
+    "question": "For the class EfficientMarkovModel, which one of the following is the best place to call the buildMap method?",
+    "answers": ["In the setTraining method."]
+  },
+  {
+    "question": "In the EfficientMarkovModel class, comment out the print statements in the printHashMapInfo method that prints out the map. Make sure printHashMapInfo is called right after the HashMap is built. Then in the MarkovRunnerWithInterface class call the runModel method on an EfficientMarkovModel of order 6 with seed 792 on the file confucius.txt. How many keys are in the HashMap?",
+    "answers": ["70162"]
+  },
+  {
+    "question": "In the EfficientMarkovModel class, comment out the print statements in the printHashMapInfo method that prints out the map. Make sure printHashMapInfo is called right after the HashMap is built. Then in the MarkovRunnerWithInterface class call the runModel method on an EfficientMarkovModel of order 5 with seed 531 on the file confucius.txt. What was the size of the largest ArrayList in the HashMap?",
+    "answers": ["1549"]
+  },
+  {
+    "question": "What is the name of the method that starts a Java program?",
+    "answers": ["main"]
+  },
+  {
+    "question": "What argument type should the method that starts a Java program take?",
+    "answers": ["an array of Strings"]
+  },
+  {
+    "question": "What effect comes from declaring a field \"static\"?",
+    "answers": [
+      "There is only one copy of that field for the entire class, not one per instance."
+    ]
+  },
+  {
+    "question": "In Java, how is the keyword \"throw\" used?",
+    "answers": [
+      "To make an exception occur when the program detects a problematic circumstance that it cannot directly handle."
+    ]
+  },
+  {
+    "question": "Creating a new socket, as with: 1 Socket s = new Socket(addr,port); can throw an IOException according to the documentation of the java.net.Socket class. Which of the following structures is the best way to create a socket while handling the exception?",
+    "answers": [
+      "1 2 3 4 5 6 7 try { Socket s = new Socket(addr, port); //code that uses s } catch(IOException ioe) { //code to handle the exception }"
+    ]
+  },
+  {
+    "question": "In Java, how is the keyword \"finally\" used?",
+    "answers": [
+      "In exception handling to specify code that should be executed regardless of whether an exception happened or not."
+    ]
+  },
+  {
+    "question": "If you wanted to read the contents of a file without using the edu.duke package, you might call Files.newBufferedReader. What would you pass into Files.newBufferedReader?",
+    "answers": ["a Path"]
+  },
+  {
+    "question": "If you need to read data from a website without using the edu.duke package, you would probably want to use classes found in which package?",
+    "answers": ["java.net"]
+  },
+  {
+    "question": "You saw that a BufferedReader can be used to read data from a file on the local computer, as well as from a website. You could also use it with other sources of data, as long as you have an appropriate Reader class to access the data. These capabilities are a great example of the benefits of which programming principles? Select the two best options.",
+    "answers": [
+      "Open/Closed Principle: the BufferedReader class is designed such that it can have its functionality expanded (to read from new data sources) without having to modify its code",
+      "Abstraction: the BufferedReader class can work with any class that conforms to a specific interface, and does not need to know the details of how/where it reads data"
+    ]
+  },
+  {
+    "question": "For an assignment you wrote the method sortByMagnitudeWithBubbleSortWithCheck in the class QuakeSortInPlace to sort earthquakes by their magnitude from smallest to largest using the bubble sort algorithm, and stopping with passes once the ArrayList is sorted. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample2.atom. Make sure you are using the updated (1/12/16) version of the EarthQuakeParser class. How many passes are needed to sort this file? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["1255"]
+  },
+  {
+    "question": "For an assignment, you modified the compareTo operator in the class QuakeEntry to sort earthquakes by their magnitude first, from smallest magnitude to largest magnitude, and to break ties by their depth, from largest depth to smallest depth using the Collections.sort method. Modify the sortWithCompareTo method in the DifferentSorters class to print out the QuakeEntry in position 600 after sorting the QuakeEntry’s by the above method. Run this method on the file earthQuakeDataWeekDec6sample1.atom. What is the depth of the earthquake that is in position 600 after the earthquakes are sorted by the above method? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["-53600.00"]
+  },
+  {
+    "question": "For an assignment, you wrote the TitleLastAndMagnitudeComparator to sort earthquakes by the last word in their title first, in alphabetical order, and to break ties by their magnitude, from smallest to largest. You then used the Collections.sort method with the TitleLastAndMagnitudeComparator. Modify the sortByLastWordInTitleThenByMagnitude method in the DifferentSorters class to print out the QuakeEntry in position 500 after sorting the QuakeEntry’s by the above method. Run this method on the file earthQuakeDataWeekDec6sample1.atom. What is the depth of the earthquake that is in position 500 after the earthquakes are sorted by the above method? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["-5060.00"]
+  },
+  {
+    "question": "For an assignment you wrote the method sortByMagnitudeWithCheck in the class QuakeSortInPlace to sort earthquakes by their magnitude from smallest to largest using the selection sort algorithm, and stopping with passes once the ArrayList is sorted. Modify testSort to run this method on the file earthQuakeDataWeekDec6sample1.atom. How many passes are needed to sort this file? Note: This question has variations. If you attempt this quiz multiple times, make sure you are using the correct data file!",
+    "answers": ["1301"]
+  },
+  {
+    "question": "The Movie class includes a toString method. Suppose another class is using the Movie class and has declared m as a Movie and initialized m. Which TWO of the following would use the toString method correctly to print out information about the movie m?",
+    "answers": ["1 System.out.println(m.toString);"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadMovies on the file ratedmoviesfull.csv. Note there are 3143 movies in this file. How many of the movies include the Comedy genre?",
+    "answers": ["960"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadMovies on the file ratedmoviesfull.csv. Note there are 3143 movies in this file. How many of these movies run longer than 150 minutes?",
+    "answers": ["132"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadMovies on the file ratedmoviesfull.csv. Note there are 3143 movies in this file. What is the maximum number of films directed by one director?",
+    "answers": ["23"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadMovies on the file ratedmoviesfull.csv. Note there are 3143 movies in this file. What is the name of the director who directed more films than any other director? (There is only one.)",
+    "answers": ["Woody Allen"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadRaters on the file ratings.csv. Note there are 1048 raters in this file. How many ratings does the rater number 193 have?",
+    "answers": ["119"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadRaters on the file ratings.csv. Note there are 1048 raters in this file. What is the maximum number of ratings by any rater?",
+    "answers": ["314"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadRaters on the file ratings.csv. Note there are 1048 raters in this file. Which rater rated the most number of movies?",
+    "answers": ["735"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadRaters on the file ratings.csv. Note there are 1048 raters in this file. How many ratings does the movie “1798709” have?",
+    "answers": ["38"]
+  },
+  {
+    "question": "In the class FirstRatings, run the method testLoadRaters on the file ratings.csv. Note there are 1048 raters in this file. What is the total number of unique movies that have been rated?",
+    "answers": ["3143"]
+  },
+  {
+    "question": "In the SecondRatings class, the name of the private variable to store the ArrayList of type Movie is named myMovies. For the constructor in this class that has two String parameters named moviefile and ratingsfile, which one of the following shows how one might call loadMovies, which is a method in the FirstRatings class?",
+    "answers": [
+      "1 2 FirstRatings fr = new FirstRatings(); myMovies = fr.loadMovies(\"data/\" + moviefile);"
+    ]
+  },
+  {
+    "question": "In the printAverageRatings method in the MovieRunnerAverage class, which one of the following would be the way to print the number of movies read in and the number of raters read in?",
+    "answers": [
+      "1 2 3 4 // assume moviefile and ratingsfile have been defined SecondRatings runner = new SecondRatings(moviefile,ratingsfile); System.out.println(\"read data for \" + runner.getRaterSize() + \" raters\"); System.out.println(\"read data for \" + runner.getMovieSize() + \" movies\");"
+    ]
+  },
+  {
+    "question": "Consider the following movie file (only the first three fields are shown for each movie). 1 2 3 4 5 6 7 8 id,title,year,country,genre,director,minutes,poster 0477348,\"No Country for Old Men\",2007,... 0416960,\"The Lizard\",2004,... 1646980,\"The Double\",2011,... 2042568,\"Inside Llewyn Davis\",2013,... 0756648,\"The Fox & the Child\",2007,... 1790864,\"The Maze Runner\",2014,... 0061512,\"Cool Hand Luke\",1967,... Consider the following ratings file: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 3,1790864,7,1448832437 29,1790864,9,1411064109 44,2042568,8,1412200503 51,0416960,7,1362891496 51,2042568,6,1387605483 65,1790864,7,1447728928 88,0477348,8,1431897274 193,0061512,10,1438363286 193,0477348,10,1441399258 249,2042568,7,1402519352 361,0477348,9,1370396355 435,0477348,9,1412881981 688,0477348,7,1413702368 931,0061512,8,1368120324 What is the average rating of the movie \"No Country for Old Men\"?",
+    "answers": ["8.6"]
+  },
+  {
+    "question": "Consider the following movie file (only the first three fields are shown for each movie). 1 2 3 4 5 6 7 8 id,title,year,country,genre,director,minutes,poster 0477348,\"No Country for Old Men\",2007,... 0416960,\"The Lizard\",2004,... 1646980,\"The Double\",2011,... 2042568,\"Inside Llewyn Davis\",2013,... 0756648,\"The Fox & the Child\",2007,... 1790864,\"The Maze Runner\",2014,... 0061512,\"Cool Hand Luke\",1967,... Consider the following ratings file: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 3,1790864,7,1448832437 29,1790864,9,1411064109 44,2042568,8,1412200503 51,0416960,7,1362891496 51,2042568,6,1387605483 65,1790864,7,1447728928 88,0477348,8,1431897274 193,0061512,10,1438363286 193,0477348,10,1441399258 249,2042568,7,1402519352 361,0477348,9,1370396355 435,0477348,9,1412881981 688,0477348,7,1413702368 931,0061512,8,1368120324 What is the average rating of the movie \"Inside Llewyn Davis\"?",
+    "answers": [7]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, what is the rating of the movie “The Maze Runner”? (Give your answer to the ten thousandths place, or four decimal places.)",
+    "answers": ["7.1900"]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, what is the rating of the movie “Moneyball”? (Give your answer to the ten thousandths place, or four decimal places.)",
+    "answers": ["8.3800"]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, what is the rating of the movie “Vacation”? (Give your answer to the ten thousandths place, or four decimal places.)",
+    "answers": ["6.8000"]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, how many movies have 50 or more ratings?",
+    "answers": ["7"]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, of those movies that have at least 20 ratings, what is the name of the movie that has the lowest rating?",
+    "answers": ["The Purge"]
+  },
+  {
+    "question": "Using the files ratedmoviesfull.csv and ratings.csv, of those movies that have at least 12 ratings, what is the name of the movie that has the lowest rating?",
+    "answers": ["Spring Breakers"]
+  },
+  {
+    "question": "In creating the Rater interface from the original Rater class, which one of the following is the signature of the getID method from the original Rater class that is put into the Rater interface?",
+    "answers": ["1 2 3 public String getID(){ return myID; }"]
+  },
+  {
+    "question": "In the EfficientRater class, assume the private variable myRatings has been changed to a HashMap of type String mapped to a Rating. Which one of the following might be the code to the method addRating(String item, double rating)?",
+    "answers": ["1 myRatings.put(item,new Rating(item,rating));"]
+  },
+  {
+    "question": "In the getAverageRatings method in ThirdRatings, after getting the movies from the MovieDatabase with the line: 1 ArrayList<String> movies = MovieDatabase.filterBy(new TrueFilter()); Which one of the following could be the new for loop to loop over all the movies to calculate their average rating?",
+    "answers": ["1 for (String id: movies) {"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatings using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 35. How many rated movies are returned?",
+    "answers": ["29"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByYearAfter using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 20 and the year set to 2000 (meaning movies released in the year 2000 or later). How many rated movies are returned?",
+    "answers": ["88"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByGenre using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 20 and the genre set to Comedy. How many rated movies are returned?",
+    "answers": ["19"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByMinutes using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 5 and find all the movies that are close to two hours within 15 minutes (movies that take at least 105 minutes and at most 135 minutes). How many rated movies are returned?",
+    "answers": ["231"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByDirectors using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 4 and find all the movies that have at least one of these directors: \"Clint Eastwood,Joel Coen,Martin Scorsese,Roman Polanski,Nora Ephron,Ridley Scott,Sydney Pollack\". How many rated movies are returned?",
+    "answers": ["22"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByYearAfterAndGenre using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 8, the year set to 1990 (meaning movies released in the year 1990 or later), and the genre set to “Drama”. How many rated movies are returned?",
+    "answers": ["132"]
+  },
+  {
+    "question": "In the MovieRunnerWithFilters class, call the method printAverageRatingsByDirectorsAndMinutes using the files ratedmoviesfull.csv and ratings.csv and the number of minimal raters set to 3 and the length of the film set to at least 90 minutes and no more than 180 minutes. Find all the movies that have at least one of these directors: \"Clint Eastwood,Joel Coen,Tim Burton,Ron Howard,Nora Ephron,Sydney Pollack\". How many rated movies are returned?",
+    "answers": ["15"]
+  },
+  {
+    "question": "In the class FourthRatings, which one of the following is a correct replacement for the line 1 for (Rater r: myRaters){ that came from the file ThirdRatings but now should use the RaterDatabase class.",
+    "answers": ["1 for (Rater r: RaterDatabase.getRaters()){"]
+  },
+  {
+    "question": "In the method printAverageRatings in the Class MovieRunnerSimilarRatings, assume the name of the FourthRatings object is named runner. Which one of the following is a correct way to print out the number of raters in the RaterDatabase?",
+    "answers": [
+      "1 System.out.println(\"read data for\" + RaterDatabase.size() + \"raters\");"
+    ]
+  },
+  {
+    "question": "Consider that the following ratings exist 1 2 3 4 5 6 7 8 9 Rater ID MovieID Rating 15 2354 10 15 3285 6 15 1297 2 15 5804 8 20 3285 4 20 1297 7 20 6574 10 20 2354 9 Consider the method dotProduct in the FourthRatings class. What should the call dotProduct(“15”, “20”) return?",
+    "answers": ["128"]
+  },
+  {
+    "question": "Consider that the following ratings exist 1 2 3 4 5 6 7 8 9 RaterID MovieID Rating 15 2354 10 15 3285 6 15 1297 2 15 5804 8 20 3285 4 20 1297 7 20 6574 10 20 2354 9 For rater 30, we have calculated similarity ratings with these two raters: 1 2 3 RaterID, Similarity with Rater 30 15, 7.0 20, 30.0 Assuming these are the only raters who rated movie 3285, what is the weighted average rating for the movie with ID 3285?",
+    "answers": ["81"]
+  },
+  {
+    "question": "Which one of the following statements is true about the FourthRatings class where the changes suggested are the only changes made and the program works as it did before after the change?",
+    "answers": [
+      "The method getSimilarRatings can be written with just one line of code that returns the result of a call to getSimilarRatingsByFilter."
+    ]
+  },
+  {
+    "question": "Run the printSimilarRatings method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 337, the number of minimal raters to 3 and the number of top similar raters set to 10. What is the movie with the top rated average?",
+    "answers": ["Frozen"]
+  },
+  {
+    "question": "Run the printSimilarRatingsByGenre method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 964, the genre “Mystery”, the number of minimal raters to 5 and the number of top similar raters set to 20. What is the movie with the top rated average?",
+    "answers": ["Gone Girl"]
+  },
+  {
+    "question": "Run the printSimilarRatings method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 71, the number of minimal raters to 5 and the number of top similar raters set to 20. What is the movie with the top rated average?",
+    "answers": ["About Time"]
+  },
+  {
+    "question": "Run the printSimilarRatingsByDirector method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 120, the directors “Clint Eastwood,J.J. Abrams,Alfred Hitchcock,Sydney Pollack,David Cronenberg,Oliver Stone,Mike Leigh”, the number of minimal raters to 2 and the number of top similar raters set to 10. What is the movie with the top rated average?",
+    "answers": ["Star Trek"]
+  },
+  {
+    "question": "Run the printSimilarRatingsByGenreAndMinutes method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 168, the genre Drama, the length of the movie between 80 and 160 inclusive, the number of minimal raters to 3 and the number of top similar raters set to 10. What is the movie with the top rated average?",
+    "answers": ["The Imitation"]
+  },
+  {
+    "question": "Run the printSimilarRatingsByYearAfterAndMinutes method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 314, the year 1975, the length of the movie between 70 and 200 inclusive, the number of minimal raters to 5 and the number of top similar raters set to 10. What is the movie with the top rated average?",
+    "answers": ["Nightcrawler"]
+  }
+]
