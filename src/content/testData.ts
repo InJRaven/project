@@ -2,6 +2,13 @@
   const normalizeText = (text: string | null): string => {
     if (text == null) return "";
     return text
+      .replace(/\uFEFF/g, "")
+      .replace(
+        /[\u200B-\u200D\u2060\u200E\u200F\u061C\u202A-\u202E\u2066-\u2069]/g,
+        ""
+      )
+      .replace(/\u00A0/g, " ")
+      .normalize("NFKC")
       .replace(/^\d+\.\s*Question\s*\d+/i, "")
       .replace(/\d+\s*point[s]?$/i, "")
       .replace(/\s+/g, " ")

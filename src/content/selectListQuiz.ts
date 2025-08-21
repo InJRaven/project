@@ -24,6 +24,7 @@
   const normalizeText = (text: string | null): string => {
     if (text == null) return "";
     return text
+      .replace(/Current Time\s*\d+:\d+\/\d+:\d+\s*Loaded:\s*\d+(\.\d+)?%/gi, "")
       .replace(/\uFEFF/g, "")
       .replace(
         /[\u200B-\u200D\u2060\u200E\u200F\u061C\u202A-\u202E\u2066-\u2069]/g,

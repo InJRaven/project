@@ -1,33 +1,20 @@
 (() => {
   const SCRIPT_NAME = "TakeQuiz";
 
-  // Ngăn script khác đang chạy
-  if (
-    (window as any)._quizScriptRunning &&
-    (window as any)._quizScriptRunning !== SCRIPT_NAME
-  ) {
-    console.warn(
-      `⚠️ Script khác đang chạy: ${(window as any)._quizScriptRunning}`
-    );
-    return;
-  }
-  (window as any)._quizScriptRunning = SCRIPT_NAME;
-
-  // Dọn cờ khi rời trang
-  window.addEventListener("beforeunload", () => {
-    (window as any)._quizScriptRunning = null;
-  });
-
   type QuestionData = {
     question: string;
     answers: string[];
   };
 
-  const normalizeText = (text: any) => {
-    const s = typeof text === "string" ? text : "";
-    return s
+  const normalizeText = (text: string | null): string => {
+    if (text == null) return "";
+    return text
+      .replace(/Current Time\s*\d+:\d+\/\d+:\d+\s*Loaded:\s*\d+(\.\d+)?%/gi, "")
       .replace(/\uFEFF/g, "")
-      .replace(/[\u200B-\u200D\u2060]/g, "")
+      .replace(
+        /[\u200B-\u200D\u2060\u200E\u200F\u061C\u202A-\u202E\u2066-\u2069]/g,
+        ""
+      )
       .replace(/\u00A0/g, " ")
       .normalize("NFKC")
       .replace(/^\d+\.\s*Question\s*\d+/i, "")
@@ -93,7 +80,7 @@
       const question = normalizeText(questionEl?.innerText || "");
       const answers: string[] = [];
 
-      // Lấy đáp án từ input (radio/checkbox)
+      // Lấy đáp án từ input (radio/checkbox) đã checked
       inputsEl.forEach((input) => {
         if (input.checked) {
           const label = input.closest("label") as HTMLElement | null;
@@ -106,18 +93,15 @@
         }
       });
 
-      // Nếu không có input được chọn → thử câu trả lời dạng tự luận
-      if (answers.length === 0) {
-        // 1) Vùng phản hồi đi kèm legend
+      // Nếu không có input được chọn → thử các vùng nhập tự luận
+      if (inputsEl.length === 0 && answers.length === 0) {
         if (textReflect && normalizeText(textReflect.innerText)) {
           answers.push(normalizeText(textReflect.innerText));
         }
-        // 2) textarea
         textareas.forEach((ta) => {
           const val = normalizeText(ta.value);
           if (val) answers.push(val);
         });
-        // 3) contenteditable
         editable.forEach((ed) => {
           const val = normalizeText(ed.innerText);
           if (val) answers.push(val);
@@ -146,22 +130,44 @@
     } catch {}
   }
 
-  // Listener mới
+  // Listener mới: chỉ set cờ khi bắt đầu xử lý, và luôn clear trong finally
   (window as any)._takeQuizListener = (
     message: any,
     _sender: chrome.runtime.MessageSender,
     _sendResponse: (response?: any) => void
   ) => {
-    if (message?.action === "takeQuiz") {
-      // subject không dùng nên bỏ điều kiện thừa để không chặn chạy
-      (async () => {
-        try {
-          await takeQuiz();
-        } catch (err) {
-          console.error("❌ takeQuiz error:", err);
-        }
-      })();
+    if (message?.action !== "takeQuiz") return;
+
+    // Nếu đang có script khác chạy, đừng giành quyền
+    if (
+      (window as any)._quizScriptRunning &&
+      (window as any)._quizScriptRunning !== SCRIPT_NAME
+    ) {
+      console.warn(
+        `⚠️ Không chạy được ${SCRIPT_NAME} vì đang chạy: ${
+          (window as any)._quizScriptRunning
+        }`
+      );
+      return;
     }
+
+    // Nếu chính TakeQuiz đang chạy, bỏ qua lần gọi mới
+    if ((window as any)._quizScriptRunning === SCRIPT_NAME) {
+      console.warn(`⚠️ ${SCRIPT_NAME} đang chạy, bỏ qua yêu cầu mới.`);
+      return;
+    }
+
+    (async () => {
+      (window as any)._quizScriptRunning = SCRIPT_NAME;
+      try {
+        await takeQuiz();
+      } catch (err) {
+        console.error("❌ takeQuiz error:", err);
+      } finally {
+        // ⚠️ Quan trọng: luôn thả cờ để tool khác dùng được
+        (window as any)._quizScriptRunning = null;
+      }
+    })();
   };
 
   chrome.runtime.onMessage.addListener((window as any)._takeQuizListener);
@@ -175,6 +181,7 @@
       } catch {}
       delete (window as any)._takeQuizListener;
     }
-    delete (window as any)._quizScriptRunning;
+    // đảm bảo giải phóng cờ
+    (window as any)._quizScriptRunning = null;
   });
 })();

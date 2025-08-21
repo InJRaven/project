@@ -21,7 +21,10 @@
   },
   {
     "question": "Which of these is mentioned as a strategy for effective listening in class?",
-    "answers": ["Reviewing notes after class."]
+    "answers": [
+      "Reviewing notes after class.",
+      "Reading about the topic before class."
+    ]
   },
   {
     "question": "The speaker gave the following example: “reviewing the lecture notes after class.” What idea does this example support?",
@@ -39,7 +42,10 @@
   },
   {
     "question": "Based on the speaker’s explanation of how learners learn, which of the following would NOT be a good example of how kinesthetic learners learn best?",
-    "answers": ["Going to a live theater production"]
+    "answers": [
+      "Going to a live theater production",
+      "Listening to your classmates summarize the lesson in a study group"
+    ]
   },
   {
     "question": "Out of the following characteristics of kinesthetic learners, which did the speaker mention first?",
@@ -51,7 +57,7 @@
   },
   {
     "question": "Which of the following occupations do you think would NOT be best for a kinesthetic learner?",
-    "answers": ["novelist"]
+    "answers": ["novelist", "Secretary"]
   },
   {
     "question": "The language cue “because” is used in the lecture to explain why all the topics in the outline may not be taught in the course. Select the TWO reasons that were given.",
@@ -160,7 +166,8 @@
     "answers": [
       "Planning in social time with friends and family should be on the “most important” list.",
       "The Statement of Purpose needs to be written in a very confident, well organized, intentional manner.",
-      "People learn best in different ways."
+      "People learn best in different ways.",
+      "It is important for you to know how you learn best."
     ]
   },
   {
@@ -193,7 +200,11 @@
       "Make sure you understand any assignments, and ask the teacher if you don't understand.",
       "Pay attention to language, visual, and verbal cues that help you identify key points.",
       "Write down what the teacher writes on the board or highlights in a PowerPoint.",
-      "Compare notes with classmates after class to make sure they are accurate."
+      "Compare notes with classmates after class to make sure they are accurate.",
+      "Review the notes from the previous lecture while you wait for class to begin.",
+      "Compare notes with classmates to make sure they are accurate.",
+      "Write down what the teacher writes on the board or highlights in a Powerpoint.",
+      "Develop a personal note-taking system and use a notebook."
     ]
   },
   {
@@ -214,7 +225,13 @@
   },
   {
     "question": "Which of the following should you write in the space on the left when taking Cornell notes? Check all that apply.",
-    "answers": ["questions you have", "important phrases", "main idea"]
+    "answers": [
+      "questions you have",
+      "important phrases",
+      "main idea",
+      "study questions",
+      "key vocabulary"
+    ]
   },
   {
     "question": "When should you fill in the section on the right-side of the page when using a Cornell Notes template?",
@@ -275,12 +292,22 @@
       "a generalization",
       "organization of the lecture",
       "contrast of ideas",
-      "topic"
+      "topic",
+      "the meaning of the lecture",
+      "the speaker's opinion",
+      "important information",
+      "an explanation of a word or concept"
     ]
   },
   {
     "question": "Which of the following are examples of language cues? Choose all that apply.",
-    "answers": ["That means...", "This class is about...", "In order to..."]
+    "answers": [
+      "That means...",
+      "This class is about...",
+      "In order to...",
+      "Let's move on to...",
+      "Most importantly..."
+    ]
   },
   {
     "question": "Listen to the following TED talk titled “Embrace Your Disobedience” by Diego Rosso. Take thorough notes using one of the templates you've been given. Then answer the questions that follow. Lecture Clip Play Video How did the speaker get the audience to focus on his topic at the beginning of his presentation? (Read all the answer choices before you choose an answer.)",
@@ -318,11 +345,14 @@
   },
   {
     "question": "Question 2 Clip Play Video When sending an email to the professor, what should the subject of the email include?",
-    "answers": ["The name of the class: ESS 1"]
+    "answers": ["The name of the class: ESS 1", "ESS1"]
   },
   {
     "question": "Question 3 Clip Play Video Which of the following topics would you NOT expect to learn about in this class?",
-    "answers": ["how to be safe during a natural disaster"]
+    "answers": [
+      "how to be safe during a natural disaster",
+      "procedures during a natural disaster"
+    ]
   },
   {
     "question": "Question 4 Clip Play Video True or False? The professor will upload two different versions of her lecture slides for each lecture.",
@@ -380,7 +410,10 @@
   },
   {
     "question": "Listen to the video segment of Professor Loftus speaking about “The fiction of memory”. Take notes. Do your best to identify the important information that you should put in your notes based on the video lesson you have just watched. Then answer the following questions. Lecture Clip Play Video What does Dr. Loftus study?",
-    "answers": ["When people remember untrue information"]
+    "answers": [
+      "When people remember untrue information",
+      "When people remember things that never happened"
+    ]
   },
   {
     "question": "Which language cue do we use to identify the important information of what Dr. Loftus studies?",
@@ -472,7 +505,14 @@
   },
   {
     "question": "Which of the following words convey a positive tone or stance? Choose all that apply.",
-    "answers": ["beneficial", "logical", "positive"]
+    "answers": [
+      "beneficial",
+      "logical",
+      "positive",
+      "skeptical",
+      "dynamic",
+      "purposeful"
+    ]
   },
   {
     "question": "As you learned in the lecture, qualifiers and intensifiers communicate how certain a speaker is in a statement. Choose the correct order of words and phrases below to show how certain a speaker would be when using them. The first word should be the most certain, and the last word should be the least certain.",
@@ -482,11 +522,11 @@
   },
   {
     "question": "Listen to the lecture clip below and answer the question that follows. Question 1 Lecture Clip Play Video Which word could be used to describe the speaker’s stance/tone/attitude?",
-    "answers": ["insistent"]
+    "answers": ["insistent", "urgent"]
   },
   {
     "question": "Listen to the lecture clip below and answer the question that follows. Question 2 Lecture Clip Play Video Which word could be used to describe the speaker’s stance/tone/attitude?",
-    "answers": ["disheartened"]
+    "answers": ["disheartened", "disappointed"]
   },
   {
     "question": "True or false? The speaker’s main point is easier to understand when you understand his or her stance and attitude.",
@@ -526,7 +566,7 @@
   },
   {
     "question": "If the audience doesn’t feel that you are a trustworthy expert with thorough knowledge of your subject matter, what have you lost?",
-    "answers": ["logos"]
+    "answers": ["ethos"]
   },
   {
     "question": "Listen to this clip and answer the question that follow. Question 4 Clip (This will open in a new window.) Play Video What information was NOT provided?",
@@ -577,14 +617,1337 @@
   },
   {
     "question": "What type of presentation is this?",
-    "answers": ["poster"]
+    "answers": ["poster", "Video presentation"]
   },
   {
     "question": "Complete the sentence. To conclude her presentation, the speaker says ________________.",
-    "answers": ["In summary . . ."]
+    "answers": ["To conclude . . ."]
   },
   {
     "question": "Which mode of persuasion is about the step-by-step, logical development of your arguments?",
     "answers": ["logos"]
+  },
+  {
+    "question": "If you are given the freedom to organize your speech, how many sections should you create for the body?",
+    "answers": ["2-5 sections"]
+  },
+  {
+    "question": "Which one is NOT a formal assessment?",
+    "answers": [
+      "Asking your classmates or colleagues whether you did a good job"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of verbal delivery?",
+    "answers": ["Audibility"]
+  },
+  {
+    "question": "Which one is an example of nonverbal delivery?",
+    "answers": ["Eye contact"]
+  },
+  {
+    "question": "Match the description here to the correct term below. exceptions to a rule",
+    "answers": ["caveat"]
+  },
+  {
+    "question": "Match the description here to the correct term below. the use of an author’s words without saying the author’s name",
+    "answers": ["plagiarism"]
+  },
+  {
+    "question": "What are some ways to give your audience an epiphany in the conclusion of your presentation? Choose all that apply.",
+    "answers": [
+      "tell about the future",
+      "synthesize the points by explaining how they fit together",
+      "call for action",
+      "use a quotation"
+    ]
+  },
+  {
+    "question": "Imagine you are giving a presentation about homelessness. You want to end your presentation with a call for action. Which of these endings is the best example of this technique?",
+    "answers": [
+      "Let’s come together and spread awareness about our homeless population."
+    ]
+  },
+  {
+    "question": "Complete the sentence. When someone asks a question, it is a good idea to ________________.",
+    "answers": [
+      "respond to the inquirer as well as everyone else in the audience"
+    ]
+  },
+  {
+    "question": "Which of the following statements is true, according to the lessons from this week?",
+    "answers": [
+      "When there is no time left, it is important to politely interrupt an audience member who may be asking a question to let him/her know."
+    ]
+  },
+  {
+    "question": "While reading a script or notecards word-for-word is not recommended in a speech, __________ should always be read verbatim (word-for-word).",
+    "answers": ["quotations"]
+  },
+  {
+    "question": "According to this course, what is the best way to see yourself rehearse?",
+    "answers": [
+      "by setting the camera up in such a way that you can record your whole body"
+    ]
+  },
+  {
+    "question": "Considering time, it is best to ___________.",
+    "answers": [
+      "discreetly keep an eye on the clock while rehearsing and during your actual presentation"
+    ]
+  },
+  {
+    "question": "Ideally, you should rehearse your presentation __________.",
+    "answers": ["several times"]
+  },
+  {
+    "question": "If there is a microphone in the room, what is an appropriate way to test it?",
+    "answers": ["speak over the microphone at your normal volume"]
+  },
+  {
+    "question": "What does it mean to inflect one’s voice?",
+    "answers": ["to change the its tone or stress"]
+  },
+  {
+    "question": "True or false? Having a banana may be a good pre-presentation snack.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? Slowing down your speech will help with nerves.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? It's a good idea to have sound effects in your PowerPoint to make it more interesting.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? It's a good idea to stand in front of your PowerPoint slides to encourage your audience to read them.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? Effective co-presenting enhances a presentation rather than hinder it.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is the best title for a poster?",
+    "answers": ["Increasing Productivity through Employee Motivation"]
+  },
+  {
+    "question": "What is the purpose of the phrase: “Would you like a minute to look at the poster, or would you like for me to explain it to you?”",
+    "answers": ["To see if the viewer prefers to read or chat"]
+  },
+  {
+    "question": "Which title below uses correct capitalization?",
+    "answers": [
+      "The Consequences of Global Warming",
+      "Diving into the Field of Hydrology",
+      "The Case for School Uniforms"
+    ]
+  },
+  {
+    "question": "In the “works cited” or “suggested reading” section of a handout, which part goes first?",
+    "answers": ["The author’s last name"]
+  },
+  {
+    "question": "What should you do between subheadings in a handout?",
+    "answers": ["Leave a blank line"]
+  },
+  {
+    "question": "For which type of publication is it NOT possible to use “mirrored” sections?",
+    "answers": ["A novel being read in a literature class"]
+  },
+  {
+    "question": "Match the description here to the correct term below. the comparison of two related ideas",
+    "answers": ["analogy"]
+  },
+  {
+    "question": "What are the parts of an effective presentation conclusion?",
+    "answers": ["summary, epiphany, thanks, questions"]
+  },
+  {
+    "question": "True or false? It's a good idea to print handouts in color for your presentation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which two parts of a speech should be memorized?",
+    "answers": ["the hook and the epiphany"]
+  },
+  {
+    "question": "Complete the sentence. The purpose of rephrasing a question is to _______________. (choose two)",
+    "answers": [
+      "make sure everyone else has heard the question clearly",
+      "ensure you understand it (as the presenter)"
+    ]
+  },
+  {
+    "question": "True or false? Pacing back and forth is a good way to keep calm during your presentation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? It is not okay to be humorous during your presentation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which statement is true regarding the proper usage of a microphone?",
+    "answers": ["Your mouth should be about 8 inches away from the microphone."]
+  },
+  {
+    "question": "True or false? It's a good idea to have your presentation saved in three places when you prepare to present: on a flash drive, on a cloud service, and printed for back up.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is optional when providing your contact information on a handout?",
+    "answers": ["Your email address"]
+  },
+  {
+    "question": "True or false? Co-presenters must agree on what the goal of their presentation is, such as to persuade, to inform, or to evaluate.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follow. Question 1 Clip Play Video What type of hook was used?",
+    "answers": ["Telling a true story"]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follow. Question 2 Clip Play Video How did the speaker show the relevance of the topic to the audience?",
+    "answers": [
+      "By saying “I chose a topic that you probably love as much as I do: shopping"
+    ]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follow. Question 3 Clip Play Video Why might the speaker not have said her name at the beginning of her speech?",
+    "answers": ["She didn't need to."]
+  },
+  {
+    "question": "Listen to this clip and answer the questions that follow. Question 4 Clip Play Video What type of hook was not used?",
+    "answers": ["Use a prop"]
+  },
+  {
+    "question": "For which type of presentation is it important to dress appropriately and be fully prepared?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which type of presentation generally lasts longer?",
+    "answers": ["Formal presentations", "Group presentations"]
+  },
+
+  {
+    "question": "Which type is a speech in which you stand up and talk in front of your peers?",
+    "answers": ["Oral presentations"]
+  },
+  {
+    "question": "Click on the link below and listen to a clip from an academic presentation. Then decide if the clip is from the introduction, body, or conclusion portions of the presentations. Question 1 Clip Play Video Which part of the presentation does this clip come from?",
+    "answers": ["introduction"]
+  },
+  {
+    "question": "Click on the link below and listen to a clip from an academic presentation. Then decide if the clip is from the introduction, body, or conclusion portions of the presentations. Question 2 Clip Play Video Which part of the presentation does this clip come from?",
+    "answers": ["body"]
+  },
+  {
+    "question": "Click on the link below and listen to a clip from an academic presentation. Then decide if the clip is from the introduction, body, or conclusion portions of the presentations. Question 3 Clip Play Video Which part of the presentation does this clip come from?",
+    "answers": ["body"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? I’ve broken down this presentation into four sections.",
+    "answers": ["outline"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? I decided to research this subject because my father is a victim of this disease.",
+    "answers": ["context"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? Hopefully, this information will make the world safer for us and our children.",
+    "answers": ["context"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? At the end of the presentation, I will answer any questions that you still have.",
+    "answers": ["outline"]
+  },
+  {
+    "question": "Which part of a speech is the most nutritious?",
+    "answers": ["The body"]
+  },
+  {
+    "question": "In a presentation that lasts 8-10 minutes, approximately how long should the body be?",
+    "answers": ["6 minutes"]
+  },
+  {
+    "question": "What is the best way to check the length of your speech?",
+    "answers": ["Time the rehearsal of your speech."]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 1 Clip Play Video The speaker is explaining her experience with some of the residents at a retirement home. Her oral definition of aphasia was...",
+    "answers": [
+      "clearly written on her slide but not clearly articulated orally"
+    ]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 2 Clip Play Video In this excerpt, the presenter relies on...",
+    "answers": ["expert testimony"]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 3 Clip Play Video Although this excerpt is taken from the introduction of a speech, the speaker does an excellent job of providing examples to help explain what he means by “climate change driven by man-made activities” Identify the two examples he gives of these types of activities.",
+    "answers": ["burning fossil fuels", "destroying forests"]
+  },
+  {
+    "question": "What two methods does this lesson offer for making your ideas easy to remember and understand?",
+    "answers": ["simplification and repetition"]
+  },
+  {
+    "question": "To simplify complex ideas, it is important to focus on...",
+    "answers": ["people and ideas"]
+  },
+  {
+    "question": "Which method of simplification is the phrase below used for? suppose...",
+    "answers": ["example"]
+  },
+  {
+    "question": "Which method of simplification is the phrase below used for? ...is like...",
+    "answers": ["analogy"]
+  },
+  {
+    "question": "According to this lesson, which statement is true?",
+    "answers": [
+      "Saying “That’s all,” to conclude sounds lazy, boring and unsatisfying."
+    ]
+  },
+  {
+    "question": "Complete the sentence. After summarizing, it is a good idea to leave your audience with an epiphany. All of the following are techniques for doing so EXCEPT ________________.",
+    "answers": ["asking for comments from the audience"]
+  },
+  {
+    "question": "Complete the sentence. Synthesizing is a way of _________________.",
+    "answers": [
+      "showing how all the ideas within the presentation connect together"
+    ]
+  },
+  {
+    "question": "Complete the sentence. You can state your preference regarding questions from the audience _______________.",
+    "answers": ["during the introduction"]
+  },
+  {
+    "question": "Complete the sentence. One way to anticipate potential questions is to consider ________________.",
+    "answers": ["the opposing argument to your central argument"]
+  },
+  {
+    "question": "Complete the sentence. When an audience member asks a question, it is a good idea to _______________.",
+    "answers": ["pause briefly to allow yourself time to think"]
+  },
+  {
+    "question": "True or false? According to the guidelines in this lesson, it is unacceptable to rely on any sort of notes while presenting.",
+    "answers": ["False"]
+  },
+  {
+    "question": "This lesson mentions that using an outline may be beneficial because it allows the speaker to be ____________.",
+    "answers": ["flexible"]
+  },
+  {
+    "question": "When using a slideshow, it is important to __________ right before the presentation begins.",
+    "answers": ["preload it on the computer"]
+  },
+  {
+    "question": "Which of the following statements is true about speakers?",
+    "answers": [
+      "We tend to speak faster in conversation than in formal presentations."
+    ]
+  },
+  {
+    "question": "In this lesson, it is mentioned that one may speak faster when he/she is excited or slower when conveying something serious. What is true with regards to this idea?",
+    "answers": [
+      "It may be appropriate for a presenter to vary the speed of his/her speech if it serves a communicative purpose."
+    ]
+  },
+  {
+    "question": "Regarding “shouting” at your audience, which statement is true?",
+    "answers": ["Shouting is never appropriate during a presentation."]
+  },
+  {
+    "question": "The following video clips illustrate common verbal and nonverbal blunders novice presenters may make. Identify the shortcoming of the presenter in each clip. Notice how these behaviors might distract the audience, and remember to avoid making these blunders when you present! Question 1 Clip Play Video",
+    "answers": ["The presenter points at the audience."]
+  },
+  {
+    "question": "Question 4 Clip Play Video",
+    "answers": ["The presenter uses too many fillers."]
+  },
+  {
+    "question": "True or false? Making an outline will help to alleviate nerves during the presentation.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? Having a cup of coffee or a some candy before the presentation will give you more energy and help you to make it through the presentation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? Do not arrive early to the presentation. You will feel awkward and you may have to talk to the audience before it’s time.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #2. Tip #2: Use high-contrast ______.",
+    "answers": ["colors"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #4. Tip #4: Add ______ evidence.",
+    "answers": ["visual"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #6. Tip #6: Don’t ______ to yourself.",
+    "answers": ["talk"]
+  },
+  {
+    "question": "What is co presenting?",
+    "answers": ["Presenting with one or more companions."]
+  },
+  {
+    "question": "What should the other presenter do while one presenter is speaking?",
+    "answers": ["stand out of the way but listen and watch"]
+  },
+  {
+    "question": "If co-presenters want to convince the audience of the validity of their opinion, what is their aim?",
+    "answers": ["to persuade"]
+  },
+  {
+    "question": "True or false? If you digitally create a poster with software like PowerPoint, print every item on a separate slide.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? When digitally generating a poster with software like PowerPoint or Photoshop, add colorful graphics in the borders.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? If most of your content is not laid out neatly in columns, add arrows or numbers to each section.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In which area does this poster need improvement?",
+    "answers": ["Text style", "Flow indicators"]
+  },
+  {
+    "question": "How much white (empty) space is there?",
+    "answers": ["Too much"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To ______ the main ideas of a presentation",
+    "answers": ["summarize"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To cover information that you didn’t have enough ______ to give",
+    "answers": ["time"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To present data that is too ______ for other means",
+    "answers": ["complicated"]
+  },
+  {
+    "question": "Why should you limit a handout to 1-2 pages?",
+    "answers": ["Too much information will not help the audience."]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 1A 4.4handouts1a.pdf PDF File Handout 1C 4.4handouts1c.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["1A"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 2A 4.4handouts2a.pdf PDF File Handout 2B 4.4handouts2b.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["2B"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 3A 4.4handouts3a.pdf PDF File Handout 3C 4.4handouts3c.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["3A"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 4B 4.4handouts4b.pdf PDF File Handout 4C 4.4handouts4c.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["4B"]
+  },
+  {
+    "question": "Listen to this clip and answer the questions that follow. Question 1 Clip Play Video How did she get the audience’s involvement?",
+    "answers": ["They raised their hands."]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? Hello, everyone. Today, I’m going to tell you about the art of knitting.",
+    "answers": ["greeting"]
+  },
+  {
+    "question": "When preparing a speech, what should you do first?",
+    "answers": ["Understand the task instructions."]
+  },
+  {
+    "question": "Approximately how fast should a presenter speak?",
+    "answers": ["130 words per minute"]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 1 Clip Play Video To help the audience understand the symptoms of aphasia, the speaker...",
+    "answers": ["gives an example"]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 2 Clip Play Video In this excerpt, the presenter is avoiding ________________ by giving credit to the original source of the story.",
+    "answers": ["plagiarism"]
+  },
+  {
+    "question": "As a presenter, you do not want to...",
+    "answers": ["lose your audience"]
+  },
+  {
+    "question": "Listen to the clip below and answer the question that follows. Question 3 Clip Play Video In this excerpt, the speaker defines a key term. Listen for the phrase he uses that indicates he will be giving a definition. Complete the sentence with the appropriate phrase: “My interest was around this part, the Sierra Nevada. It’s an asymmetrical mountain range, ____________________________________ if I were to split it in half, both of those sides wouldn’t be the same.”",
+    "answers": ["meaning that"]
+  },
+  {
+    "question": "Complete the sentence. In your conclusion, the summary of your main points should be ________________.",
+    "answers": ["brief"]
+  },
+  {
+    "question": "This lesson mentions two important modes of delivery. What are they? (Choose two.)",
+    "answers": ["script", "outline"]
+  },
+  {
+    "question": "What strategy is mentioned in this lesson as a way of keeping your notecards properly ordered?",
+    "answers": ["numbering them"]
+  },
+  {
+    "question": "About how many words per minute does an effective presenter speak?",
+    "answers": ["130"]
+  },
+  {
+    "question": "The following video clips illustrate common verbal and nonverbal blunders (mistakes) novice presenters may make. Identify the shortcoming of the presenter in each clip. Notice how these behaviors might distract the audience, and remember to avoid making these blunders when you present! Question 1 Clip Play Video",
+    "answers": ["The presenter seems to lack confidence."]
+  },
+  {
+    "question": "Question 2 Clip Play Video",
+    "answers": [
+      "The presenter is moving her legs in a distracting way.",
+      "Valid"
+    ]
+  },
+  {
+    "question": "Question 3 Clip Play Video",
+    "answers": [
+      "The presenter has her back to the audience.",
+      "Deductive inference",
+      "Invalid"
+    ]
+  },
+  {
+    "question": "Imagine you offer an epiphany by saying, “This brings us back to the question I asked you at the beginning of my presentation.” In this case, what technique would you be using?",
+    "answers": ["tieback"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #1. Tip #1: Choose a ______ template.",
+    "answers": ["simple"]
+  },
+  {
+    "question": "True or false? Co presenting is much more difficult than presenting alone.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In what kind of organization do co-presenters organize the content of their presentation through showing their audience rather than telling them?",
+    "answers": ["demonstration"]
+  },
+  {
+    "question": "True or false? You do not want to have visual aids that will distract your audience from you, the star of the presentation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To illustrate a ______ point in more detail",
+    "answers": ["particular"]
+  },
+  {
+    "question": "What should be at the bottom of the handout?",
+    "answers": ["Works cited"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 1A 4.4handouts1a.pdf PDF File Handout 1B 4.4handouts1b.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["1A"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 2B 4.4handouts2b.pdf PDF File Handout 2C 4.4handouts2c.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["2B"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 4A 4.4handouts4a.pdf PDF File Handout 4B 4.4handouts4b.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["4B"]
+  },
+  {
+    "question": "True or false? The Mission Statement is explains how the university, school, and program will meet their goals in the next 5 years.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The speaker mentioned that some schools offer a “thesis Masters and a non-thesis Masters”. What idea was he supporting when he said this?",
+    "answers": ["Curriculum"]
+  },
+  {
+    "question": "The speaker said “I’m not talking about if they have a gym or a library” as he discussed what topic that could be included in the Research Paragraph?",
+    "answers": ["Facilities"]
+  },
+  {
+    "question": "Which statement do you think the speaker would probably NOT agree with?",
+    "answers": [
+      "You should not use your own positive qualities in the research paragraph.",
+      "Following exactly what your parents tell you to do is the best way to become a scientist."
+    ]
+  },
+  {
+    "question": "What is the purpose of the Research Paragraph?",
+    "answers": [
+      "To show how the student and the university are good for each other"
+    ]
+  },
+  {
+    "question": "You should have already listened to the Note-Taking Assignment 1 lecture. Use your notes to answer the questions. What are the main ideas of the lecture?",
+    "answers": [
+      "Qualities of a lecture and a learner that make lectures difficult"
+    ]
+  },
+  {
+    "question": "True or false? The topic of the lecture is characteristics of a learner that make comprehension of a lecture difficult.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is NOT an example of how a speaker “delivers” a lecture?",
+    "answers": ["How clearly the examples support the main idea"]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 2 lecture, use your notes to answer the following questions. What would be a good way to signal a “definition” in your lecture notes?",
+    "answers": ["Def"]
+  },
+  {
+    "question": "When should you fill in the section at the bottom of the page when using a Cornell Notes template?",
+    "answers": ["after the lecture"]
+  },
+  {
+    "question": "Which of the following topics will be presented third in the class?",
+    "answers": ["the foundations of General Relativity"]
+  },
+  {
+    "question": "Listen to the following TED talk. Take thorough notes using one of the templates you've been given. Then answer all of the questions that follow. Play Video The speaker says he was diagnosed with severe Attention Deficit Disorder (ADD) in the early 80s. This was not a positive diagnosis. How do you know, from the lecture, that it was not positive? (Choose 2 of the following answers.)",
+    "answers": [
+      "The speaker says, “ . . . not a diagnosis that you wanted in the early 80’s”.",
+      "The speaker says, \"People diagnosed with ADD were treated as if they needed to be fixed."
+    ]
+  },
+  {
+    "question": "What is the reason that the speaker told the story of the man he met in the fish market in Panama?",
+    "answers": [
+      "To give an example of how everyone is connected to social media"
+    ]
+  },
+  {
+    "question": "In what order did the speaker list groups of people that understand how important it is to make an emotional connection with people?",
+    "answers": ["Businesses, non-profits, political institutions"]
+  },
+  {
+    "question": "True or false? Using pauses to signal important information is an example of a language clue.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? Language cues signal that a certain kind of information is about to be given.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following ideas do you think the speaker would NOT agree with?",
+    "answers": [
+      "Reviewing your notes for the first time one week after the lecture"
+    ]
+  },
+  {
+    "question": "Listen to the following TED talk titled “Embrace Your Disobedience” by Diego Rosso. Take thorough notes using one of the templates you've been given. Then answer all of the questions that follow. Lecture Clip Play Video How did the speaker get the audience to focus on his topic at the beginning of his presentation?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Why did the speaker tell the story about the student who visited him in his office?",
+    "answers": ["To show how a professor can learn from a student."]
+  },
+  {
+    "question": "Listen to the following clip from the talk and answer the question below. Short Clip Play Video What does the speaker mean?",
+    "answers": [
+      "The speaker will feel successful if his research about bubbles helps someone else to do something great, even if he is not remembered."
+    ]
+  },
+  {
+    "question": "Which of these items from the introduction of a lecture should be put in your notes? Choose all that apply.",
+    "answers": [
+      "the main points if they are mentioned",
+      "the topic of the lecture"
+    ]
+  },
+  {
+    "question": "The questions should guide you in observing important aspects of the introduction. The questions will aim to make sure that you have understood the important content that the professor is trying to communicate. Listen to the lecture clip, and choose the best and most specific answer to each question. Question 1 Clip Play Video Why does Dr. Ferguson think it is important for everyone to learn about Earth System Science?",
+    "answers": [
+      "Because many of the world’s problems are related to Earth System Science"
+    ]
+  },
+  {
+    "question": "What kind of important information is often given in the introduction of a lecture? Choose all that apply.",
+    "answers": ["the organization of the lecture", "the topic of the lecture"]
+  },
+  {
+    "question": "Question 6 Clip Play Video Which kind of information from the introduction does the clip contain? Choose all that apply.",
+    "answers": ["Topic and organization", "Hook"]
+  },
+  {
+    "question": "Listen to the video clip taken from a longer lecture called “The Distracted Mind,” given by Professor Gazzaley. Take notes on your own paper. Do your best to identify the main idea and details from the lecture segment and to write them in indented form as you learned to do in the Main Idea video lecture. Then answer the following questions. Lecture Clip Play Video True or false? The main idea of this lecture is how amazing the brain is.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Professor Gazzaley named the three limitations the beginning, but presented them in a different order. What order did he NAME the 3 limitations of the brain in the beginning of his talk?",
+    "answers": ["attention, working memory, speed"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he mentions the “spotlight” view. What limitation is he describing when he talks about the “spotlight” view?",
+    "answers": ["attention"]
+  },
+  {
+    "question": "The speaker mentioned the statistics that “in India where 17% of the world’s population lives, only has 4% of the world’s fresh water and of that 2⁄3 of it is already polluted and is unfit for human consumption.” What idea do these statistics support?",
+    "answers": [
+      "There is going to be a severe shortage of clean water in the future."
+    ]
+  },
+  {
+    "question": "Which language cues were used in this talk?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "True or false? When the word “smashed” was emphasized, people recalled that cars were going faster and they reported that there was broken glass at the accident, even though in reality there wasn’t.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What cue helps us identify the important information of what Dr. Loftus studies?",
+    "answers": ["longer pauses"]
+  },
+  {
+    "question": "How do you know that the number 300 is an important number to pay attention to? Select all that apply.",
+    "answers": [
+      "The number 300 is repeated twice.",
+      "The number 300 is spoken more slowly.",
+      "The number 300 is spoken in a higher pitch."
+    ]
+  },
+  {
+    "question": "After Dr. Loftus describes three experiments, she uses the following language cue to signal the general conclusion of the studies: “so what these studies are showing is that . . “. What was the general conclusion?",
+    "answers": ["You can change or distort what people remember."]
+  },
+  {
+    "question": "Look at this transcript from part of the video you just watched. Words that are repeated and create parallel structures are underlined. What important point is being made? “In one project in the United States, information has been gathered on 300 innocent people, 300 defendants who were convicted of crimes they didn't do. They spent 10, 20, 30 years in prison for these crimes, and now DNA testing has proven that they are actually innocent. And when those cases have been analyzed, three quarters of them are due to faulty memory, faulty eyewitness memory.”",
+    "answers": [
+      "Innocent people were put in jail because witnesses remembered something that really didn’t happen."
+    ]
+  },
+  {
+    "question": "Directly after Dr. Loftus says “three quarters of them are due to faulty memory”, she uses the phrase “But why?” What information does this language cue signal?",
+    "answers": [
+      "The reason jurors believed the witnesses said things that were not true"
+    ]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 1 Video Clip Play Video What is the purpose of the study?",
+    "answers": [
+      "To find out American’s perception about whether crime is getting better or worse"
+    ]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 4 Video Clip Play Video In which year did Americans feel least concerned about crime in the U.S.?",
+    "answers": ["2005"]
+  },
+  {
+    "question": "Listen to the clip that belongs with each question. Then answer the question that follows. Question 1 Clip Play Video This argument was implied in the lecture: Premise 1: People of equal intelligence ask the same questions about the things they see. Premise 2: The people living 100,000 years ago were as smart as we are. Premise 3: The people living 100,000 years ago saw the same sky we see. Conclusion: Therefore, people living 100,000 years ago asked the same questions about the sky that we ask. Is this argument valid?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Listen to the clip that belongs with each question. Then answer the question that follows. Question 1 Clip Play Video The belief that no one has photographic memory is a:",
+    "answers": ["An inductive inference"]
+  },
+  {
+    "question": "Listen to this clip and answer the questions that follow. Question 4 Clip (This will open in a new window.) Play Video Which phrase does the speaker use to start transitioning from her hook to the topic of the presentation?",
+    "answers": ["Over my last two years..."]
+  },
+  {
+    "question": "True or false? Ebbinhaus's study found that eventually people forget everything when the retention interval is very long.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following are good ways that you can show that you are interested in what your group members have to say? Choose all that apply.",
+    "answers": [
+      "Lean in with your body.",
+      "Nod in agreement with what they are saying.",
+      "Smile as they speak."
+    ]
+  },
+  {
+    "question": "True or false? It is better to speak spontaneously without planning a response in a group discussion so that the conversation does not change direction while you are planning what you want to say.",
+    "answers": ["False"]
+  },
+  {
+    "question": "If you truly believe that “everyone you will ever meet knows something you don’t,” what is the most productive way for you to respond?",
+    "answers": [
+      "To actively seek what you can learn from every person that you meet"
+    ]
+  },
+  {
+    "question": "Complete the sentence. Preparing for an academic discussion is like building a house because ____________________.",
+    "answers": ["for both, you must start by laying the groundwork."]
+  },
+  {
+    "question": "If you’re taking double-entry notes to prepare for a discussion, what should you NOT do?",
+    "answers": ["Take notes only on your personal reaction to the ideas"]
+  },
+  {
+    "question": "What is the purpose of preparing a list of points that you’d like to make during a discussion?",
+    "answers": [
+      "To give you ideas for possible contributions you could make to the discussion"
+    ]
+  },
+  {
+    "question": "Complete the sentence. When you introduce yourself, ____________________.",
+    "answers": ["say your name"]
+  },
+  {
+    "question": "Complete the sentence. An example of clearly addressing the question is when the topic says, “Discuss the reasons for the high cost of university tuition,” and the group starts talking about _________________.",
+    "answers": ["what causes universities to raise tuition"]
+  },
+  {
+    "question": "Complete the sentence. An academic discussion should be ___________________.",
+    "answers": [
+      "like riding the rapids in a raft with everyone working equally to navigate the waters"
+    ]
+  },
+  {
+    "question": "Choose the word that completes the collocation. intrinsic ____________",
+    "answers": ["value"]
+  },
+  {
+    "question": "When you elaborate, you ________________.",
+    "answers": ["add more information"]
+  },
+  {
+    "question": "What are some ways to elaborate in a discussion?",
+    "answers": ["By giving analogies, hypotheticals, facts, and anecdotes"]
+  },
+  {
+    "question": "Which is NOT a good sentence frame for encouraging other people to elaborate in a discussion?",
+    "answers": ["Can you please try to be more succinct?"]
+  },
+  {
+    "question": "How would you characterize this quote from an academic conversation? “You might think that there’s plenty of water in the world, but in fact, only 3% of the world’s water is freshwater. People believe that the world has an endless supply of water, but most of it is saltwater.” It is ______________.",
+    "answers": ["repetitive"]
+  },
+  {
+    "question": "In a discussion about literacy, someone cites the percentage of people who can’t read in the U.S. This is an example of a ____________.",
+    "answers": ["a statistic"]
+  },
+  {
+    "question": "Which of the following are considered lower level thinking? Choose all that apply.",
+    "answers": ["knowledge", "comprehension"]
+  },
+  {
+    "question": "Which of the following are critical thinking skills? Choose all that apply.",
+    "answers": [
+      "to support one’s ideas with related evidence",
+      "to apply what was learned to new situations",
+      "to think of different possibilities"
+    ]
+  },
+  {
+    "question": "True or false? When critical thinking is integrated into a discussion group, the concepts discussed in the group will be remembered longer than if they had only used lower-level thinking skills.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What level of thinking does the following question represent? “What, in our opinion, is the best way to educate the population about the dangers of genetically modified foods?”",
+    "answers": ["evaluation"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. anecdotal _____________",
+    "answers": ["evidence"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. pivotal ___________",
+    "answers": ["role"]
+  },
+  {
+    "question": "Which of the following is an appropriate statement to get the discussion back on track?",
+    "answers": [
+      "“We are running out of time and we haven’t answered all of the question yet.”"
+    ]
+  },
+  {
+    "question": "What should you do if someone is acting bored or just not saying anything?",
+    "answers": ["Invite that person to participate."]
+  },
+  {
+    "question": "Which of the following are mentioned as important to do when constructing a conversation? Choose all that apply.",
+    "answers": [
+      "Accomplishing the assigned task",
+      "Gathering background knowledge of the conversation topic"
+    ]
+  },
+  {
+    "question": "Which concept of constructing a conversation is illustrated by the following? (Match the parts of the analogy.) the blueprint",
+    "answers": [
+      "The task guides the development of the topic and provides focus for all of the group members."
+    ]
+  },
+  {
+    "question": "Which statement is true for a discourse community?",
+    "answers": [
+      "Disagreement can lead to a better conversation--if it’s done the right way."
+    ]
+  },
+  {
+    "question": "Choose the two words that complete the sentence correctly. To keep a discussion collaborative--not confrontational--you need to be _________ and use _________.",
+    "answers": ["logical; evidence"]
+  },
+  {
+    "question": "Of these phrases of disagreement, which will probably help your conversation partner to save face?",
+    "answers": ["I see your point, but I can’t agree."]
+  },
+  {
+    "question": "Of these phrases of disagreement, which will be least likely to add to a collaborative feeling in your discussion group?",
+    "answers": ["Seriously?"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. become _____________",
+    "answers": ["the focus"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. vast ______________",
+    "answers": ["majority"]
+  },
+  {
+    "question": "Synthesis in a discussion involves all of the following elements except _____________.",
+    "answers": [
+      "including every idea mentioned during the discussion in the conclusion"
+    ]
+  },
+  {
+    "question": "When synthesizing, you can pull together information from _______________.",
+    "answers": ["all of the above"]
+  },
+  {
+    "question": "To form a synthesis of ideas at the end of a discussion, you should ______________.",
+    "answers": ["allow for a little time to reflect"]
+  },
+  {
+    "question": "Which of the following is not essential, according to this lesson, when ending a group discussion?",
+    "answers": ["being sure to use sentence frames"]
+  },
+  {
+    "question": "Read the following statements from a discussion on what we can personally do to combat population growth. - “We need to be more mindful of our consumption of natural resources, such as taking shorter showers.” - “Do think that really helps? That seems like a drop in the bucket. If I take a shorter shower, it is not going to affect the people in India.” - “I agree. Even if you do these things, not everyone will. I think what we need to do is to make other people aware of the problem instead of just working on yourself.” - “I personally think that population growth, environmental issues, and poverty are all related to education. Education is the solution to these problems. Education will help people make better decisions that will impact the negative effect people have on the earth and how we get along with each other.” What is the best synthesizing statement below for the the ideas above?",
+    "answers": [
+      "Although being mindful of our personal usage of natural resources is a good thing to do, it will not really make much of an impact on population growth. We need to educate and make people aware of the problem."
+    ]
+  },
+  {
+    "question": "True or false? An action point is the task that is assigned to an individual in the group as a result of the discussion.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does the following image represent in a a conversation?",
+    "answers": [
+      "Be sure to synthesize your ideas throughout your discussion and again at the end."
+    ]
+  },
+  {
+    "question": "Choose the word that completes the collocation. effective _____________",
+    "answers": ["policy"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. enormous _____________",
+    "answers": ["impact"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. give ___________",
+    "answers": ["consideration"]
+  },
+  {
+    "question": "Why would you want to ask your conversation partners to elaborate? Choose all that apply.",
+    "answers": [
+      "So that you can have enough information to respond to",
+      "So that you can truly understand what they’re trying to say"
+    ]
+  },
+  {
+    "question": "How would you characterize this quote from an academic conversation? “Water scarcity is a serious problem that affects the entire world. We must do something about it.” It is _______________.",
+    "answers": ["lacking in specificity"]
+  },
+  {
+    "question": "How would you characterize this quote from an academic conversation? “We will see an increase in the scarcity of water in the near future. In fact, two-thirds of the world’s population may experience water shortages by the year 2025.” It is _____________.",
+    "answers": ["well elaborated"]
+  },
+  {
+    "question": "In a discussion about urban sprawl, someone tells a story about growing up in the countryside. This is an example of _____________.",
+    "answers": ["an anecdote"]
+  },
+  {
+    "question": "True or false? When critical thinking is integrated into a discussion group, the concepts discussed in the group can be applied more easily to different situations than if they had only used lower-level thinking skills.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following phrases does NOT require deeper, or critical, thinking?",
+    "answers": ["What did the professor say about . . . .?"]
+  },
+  {
+    "question": "True or false? It is more important what you say rather than how you say it.",
+    "answers": ["False"]
+  },
+  {
+    "question": "If you want to remember a new word to use in a discussion, which of the following is most important to do?",
+    "answers": ["Use the word in your own example sentence"]
+  },
+  {
+    "question": "Complete the sentence. To get ready for your discussion, you should do all of the following EXCEPT ________________.",
+    "answers": ["have your strategy for how to win the conversation ready"]
+  },
+  {
+    "question": "Complete the sentence. A common mistake in starting an academic conversation happens when _________________.",
+    "answers": ["not everyone understands the discussion topic clearly"]
+  },
+  {
+    "question": "Complete the sentence. During your discussion it is good to be aware of all except _________________.",
+    "answers": ["what is happening on your phone"]
+  },
+  {
+    "question": "What should you do if there is disagreement among discussion participants?",
+    "answers": ["Keep calm and respectful. Disagreement is normal."]
+  },
+  {
+    "question": "Which concept of constructing a conversation is illustrated by the following? (Match the parts of the analogy.) the foundation of a house",
+    "answers": [
+      "A solid discussion relies and rests on background knowledge and understanding the value of the conversation."
+    ]
+  },
+  {
+    "question": "Complete the sentence. _________________ adds to a conversation because hearing a diversity of opinions helps you to develop your own ideas.",
+    "answers": ["Disagreement"]
+  },
+  {
+    "question": "If you concede a point, it means that you are basically saying ____________.",
+    "answers": ["“I agree with part of what you said.”"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. conventional ____________",
+    "answers": ["wisdom"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. basic ______________",
+    "answers": ["premise"]
+  },
+  {
+    "question": "It is important that the final synthesis be logical and organized. The term for this is ______________.",
+    "answers": ["coherent"]
+  },
+  {
+    "question": "What needs to be done to get the most out of the conversation, according to the video lesson? Choose all that apply.",
+    "answers": [
+      "Organize the ideas that were discussed in logical groups so that they are easier to remember.",
+      "Decide on next steps and action points.",
+      "Self-assess to see if you accomplished the group task."
+    ]
+  },
+  {
+    "question": "True or False? The best academic discussion involves everyone contributing their ideas, opinions, and experiences so that new perspectives and ideas can form.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? As long as everyone can hear each other’s voice clearly, it does not matter if the group members can see each other’s faces or not.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False? A good discussion never has time where no one is speaking.",
+    "answers": ["False"]
+  },
+  {
+    "question": "When you start your discussion, you should ________________. (Choose two answers.)",
+    "answers": [
+      "clear the desk tops of unnecessary items",
+      "see the discussion participants as teammates",
+      "introduce yourselves",
+      "make sure everyone understands the topic to be discussed"
+    ]
+  },
+  {
+    "question": "Look at the picture of a group discussion. Then look at the problems and solutions listed below. Choose one problem and one solution that match the picture.",
+    "answers": [
+      "Solution: Organize yourselves so that all participants are on an equal level and can see each other easily.",
+      "Problem: Students are not in a position to talk because their backs are to each other.",
+      "Solution: Come to the conversation with an open mind and collaborative attitude.",
+      "Problem: Students’ body language shows an unwillingness to participate."
+    ]
+  },
+  {
+    "question": "After you watch the two improved videos of the discussion on water scarcity, answer the following questions about David’s academic conversation skills. True or false? David is prepared for the discussion.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Watch this video clip. In what ways is it apparent that David is listening to understand in this short video clip? Choose all that apply. Play Video",
+    "answers": [
+      "He nods his head.",
+      "He says “yeah”, “hmmm” and “right”.",
+      "He has good eye contact.",
+      "He makes a related comment connect to what was said.",
+      "He leans in with his body."
+    ]
+  },
+  {
+    "question": "Watch this video of David asking a question. What higher level thinking skill is David challenging his group members to perform? Play Video",
+    "answers": ["evaluation"]
+  },
+  {
+    "question": "In what ways can David use his voice and gestures more dynamically? He could _______________.",
+    "answers": ["all of the above"]
+  },
+  {
+    "question": "What is an anecdote?",
+    "answers": ["a brief story"]
+  },
+  {
+    "question": "What kind of example for supporting your ideas is this? My friend had her computer hacked when she clicked on a link in an email.",
+    "answers": ["anecdote"]
+  },
+  {
+    "question": "What kind of example for supporting your ideas is this? A good essay is like a hamburger, with the bun being the introduction and conclusion....",
+    "answers": ["analogy"]
+  },
+  {
+    "question": "Hypotheticals usually begin with all of the following except ____________.",
+    "answers": ["I know a man who . . ."]
+  },
+  {
+    "question": "Which of the following are considered higher level thinking? Choose all that apply.",
+    "answers": ["evaluation", "synthesis", "analysis"]
+  },
+  {
+    "question": "What level of thinking requires learners to bring different ideas together to form something totally new?",
+    "answers": ["synthesis"]
+  },
+  {
+    "question": "What level of thinking requires learners to state an opinion and support it with evidence?",
+    "answers": ["evaluation"]
+  },
+  {
+    "question": "What level of thinking does the following question represent? “Is it better to have lots of GM food available to feed more people or to limit GM food in order to protect people from unknown health risks?”",
+    "answers": ["evaluation"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of genetically modified foods. Then answer the question that follows. Play Video When Chad asks, “What do you mean by ‘beneficial’?” Troy answers, “Is it good? Like, do you think it is good?” Why is Troy’s response not helpful in motivating the academic discussion?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Watch the video clip below of a group discussing the following question: Do you think that GM foods are good for society? Then answer the question below. Play Video Which of the following phrases communicates that there is one clear and correct answer?",
+    "answers": ["I can tell you certainly that they are good for society."]
+  },
+  {
+    "question": "Watch the video clip below of a group discussing the following question: Do you think that GM foods are good for society? Then answer the question below. Play Video True or false? Jackie thinks that GM foods are good for society.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of genetically modified foods. Then answer the question that follows. Play Video In this video clip, the group members are analyzing the information given to them by the professor. Which of the statements below is the most logical conclusion based on the given information? Given information: “In 50 countries, there are significant restrictions or outright bans on GMOs.”",
+    "answers": [
+      "There must be a reason why so many countries do not support GM foods. We should study the risks more carefully."
+    ]
+  },
+  {
+    "question": "True or false? If someone isn’t participating in the discussion you should leave that person alone.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? A person who doesn’t say anything during the discussion has an equally bad effect as someone who talks too much.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? Disagreement among participants can improve a discussion.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Decide if the statement below is appropriate for the given situation or not. Situation: Someone is looking bored and not participating. You say to them: “If you're bored, you can leave.”",
+    "answers": ["No, it's not appropriate."]
+  },
+  {
+    "question": "In the video lecture, which of the following are mentioned as important to do when constructing a conversation? Choose all that apply.",
+    "answers": [
+      "Analyzing, synthesizing, or evaluating a comment made by your group",
+      "Being motivated by understanding why the discussion is important",
+      "Preventing your group from having a conversation on an irrelevant topic",
+      "Doing the assigned homework related to the topic",
+      "Referencing your partner’s comment as you share your own idea"
+    ]
+  },
+  {
+    "question": "True or false? Background knowledge is attained only by the homework that the teacher assigns on the topic.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video Which quote from this clip shows that the conversation partners are trying to honor and build on their partners’ earlier ideas?",
+    "answers": [
+      "“I think that’s a really interesting point and something I hadn’t thought about before.”"
+    ]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video At the end of the clip, Chad says, “Would we agree that water scarcity is the biggest problem of population growth?” Why does he ask this?",
+    "answers": [
+      "To get the group back on track and focused on the discussion objectives"
+    ]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video Later in the clip, how does Kevin show that he partially agrees with Dana?",
+    "answers": ["“I agree in a way, but not completely.”"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video Which is a true statement about this part of the discussion?",
+    "answers": ["Everyone agrees with Dana’s point."]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video When Cameron is speaking, how do Dana and Kevin show that they’re listening attentively?",
+    "answers": ["A, B, and C"]
+  },
+  {
+    "question": "Choose the word below that matches this definition: the pulling together of data from different sources to support one’s ideas and combining all the information to create something new",
+    "answers": ["synthesis"]
+  },
+  {
+    "question": "Choose the word below that matches this definition: logical and organized",
+    "answers": ["coherent"]
+  },
+  {
+    "question": "True or false? Everyone in a discussion must agree with each other at the end.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Read the following statements from a discussion on what the students think are the biggest problems of population growth. - “Water scarcity is the biggest problem of population growth. There is a serious lack of access to fresh water.” - “I think that future wars won’t be fought over oil but water.” - “Lack of education is one of the biggest problems of population growth. It always comes back to education.“ - “True, lack of education is a big problem of population growth; it can also be part of the solution. “ What is the best synthesizing statement for the ideas above?",
+    "answers": [
+      "While water is the most endangered natural resource, the lack of education fuels not only issues with natural resources but social and economic problems as well."
+    ]
+  },
+  {
+    "question": "Which of the following are sentence frames that would precede a statement of synthesis? Choose all that apply.",
+    "answers": [
+      "Our take-away from this discussion is . . .",
+      "Based on what we have discussed, we should probably . . .",
+      "This discussion has led us on a journey that took us from . . . to . . .",
+      "How can we bring this all together?",
+      "What can we all agree on?",
+      "What is our take-away?",
+      "What is the common denominator in all that we have discussed?",
+      "How can we synthesize our conversation?",
+      "What is the general consensus?"
+    ]
+  },
+  {
+    "question": "True or false? The action points that are discussed at the end of the discussion are the most interesting topics that were brought up.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video This is a good example of an introduction to an academic discussion because:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video A family has an income of less than $30 a month. What kind of poverty is this family experiencing?",
+    "answers": ["Absolute poverty"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video What are some things that the group facilitator does to encourage group participation?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video Which of the following were mentioned as causes of poverty in the video clip? Choose all that apply.",
+    "answers": [
+      "The growing population",
+      "Poor government policy and the poor management of money",
+      "Lack of education"
+    ]
+  },
+  {
+    "question": "True or False? The best academic discussion is where the smartest and most experienced person in the group shares his/her knowledge and the group members ask relevant questions.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is important that the group discussion stays on task and on topic. Which of the following are acceptable ways to refocus the group back on the goal of the discussion? Check all that apply.",
+    "answers": [
+      "Say “I think we are getting a little off topic.”",
+      "Say “Let’s get back on track, everyone.”",
+      "Say “We are running short on time, so let’s get back to the main point.”"
+    ]
+  },
+  {
+    "question": "As David began the discussion, which of the following did he do?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which statements describe how David communicates clearly? Choose all that apply.",
+    "answers": [
+      "He uses sentence frames and language cues.",
+      "He reads listeners’ gestures and adjusts accordingly."
+    ]
+  },
+  {
+    "question": "What kind of example for supporting your ideas is this? What if there weren’t enough water in developed nations now...?",
+    "answers": ["hypothetical"]
+  },
+  {
+    "question": "What level of thinking requires learners to break down material into smaller parts in order to understand the structure of the concept better?",
+    "answers": ["analysis"]
+  },
+  {
+    "question": "Watch the video clip below of a group discussing the following question: Do you think that GM foods are good for society? Then answer the question below. Play Video Chad cannot decide if GM foods are beneficial to society. According to his response, what would help him make a decision?",
+    "answers": ["More research on the effects of GM foods on the human body"]
+  },
+  {
+    "question": "True or false? If someone is talking too much, you should let that person continue as long as they have ideas.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Understanding the value of a group discussion can motivate you to come prepared and to fully participate in the discussion. Which of the following questions can help you reflect on the value of the discussion?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "What are two benefits of having background knowledge of the discussion topic, according to the video? (Select two answers.)",
+    "answers": [
+      "You will be able to keep the discussion on focus because you will have an idea of the scope of the discussion.",
+      "You will be able to contribute more insightful information for your group members to think about."
+    ]
+  },
+  {
+    "question": "Decide if the statement below is appropriate for the given situation or not. Situation: Someone is talking too much. You say to them: “That’s interesting, but we haven’t heard from everyone yet.”",
+    "answers": ["Yes, it's appropriate."]
+  },
+  {
+    "question": "All of the questions in this activity refer to the following situation: Megan and Brendan are having a discussion in an Intro to Music class. The topic of the discussion is \"Which musical genres will be most relevant to future generations of music fans?\" For each question, click on the Statement link. Then listen to each answer response and pay attention to how the other speaker disagrees with the statement. Choose the statement that sounds more collaborative, or polite, and less confrontational. Statement 1 Which response below is less confrontational?",
+    "answers": ["Response B"]
+  },
+  {
+    "question": "Statement 2 Which response below is less confrontational?",
+    "answers": ["Response A"]
+  },
+  {
+    "question": "Statement 3 Which response below is less confrontational?",
+    "answers": ["Response B"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video After Dana has made a point, Chad says, “I see that, but do you think that really helps?” Why doesn’t he just say, “Do you think that really helps?”",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video How does Dana defend her point in a collaborative and polite manner?",
+    "answers": [
+      "“That’s true and I see where all of you are coming from, but I still stand firm in my belief.”"
+    ]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video At the end of the clip, how could Chad--the blond guy--improve his body language in order to create a better sense of community with his group members?",
+    "answers": ["He could give everyone a high five after they speak."]
+  },
+  {
+    "question": "Choose the word below that matches this definition: general agreement among group members",
+    "answers": ["consensus"]
+  },
+  {
+    "question": "Choose the word below that matches this definition: short, complete and to the point",
+    "answers": ["concise"]
+  },
+  {
+    "question": "True or false? Summary and synthesis are essentially the same thing.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video A family of four lives in a one-bedroom apartment and can usually pay rent each month, but only has money to eat one healthy meal a day. What kind of poverty is this family experiencing?",
+    "answers": ["Extreme poverty"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video A family has enough money to pay rent each month, to buy clothes to wear, and to eat three balanced meals a day, but they live in a bad area of town. They can only buy used clothing, and they can’t afford to eat out in restaurants. What kind of poverty is this family experiencing?",
+    "answers": ["Relative poverty"]
   }
 ]

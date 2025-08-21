@@ -1073,7 +1073,9 @@
     "question": "To avoid plagiarism, which of the following should you do? Check all that apply.",
     "answers": [
       "Use quotations on all borrowed phrases and sentences.",
-      "Cite the source for any borrowed words or ideas."
+      "Cite the source for any borrowed words or ideas.",
+      "Cite the source either in an attribution or in parentheses at the end of the sentence.",
+      "Put quotation marks around words that I copy exactly from the source."
     ]
   },
   {
@@ -1145,5 +1147,61 @@
     "answers": [
       "Use only the important part of the quote and blend it with my own words."
     ]
+  },
+  {
+    "question": "Use this link to the Purdue Owl's MLA page to help you answer the following question. You will have to click on one of the tabs on the left menu of the webpage to find information on the Formatting and Style Guide. Purdue Owl MLA Which of the following is optional in MLA formatting?",
+    "answers": ["date of access"]
+  },
+  {
+    "question": "True or False? EasyBib always creates a correctly formatted Works Cited entry when you give it the correct information.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is a good way to make your academic essays longer?",
+    "answers": [
+      "Use some different types of paragraphs to add more body paragraphs."
+    ]
+  },
+  {
+    "question": "Argument essays should have at least how many reasons to support the argument?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Which sentence below has a correctly formatted quotation (using MLA format)? (Be sure to check the punctuation carefully. Where should the period go?)",
+    "answers": [
+      "There is more for Samsung to worry about because it \"has been facing stiff competition for its premium smartphones from rival Apple” (Becker)."
+    ]
+  },
+  {
+    "question": "Which of the following are types of paragraphs (modes of discourse) that you can use to help develop an argument essay?",
+    "answers": ["description, argument, compare/contrast, narrative"]
+  },
+  {
+    "question": "What type of body paragraph is this?",
+    "answers": ["description"]
+  },
+  {
+    "question": "Which of the following are features of an advanced argument essay? Check all that apply.",
+    "answers": [
+      "It uses outside sources to support the argument.",
+      "It uses a variety of paragraph types to develop the argument."
+    ]
+  },
+  {
+    "question": "What do you have to remember to do when you use an outside source in your academic essays? Check all that apply.",
+    "answers": [
+      "Cite the source.",
+      "Integrate or blend the quoted words with your own words.",
+      "Use quotation marks if copying words.",
+      "Use correct formatting, such as MLA."
+    ]
+  },
+  {
+    "question": "True or False? Citing sources any time you borrow words or ideas from an outside source will help you avoid trouble in American universities.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which citation format are you learning to use in this course?",
+    "answers": ["MLA (Modern Language Association)"]
   }
 ]

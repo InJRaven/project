@@ -1,6 +1,7 @@
 (() => {
   const SCRIPT_NAME = "CheckQuiz";
 
+  // Chặn chạy song song nhiều script
   if (
     (window as any)._quizScriptRunning &&
     (window as any)._quizScriptRunning !== SCRIPT_NAME
@@ -12,6 +13,13 @@
   }
 
   (window as any)._quizScriptRunning = SCRIPT_NAME;
+
+  // Khởi tạo kho observer (nếu chưa có)
+  if (!(window as any)._quizScriptObservers) {
+    (window as any)._quizScriptObservers = [];
+  }
+
+  // Dọn dẹp cờ khi rời trang
   window.addEventListener("beforeunload", () => {
     (window as any)._quizScriptRunning = null;
   });
@@ -24,6 +32,7 @@
   const normalizeText = (text: string | null): string => {
     if (text == null) return "";
     return text
+      .replace(/Current Time\s*\d+:\d+\/\d+:\d+\s*Loaded:\s*\d+(\.\d+)?%/gi, "")
       .replace(/\uFEFF/g, "")
       .replace(
         /[\u200B-\u200D\u2060\u200E\u200F\u061C\u202A-\u202E\u2066-\u2069]/g,
@@ -46,7 +55,6 @@
       const found = Array.from(document.querySelectorAll(selector)).filter(
         (el) => (el as HTMLElement).offsetHeight > 0
       );
-
       if (found.length > 0) return resolve(found);
 
       const observer = new MutationObserver(() => {
@@ -62,7 +70,9 @@
       observer.observe(document.body, { childList: true, subtree: true });
 
       setTimeout(() => {
-        observer.disconnect();
+        try {
+          observer.disconnect();
+        } catch {}
         reject(new Error(`⏰ Timeout ${time}ms: Không tìm thấy ${selector}`));
       }, time);
     });
@@ -80,40 +90,94 @@
         '[data-testid^="part-Submission_"]'
       )) as HTMLElement[];
 
-      for (const item of talkeQuestionFromCousera) {
+      for (let idx = 0; idx < talkeQuestionFromCousera.length; idx++) {
+        const item = talkeQuestionFromCousera[idx];
+
+        // Tìm câu hỏi trong data
         const matchedQuestion = data.find((dt) =>
           containsKeyPhrase(item.innerText, dt.question)
         );
+
         if (!matchedQuestion) {
-          console.warn(
-            "⚠️ Không tìm thấy câu hỏi khớp:",
+          console.error(
+            `⚠️ [Q${idx + 1}] Không tìm thấy câu hỏi khớp:`,
             normalizeText(item.innerText)
           );
           continue;
         }
-        const inputs = Array.from(item.querySelectorAll("input"));
-        for (const answer of matchedQuestion.answers) {
-          for (const i of inputs) {
-            const takeAnswerFromWebsite = i.closest("label")?.innerText;
-            if (!takeAnswerFromWebsite) continue;
 
-            const isMatch =
-              normalizeText(takeAnswerFromWebsite) === normalizeText(answer);
-            if (isMatch) {
-              console.log("Answer:", normalizeText(takeAnswerFromWebsite));
-            }
+        const inputs = Array.from(
+          item.querySelectorAll("input")
+        ) as HTMLInputElement[];
+
+        // Chuẩn hóa đáp án theo data
+        const normalizedAnswers = matchedQuestion.answers.map((a) =>
+          normalizeText(a)
+        );
+
+        // Lấy các label của input.checked hiện tại
+        const checkedLabelsNormalized: string[] = inputs
+          .filter((inp) => inp.checked)
+          .map((inp) => normalizeText(inp.closest("label")?.innerText || ""))
+          .filter((t) => t.length > 0);
+
+        // Log các đáp án match (để bạn thấy hệ thống đang khớp gì)
+        for (const i of inputs) {
+          const labelText = normalizeText(i.closest("label")?.innerText || "");
+          if (!labelText) continue;
+          if (normalizedAnswers.includes(labelText)) {
+            console.log(
+              `✅ [Q${idx + 1}] Candidate match in data:`,
+              labelText,
+              i.checked ? "(checked)" : ""
+            );
           }
+        }
+
+        // Kiểm tra: có input.checked nào trùng với đáp án trong data không?
+        const hasCheckedMatch = checkedLabelsNormalized.some((lbl) =>
+          normalizedAnswers.includes(lbl)
+        );
+
+        if (!hasCheckedMatch) {
+          // THỎA ĐIỀU KIỆN YÊU CẦU: Câu hỏi có trong data nhưng không có đáp án dựa theo input.checked
+          console.warn(
+            `⚠️ [Q${
+              idx + 1
+            }] Câu hỏi có trong data nhưng không có đáp án nào (theo input.checked) trùng với data.`,
+            {
+              questionFromData: normalizeText(matchedQuestion.question),
+              expectedAnswers: normalizedAnswers,
+              checkedLabels: checkedLabelsNormalized,
+            }
+          );
         }
       }
     } catch (err) {
       console.error("Lỗi khi chọn đáp án:", err);
     } finally {
+      // Dọn dẹp observer (nếu còn)
+      try {
+        const list: MutationObserver[] =
+          (window as any)._quizScriptObservers || [];
+        list.forEach((ob) => {
+          try {
+            ob.disconnect();
+          } catch {}
+        });
+        (window as any)._quizScriptObservers = [];
+      } catch {}
       (window as any)._quizScriptRunning = null;
     }
   };
 
+  // Gỡ listener cũ nếu có
   if ((window as any)._checkQuizListener) {
-    chrome.runtime.onMessage.removeListener((window as any)._checkQuizListener);
+    try {
+      chrome.runtime.onMessage.removeListener(
+        (window as any)._checkQuizListener
+      );
+    } catch {}
   }
 
   // ===== Tạo listener mới =====
@@ -132,13 +196,6 @@
   chrome.runtime.onMessage.addListener((window as any)._checkQuizListener);
 
   // Dọn dẹp khi rời trang
-  // window.addEventListener("beforeunload", () => {
-  //   chrome.runtime.onMessage.removeListener(
-  //     (window as any)._takeQuizzListener
-  //   );
-  //   delete (window as any)._takeQuizzListener;
-  //   delete (window as any)._quizScriptRunning;
-  // });
   window.addEventListener("beforeunload", () => {
     const fn = (window as any)._checkQuizListener;
     if (fn) {
@@ -147,6 +204,16 @@
       } catch {}
       delete (window as any)._checkQuizListener;
     }
+    try {
+      const list: MutationObserver[] =
+        (window as any)._quizScriptObservers || [];
+      list.forEach((ob) => {
+        try {
+          ob.disconnect();
+        } catch {}
+      });
+      (window as any)._quizScriptObservers = [];
+    } catch {}
     delete (window as any)._quizScriptRunning;
   });
 })();
