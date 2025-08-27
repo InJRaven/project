@@ -1166,7 +1166,15 @@
     ]
   },
   {
+    "question": "When an organization believes that its employees have a certain amount of talent, and they really can't do much to change it, and that becomes the main measurement of the organization's success, the organization is said to have a Fixed or Growth Organizational Mindset?",
+    "answers": ["Fixed Mindset"]
+  },
+  {
     "question": "Ethics of AI ...",
     "answers": ["requires a paradigm change", "involves different stakeholders"]
+  },
+  {
+    "question": "What is another term for a Growth Organizational Mindset?",
+    "answers": ["Culture of Development"]
   }
 ]

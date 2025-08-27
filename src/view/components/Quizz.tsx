@@ -31,6 +31,7 @@ const Quizz = () => {
     { value: "lab211c", label: "LAB211c" },
     { value: "mkt205c", label: "MKT205c" },
     { value: "mkt208c", label: "MKT208c" },
+    { value: "msm201c", label: "MSM201c" },
     { value: "obe102c", label: "OBE102c" },
     { value: "pmg201c", label: "PMG201c" },
     { value: "prp201c", label: "PRP201c" },
@@ -144,6 +145,24 @@ const Quizz = () => {
       });
     }
   };
+  const handleTakeMissingQuiz = async () => {
+    if (!value) return;
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab.id) {
+      await chrome.scripting.executeScript({
+        target: { tabId: tab.id },
+        files: ["content/takeMissingQuiz.js"],
+      });
+
+      chrome.tabs.sendMessage(tab.id!, {
+        action: "takeMissingQuiz",
+        subject: value,
+      });
+    }
+  };
   const handleSelect = (selected: string) => {
     const newValue = selected === value ? "" : selected;
     setValue(newValue);
@@ -206,7 +225,14 @@ const Quizz = () => {
             onClick={handleTakeQuiz}
             className="bg-blue-500 hover:bg-blue-700 transition-colors"
           >
-            Take Quizz
+            Take All Quizz
+          </Button>
+          <Button
+            size="sm"
+            onClick={handleTakeMissingQuiz}
+            className="bg-blue-500 hover:bg-blue-700 transition-colors"
+          >
+            Take Missing Quizz
           </Button>
         </div>
         <PopoverContent className="w-[--radix-popper-anchor-width] p-0">
