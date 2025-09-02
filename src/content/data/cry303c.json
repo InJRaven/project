@@ -1,0 +1,539 @@
+[
+  {
+    "question": "Which of the following violate Kerckhoff's principle? Select all that are applicable.",
+    "answers": [
+      "The company password is written using an invisible ink, and only the people within the company know the fact that invisible ink is used.",
+      "A company states that its system is \"secure\" because it uses confidential and proprietary protocols."
+    ]
+  },
+  {
+    "question": "Using the cryptography jargon, when Alice wants to communicate to Bob, who holds the key among Alice, Bob, and Eve? Select all that are applicable.",
+    "answers": ["Alice", "Bob"]
+  },
+  {
+    "question": "Which of the following is the least similar to Kerckhoff's Principle?",
+    "answers": ["Security by Obscurity"]
+  },
+  {
+    "question": "Solve the following steganographic message. The grading is space- and case-sensitive so, in your answer, use all lower case letters and skip all punctuation marks, i.e., your answer should only be comprised only of spaces, numbers, and lower-case letters. Dear George, Greetings to all at Oxford. Many thanks for your letter and for the Summer examination package. All Entry Forms and Fees Forms should be ready for final despatch to the Syndicate by Friday 20th or at the very latest, I’m told. by the 21st. Admin has improved here, though there’s room for improvement still; just give us all two or three more years and we’ll really show your! Please don’t let these wretched 16+ proposals destroy your basis O and A pattern. Certainly this sort of change, if implemented immediately, would bring chaos. Sincerely yours.",
+    "answers": [
+      "your package ready Friday 21st room three Please destroy this immediately"
+    ]
+  },
+  {
+    "question": "Which of the followings are examples of steganography?",
+    "answers": [
+      "Touching different parts of your faces (where different parts indicate different messages) while being engaged in another activity",
+      "Embedding another message on the least significant bits on images (so that they are indistinguishable in human eyes)",
+      "Invisible ink",
+      "Blinking based on Morse code while saying something else"
+    ]
+  },
+  {
+    "question": "There are five red balls, three yellow balls, and four green balls in a bin. In each event, you pick one ball from the bin and observe the color of the ball. The balls are only distinguishable by their colors. After observation, you put the ball back into the bin. What is the probability of choosing a red ball in an event? Express your answer upto three decimal digits, e.g., 0.352.",
+    "answers": ["0.416"]
+  },
+  {
+    "question": "As was in the previous question (the same setup with the previous question), there are five red balls, three yellow balls, and four green balls in a bin. In each event, you pick one ball from the bin and observe the color of the ball. The balls are only distinguishable with their colors. After observation, you put the ball back into the bin. What is the information entropy for one event (pick ball once) in bits? Express your answer upto three decimal digits.",
+    "answers": ["1.554"]
+  },
+  {
+    "question": "As was in the previous question (the same setup with the previous question), there are five red balls, three yellow balls, and four green balls in a bin. In each event, you pick one ball from the bin and observe the color of the ball. The balls are only distinguishable with their colors. After observation, you put the ball back into the bin. What is the information entropy for five events in bits?",
+    "answers": ["7.772"]
+  },
+  {
+    "question": "As was in the previous question (the same setup with the previous question), there are five red balls, three yellow balls, and four green balls in a bin. In each event, you pick one ball from the bin and observe the color of the ball. The balls are only distinguishable with their colors. After observation, you put the ball back into the bin. You can re-color or re-paint one ball of your choice to any of the three colors (red, yellow, green). Which ball would you re-color and to which color in order to maximize the entropy?",
+    "answers": ["Re-color a red ball to yellow"]
+  },
+  {
+    "question": "Now, the bin contains 12 green balls. In each event, you pick one ball from the bin and observe the color of the ball. The balls are only distinguishable with their colors. After observation, you put the ball back into the bin. What is the entropy value for five events in bits?",
+    "answers": ["0"]
+  },
+  {
+    "question": "True or False: Brute-force attack assumes that the attacker can distinguish between the correct and the incorrect key after the decryption trial. For example, the incorrect key can yield gibberish while the correct key yields a meaningful message.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When the key is 10-bits long, how many decryptions do the brute-force attacker try in the worst case (this is the worst case in the Alice-Bob perspective and corresponds to the case when the attacker gets lucky)?",
+    "answers": ["1"]
+  },
+  {
+    "question": "When the key is 10-bits long, how many decryptions do the brute-force attacker try on average?",
+    "answers": ["512"]
+  },
+  {
+    "question": "When the key is 64-bits long, how long does it take in days for an attacker to brute-force search/attack for the key on average? The attacker can perform 10 trillion (10^13) decryptions per second, given the attacker processor and the encryption/decryption algorithm.",
+    "answers": ["10.625"]
+  },
+  {
+    "question": "True or False: Known-plaintext attack is a stronger threat than ciphertext-only attack because the attacker uses the known plaintext-ciphertext pairs to more efficiently find the key that is being used by Alice and Bob.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Is the following claim (that your friend generated a true one-time pad for perfect secrecy) true or false? A friend wants to use a one-time pad to encrypt a data of size 1 kilobyte/KB and ensure perfect secrecy. He generates a key that is of size 1KB by taking an 1B-long seed and using a deterministic algorithm to produce a 1KB-long key. The friend uses a secret algorithm, which he does not tell anybody, and the output key passes the pseudo-random test published by US NIST.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: One-time pad is popularly used for systems that require secure data protection.",
+    "answers": ["False"]
+  },
+  {
+    "question": "There is a typical dice (with each side showing distinct numbers between 1 and 6). In each event, you throw the dice and observe the number. What is the information entropy for one event in bits?",
+    "answers": ["2.585"]
+  },
+  {
+    "question": "(This problem builds on the previous problem. ) There is a typical dice (with each side showing distinct numbers between 1 and 6). In each event, you throw the dice and observe the number. What is the information entropy for *five* event in bits?",
+    "answers": ["12.925"]
+  },
+  {
+    "question": "(This problem builds on the previous problem. ) Now suppose you modify the dice so that the side which originally showed the number 6 becomes a 5 (i.e., the numbers 1, 2, 3, 4 occupy one side each, and 5 occupies two sides). What is the information entropy for one event?",
+    "answers": ["2.251"]
+  },
+  {
+    "question": "You agreed to use a Caesar cipher with a key of k=5 with a friend. While sitting in a group, the friend hands you over a message that says \"QNGWFWD\". Decrypt the message.",
+    "answers": ["library"]
+  },
+  {
+    "question": "Suppose you actually forgot the key. How many decryption computations of the cipher text \"QNGWFWD\" do you need to perform to reach to the plaintext? (Consider the worst case.)",
+    "answers": ["26"]
+  },
+  {
+    "question": "Your friend proposes an update in the key and suggests a new key, k=523. How many cyclic shifts do you need to perform using the new key? You want to minimize the number of cyclic shifts on the letters.",
+    "answers": ["3"]
+  },
+  {
+    "question": "Let's use a modified Caesar Cipher where c = (p+2x) mod 26, where c and p are the ciphertext and the plaintext, respectively, and x is the key. How many distinct keys, producing distinct encryption/decryption transformations, are there now?",
+    "answers": ["13"]
+  },
+  {
+    "question": "For c = (p+2x) mod 26, where c, p, and x are the ciphertext, the plaintext, and the key, respectively, what is the corresponding decryption? Select all that works.",
+    "answers": ["p = (c-2x) mod 26", "p = (c+26-2x) mod 26"]
+  },
+  {
+    "question": "Let's now use a modified Caesar Cipher where c = (p+3x) mod 26, where c and p are the ciphertext and the plaintext, respectively, and x is the key. How many distinct keys, producing distinct encryption/decryption transformations, are there now?",
+    "answers": ["26"]
+  },
+  {
+    "question": "Let's use Vigenere Cipher to encrypt English text, ignoring capitalization and other symbols beyond English alphabets. The key is of length 1 and of value \"Y\" or 24, i.e., the key is \"Y\". Which of the following statements is false?",
+    "answers": [
+      "This cipher transforms a plaintext alphabet to distinct ciphertext alphabets with long enough plaintext inputs."
+    ]
+  },
+  {
+    "question": "Vigenere cipher is used with a key \"XO\". What is the ciphertext corresponding to the plaintext, DRAGON?",
+    "answers": ["AFXULB"]
+  },
+  {
+    "question": "Vigenere cipher is used with a key \"XO\" to encrypt a long English book, comprised of English alphabet letters and ignoring capitalization and other symbols. The key length is fixed, i.e., the key is 2 alphabets long. What is the number of possible distinct keys?",
+    "answers": ["676"]
+  },
+  {
+    "question": "Vigenere cipher is used with a key \"XO\" to encrypt a long English book. You order the letters appearing in the encrypted book in the decreasing order of frequency (i.e., from the most frequently appearing to the least frequently appearing), and the result is: RGZNFIBJWPESCXHTMYAUOLDKVQ. Which ciphertext letters correspond to the plaintext letter E (which is the most frequent letter in the plaintext)? Apply all those that apply.",
+    "answers": ["R", "G"]
+  },
+  {
+    "question": "The Rail Fence cipher uses 4 rows/rails (the example in the lecture used 3). What is the ciphertext (the outcome of the rail fence cipher) for MEETMELATER?",
+    "answers": ["MLEEAEMTRTE"]
+  },
+  {
+    "question": "A Permutation Cipher has a key length of 5, e.g., one key can be [3 2 1 4 5]. How many possible keys are there?",
+    "answers": ["120"]
+  },
+  {
+    "question": "The plaintext MEETMELATER gets processed by a Permutation Cipher (with a key of [2 3 5 4 1] and no padding with extra letters. What is the corresponding ciphertext?",
+    "answers": ["MEMERELTTEA"]
+  },
+  {
+    "question": "The plaintext MEETMELATER gets processed by a Permutation Cipher (with a key of [2 3 5 4 1] and with padding using the letter \"z\" (Alice and Bob agree to use the letter z for padding). What is the corresponding ciphertext?",
+    "answers": ["MEZMERELZTTZEAZ"]
+  },
+  {
+    "question": "The plaintext MEETMELATER gets processed by a product cipher, comprised of Caesar Cipher (with a key of 23) and Permutation Cipher (with a key of [5 3 1 4 2] and no padding with extra letters). What is the corresponding ciphertext?",
+    "answers": ["BXJBBIQQJBO"]
+  },
+  {
+    "question": "The same product cipher in the previous question, comprised of Caesar Cipher and Permutation Cipher (with a key of length 5), is again used but with different keys. Given a plaintext, how many distinct ciphertexts can there be?",
+    "answers": ["3120"]
+  },
+  {
+    "question": "The same product cipher in the previous question, comprised of Caesar Cipher and Permutation Cipher (with a key of length 5), is used to encrypt a long English book (ignoring capitalization and other symbols beyond English letters). Your friend makes the following claims. Select all those that are correct.",
+    "answers": [
+      "\"The ordering between the Caesar and the Permutation does not matter within the product cipher, so we can decrypt it in any order.\"",
+      "\"Letter Z appeared the most in the ciphertext, so it must be mapped from the latter E.",
+      "\"If we replace the Caesar Cipher with a Monoalphabetic Cipher, then it becomes harder to crack by an attacker (who does not know the key).\""
+    ]
+  },
+  {
+    "question": "You are given a stream cipher and a block cipher with a block size of 64 bits. The data input is 32 bits. How many bits do you need to pad before processing the data input using a stream cipher?",
+    "answers": ["0"]
+  },
+  {
+    "question": "The block cipher supports input/output of 64 bits. Which of the following is true about the key storage requirement?",
+    "answers": [
+      "You need hundred million to one billion 1TB-hard-drives to store the key, where TB stands for Terabytes."
+    ]
+  },
+  {
+    "question": "A block cipher takes a 3-bit plaintext and outputs a 3-bit ciphertext. If the cipher is an ideal block cipher, how many reversible transformations (keys) can it have?",
+    "answers": ["40320"]
+  },
+  {
+    "question": "True or False: DES is an ideal block cipher.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: DES displaying Avalanche Effect is a limitation because it describes that an error occurring in one of the rounds propagate through the rest of the rounds.",
+    "answers": ["False"]
+  },
+  {
+    "question": "An attacker is equipped with a computer that performs 10 trillion (10^13) DES decryptions per second, what is the average time required, in hours, for a brute force attacker to break DES?",
+    "answers": ["1"]
+  },
+  {
+    "question": "Which of the followings are true about Feistel Cipher? Select all that applies.",
+    "answers": [
+      "Feistel Cipher processes the data in halves.",
+      "Feistel Cipher is a product cipher.",
+      "Feistel Cipher requires smaller key than ideal block cipher."
+    ]
+  },
+  {
+    "question": "Triple-DES or 3-DES encryption can be characterized by the following: C=Enc(K3,Dec(K2,Enc(K1,P))). Each keys, K1, K2, K3 are 56-bits-long and are independent to each other (the three-key version). The DES block size is 64 bits. Using the big O notation, which of the following best describe the meet-in-the-middle attacker's storage requirement?",
+    "answers": ["O(2^56)"]
+  },
+  {
+    "question": "Triple-DES or 3-DES encryption can be characterized by the following: C=Enc(K3,Dec(K2,Enc(K1,P))). Each keys, K1, K2, K3 are 56-bits-long and are independent to each other (the three-key version). The DES block size is 64 bits. Using the big O notation, which of the following best describe the meet-in-the-middle attacker's encryption/decryption computational effort?",
+    "answers": ["O(2^112)"]
+  },
+  {
+    "question": "Triple-DES or 3-DES encryption can be characterized by the following: C=Enc(K3,Dec(K2,Enc(K1,P))). Each keys, K1, K2, K3 are 56-bits-long and are independent to each other (the three-key version). The DES block size is 64 bits. The attacker now does not have known plaintext-ciphertext pair that it can use for her cryptanalysis. Using the big O notation, which of the following best describe the attacker's encryption/decryption computational effort?",
+    "answers": ["O(2^168)"]
+  },
+  {
+    "question": "Quadruple-DES or 4-DES encryption can be characterized by the following: C=Enc(K4,Enc(K3,Enc(K2,Enc(K1,P)))). Each keys, K1, K2, K3, K4, are 56-bits-long and are independent to each other. The DES block size is 64 bits. Using the big O notation, which of the following best describe the meet-in-the-middle attacker's storage requirement?",
+    "answers": ["O(2^112)"]
+  },
+  {
+    "question": "Quadruple-DES or 4-DES encryption can be characterized by the following: C=Enc(K4,Enc(K3,Enc(K2,Enc(K1,P)))). Each keys, K1, K2, K3, K4, are 56-bits-long and are independent to each other. The DES block size is 64 bits. Using the big O notation, which of the following best describe the meet-in-the-middle attacker's encryption/decryption computational effort?",
+    "answers": ["O(2^112)"]
+  },
+  {
+    "question": "Quadruple-DES or 4-DES encryption can be characterized by the following: C=Enc(K4,Enc(K3,Enc(K2,Enc(K1,P)))). Each keys, K1, K2, K3, K4, are 56-bits-long and are independent to each other. The DES block size is 64 bits. The attacker now does not have known plaintext-ciphertext pair that it can use for her cryptanalysis. Using the big O notation, which of the following best describe the attacker's encryption/decryption computational effort?",
+    "answers": ["O(2^224)"]
+  },
+  {
+    "question": "What is the block size for AES in Bytes?",
+    "answers": ["16"]
+  },
+  {
+    "question": "Which of the following key lengths does AES support? Select all that applies.",
+    "answers": ["128 bits", "192 bits", "256 bits"]
+  },
+  {
+    "question": "Which of the followings correspond to transposition only (no substitution)?",
+    "answers": ["ShiftRows"]
+  },
+  {
+    "question": "Which of the followings use the key?",
+    "answers": ["AddRoundKey"]
+  },
+  {
+    "question": "Which of the followings are true about AES? Select all that applies.",
+    "answers": [
+      "AES involves both substitution and transposition.",
+      "The number of rounds depends on the key length."
+    ]
+  },
+  {
+    "question": "Which of the following describes the 2nd block encryption output of CBC mode (C2). The followings are given: E (an encryption cipher function), K (the key). C1 (the cipher output from the 1st block encryption), P2 (the plaintext for the 2nd block), and XOR (and exclusive-or function). For example, XOR(x,y) indicate the bit-by-bit XOR between the two bit vectors x and y, and E(K,P2) is the encryption output when using the key K and the plaintext P2.",
+    "answers": ["C2 = E(K,XOR(C1,P2))"]
+  },
+  {
+    "question": "Which of the following operation modes do not require padding (if the data does not fill the block)? Check all that applies.",
+    "answers": ["CFB", "OFB", "CTR"]
+  },
+  {
+    "question": "Which of the followings describe the 2nd block encryption output (C2) of OFB mode? The followings are given: E (an encryption cipher function), K (the key). C1 (the cipher output from the 1st block encryption), P2 (the plaintext for the 2nd block), P1 (the plaintext for the 1st block), and XOR (and exclusive-or function). For example, XOR(x,y) indicate the bit-by-bit XOR between the two bit vectors x and y, and E(K,P1) is the encryption output when using the key K and the plaintext P1.",
+    "answers": ["C2 = XOR(P2,E(K,XOR(C1,P1)))"]
+  },
+  {
+    "question": "Suppose a small, low-power device experiences that a real-time computation of the encryption/decryption function is burdensome (e.g., serving as the bottleneck of the performance) and wants to compute the encryption/decryption functions offline (e.g., computed before the plaintext/ciphertext). Which of the following block cipher operation modes support such feature? Check all that applies.",
+    "answers": ["OFB", "CTR"]
+  },
+  {
+    "question": "You are given a block cipher with a block size of 64 bits. Given a data input of 32 bits, how many bits do you need to pad if the using the ECB operation mode?",
+    "answers": ["32"]
+  },
+  {
+    "question": "You are given a block cipher with a block size of 64 bits. Given a data input of 32 bits, how many bits do you need to pad if the using the CFB operation mode?",
+    "answers": ["0"]
+  },
+  {
+    "question": "Alice and Bob is not synchronized in time, and their clock frequency is different. Which of the block cipher operation modes would be affected by such lack of synchronization? Check all that applies.",
+    "answers": ["CTR"]
+  },
+  {
+    "question": "Suppose Pi indicates the plaintext input for the block cipher i from the sender's perspective, e.g., P2 is the plaintext input for the 2nd block cipher, and Ci is the ciphertext input for the block cipher i from the receiver's perspective. (If there were no errors, Ci is also the ciphertext output of the block cipher i from the sender.) Which of the following scenarios causing errors affect C3 (and cause error in C3)? Select all that applies.",
+    "answers": [
+      "Error occurs on P1 for CBC Mode.",
+      "Error occurs on P2 for CFB Mode."
+    ]
+  },
+  {
+    "question": "Given any plaintext p, a cipher supporting asymmetric cryptography with an encryption function (Enc) and the corresponding decryption function (Dec), and the public-private key pair (Ki,ki) for any user i, which of the followings are true for a cipher that can be used for both message confidentiality and source integrity/signature, e.g., RSA cipher? Select all that applies.",
+    "answers": ["Dec(K2,Enc(k2,p))=p", "Dec(k1,Enc(K1,p))=p"]
+  },
+  {
+    "question": "Which of the followings are true about asymmetric cryptography? Check all that applies.",
+    "answers": [
+      "Key distribution and management should be addressed when using asymmetric cryptography."
+    ]
+  },
+  {
+    "question": "Which of the followings are false for asymmetric cipher requirements? Select all that applies.",
+    "answers": [
+      "Both the public key and the private key should remain secret against an attacker.",
+      "Both the sender and the receiver can use the same private key for encryption and decryption."
+    ]
+  },
+  {
+    "question": "Suppose f is a trapdoor one-way function designed to be used with the key, k. Which of the followings are computationally easy?",
+    "answers": [
+      "Solving f(x) if the input and k are known",
+      "Solving the inverse of f if the input to the f-inverse and k are known"
+    ]
+  },
+  {
+    "question": "Which of the followings does the RSA algorithm support? Select all that apply.",
+    "answers": ["Digital signature", "Key exchange", "Encryption/decryption"]
+  },
+  {
+    "question": "Which of the followings does Diffie-Hellman Key Exchange support: encryption/decryption, digital sig- natures, key exchange? Select all that apply.",
+    "answers": ["Key exchange"]
+  },
+  {
+    "question": "What is the Euler Totient Function of 12, phi(12)?",
+    "answers": ["4"]
+  },
+  {
+    "question": "Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=5, q=11, e=3. What is the value of phi(n) where phi(n) is the Euler Totient function of n and n is the modulus for RSA cipher?",
+    "answers": ["40"]
+  },
+  {
+    "question": "(This question builds on the previous question.) Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=5, q=11, e=3. Using the phi(n) that you found in the previous question and the Extended Euclidean algorithm yields d=27. What is the ciphertext C when encrypting M=9?",
+    "answers": ["14"]
+  },
+  {
+    "question": "Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=7, q=11, e=17. What is the value of phi(n) where phi(n) is the Euler Totient function of n and n is the modulus for RSA cipher?",
+    "answers": ["60"]
+  },
+  {
+    "question": "(This question builds on the previous question.) Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=7, q=11, e=17. Using the phi(n) that you found in the previous question and the Extended Euclidean algorithm yields d=53. What is the ciphertext C when encrypting M=8?",
+    "answers": ["57"]
+  },
+  {
+    "question": "Using the same notations as in the lecture, p and q are the two prime factors of n, and e and d are the public key and the private key, respectively. Which of the followings are to be secret against the attacker, assuming that the Prime Factorization problem remains difficult to solve?",
+    "answers": ["p", "q", "d", "The Euler totient function of n, phi(n)"]
+  },
+  {
+    "question": "Using the same notations as in the lecture, p and q are the two prime factors of n, and e and d are the public key and the private key, respectively. Which of the following statements about the RSA cipher are true? Select all that applies.",
+    "answers": [
+      "After choosing d, the Extended Euclidean algorithm can be used to derive e.",
+      "After choosing e, the Extended Euclidean algorithm can be used to derive d.",
+      "For the public-private keys of RSA, e and d, given any plaintext m, m raised to the power of e.d (m^{e.d}) is equal to m."
+    ]
+  },
+  {
+    "question": "Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=5, q=11. Alice chooses a private key d and derives the public key e. Which of the followings can work for the values of d?",
+    "answers": ["17", "21", "9"]
+  },
+  {
+    "question": "Using the same notations as in the lecture, e.g., p and q are the two primes and e and d are the public key and the private key, respectively, p=3, q=11, and e=7. The attacker performs a chosen-ciphertext attack (CCA). It has a known ciphertext 14 and wants to retrieve the corresponding plaintext. It computes c' = c * r^e mod n and chooses the ciphertext 14 * 2187 mod 33 = 27 and retrieves the corresponding plaintext, 15. What is the plaintext corresponding to the ciphertext 14?",
+    "answers": ["5"]
+  },
+  {
+    "question": "What is the value of the discrete logarithm of 3 base 2 mod 5?",
+    "answers": ["3"]
+  },
+  {
+    "question": "What is the value of the discrete logarithm of 4 base 5 mod 7?",
+    "answers": ["2"]
+  },
+  {
+    "question": "Identify the primitive roots of the prime number 3. Select all that applies.",
+    "answers": ["2"]
+  },
+  {
+    "question": "Identify the primitive roots of the prime number 7. Select all that applies.",
+    "answers": ["5", "3"]
+  },
+  {
+    "question": "Which of the following statements are true?",
+    "answers": [
+      "Given a large modulus n, the discrete logarithm problem is computationally difficult.",
+      "Using the primitive roots of a prime modulus p yields the maximum p-1 possible outcome values for the discrete logarithm, which is desired for cryptography."
+    ]
+  },
+  {
+    "question": "Alice and Bob exchanges a key using Diffie-Hellman Key Exchange protocol. Which of the followings do Alice know by the end of the protocol? Select all that applies.",
+    "answers": [
+      "The primitive root of the prime modulus (a)",
+      "The shared key by the protocol (K)",
+      "Bob's public key (Y_B)",
+      "The prime modulus (p)"
+    ]
+  },
+  {
+    "question": "Alice and Bob exchanges a key using Diffie-Hellman Key Exchange protocol. Which of the followings are to be secret against a passive attacker (who wishes to learn the shared key)? Select all that applies.",
+    "answers": ["The shared key by the protocol (K)", "Bob's private key (Y_B)"]
+  },
+  {
+    "question": "Alice and Bob uses Diffie-Hellman Key Exchange to share a key with a common prime p=11 and a primitive root a=2. If Alice has a public key Y_A=9, what is her private key X_A?",
+    "answers": ["6"]
+  },
+  {
+    "question": "(This question builds on the previous question.) Alice and Bob uses Diffie-Hellman Key Exchange to share a key with a common prime p=11 and a primitive root a=2. If Bob has a public key Y_B=3, what is the secret key K shared with Alice?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Which of the followings are true for Diffie-Hellman Key Exchange and Man-in-the-middle (MITM) attack? Select all that applies.",
+    "answers": [
+      "Diffie-Hellman Key Exchange protocol is vulnerable to MITM attack because of the lack of authentication."
+    ]
+  },
+  {
+    "question": "Which of the followings are true about El Gamal Encryption?",
+    "answers": [
+      "El Gamal Encryption uses a prime modulus and a primitive root of the modulus.",
+      "El Gamal Encryption includes the message and the key that is used to protect the message, and the key itself is protected against eavesdropping."
+    ]
+  },
+  {
+    "question": "Which of the following statements are false for hash functions?",
+    "answers": ["Given an input, a hash function can produce multiple outputs"]
+  },
+  {
+    "question": "Which of the following terms are used to describe the output of the hash function?",
+    "answers": ["Digest", "Hash value", "Fingerprint"]
+  },
+  {
+    "question": "Which of the followings states that for any given input, it is computationally infeasible to find another input that produces the same hash as the given input",
+    "answers": ["Weak collision resistance"]
+  },
+  {
+    "question": "Which of the following statements are true for cryptographic hash function requirements?",
+    "answers": [
+      "Any hash function that is strong collision resistant is also weak collision resistant.",
+      "Avalanche effect is desirable property of hash function because it prevents attacks that compare the outputs to infer the relations between the corresponding inputs."
+    ]
+  },
+  {
+    "question": "When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break strong collision resistance?",
+    "answers": ["16"]
+  },
+  {
+    "question": "When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break weak collision resistance?",
+    "answers": ["128"]
+  },
+  {
+    "question": "When the hash function uses a 1-Byte long key, how many computations would it require an attacker to break preimage resistance?",
+    "answers": ["128"]
+  },
+  {
+    "question": "In hash chain, H^n indicates the output of the n-th hash. Suppose H^3 has an error and its value changed. Which of the values would get affected and change?",
+    "answers": ["H^3", "H^4", "H^5"]
+  },
+  {
+    "question": "The server, acting as the verifier, has the value H^n stored for the verification. What is the one-time password that will be used by the user?",
+    "answers": ["H^{n-1}"]
+  },
+  {
+    "question": "For a hash tree that covers 32 data blocks, how many hash checks do you need to perform to detect the error? Assume that error occurred on only one block.",
+    "answers": ["1"]
+  },
+  {
+    "question": "For a hash tree that covers 32 data blocks, how many hash checks do you need to perform to detect the error? Assume that error occurred on two distinct blocks.",
+    "answers": ["1"]
+  },
+  {
+    "question": "For a hash tree that covers 16 data blocks, how many hash checks do you need to perform to localize the error? Assume that error occurred on only one block.",
+    "answers": ["9"]
+  },
+  {
+    "question": "For a hash tree that covers 128 data blocks, how many hash checks do you need to perform to localize the error? Assume that error occurred on only one block.",
+    "answers": ["15"]
+  },
+  {
+    "question": "Now the error occurred on two distinct blocks. For a hash tree that covers 16 data blocks, how many hash checks do you need to perform to localize the error?",
+    "answers": ["15"]
+  },
+  {
+    "question": "Which of the followings are true for hash tree (Merkle tree)? The tree is binary where there are two child nodes for each parent node.",
+    "answers": [
+      "The computational complexity grows linearly as the number of data blocks increases exponentially.",
+      "To construct the hash tree, the hash inputs are twice as long as the hash outputs."
+    ]
+  },
+  {
+    "question": "Which of the followings are true about message authentication?",
+    "answers": [
+      "Message authentication code (MAC) is based on symmetric keys.",
+      "Symmetric encryption/decryption can provide message authentication."
+    ]
+  },
+  {
+    "question": "Which of the following terms is not used interchangeably with mesage authentication code (MAC)?",
+    "answers": ["Digital signature"]
+  },
+  {
+    "question": "Which of the following is not a reason to use/prefer MAC over symmetric encryption for message authentication?",
+    "answers": ["Confidentiality protection"]
+  },
+  {
+    "question": "A MAC, such as that based on DAA/DES, uses a 56-bit key and a 64-bit MAC code/tag. How many computations would it require for an attacker to brute-force the MAC on average?",
+    "answers": ["2^55"]
+  },
+  {
+    "question": "A MAC, such as that based on DAA/DES, uses a 56-bit key and a 64-bit MAC code/tag. However, now, the key gets updated very frequently; every MAC code that gets produced uses a different key. How many computations would it require for an attacker to brute-force the MAC on average?",
+    "answers": ["2^63"]
+  },
+  {
+    "question": "Which of the followings is not a security requirement for MAC?",
+    "answers": ["Independence across bits"]
+  },
+  {
+    "question": "How is CMAC different from DAA algorithm? Select all that applies.",
+    "answers": [
+      "CMAC have options for the block ciphers.",
+      "CMAC provides longer MAC code.",
+      "CMAC additionally uses a derived key (derived from the original key) when generating the MAC code."
+    ]
+  },
+  {
+    "question": "In which of the following threat scenarios, can digital signature be useful (to counter)? Digital signature can also used to ensure time integrity, e.g., protect the integrity of the timestamp.",
+    "answers": [
+      "A message is sent from a customer to a stockbroker with instructions for various transactions. Subsequently, the investments lose value and the customer denies sending the message.",
+      "A network manager, A, transmits a message to a computer, B, under its management. The message instructs computer B to update an authorization file to include the identities of a number of new users who are to be given access to that computer. An attacker intercepts the message, alters its contents to add or delete entries, and then forwards the message to B, which accepts the message as coming from manager A and updates its authorization file accordingly.",
+      "An employee is fired without warning. The personnel manager sends a message to a server system to invalidate the employee's account. When the invalidation is accomplished, the server is to post a notice to the employee's file as confirmation of the action. The employee (the attacker) is able to intercept the message and delay it long enough to make a final access to the server to retrieve sensitive information. The message is then forwarded, the action taken, and the confirmation posted.",
+      "A network manager, A, transmits a message to a computer, B, under its management. The message instructs computer B to update an authorization file to include the identities of a number of new users who are to be given access to that computer. Rather than intercepting a message, an attacker constructs its own message with the desired entries and transmits that message to B as if it had come from manager A. Computer B accepts the message as coming from manager A and updates its authorization file accordingly."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about digital signature?",
+    "answers": [
+      "Digital signature is typically smaller than the data size.",
+      "Digital signature tends to require more computational resources than message authentication",
+      "Digital signature is based on asymmetric/public-key cryptography"
+    ]
+  },
+  {
+    "question": "Which of the followings is not a requirement for digital signatures?",
+    "answers": ["Verifiable by a trusted third party"]
+  },
+  {
+    "question": "For RSA Signature and Digital Signature Standard (DSS), how does the sender generate the digital signature given the message, p?",
+    "answers": [
+      "Takes the hash of the p and then encrypting using its private key"
+    ]
+  }
+]
