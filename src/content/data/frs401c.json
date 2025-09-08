@@ -1,0 +1,1198 @@
+[
+  {
+    "question": "(1.2) What is the core objective of an information security program?",
+    "answers": ["To support the mission of the business"]
+  },
+  {
+    "question": "(1.2.5) What is meant by \"non-repudiation\"?",
+    "answers": [
+      "If a user performs and action (e.g., sends an email or signs a contract), they cannot later claim they did not do it."
+    ]
+  },
+  {
+    "question": "(1.5.2) Regarding the IT asset management life cycle, which resource is represented by the business’s people, processes, facilities, equipment, and corporate knowledge?",
+    "answers": ["Assets"]
+  },
+  {
+    "question": "(1.1) Which of the following statements is true regarding classification and categorization?",
+    "answers": [
+      "Classification refers to organizing data based on its sensitivity levels to ensure appropriate handling and protection measures are applied, whereas categorization is the process of determining the security impact level of information systems and the data they handle due to breaches of confidentiality, integrity, and availability."
+    ]
+  },
+  {
+    "question": "(1.2.3) The purpose of a countermeasure is to:",
+    "answers": ["Respond to an incident "]
+  },
+  {
+    "question": "(1.6.1) What is typically the last step in the change control process?",
+    "answers": ["Notification"]
+  },
+  {
+    "question": "(1.8) In general, personnel safety assurance includes all of the following except for which?",
+    "answers": ["Configuration management planning"]
+  },
+  {
+    "question": "(1.7) Which of these is not a social engineering attack?",
+    "answers": ["Sharking"]
+  },
+  {
+    "question": "(1.2.1) It is often said that everyone is responsible for information security, and this is true, but who is ultimately responsible for ensuring the security of assets and information?",
+    "answers": ["Senior leadership and management"]
+  },
+  {
+    "question": "(1.5.2) With whom would you consult to gather information on identifying an organization’s assets?",
+    "answers": ["Senior management"]
+  },
+  {
+    "question": "(2.4) Which of the following is a basic requirement the security kernel must meet?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "(2.4) Which of these functions does an access control system NOT perform?",
+    "answers": ["Performing the same way every time"]
+  },
+  {
+    "question": "(2.1.1) What mechanism is used to verify a user’s claim to an identity?",
+    "answers": ["Authentication"]
+  },
+  {
+    "question": "(2.4) Which system security model emphasizes system and data integrity as the HIGHEST priority security characteristic?",
+    "answers": ["Biba"]
+  },
+  {
+    "question": "(2.1.2) Which encryption method does Kerberos use to encrypt the exchange of messages between users, key distribution centers (KDC), and applications?",
+    "answers": ["Symmetric"]
+  },
+  {
+    "question": "(2.1.1) In biometrics, what is a Type II error?",
+    "answers": ["False acceptance"]
+  },
+  {
+    "question": "(2.1.1) Which of the following lists three types of behavioral biometrics?",
+    "answers": ["Signature, voice pattern, keystroke dynamics"]
+  },
+  {
+    "question": "(2.4) A reference monitor is a conceptual idea to define access controls. What three elements are required from the reference monitor?",
+    "answers": ["Always invoked, tamperproof, auditable"]
+  },
+  {
+    "question": "(2.1.4) Which of the following is a common protocol used in single sign-on (SSO) implementations?",
+    "answers": ["Security Assertion Markup Language (SAML)"]
+  },
+  {
+    "question": "(2.1.4) The following are the main components of a Federated Identity Management (FIM) solution EXCEPT which?",
+    "answers": ["Security provider."]
+  },
+  {
+    "question": "(3.1.4) Which of the following is NOT one of the four usual responses to risk referred to in ISO/IEC 27005?",
+    "answers": ["Remediate"]
+  },
+  {
+    "question": "(3.1.2) What is a vulnerability?",
+    "answers": ["A weakness in a system, service, process, or software"]
+  },
+  {
+    "question": "(3.1.1) What is the primary purpose for CVSS?",
+    "answers": [
+      "As part of risk assessment for identified or suspected vulnerabilities"
+    ]
+  },
+  {
+    "question": "(3.1.4) You are tasked with conducting a quantitative risk assessment and calculating the annual lost expectancy. Which of the following variables do you need to complete this calculation?",
+    "answers": ["SLE and ARO"]
+  },
+  {
+    "question": "(3.4.4) A security information and event management (SIEM) service performs which of the following functions?",
+    "answers": [
+      "Aggregates logs from security devices and application servers looking for suspicious activity"
+    ]
+  },
+  {
+    "question": "(3.1.5) Which statement best shows the comparison of residual risk and acceptable risk?",
+    "answers": [
+      "Residual risk is the risk not mitigated by applying a control, while acceptable risk is a risk for which no treatment actions are taken."
+    ]
+  },
+  {
+    "question": "(3.1.1) The risk reporting phase consists of which elements?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "(3.3.3) You are an IT specialist tasked with updating and maintaining your organization's asset management system. To do this, you schedule routine network scans to determine which systems are active on the network. During a recent scan, you noticed a set of servers that weren’t present the day prior. These servers are not listed on any asset inventory or authorization documents. What type of devices would these be considered?",
+    "answers": ["Shadow IT devices"]
+  },
+  {
+    "question": "(3.4.3) What action can an organization take to ensure they are getting the data they need from logs without overburdening the resources with excessive log events?",
+    "answers": [
+      "Filter and prioritize log events based on severity and relevance."
+    ]
+  },
+  {
+    "question": "(3.4.3) A pipeline operator grouped all signal sources pertaining to pressure controls, sensors, pumps, and regulators into one “space” for correlation purposes. What type of correlation is this?",
+    "answers": ["Space"]
+  },
+  {
+    "question": "(4.1) What is the difference between an in-person IRT and a virtual IRT?",
+    "answers": [
+      "In person IRTs are staffed by permanent employees or members of the organization, have designated work centers or locations, and are trained and certified in incident response; virtual IRTs use volunteer or part-time talent, and their members may or may not be fully trained or certified."
+    ]
+  },
+  {
+    "question": "(4.2.1) Which of the following would NOT be acceptable in evidence collection?",
+    "answers": ["Use any forensic tool you are familiar with."]
+  },
+  {
+    "question": "(4.2.1) Which of the following statements about taking control of a scene is MOST correct?",
+    "answers": [
+      "The person taking control of the scene must ensure the scene is protected from contamination or changes that might destroy evidence."
+    ]
+  },
+  {
+    "question": "(4.1.6) Which task can SOAR systems do that SIEMs typically cannot?",
+    "answers": [
+      "Support user creation of workflows to direct and control the execution of routine and emergency tasks, such as data analysis or incident response."
+    ]
+  },
+  {
+    "question": "(4.3) Which of the following documents the steps that should be performed to restore IT functions after a business disruption event?",
+    "answers": ["Disaster recovery plan (DRP)"]
+  },
+  {
+    "question": "(4.3.5) During the activation of a business continuity plan (BCP), which of the following is a critical task for the security team related to access control?",
+    "answers": [
+      "Providing on-site physical recognition of individuals for entry and exit control"
+    ]
+  },
+  {
+    "question": "(4.1.6) What is crucial for the successful implementation of changes recommended after an incident review?",
+    "answers": [
+      "Support and engagement from senior leadership and the board of directors"
+    ]
+  },
+  {
+    "question": "(4.2.2) What is a critical requirement when gathering evidence during a security incident investigation?",
+    "answers": [
+      "It must be done using industry-accepted tools that are widely recognized and validated."
+    ]
+  },
+  {
+    "question": "(4.3.3) What does the Recovery Point Objective (RPO) represent in a risk management plan?",
+    "answers": [
+      "The maximum amount of work the company is willing to re-accomplish due to a disruption, measured in time or transactions"
+    ]
+  },
+  {
+    "question": "(4.3.1) What does Mean Time to Repair or Restore (MTTR) represent in the context of incident response and business continuity?",
+    "answers": [
+      "The combined estimate of time required for repair or restoration activities"
+    ]
+  },
+  {
+    "question": "(5.1.3) What is the input that controls the operation of the cryptographic algorithm?",
+    "answers": ["Cryptovariable"]
+  },
+  {
+    "question": "(5.2.5) AES is a block cipher with what variable key lengths?",
+    "answers": ["128, 192, or 256 bits"]
+  },
+  {
+    "question": "(5.2.4) How does a hash-based message authentication code (HMAC) work?",
+    "answers": [
+      "Adding a secret key value to the input function along with the source message"
+    ]
+  },
+  {
+    "question": "(5.2.1) Which of the following is a one-way mathematical operation that reduces a message or data file into a smaller, fixed-length output?",
+    "answers": ["Hash value"]
+  },
+  {
+    "question": "(5.2.3) Why are stream ciphers normally selected over block ciphers?",
+    "answers": ["The high degree of speed behind the encryption algorithms"]
+  },
+  {
+    "question": "(5.4.1) A key escrow service is intended to reliably allow what?",
+    "answers": ["Recovery of private keys"]
+  },
+  {
+    "question": "(5.3.1) What is the correct choice for encrypting the entire original data packet in a tunneled mode for an IPsec solution?",
+    "answers": ["Encapsulating Security Payload (ESP)"]
+  },
+  {
+    "question": "(5.2.2) When implementing a password-based access control solution, what function should be used to help avoid rainbow table collisions?",
+    "answers": ["Salt"]
+  },
+  {
+    "question": "(5.4.1) Why does key clustering represent the significant failure of an algorithm?",
+    "answers": [
+      "Two different keys should not generate the same ciphertext from the same plaintext using the same cipher algorithm."
+    ]
+  },
+  {
+    "question": "(5.2.3) Asymmetric key cryptography is used for the following:",
+    "answers": ["Data confidentiality, integrity, access control"]
+  },
+  {
+    "question": "(6.1.1) The Media Layer in the OSI model includes:",
+    "answers": ["Network, Data Link, and Physical Layers"]
+  },
+  {
+    "question": "(6.1.2) Which of the following network topologies is cost effective and provides higher connectivity?",
+    "answers": ["Partial mesh topology"]
+  },
+  {
+    "question": "(6.1.2) You notice one or many connections between your servers on ports that are not well-known. What type of network relationship has been established?",
+    "answers": ["Peer-to-Peer"]
+  },
+  {
+    "question": "(6.1.4) Which network link provider has the LEAST control over reliability?",
+    "answers": ["Satellite link"]
+  },
+  {
+    "question": "(6.1.5) One advantage of a Software-Defined Network (SDN) is:",
+    "answers": ["An SDN increases ease of performance testing and assessment."]
+  },
+  {
+    "question": "(6.1.6) The protocol-based firewall rule is vulnerable to:",
+    "answers": ["Protocol Tunneling"]
+  },
+  {
+    "question": "(6.2.1) Which of the following provides better user experience and DDoS protection?",
+    "answers": ["Content Delivery Network (CDN)"]
+  },
+  {
+    "question": "(6.5.1) Which of the following security solutions mitigates a variety of vulnerabilities in a hybrid environment?",
+    "answers": ["Cloud Access Security Broker (CASB)"]
+  },
+  {
+    "question": "(6.5.7) Which of the following security solutions integrates multiple features?",
+    "answers": ["Unified Threat Management (UTM)"]
+  },
+  {
+    "question": "(6.6.1) Which of the following enables hardware MFA for mobile devices?",
+    "answers": ["Near-Field Communication (NFC)"]
+  },
+  {
+    "question": "(7.1.1) What is the key difference between a worm and a virus?",
+    "answers": ["A worm doesn’t require user assistance to replicate."]
+  },
+  {
+    "question": "(7.2.4) Which of the following is NOT an advantage of application allowed/blocked listing?",
+    "answers": ["It requires very little effort."]
+  },
+  {
+    "question": "(7.1.3) Which of the following is true about a sandbox?",
+    "answers": ["It provides an isolated environment for testing."]
+  },
+  {
+    "question": "(7.1.1) What is a rootkit?",
+    "answers": ["A type of remote-access Trojan"]
+  },
+  {
+    "question": "(7.2.2) Which of the following is NOT a security strategy for endpoints?",
+    "answers": ["Tempest technique"]
+  },
+  {
+    "question": "(7.5.6) Which of the following describes a virtual machine escape attack?",
+    "answers": [
+      "It gives the attacker unauthorized access to the host system or other VMs running on the same physical hardware."
+    ]
+  },
+  {
+    "question": "(7.1.5) Why is a social engineering attack MOST often successful?",
+    "answers": ["Social trust"]
+  },
+  {
+    "question": "(7.4.2) Also referred to as “hardware as a service,” _____ is a model where the customer can provision equipment “as a service” to support operations.",
+    "answers": ["IaaS"]
+  },
+  {
+    "question": "(7.4.4) Which of the following is NOT an important privacy and data protection consideration for cloud-hosted data?",
+    "answers": ["Which specific cloud service is being used"]
+  },
+  {
+    "question": "(7.4.1) Which cloud deployment model involves sharing infrastructure between organizations with common concerns, such as regulatory compliance or industry-specific requirements?",
+    "answers": ["Community cloud"]
+  },
+  {
+    "question": "(4.3.1) Which of the following is a PRIMARY focus of emergency response plans and procedures?",
+    "answers": [
+      "Ensuring the continuity of information systems during a crisis"
+    ]
+  },
+  {
+    "question": "(3.3.3) What is the purpose of a software escrow agreement?",
+    "answers": [
+      "To protect the customer from failure of the vendor to support the software"
+    ]
+  },
+  {
+    "question": "(3.3.2) ________ attempts to locate unauthorized or rogue modems connected to computers that are connected to networks.",
+    "answers": ["War dialing"]
+  },
+  {
+    "question": "(7.4.1) Which of these is a model where the customer can provision virtual equipment “as a service” to support operations, which includes storage, hardware, servers, and relevant networking components?",
+    "answers": ["Infrastructure as a service (IaaS)"]
+  },
+  {
+    "question": "(4.1.2) This framework categorizes the response phase of incident response as containment, eradication and recovery.",
+    "answers": ["NIST 800-61"]
+  },
+  {
+    "question": "(7.4.2) Platform-as-a-service (PaaS) storage is often used to support which of the following?",
+    "answers": ["Databases"]
+  },
+  {
+    "question": "(3.1.4) A small manufacturing company with about 100 employees operates an on-premises server for its critical business applications, including inventory management and customer orders. Recently, the company has identified a significant risk of a ransomware attack that could disrupt operations, with an annualized loss expectancy (ALE) of $200,000. The company is considering several options to reduce this ALE effectively. Based on the scenario, which option provides the MOST balanced and cost-effective strategy to reduce the ALE?",
+    "answers": [
+      "Enhance on-premises security measures by upgrading firewall and antivirus software, reducing the ALE to $150,000."
+    ]
+  },
+  {
+    "question": "(7.5.6) What vulnerability testing technique is used when you run a command against a target and obtain the details shown in the example below? jsmith@XYZINC: ~$ nc www.targethost.com 80 HEAD / HTTP/1.1HTTP/1.1 200 OK Date: Mon, 11 May 2021 22:10:40 ESTServer: Apache/2.0.46 (Unix) (Red Hat/Linux) Last-Modified: Thu, 16 Apr 2021 11:20:14 PSTETag: \"1986-69b-123a4bc6\"Accept-Ranges: bytes Content-Length: 1110 Connection: close Content-Type: text/html",
+    "answers": ["Banner grabbing"]
+  },
+  {
+    "question": "(1.6) What are some of the benefits to using effective configuration management (CM)?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "(3.3.2) When hardening a host, the following activities should be carried out EXCEPT which?",
+    "answers": ["Disable patching"]
+  },
+  {
+    "question": "(1.8) Based on the Uptime Institute’s Tiered Classification System, what tier level is given to a data center that has a fault tolerant site infrastructure?",
+    "answers": ["Tier IV"]
+  },
+  {
+    "question": "(2.2.3) Which of the following BEST describes an Application Programming Interface (API) and its primary functions?",
+    "answers": [
+      "An API is a set of protocols and tools that enables software applications to communicate with each other, facilitating data exchange and functionality sharing."
+    ]
+  },
+  {
+    "question": "(2.3.6) What sort of attack can occur when two or more operations that should be done in sequence are attempted simultaneously?",
+    "answers": ["Time of check to time of use (TOCTOU)"]
+  },
+  {
+    "question": "(7.1.2) Which of the following activities prevents the spread of an ongoing incident?",
+    "answers": ["Containment"]
+  },
+  {
+    "question": "(3.4.1) You deployed a DLP policy that blocks sensitive data from being copied or sent to external drives and all monitored applications in your endpoints. This is working well with all applications except email clients, where the policy can be circumvented, and sensitive documents can be sent via email. Where does the issue most probably exist with the DLP deployment?",
+    "answers": ["Client"]
+  },
+  {
+    "question": "(1.6) A critical patch has been deployed to production without proper testing, notification, and approvals. Consequently, the affected system crashed, and now there is an unplanned outage. Who is responsible for this?",
+    "answers": ["Release manager"]
+  },
+  {
+    "question": "(1.2) Which of the following is the best definition of integrity?",
+    "answers": ["Data is preserved in an unaltered state."]
+  },
+  {
+    "question": "(7.5.4) One of the key storage strategies in the cloud is that keys are stored on the virtual machine or application component that is also acting as the encryption engine. Which management strategy is being used?",
+    "answers": ["Internally managed key storage"]
+  },
+  {
+    "question": "(2.4) The Simple Security Property States:",
+    "answers": ["No “read up”"]
+  },
+  {
+    "question": "(6.1.1) ARP maps the logical (IP) address on the network to the___________.",
+    "answers": ["MAC address"]
+  },
+  {
+    "question": "(5.2.5) Diffie–Hellman, Rivest–Shamir–Adleman (RSA) and ___________ are all examples of public-key cryptography.",
+    "answers": ["Elliptic curve cryptography (ECC)"]
+  },
+  {
+    "question": "(5.2.1) What hashing algorithm was introduced in 2015 and uses the sponge function?",
+    "answers": ["SHA-3"]
+  },
+  {
+    "question": "(6.2.1) Media Access Control Security (MACsec) provides point-to-point security between directly connected nodes and works at what layer of the OSI model?",
+    "answers": ["Layer 2"]
+  },
+  {
+    "question": "(1.4) An intrusion detection system (IDS) is what type of countermeasure?",
+    "answers": ["Detective"]
+  },
+  {
+    "question": "(7.3) Which of the following functions is NOT supported by mobile device management (MDM) solutions?",
+    "answers": ["Carrier activation"]
+  },
+  {
+    "question": "(7.4.2) What type of cloud model provides access to software applications such as email or office productivity tools?",
+    "answers": ["Software as a service (SaaS)"]
+  },
+  {
+    "question": "(5.2.4) What is non-repudiation?",
+    "answers": ["A legal term binding an entity through a signing process"]
+  },
+  {
+    "question": "(1.5) What is the best method for dealing with data remanence on SSDs?",
+    "answers": ["Physical destruction"]
+  },
+  {
+    "question": "(7.5.6) An organization is proactively and iteratively searching for signs of malicious activities or attackers within their networks and systems. Which of the following is being described?",
+    "answers": ["Threat hunting"]
+  },
+  {
+    "question": "(2.4.3) Which of the following BEST describes the concept of Role-Based Access Control (RBAC) in an organization's IT system?",
+    "answers": [
+      "RBAC is a strategy where users are granted access to resources based on their roles within the organization, ensuring that they have only the necessary permissions to perform their job functions."
+    ]
+  },
+  {
+    "question": "(1.1) Doing the right and prudent things to get the job done is known as which of the following?",
+    "answers": ["Due care"]
+  },
+  {
+    "question": "(3.3.2) Which of the following is NOT a phase in ethical penetration testing?",
+    "answers": ["Incident Response"]
+  },
+  {
+    "question": "(6.6.1) At what frequency does Bluetooth transmit?",
+    "answers": ["2.4 GHZ"]
+  },
+  {
+    "question": "(1.8) Fire can be characterized into general types or classes. What type of fire extinguisher can be used for flammable metals?",
+    "answers": ["Class D"]
+  },
+  {
+    "question": "(6.1.1) DNSSEC adds the following features to the DNS protocol EXCEPT for which?",
+    "answers": ["Data confidentiality"]
+  },
+  {
+    "question": "(1.6) A configuration management database (CMDB) allows an organization to do which of the following?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "(1.8) What system guarantees that continuous power is provided to IT equipment for a brief period, even if the main power source stops providing power?",
+    "answers": ["Uninterruptible power supply (UPS)"]
+  },
+  {
+    "question": "(4.1.2) Which of the following tools can be used to detect incidents that have occurred?",
+    "answers": ["Security Information and Event Management (SIEM) systems"]
+  },
+  {
+    "question": "(3.4.3) You are the system administrator for your organization. Your security team has difficulty gathering log information during incidents as server and endpoint logs are stored in a variety of places with varying levels of access. What recommendation would you offer leadership to assist with making this process easier?",
+    "answers": [
+      "Implement a centralized logging solution, such as a Security Information and Event Management (SIEM) system."
+    ]
+  },
+  {
+    "question": "(1.3.4) Which of the following is the most critical first step when assessing compliance requirements in cybersecurity?",
+    "answers": [
+      "Identifying all relevant legal and regulatory frameworks with which the organization must adhere"
+    ]
+  },
+  {
+    "question": "(1.2) Which best describes the concept of availability?",
+    "answers": ["Data is available to authorized users when required."]
+  },
+  {
+    "question": "(3.1.4) The selection of controls is frequently based on what?",
+    "answers": ["Cost-benefit analysis"]
+  },
+  {
+    "question": "(3.5.1) What is the purpose of a security baseline?",
+    "answers": [
+      "To define the minimum security standards and configurations necessary to protect the organization’s information systems"
+    ]
+  },
+  {
+    "question": "(4.2.1) Which is the correct order of the common digital forensic steps?",
+    "answers": [
+      "Identifying, acquiring, analyzing, and presenting the evidence"
+    ]
+  },
+  {
+    "question": "(6.4.2) Your organization decided to lease higher floor suite for the executives. What would you recommend as a solution?",
+    "answers": ["Software Defined Perimeter (SDP)"]
+  },
+  {
+    "question": "(5.4.1) Key-encrypting keys (KEKs) are used as part of ________.",
+    "answers": ["Key distribution"]
+  },
+  {
+    "question": "(1.7) Someone claims to be an IT support worker doing maintenance and asks for your login details. What kind of social engineering attack is this?",
+    "answers": ["Impersonation or masquerading"]
+  },
+  {
+    "question": "(2.4) A TCB consists of all the following EXCEPT for which?",
+    "answers": ["People"]
+  },
+  {
+    "question": "(6.6.1) In wireless technologies, ______ mode is two (or more) wireless devices talking directly together without the need for an access point.",
+    "answers": ["Ad-hoc"]
+  },
+  {
+    "question": "(7.1) Which of the following describes two or more processes that each hold elements of a set of resources that the other needs to complete its own processing?",
+    "answers": ["Deadlock"]
+  },
+  {
+    "question": "(3.4.2) Which of the following scenarios is considered an event of interest?",
+    "answers": [
+      "An unscheduled or unanticipated shutdown of servers, endpoints, or links"
+    ]
+  },
+  {
+    "question": "(5.2.3) What is the characteristic of an asymmetric algorithm?",
+    "answers": ["It uses a key pair."]
+  },
+  {
+    "question": "(2.4) What are two primary features found in many trusted computing bases (TCBs)?",
+    "answers": ["Trusted path and trusted shell"]
+  },
+  {
+    "question": "(2.4.4) Which of the following statements BEST distinguishes between rule-based access control and role-based access control?",
+    "answers": [
+      "RuBAC assigns permissions based on predefined conditions or rules, while role-based access control assigns permissions based on user roles within an organization."
+    ]
+  },
+  {
+    "question": "(5.3.2) What is a system to protect data in online banking that uses asymmetric encryption and digital certificates to authenticate the identity of parties and encrypt data?",
+    "answers": ["Public Key Infrastructure (PKI)"]
+  },
+  {
+    "question": "(6.1.5) What is the transmission distance for multimode fiber?",
+    "answers": ["600m"]
+  },
+  {
+    "question": "(7.3) Why would onboarding be considered necessary when implementing an MDM policy?",
+    "answers": ["To track users"]
+  },
+  {
+    "question": "(1.4) What is an example of a corrective control?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "(4.1.3) Mitigating an attack involves two logically separate incident response tasks—__________ and eradication—which are often done in combination.",
+    "answers": ["Containment"]
+  },
+  {
+    "question": "(3.4.2) User and entity behavior analytics (UEBA) systems typically have the following components EXCEPT which one?",
+    "answers": ["Security"]
+  },
+  {
+    "question": "(7.5.6) What is the storage name for a virtual hard drive that can be attached to a virtual machine (VM) instance and used to host data within a file system?",
+    "answers": ["Volume"]
+  },
+  {
+    "question": "(7.1.1) Which of the following is NOT a social engineering method?",
+    "answers": ["Skimming"]
+  },
+  {
+    "question": "(2.3.2) Which of the following BEST describes the concept of identity proofing and its primary purpose?",
+    "answers": [
+      "Identity proofing is the process of verifying an individual's identity to ensure that the person is who they claim to be before granting access to services or systems."
+    ]
+  },
+  {
+    "question": "(3.1.1) What is the PRIMARY purpose of a Common Vulnerability Scoring System (CVSS)?",
+    "answers": [
+      "It provides a mechanism to assess different aspects of software vulnerabilities."
+    ]
+  },
+  {
+    "question": "(5.3.1) The ESP protocol provides data confidentiality (encryption) and which of the following?",
+    "answers": ["Authentication"]
+  },
+  {
+    "question": "(5.3.1) The Authentication Header (AH) provides what?",
+    "answers": ["Payload integrity"]
+  },
+  {
+    "question": "(7.4) The following are essential characteristics of the cloud, EXCEPT which one?",
+    "answers": ["Limited network access"]
+  },
+  {
+    "question": "(6.2.1) The attacker is coupling exploit with backdoor into deliverable payload. What type of attack strategy is being used:",
+    "answers": ["Cyber Kill Chain"]
+  },
+  {
+    "question": "(3.1.4) Which two elements are essential to determining quantitative risk?",
+    "answers": ["Asset Value (AV) and Exposure Factor (EF)"]
+  },
+  {
+    "question": "(1.8) What water-based suppression system, when activated by a heat or fire sensor, makes all sprinkler heads simultaneously active, putting out large amounts of water or foam when the central valve is opened?",
+    "answers": ["Deluge"]
+  },
+  {
+    "question": "(1.5) How would you define recognizing impacts to an organization if its information suffers any security compromise to its related characteristics (e.g., confidentiality, integrity, availability, non-repudiation, authenticity, privacy, safety)?",
+    "answers": ["Classification"]
+  },
+  {
+    "question": "(6.6.2) The Wi-Fi Protected Access 3 (WPA3) handshake was shown in 2019 to be vulnerable to an attack named__________.",
+    "answers": ["Dragonblood"]
+  },
+  {
+    "question": "(3.3.2) Which of the following tools is used to audit wireless networks and provide insights into the security of the network?",
+    "answers": ["Aircrack-ng"]
+  },
+  {
+    "question": "(7.1) Which of the following is the primary action of a malicious code attack?",
+    "answers": ["Payload"]
+  },
+  {
+    "question": "(5.1.2) What is the main challenge to ensuring data availability in cryptography?",
+    "answers": ["Ensuring data is accessible and usable by authorized parties"]
+  },
+  {
+    "question": "(1.6.1) Which role in the change management process is primarily responsible for reviewing and approving changes to ensure they align with business objectives?",
+    "answers": ["Change Advisory Board (CAB)"]
+  },
+  {
+    "question": "(2.1.1) How can you prevent a replay attack?",
+    "answers": ["Use the Challenge-Handshake Authentication Protocol (CHAP)."]
+  },
+  {
+    "question": "(1.2) Based on GDPR roles and responsibilities regarding personal data protection, who determines the purposes and means for any actions involved with the use of personal data?",
+    "answers": ["Data subject"]
+  },
+  {
+    "question": "(7.4.2) Within SaaS, what is the delivery model used?",
+    "answers": ["Hosted application management"]
+  },
+  {
+    "question": "(6.2.1) Which of the following is a type of denial-of-service (DoS) or distributed denial-of-service (DDoS) attack that sends massive numbers of requests to a server to overwhelm it with open connections?",
+    "answers": ["SYN flood"]
+  },
+  {
+    "question": "(7.1) A software that is transmitted across a network and executed on a local system without explicit installation by the recipient is called what?",
+    "answers": ["Mobile code"]
+  },
+  {
+    "question": "(6.2) _______ occurs when the attacker establishes a value for a user session ID and sends it to the user (such as by email, with a link). When the user logs on, the session ID is already set by the attacker, and they can capture other data or hijack the session.",
+    "answers": ["Session fixation"]
+  },
+  {
+    "question": "(5.1.3) The key used in a cryptographic operation is also called what?",
+    "answers": ["Cryptovariable"]
+  },
+  {
+    "question": "(4.2.2) Which of the following is an accepted rule of evidence?",
+    "answers": ["Be authentic."]
+  },
+  {
+    "question": "(3.5.2) Your manager has asked you to present vulnerability data and remediation metrics to the head of your department. In what way can you present this data that provides leadership with an accurate picture of what is happening in the environment for quick decision making?",
+    "answers": ["Use visual aids like dashboards and graphs."]
+  },
+  {
+    "question": "(4.1.6) Which of the following activities is typically part of post-incident activities?",
+    "answers": ["Implementing new countermeasures based on incident analysis"]
+  },
+  {
+    "question": "(1.5) __________ is the process of applying a strong magnetic force to magnetic media.",
+    "answers": ["Degaussing"]
+  },
+  {
+    "question": "(5.3.1) IPsec can be implemented in which two of the following modes?",
+    "answers": ["Transport and Tunnel"]
+  },
+  {
+    "question": "(6.5.4) Network Access Control (NAC) implementation relies primary on:",
+    "answers": ["RADIUS"]
+  },
+  {
+    "question": "(2.1.4) What SAML component defines how assertions and protocols message exchanges are conducted with response/request pairs?",
+    "answers": ["Profiles"]
+  },
+  {
+    "question": "(4.3) ________ refers to enabling the organization to function, at a reduced capacity, during the disruption caused by any form of a disturbance, attack, infrastructure failure, or natural disaster.",
+    "answers": ["Business continuity"]
+  },
+  {
+    "question": "(1.3.3) Which of the following is an example of an administrative control?",
+    "answers": ["Establishing a policy that requires regular password changes"]
+  },
+  {
+    "question": "(6.4.1) What device runs at Layer 1 of the OSI model and is used to help propagate the signal further down the transmission medium with minimum errors?",
+    "answers": ["Repeater"]
+  },
+  {
+    "question": "(1.5.6) Why is it important for organizations to have clear policies on archival and retention requirements?",
+    "answers": [
+      "To comply with legal and regulatory requirements and ensure data availability for audits and investigations"
+    ]
+  },
+  {
+    "question": "(6.2.1) Which of the following frameworks provides information about the attacker as well as tactics, technique, and procedures (TTP)?",
+    "answers": ["MITRE ATT&CK"]
+  },
+  {
+    "question": "(7.5.1) What is the main characteristic of a Type-1 hypervisor?",
+    "answers": ["Runs directly on the hardware"]
+  },
+  {
+    "question": "(3.3.2) How does an audit differ from a security assessment?",
+    "answers": [
+      "An audit focuses on compliance with regulations and standards, while a security assessment focuses on identifying vulnerabilities and improving security posture."
+    ]
+  },
+  {
+    "question": "(3.3.2) Which of the following actions can be taken to lock down the enterprise from the possibility of rogue wireless access points (APs)?",
+    "answers": ["Enable MAC address filtering on the infrastructure switches."]
+  },
+  {
+    "question": "(7.2.6) The Trusted Platform Module (TPM) is typically soldered into what?",
+    "answers": ["The motherboard"]
+  },
+  {
+    "question": "(1.8) What is a common electrical problem during which there is a decrease in voltage called?",
+    "answers": ["Sag"]
+  },
+  {
+    "question": "(6.1.4) Which of the following are not cellular protocols?",
+    "answers": ["Global Positioning System (GPS)"]
+  },
+  {
+    "question": "(7.5.6) Which of these is an attack that can be targeted at applications?",
+    "answers": ["Buffer overflow"]
+  },
+  {
+    "question": "(7.2.3) Most SCADA systems minimally contain the following components EXCEPT which one?",
+    "answers": ["Crankshaft sensor"]
+  },
+  {
+    "question": "(6.5.1) Port address translation (PAT) provides what service?",
+    "answers": ["It changes private addresses to public"]
+  },
+  {
+    "question": "(2.3.3) As part of identity and access management, how would you define the process of creating or setting up all procedures and tools to manage the life cycle of an identity?",
+    "answers": ["Provisioning"]
+  },
+  {
+    "question": "(7.2.5) A workplace policy where companies provide devices to employees for work purposes while allowing some personal use is known as what?",
+    "answers": ["Corporate Owned, Personally Enabled (COPE)"]
+  },
+  {
+    "question": "(6.7) Which of the following represents the main IoT management challenge?",
+    "answers": ["Firmware update"]
+  },
+  {
+    "question": "(6.3.1) What are the three components required to implement an 802.1x solution?",
+    "answers": ["A supplicant, an authenticator, and an authentication server"]
+  },
+  {
+    "question": "(5.1.5) Quantum key distribution can facilitate _____ in the healthcare sector.",
+    "answers": ["Large-scale experiments and secure collaboration"]
+  },
+  {
+    "question": "(7.4.1) Augmenting internal, private data center capabilities with managed services during times of increased demand is called what?",
+    "answers": ["Cloud bursting"]
+  },
+  {
+    "question": "(6.1.4) Which of the following establishes a dedicated circuit between endpoints?",
+    "answers": ["Circuit-switched network"]
+  },
+  {
+    "question": "(4.2.2) How does hashing help digital investigations?",
+    "answers": ["It ensures the integrity of the files."]
+  },
+  {
+    "question": "(4.3.1) If you want to increase backup reliability without having to rely on a chain of backups while keeping costs manageable, which of the following backup methods is your BEST strategy?",
+    "answers": ["Full and differential"]
+  },
+  {
+    "question": "(6.6.2) If session keys are never reused, ciphertext that was captured from previous messages (or from previously encrypted files in storage) cannot be decrypted with any future session key. This is known as what kind of secrecy?",
+    "answers": ["Forward"]
+  },
+  {
+    "question": "(7.5.6) What is it called when an attacker can move between virtual machines in the hypervisor?",
+    "answers": ["VM jumping"]
+  },
+  {
+    "question": "(2.2.1) Which of the following BEST describes the characteristics and implications of one-way, two-way, and transitive trust relationships in Active Directory?",
+    "answers": [
+      "In a one-way trust, one domain trusts another, but the trust is not reciprocated; in a two-way trust, both domains trust each other; and in a transitive trust, the trust extends beyond the two directly connected domains."
+    ]
+  },
+  {
+    "question": "(6.1.1) The _________ is hidden from general view, but it can also house data and services of a highly sensitive or sometimes criminal nature.",
+    "answers": ["Dark web"]
+  },
+  {
+    "question": "(1.2) A user has some extremely valuable data. The data is backed up to a flash USB stick and placed in a data safe. Which two principles of the CIA triad does this address?",
+    "answers": ["Confidentiality and availability"]
+  },
+  {
+    "question": "(7.5.6) What are the two storage types that can be used with an infrastructure-as-a-service (IaaS) environment?",
+    "answers": ["Volume and object"]
+  },
+  {
+    "question": "(3.1.1) Your organization wants to improve its cybersecurity defense strategy by better understanding the tactics, techniques, and procedures (TTPs) used by threat actors. You have been asked to implement the MITRE ATT&CK Framework to achieve this goal. During a meeting with your team, members ask about the primary benefits and applications of using the MITRE ATT&CK Framework. Which of the following best describes the PRIMARY purpose of the MITRE ATT&CK Framework?",
+    "answers": [
+      "It helps organizations identify, understand, and respond to adversarial behaviors by detailing common tactics, techniques, and procedures (TTPs) used by attackers."
+    ]
+  },
+  {
+    "question": "(3.1.1) What are the signals called from events that suggest a possible change of conditions are occurring?",
+    "answers": ["Precursors"]
+  },
+  {
+    "question": "(1.5) Removing the indirect identifiers to prevent data analysis tools from identifying an individual or sensitive information is called what?",
+    "answers": ["Anonymization"]
+  },
+  {
+    "question": "(2.1.2) Which of the following BEST describes a primary function of Active Directory Federation Services (ADFS)?",
+    "answers": [
+      "ADFS enables secure sharing of identity information between trusted partners and supports Single Sign-On (SSO)."
+    ]
+  },
+  {
+    "question": "(3.4.1) What is the main function of a data loss prevention (DLP) tool?",
+    "answers": ["To prevent sensitive data leaving the organization"]
+  },
+  {
+    "question": "Which of the following can be used to map data flows through an organization and the relevant security controls used at each point along the way? (D5.1, L5.1.1)",
+    "answers": ["Data life cycle"]
+  },
+  {
+    "question": "Why is an asset inventory so important? (D5.2, L5.2.1)",
+    "answers": ["You can't protect what you don't know you have"]
+  },
+  {
+    "question": "Who is responsible for publishing and signing the organization's policies? (D5.3, L5.3.1)",
+    "answers": ["Senior management"]
+  },
+  {
+    "question": "Which of the following is always true about logging? (D5.1, L5.1.3)",
+    "answers": [
+      "Logs should be stored separately from the systems they're logging"
+    ]
+  },
+  {
+    "question": "A mode of encryption for ensuring confidentiality efficiently, with a minimum amount of processing overhead (D5.1, L5.1.3)",
+    "answers": ["Symmetric"]
+  },
+  {
+    "question": "A ready visual cue to let anyone in contact with the data know what the classification is. (D5.1, L5.1.1)",
+    "answers": ["Label"]
+  },
+  {
+    "question": "A set of security controls or system settings used to ensure uniformity of configuration throughout the IT environment. (D5.2, L5.2.1)",
+    "answers": ["Baseline"]
+  },
+  {
+    "question": "What is the most important aspect of security awareness/training? (D5.4, L5.4.1)",
+    "answers": ["Protecting health and human safety"]
+  },
+  {
+    "question": "Which entity is most likely to be tasked with monitoring and enforcing security policy? (D5.3, L5.3.1)",
+    "answers": ["The security office"]
+  },
+  {
+    "question": "Which organizational policy is most likely to indicate which types of smartphones can be used to connect to the internal IT environment? (D5.3, L5.3.1)",
+    "answers": ["The BYOD policy (bring your own device)"]
+  },
+  {
+    "question": "Steve is a security practitioner assigned to come up with a protective measure for ensuring cars don’t collide with pedestrians. What is probably the most effective type of control for this task? (D1, L1.3.1)",
+    "answers": ["physical"]
+  },
+  {
+    "question": "Chad is a security practitioner tasked with ensuring that the information on the organization’s public website is not changed by anyone outside the organization. This task is an example of ensuring _________. (D1, L1.1.1)",
+    "answers": ["Integrity"]
+  },
+  {
+    "question": "Which of the following is an example of a “something you know” authentication factor? (D1, L1.1.1)",
+    "answers": ["password"]
+  },
+  {
+    "question": "A system that collects transactional information and stores it in a record in order to show which users performed which actions is an example of providing ________. (D1, L1.1.1)",
+    "answers": ["non-repudiation"]
+  },
+  {
+    "question": "In risk management concepts, a(n) _________ is something a security practitioner might need to protect. (D1, L1.2.1)",
+    "answers": ["asset"]
+  },
+  {
+    "question": "In risk management concepts, a(n) ___________ is something or someone that poses risk to an organization or asset. (D1, L1.2.1)",
+    "answers": ["threat"]
+  },
+  {
+    "question": "Kerpak works in the security office of a medium-sized entertainment company. Kerpak is asked to assess a particular threat, and he suggests that the best way to counter this threat would be to purchase and implement a particular security solution. This is an example of _______. (D1, L1.2.2)",
+    "answers": ["mitigation"]
+  },
+  {
+    "question": "Phrenal is selling a used laptop in an online auction. Phrenal has estimated the value of the laptop to be $100, but has seen other laptops of similar type and quality sell for both more and less than that amount. Phrenal hopes that the laptop will sell for $100 or more, but is prepared to take less for it if nobody bids that amount. This is an example of ___________. (D1, L1.2.2)",
+    "answers": ["risk tolerance"]
+  },
+  {
+    "question": "A software firewall is an application that runs on a device and prevents specific types of traffic from entering that device. This is a type of ________ control. (D1, L1.3.1)",
+    "answers": ["technical"]
+  },
+  {
+    "question": "Preenka works at an airport. There are red lines painted on the ground next to the runway; Preenka has been instructed that nobody can step or drive across a red line unless they request, and get specific permission from, the control tower. This is an example of a(n)______ control. (D1, L1.3.1)",
+    "answers": ["administrative"]
+  },
+  {
+    "question": "A bollard is a post set securely in the ground in order to prevent a vehicle from entering an area or driving past a certain point. Bollards are an example of ______ controls. (D1, L1.3.1)",
+    "answers": ["physical"]
+  },
+  {
+    "question": "The city of Grampon wants to know where all its public vehicles (garbage trucks, police cars, etc.) are at all times, so the city has GPS transmitters installed in all the vehicles. What kind of control is this? (D1, L1.3.1)",
+    "answers": ["technical"]
+  },
+  {
+    "question": "The city of Grampon wants to ensure that all of its citizens are protected from malware, so the city council creates a rule that anyone caught creating and launching malware within the city limits will receive a fine and go to jail. What kind of rule is this? (D1, L1.4.1)",
+    "answers": ["law"]
+  },
+  {
+    "question": "The Triffid Corporation publishes a strategic overview of the company’s intent to secure all the data the company possesses. This document is signed by Triffid senior management. What kind of document is this? (D1, L1.4.1)",
+    "answers": ["policy"]
+  },
+  {
+    "question": "The Payment Card Industry (PCI) Council is a committee made up of representatives from major credit card providers (Visa, Mastercard, American Express) in the United States. The PCI Council issues rules that merchants must follow if the merchants choose to accept payment via credit card. These rules describe best practices for securing credit card processing technology, activities for securing credit card information, and how to protect customers’ personal data. This set of rules is a _____. (D1, L1.4.2)",
+    "answers": ["standard"]
+  },
+  {
+    "question": "A vendor sells a particular operating system (OS). In order to deploy the OS securely on different platforms, the vendor publishes several sets of instructions on how to install it, depending on which platform the customer is using. This is an example of a ________. (D1, L1.4.2)",
+    "answers": ["procedure"]
+  },
+  {
+    "question": "Hoshi is an (ISC)2 member who works for the Triffid Corporation as a data manager. Triffid needs a new firewall solution, and Hoshi is asked to recommend a product for Triffid to acquire and implement. Hoshi’s cousin works for a firewall vendor; that vendor happens to make the best firewall available. What should Hoshi do? (D1, L1.5.1)",
+    "answers": ["disclose the relationship, but recommend the vendor/product"]
+  },
+  {
+    "question": "Siobhan is an (ISC)2 member who works for Triffid Corporation as a security analyst. Yesterday, Siobhan got a parking ticket while shopping after work. What should Siobhan do? (D1, L1.5.1)",
+    "answers": ["pay the parking ticket"]
+  },
+  {
+    "question": "Olaf is a member of (ISC)2 and a security analyst for Triffid Corporation. During an audit, Olaf is asked whether Triffid is currently following a particular security practice. Olaf knows that Triffid is not adhering to that standard in that particular situation, but that saying this to the auditors will reflect poorly on Triffid. What should Olaf do? (D1, L1.5.1)",
+    "answers": ["tell the auditors the truth"]
+  },
+  {
+    "question": "Zarma is an (ISC)2 member and a security analyst for Triffid Corporation. One of Zarma’s colleagues is interested in getting an (ISC)2 certification and asks Zarma what the test questions are like. What should Zarma do? (D1, L1.5.1)",
+    "answers": ["explain the style and format of the questions, but no detail"]
+  },
+  {
+    "question": "An attacker outside the organization attempts to gain access to the organization’s internal files. This is an example of a(n) ______. (D2, L2.1.1)",
+    "answers": ["intrusion"]
+  },
+  {
+    "question": "What is the goal of an incident response effort? (D2, L2.1.1)",
+    "answers": ["reduce the impact of incidents on operations"]
+  },
+  {
+    "question": "What is the goal of Business Continuity efforts? (D2, L2.2.1)",
+    "answers": ["keep critical business functions operational"]
+  },
+  {
+    "question": "Which of the following is likely to be included in the business continuity plan? (D2, L2.2.1)",
+    "answers": [
+      "alternate work areas for personnel affected by a natural disaster"
+    ]
+  },
+  {
+    "question": "What is the most important goal of a business continuity effort? (D2, L2.2.1)",
+    "answers": ["ensure the organization survives a disaster"]
+  },
+  {
+    "question": "What is the overall objective of a disaster recovery (DR) effort? (D2, L2.3.1)",
+    "answers": ["return to normal, full operations"]
+  },
+  {
+    "question": "What is the risk associated with resuming full normal operations too soon after a DR effort? (D2, L2.3.1)",
+    "answers": ["the danger posed by the disaster might still be present"]
+  },
+  {
+    "question": "At Parvi’s place of work, the perimeter of the property is surrounded by a fence; there is a gate with a guard at the entrance. All inner doors only admit personnel with badges, and cameras monitor the hallways. Sensitive data and media are kept in safes when not in use. This is an example of: (D3, L3.1.1)",
+    "answers": ["defense in depth"]
+  },
+  {
+    "question": "Gelbi is a Technical Support analyst for Triffid, Inc. Gelbi sometimes is required to install or remove software. Which of the following could be used to describe Gelbi’s account? (D3, L3.1.1)",
+    "answers": ["privileged"]
+  },
+  {
+    "question": "Trina is a security practitioner at Triffid, Inc. Trina has been tasked with selecting a new product to serve as a security control in the environment. After doing some research, Trina selects a particular product. Before that product can be purchased, a manager must review Trina’s selection and determine whether to approve the purchase. This is a description of: (D3, L3.1.1)",
+    "answers": ["segregation of duties"]
+  },
+  {
+    "question": "Guillermo logs onto a system and open a document file. In this example, Guillermo is: (D3, L3.1.1)",
+    "answers": ["the subject"]
+  },
+  {
+    "question": "Which of the following is not an appropriate control to add to privileged accounts? (D3, L3.1.1)",
+    "answers": ["security deposit"]
+  },
+  {
+    "question": "Which of these is an example of a physical access control mechanism? (D3, L3.2.1)",
+    "answers": ["a lock on a door"]
+  },
+  {
+    "question": "Which of the following is a biometric access control mechanism? (D3, L3.2.1)",
+    "answers": ["a door locked by a voiceprint identifier"]
+  },
+  {
+    "question": "Visitors to a secure facility need to be controlled. Controls useful for managing visitors include all of the following except: (D3, L3.2.1)",
+    "answers": ["fence"]
+  },
+  {
+    "question": "A human guard monitoring a hidden camera could be considered a ______ control. (D3, L3.2.1)",
+    "answers": ["detective"]
+  },
+  {
+    "question": "A _____ is a record of something that has occurred. (D3, L3.2.1)",
+    "answers": ["log"]
+  },
+  {
+    "question": "Network traffic originating from outside the organization might be admitted to the internal IT environment or blocked at the perimeter by a ________. (D3, L3.2.1)",
+    "answers": ["firewall"]
+  },
+  {
+    "question": "Bruce is the branch manager of a bank. Bruce wants to determine which personnel at the branch can get access to systems, and under which conditions they can get access. Which access control methodology would allow Bruce to make this determination? (D3, L3.3.1)",
+    "answers": ["DAC (discretionary access control)"]
+  },
+  {
+    "question": "Which of the following would be considered a logical access control? (D3, L3.3.1)",
+    "answers": [
+      "a fingerprint reader that allows an employee to access a laptop computer"
+    ]
+  },
+  {
+    "question": "Trina and Doug both work at Triffid, Inc. Doug is having trouble logging into the network. Trina offers to log in for Doug, using Trina’s credentials, so that Doug can get some work done. What is the problem with this? (D3, L3.3.1)",
+    "answers": ["Anything either of them do will be attributed to Trina"]
+  },
+  {
+    "question": "Gary is unable to log in to the production environment. Gary tries three times and is then locked out of trying again for one hour. Why? (D3, L3.3.1)",
+    "answers": ["Gary’s actions look like an attack"]
+  },
+  {
+    "question": "Suvid works at Triffid, Inc. When Suvid attempts to log in to the production environment, a message appears stating that Suvid has to reset the password. What may have occurred to cause this? (D3, L3.3.1)",
+    "answers": ["Suvid’s password has expired"]
+  },
+  {
+    "question": "Prina is a database manager. Prina is allowed to add new users to the database, remove current users, and create new usage functions for the users. Prina is not allowed to read the data in the fields of the database itself. This is an example of: (D3, L3.3.1)",
+    "answers": ["role-based access controls (RBAC)"]
+  },
+  {
+    "question": "A device typically accessed by multiple users, often intended for a single purpose, such as managing email or web pages. (D4.1 L4.1.1)",
+    "answers": ["server"]
+  },
+  {
+    "question": "The logical address of a device connected to the network or Internet. (D4.1 L4.1.1)",
+    "answers": ["Internet Protocol (IP) address"]
+  },
+  {
+    "question": "Barry wants to upload a series of files to a web-based storage service, so that people Barry has granted authorization can retrieve these files. Which of the following would be Barry’s preferred communication protocol if he wanted this activity to be efficient and secure? (D4.1 L4.1.2)",
+    "answers": ["SFTP (Secure File Transfer Protocol)"]
+  },
+  {
+    "question": "Cheryl is browsing the Web. Which of the following protocols is she probably using? (D4.1 L4.1.2)",
+    "answers": ["HTTP (Hypertext Transfer Protocol)"]
+  },
+  {
+    "question": "Ludwig is a security analyst at Triffid, Inc. Ludwig notices network traffic that might indicate an attack designed to affect the availability of the environment. Which of the following might be the attack Ludwig sees? (D4.2 L4.2.1)",
+    "answers": ["DDOS (distributed denial of service)"]
+  },
+  {
+    "question": "Garfield is a security analyst at Triffid, Inc. Garfield notices that a particular application in the production environment is being copied very quickly, across systems and devices utilized by many users. What kind of attack could this be? (D4.2 L4.2.1)",
+    "answers": ["worm"]
+  },
+  {
+    "question": "Triffid, Inc., has many remote workers who use their own IT devices to process Triffid’s information. The Triffid security team wants to deploy some sort of sensor on user devices in order to recognize and identify potential security issues. Which of the following is probably most appropriate for this specific purpose? (D4.2 L4.2.2)",
+    "answers": ["HIDS (host-based intrusion-detection systems)"]
+  },
+  {
+    "question": "Which of the following is one of the common ways potential attacks are often identified? (D4.2 L4.2.2)",
+    "answers": [
+      "users report unusual systems activity/response to Help Desk or the security office"
+    ]
+  },
+  {
+    "question": "Inbound traffic from an external source seems to indicate much higher rates of communication than normal, to the point where the internal systems might be overwhelmed. Which security solution can often identify and potentially counter this risk? (D4.2 L4.2.2)",
+    "answers": ["firewall"]
+  },
+  {
+    "question": "A tool that aggregates log data from multiple sources, and typically analyzes it and reports potential threats. (D4.2 L4.2.2)",
+    "answers": ["SIEM"]
+  },
+  {
+    "question": "“Wiring _____” is a common term meaning “a place where wires/conduits are often run, and equipment can be placed, in order to facilitate the use of local networks.” (D4.3 L4.3.1)",
+    "answers": ["closet"]
+  },
+  {
+    "question": "Which type of fire-suppression system is typically the safest for humans? (D4.3 L4.3.1)",
+    "answers": ["water"]
+  },
+  {
+    "question": "To adequately ensure availability for a data center, it is best to plan for both resilience and _______ of the elements in the facility. (D4.3 L4.3.1)",
+    "answers": ["redundancy"]
+  },
+  {
+    "question": "Which of the following is *not* a typical benefit of cloud computing services? (D4.3 L4.3.2)",
+    "answers": ["freedom from legal constraints"]
+  },
+  {
+    "question": "Which common cloud service model only offers the customer access to a given application? (D4.3 L4.3.2)",
+    "answers": ["Software as a service (SaaS)"]
+  },
+  {
+    "question": "The concept that the deployment of multiple types of controls provides better security than using a single type of control. (D4.3 L4.3.3)",
+    "answers": ["defense in depth"]
+  },
+  {
+    "question": "A VLAN is a _____ method of segmenting networks. (D4.3 L4.3.3)",
+    "answers": ["logical"]
+  },
+  {
+    "question": "An IoT (Internet of Things) device is typified by its effect on or use of the _____ environment. (D4.3 L4.3.3)",
+    "answers": ["physical"]
+  },
+  {
+    "question": "Archiving is typically done when _________. (D5.1, L5.1.1)",
+    "answers": ["data is not needed for regular work purposes"]
+  },
+  {
+    "question": "Every document owned by Triffid, Inc., whether hardcopy or electronic, has a clear, 24-point word at the top and bottom. Only three words can be used: “Sensitive,” “Proprietary,” and “Public.” This is an example of _____. (D5.1, L5.1.1)",
+    "answers": ["labeling"]
+  },
+  {
+    "question": "Security needs to be provided to ____ data. (D5.1, L5.1.1)",
+    "answers": ["all"]
+  },
+  {
+    "question": "Log data should be kept ______. (D5.1, L5.1.2)",
+    "answers": ["on a device other than where it was captured"]
+  },
+  {
+    "question": "Security controls on log data should reflect ________. (D5.1, L5.1.2)",
+    "answers": ["the sensitivity of the source device"]
+  },
+  {
+    "question": "Bluga works for Triffid, Inc. as a security analyst. Bluga wants to send a message to several people and wants the recipients to know that the message definitely came from Bluga. What type of encryption should Bluga use? (D5.1, L5.1.3)",
+    "answers": ["asymmetric encryption"]
+  },
+  {
+    "question": "Dieter wants to send a message to Lupa and wants to be sure that Lupa knows the message has not been modified in transit. What technique/tool could Dieter use to assist in this effort? (D5.1, L5.1.3)",
+    "answers": ["hashing"]
+  },
+  {
+    "question": "An organization must always be prepared to ______ when applying a patch. (D5.2, L5.2.1)",
+    "answers": ["rollback"]
+  },
+  {
+    "question": "Proper alignment of security policy and business goals within the organization is important because: (D5.3, L5.3.1)",
+    "answers": [
+      "security policy that conflicts with business goals can inhibit productivity"
+    ]
+  },
+  {
+    "question": "Probably the most important reason to conduct security instruction for all employees. (D5.4, L5.4.1)",
+    "answers": ["an informed user is a more secure user"]
+  },
+  {
+    "question": "By far, the most crucial element of any security instruction program. (D5.4, L5.4.1)",
+    "answers": ["preserve health and human safety"]
+  },
+  {
+    "question": "When Pritha started working for Triffid, Inc., Pritha had to sign a policy that described how Pritha would be allowed to use Triffid’s IT equipment. What policy was this? (D5.3, L5.3.1)",
+    "answers": ["the acceptable use policy (AUP)"]
+  },
+  {
+    "question": "The output of any given hashing algorithm is always _____. (D5.1, L5.1.3)",
+    "answers": ["the same length"]
+  }
+]
