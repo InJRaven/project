@@ -973,5 +973,24 @@
   {
     "question": "Run the printSimilarRatingsByYearAfterAndMinutes method in the MovieRunnerSimilarRatings class using the files ratedmoviesfull.csv and ratings.csv and the rater id 314, the year 1975, the length of the movie between 70 and 200 inclusive, the number of minimal raters to 5 and the number of top similar raters set to 10. What is the movie with the top rated average?",
     "answers": ["Nightcrawler"]
+  },
+  {
+    "question": "Consider the following HTML and CSS to make a web page. HTML: 14 15 16 17 18 19 20 11 12 13 8 9 10 6 7 3 4 5 1 2 </ul> <li>Los Angeles</li> <li class = oddNums>Chicago</li> </ol> </p> </body> <li>Empire State Building</li> <li>Statue of Liberty</li> <li>Times Square</li> <ol> <li class = oddNums>New York</li> <ul> </p> <p> <title>Cities</title> <body> <p><img src=\"http://s12.postimg.org/yj9byjs3x/DSCN6056_copy.jpg\"/> <head> </head> CSS: 1 2 3 4 5 6 body { background-color : #567898; } oddNums { color : purple; } Which of the following are errors in this code? Select all that are correct.",
+    "answers": [
+      "In the CSS there should be a dot before oddNums to indicate that it is a class.",
+      "The unordered list inside the ordered list should go inside the list element New York, not after it.",
+      "The <title> tag should be inside the <head> tag.",
+      "The HTML is missing <html> tags."
+    ]
+  },
+  {
+    "question": "Consider the following short program that defines a function to make an image darker by a certain amount and applies it to the image chapel.png. 1 2 3 4 5 6 7 8 9 10 11 function makeDarker(image,amount){ for (var px of image.values()){ px.setRed(px.getRed()-amount); px.setGreen(px.getGreen()-amount); px.setBlue(px.getBlue()-amount); } } img = new SimpleImage(\"chapel.png\"); img = makeDarker(50); print(img); Which of the following are errors in the program? Select all that are correct.",
+    "answers": [
+      "The function makeDarker is missing a return statement so there will be an error when the program assigns the return value of makeDarker to the variable img."
+    ]
+  },
+  {
+    "question": "Run the method countUniqueIPsInRange(400,499) on the file weblog2_log. What number is returned?",
+    "answers": ["23"]
   }
 ]
