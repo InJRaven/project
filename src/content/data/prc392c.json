@@ -1,0 +1,713 @@
+[
+  {
+    "question": "What are the four main factors that a solutions architect should consider when they must choose a Region?",
+    "answers": ["Latency, price, service availability, and compliance"]
+  },
+  {
+    "question": "True or False: Every action a user takes in AWS is an API call.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which statement BEST describes the relationship between Regions, Availability Zones and data centers?",
+    "answers": [
+      "Regions are clusters of Availability Zones. Availability Zones are clusters of data centers."
+    ]
+  },
+  {
+    "question": "Which of the following is a benefit of cloud computing?",
+    "answers": ["Go global in minutes."]
+  },
+  {
+    "question": "A company wants to manage AWS services by using the command line and automating them with scripts. What should the company use to accomplish this goal?",
+    "answers": ["AWS Command Line Interface (AWS CLI)"]
+  },
+  {
+    "question": "What is a best practice when securing the AWS account root user?",
+    "answers": ["Enable multi-factor authentication"]
+  },
+  {
+    "question": "A solutions architect is consulting for a company. When users in the company authenticate to a corporate network, they want to be able to use AWS without needing to sign in again. Which AWS identity should the solutions architect recommend for this use case?",
+    "answers": ["IAM Role"]
+  },
+  {
+    "question": "Which of the following can be found in an AWS Identity and Access Management (IAM) policy?",
+    "answers": ["A and B"]
+  },
+  {
+    "question": "True or False: AWS Identity and Access Management (IAM) policies can restrict the actions of the AWS account root user.",
+    "answers": ["False"]
+  },
+  {
+    "question": "According to the AWS shared responsibility model, which of the following is the responsibility of AWS?",
+    "answers": [
+      "Managing the hardware, software, and networking components that run AWS services, such as the physical servers, host operating systems, virtualization layers, and AWS networking components."
+    ]
+  },
+  {
+    "question": "Which of the following is recommended if a company has a single AWS account, and multiple people who work with AWS services in that account?",
+    "answers": [
+      "The company should create an AWS Identity and Access Management (IAM) group, grant the group permissions to perform specific job functions, and assign users to a group, or use IAM roles."
+    ]
+  },
+  {
+    "question": "True or False: According to the AWS shared responsibility model, a customer is responsible for security in the cloud.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following provides temporary credentials (that expire after a defined period of time) to AWS services?",
+    "answers": ["IAM role"]
+  },
+  {
+    "question": "A user is hosting a solution on Amazon Elastic Compute Cloud (Amazon EC2). Which networking component is needed to create a private network for their AWS resources?",
+    "answers": ["Virtual private cloud (VPC)"]
+  },
+
+  {
+    "question": "Which information is needed to create a virtual private cloud (VPC)?",
+    "answers": ["The AWS Region that the VPC will reside in."]
+  },
+  {
+    "question": "Which of the following can a route table be attached to?",
+    "answers": ["Subnets"]
+  },
+  {
+    "question": "A company wants to allow resources in a public subnet to communicate with the internet. Which of the following must the company do to meet this requirement?",
+    "answers": ["B and C"]
+  },
+  {
+    "question": "What is the compute as a service (CaaS) model?",
+    "answers": [
+      "The CaaS model offers computing resources (such as virtual machines that run on servers in data centers) on demand, by using virtual services."
+    ]
+  },
+  {
+    "question": "Which statement about the default settings of a security group is TRUE?",
+    "answers": [
+      "Blocks all inbound traffic and allows all outbound traffic by default."
+    ]
+  },
+  {
+    "question": "What does an Amazon Elastic Compute Cloud (Amazon EC2) instance type indicate?",
+    "answers": ["Instance family and instance size"]
+  },
+  {
+    "question": "What is the difference between using AWS Fargate or Amazon Elastic Compute Cloud (Amazon EC2) as the compute platform for Amazon Elastic Container Service (Amazon ECS)?",
+    "answers": [
+      "With AWS Fargate, AWS manages and provisions the underlying infrastructure for hosting containers."
+    ]
+  },
+  {
+    "question": "Which statement about serverless is TRUE?",
+    "answers": ["Users do not pay for idle resources."]
+  },
+  {
+    "question": "True or False: AWS Lambda is always the best solution when running applications on AWS.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which compute service does Amazon Elastic Compute Cloud (Amazon EC2) provide?",
+    "answers": ["Virtual machines (VMs)"]
+  },
+  {
+    "question": "Which stage of the instance lifecycle is an instance in when the account starts to accumulate charges?",
+    "answers": ["When an instance is in a running stage"]
+  },
+  {
+    "question": "Which component of the c5.4xlarge instance determines the instance family and generation number?",
+    "answers": ["c5"]
+  },
+  {
+    "question": "Which container runtime can be used to host a container on an Amazon Elastic Compute Cloud (Amazon EC2) instance?",
+    "answers": ["Docker"]
+  },
+  {
+    "question": "What is an example of an event that invokes an AWS Lambda function?",
+    "answers": [
+      "An upload of a file to the Amazon Simple Storage Service (Amazon S3) source bucket"
+    ]
+  },
+  {
+    "question": "True or False: With serverless, users do not need to provision and manage servers.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False: All AWS services require users to configure a virtual private cloud (VPC).",
+    "answers": ["False"]
+  },
+  {
+    "question": "An engineer is working with networks in the AWS Cloud. What should the engineer use to configure the size of their network?",
+    "answers": ["Classless Inter-Domain Routing (CIDR) notation"]
+  },
+  {
+    "question": "What is the difference between network access control lists (ACLs) and security groups?",
+    "answers": [
+      "By default, network ACLs allow incoming and outgoing traffic from a subnet. Users can change these settings to provide an additional layer of security. However, the default configurations of security groups block all inbound traffic and allow all outbound traffic."
+    ]
+  },
+
+  {
+    "question": "What is a typical use case for Amazon Simple Storage Service (Amazon S3)?",
+    "answers": ["Object storage for media hosting"]
+  },
+  {
+    "question": "A company needs a storage layer for a high-transaction relational database on an Amazon Elastic Compute Cloud (Amazon EC2) instance. Which service should the company use?",
+    "answers": ["Amazon Elastic Block Store (Amazon EBS)"]
+  },
+  {
+    "question": "True or False: Amazon Elastic Block Store (Amazon EBS) volumes are considered ephemeral storage.",
+    "answers": ["False"]
+  },
+  {
+    "question": "A solutions architect is working for a healthcare facility, and they are tasked with storing 7 years of patient information that is rarely accessed. The facility’s IT manager asks the solutions architect to consider one of the Amazon Simple Storage Service (Amazon S3) storage tiers to store the patient information. Which storage tier should the solutions architect suggest?",
+    "answers": ["Amazon S3 Glacier Deep Archive"]
+  },
+  {
+    "question": "True or False: Object storage is the best storage solution for applications that need to frequently update specific small sections of a file.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: A Multi-AZ deployment is beneficial when users want to increase the availability of their database.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which task of running and operating the database are users responsible for when they use Amazon Relational Database Service (Amazon RDS)?",
+    "answers": ["Optimizing the database"]
+  },
+  {
+    "question": "Which of the following are common use cases for file storage? (Choose TWO.)",
+    "answers": ["User home directories", "Large content repositories"]
+  },
+  {
+    "question": "True or False: The IT department in a company can attach Amazon Elastic Block Store (Amazon EBS) volumes to Amazon Simple Storage Service (Amazon S3) to store data in a bucket.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following instance families does Amazon Relational Database Service (Amazon RDS) support? (Choose TWO.)",
+    "answers": ["General purpose", "Memory optimized"]
+  },
+  {
+    "question": "A solutions architect is working for a small business. The business is looking for a storage service that temporarily stores frequently changing and non-persistent data. This type of data can be deleted during instance stops or terminations. Which service should the solutions architect recommend for this use case?",
+    "answers": ["Amazon Elastic Compute Cloud (Amazon EC2) Instance Store"]
+  },
+  {
+    "question": "Which database is a non-relational database that stores data in key-value pairs, and is a good fit for hosting simple lookup tables?",
+    "answers": ["Amazon DynamoDB"]
+  },
+  {
+    "question": "Which core component of Amazon DynamoDB corresponds to a column in a relational database table?",
+    "answers": ["Attribute"]
+  },
+  {
+    "question": "Which AWS database service is best suited for use cases such as social networking or recommendation engines?",
+    "answers": ["Amazon Neptune"]
+  },
+
+  {
+    "question": "What are the three components of Amazon EC2 Auto Scaling?",
+    "answers": ["Launch template, scaling policies, EC2 Auto Scaling group"]
+  },
+  {
+    "question": "Which of the following features are included in Elastic Load Balancing (ELB)?",
+    "answers": ["A and C"]
+  },
+  {
+    "question": "True or False: When a user uses Elastic Load Balancing (ELB) with an Auto Scaling group, it is not necessary to manually register individual Amazon Elastic Compute Cloud (Amazon EC2) instances with the load balancer.",
+    "answers": ["True"]
+  },
+  {
+    "question": "An application must choose target groups by using a rule that is based on the path of a URL. Which Elastic Load Balancing (ELB) type should be used for this use case?",
+    "answers": ["Application Load Balancer"]
+  },
+  {
+    "question": "What are the two ways that an application can be scaled?",
+    "answers": ["Vertically and horizontally"]
+  },
+  {
+    "question": "Which elements in Amazon CloudWatch dashboards can be used to view and analyze metrics?",
+    "answers": ["Widgets"]
+  },
+  {
+    "question": "What are the possible states of a metric alarm in Amazon CloudWatch?",
+    "answers": ["OK, ALARM, INSUFFICIENT_DATA"]
+  },
+  {
+    "question": "What kind of data can a company collect with VPC Flow Logs?",
+    "answers": [
+      "Data about network traffic that comes into and out of a virtual private cloud (VPC)"
+    ]
+  },
+  {
+    "question": "What is a benefit of monitoring on AWS?",
+    "answers": ["Monitoring recognizes security threats and events."]
+  },
+  {
+    "question": "True or False: When a company redesigns an application by using a serverless service on AWS, they might not need to configure networking components, such as a virtual private cloud (VPC), subnets, and security groups.",
+    "answers": ["True"]
+  },
+
+  {
+    "question": "What are the four main factors that a solutions architect should consider when they must choose a Region?",
+    "answers": ["Latency, price, service availability, and compliance"]
+  },
+  {
+    "question": "Which statement BEST describes the relationship between Regions, Availability Zones and data centers?",
+    "answers": [
+      "Regions are clusters of Availability Zones. Availability Zones are clusters of data centers."
+    ]
+  },
+  {
+    "question": "Which of the following can be found in an AWS Identity and Access Management (IAM) policy?",
+    "answers": ["A and B"]
+  },
+  {
+    "question": "A solutions architect is consulting for a company. When users in the company authenticate to a corporate network, they want to be able to use AWS without needing to sign in again. Which AWS identity should the solutions architect recommend for this use case?",
+    "answers": ["IAM Role"]
+  },
+  {
+    "question": "A company wants to allow resources in a public subnet to communicate with the internet. Which of the following must the company do to meet this requirement?",
+    "answers": ["B and C"]
+  },
+  {
+    "question": "What does an Amazon Elastic Compute Cloud (Amazon EC2) instance type indicate?",
+    "answers": ["Instance family and instance size"]
+  },
+  {
+    "question": "What is a typical use case for Amazon Simple Storage Service (Amazon S3)?",
+    "answers": ["Object storage for media hosting"]
+  },
+  {
+    "question": "A solutions architect is working for a healthcare facility, and they are tasked with storing 7 years of patient information that is rarely accessed. The facility’s IT manager asks the solutions architect to consider one of the Amazon Simple Storage Service (Amazon S3) storage tiers to store the patient information. Which storage tier should the solutions architect suggest?",
+    "answers": ["Amazon S3 Glacier Deep Archive"]
+  },
+  {
+    "question": "Which task of running and operating the database are users responsible for when they use Amazon Relational Database Service (Amazon RDS)?",
+    "answers": ["Optimizing the database"]
+  },
+  {
+    "question": "True or false: A Multi-AZ deployment is beneficial when users want to increase the availability of their database.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are the three components of Amazon EC2 Auto Scaling?",
+    "answers": ["Launch template, scaling policies, EC2 Auto Scaling group"]
+  },
+  {
+    "question": "An application must choose target groups by using a rule that is based on the path of a URL. Which Elastic Load Balancing (ELB) type should be used for this use case?",
+    "answers": ["Application Load Balancer"]
+  },
+
+  {
+    "question": "Did you complete this activity?",
+    "answers": ["Yes"]
+  },
+
+  {
+    "question": "A solutions architect must design a solution to help manage their customer’s containerized applications. Currently, the customer workload runs in Docker containers on top of Amazon Elastic Compute Cloud (Amazon EC2) instances and on-premises servers that run a hybrid Kubernetes cluster. The customer wants to migrate part of their hybrid Kubernetes deployment to the cloud with a minimum amount of effort, and they want to keep all the native features of Kubernetes. The customer also wants to reduce their operational overhead for managing their Kubernetes cluster. Which managed AWS service should the solutions architect suggest to best satisfy these requirements?",
+    "answers": ["Amazon Elastic Kubernetes Service (Amazon EKS)"]
+  },
+  {
+    "question": "An application needs to process events that are received through an API. Multiple consumers must be able to process the data concurrently. Which AWS managed service would best meet this requirement in the most cost-effective way?",
+    "answers": [
+      "Amazon Simple Notification Service (Amazon SNS) with a fan-out strategy"
+    ]
+  },
+  {
+    "question": "True or False: Amazon Relational Database Service (Amazon RDS) is more suitable for databases that handle structured or relational data, where users can count with features like auto-increment and table joins. Amazon DynamoDB is more suitable for NoSQL database workloads, where tables are collection of items that have their own attributes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Amazon DynamoDB is designed for scale and performance. In most cases, the DynamoDB response times can be measured in single-digit milliseconds. However, there are certain use cases that require response times in microseconds. For these use cases, DynamoDB Accelerator (DAX) delivers fast response times for accessing eventually consistent data. Which statements about DAX are correct? (Choose THREE.)",
+    "answers": [
+      "DAX reduces operational and application complexity by providing a managed service that is compatible with the DynamoDB API.",
+      "Although using DAX has a cost, it can reduce the consumption of DynamoDB table capacity. If the data is read intensive (that is, millions of requests per second), DAX can result in cost savings by caching the data while also providing better read latency, being beneficial for scenarios in need of repeated reads for individual keys.",
+      "DAX is not designed for applications that are write-intensive. It can also add cost to applications that do not perform much read activity."
+    ]
+  },
+  {
+    "question": "True or False: AWS Lambda is a compute service that runs code without the need to provision or manage servers. Lambda runs code on a high-availability compute infrastructure. It also performs all the administration of compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, and logging. Lambda can run code for virtually any type of application or backend service.",
+    "answers": ["True"]
+  },
+
+  {
+    "question": "A solutions architect is designing an architecture that can provide HTML pages to customers. They want a serverless solution that can host content over the internet and serve a static website with minimal effort. Which AWS service should the solutions architect choose to meet these requirements?",
+    "answers": ["Amazon Simple Storage Service (Amazon S3)"]
+  },
+  {
+    "question": "A solutions architect is designing a solution that needs real-time data ingestion. They are considering either Amazon Kinesis Data Firehose or Amazon Kinesis Data Streams for this solution. Which service should the solutions architect choose to meet the requirement for real-time data ingestion, and why? (Remember that lower data latency means a lower roundtrip time from when data is ingested and available.)",
+    "answers": [
+      "Amazon Kinesis Data Streams, because it has lower latency when compared to Amazon Kinesis Data Firehose"
+    ]
+  },
+  {
+    "question": "True or False: When creating data lakes for analytics on AWS, Amazon Simple Storage Service (Amazon S3) would be a preferred service. Users can use data in an S3 bucket with an independent data-processing or visualization layer, such as Amazon QuickSight, Amazon Athena, or Amazon EMR.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A solutions architect is designing a serverless solution that can do Structured Query Language (SQL) queries over multiple objects that are stored in Amazon Simple Storage Service (Amazon S3). All the objects share the same data structure (schema) and are in JSON. Which service would make it easier to query the data, in addition to providing serverless capabilities?",
+    "answers": ["Amazon Athena"]
+  },
+  {
+    "question": "True or False: When architecting a solution that can handle high demand and usage spikes, Amazon CloudFront should be used in front of an Amazon Simple Storage Service (Amazon S3) bucket. CloudFront can cache data that gets delivered to customers, and it lets customers use custom domain names. In addition, CloudFront can serve custom SSL certificates that are issued by Amazon Certificate Manager (at no additional cost) and it can provide distributed denial of service (DDoS) protection that is powered by AWS WAF and AWS Shield.",
+    "answers": ["True"]
+  },
+
+  {
+    "question": "Which of the following options includes true statements for both Amazon Simple Storage Service (Amazon S3) cross-Region replication and AWS Key Management Service (AWS KMS)?",
+    "answers": [
+      "To configure Amazon S3 cross-Region replication, the source and destination buckets can belong to different AWS accounts. Server-side encryption (SSE) is possible for replicated objects."
+    ]
+  },
+  {
+    "question": "A solutions architect is designing a hybrid solution. The solution uses Amazon Virtual Private Cloud (Amazon VPC) resources, such Amazon Relational Database Service (Amazon RDS) and Amazon Elastic Compute Cloud (Amazon EC2). It also uses services that are not in a VPC, such as Amazon Simple Storage Service (Amazon S3) and AWS Systems Manager. Which statements about Amazon VPC and the scope of AWS services are correct? (Choose THREE.)",
+    "answers": [
+      "Amazon VPC gives the user full control over their virtual networking environment. Therefore, the solutions architect can define firewall rules on the networking level for VPC-based resources.",
+      "VPC-based services that reside in a private subnet require specific configurations to enable internet access, such as a NAT gateway and route tables.",
+      "AWS VPN solutions can be configured to establish secure connections between on-premises networks, remote offices, client devices, and the AWS global network."
+    ]
+  },
+  {
+    "question": "Which statements about AWS Storage Gateway are correct? (Choose THREE.)",
+    "answers": [
+      "AWS Storage Gateway is a set of hybrid cloud storage services that provide on-premises access to virtually unlimited cloud storage.",
+      "AWS Storage Gateway delivers data access to on-premises applications while taking advantage of the agility, economics, and security capabilities of the AWS Cloud.",
+      "AWS Storage Gateway helps support compliance requirements through integration with AWS Backup to manage the backup and recovery of Volume Gateway volumes, which simplifies backup management."
+    ]
+  },
+  {
+    "question": "Which set of AWS services is the BEST fit for the “Object, file, and block storage” category (which means that the services are dedicated to storing data in a durable way)?",
+    "answers": [
+      "Amazon Simple Storage Service (Amazon S3), Amazon Elastic File System (Amazon EFS), Amazon Elastic Block Store (Amazon EBS), Amazon FSx"
+    ]
+  },
+  {
+    "question": "True or False: Amazon Simple Storage Service (Amazon S3) is better than Amazon Elastic Block Store (Amazon EBS) because it is designed to provide a higher level of data durability.",
+    "answers": ["False"]
+  },
+
+  {
+    "question": "Did you complete the capstone activity?",
+    "answers": ["Yes, I completed the capstone activity."]
+  },
+
+  {
+    "question": "A solutions architect must design a solution to help manage their customer’s containerized applications. Currently, the customer workload runs in Docker containers on top of Amazon Elastic Compute Cloud (Amazon EC2) instances and on-premises servers that run a hybrid Kubernetes cluster. The customer wants to migrate part of their hybrid Kubernetes deployment to the cloud with a minimum amount of effort, and they want to keep all the native features of Kubernetes. The customer also wants to reduce their operational overhead for managing their Kubernetes cluster. Which managed AWS service should the solutions architect suggest to best satisfy these requirements?",
+    "answers": ["Amazon Elastic Kubernetes Service (Amazon EKS)"]
+  },
+  {
+    "question": "An application needs to process events that are received through an API. Multiple consumers must be able to process the data concurrently. Which AWS managed service would best meet this requirement in the most cost-effective way?",
+    "answers": [
+      "Amazon Simple Notification Service (Amazon SNS) with a fan-out strategy"
+    ]
+  },
+  {
+    "question": "True or False: Amazon Relational Database Service (Amazon RDS) is more suitable for databases that handle structured or relational data, where users can count with features like auto-increment and table joins. Amazon DynamoDB is more suitable for NoSQL database workloads, where tables are collection of items that have their own attributes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Amazon DynamoDB is designed for scale and performance. In most cases, the DynamoDB response times can be measured in single-digit milliseconds. However, there are certain use cases that require response times in microseconds. For these use cases, DynamoDB Accelerator (DAX) delivers fast response times for accessing eventually consistent data. Which statements about DAX are correct? (Choose THREE.)",
+    "answers": [
+      "DAX reduces operational and application complexity by providing a managed service that is compatible with the DynamoDB API.",
+      "Although using DAX has a cost, it can reduce the consumption of DynamoDB table capacity. If the data is read intensive (that is, millions of requests per second), DAX can result in cost savings by caching the data while also providing better read latency, being beneficial for scenarios in need of repeated reads for individual keys.",
+      "DAX is not designed for applications that are write-intensive. It can also add cost to applications that do not perform much read activity."
+    ]
+  },
+  {
+    "question": "True or False: AWS Lambda is a compute service that runs code without the need to provision or manage servers. Lambda runs code on a high-availability compute infrastructure. It also performs all the administration of compute resources, including server and operating system maintenance, capacity provisioning and automatic scaling, and logging. Lambda can run code for virtually any type of application or backend service.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False: Amazon Simple Storage Service (Amazon S3) is better than Amazon Elastic Block Store (Amazon EBS) because it is designed to provide a higher level of data durability.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A solutions architect is designing a serverless solution that can do Structured Query Language (SQL) queries over multiple objects that are stored in Amazon Simple Storage Service (Amazon S3). All the objects share the same data structure (schema) and are in JSON. Which service would make it easier to query the data, in addition to providing serverless capabilities?",
+    "answers": ["Amazon Athena"]
+  },
+  {
+    "question": "True or False: When creating data lakes for analytics on AWS, Amazon Simple Storage Service (Amazon S3) would be a preferred service. Users can use data in an S3 bucket with an independent data-processing or visualization layer, such as Amazon QuickSight, Amazon Athena, or Amazon EMR.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A solutions architect is designing a hybrid solution. The solution uses Amazon Virtual Private Cloud (Amazon VPC) resources, such Amazon Relational Database Service (Amazon RDS) and Amazon Elastic Compute Cloud (Amazon EC2). It also uses services that are not in a VPC, such as Amazon Simple Storage Service (Amazon S3) and AWS Systems Manager. Which statements about Amazon VPC and the scope of AWS services are correct? (Choose THREE.)",
+    "answers": [
+      "Amazon VPC gives the user full control over their virtual networking environment. Therefore, the solutions architect can define firewall rules on the networking level for VPC-based resources.",
+      "VPC-based services that reside in a private subnet require specific configurations to enable internet access, such as a NAT gateway and route tables.",
+      "AWS VPN solutions can be configured to establish secure connections between on-premises networks, remote offices, client devices, and the AWS global network."
+    ]
+  },
+  {
+    "question": "What are some benefits of using multiple AWS accounts with AWS Organizations? (Choose THREE.)",
+    "answers": [
+      "Grouping workloads based on business purpose and ownership",
+      "Limiting the scope of impact from adverse events",
+      "Distributing AWS service quotas and API request rate limits"
+    ]
+  },
+  {
+    "question": "True or False: A service control policy (SCP) statement with an explicit deny prevents even the account root user from performing API calls.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A solutions architect is designing a solution that provides single sign-on (SSO) to authenticate into AWS accounts that are in AWS Organizations. Which AWS service can the solutions architect use to implement identity federation with existing identity providers, such as Microsoft Active Directory?",
+    "answers": ["AWS IAM Identity Center (successor to AWS Single Sign-On)"]
+  },
+  {
+    "question": "Which statements are best practices for multi-account environments? (Choose THREE.)",
+    "answers": [
+      "Enable Amazon CloudWatch billing alarms per account and configure tagging policies in AWS Organizations.",
+      "Prevent CloudTrail configuration from being disabled in the shared services account.",
+      "Use multi-factor authentication (MFA) for users in centralized credentialing, such as using AWS IAM Identity Center (successor to AWS Single Sign-On)."
+    ]
+  },
+  {
+    "question": "A solutions architect must create well-defined governance standards for a company that has multiple AWS accounts. The company needs centralized infrastructure logging for all AWS accounts. In addition, the company’s chief information security officer (CISO) would like to have a measurement that applies a circuit breaker to stop Amazon Elastic Compute Cloud (Amazon EC2) API activities if the billing alarms indicate suspicious activity. The company intends to use AWS Organizations. Which architectural scenario should the solutions architect propose to meet the company’s needs in the MOST effective way?",
+    "answers": [
+      "Enable AWS CloudTrail for all accounts in AWS Organizations. Use Organizations to centralize all logs into one Amazon Simple Storage Service (Amazon S3) bucket. As the circuit breaker, use service control policies (SCPs) that have an explicit deny for Amazon EC2 API activity. These SCPs can then be applied to the root organizational unit (OU) as needed."
+    ]
+  },
+
+  {
+    "question": "Which operation describes the function of a data lake as a centralized repository?",
+    "answers": ["Store structured and unstructured data from any source"]
+  },
+  {
+    "question": "What is the most cost-effective storage option for your data lake?",
+    "answers": ["Amazon S3"]
+  },
+  {
+    "question": "Which services are used in the processing layer of a data lake architecture? (Select TWO.)",
+    "answers": ["AWS Glue", "Amazon EMR"]
+  },
+
+  {
+    "question": "Which services can be used for data ingestion into your data lake? (Select TWO.)",
+    "answers": ["Amazon Kinesis Data Firehose", "AWS Storage Gateway"]
+  },
+  {
+    "question": "Which service uses continuous data replication with high availability to consolidate databases into a petabyte-scale data warehouse by streaming data to Amazon Redshift and Amazon S3?",
+    "answers": ["AWS Database Migration Service (AWS DMS)"]
+  },
+  {
+    "question": "Which AWS Glue feature catalogs your data?",
+    "answers": ["AWS Glue Crawler"]
+  },
+  {
+    "question": "Your data resides in multiple data stores, including Amazon S3, Amazon RDS, and Amazon DynamoDB. You need to efficiently query the combined datasets. Which tool can achieve this by using a single query without moving data?",
+    "answers": ["Amazon Athena Federated Query"]
+  },
+
+  {
+    "question": "Which benefit do you gain by using AWS Lake Formation to build data lakes?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What are the three stages to set up a data lake using AWS Lake Formation? (Select THREE.)",
+    "answers": [
+      "Register the storage location",
+      "Create a database",
+      "Grant permissions"
+    ]
+  },
+
+  {
+    "question": "During the data preparation stage, a data engineer enriches the raw data to support additional insights. They need to improve query performance and reduce costs of the final analytics solution. Which data formats meet these requirements? (Select TWO.)",
+    "answers": ["Apache Parquet", "Apache ORC"]
+  },
+  {
+    "question": "A small start-up company is developing a data analytics solution. They need to cleanse and normalize large datasets, but do not have developers with the skill set to write custom scripts. Which tool will help them efficiently design and run the data preparation activities?",
+    "answers": ["AWS Glue DataBrew"]
+  },
+
+  {
+    "question": "AWS Lake Formation has a set of suggested personas and AWS Identity and Access Management (IAM) permissions. Which is a required persona?",
+    "answers": ["Data lake administrator"]
+  },
+  {
+    "question": "Which one of the following is the best description of the capabilities of Amazon QuickSight?",
+    "answers": ["Scalable, serverless business intelligence service"]
+  },
+
+  {
+    "question": "If you are querying data with Amazon Athena, you can use AWS Lake Formation to simplify how you secure and connect to your data from Amazon QuickSight. After Lake Formation is configured, you can use Amazon QuickSight to access databases and tables. Which method can you use to access databases or tables through SQL queries? (Select TWO.)",
+    "answers": [
+      "Use the Amazon Athena Console, the AWS CLI, or your favorite query editor.",
+      "Use the full-featured editor provided by Amazon QuickSight where you can write SQL queries."
+    ]
+  },
+  {
+    "question": "Which AWS Glue feature can determine the schema of your data?",
+    "answers": ["Classifier"]
+  },
+  {
+    "question": "You need to author an ETL job in AWS Glue. Your datasets are in Amazon S3. Your goal is to filter, join, and aggregate two different datasets. What tool can you use to create and run AWS Glue job scripts that could help you achieve this goal? (Select TWO.)",
+    "answers": ["AWS Glue Script Editor", "AWS Glue Crawler"]
+  },
+  {
+    "question": "Which combination of AWS services form the storage layer for a data lake in AWS?",
+    "answers": ["Amazon S3, Amazon RDS, Amazon Redshift"]
+  },
+  {
+    "question": "Shirley is a data administrator who needs to set up a data lake for their company, AnyCompany. Currently, all data is stored in Amazon S3. John is a marketing manager and needs write access to customer purchasing information. Shirley registers the Amazon S3 path containing customer purchasing information with AWS Lake Formation and grants John access to the Amazon S3 path. John tries to create a database and gets an error. What could be the possible issue here?",
+    "answers": [
+      "Shirley also needs to grant John permission to create databases"
+    ]
+  },
+  {
+    "question": "AWS Lake Formation provides machine learning capabilities to create custom transforms to cleanse your data. There is currently one available transform named FindMatches. You can create these transforms when you create a job. After the transform, where is the data stored?",
+    "answers": ["AWS Glue"]
+  },
+  {
+    "question": "While creating a blueprint in AWS Lake Formation, John received the following error: \"User: is not authorized to perform: iam:PassRole on resource:\" How can this be fixed? (Select TWO.)",
+    "answers": [
+      "Ask John to choose a different role with the required passrole permissions",
+      "Update John’s IAM policy to be able to pass the role"
+    ]
+  },
+  {
+    "question": "A customer is planning to schedule and implement a complex multi-job extract, transform and load (ETL) activity. They want to track the activity as a single entity. How should the customer proceed?",
+    "answers": [
+      "Use a workflow that defines the data source and schedule to import data into your data lake"
+    ]
+  },
+  {
+    "question": "In which scenario would a data scientist use AWS Glue jobs? (Select TWO.)",
+    "answers": [
+      "Analyzing data in batches on schedule or on demand",
+      "Transforming data in batches on schedule or on demand"
+    ]
+  },
+  {
+    "question": "What is the AWS Glue Data Catalog?",
+    "answers": [
+      "An index to the location, schema, and runtime metrics of your data"
+    ]
+  },
+
+  {
+    "question": "A company will host a static website within an Amazon S3 bucket. The website will serve millions of users globally, and the company wants to minimize data transfer costs. What should a solutions architect do to ensure costs are kept to a minimum?",
+    "answers": [
+      "Create an Amazon CloudFront distribution, with the S3 bucket as the origin server."
+    ]
+  },
+  {
+    "question": "A solutions architect needs to design a secure environment for AWS resources that are being deployed to Amazon EC2 instances in a VPC. The solution should support a three-tier architecture that consists of web servers, application servers, and a database cluster. The VPC needs to allow resources in the web tier to be accessible from the internet with only the HTTPS protocol. Which combination of actions would meet these requirements? (Select TWO.)",
+    "answers": [
+      "Attach an internet gateway to the VPC. Create public subnets for the web tier. Create private subnets for the application and database tiers.",
+      "Create a web server security group that allows HTTPS requests from the internet. Create an application server security group that allows requests from the web security group only. Create a database cluster security group that allows TCP connections from the application security group on the database port only."
+    ]
+  },
+  {
+    "question": "A solutions architect notices an abnormal amount of network traffic coming from an Amazon EC2 instance. The traffic is determined to be malicious, and the destination needs to be determined. What tool can the solutions architect use to identify the destination of the malicious network traffic?",
+    "answers": ["Turn on VPC Flow Logs and filter the logs"]
+  },
+  {
+    "question": "A SysOps administrator wants to automate the deployment of new SSL/TLS certificates to web servers. The administrator wants a centralized way to keep track and manage the deployed certificates. Which AWS service can the administrator use to meet these requirements?",
+    "answers": ["AWS Certificate Manager (ACM)"]
+  },
+  {
+    "question": "A solution architect must create a data store location that will be able to handle different file formats of unknown sizes. The data must be highly available and protected from being accidentally deleted. What solution meets the requirements and is the MOST cost-effective?",
+    "answers": ["Deploy an Amazon S3 bucket and enable object versioning."]
+  },
+  {
+    "question": "A company is migrating its on-premises application to AWS and refactoring the application's design. The design will consist of frontend Amazon EC2 instances that receive requests, backend EC2 instances that process the requests, and a message-queuing service that addresses decoupling the application. A solutions architect has been informed that a key aspect of the application is that requests are processed in the order in which they are received. Which AWS service should the solutions architect use to decouple the application?",
+    "answers": ["Amazon Simple Queue Service (Amazon SQS) FIFO queue"]
+  },
+  {
+    "question": "A gaming company is experiencing exponential growth. On multiple occasions, customers have been unable to access resources. To keep up with the increased demand, management is considering deploying a cloud-based solution. The company wants a solution that can match on-premises resilience of multiple data centers and robust enough to withstand the increased growth activity. Which configuration should a solutions architect implement to meet these requirements?",
+    "answers": [
+      "A VPC that is configured with an Elastic Load Balancing (ELB) Network Load Balancer that targets an Amazon EC2 Auto Scaling group consisting of Amazon EC2 instances that span two Availability Zones."
+    ]
+  },
+  {
+    "question": "A company is deploying a production portal application on AWS. The database tier runs on a MySQL database. The company requires a highly available database solution that maximizes ease of management. How can the company meet these requirements?",
+    "answers": [
+      "Use Amazon RDS with a Multi-AZ deployment. Schedule periodic database snapshots."
+    ]
+  },
+  {
+    "question": "A company requires operating system permission on a relational database server. What should a solutions architect suggest as a configuration for a highly available database architecture?",
+    "answers": [
+      "Multiple Amazon EC2 instances in a database replication configuration that uses two Availability Zones"
+    ]
+  },
+  {
+    "question": "A solutions architect must create a disaster recovery (DR) solution for a company's business-critical applications. The DR site must reside in a different AWS Region than the primary site. The solution requires a recovery point objective (RPO) in seconds and a recovery time objective (RTO) in minutes. The solution also requires the deployment of a completely functional but scaled-down version of the applications. Which DR strategy will meet these requirements?",
+    "answers": ["Warm standby"]
+  },
+  {
+    "question": "A financial services company is migrating its multi-tier web application to AWS. The application architecture consists of a fleet of web servers, application servers, and an Oracle database. The company must have full control over the database's underlying operating system. The database must be highly available. Which approach should a solutions architect use for the database tier to meet these requirements?",
+    "answers": [
+      "Migrate to Amazon EC2 instances in two Availability Zones. Install Oracle and configure the instances to operate as a cluster."
+    ]
+  },
+  {
+    "question": "A company used Amazon EC2 Spot Instances for a demonstration that is now complete. A solutions architect must remove the Spot Instances to stop them from incurring cost. What should the solutions architect do to meet this requirement?",
+    "answers": ["Cancel the Spot request. Terminate the Spot Instances."]
+  },
+  {
+    "question": "A company is deploying an environment for a new data processing application. The application will be frequently accessed by 20 different departments across the globe seeking to run analytics. The company plans to charge each department for the cost of that department's access. Which solution will meet these requirements with the LEAST effort?",
+    "answers": [
+      "Amazon Athena with workgroups set up for each department. Each department will query through the workgroup tagged for their department in the billing console."
+    ]
+  },
+  {
+    "question": "After reviewing the cost optimization checks in AWS Trusted Advisor, a team finds that it has 10,000 Amazon Elastic Block Store (Amazon EBS) snapshots in its account that are more than 30 days old. The team has determined that it needs to implement better governance for the lifecycle of its resources. Which actions should the team take to automate the lifecycle management of the EBS snapshots with the LEAST effort? (Select TWO.)",
+    "answers": [
+      "Create and schedule a backup plan with AWS Backup.",
+      "Use Amazon Data Lifecycle Manager."
+    ]
+  },
+  {
+    "question": "A company is using an Amazon S3 bucket to store archived data for audits. The company needs long-term storage for the data. The data is rarely accessed and must be available for retrieval the next business day. After a quarterly review, the company wants to reduce the storage cost for the S3 bucket. A solutions architect must recommend the most cost-effective solution to store the archived data. Which solution will meet these requirements?",
+    "answers": ["Store the data in S3 Glacier Flexible Retrieval."]
+  },
+  {
+    "question": "A prediction process requires access to a trained model that is stored in an Amazon S3 bucket. The process takes a few seconds to process an image and make a prediction. The process is not overly resource-intensive, does not require any specialized hardware, and takes less than 512 MB of memory to run. What is the MOST cost-effective compute solution for this use case?",
+    "answers": ["AWS Lambda functions"]
+  },
+  {
+    "question": "A hospital is migrating from another cloud provider to AWS and wants to modernize as they migrate. The hospital has containerized applications that run on tablets. During spikes caused by increases in patient visits, the communications from the applications to the central database occasionally fail. As a result, the hospital currently has the applications try to write to the central database once. If that write fails, the application writes to a dedicated application PostgreSQL database run by the hospital IT team on premises. Each of the PostgreSQL databases then sends batch information to the central database. The hospital is asking for recommendations on migrating or refactoring the database write process to lower operational overhead. What should the solutions architect recommend? (Select TWO.)",
+    "answers": [
+      "Migrate the local databases to Amazon Aurora Serverless PostgreSQL-Compatible Edition.",
+      "Refactor the applications to use Amazon Simple Queue Service (Amazon SQS) and eliminate the local PostgreSQL databases."
+    ]
+  },
+  {
+    "question": "A company uses Amazon EC2 instances in a test environment. The company has optimized the instances for their current workload. The company uses the instances only during business hours. The company uses Compute Savings Plans and Spot Instances. The company must retain control over the compute resources. A solutions architect must recommend a solution to reduce costs associated with the EC2 instances in the test environment. Which solution will meet these requirements?",
+    "answers": [
+      "Create a time-based Amazon CloudWatch alarm action to start and stop the instances."
+    ]
+  },
+  {
+    "question": "A company is running its application in a single Region on Amazon EC2 with Amazon Elastic Block Store (Amazon EBS) and Amazon S3 as part of the storage design. What should be done to reduce data transfer costs?",
+    "answers": [
+      "Create an Amazon CloudFront distribution with Amazon S3 as the origin."
+    ]
+  },
+
+  {
+    "question": "You need to migrate data from your on-prem Oracle database to your Amazon RDS for Oracle database. Which AWS service is recommended to use for this migration?",
+    "answers": ["AWS DMS (Database Migration Service)"]
+  },
+  {
+    "question": "Which statement accurately represents how a data warehouse differs from a data lake?",
+    "answers": [
+      "A data warehouse is used for storing structured data, whereas a data lake can store structured, semi-structured, and unstructured data."
+    ]
+  },
+  {
+    "question": "What are the benefits of implementing a data lake solution? (Select TWO.)",
+    "answers": [
+      "You can run data in a data lake through machine learning models, as well as stream that data from IoT devices and social media platforms.",
+      "Data lakes give users the ability to harness more data from more sources in less time, and empower users to analyze data collaboratively."
+    ]
+  },
+  {
+    "question": "Which combinations of AWS services can be leveraged to architect a basic data lake in the AWS Cloud?",
+    "answers": ["Amazon S3, AWS Glue, Amazon Athena"]
+  },
+  {
+    "question": "You have an e-commerce application that uses Amazon Aurora MySQL to store customer orders and shipping addresses, Amazon DynamoDB stores the product data, and Amazon S3 stores product manuals. When someone uses your application to purchase a house, they receive a homeowner manual with all the product data for the items in the home. You want to identify which customer installed Whirlpool appliances in their house. How can you perform quick, ad-hoc, serverless queries to extract data from multiple data sources?",
+    "answers": ["Use Amazon Athena Federated Query"]
+  }
+]

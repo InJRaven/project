@@ -511,5 +511,13 @@
       "Monitor your Key Performance Indicators (KPIs) every day.",
       "Involve your influencers and community members"
     ]
+  },
+  {
+    "question": "When is it important to use a \"for fee\" social analytics system?",
+    "answers": ["When you need to analyze a topic over a period of time"]
+  },
+  {
+    "question": "Sentiment accuracy is difficult to ascertain on which level?",
+    "answers": ["Document"]
   }
 ]

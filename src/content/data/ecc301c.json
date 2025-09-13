@@ -1,0 +1,544 @@
+[
+  {
+    "question": "For Question 1 to 5: The underlined parts of Anne and John’s conversation caused confusion in giving and accepting instructions. Play Video Please choose the most appropriate answer that explains the causes of confusion in this conversation. Anne: When you have a chance, can you please finish the budget for Company B as soon as possible?",
+    "answers": ["Both A & B."]
+  },
+  {
+    "question": "The underlined parts of Anne and John’s conversation caused confusion in giving and accepting instructions. Please choose the most appropriate answer that explains the causes of confusion in this conversation. John: I will get to it as soon as I can. I am working on the business proposal for Company A.",
+    "answers": ["Both A & B."]
+  },
+  {
+    "question": "The underlined parts of Anne and John’s conversation caused confusion in giving and accepting instructions. Please choose the most appropriate answer that explains the causes of confusion in this conversation. John: Noted, thanks. I will get to the Company B budget very soon.",
+    "answers": ["Anne did not specify the deadline."]
+  },
+  {
+    "question": "The underlined parts of Anne and John’s conversation caused confusion in giving and accepting instructions. Please choose the most appropriate answer that explains the causes of confusion in this conversation. John: Noted, thanks. I will get to the Company B budget very soon.",
+    "answers": ["Both A and B."]
+  },
+  {
+    "question": "The underlined parts of Anne and John’s conversation caused confusion in giving and accepting instructions. Please choose the most appropriate answer that explains the causes of confusion in this conversation. John: I haven’t finished it. I told you I would get to it as soon as possible.",
+    "answers": [
+      "John did not tell Anne when he was going to start and finish the Company B budget after he finished the Company A proposal."
+    ]
+  },
+  {
+    "question": "For Question 6 to 10: For each blank given in the conversation between Anne and John, choose the most appropriate response to replace the confusion in giving and accepting instructions in the original conversation. Play Video Anne: When you have a chance, can you please finish the budget for Company B ______________________.",
+    "answers": ["by 3pm, tomorrow, Tuesday 10 January 2010."]
+  },
+  {
+    "question": "Choose the most appropriate response to replace the confusion in giving and accepting instructions in the original conversation. John: _____________, I am working on the business proposal for Company A.",
+    "answers": [
+      "I will start the Company B budget by 12 noon today and finish it by 3pm tomorrow, 10 January 2010."
+    ]
+  },
+  {
+    "question": "Choose the most appropriate response to replace the confusion in giving and accepting instructions in the original conversation. Anne: Great, thanks ____________________________.",
+    "answers": [
+      "I will meet the Company B client to at 4pm tomorrow, 10 January 2010. In the meeting, we will discuss the budget for Company B’s staff salaries for January to June 2010. Could you please complete the details of the staff salary for January to June 2010. Please finish it by 2pm on tomorrow, 10 January 2010."
+    ]
+  },
+  {
+    "question": "Choose the most appropriate response to replace the confusion in giving and accepting instructions in the original conversation. John: Noted, thanks. ________________________",
+    "answers": [
+      "I am able to finish the budget A proposal by 11am today. I will start on the Company B budget by 12 noon today, and will send you details of the Company B budget salaries for January to June 2010 by 2pm tomorrow, 10 January 2010."
+    ]
+  },
+  {
+    "question": "Choose the most appropriate response to replace the confusion in giving and accepting instructions in the original conversation. John: I haven’t finished it_________________________.",
+    "answers": [
+      "We might have misunderstood the urgent deadline. I will be able to send you the staff salaries for January to June 2010 by 3.15pm today. You will still be able to discuss this information with Client B in the meeting today."
+    ]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Are the documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["May I know if the documents are with you?"]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["I’m afraid not."]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["Do you (happen to) know where they are now?"]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["Sorry. I’m afraid I don’t know where they are."]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Are the documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["Could you please help me find them and pass them to me?"]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Are the documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["I’m (rather/very) busy now. Is it all right if I do it later?"]
+  },
+  {
+    "question": "Choose the most polite alternative for the line in bold from among the options given. A: Are the documents with you? B: No. A: Where are they now? B: I don't know. A: Find them for me and pass them to me. B: I’m busy now. I will do it later. A: Okay.",
+    "answers": ["Okay. Thanks."]
+  },
+  {
+    "question": "Read the following scenario and pick the statement that best describes it. Trang has just arrived in Japan from Vietnam with his boss and they are invited to a welcome lunch where he has a chance to chat with the Director of their sister company, Ms Yukiko. Trang: Have you been in the company for long? Yukiko: It’s been quite some time... about eight years. Trang: Wow! That’s a very long time! What made you stay all these years? Must be the pay! You must be earning a lot by now! Am I right?",
+    "answers": [
+      "It is not appropriate to ask about someone’s pay in such a context."
+    ]
+  },
+  {
+    "question": "Read the following scenario and pick the statement that best describes it. Introduction It is Ismail Hamid’s first day in the company and his manager, John, is introducing him to the other colleagues. John: Finally, we have a Malay colleague in our midst! Amy, meet Ismail. Ismail, this is Amy. Amy: (stretching out a hand for a handshake) Hi! I’m Amy. Nice to meet you. Ismail: (smiling awkwardly) Hi! Nice meeting you, too.",
+    "answers": [
+      "It is not appropriate for Amy to initiate a handshake because physical contact may not be acceptable, especially between a man and a woman."
+    ]
+  },
+  {
+    "question": "Read the following scenario and pick the statement that best describes it. At a meeting of global partners. Tommy: Hey John! Hey Tan! Good to see you here! How’s it going? John: Hi Tommy! Good to see you, too! Tan: Hi Tommy! Thanks! Nice to see you. We haven’t met for quite a while! Tommy: Exactly! Tan: Was it at the exhibition in Jakarta last March? Tommy: No, I think it was the conference two years ago in Manila. John: That’s right, Tommy! Your memory is certainly much better than Tan’s! Haha... Tan: Haha... I think you’re right. I’ve been so busy I’m often forgetting things if I don’t write them down. John: Getting old, Tan. So do you have a written description of how your wife looks like in your notebook? Haha... If you were there, which is the most appropriate thing to do/say? Choose one from the options below.",
+    "answers": [
+      "You have a good memory, John, but Tan has a lot to attend to. Such minor details are not at all crucial. The important thing is that he still remembers us, don’t you think? (smile)"
+    ]
+  },
+  {
+    "question": "Read the following scenario and pick the statement that best describes it. Tea–break at the office pantry. Jimmy: Sam, have you finished the report? Sam: Almost. I will email our boss soon. Lin: Make sure you do it. You’re new here. It’s a different story if you have been around for a long time, you know. Hey! Did you guys see the way he was talking to that new admin executive yesterday? He was definitely making sure that the new chap knows his place in this company. Oh my goodness! That long list of instructions, rules & regulations to follow! I hope he remembers them all. Sam: Really? I was supposed to see him when I came in last week but he was away. Will he go through that list with me as well? At this point, the Boss walks in. Jimmy & Lin: Hi Boss. Sam: Hey Peter! (putting his hand on Peter’s shoulder) When am I supposed to see you for that little chat all newcomers have to have with you?",
+    "answers": [
+      "Sam should not have addressed the Boss by his first name and acted so familiar with the latter."
+    ]
+  },
+  {
+    "question": "You want to confirm tomorrow’s lunch appointment with a friend. Which of the 3 modes of communication is the most appropriate here?",
+    "answers": ["Phone text"]
+  },
+  {
+    "question": "You have to inform your 6-member project team about a meeting next Monday as well as share the document needed for discussion. Which mode of communication will you choose?",
+    "answers": ["Email and attach the document for the meeting."]
+  },
+  {
+    "question": "You have to email a colleague/ co-worker to ask if he is attending a meeting with a client. What would you put in the Subject field?",
+    "answers": ["Meeting with Sales Rep from WonderToys"]
+  },
+  {
+    "question": "You have to email an old friend to ask him about attending an upcoming reunion. What would you put in the Subject field?",
+    "answers": ["High School Reunion on 9 April"]
+  },
+  {
+    "question": "Which of the following are among the 7Cs of effective communication? i. Clear ii. Complete iii. Courteous iv. Communicative v. Coherent vi. Continuous vii. Complimentary viii. Concise",
+    "answers": ["i, ii, iii, v, viii"]
+  },
+  {
+    "question": "Read the context carefully and put together the email by filling each blank with a suitable option given. You are in the organising committee for the company’s anniversary dinner. Write an email to: Your colleagues Inform them about the event. Encourage them to participate in the games. Try to get them excited about the event. What is the most suitable subject title (A); to inform your colleagues about the event.",
+    "answers": ["Our 10th Anniversary Dinner"]
+  },
+  {
+    "question": "What is the most suitable opening paragraph (B); to inject excitement, in the email to your colleagues?",
+    "answers": [
+      "Our company’s 10th Anniversary celebration dinner is just a week away!"
+    ]
+  },
+  {
+    "question": "What is the most suitable line (C), to encourage them to participate in the games?",
+    "answers": ["Do participate actively. Let your hair down and let’s party!"]
+  },
+  {
+    "question": "Read the context carefully and put together the email by filling each blank with a suitable option given. You are in the organising committee for the company’s anniversary dinner. Write an email to the company director, a stern man from a high power distance culture. Inform him about the event Request that he gives the opening address What is the most suitable subject title (D); the company director, a stern man from a high power distance culture about the event. Choose the most suitable option from the ones given below.",
+    "answers": ["Our 10th Anniversary Dinner"]
+  },
+  {
+    "question": "How will you address your company director in the email (E), bearing in mind he is a stern man from a high power distance culture? Choose the most suitable option from the ones given below.",
+    "answers": ["Dear Mr Derek"]
+  },
+  {
+    "question": "How would you inform him about making the opening address (F)? Choose the most suitable option from the ones given below.",
+    "answers": [
+      "We would like to invite you to give the opening address for the evening."
+    ]
+  },
+  {
+    "question": "How would you tell him about the activities planned (G)? Choose the most suitable option from the ones given below.",
+    "answers": [
+      "The organising committee has made the necessary arrangements for the food, games and lucky draw. We hope you will enjoy the evening of celebrations."
+    ]
+  },
+  {
+    "question": "How would you sign off at the end of the email (H) ? Choose the most suitable option from the ones given below.",
+    "answers": ["Best regards, Tommy On behalf of the Organising Committee"]
+  },
+  {
+    "question": "Which of the following are characteristics belonging to one from a high context culture? i conveys meaning mainly through actual meaning of the words used in the context ii ambiguous iii direct iv indirect v open vi relies heavily on the non-verbals vii implicit",
+    "answers": ["ii, iv, vi, vii"]
+  },
+  {
+    "question": "If we are not too sure what the guest-of-honour means in the reply he has sent, as to whether he is turning up for an event, and we suspect he belongs to a high context culture, what should we do?",
+    "answers": [
+      "Try to get in touch with those close to him, for instance, his Personal Assistant or colleagues, and find out from them."
+    ]
+  },
+  {
+    "question": "Which of the following typically describe a low power distance culture? i not powerful ii more democratic iii the junior members are usually more powerful than the senior ones iv the older members expect to be respected because of their seniority, be it in age or rank v junior members are involved and consulted in the decision-making process vi tends to have a polychronic perception of time",
+    "answers": ["ii, v, vi"]
+  },
+  {
+    "question": "If John is dominating the discussion at the meeting, what can you say to interject him?",
+    "answers": [
+      "Find that little break and: That’s an interesting point/ suggestion, John. Does anyone else have another idea or any comment to add?"
+    ]
+  },
+  {
+    "question": "You notice that Marie has been keeping very quiet at the meeting. You know she often has good ideas but is usually too shy to share them. How would you encourage her to participate in the discussion?",
+    "answers": [
+      "Marie, what is your opinion about this? You always have very good ideas for us!"
+    ]
+  },
+  {
+    "question": "You are trying to persuade your manager to purchase a microwave oven for the office pantry. How would you present your case to him who is more individualistic in his outlook?",
+    "answers": [
+      "If there is a microwave oven in the pantry, you can bring your own food and just heat it up during lunch. Imagine how convenient it is for you and how much money you can save in the long run?"
+    ]
+  },
+  {
+    "question": "There is an error in the figure shown in the presentation slide. How would you point it out to your colleague, Adam, without embarrassing him in front of the group of 20?",
+    "answers": [
+      "Hey Adam, I am not too sure/ I could be wrong but is the figure for the year 2015, 815 or 851? There could be a typo."
+    ]
+  },
+  {
+    "question": "A man with strong uncertainty avoidance... i. will stay in his job even if he dislikes it ii. is open to new ideas, even those considered deviant iii. does not work well with rigid structures iv. needs clarity and structure v. expects leaders to have all the answers vi. is fine with leaders not knowing everything because he knows everything",
+    "answers": ["i, iv, v"]
+  },
+  {
+    "question": "Your colleague Brian submitted a report during work that contained some errors. Your manager asked for your opinion on the report. Which of the following would be the most appropriate to say?",
+    "answers": ["Brian's report is not very accurate."]
+  },
+  {
+    "question": "Which one of the following is an example of not being plainspoken? Please select the most precise answer.",
+    "answers": ["Brian's report is fallacious"]
+  },
+  {
+    "question": "Which of the following is an example of not being plausible? Please select the most precise example.",
+    "answers": ["Brian's report is full of lies and he is rather useless"]
+  },
+  {
+    "question": "Which one of the following statements is correct?",
+    "answers": [
+      "Coercion is the most unethical out of Persuasion, Manipulation, Propaganda and Coercion"
+    ]
+  },
+  {
+    "question": "Which one of the following statements is incorrect?",
+    "answers": [
+      "According to Maslansky, even Pessimists can be won over by good language habits to develop trust over time"
+    ]
+  },
+  {
+    "question": "In persuading someone, why is the character of the sender of the message important?",
+    "answers": [
+      "It forms part of ethos, or source credibility, which affects what the receiver believes"
+    ]
+  },
+  {
+    "question": "\"This is impossible. It's not really working out for either one of us. She's being too difficult to work with.\" Assuming the situation to be true, what is the above an example of, according to Maslansky? Please select the most accurate example out of the four options.",
+    "answers": [
+      "It is too negative and does not conform to 'being Positive' from the 4 Ps."
+    ]
+  },
+  {
+    "question": "Which of the following is the most accurate? In any communication process, there is always",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Bryan needed to explain the process of installing a new printer to a colleague, Madeline. He sent an email saying: Dear Madeline, Installing the printer is an elementary task any one of us can do. The fundamental step involves downloading the driver from the Internet most expeditiously. Once this basic premise has been duly satisfied, the next step is to maneuver your mouse to the printer icon, right-click, and select the install button. The plebian and unceremonious task is therefore complete. Regards, Bryan Which P of Maslansky's 4 Ps of building trust does the email violate? Out of the four options, please select the most accurate one.",
+    "answers": ["Be plainspoken"]
+  },
+  {
+    "question": "According to research, credibility consists of",
+    "answers": ["Competence, knowledge and goodwill"]
+  },
+  {
+    "question": "Which one of the following best describes Plausible language, according to Maslansky?",
+    "answers": ["All of the above are correct"]
+  },
+  {
+    "question": "According to Maslansky, author of Language of Trust, which of the following is not part of the 4 Ps?",
+    "answers": ["Be possible"]
+  },
+  {
+    "question": "Which of the following is an example of persuasion through ethos?",
+    "answers": [
+      "I believe what the United Nations say about North Korea because the United Nations are a trustworthy source"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of persuasion through logos?",
+    "answers": [
+      "I believe what Cristiano Ronaldo say because what he says is reasonable and he backs it up with statistical evidence"
+    ]
+  },
+  {
+    "question": "According to Mulholland, the key differences between propaganda and persuasion are:",
+    "answers": [
+      "Propaganda allows for little to no choice for the receiver but persuasion allows the receiver choice"
+    ]
+  },
+  {
+    "question": "Analyse this persuasive conversation (slides 19-20) Ben is speaking to his manager, Abel, about allowing his team members to invite their families to the road show when they work on weekends at the show. Identify the words and expressions Ben uses to demonstrate AIDA framework and expression of empathy. A Ben: Hi Abel. I’d like to discuss about the road show weekend scheduling. Do you have a few minutes? B Abel: Yes. Is there a problem? C Ben: Do you recall how we’ve been talking about work-life balance in the past year? Most of our team members have young families and working on both weekends affects work-life balance. D Abel: How will we cope with manpower need if we don’t schedule them? E Ben: That’s what I’ve been considering. F Ben: What do you think about having their families over for one of the days over the weekends – as road show guests? Anyway, we’ve magic shows and games for young families. That way, they can technically be with the family while at work. What do you think? G Abel: Sounds like something that may work. H Ben: It’ll certainly make them happier! Wouldn’t we want that for the team? I Abel: Sure! I think you are right. Just make sure we don’t have too many staff families on the same day. J Ben I understand. Shall I announce this on email now? Which of the above line tried to Draw Attention, by: Highlighting a point Couching – framing the topic Showing confidence or a sense of certainty",
+    "answers": [
+      "C Ben: Do you recall how we’ve been talking about work-life balance in the past year? Most of our team members have young families and working on both weekends affects work-life balance."
+    ]
+  },
+  {
+    "question": "Analyse this persuasive conversation (slides 19-20) Ben is speaking to his manager, Abel, about allowing his team members to invite their families to the road show when they work on weekends at the show. Identify the words and expressions Ben uses to demonstrate AIDA framework and expression of empathy. A Ben: Hi Abel. I’d like to discuss about the road show weekend scheduling. Do you have a few minutes? B Abel: Yes. Is there a problem? C Ben: Do you recall how we’ve been talking about work-life balance in the past year? Most of our team members have young families and working on both weekends affects work-life balance. D Abel: How will we cope with manpower need if we don’t schedule them? E Ben: That’s what I’ve been considering. F Ben: What do you think about having their families over for one of the days over the weekends – as road show guests? Anyway, we’ve magic shows and games for young families. That way, they can technically be with the family while at work. What do you think? G Abel: Sounds like something that may work. H Ben: It’ll certainly make them happier! Wouldn’t we want that for the team? I Abel: Sure! I think you are right. Just make sure we don’t have too many staff families on the same day. J Ben I understand. Shall I announce this on email now? Which of the above line tried to Generate Interest, by: Posing a rhetorical question to make a suggestion Supporting with reasons Using a modal verb to affirm Checking and asking for consent",
+    "answers": [
+      "F Ben: What do you think about having their families over for one of the days over the weekends – as road show guests? Anyway, we’ve magic shows and games for young families. That way, they can technically be with the family while at work. What do you think?"
+    ]
+  },
+  {
+    "question": "Analyse this persuasive conversation (slides 19-20) Ben is speaking to his manager, Abel, about allowing his team members to invite their families to the road show when they work on weekends at the show. Identify the words and expressions Ben uses to demonstrate AIDA framework and expression of empathy. A Ben: Hi Abel. I’d like to discuss about the road show weekend scheduling. Do you have a few minutes? B Abel: Yes. Is there a problem? C Ben: Do you recall how we’ve been talking about work-life balance in the past year? Most of our team members have young families and working on both weekends affects work-life balance. D Abel: How will we cope with manpower need if we don’t schedule them? E Ben: That’s what I’ve been considering. F Ben: What do you think about having their families over for one of the days over the weekends – as road show guests? Anyway, we’ve magic shows and games for young families. That way, they can technically be with the family while at work. What do you think? G Abel: Sounds like something that may work. H Ben: It’ll certainly make them happier! Wouldn’t we want that for the team? I Abel: Sure! I think you are right. Just make sure we don’t have too many staff families on the same day. J Ben I understand. Shall I announce this on email now? Which of the above line tried to Create Desire? Note Ben’s tone and the use of modal verbs in this response.",
+    "answers": [
+      "H Ben: It’ll certainly make them happier! Wouldn’t we want that for the team?"
+    ]
+  },
+  {
+    "question": "Analyse this persuasive conversation (slides 19-20) Ben is speaking to his manager, Abel, about allowing his team members to invite their families to the road show when they work on weekends at the show. Identify the words and expressions Ben uses to demonstrate AIDA framework and expression of empathy. A Ben: Hi Abel. I’d like to discuss about the road show weekend scheduling. Do you have a few minutes? B Abel: Yes. Is there a problem? C Ben: Do you recall how we’ve been talking about work-life balance in the past year? Most of our team members have young families and working on both weekends affects work-life balance. D Abel: How will we cope with manpower need if we don’t schedule them? E Ben: That’s what I’ve been considering. F Ben: What do you think about having their families over for one of the days over the weekends – as road show guests? Anyway, we’ve magic shows and games for young families. That way, they can technically be with the family while at work. What do you think? G Abel: Sounds like something that may work. H Ben: It’ll certainly make them happier! Wouldn’t we want that for the team? I Abel: Sure! I think you are right. Just make sure we don’t have too many staff families on the same day. J Ben I understand. Shall I announce this on email now? Which of the above line tried to Engage Action? Ben asks for permission to carry out the suggestion.",
+    "answers": ["J Ben: I understand. Shall I announce this on email now?"]
+  },
+  {
+    "question": "Words and expressions Ben uses to demonstrate expression of empathy. (You may select more than ONE answer.)",
+    "answers": ["J Ben: I understand. Shall I announce this on email now?"]
+  },
+  {
+    "question": "How does nonverbal communication cues affect us?",
+    "answers": ["Others’ perception of us"]
+  },
+  {
+    "question": "Which of the following is not an example of nonverbal communication cues?",
+    "answers": ["Our presentation skills"]
+  },
+  {
+    "question": "Which of the following tone of voice is ideal for projecting confidence?",
+    "answers": ["Happy"]
+  },
+  {
+    "question": "One of the following postures and gestures suggest friendliness. Which is it?",
+    "answers": ["Open arms and palms when gesturing while speaking"]
+  },
+  {
+    "question": "Effective nonverbal cues should complement and even ____________ our verbal content. ashes_expi",
+    "answers": ["enhance"]
+  },
+  {
+    "question": "Proximity refers to the amount of (personal) __________we like to have.",
+    "answers": ["space"]
+  },
+  {
+    "question": "Proximity refers to the amount of space or sense of personal space we like to have. When we show our understanding for others’ preferred proximity, we display consideration and _____________.",
+    "answers": ["respect"]
+  },
+  {
+    "question": "In a new culture, the best way to avoid offending through our nonverbal cues is to ______________.",
+    "answers": ["be observant and check for understanding of behaviours"]
+  },
+  {
+    "question": "Affirm with Confidence (slides 27-29) How do you present reasons with confidence? How do you describe scenarios of success with conviction? What do you say to motivate your target listener to take actions? By using precise adjectives (descriptions) and action words (verbs) to provide a clear idea of what is done or can be done. By describing concrete examples and evidence to support recommendations and motivate the listener to take actions. Is Gim affirming and persuasive in this conversation? • Find examples in the conversation where Gim uses precise adjectives (descriptions) and action words (verbs). • Find examples in the conversation where Gim describes concrete examples and evidence. At a quarterly meeting between a service provider (Gim) and client (Ben). Line Speaker Dialogue 1 Gim: How are you doing, Ben? The last quarter was a busy period yes? 2 Ben: Hi Goh! Yes, it was. It was the peak period for my team. 3 Gim: Well, it’s always a good sign to be busy. 4 Ben: Yes, you’re right! How is it going, Gim? 5 Gim: Exciting times, I guess! We’re introducing a new line of packaging designs and these are going to look very good on your products. 6 Ben: Do you have samples or mock-ups to show me? 7 Gim: Yes, here they are. Environmentalism is important, we’re upcycling used materials to produce boxes and labels. The colours are also fresh and funky. 8 Ben: I must say these are creative designs. Wow! 9 Gim: I’m introducing these to you because the designs will go very well with your innovative products and target consumers, who appreciate cutting-edge technology and design. We will also customise the packaging design to suit your products and target consumers. 10 Ben: That’ll be cool. Actually I was thinking about how to market the next version of the product differently and I think your packaging just provided the answer. But how much more is this going to cost? 11 Gim: The new design costs about 10 percent more and the difference really goes into the upcycling effort, besides the designing. We’ll be ready to conceptualise your customizing needs whenever you’re good to go. I’m excited! Line 5: \"... these are going to look very good on your products.\" Recognize: Gim’s use of precise adjectives (descriptions) and action words (verbs).",
+    "answers": [
+      "a Feedback Line 5: \"... these are going to look very good on your products.\" Verb: look Adj: very good Gim expresses his understanding of his client’s preferences for his specific product."
+    ]
+  },
+  {
+    "question": "Line 7: \"Environmentalism is important, we’re upcycling used materials to produce boxes and labels. The colours are also fresh and funky.\" Recognize: Gim’s use of precise adjectives (descriptions) and action words (verbs) Gim’s use of concrete examples and evidence",
+    "answers": [
+      "a Feedback Line 7: \"Environmentalism is important, we’re upcycling used materials to produce boxes and labels. The colours are also fresh and funky.\" Verbs: upcycling, produce Adj: fresh, funky Gim presents his product using snazzy, clear and specific terms that will be appreciated by his target client. Concrete evidence: used materials, boxes, labels Gim uses precise descriptions and technical jargon to clearly showcase his knowledge about his products. The first statement on environmentalism is also a statement of conviction he is speaking on behalf of his organization."
+    ]
+  },
+  {
+    "question": "Line 9: \"... the designs will go very well with your innovative products and target consumers, who appreciate cutting-edge technology and design.\" Recognize: Gim’s use of precise adjectives (descriptions) and action words (verbs) Gim’s use of concrete examples and evidence",
+    "answers": [
+      "a Feedback Line 9: \" ... the designs will go very well with your innovative products and target consumers, who appreciate cutting-edge technology and design.\" Verbs: go very well, appreciate Adj: innovative, target, cutting-edge Concrete examples: products, target consumers, technology, design Gim elaborates on his product and angles the content to focus on Ben’s product and target consumers."
+    ]
+  },
+  {
+    "question": "Line 9: \"... customise the packaging design to suit your products and target consumers.\" Recognize: Gim’s use of precise adjectives (descriptions) and action words (verbs) Gim’s use of concrete examples and evidence",
+    "answers": [
+      "a Feedback Line 9 ... customise the packaging design to suit your products and target consumers. Verbs: customise, suit Adj: target By presenting the information from the perspective of his client, Gim highlights the WIIFM (what’s in it for me) and makes the product or ideas appealing to his target audience. Concrete evidence: packaging design, target consumers"
+    ]
+  },
+  {
+    "question": "Line 11: \"... the difference really goes into the upcycling effort, besides the designing.\" Recognize: Gim’s use of concrete examples and evidence",
+    "answers": [
+      "a Feedback Line 11: \"... the difference really goes into the upcycling effort, besides the designing.\" Concrete evidence: upcycling effort, designing Towards the end of the conversation, Gim provides affirming information by giving the reasons for the cost difference."
+    ]
+  },
+  {
+    "question": "Line 11: \"... We’ll be ready to conceptualise your customising needs whenever you’re good to go.\" Recognize: Gim’s use of precise adjectives (descriptions) and action words (verbs) Gim’s use of concrete examples and evidence",
+    "answers": [
+      "a Feedback Line 11: \"... We’ll be ready to conceptualise your customising needs whenever you’re good to go.\" Verb: conceptualise Adj: customising Concrete evidence: we’ll be ready ... whenever you’re good to go Gim closes the conversation by encouraging his client to take action."
+    ]
+  },
+  {
+    "question": "What does it mean to storyboard a presentation?",
+    "answers": ["To structure the presentation like a story."]
+  },
+  {
+    "question": "What are attention grabbers?",
+    "answers": [
+      "These are opening statements that hook the audience’s attention at the start of the presentation."
+    ]
+  },
+  {
+    "question": "Which of the following structures is NOT an example of a three-point body presentation structure?",
+    "answers": ["Providing three definitions"]
+  },
+  {
+    "question": "What is a strategy to minimize the fall in attention span in audience throughout a presentation?",
+    "answers": [
+      "At the end of each main point, provide a mini summary to sum up the key idea."
+    ]
+  },
+  {
+    "question": "What is meant by the term, ‘signposting’?",
+    "answers": [
+      "To use verbal phrases to indicate connections between sentences or paragraphs."
+    ]
+  },
+  {
+    "question": "Which of the following is not one of the steps for concluding a presentation?",
+    "answers": ["Signpost using an appropriate sentence."]
+  },
+  {
+    "question": "Which of the following actions should a presenter take to prepare the audience for the Question & Answer session?",
+    "answers": [
+      "Include the Question & Answer session when introducing the presentation overview."
+    ]
+  },
+  {
+    "question": "When designing presentation slides, what is one good principle to follow?",
+    "answers": ["Keep it short and simple."]
+  },
+  {
+    "question": "What action should a presenter take when an audience member wants to continue in a debate with her during the Q & A session?",
+    "answers": [
+      "Inform the member that the debate should be continued after the presentation, so that others can ask questions."
+    ]
+  },
+  {
+    "question": "When animating text and visuals on a presentation slide, how would you choose the animating style?",
+    "answers": [
+      "Choose a style which is simple and does not take long to complete the animating, so as to save time."
+    ]
+  },
+  {
+    "question": "The following options are good practices for the Q & A session. However the presenter need not always do one of the following.",
+    "answers": ["Invite audience to ask questions."]
+  },
+  {
+    "question": "When faced with having to present a large amount of content, what should be your approach to presentation slide design?",
+    "answers": [
+      "Use as many slides as it is required to cover the presentation content."
+    ]
+  },
+  {
+    "question": "It is important to engage in small talks with our stakeholders and counterparts because it helps us to build rapport.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Besides building rapport, we can demonstrate a few interpersonal skills through small talks. These are speaking skills and active listening skills.",
+    "answers": ["False"]
+  },
+  {
+    "question": "To generate goodwill, we can provide some information about ourselves.",
+    "answers": ["False"]
+  },
+  {
+    "question": "We can show empathy for stakeholders and counterparts by communicating our understanding of their feelings and experience.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When meeting up with a stakeholder or counterpart we had met previously, it is good to prepare for the meeting.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In preparing for the meeting, we should recall what he or she had mentioned about their work commitments.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is rude to ask questions when engaging stakeholders and counterparts.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The reasons we ask questions are to indicate our interest in the conversation, offer help, and seek clarification.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Offering help and information to counterparts from overseas can be perceived to be condescending.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is a good practice to seek clarification immediately when a piece of information is not clearly understood, to avoid misunderstanding.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following factors is not important when preparing for a negotiation meeting?",
+    "answers": ["Knowing your lines."]
+  },
+  {
+    "question": "What is the integrative approach to negotiation?",
+    "answers": [
+      "Both parties collaborate and work towards an outcome that trumps a compromise of either parties’ goals."
+    ]
+  },
+  {
+    "question": "How do we adopt a collaborative tone during the negotiation meeting?",
+    "answers": ["By using pronouns like ‘us’, ‘we’, and ‘our’."]
+  },
+  {
+    "question": "How does body language provide information during the face-to-face negotiation meeting?",
+    "answers": [
+      "We can read and display active listening and facial expressions."
+    ]
+  },
+  {
+    "question": "Which of the following opening preambles should not be used in a negotiation because the speaker can sound more confident?",
+    "answers": [
+      "“We might think that this practice is not relevant for our industry, but I ...”."
+    ]
+  },
+  {
+    "question": "Select the negotiation strategy that best describes the following statement. When his counterpart from headquarter (HQ) is not willing to provide more information required for the account, Shen decides to approach another counterpart in the regional office for help. He informs the HQ about his decision to switch collaborator.",
+    "answers": ["BATNA (best alternative to a negotiated agreement)"]
+  },
+  {
+    "question": "Select the negotiation strategy that best describes the following statement. During a negotiation over a project timeline, the team leader asks his manager for one more week than what is required. Which strategy is he employing?",
+    "answers": ["Start unrealistically"]
+  },
+  {
+    "question": "Select the negotiation strategy that best describes the following statement. Min offers to set up the logistics for the dinner after the roadshow after her team leader consented to her request to take the after shift at the roadshow.",
+    "answers": ["Reciprocate"]
+  },
+  {
+    "question": "Select the negotiation strategy that best describes the following statement. When the tour agent refused to refund them on the day tour they could not go, due to weather condition, the family highlighted the agency’s mission to make every holiday a memorable one. They hoped to remind the agent about the company’s promise to holidaymakers who come to them.",
+    "answers": ["Refer to prior commitments"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) Hai: We need to create additional office space for the interns who are coming in summer. Let’s plan for that.",
+    "answers": ["Communicate goal clearly"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Min) It will be rather difficult to carve out an entire room for the interns as all the rooms are fully utilised. How many interns are we expecting? We could clear up a corner at the lounge for some shared work space.",
+    "answers": ["Bargain systematically – provide reason"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Hai) I see. In that case, I’d rather they share one of the meeting rooms, for more privacy. I am expecting about seven of them.",
+    "answers": ["Express decision firmly"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Min) Are you sure we are ready to do without one of the three meeting rooms? All our meeting rooms are used every day by various teams.",
+    "answers": ["CBargain systematically – provide reason"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Hai) I understand and it’s hard for colleagues to get used to having less options for team meetings.",
+    "answers": ["Express empathy"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Min) Sure. Thanks for offering to make the announcement when the time comes. So we will allocate one of the meeting rooms as workspace for the seven interns coming in summer.",
+    "answers": ["Summarise concisely"]
+  },
+  {
+    "question": "Select the language for negotiation used that best describes the statement in this scenario where two managers, Hai and Min, discuss space allocation for their incoming interns. (*Hint: One of the strategies is used twice here) (Hai) But we should be able to work around that. The less formal meetings can be held at the lounge or over coffee. Please make the arrangement and I will help to communicate about the change and possible alternatives.",
+    "answers": ["Ask for concession and offer concessions"]
+  }
+]

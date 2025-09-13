@@ -1194,5 +1194,21 @@
   {
     "question": "The output of any given hashing algorithm is always _____. (D5.1, L5.1.3)",
     "answers": ["the same length"]
+  },
+  {
+    "question": "Hoshi is an ISC2 member who works for the Triffid Corporation as a data manager. Triffid needs a new firewall solution, and Hoshi is asked to recommend a product for Triffid to acquire and implement. Hoshi’s cousin works for a firewall vendor; that vendor happens to make the best firewall available. What should Hoshi do? (D1, L1.5.1)",
+    "answers": ["disclose the relationship, but recommend the vendor/product"]
+  },
+  {
+    "question": "Siobhan is an ISC2 member who works for Triffid Corporation as a security analyst. Yesterday, Siobhan got a parking ticket while shopping after work. What should Siobhan do? (D1, L1.5.1)",
+    "answers": ["pay the parking ticket"]
+  },
+  {
+    "question": "Olaf is a member of ISC2 and a security analyst for Triffid Corporation. During an audit, Olaf is asked whether Triffid is currently following a particular security practice. Olaf knows that Triffid is not adhering to that standard in that particular situation, but that saying this to the auditors will reflect poorly on Triffid. What should Olaf do? (D1, L1.5.1)",
+    "answers": ["tell the auditors the truth"]
+  },
+  {
+    "question": "Zarma is an ISC2 member and a security analyst for Triffid Corporation. One of Zarma’s colleagues is interested in getting an ISC2 certification and asks Zarma what the test questions are like. What should Zarma do? (D1, L1.5.1)",
+    "answers": ["explain the style and format of the questions, but no detail"]
   }
 ]
