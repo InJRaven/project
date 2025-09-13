@@ -117,7 +117,6 @@
         i.required
     );
     if (!field) return;
-    console.log(field);
     await delay(200);
     field.value = answer;
     field.dispatchEvent(new Event("input", { bubbles: true }));
