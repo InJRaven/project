@@ -930,5 +930,9 @@
   {
     "question": "True or False? The following is a good thesis statement for a compare/contrast essay: Superman and Batman are the super heroes in several popular movies.",
     "answers": ["False"]
+  },
+  {
+    "question": "Is the following a parallel structure? Bill is interested not only in psychology but also in becoming an actor.",
+    "answers": ["no"]
   }
 ]
