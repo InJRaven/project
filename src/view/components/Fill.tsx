@@ -16,10 +16,12 @@ const Fill = () => {
         target: { tabId: tab.id },
         files: ["content/autoFill.js"],
       });
-
-      chrome.tabs.sendMessage(tab.id!, {
-        action: "AUTO_FILL",
-        payload: { title, content },
+      chrome.storage.local.get("autoSubmit", (result) => {
+        chrome.tabs.sendMessage(tab.id!, {
+          action: "AUTO_FILL",
+          payload: { title, content },
+          autoSubmit: result.autoSubmit ?? true,
+        });
       });
     }
   };
