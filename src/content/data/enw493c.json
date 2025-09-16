@@ -1203,5 +1203,51 @@
   {
     "question": "Which citation format are you learning to use in this course?",
     "answers": ["MLA (Modern Language Association)"]
+  },
+  {
+    "question": "True or False? It's OK to borrow some ideas from an outside source without citing it as long as you don't copy the exact words in your own essay.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? It was not surprising to many people that a judge decided that Robin Thicke had \"noticeably ripped off Marvin Gaye's 1977 hit 'Got to Give It Up' when he wrote the smash hit 'Blurred Lines' with Pharrell Williams and T.I.\" (Grow).",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? Roger Friedman says, \"Carey has several other blots on her record in the songwriting department, including lifting the music from Maurice White's famous hit by the Emotions, called \"Best of My Love.\"",
+    "answers": ["No"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? While plagiarism has always existed, the problem is that young people are \"representative of a different generation, one that freely mixes and matches from the whirring flood of information across new and old media, to create something new\" (Kulish).",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? Nicholas Kulish reports that \"the controversy did not appear to be hurting book sales\" as it was \"ninth over all among books on the German Amazon site.\"",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Is the following quote well-integrated, or blended with the writer's own words? The University of Virginia honor code clearly states its rules and \"requires students to pledge not to cheat, lie or steal, or tolerate those who do\" (\"UVa Expels\").",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What is an annotated bibliography?",
+    "answers": [
+      "It is a list of articles related to your topic, and it summarizes and evaluates these."
+    ]
+  },
+  {
+    "question": "If you were using EasyBib to help you create a Works Cited entry for a YouTube video, and EasyBib gave you the results below, what additional information would you have to provide in order to create the citation?",
+    "answers": ["the author of the video and publication date"]
+  },
+  {
+    "question": "True or False? Most research papers are about 5 pages long.",
+    "answers": ["False"]
+  },
+  {
+    "question": "All of the following are important to do in your writing to make your research paper academic and effective EXCEPT which one?",
+    "answers": ["Avoid specific examples in your writing."]
+  },
+  {
+    "question": "Is this word appropriate for an academic essay? gonna",
+    "answers": ["No"]
   }
 ]

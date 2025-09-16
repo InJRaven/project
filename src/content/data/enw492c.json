@@ -934,5 +934,13 @@
   {
     "question": "Is the following a parallel structure? Bill is interested not only in psychology but also in becoming an actor.",
     "answers": ["no"]
+  },
+  {
+    "question": "Is the following sentence punctuated correctly? For Mary's birthday her parents took her to the park, and they invited all of her friends.",
+    "answers": ["no"]
+  },
+  {
+    "question": "True or False? Most research assignments tell you the exact topic you should write about.",
+    "answers": ["False"]
   }
 ]

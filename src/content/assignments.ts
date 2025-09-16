@@ -1,4 +1,21 @@
 (() => {
+  const normalizeText = (text: string | null): string => {
+    if (text == null) return "";
+    return text
+      .replace(/Current Time\s*\d+:\d+\/\d+:\d+\s*Loaded:\s*\d+(\.\d+)?%/gi, "")
+      .replace(/\uFEFF/g, "")
+      .replace(
+        /[\u200B-\u200D\u2060\u200E\u200F\u061C\u202A-\u202E\u2066-\u2069]/g,
+        ""
+      )
+      .replace(/\u00A0/g, " ")
+      .normalize("NFKC")
+      .replace(/^\d+\.\s*Question\s*\d+/i, "")
+      .replace(/\d+\s*point[s]?$/i, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  };
+
   const run = (type: string) => {
     const urls: string[] = [];
     const found = document.querySelectorAll(
@@ -27,9 +44,8 @@
         const links = Array.from(
           document.querySelectorAll("a")
         ) as HTMLAnchorElement[];
-
         links.forEach((link) => {
-          const text = link.textContent || "";
+          const text = normalizeText(link?.innerText);
           if (text.includes("Practice Peer-graded Assignment") && link.href) {
             urls.push(link.href);
           }

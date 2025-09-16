@@ -4,7 +4,7 @@ const Assignments = () => {
     { label: "Graded Assignment" },
     { label: "Graded App" },
     { label: "Practice Assignment" },
-    { label: "Peer Practice Assignment" },
+    { label: "Practice Peer-graded Assignment" },
     { label: "Submit Assignment" },
     { label: "Discussion" },
   ];
