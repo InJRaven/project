@@ -1,0 +1,806 @@
+[
+  {
+    "question": "Java comes in which editions?",
+    "answers": ["Standard (SE), Enterprise (EE), and Micro (ME)"]
+  },
+  {
+    "question": "On which platforms does Java NOT run?",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "What is JDBC used for?",
+    "answers": ["To connect Java applications with databases"]
+  },
+  {
+    "question": "Java’s core syntax is derived from _________ .",
+    "answers": ["C"]
+  },
+  {
+    "question": "Java’s WORA philosophy stands for ___________ .",
+    "answers": ["Write Once, Run Anywhere"]
+  },
+  {
+    "question": "True or False: Java code is written to a specific platform.",
+    "answers": ["False"]
+  },
+  {
+    "question": "__________ can be used to group dozens, or hundreds of individual files used by Java.",
+    "answers": ["Packages"]
+  },
+  {
+    "question": "In Java, non-object data types are called ________ .",
+    "answers": ["primitives"]
+  },
+  {
+    "question": "Which Java version has become the most widely used in production environments, with approximately 45% of applications utilizing it.",
+    "answers": ["Java 11"]
+  },
+  {
+    "question": "Which edition of Java defines a set of APIs and configurations for embedded and mobile devices?",
+    "answers": ["Java Micro-Edition (ME)"]
+  },
+  {
+    "question": "Java defines compound statements using which of the following?",
+    "answers": ["Braces (the ‘{‘ and ‘}’ characters)"]
+  },
+  {
+    "question": "Which of the following is NOT a Java Primitive type?",
+    "answers": ["complex"]
+  },
+  {
+    "question": "True or False: Java statements end with a semicolon.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Just like in C++, from which Java takes many ideas, you can have multiple public classes in a Java file?",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is NOT a valid numeric literal in Java?",
+    "answers": ["D: 0b7"]
+  },
+  {
+    "question": "__________ is the automatic conversion the Java compiler makes between the primitive types and their corresponding object wrapper classes.",
+    "answers": ["Autoboxing"]
+  },
+  {
+    "question": "To create a stand-alone Java program, you need to include a special method. What is it?",
+    "answers": ["The \"main\" method."]
+  },
+  {
+    "question": "Which of the following are TRUE of Java naming conventions? (Select all that apply)",
+    "answers": [
+      "Names are used to denote classes, objects, attributes, and methods.",
+      "Class names utilize Camel Case.",
+      "Names are a sequence of letters, numbers, and underscores."
+    ]
+  },
+  {
+    "question": "Real numbers are represented by ____________ types.",
+    "answers": ["float and double"]
+  },
+  {
+    "question": "________ allow you to define a grouping of primitives or objects with the same name.",
+    "answers": ["Arrays"]
+  },
+  {
+    "question": "Which of the following is not a reserved word within the java language?",
+    "answers": ["Class"]
+  },
+  {
+    "question": "What does the following program do? int x[] = {1,2,3,4,5,6,7,8,9}; for (int i : x) { if(i%2 == 0){ System.out.println(i); } }",
+    "answers": ["Prints out the numbers 2,4,6, and 8"]
+  },
+  {
+    "question": "Which of the following is an incorrect syntax for a “for” loop?",
+    "answers": ["for(int z=10, y=30; z<y; z++, y--){}"]
+  },
+  {
+    "question": "What would be the output of the following program be? String output = \"\"; int x = 2; switch(x){ case 1: case 2: case 3: output += \"one,two,three,\"; case 4: output += \"four,\"; break; case 5: output += \"five,\"; break; default: output += \"six\"; output += \"six\"; } System.out.println(output);",
+    "answers": ["one, two, three, four"]
+  },
+  {
+    "question": "Which of the following is not a valid loop definition?",
+    "answers": ["while (1) { }"]
+  },
+  {
+    "question": "How else could you clarify the following? if (a < b && c > d)",
+    "answers": ["if ((a < b) && (c > d))"]
+  },
+  {
+    "question": "Which of the following are logical operators? (Select all that apply).",
+    "answers": ["||", "!", "&&"]
+  },
+  {
+    "question": "Relational operators result in a ________ value.",
+    "answers": ["boolean"]
+  },
+  {
+    "question": "True or False: The if statement works with the relational operators to execute a block of code ONLY if some condition is true.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which statement causes an immediate exit from that structure when executed in a while, for, do-while, or switch structure?",
+    "answers": ["The break statement."]
+  },
+  {
+    "question": "Which is not a key concept of Object-Orientation?",
+    "answers": ["Garbage Collection"]
+  },
+  {
+    "question": "Which of these best describes Encapsulation?",
+    "answers": ["Hiding code and data behind a contract"]
+  },
+  {
+    "question": "Classes contain two main sections. What are they?",
+    "answers": ["Attributes (data) and Methods (code)"]
+  },
+  {
+    "question": "True or false: In a class definition, instance data (attributes) must be declared before (as in the order in which it is declared) it can be referenced in method source code.",
+    "answers": ["False"]
+  },
+  {
+    "question": "A method signature consists of ________ .",
+    "answers": ["The method name and the ordered types of the parameters"]
+  },
+  {
+    "question": "Why did OO programming become popular?",
+    "answers": ["to respond to the increased complexity of business programs"]
+  },
+  {
+    "question": "How many responsibilities should a java class have?",
+    "answers": ["1"]
+  },
+  {
+    "question": "True or False? Attributes describe the actions the class must be able to perform.",
+    "answers": ["False"]
+  },
+  {
+    "question": "__________ is when code is scattered accross many different programs that does the same--or nearly the same--thing.",
+    "answers": ["Code redundancy"]
+  },
+  {
+    "question": "The ability to call a common interface on disparate implementations ia called ______.",
+    "answers": ["polymorphism"]
+  },
+  {
+    "question": "Classpath ______. (Select all that apply)",
+    "answers": [
+      "can be set up as a system-wide environment variable",
+      "can be passed to the Java program when your program starts"
+    ]
+  },
+  {
+    "question": "Attributes should generally be marked with which access?",
+    "answers": ["Private"]
+  },
+  {
+    "question": "Attributes are defined inside the class block, but outside of the ________.",
+    "answers": ["method blocks"]
+  },
+  {
+    "question": "How many levels of accessibility does Java provide?",
+    "answers": ["4"]
+  },
+  {
+    "question": "Compiled source files will have __________ as the .java file it was compiled from, but with an extension of .class.",
+    "answers": ["the same name"]
+  },
+  {
+    "question": "True or False: A class can have more than one constructor.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What keyword do you use to set up attributes so they have only one value across all instances inside the same system?",
+    "answers": ["static"]
+  },
+  {
+    "question": "Which class provides the following common \"hook\"? System.out.println();",
+    "answers": ["System"]
+  },
+  {
+    "question": "java uses a period (.) to separate directories. What are these structures called?",
+    "answers": ["Packages"]
+  },
+  {
+    "question": "What does Car represent in the following code? Car myCar;",
+    "answers": ["The type of myCar."]
+  },
+  {
+    "question": "In the following code, SportsCar represents ________. Car myCar = new SportsCar(...);",
+    "answers": ["The class of myCar"]
+  },
+  {
+    "question": "True or false: Individual objects start with the same methods as defined by their class, but after that, individual objects can have new or modified methods given to them.",
+    "answers": ["False"]
+  },
+  {
+    "question": "To create a new object of class C, we would do:",
+    "answers": ["C c = new C();"]
+  },
+  {
+    "question": "What is returned from the following code? public Car myfunc() { Car c; return c; }",
+    "answers": ["A null value."]
+  },
+  {
+    "question": "Creating an object is a two-step process. What is the first step?",
+    "answers": [
+      "Creates a reference for an object but doesn't assign it to an instance."
+    ]
+  },
+  {
+    "question": "True or False: Java uses a reference table within the JRE to keep track of objects it has constructed.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Any attribute with an accessibility set to ______ will not be accessible using Java's \"dot\" (.) notation outside of that class.",
+    "answers": ["private"]
+  },
+  {
+    "question": "To work with an object, you must first _______ the object, then manipulate the object via its methods.",
+    "answers": ["instantiate"]
+  },
+  {
+    "question": "True or False: All objects of the same data type share the methods in memory as well as data.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The import statement is used to ...",
+    "answers": [
+      "Import a public member of a package other than the one you are defined in."
+    ]
+  },
+  {
+    "question": "By convention, package names start with ...",
+    "answers": [
+      "Your Domain Name in reverse order, starting with the Top Level Domain (com, edu, etc.)"
+    ]
+  },
+  {
+    "question": "An import statement of the form importpackagename.* ...",
+    "answers": [
+      "Not recommended, especially when using an IDE, because it imports everything in a package, potentially leading to name collisions with other packages."
+    ]
+  },
+  {
+    "question": "How can you resolve a name collision if you need to use two classes of the same name that are in multiple packages, e.g., java.util.Date and java.sql.Date?",
+    "answers": [
+      "Use the fully qualified class name of one or both throughout the consuming class."
+    ]
+  },
+  {
+    "question": "Strings are ...",
+    "answers": ["Immutable"]
+  },
+  {
+    "question": "StringBuffer and StringBuilder differ in that ...",
+    "answers": [
+      "They are identical, even down to sharing the same code, but StringBuffer’s methods are synchronized, and StringBuilder’s methods are not."
+    ]
+  },
+  {
+    "question": "In order to use java.lang.Math, you must ...",
+    "answers": ["Simply refer to Math.f, where f is any of its members."]
+  },
+  {
+    "question": "True or false: Anything closed in parenthesis ( ) is converted to a String reference and object by Java.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Strings can be concatenated (chained together) using ________.",
+    "answers": ["the plus sign (+)"]
+  },
+  {
+    "question": "_________ provides useful functions for operations and you never instantiate it.",
+    "answers": ["The Math class"]
+  },
+  {
+    "question": "In Java, the declaration of the following code results in __________. public static void main(String[] args) { ... Car car; ... }",
+    "answers": ["A Car reference with an undefined value"]
+  },
+  {
+    "question": "True or false: An instance of a subclass has access to all of the attributes of its parent class(es).",
+    "answers": ["False"]
+  },
+  {
+    "question": "A class that overrides a parent method, methodName(args) ____________.",
+    "answers": ["Can invoke the parent method using super.methodName(args)"]
+  },
+  {
+    "question": "Which of the following is correct?",
+    "answers": ["public class Child extends Parent { }"]
+  },
+  {
+    "question": "All Java classes automatically directly or indirectly extend __________ .",
+    "answers": ["java.lang.Object"]
+  },
+  {
+    "question": "Java classes that want to be printable should implement...",
+    "answers": ["toString()"]
+  },
+  {
+    "question": "Can a subclass remove a method that it inherits, if it doesn’t want to expose it?",
+    "answers": ["No"]
+  },
+  {
+    "question": "An overloaded method is one where a class...",
+    "answers": ["Has two methods of the same name, but different arguments."]
+  },
+  {
+    "question": "True or false: It is easy for a subclass to overload the type of a parent’s bean property.",
+    "answers": ["False"]
+  },
+  {
+    "question": "An overridden method is one where a class...",
+    "answers": ["Replaces the implementation of an inherited method"]
+  },
+  {
+    "question": "Every constructor implicitly _________ .",
+    "answers": [
+      "Starts with super() if the first line of the constructor isn’t a call to super(...) with arguments valid for one of the parent class’ constructors."
+    ]
+  },
+  {
+    "question": "The Inheritance relationship in OOP is between ____________.",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "The IS-A relationship in O-O represents __________ .",
+    "answers": ["Inheritance"]
+  },
+  {
+    "question": "The HAS-A relationship in O-O represents ____________.",
+    "answers": ["Aggregation/Composition – the Employee HAS-A name"]
+  },
+  {
+    "question": "Polymorphism is ___________ .",
+    "answers": [
+      "the ability for an instance to appear to be more than one thing, e.g., a SportsCar can look like a SportsCar, a Car or an Object."
+    ]
+  },
+  {
+    "question": "True or false: Polymorphic classes must always inherit the implementation from their parent class.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: Java classes support inheriting from multiple parent classes.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Given the following code, the slowForSchoolZone() method will call ___________ . public void slowForSchoolZone(Car car) { car.setSpeed(getSchoolZoneSpeed()); }",
+    "answers": [
+      "the setSpeed method implemented lowest in the inheritance hierarchy of whatever class car happens to be referencing an instance."
+    ]
+  },
+  {
+    "question": "It is better to _______________ .",
+    "answers": [
+      "Create class diagrams, and then develop code after the diagrams have been approved."
+    ]
+  },
+  {
+    "question": "An Abstract Class can be ___________. (Select all that apply)",
+    "answers": [
+      "A partially implemented class.",
+      "Incapable of being instantiated."
+    ]
+  },
+  {
+    "question": "When naming methods, use:",
+    "answers": ["Verbs"]
+  },
+  {
+    "question": "Down-casting _____________.",
+    "answers": ["Converts an object reference from a super-type to a sub-type."]
+  },
+  {
+    "question": "An Abstract Class can be _________ . (Select all that apply)",
+    "answers": [
+      "a partially implemented class.",
+      "incapable of being instantiated."
+    ]
+  },
+  {
+    "question": "True or false: Unlike regular classes, abstract classes support multiple inheritances.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false: You must use @Override to override an inherited method.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false: Because they cannot be instantiated, abstract classes cannot be used as the type of a parameter.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Abstract can contain __________ . (Select all that apply)",
+    "answers": ["Abstract methods", "Implemented methods"]
+  },
+  {
+    "question": "Using the keyword new with an Abstract Class will result in a ______.",
+    "answers": ["Compile time error."]
+  },
+  {
+    "question": "True or False: An abstract class must have one or more abstract methods.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In order to use an Abstract Class, you ________ .",
+    "answers": ["Create a subclass of it that implements all abstract methods."]
+  },
+  {
+    "question": "Abstract Classes are best used to _________ .",
+    "answers": ["Provide reusable code, with attributes to support the code."]
+  },
+  {
+    "question": "(Select all that apply) Interfaces can have ________ .",
+    "answers": [
+      "Attributes that are static and final",
+      "Abstract methods",
+      "Methods with code"
+    ]
+  },
+  {
+    "question": "(Select all that apply) Interfaces ________.",
+    "answers": [
+      "Provide polymorphism to classes that have nothing in common other than that they all implement that interface.",
+      "Can extend multiple other interfaces"
+    ]
+  },
+  {
+    "question": "Where the java.lang.Math class introduced in Java 8, could it have been an interface?",
+    "answers": ["Yes."]
+  },
+  {
+    "question": "Where the java.lang.System class introduced in Java 8, could it have been an interface?",
+    "answers": ["No."]
+  },
+  {
+    "question": "(Select all that apply) Classes in Java can ________.",
+    "answers": [
+      "Implement as many interfaces as they want",
+      "Extend exactly one other class"
+    ]
+  },
+  {
+    "question": "To implement a default method, one must ________ .",
+    "answers": ["Use the keyword default and provide a code body."]
+  },
+  {
+    "question": "(Select all that apply) Static and default methods ___________ .",
+    "answers": [
+      "Can refer to methods of the interface and/or static members of other interfaces and/or classes.",
+      "Must have code bodies."
+    ]
+  },
+  {
+    "question": "Interfaces are best used to _________ .",
+    "answers": [
+      "Provide polymorphism throughout Java, regardless of class inheritance."
+    ]
+  },
+  {
+    "question": "In the following code ___________ . Interface EmployeeService { static String END_POINT = “http://localhost:8080/employees”; public Employee[] findAll(); Employee findByID(int empID); EmployeeService(String endPoint); }",
+    "answers": ["The constructor declaration is invalid."]
+  },
+  {
+    "question": "True or false: Interfaces are the key to polymorphism in Java.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Polymorphism refers to _________ .",
+    "answers": [
+      "The ability for many classes to be invoked through a common interface"
+    ]
+  },
+  {
+    "question": "What is the output of this code? public class Test { public static class A { public int getA() { return 5; } } public static class B extends A { public int getA() { return 10; } } public static void main(String[] args) { A a1 = new A(), a2 = new B(); B b1 = new B(); System.out.printf(\"A1: %d, A2: %d, B1: %d\\n\", a1.getA(), a2.getA(), b1.getA()); } }",
+    "answers": ["A1: 5, A2: 10, B1: 10"]
+  },
+  {
+    "question": "What is the output of this code? public class Test { public static class A { public int getA() { return 5; } } public static class B extends A { public int getA() { return 10; } public int getB() { return 15; } } public static void main(String[] args) { A a1 = new A(); B b1 = new B(); System.out.printf(\"AA: %d, AB: %d, BA: %d, BB: %d\\n\", a1.getA(), a1.getB(), b1.getA(), b1.getB()); } }",
+    "answers": ["It doesn’t compile."]
+  },
+  {
+    "question": "What is the output of this code? public class Test { public static class A { public int getA() { return 5; } } public static class B extends A { public int getA() { return 10; } public int getB() { return 15; } } public static void main(String[] args) { A a1 = new A(); B b1 = new B(); System.out.printf(\"AA: %d, BA: %d, BB: %d\\n\", a1.getA(), b1.getA(), b1.getB()); } }",
+    "answers": ["AA: 5, BA: 10, BB: 15"]
+  },
+  {
+    "question": "When is polymorphism the most important?",
+    "answers": ["When we need to process a whole group of similar objects."]
+  },
+  {
+    "question": "______ is a powerful technique for grouping objects by inheritance or the implementation of common interfaces.",
+    "answers": ["Polymorphism"]
+  },
+  {
+    "question": "Which of the following codes will follow these steps in order when executing? 1. Java creates a new entry in the reference table. 2. Java enters the type for the new entry as Car. 3. Java enters the name of the new entry as myCar. 4. Java sets up a block of memory to store the attributes of a SportsCar and enters the address of this memory in the attribute block field of the new entry. 5. Java sets up a block of memory to store the methods of a SportsCar and enters the address of this memory in the method block field of the new entry.",
+    "answers": ["Car myCar = new SportsCar ( ) ;"]
+  },
+  {
+    "question": "In creating object references, if the method you are calling is NOT part of the object or one of its superclasses, what will happen?",
+    "answers": ["A compiler error will be generated."]
+  },
+  {
+    "question": "You should only refer to classes when necessary, like when using ______ .",
+    "answers": ["interfaces"]
+  },
+  {
+    "question": "True or false: References, including members, local variables, and parameters, should be defined in terms of interfaces.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following may be a generic type of an array?",
+    "answers": ["wildcard"]
+  },
+  {
+    "question": "Which of the following allows abstraction over types and is widely used in the Collection Framework?",
+    "answers": ["Generics"]
+  },
+  {
+    "question": "_______ is a type that can be used as a placeholder for ALL possible types.",
+    "answers": ["A wildcard type"]
+  },
+  {
+    "question": "A _______ is when a generic type is used without type parameters.",
+    "answers": ["raw type"]
+  },
+  {
+    "question": "What does a question mark (?) designate?",
+    "answers": ["an unknown type"]
+  },
+  {
+    "question": "True or false: Argument types passed to a generic method are inferred by the compiler based on the parameters and values of the actual arguments.",
+    "answers": ["False"]
+  },
+  {
+    "question": "______ is a conversion process that allows generic code to be used with libraries that were created prior to Java 5.",
+    "answers": ["Type erasure"]
+  },
+  {
+    "question": "Using <? super T> allows _______ . (Select all that apply)",
+    "answers": ["assigning", "adding"]
+  },
+  {
+    "question": "Which of the following are true about type erasure? (Select all that apply)",
+    "answers": [
+      "All type variables are replaced by the upper bound of the type variable.",
+      "The compiler converts all generic code into non-generic code."
+    ]
+  },
+  {
+    "question": "True or False? Collections can hold any valid java object but cannot hold primitives or arrays.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following are the implementing classes of List? Select all that apply.",
+    "answers": ["ArrayList", "Vector", "Stack", "LinkedList"]
+  },
+  {
+    "question": "Why is an ARRAY LIST more flexible than an ARRAY?",
+    "answers": ["We do not have to know the maximum number of items to store."]
+  },
+  {
+    "question": "A collections framework is a unified architecture for representing and manipulating collections. Which of the following must ALL collections frameworks contain?",
+    "answers": ["Interfaces", "Implementations"]
+  },
+  {
+    "question": "What are implementations?",
+    "answers": ["These are the reusable data structures."]
+  },
+  {
+    "question": "Which of the following are advantages of collections? (select all that apply)",
+    "answers": [
+      "Reduces programming effort",
+      "Increases performance",
+      "Fosters software reuse"
+    ]
+  },
+  {
+    "question": "What is a Convenience Implementation?",
+    "answers": [
+      "A high-performance \"mini-implementation\" of the collection interface."
+    ]
+  },
+  {
+    "question": "What are Java Streams?",
+    "answers": [
+      "Streams are wrappers around a data source that allow us to operate with that data source, making bulk processing convenient and fast."
+    ]
+  },
+  {
+    "question": "Which of the following is a collection in which the elements have been placed in a specific order?",
+    "answers": ["List"]
+  },
+  {
+    "question": "Instead of using an iterator class, what are other options to iterate through a scenario?",
+    "answers": ["enhanced for loop", "for/each method"]
+  },
+  {
+    "question": "Which of the following are examples of runtime exceptions? (select all that apply)",
+    "answers": ["Divide by zero error", "Input error", "Application error"]
+  },
+  {
+    "question": "What happens whenever you invoke a method that could throw a checked exception?",
+    "answers": ["The compiler will insist that you handle the exception."]
+  },
+  {
+    "question": "Which of the following are common exceptions? (select all that apply)",
+    "answers": [
+      "ArrayIndexOutOfBounds",
+      "NullPointerException",
+      "IOException",
+      "SQLException",
+      "OutOfMemoryError"
+    ]
+  },
+  {
+    "question": "In the following code example, what will happen if setSpeed throws a SpeedException?",
+    "answers": [
+      "Java will skip any remaining code in the try block and execute the code in the catch block instead."
+    ]
+  },
+  {
+    "question": "What is a finally statement used for?",
+    "answers": [
+      "Recovering resources and/or cleaning up following the execution of a set of statements."
+    ]
+  },
+  {
+    "question": "How will the exception be processed based on the code below?",
+    "answers": ["The exception will be logged."]
+  },
+  {
+    "question": "Which of the following are examples of exceptions? (select all that apply)",
+    "answers": [
+      "A program tries to access a record beyond the bounds of an array.",
+      "An application tries to open a file that does not exist.",
+      "An integer is divided by zero."
+    ]
+  },
+  {
+    "question": "Where is the best place to deal with exceptions?",
+    "answers": ["in the method where they could be thrown."]
+  },
+  {
+    "question": "Which of the following are true about checked exceptions? (select all that apply)",
+    "answers": [
+      "Checked exceptions have to be declared in throws clauses.",
+      "Checked exceptions are the ones you want to force your client code to address."
+    ]
+  },
+  {
+    "question": "True or False? As a shortcut, you can use exceptions in your normal control flow.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Why can it sometimes be cumbersome to work with files in Java?",
+    "answers": ["Because Java is platform neutral."]
+  },
+  {
+    "question": "What is a Java input stream?",
+    "answers": [
+      "A logical connection to an external source for the purposes of input."
+    ]
+  },
+  {
+    "question": "Why might you use LineNumberReader instead of BufferedReader?",
+    "answers": ["To track the line number.", "So you can read lines."]
+  },
+  {
+    "question": "With LineNumberReader, if you use a loop to read lines until you run out, what will happen?",
+    "answers": ["It will return a null value."]
+  },
+  {
+    "question": "What type of file is the properties file?",
+    "answers": ["A text file."]
+  },
+  {
+    "question": "What can a properties file be used for?",
+    "answers": ["to localize data."]
+  },
+  {
+    "question": "Which major additions to the Java Class Library were intruduced in Java 7? (select all that apply)",
+    "answers": [
+      "File I/O feature enhancements",
+      "Improved Socket I/O",
+      "Asynchronous I/O"
+    ]
+  },
+  {
+    "question": "What are the two basic abstract classes in the java.io package?",
+    "answers": ["InputStream", "OutputStream"]
+  },
+  {
+    "question": "There are three steps to write text to a file. 1. Connect an output stream to the file 2. Write text data to the stream What is the third step?",
+    "answers": ["Close the stream"]
+  },
+  {
+    "question": "What does the file class do?",
+    "answers": ["Discover properties of files and directories."]
+  },
+  {
+    "question": "A(n) _____________ is a type whose fields consist of a fixed set of constant values.",
+    "answers": ["enum type"]
+  },
+  {
+    "question": "What do the instances in an enumerated type describe?",
+    "answers": ["a finite set of possible values"]
+  },
+  {
+    "question": "The field names in enums are identifiers that are used as ___________.",
+    "answers": ["constants"]
+  },
+  {
+    "question": "True or False: An enum always extends java.lang.object.",
+    "answers": ["False"]
+  },
+  {
+    "question": "When should you use enums?",
+    "answers": [
+      "when the most important information is the existence of the value."
+    ]
+  },
+  {
+    "question": "Java does not support _________ of an enum.",
+    "answers": ["inheritance"]
+  },
+  {
+    "question": "Enums are treated as _______ with specialized constructors.",
+    "answers": ["classes"]
+  },
+  {
+    "question": "Which method on the enum class returns a list of the enum type?",
+    "answers": ["values()"]
+  },
+  {
+    "question": "How many constructors can an enum have?",
+    "answers": ["only 1"]
+  },
+  {
+    "question": "Since enums are class files, can they have additional data and behavior?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Which of the following describes annotation types that are used to annotate other annotation types?",
+    "answers": ["Meta-annotations"]
+  },
+  {
+    "question": "What does the @Override annotation do?",
+    "answers": [
+      "Indicates a method is intended to override a method declaration in a superclass."
+    ]
+  },
+  {
+    "question": "True or False? Different annotation types have different purposes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False? Annotations provide information in the Java source code that is independent of the code and has no direct impact on the code.",
+    "answers": ["True"]
+  },
+  {
+    "question": "@PermitAll, @DenyAll, @RolesAllowed, and @RunAs are what types of Annotations?",
+    "answers": ["Role-based"]
+  },
+  {
+    "question": "Annotation return type must be which of the following (or an array of the following)? Select all that apply.",
+    "answers": ["Enum", "Primitives", "String", "Class"]
+  },
+  {
+    "question": "Which meta-annotation makes the annotation values available to subclasses?",
+    "answers": ["@Inherited"]
+  },
+  {
+    "question": "Which of the following contain annotations? Select all that apply.",
+    "answers": ["javax.annotation", "javax.annotation.security"]
+  },
+  {
+    "question": "Which of the following is discouraged?",
+    "answers": ["Use of a program element annotated @Deprecated"]
+  },
+  {
+    "question": "Where do annotations appear in code?",
+    "answers": ["on its own line"]
+  }
+]

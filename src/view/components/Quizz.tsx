@@ -19,9 +19,12 @@ import { useEffect, useState } from "react";
 
 const Quizz = () => {
   const subjects = [
+    { value: "ada201c", label: "ADA201c" },
     { value: "cry303c", label: "CRY303c" },
+    { value: "dms301m", label: "DMS301m" },
     { value: "eal202c", label: "EAL202c" },
     { value: "ecc301c", label: "ECC301c" },
+    { value: "ecc302c", label: "ECC302c" },
     { value: "elp", label: "ELP311c + ELP321c" },
     { value: "enw492c", label: "ENW492c" },
     { value: "enw493c", label: "ENW493c" },
@@ -30,9 +33,11 @@ const Quizz = () => {
     { value: "frs401c", label: "FRS401c" },
     { value: "hrm202c", label: "HRM202c" },
     { value: "ift201c", label: "IFT201c" },
+    { value: "imc301c", label: "IMC301c" },
     { value: "ita203c", label: "ITA203c" },
     { value: "ite302c", label: "ITE302c" },
-    { value: "lab211c", label: "LAB211c" },
+    { value: "lab211c", label: "LAB211c Summer" },
+    { value: "lab211c_java_core", label: "LAB211c Fall" },
     { value: "mkt205c", label: "MKT205c" },
     { value: "mkt208c", label: "MKT208c" },
     { value: "msm201c", label: "MSM201c" },

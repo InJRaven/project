@@ -1,0 +1,987 @@
+[
+  {
+    "question": "Step 1: Manual data analysis Use traditional methods (e.g., manually labeling the tweets) to get a preliminary sense of sentiment trends and challenges in the dataset. How many positive, negative, and neutral Tweets were there? What conclusions would you draw about overall sentiment? Note how long it takes you to analyze this qualitative data manually. We will compare these results to GenAI in a future step. How can the generative AI tool enhance the understanding of social media sentiment data for the retail brand? Select the best answer.",
+    "answers": [
+      "By identifying hidden patterns and themes through topic modeling"
+    ]
+  },
+  {
+    "question": "Step 2: Use GenAI to analyze the data Craft a prompt for the generative AI model that asks it to analyze the dataset to classify tweets as positive, negative, or neutral, extract key themes and topics from the tweets, and summarize overall sentiment trends. Be mindful of how the wording of your prompt might influence the model's output. After you’ve input the prompt and dataset into the generative AI platform, carefully review the model's generated insights. What is a pattern found in the data? Select the best answer.",
+    "answers": [
+      "Customers were largely divided, with slightly more negative than positive reviews."
+    ]
+  },
+  {
+    "question": "Step 3: Compare manual and generative data analysis Compare your manual analysis to the GenAI analysis. Did they yield the same results? If not, what was different about them? Write three pros and three cons of using GenAI to analyze this data. What is true about generative AI data analysis? Select the best answer.",
+    "answers": ["It increases efficiency and productivity."]
+  },
+  {
+    "question": "Step 4: Back to the fashion retailer Next, recognize real-world applications for this dataset by exploring how sentiment analysis can enhance brand reputation management, customer service, product development, and marketing campaigns. How can the brand use this tool to make business decisions? What would you recommend to your manager? Further, explore the potential for market research or competitor analysis. What is a recommendation you would make to your manager based on this data? Select the best answer.",
+    "answers": ["Explore options for different price points or promotions"]
+  },
+  {
+    "question": "Step 1: Manually examine the dataset Before using GenAI, you need to manually look over the data. Look at column meanings and relationships. Manually reviewing the data allows you to interpret column names, identify potential relationships between variables, and understand the overall context. Understanding the data's nuances allows you to craft more precise and effective prompts for GenAI. This leads to more accurate and relevant analysis results. You are also prepared to identify potential errors or inconsistencies. Look for any missing values, outliers, or unexpected data types that might skew the analysis. Which customer demographic group(s) purchase more expensive books than other groups in their demographic category? Select all that apply.",
+    "answers": ["Older customers", "Customers from the West Coast"]
+  },
+  {
+    "question": "Step 2: Hypothesis Based on your initial look, generate a hypothesis. Make sure you fully grasp what your hypothesis is stating. What variables are involved? What relationship is it suggesting? Pinpoint the columns in the dataset that relate to the variables in your hypothesis. If needed, filter the data to focus on specific groups or conditions mentioned in the hypothesis. Sorting the data can also help you see trends more quickly. Which hypothesis is supported by the data? Select the best answer.",
+    "answers": [
+      "Classic literature is more prevalent among female customers older than 50 than among younger female customers."
+    ]
+  },
+  {
+    "question": "Step 3: GenAI data analysis Now, identify the customer demographic with the strongest correlation to purchasing more expensive books. To do this, craft a prompt for AI to filter the dataset to include a particular price. You will need to determine what a “more expensive” book means to you based on your examination of the data. Then, ask GenAI to analyze the distribution of purchases across different columns. After, examine the purchase rate for each demographic and compare them to find the demographic with the highest purchase rate for expensive books. Which of the following BEST describes the advantages of using GenAI for identifying patterns related to purchasing behavior? Select the best answer.",
+    "answers": [
+      "GenAI can quickly run analyses on large datasets and reveal complex patterns that might be difficult to spot manually."
+    ]
+  },
+  {
+    "question": "Step 4: Next steps Now that you've explored the data and confirmed or denied your hypotheses let's figure out the best next steps for the online bookstore. Remember, the goal is to uncover actionable insights to help the bookstore improve its business. Based on your analysis, which next step would be MOST beneficial for the bookstore? Select all that apply.",
+    "answers": [
+      "Offer discounts on YA novels to attract younger customers.",
+      "Increase the number of special edition books in genres preferred by older customers."
+    ]
+  },
+  {
+    "question": "How can you assess the reliability of insights generated by GenAI during data exploration? Select the best answer.",
+    "answers": [
+      "By comparing the GenAI insights with results from traditional data analysis methods."
+    ]
+  },
+  {
+    "question": "What is the importance of domain expertise when evaluating GenAI insights in data exploration? Select the best answer.",
+    "answers": [
+      "Domain experts can provide context and interpret the insights in a meaningful way."
+    ]
+  },
+  {
+    "question": "What role does documentation play in evaluating GenAI insights in data exploration? Select the best answer.",
+    "answers": [
+      "It provides a record of the analysis steps, models used, and decisions made, facilitating transparency and reproducibility."
+    ]
+  },
+  {
+    "question": "Which of the following is a benefit of using GenAI for data exploration compared to traditional methods? Select the best answer.",
+    "answers": [
+      "GenAI can uncover hidden patterns and insights that might be missed by traditional methods."
+    ]
+  },
+  {
+    "question": "Which techniques evaluate GenAI model performance in data exploration? Select all that apply.",
+    "answers": [
+      "Comparing the model's output to ground truth or labeled data.",
+      "Conducting sensitivity analysis to understand how the model's output changes with variations in input data or parameters.",
+      "Using metrics like accuracy, precision, recall, and F1-score to quantify the model's performance."
+    ]
+  },
+  {
+    "question": "A healthcare company uses GenAI to explore patient data for treatment recommendations. Which ethical consideration is most important in this scenario? Select the best answer.",
+    "answers": [
+      "Ensuring that the data used to train the GenAI model is representative and unbiased."
+    ]
+  },
+  {
+    "question": "How can you leverage GenAI to improve the efficiency and effectiveness of data exploration? Select the best answer.",
+    "answers": [
+      "By automating repetitive and time-consuming tasks, allowing analysts to focus on higher-level analysis and interpretation."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a real-world application where evaluating GenAI insights is crucial? Select the best answer.",
+    "answers": ["Predicting patient outcomes based on medical data."]
+  },
+  {
+    "question": "How can you mitigate the risk of overfitting when using GenAI for data exploration? Select the best answer.",
+    "answers": [
+      "By using techniques like regularization, cross-validation, and early stopping."
+    ]
+  },
+  {
+    "question": "How can you best communicate GenAI insights to non-technical stakeholders? Select the best answer.",
+    "answers": [
+      "Use clear and concise language, avoid jargon, and focus on the key takeaways and their implications."
+    ]
+  },
+  {
+    "question": "Step 1: Data profiling Ask GenAI to use a Data Profiling Tool to analyze the dataset and generate a report highlighting: Data types of each column Missing value counts Statistical summaries (e.g., min, max, mean) Potential outliers or anomalies Inconsistent values in categorical columns This will output a report that describes the state of the data, including missing values, inconsistencies, and other observations. Review this report. Note: You can review GenAI tool options in the reading at the beginning of this course. What are insights that the data profiling tool found about this dataset? Select all that apply.",
+    "answers": [
+      "The values 'books' and 'Books' likely represent the same category and need standardization.",
+      "The column 'Customer ID' is missing 1 value."
+    ]
+  },
+  {
+    "question": "Step 2: Missing value handling Based on the Data Profiling report, decide on the appropriate strategy for handling missing values. For instance, with 'payment,' use the word 'other' to indicate that a different or unknown payment method was used. Once you have decided on your approach, ask GenAI to make those changes and output a new dataset. Make sure to review this data for accuracy. What column did you need to clean because of missing value(s)? Select the best answer.",
+    "answers": ["Customer ID"]
+  },
+  {
+    "question": "Step 3: Data transformation and normalization Next, you need to address any data inconsistencies that the report found. This includes: Convert any column data types to the recommended format based on your report. Standardizing values to lowercase to avoid case-sensitive inconsistencies. Correct for misspelled or synonymous values (e.g., 'pay-pal' to 'paypal'). To do this, craft a prompt directing the GenAI tool to make these changes. As always, check the data output for accuracy. What column required a data type change? Select the best answer.",
+    "answers": ["Purchase Date"]
+  },
+  {
+    "question": "Step 4: Inconsistency detection and categorization Carefully examine the dataset that GenAI produced after implementing the changes from Step 3. Pay close attention to the following: Have the data types been correctly converted? Are all text values consistently standardized to lowercase? Have misspellings and synonyms been corrected effectively? Identify any remaining inconsistencies or unexpected changes. If necessary, refine your prompts or provide additional instructions to GenAI to achieve the desired results. Review the data output for accuracy. Which column(s) needed normalization? Select all that apply.",
+    "answers": ["Shipping Status", "Payment Method"]
+  },
+  {
+    "question": "Step 5: Data cleaning and validation Now that you have applied the suggested corrections from the GenAI tools, re-run the Data Profiling Tool to validate the effectiveness of the cleaning process and ensure data consistency. Now that you have filled in missing data, what does the report say the data type for 'Customer ID' is? Select the best answer.",
+    "answers": ["Object"]
+  },
+  {
+    "question": "When encoding categorical variables, which method creates binary columns for each category, avoiding any ordinal relationship? Select the best answer.",
+    "answers": ["One-hot encoding"]
+  },
+  {
+    "question": "Which data transformation technique is particularly useful for handling skewed data? Select the best answer.",
+    "answers": ["Log transformation"]
+  },
+  {
+    "question": "What is the main advantage of using dimensionality reduction techniques like Principal Component Analysis (PCA)? Select the best answer.",
+    "answers": [
+      "To reduce the complexity of the dataset while retaining most of the information."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a non-linear transformation? Select the best answer.",
+    "answers": ["Log transformation"]
+  },
+  {
+    "question": "Which of the following is a common feature engineering technique? Select all that apply.",
+    "answers": [
+      "Applying mathematical transformations (e.g., log, square root) to numerical features.",
+      "Creating interaction terms between features.",
+      "Extracting date-related features (e.g., day of the week, month) from timestamps."
+    ]
+  },
+  {
+    "question": "Which normalization technique scales features to a range between 0 and 1? Select the best answer.",
+    "answers": ["Min-Max Scaling"]
+  },
+  {
+    "question": "What is the purpose of data transformation? Select the best answer.",
+    "answers": [
+      "To change the distribution or relationship of the data to improve model performance or meet its assumptions."
+    ]
+  },
+  {
+    "question": "Which of the following is a popular feature extraction technique? Select the best answer.",
+    "answers": ["Principal Component Analysis (PCA)."]
+  },
+  {
+    "question": "What is a potential drawback of using filter methods for feature selection? Select the best answer.",
+    "answers": ["They might ignore interactions between features."]
+  },
+  {
+    "question": "Which of the following factors should be considered when choosing a feature selection method? Select all that apply.",
+    "answers": [
+      "The size and complexity of the dataset.",
+      "The type of machine learning algorithm being used.",
+      "The desired level of interpretability of the model."
+    ]
+  },
+  {
+    "question": "Which of the following is a core component of the PARE framework? Select all that apply.",
+    "answers": ["Evaluate", "Parameters", "Alternatives"]
+  },
+  {
+    "question": "Step 2: Alternatives Now that you've defined the parameters and primed the AI with relevant knowledge, let's move on to Alternatives. This step is all about exploring diverse perspectives and approaches. Instead of focusing solely on the actions you took or the solutions you came up with, challenge the AI to generate alternative approaches. In the customer churn example, you might ask the AI, \"Can you suggest different analytical techniques or models that could provide new insights into churn?\" Encourage the AI to actively participate in this exploration by asking it if it has any questions about the situation or the desired outcome. This helps uncover knowledge gaps and ensures a more thorough understanding of the topic. For example, you might ask the AI, \"Do you have any questions about our customer base or the specific challenges we're facing?\" or \"Are there any external factors or industry trends that could be influencing churn?\" Which PARE framework component focuses on prompting the AI to generate alternatives and augment the conversation with its own questions? Select the best answer.",
+    "answers": ["Alternatives"]
+  },
+  {
+    "question": "Step 3: Refine Examine the various alternatives and insights the AI has provided. Are there any areas that need further clarification or elaboration? Do you see any potential biases or limitations in the AI's responses? This is where you can actively guide the AI towards refining its output. For example, you might ask the AI, \"Can you provide more details about this particular solution?\" or \"Can you explain the reasoning behind this recommendation?\" You might realize that there are certain aspects you've overlooked or questions you haven't considered. Prompt the AI to refresh your understanding by asking, \"Is there anything I might have missed in this analysis?\" By actively refining the AI's output and refreshing your own understanding, you ensure that the insights generated are not only accurate and relevant but also comprehensive and actionable. This collaborative refinement process leads to a deeper understanding of the topic and more effective decision-making. You're using a generative AI model to analyze customer feedback. The AI gives you a report, and you want to check if there are mistakes in how it understands the feedback. Which part of the PARE framework helps you spot mistakes and ask the AI to check its own work so it can fix them? Select the best answer.",
+    "answers": ["Evaluate"]
+  },
+  {
+    "question": "Which of the following best describes the purpose of structured prompt frameworks like RACE and PARE? Select the best answer.",
+    "answers": [
+      "To provide a step-by-step approach for designing and evaluating prompts"
+    ]
+  },
+  {
+    "question": "In the PARE framework, which phase is responsible for setting the desired format, length, and style of the AI's response, as well as priming the AI with relevant knowledge? Select the best answer.",
+    "answers": ["Parameters"]
+  },
+  {
+    "question": "In the PARE framework, which phase involves asking the AI to explore different approaches or solutions to a problem and to identify any knowledge gaps it might have? Select the best answer.",
+    "answers": ["Alternatives"]
+  },
+  {
+    "question": "In the PARE framework, which phase involves making adjustments and addressing any potential oversights? Select the best answer.",
+    "answers": ["Refine"]
+  },
+  {
+    "question": "Which of the following scenarios best illustrates the effective application of \"adjusting the detail level\" in prompt refinement for data analysis? Select the best answer.",
+    "answers": [
+      "Starting with a broad request and progressively adding specific parameters"
+    ]
+  },
+  {
+    "question": "Which learning paradigm involves asking a generative AI model to perform a task without providing any examples for it to learn from? Select the best answer.",
+    "answers": ["Zero-shot learning"]
+  },
+  {
+    "question": "Which of the following best describes the core principle behind refining a prompt? Select the best answer.",
+    "answers": [
+      "Shifting from general requests to specific, context-rich instructions"
+    ]
+  },
+  {
+    "question": "Which of the following data analysis tasks is most suitable for zero-shot learning rather than few-shot learning? Select the best answer.",
+    "answers": [
+      "Performing basic data cleaning tasks like removing duplicates or handling missing values without any examples"
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describe the benefits of combining different learning paradigms in data analysis. Select all that apply.",
+    "answers": [
+      "It allows you to tailor your approach to the specific task and the AI's capabilities.",
+      "It can lead to more efficient and effective data analysis by leveraging the strengths of different paradigms."
+    ]
+  },
+  {
+    "question": "Which of the following scenarios demonstrate an effective approach to prompt refinement in data analysis? Select all that apply.",
+    "answers": [
+      "A data analyst starts with a broad prompt, evaluates the AI's response, and then iteratively refines the prompt by adding more specific instructions, context, or examples.",
+      "A data analyst uses a combination of different prompt refinement techniques, such as rephrasing, adjusting detail, and incorporating examples, to guide the AI towards the desired outcome."
+    ]
+  },
+  {
+    "question": "Which of the following actions would help reduce ethical concerns about the student data? Select all that apply.",
+    "answers": [
+      "Remove the social media data.",
+      "Recategorize the loan amount column into low, medium and high."
+    ]
+  },
+  {
+    "question": "Step 2: Model development and evaluation Build and train a machine learning model to predict student success. Use the generative AI model to augment your analysis and potentially discover new insights. Evaluate the model's performance, paying close attention to fairness across different student groups. Employ explainability techniques to understand the factors driving the model's predictions. In this data, what would predict a student’s success? Select all that apply.",
+    "answers": ["Engagement metrics", "High school GPA"]
+  },
+  {
+    "question": "Step 3: Ethical considerations and recommendations Think about the ethical implications of using AI for student success prediction. Were there any results that could have been based on bias, stereotypes, or other harmful ethical concerns? Make a plan on how to discuss these concerns with your manager. Address the dilemmas of bias, privacy, transparency, and accountability. Propose guidelines for the responsible use of AI in this context. Develop a plan for communicating the model's results and limitations to stakeholders. Always ask yourself how we can ensure transparency, explainability, and accountability in AI data analysis, particularly when dealing with sensitive data and potentially biased outcomes. Who should be held accountable if the AI model makes inaccurate predictions or leads to unintended consequences? Select the best answer.",
+    "answers": ["A combination of all stakeholders involved in the project."]
+  },
+  {
+    "question": "You are developing a generative AI model to analyze recruitment data for a company. The goal is to identify the best candidates for job openings. Identify the potential ethical concerns related to bias in your generative AI model for recruitment data analysis. Select all that apply.",
+    "answers": [
+      "Unintended discrimination",
+      "Reinforcement of existing stereotypes"
+    ]
+  },
+  {
+    "question": "A social media company uses generative AI to analyze user data and generate personalized content recommendations. Which of the following is an ethical issue associated with privacy in this use of generative AI? Select the best answer.",
+    "answers": ["Unauthorized data usage"]
+  },
+  {
+    "question": "You are building a generative AI model to predict student performance based on their academic records. You want to ensure the model is fair and doesn't discriminate against any student group. What is one method to ensure fairness in your generative AI model for predicting student performance? Select the best answer.",
+    "answers": ["Implementing bias detection mechanisms"]
+  },
+  {
+    "question": "A technology company is developing an AI-powered hiring system to automate resume screening and candidate selection. They are concerned about potential biases and fairness issues. What is the role of ethical audits in ensuring their AI hiring system is responsible? Select the best answer.",
+    "answers": [
+      "To ensure the AI system complies with ethical guidelines and standards"
+    ]
+  },
+  {
+    "question": "A social media company is using AI to analyze user data and provide personalized content recommendations. They are committed to protecting user privacy. Which ethical principle is most directly concerned with protecting user privacy in this AI system? Select the best answer.",
+    "answers": ["Data minimization"]
+  },
+  {
+    "question": "You are a data analyst exploring different applications of generative AI in your work. You are aware of the potential ethical implications and want to identify tasks that require extra attention to ethical considerations. Which of the following data analysis tasks is most likely to raise ethical concerns when using generative AI, requiring careful consideration of potential harms and mitigation strategies? Select the best answer.",
+    "answers": ["Generating synthetic medical records for research"]
+  },
+  {
+    "question": "A media company is using Generative AI to automatically generate news articles based on current events and data analysis. Which ethical concern is most relevant to the use of Generative AI in this news article generation scenario? Select the best answer.",
+    "answers": ["Spreading misinformation"]
+  },
+  {
+    "question": "An advertising agency is using generative AI to create personalized marketing campaigns for various products, tailoring advertisements to individual customer preferences. Select the potential ethical concerns that the agency should consider when using generative AI for this personalized marketing approach. Select all that apply.",
+    "answers": [
+      "Privacy infringement on customer data",
+      "Bias and discrimination in generated content"
+    ]
+  },
+  {
+    "question": "You are working on a data analysis project that involves using GenAI to generate insights from a dataset containing sensitive personal information. Which of the following is crucial for maintaining user privacy in this GenAI data analysis project? Select the best answer.",
+    "answers": ["Data anonymization"]
+  },
+  {
+    "question": "You are drafting guidelines for the ethical deployment of GenAI in data analysis projects across your company. What is a critical component to include in these guidelines to ensure fairness and prevent discrimination? Select the best answer.",
+    "answers": ["Bias detection mechanisms"]
+  },
+  {
+    "question": "What is a primary advantage of integrating generative AI tools with popular data analysis platforms? Select the best answer.",
+    "answers": [
+      "It significantly enhances the predictive analytics capabilities of these platforms."
+    ]
+  },
+  {
+    "question": "You are a data analyst presenting a complex Power BI report to a non-technical audience. You want to ensure they easily understand the key takeaways. How could integrating Generative AI enhance your Power BI report for this presentation? Select the best answer.",
+    "answers": ["Automated insights and narrative explanations for reports."]
+  },
+  {
+    "question": "Which of the following describes a potential workflow for integrating generative AI into Jupyter Notebooks for data cleaning? Select the best answer.",
+    "answers": [
+      "Using generative AI to automatically detect and correct anomalies in the dataset within a notebook cell."
+    ]
+  },
+  {
+    "question": "How does generative AI assist in natural language generation for reports in data analysis? Select the best answer.",
+    "answers": [
+      "By automatically creating detailed and coherent reports based on data insights."
+    ]
+  },
+  {
+    "question": "What are some ways generative AI can be applied in data augmentation? Select all that apply.",
+    "answers": [
+      "Generating synthetic data to train models.",
+      "Balancing imbalanced datasets."
+    ]
+  },
+  {
+    "question": "You're attending a panel discussion on the future of generative AI. The panelists are debating the potential societal impact of this technology. Which of the following concerns might be raised during the discussion regarding the ethical implications of generative AI? Select the best answer.",
+    "answers": ["It can be used to create deepfakes and spread misinformation"]
+  },
+  {
+    "question": "What is the primary role of generative AI in data analysis? Select the best answer.",
+    "answers": [
+      "Creating synthetic data to augment real datasets and improve model training."
+    ]
+  },
+  {
+    "question": "Your team is considering integrating generative AI into your data analysis workflows. You're excited about the potential benefits, but you're also aware of potential challenges. Which of the following is a potential challenge associated with this integration? Select the best answer.",
+    "answers": [
+      "The potential for generative AI models to introduce bias into the analysis."
+    ]
+  },
+  {
+    "question": "What are some ethical considerations to keep in mind when integrating generative AI into data analysis workflows? Select the best answer.",
+    "answers": [
+      "Ensuring transparency and explainability of generative AI models."
+    ]
+  },
+  {
+    "question": "Step 1: Examine the data The first step is always to review the data. Make sure that you are familiar with what each column means, and get an overall sense of your data. Also, consider common data quality issues that can arise in real-world datasets, such as missing values, duplicates, and inconsistencies. Are any of these present in your dataset? Because you plan on analyzing revenue per customer ID, take particular care to analyze the column names and their data types to identify the key components involved in revenue calculation: Customer ID, Price, and Quantity. Which type of inconsistency present in the dataset can directly impact the calculation of total revenue per customer? Select the best answer.",
+    "answers": ["Missing entries in the Customer ID column"]
+  },
+  {
+    "question": "Step 2: Segmentation You plan to segment customers based on preferred product categories, and want to analyze the distribution of purchases across different categories for each customer. Therefore, inconsistencies in the Customer ID or Product Category columns would directly impact this process. Check for missing values and inconsistencies in these columns to see if that analysis would be impacted. Which inconsistency is most likely to hinder the process of segmenting customers based on their preferred product categories? Select all that apply.",
+    "answers": [
+      "Inconsistent formatting in the Product Category column",
+      "Missing values in the Customer ID column"
+    ]
+  },
+  {
+    "question": "Step 3: Impact To understand how inconsistencies can impact the report's conclusion, consider how they might affect the key metrics and insights derived from the data. Let's analyze the potential consequences of the inconsistencies identified earlier (missing or inaccurate Customer IDs and inconsistencies in Product Category) on the report's conclusions. Draw upon the previous analysis where you identified missing/inaccurate Customer IDs and inconsistencies in Product Category as the primary concerns in this dataset. For each inconsistency, think about how it could affect key metrics, segmentation, and overall understanding of customer behavior and preferences. A GenAI tool generates a report highlighting a significant drop in revenue in September across a financial transactions dataset. However, many Shipping Status entries for September are marked as \"Pending.\" How might this inconsistency impact the report's conclusion? Select the best answer.",
+    "answers": [
+      "The report might underestimate September sales, as pending shipments could represent successful purchases."
+    ]
+  },
+  {
+    "question": "Step 1: Effective prompts Carefully review each provided prompt, identifying its strengths and weaknesses regarding clarity, specificity, and potential for generating the desired output. Look for things it does well (clear instructions, relevant context), identify weaknesses (too vague, lacks specificity), and consider if the prompt will lead to the type of output you want. Which of the following are key components of an effective prompt for data analysis? Select all that apply.",
+    "answers": [
+      "Relevant context",
+      "Desired output format",
+      "Clear instructions"
+    ]
+  },
+  {
+    "question": "Step 2: Zero-shot learning Notice that these prompts don’t give the AI any examples to work with. This is called zero-shot learning, where you provide the model a prompt and expect it to understand the task and generate a relevant response based on its understanding of language and the world, even though it hasn't explicitly been taught how to handle that particular prompt. Zero-shot also means the model is expected to provide the correct answer on the first try as well, without any feedback from the user. This is great to use when you don’t have much time or background on the problem yourself, but you need to pay close attention to the results to make sure they make sense. Run each prompt through GenAI, copy the results into the document, and read the results, noting how they meet or miss the goal of the prompt. In the context of prompt engineering, what does \"zero-shot learning\" refer to? Select the best answer.",
+    "answers": [
+      "Providing the genAI model with no examples or prior knowledge."
+    ]
+  },
+  {
+    "question": "Step 3: Prompt improvement It’s time to rewrite the prompts to make them better. Use what you learned from the analysis, making sure they are clear, specific, and will get the desired results. Write them in the document first, so that you have a record. Then run each improved prompt through GenAI and copy the results into the document. How can you improve the following prompt to make it more effective: \"Show me some data insights.\" Select the best answer.",
+    "answers": [
+      "Specify the insights you are looking for (e.g., trends, correlations, outliers)."
+    ]
+  },
+  {
+    "question": "Step 4: Prompt refinement Compare the original and refined prompts and their results, highlighting the improvements in GenAI output. While you may have seen improvement, it still may not have met the goal. If that is the case, you need to continue to refine your prompt. Practice this on any prompts that are still not meeting the goal you desire. Which prompt refinement technique is demonstrated in the following example? Select the best answer. Original prompt: \"Analyze the data.\" Refined prompt: \"Analyze the data to identify any seasonal patterns in sales.\"",
+    "answers": ["Adjusting the level of detail"]
+  },
+  {
+    "question": "Step 1: Understand the data First, look over the data to identify any sensitive attributes. These are features in your data that could lead to unfair or discriminatory outcomes if the model learns to rely on them too heavily. In your dataset, these might include gender, age, department, or any other attributes related to protected classes (e.g., race, religion, disability) if present in your data. Then understand the target variable. This is what you're trying to predict. What is the target variable in this project? Select the best answer.",
+    "answers": ["Performance rating"]
+  },
+  {
+    "question": "Step 2: Analyze for bias Ask the GenAI tool to run analysis on the data. Start by supplying the data and asking it to check for biases. You also may want to ask for a distribution analysis, look for any correlations, or specifically ask if your target variable has been impacted by any other variable. Examine how the sensitive attributes are distributed across different performance ratings, and look for significant disparities or imbalances. Questions to ask yourself include: Are certain genders consistently receiving lower performance ratings? Are older or younger employees disproportionately represented in certain performance categories? Are there performance disparities across different departments? Which of the following were potential biases in the given data? Select all that apply.",
+    "answers": ["Education level", "Gender", "Age", "Department"]
+  },
+  {
+    "question": "Step 3: Mitigate bias Go through your data and remove biased features. If certain attributes are clearly causing bias and aren't essential for prediction, consider removing them. If your dataset is imbalanced (e.g., far fewer female employees than male employees), techniques like oversampling or undersampling can help create a more balanced dataset. You can ask the AI to use these techniques. For example, if you wanted to take a closer look at gender you may ask the AI to use oversampling to increase the amount of non-binary data. Then, run the analyses again to see if anything correlates with performance. It's important to note that correlation does not imply causation. Further analysis is needed to understand the underlying relationships. For instance, if performance and salary are correlated, it just means that they could be influencing each other or affected by similar circumstances or patterns. For example, employees who are paid more might be motivated to give better performance, employees who give better performance are paid more for their efforts, or another variable causes both to rise or fall together, such as satisfaction, health, or tenure. What predictions would you make about future employee performance? You notice that your GenAI model predicts lower performance scores for employees from certain demographic groups. What's the most likely explanation? Select the best answer.",
+    "answers": [
+      "The training data likely reflects historical bias or underrepresentation of those groups."
+    ]
+  },
+  {
+    "question": "Create a prompt for a large language model, such as ChatGPT, to describe how large language models work. Ask at least three follow-up questions based on the output. Provide the prompts and outputs from the conversation as the answer.",
+    "answers": [
+      "Please explain how large language models like ChatGPT work. Include details about the architecture, training process, and how they generate responses.\""
+    ]
+  },
+  {
+    "question": "Create a prompt for a large language model, such as ChatGPT, that asks it to perform an instruction other than answering a question. For example, ask ChatGPT to create a meal plan, plan a trip, create a recipe, or help you diagnose a problem. Provide the prompts and outputs from the conversation as the answer.",
+    "answers": [
+      "Please create a weekly meal plan for a healthy, balanced diet. Include breakfast, lunch, dinner, and two snacks each day. The plan should consider a variety of protein sources (including plant-based options), plenty of vegetables, and a mix of whole grains. The meals should be easy to prepare and not require more than 45 minutes of cooking time."
+    ]
+  },
+  {
+    "question": "Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 2021. Please only use public information. Do NOT use information that is private, subject to legal restrictions, or otherwise should not be shared with Coursera, ChatGPT, the instructor, etc. The prompt should require the large language model to answer a question about the information. Please provide your prompt and the output as the answer.",
+    "answers": [
+      "Please provide a summary of the major technological advancements that have occurred in artificial intelligence since 2021. Focus on improvements in natural language processing (NLP), machine learning algorithms, and notable AI models or platforms that were introduced during this period.\""
+    ]
+  },
+  {
+    "question": "Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 2021. Please only use public information. Do NOT use information that is private, subject to legal restrictions, or otherwise should not be shared with Coursera, ChatGPT, the instructor, etc. The prompt should require the large language model to perform a task, other than answering a question, with the information. Please provide your prompt and the output as the answer.",
+    "answers": [
+      "Please create a concise report summarizing the major developments in artificial intelligence (AI) from 2021 to 2023, focusing on new AI models, technological advancements, and ethical considerations. The report should include key details about the most significant models and algorithms introduced during this period, such as GPT-4, LaMDA, PaLM, and DALL·E 2, along with a brief analysis of their impact on the field and society. Additionally, mention any important ethical guidelines or concerns raised in AI research and deployment during this time."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses the Question Refinement Pattern. Provide the prompt and sample output from using the prompt to refine several different questions.",
+    "answers": [
+      "Please help refine these questions for clarity and specificity. I want to ensure these questions are more focused and likely to elicit detailed and accurate responses."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses the Cognitive Verifier Pattern. Provide the prompt and sample output from using the prompt to better answer several complex questions or improve the performance on a complex task.",
+    "answers": [
+      "Use the Cognitive Verifier Pattern to improve the quality of the answers to these complex questions by verifying the accuracy and relevance of the information provided. Make sure the response is well-supported by data and logical reasoning."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to perform a complex task. Provide the prompt and sample output from using the prompt.",
+    "answers": [
+      "Please help me understand how to classify customer feedback into positive, negative, or neutral categories. Below are a few examples of customer feedback and their classifications. Use these examples to classify the following new feedback."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to perform a complex task that requires performing intermediate sub-steps. Provide the prompt and sample output from using the prompt.",
+    "answers": [
+      "I need help calculating the total cost of a shopping cart. The total cost should include the price of each item, apply any applicable discounts, and add tax. The tax rate is 10%, and there is a 5% discount for items that cost more than $50. Here are some examples to help you understand how to perform the calculation"
+    ]
+  },
+  {
+    "question": "Choose one of the patterns from this module and write a sample prompt using the pattern. Provide the prompt and output of using the prompt in ChatGPT or another large language model.",
+    "answers": [
+      "Please use the Socratic Method to guide me through the process of understanding how to solve a quadratic equation. Ask me a series of questions that will help me arrive at the solution myself. I’m particularly struggling with how to factor the equation."
+    ]
+  },
+  {
+    "question": "Choose another one of the patterns from this module and write a sample prompt using the pattern. This prompt must be applied to some information that you provide in the prompt before the pattern. Provide the prompt and output of using the prompt in ChatGPT or another large language model.",
+    "answers": [
+      "I’m going to give you some technical information about how machine learning algorithms work. Can you explain it to me like I’m five years old? Here’s the information: ‘Machine learning algorithms learn from data to identify patterns. A supervised learning algorithm requires labeled data to learn from, while an unsupervised learning algorithm looks for patterns in data without any labels."
+    ]
+  },
+  {
+    "question": "Develop your own prompt-based application, similar to the outlining application from the videos, to help you accomplish a task. Your application can do whatever you want and does not have to be focused on outlining. Come up with a creative way of using large language models to program an environment to solve a problem you face on a daily basis. Provide your prompt and a sample of using the prompt-based application.",
+    "answers": [
+      "As a busy data analyst working on multiple projects with tight deadlines, I often struggle with prioritizing tasks and managing my workload. I need a tool that helps me quickly organize and prioritize my daily tasks based on urgency, importance, and deadlines."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.",
+    "answers": [
+      "Please emulate the persona of a friendly and enthusiastic high school teacher who loves science, especially biology. You are passionate about making complex topics easy to understand and always encourage students to ask questions. Your tone should be encouraging, supportive, and clear. Respond to the following questions as if you are this teacher."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern for an animal. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.",
+    "answers": [
+      "Please emulate the persona of a curious and wise old owl who enjoys sharing knowledge about the forest and its inhabitants. This owl is often seen perched in a tall tree, watching the world with a keen eye. Respond to the following question as if you are this owl."
+    ]
+  },
+  {
+    "question": "Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern to emulate an inanimate object, system, or organization. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.",
+    "answers": [
+      "Please emulate the persona of a smart library system that helps users find books, recommend readings based on their preferences, and manage their library accounts. You are helpful, knowledgeable, and always up-to-date with the latest arrivals and library policies. Respond to the following input as if you are the smart library system."
+    ]
+  },
+  {
+    "question": "Create a custom GPT with a specific persona using the Persona Pattern. When you are done, cut/paste your GPT's instructions and a sample output in as the answer.",
+    "answers": [
+      "\"Hey, I get it! We all hit those rough patches, but I’m so proud of you for reaching out. The fact that you want to get back into it shows that you’re already on the right path! 🌟 Let’s take it one step at a time. How about we start with something simple and build momentum? Try this: Start your day with a 10-minute walk. Just 10 minutes around your neighborhood will get the blood flowing and wake up your body! Stretch for 5 minutes after your walk. This will help you feel more energized and prevent injuries. Drink a glass of water before breakfast—stay hydrated, and your body will thank you. How are you feeling about that? Starting small can make all the difference. Once you get into the habit, we can increase the time or intensity of your workouts. Remember, it’s not about perfection, it’s about progress. You’ve got this! 💪\""
+    ]
+  },
+  {
+    "question": "Create a custom GPT to generate test cases for other custom GPTs. Your GPT should start by asking the user questions about what they want their GPT to do and then use the \"Benchmark Design Considerations\" document to help it create test cases in a specific format. Cut/paste your custom GPTs instructions and four sample test cases it generates as the answer.",
+    "answers": [
+      "Test Case ID: TC-001 Objective: Validate GPT’s ability to correctly classify input text into predefined categories. Input: A sentence: \"I need help with my math homework.\" Expected Output: The GPT should classify the sentence into the category \"Education.\" Edge Case Considerations: Ensure that the GPT can handle ambiguous or mixed input, e.g., \"I have math homework and need advice on history.\" Performance Metrics: The classification should happen within 1 second."
+    ]
+  },
+  {
+    "question": "Create a custom GPT that uses the Flipped Interaction Pattern to ask the user questions about who they are and then customizes the experience to that person. Cut/paste your GPTs instructions and a sample output after customization in as the answer.",
+    "answers": [
+      "Name: \"Hi, I’m Alex, and I’m a software developer.\" Main goals: \"I want to improve my productivity and learn more about AI.\" Free time activities: \"I enjoy reading tech articles and playing video games in my free time.\" Hobbies/Topics of interest: \"I’m really into learning about new programming languages and AI advancements.\" Looking for help: \"I’m interested in getting tips to boost my productivity and dive deeper into AI.\""
+    ]
+  },
+  {
+    "question": "Create a custom GPT that uses the Menu Actions Pattern to provide a series of menu options that the user can access and invoke. Cut/paste your GPT's instructions and a sample output from using the menu as the answer.",
+    "answers": [
+      "View your personalized workout plan. Get a list of recommended books for learning AI. Set a reminder for an upcoming meeting. Generate a meal plan for the week. Exit the menu."
+    ]
+  },
+  {
+    "question": "Create a GPT that uses one or more of the: Question Refinement, Cognitive Verifier, or Alternative Approaches patterns to aid the user in getting a better answer or solution. Cut/paste your GPT's instructions and a sample output in as the answer.",
+    "answers": [
+      "\"Great! It sounds like you want to improve your coding skills, but let’s narrow that down a bit. Can you tell me more about what you’re specifically working on? For example: Are you focusing on a particular programming language (like Python or JavaScript)? Do you want to improve your problem-solving abilities, or are you focusing more on learning new frameworks or libraries? Are you aiming to work on real-world projects, or are you studying for exams or certifications?\""
+    ]
+  },
+  {
+    "question": "Give three examples of problems that are inappropriate to solve with Generative AI and explain why. You are free to use Generative AI to help produce your answer, but please provide contextual information you learned in the course and you own ideas as part of the prompt.",
+    "answers": [
+      "Problem 1: Legal Advice or Representation Why it’s inappropriate: While Generative AI can assist with general information and provide guidance on legal concepts, it cannot provide professional legal advice tailored to specific cases. Legal situations require a deep understanding of the law, the ability to interpret complex regulations, and contextual analysis that considers the specifics of each case. AI lacks the judgment and ethical responsibility of a licensed professional. Misusing AI for legal matters could lead to incorrect advice and potentially costly mistakes or legal liabilities. Problem 2: Mental Health Diagnosis or Treatment Why it’s inappropriate: Generative AI models are not equipped to diagnose or treat mental health conditions. Mental health care requires human empathy, understanding, and professional qualifications. AI might be able to provide general information about mental health, but it cannot replace the expertise and personalized care that a licensed therapist, psychologist, or psychiatrist can offer. Moreover, AI responses are based on patterns from data and may not account for the nuances of human emotion or individual circumstances, leading to harmful or inadequate advice. Problem 3: Ethical Decision-Making in Sensitive Scenarios Why it’s inappropriate: Generative AI models lack the ability to fully understand complex ethical, moral, and cultural considerations that arise in sensitive situations, such as decisions involving life, death, or severe personal consequences. AI systems cannot factor in the broader social, emotional, or cultural contexts of human decision-making. In situations like medical end-of-life decisions, choosing between conflicting moral imperatives, or navigating interpersonal relationships with conflicting interests, human judgment and ethical principles are crucial, making AI an unreliable decision-making tool in such contexts."
+    ]
+  },
+  {
+    "question": "Describe the ACHIEVE framework to ChatGPT, Claude, or Bard in a prompt and then ask it to create examples of how you could solve real problems in either your job or personal life related to each aspect of the framework. Cut/paste your answer below.",
+    "answers": [
+      "The ACHIEVE framework is a structured approach for setting and achieving goals. It helps guide individuals or teams to break down complex goals into actionable steps, ensuring success through careful planning and evaluation. Here’s a breakdown of each component: A – Assess the Situation: This step involves understanding where you currently stand in relation to your goal. By evaluating your strengths, weaknesses, resources, and challenges, you can get a clear picture of what needs to change. C – Clarify the Goal: It’s important to define your goal clearly. A well-defined goal is specific, measurable, attainable, relevant, and time-bound (SMART). This helps ensure you have a clear target to work towards. H – Helpful Resources: Identify what tools, skills, or resources you need to succeed. This could include learning new skills, using specific tools, or collaborating with others. I – Involvement: This step is about gathering the necessary support and resources from others. Whether it’s finding a mentor, building a team, or gaining approval from relevant stakeholders, having the right people involved can significantly impact success. E – Evaluate Options: Explore all the possible methods or strategies you can use to reach your goal. This includes considering alternative approaches and identifying the best course of action based on your assessment. V – Visualize Success: Imagine what success will look like and how it will feel once you’ve reached your goal. This visualization can motivate you to stay focused and push through challenges. E – Evaluate Progress: Regularly check your progress towards your goal. If things aren’t moving as planned, adjust your approach, and evaluate whether any changes or improvements need to be made to your strategy."
+    ]
+  },
+  {
+    "question": "Create a prompt that is based on filtering and maintaining traceability to identifiers in the source information provided in the prompt. Input the prompt to a Generative AI tool, such as ChatGPT, Claude, or Bard and then cut/paste the prompt and output in as the answer.",
+    "answers": [
+      "Prompt: \"Given the following list of data entries, filter out any records where the 'Status' is 'Inactive' and maintain traceability to the original identifiers. Each record consists of the following fields: 'ID', 'Name', 'Status', 'Category', 'Date'. Please ensure that for each filtered record, the 'ID' and 'Name' are clearly traced back to the original source entry. Here is the data: ID: 001, Name: John Doe, Status: Active, Category: Customer, Date: 2023-06-01 ID: 002, Name: Jane Smith, Status: Inactive, Category: Supplier, Date: 2022-05-11 ID: 003, Name: Alice Johnson, Status: Active, Category: Employee, Date: 2023-03-15 ID: 004, Name: Bob Brown, Status: Inactive, Category: Customer, Date: 2021-12-20 ID: 005, Name: Charlie Davis, Status: Active, Category: Supplier, Date: 2023-07-07 Please filter out the inactive records and keep the identifiers traceable.\" Expected Output: Output: \"Here are the filtered records where 'Status' is 'Active,' with traceability to the original identifiers: ID: 001, Name: John Doe, Status: Active, Category: Customer, Date: 2023-06-01 ID: 003, Name: Alice Johnson, Status: Active, Category: Employee, Date: 2023-03-15 ID: 005, Name: Charlie Davis, Status: Active, Category: Supplier, Date: 2023-07-07 The records with 'Inactive' status (ID: 002 and ID: 004) have been excluded from this list. The filtered entries retain the full traceability to their identifiers.\""
+    ]
+  },
+  {
+    "question": "Create a prompt that is based on navigation. Input the prompt to a Generative AI tool, such as ChatGPT, Claude, or Bard and then cut/paste the prompt and output in as the answer.",
+    "answers": [
+      "Prompt: \"You are tasked with assisting a user in navigating a large online dataset of books available for purchase. Please help the user find books based on the following criteria: genre, author, and price range. Once they provide their criteria, return the books that meet those conditions in an easily readable format with the following fields: 'Book Title,' 'Author,' 'Price,' and 'Genre.' Here is the data: Book Title: 'The Silent Sea', Author: John Harris, Price: $15.99, Genre: Science Fiction Book Title: 'Cooking 101', Author: Sarah Lee, Price: $20.00, Genre: Cooking Book Title: 'AI Revolution', Author: Michael Zhang, Price: $22.50, Genre: Technology Book Title: 'Journey Beyond Time', Author: Anne Smith, Price: $18.00, Genre: Adventure Book Title: 'Mastering Python', Author: David White, Price: $25.00, Genre: Technology User input: Genre: 'Technology', Price range: $20 to $30\" Expected Output: Output: \"Based on your criteria, here are the books in the 'Technology' genre with prices between $20 and $30: Book Title: 'AI Revolution', Author: Michael Zhang, Price: $22.50, Genre: Technology Book Title: 'Mastering Python', Author: David White, Price: $25.00, Genre: Technology These books match your specified genre and price range. Would you like more information or help with anything else?\""
+    ]
+  },
+  {
+    "question": "You've just landed your new role as a business analyst using Power BI to track sales data. You want to quickly identify any unusual patterns or shifts in the market. How would integrating generative AI with Power BI benefit your data trend analysis? Select the best answer.",
+    "answers": [
+      "Automated identification of data trends and anomalies without manual input."
+    ]
+  },
+  {
+    "question": "In what ways can generative AI enhance the usage of Power BI for data storytelling? Select all that apply.",
+    "answers": [
+      "Suggesting the best types of visualizations for given data sets",
+      "Automatic generation of narrative insights from data visualizations."
+    ]
+  },
+  {
+    "question": "Which of the following is a way generative AI is used in predictive modeling within data analysis? Select all that apply.",
+    "answers": [
+      "Generating synthetic data to improve model training.",
+      "Forecasting future trends by analyzing historical data patterns.",
+      "Automating data preprocessing tasks."
+    ]
+  },
+  {
+    "question": "Which of the following is a benefit of using generative AI for anomaly detection in data analysis? Select the best answer.",
+    "answers": [
+      "It can detect unusual patterns that may not be identified by traditional methods."
+    ]
+  },
+  {
+    "question": "You've used generative AI to analyze a dataset and uncover some interesting patterns. However, you need to present your findings to a non-technical audience. How can generative AI help you improve the interpretability of your results? Select the best answer.",
+    "answers": [
+      "By translating complex statistical findings into plain language explanations."
+    ]
+  },
+  {
+    "question": "When evaluating insights generated by GenAI during data exploration, what is a critical factor to consider? Select the best answer.",
+    "answers": ["The interpretability and explainability of the insights."]
+  },
+  {
+    "question": "Which of the following is a recommended practice when evaluating GenAI insights in data exploration? Select all that apply.",
+    "answers": [
+      "Comparing GenAI insights with results from traditional methods.",
+      "Seeking input and feedback from domain experts.",
+      "Documenting the entire data exploration process, including the GenAI models and parameters used."
+    ]
+  },
+  {
+    "question": "What is the purpose of comparing GenAI insights with results from traditional data analysis methods? Select the best answer.",
+    "answers": [
+      "To validate the findings and identify potential discrepancies or biases."
+    ]
+  },
+  {
+    "question": "How can you address the issue of \"overfitting\" when using GenAI for data exploration? Select the best answer.",
+    "answers": ["By using techniques like regularization and cross-validation."]
+  },
+  {
+    "question": "What is a key difference between evaluating GenAI insights and evaluating insights from traditional data analysis methods? Select the best answer.",
+    "answers": [
+      "GenAI insights might require additional scrutiny due to the complexity and potential 'black box' nature of some models."
+    ]
+  },
+  {
+    "question": "What is the role of \"cross-validation\" in evaluating GenAI models during data exploration? Select the best answer.",
+    "answers": [
+      "It helps assess how well the model generalizes to new, unseen data."
+    ]
+  },
+  {
+    "question": "What is the potential impact of biased data on the insights generated by GenAI during data exploration? Select the best answer.",
+    "answers": [
+      "It can perpetuate existing biases and inequalities, leading to unfair or discriminatory outcomes."
+    ]
+  },
+  {
+    "question": "What is the role of continuous learning and improvement in evaluating and using GenAI insights for data exploration? Select the best answer.",
+    "answers": [
+      "To regularly evaluate the model's performance, gather feedback, and incorporate new data and techniques to enhance its capabilities."
+    ]
+  },
+  {
+    "question": "Which scaling technique adjusts the values of a feature to have a mean of 0 and a standard deviation of 1? Select the best answer.",
+    "answers": ["Standardization (or Z-score normalization)"]
+  },
+  {
+    "question": "Which of the following is a common reason for removing features from a dataset? Select all that apply.",
+    "answers": [
+      "The feature is highly correlated with another feature (multicollinearity).",
+      "The feature is irrelevant to the target variable.",
+      "The feature has too many missing values."
+    ]
+  },
+  {
+    "question": "Which technique is appropriate for handling numerical variables instead of categorical ones? Select the best answer.",
+    "answers": ["Standardization"]
+  },
+  {
+    "question": "When is feature engineering most beneficial? Select the best answer.",
+    "answers": [
+      "When domain knowledge suggests potential relationships between features or new informative features can be derived."
+    ]
+  },
+  {
+    "question": "What is the main goal of feature selection? Select the best answer.",
+    "answers": [
+      "To improve model performance by removing irrelevant or redundant features."
+    ]
+  },
+  {
+    "question": "What is the main advantage of using embedded methods for feature selection? Select the best answer.",
+    "answers": [
+      "They incorporate feature selection directly into the model training process."
+    ]
+  },
+  {
+    "question": "How does the RACE framework contribute to improving the overall quality and effectiveness of AI-generated outputs in data analysis? Select the best answer.",
+    "answers": [
+      "By promoting a structured and collaborative approach to prompt engineering, ensuring clear communication, relevant context, and iterative refinement"
+    ]
+  },
+  {
+    "question": "Which of the following is a potential benefit of using the PARE framework in prompt engineering? Select the best answer.",
+    "answers": [
+      "It streamlines the process of refining AI-generated outputs, ensuring they are accurate, relevant, and aligned with user expectations."
+    ]
+  },
+  {
+    "question": "Which of the following factors is a key consideration when choosing a learning paradigm? Select the best answer.",
+    "answers": ["The complexity of the task"]
+  },
+  {
+    "question": "When is one-shot learning particularly useful in data analysis tasks? Select the best answer.",
+    "answers": [
+      "When you need to generate a specific type of chart or visualization, and you can provide a single example as a template"
+    ]
+  },
+  {
+    "question": "What is a key advantage of using one-shot learning in situations where you have limited time or resources for creating training examples? Select the best answer.",
+    "answers": [
+      "It allows you to achieve comparable performance to few-shot learning with significantly less effort."
+    ]
+  },
+  {
+    "question": "Which of the following best exemplifies an effective strategy for leveraging the iterative nature of prompt refinement to guide a generative AI model towards generating a comprehensive and insightful analysis of customer churn? Select the best answer.",
+    "answers": [
+      "Starting with a broad prompt to analyze churn, then refining the prompt with specific questions, requests for clarification, and additional data to guide the AI towards a more nuanced understanding of the factors contributing to churn."
+    ]
+  },
+  {
+    "question": "A financial institution uses a generative AI model to assess credit risk and make loan approval decisions. However, the model's decision-making process is not transparent to the applicants. What is a potential consequence of this lack of transparency in the generative AI model used for loan applications? Select the best answer.",
+    "answers": ["Erosion of user trust"]
+  },
+  {
+    "question": "You are developing a generative AI model to analyze hiring patterns and identify potential biases in recruitment processes. What is a potential solution to address bias in your generative AI model used for this analysis? Select the best answer.",
+    "answers": ["Implementing fairness-aware algorithms"]
+  },
+  {
+    "question": "A large bank is deploying an AI system that assists in making decisions about loan applications. Why is it important to regularly audit this AI system for biases? Select the best answer.",
+    "answers": ["To ensure fairness and prevent discriminatory outcomes"]
+  },
+  {
+    "question": "A healthcare organization is using GenAI to analyze patient data for research purposes. The data contains sensitive medical information that requires careful handling. What practice can help ensure the ethical handling of this sensitive data in their GenAI project? Select the best answer.",
+    "answers": ["Data encryption"]
+  },
+  {
+    "question": "What is a key advantage of using generative AI for data augmentation in data analysis? Select the best answer.",
+    "answers": ["It can create realistic synthetic data to balance datasets."]
+  },
+  {
+    "question": "You are working on a predictive model for customer churn. You want to ensure your model performs well even with new, unseen customer data. How can generative AI help you achieve this goal? Select the best answer.",
+    "answers": ["By simulating various scenarios to improve model robustness."]
+  },
+  {
+    "question": "You're a data analyst working with a large dataset. You spend a significant amount of time on manual tasks like cleaning and preparing the data for analysis. How can generative AI be used to improve the efficiency of your workflow? Select the best answer.",
+    "answers": [
+      "*A: By automating repetitive and time-consuming tasks, such as data cleaning and preprocessing."
+    ]
+  },
+  {
+    "question": "How can generative AI be used to personalize data analysis experiences for individual users? Select the best answer.",
+    "answers": [
+      "By tailoring visualizations and reports based on user preferences and needs."
+    ]
+  },
+  {
+    "question": "Your team is using a cutting-edge GenAI model to analyze customer behavior and predict future trends. While the model has generated some intriguing insights, you're finding it challenging to fully trust and utilize them in your decision-making process. Which of the following is the MOST LIKELY reason for your difficulty in evaluating the GenAI insights, especially considering the complexity of the model? Select the best answer.",
+    "answers": [
+      "The 'black box' nature of some GenAI models can make it difficult to understand how insights were derived."
+    ]
+  },
+  {
+    "question": "How can you ensure that GenAI insights are aligned with the overall goals of your data exploration project? Select the best answer.",
+    "answers": [
+      "By clearly defining the objectives and questions you want to answer with the data exploration."
+    ]
+  },
+  {
+    "question": "How can you ensure that the insights generated by GenAI are actionable and relevant to the business or research problem at hand? Select the best answer.",
+    "answers": [
+      "By clearly defining the problem, understanding the target audience and their needs, and tailoring the GenAI analysis accordingly."
+    ]
+  },
+  {
+    "question": "How can you maintain transparency when using GenAI in data exploration? Select the best answer.",
+    "answers": [
+      "By clearly documenting the analysis process, including the models used, data sources, and any assumptions made"
+    ]
+  },
+  {
+    "question": "Which of the following is a potential benefit of integrating GenAI with traditional data analysis methods during exploration? Select the best answer.",
+    "answers": [
+      "Enhanced ability to uncover insights from both structured and unstructured data"
+    ]
+  },
+  {
+    "question": "Why are \"human-in-the-loop\" approaches important in evaluating GenAI insights? Select the best answer.",
+    "answers": [
+      "To combine the strengths of GenAI with human expertise, ensuring that the insights are meaningful and actionable."
+    ]
+  },
+  {
+    "question": "How can you ensure that GenAI insights are used ethically and responsibly in decision-making? Select the best answer.",
+    "answers": [
+      "By considering the potential consequences and implications of the insights, both positive and negative."
+    ]
+  },
+  {
+    "question": "What is the primary purpose of data standardization? Select the best answer.",
+    "answers": ["To ensure all features contribute equally to the analysis."]
+  },
+  {
+    "question": "Why is it important to standardize or normalize data before applying certain machine learning algorithms? Select the best answer.",
+    "answers": [
+      "To ensure that features with different scales contribute equally to the model."
+    ]
+  },
+  {
+    "question": "What is the primary difference between data transformation and data normalization? Select the best answer.",
+    "answers": [
+      "Data transformation aims to improve the model's performance or meet its assumptions, while normalization focuses on bringing features to a similar scale."
+    ]
+  },
+  {
+    "question": "What is the primary purpose of feature engineering? Select the best answer.",
+    "answers": [
+      "To create new features or transform existing ones to improve model performance."
+    ]
+  },
+  {
+    "question": "What is the main goal of data normalization? Select the best answer.",
+    "answers": ["To bring all features to a similar scale or range."]
+  },
+  {
+    "question": "Which transformation technique is often used to make a skewed distribution more symmetric? Select the best answer.",
+    "answers": ["Log transformation"]
+  },
+  {
+    "question": "Which feature selection technique evaluates the relationship between each feature and the target variable individually? Select the best answer.",
+    "answers": ["Univariate feature selection"]
+  },
+  {
+    "question": "Which of the following is an example of a wrapper method for feature selection? Select the best answer.",
+    "answers": ["Recursive feature elimination"]
+  },
+  {
+    "question": "In the PARE framework, which phase involves prompting the AI to assess its own performance and identify areas for improvement? Select the best answer.",
+    "answers": ["Evaluate"]
+  },
+  {
+    "question": "Which phase of the RACE framework focuses on providing the AI with relevant background information and data? Select the best answer.",
+    "answers": ["Context"]
+  },
+  {
+    "question": "Select all methods through which generative AI can enhance natural language generation for reports in data analysis. Select all that apply.",
+    "answers": [
+      "Creating narratives based on complex data patterns.",
+      "Automatically generating summaries of data insights."
+    ]
+  },
+  {
+    "question": "Which of the following describes a potential benefit of integrating generative AI into data analysis workflows? Select the best answer.",
+    "answers": [
+      "It can create entirely new datasets unrelated to any existing data, expanding the possibilities for analysis."
+    ]
+  },
+  {
+    "question": "You're a data analyst using a GenAI tool to explore a large dataset about customer demographics and purchasing behavior. You're aware that biases in the data or the model itself could lead to misleading or unfair conclusions. How can you address potential biases in the GenAI insights during your data exploration process? Select the best answer.",
+    "answers": [
+      "By carefully evaluating the data used to train the GenAI model and considering potential sources of bias."
+    ]
+  },
+  {
+    "question": "Which technique is commonly used to select relevant features from a dataset? Select the best answer.",
+    "answers": ["Feature importance from tree-based models."]
+  },
+  {
+    "question": "What is the difference between feature selection and feature extraction? Select the best answer.",
+    "answers": [
+      "Feature selection chooses a subset of the original features, while feature extraction creates new features from the original ones."
+    ]
+  },
+  {
+    "question": "Which of the following are components of the Context phase in the RACE framework? Select all that apply.",
+    "answers": [
+      "Giving the AI background information about the target audience, industry, or brand",
+      "Providing the AI with relevant data, such as historical records or market trends"
+    ]
+  },
+  {
+    "question": "In the context of generative AI for data analysis, why is \"testing variations\" considered a crucial strategy for prompt refinement? Select the best answer.",
+    "answers": [
+      "It allows the user to understand the AI's interpretation of different phrasings and structures."
+    ]
+  },
+  {
+    "question": "Which of the following are key components of an effective prompt for data analysis? Select all that apply.",
+    "answers": [
+      "Constraints or limitations on the analysis",
+      "Clear instructions specifying the analysis needed",
+      "Examples of the types of trends you want to capture"
+    ]
+  },
+  {
+    "question": "What is the \"human element\" in the context of using learning paradigms with generative AI for data analysis? Select the best answer.",
+    "answers": [
+      "It refers to the user's ability to interpret the AI's output, make informed decisions, and guide the AI towards meaningful insights."
+    ]
+  },
+  {
+    "question": "You are a data scientist working with a large dataset containing sensitive personal information for a research project on generative AI. You need to ensure the privacy of individuals in the dataset. Which of the following actions can help address privacy concerns in your generative AI research project? Select all that apply.",
+    "answers": ["Encrypting sensitive information", "Anonymizing the data"]
+  },
+  {
+    "question": "A data analyst is using a generative AI model to analyze healthcare data to identify patients at risk of developing a particular disease. What is a potential ethical concern when using the generative AI model in this healthcare data analysis? Select the best answer.",
+    "answers": ["Bias in the generated data"]
+  },
+  {
+    "question": "A bank uses generative AI to analyze financial transactions and detect fraudulent activities. This involves processing highly sensitive customer data. What is a primary ethical concern when handling this sensitive data in the bank's generative AI system? Select the best answer.",
+    "answers": ["Ensuring data privacy and security"]
+  },
+  {
+    "question": "You are attending a conference about the impact of AI on society. The keynote speaker discusses the importance of \"ethical AI.\" Which of the following best describes the concept of 'ethical AI' as emphasized by the keynote speaker? Select the best answer.",
+    "answers": [
+      "AI systems designed to assist human decision-making processes ethically."
+    ]
+  },
+  {
+    "question": "You are leading a workshop on responsible AI development for data scientists in your organization. Which of the following is a key principle in ensuring responsible AI use that you would emphasize in your workshop? Select the best answer.",
+    "answers": ["Transparency"]
+  },
+  {
+    "question": "A healthcare provider is using generative AI to analyze patient data for disease prediction and personalized treatment recommendations. They are committed to protecting patient privacy. Identify the solutions that can help mitigate privacy concerns when using generative AI for this healthcare data analysis. Select all that apply.",
+    "answers": [
+      "Encrypting all sensitive data before processing",
+      "Limiting data access to authorized personnel only",
+      "Implementing differential privacy techniques"
+    ]
+  },
+  {
+    "question": "Imagine that you are a financial analyst using Power BI to forecast future market trends. You want to streamline the process of creating predictive models. How would integrating generative AI into Power BI impact your predictive analytics workflow? Select the best answer.",
+    "answers": [
+      "By automating the creation of predictive models based on historical data."
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of integrating generative AI into Excel for data analysis? Select all that apply.",
+    "answers": [
+      "Automated generation of data analysis reports with insights.",
+      "Automated data visualization creation based on data trends"
+    ]
+  },
+  {
+    "question": "You're a music producer looking for innovative ways to create new and unique compositions. How can generative AI be utilized in your creative process? Select the best answer.",
+    "answers": ["It can compose original music pieces."]
+  },
+  {
+    "question": "What's the risk of using only GenAI insights in data exploration? Select the best answer.",
+    "answers": [
+      "It can create a narrow and potentially biased view of the data."
+    ]
+  },
+  {
+    "question": "How can you ensure that the evaluation of GenAI insights is fair and objective? Select the best answer.",
+    "answers": [
+      "By establishing clear evaluation criteria, using diverse and representative datasets, and involving independent experts in the evaluation process."
+    ]
+  },
+  {
+    "question": "Which of the following is a potential drawback of dimensionality reduction? Select the best answer.",
+    "answers": ["Loss of interpretability."]
+  },
+  {
+    "question": "Which of the following is a potential benefit of data transformation? Select all that apply.",
+    "answers": [
+      "Improved model performance.",
+      "Meeting assumptions of certain algorithms.",
+      "Enhanced interpretability of results."
+    ]
+  },
+  {
+    "question": "Which of the following best describes the relationship between prompt refinement and the quality of AI-generated outputs in data analysis? Select the best answer.",
+    "answers": [
+      "Prompt refinement is an iterative process that involves strategically adjusting the prompt to guide the AI."
+    ]
+  },
+  {
+    "question": "Which of the following best explains why an iterative process in prompt engineering is crucial for achieving desired results? Select the best answer.",
+    "answers": [
+      "It allows the user to continuously adjust the prompt based on the AI's initial responses, progressively narrowing down the scope and refining the output."
+    ]
+  },
+  {
+    "question": "You are a data analyst working on a project to develop a generative AI model for predicting customer churn. You are aware of the potential ethical concerns associated with AI and want to ensure your project is conducted ethically. Which practices can help mitigate ethical concerns in your generative AI project for predicting customer churn? Select all that apply.",
+    "answers": [
+      "Implementing bias detection algorithms",
+      "Ensuring data anonymization",
+      "Regularly auditing AI systems"
+    ]
+  },
+  {
+    "question": "A research team is using generative AI to analyze large datasets for social science research, aiming to understand complex social phenomena and trends. Which principle is critical in ensuring the ethical use of generative AI in this data analysis context? Select the best answer.",
+    "answers": ["Transparency in model decision-making"]
+  },
+  {
+    "question": "You are leading a team of data scientists who are using generative AI to analyze customer behavior and predict future trends. You want to ensure your team follows ethical practices. Which of the following practices can help ensure the ethical use of generative AI in your team's data analysis work? Select all that apply.",
+    "answers": [
+      "Implementing robust validation processes",
+      "Using diverse and representative datasets",
+      "Ensuring transparency in AI models"
+    ]
+  },
+  {
+    "question": "You are a data scientist tasked with developing guidelines for the ethical use of GenAI in your organization's data analysis projects. You want to ensure that the AI models are fair and unbiased in their predictions. Which ethical consideration is essential to prioritize when developing these guidelines to ensure fairness in GenAI applications? Select the best answer.",
+    "answers": ["Ensuring diverse training data"]
+  }
+]
