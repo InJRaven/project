@@ -983,5 +983,37 @@
   {
     "question": "You are a data scientist tasked with developing guidelines for the ethical use of GenAI in your organization's data analysis projects. You want to ensure that the AI models are fair and unbiased in their predictions. Which ethical consideration is essential to prioritize when developing these guidelines to ensure fairness in GenAI applications? Select the best answer.",
     "answers": ["Ensuring diverse training data"]
+  },
+  {
+    "question": "What is the role of \"sensitivity analysis\" in evaluating GenAI insights during data exploration? Select the best answer.",
+    "answers": [
+      "To understand how changes in input data or parameters affect the model's output."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a benefit of feature selection? Select the best answer.",
+    "answers": ["Increased model complexity"]
+  },
+  {
+    "question": "What is a potential advantage of using few-shot learning compared to one-shot learning in generative AI? Select the best answer.",
+    "answers": [
+      "Few-shot learning typically leads to better accuracy and generalization compared to one-shot learning, as the AI has more information to learn from."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describe the outcome of incorporating advanced prompt engineering techniques, such as Chain-of-Thought prompting or Role prompting, into your data analysis workflow? Select all that apply.",
+    "answers": [
+      "These techniques can reduce the need for human intervention in the data analysis process, but human oversight and critical evaluation remain essential for ensuring accuracy and relevance.",
+      "These techniques can help improve the AI's ability to handle complex or nuanced tasks that require a deeper understanding of the data and the desired outcome.",
+      "These techniques can enhance the creativity and diversity of the AI's outputs, leading to more innovative solutions and unexpected insights."
+    ]
+  },
+  {
+    "question": "You are developing an AI model to predict loan eligibility for a financial institution. You are concerned that the model might unintentionally discriminate against certain groups of applicants. What is a crucial step in mitigating this potential bias in your AI system for loan eligibility prediction? Select the best answer.",
+    "answers": ["Diverse training data"]
+  },
+  {
+    "question": "You are training a team of junior data analysts on the ethical use of GenAI in their projects. What is a key guideline you would emphasize to ensure ethical practice when using GenAI for data analysis? Select the best answer.",
+    "answers": ["Implementing transparency in AI decision-making processes"]
   }
 ]
