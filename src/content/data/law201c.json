@@ -1,0 +1,769 @@
+[
+  {
+    "question": "Name the two current treaties of the EU (Check all that apply)",
+    "answers": ["TFEU", "TEU"]
+  },
+  {
+    "question": "What was one of the main features of the Treaty of Maastricht?",
+    "answers": ["The European Union was established."]
+  },
+  {
+    "question": "By which treaty did the Charter of Fundamental rights become binding?",
+    "answers": ["Lisbon Treaty"]
+  },
+  {
+    "question": "Which of the following statements are true? (Check all that apply)",
+    "answers": [
+      "The European Council consists of Heads of States or Governments.",
+      "The European Council sets out overall guidelines for EU policies, while the Council has legislative functions.",
+      "The Council is made up of ministers, such as the ministers of agriculture, the foreign ministers, etc."
+    ]
+  },
+  {
+    "question": "Which institution elects the President of the European Commission?",
+    "answers": ["The European Parliament."]
+  },
+  {
+    "question": "What are some of the functions and roles of the European Commission? (Check all that apply)",
+    "answers": [
+      "It proposes new Legislation.",
+      "It acts as the “Guardian of the Treaties”."
+    ]
+  },
+  {
+    "question": "What is the role of the Advocate General?",
+    "answers": ["To provide advice to the Court in the form of an opinion."]
+  },
+  {
+    "question": "What happens if a country withdrawing from the European Union has not been able to agree on the terms of withdrawal within the two year period provided by the TEU?",
+    "answers": [
+      "If the period is not mutually prolonged the country is excluded from all EU collaboration."
+    ]
+  },
+  {
+    "question": "Which principles are covered by the TFEU environmental policy?",
+    "answers": [
+      "“The precautionary principle”",
+      "“The principles of preventive action”",
+      "“The principle that environmental damage should be rectified at source”",
+      "“The polluter pays principle”"
+    ]
+  },
+  {
+    "question": "The environmental chapter requires that environmental requirements must be integrated into all Union policies and activities, with a view to promoting sustainable development. What other stipulations in the Treaty have explicitly been given such broad impact?",
+    "answers": ["Human health protection", "Consumer protection"]
+  },
+  {
+    "question": "What is the name of the main legal database of the EU?",
+    "answers": ["Eur-Lex"]
+  },
+  {
+    "question": "In which database will you find cases from the Court of Justice of the EU?",
+    "answers": ["Curia."]
+  },
+  {
+    "question": "What is true about EU publications?",
+    "answers": ["They are mostly available online for free."]
+  },
+  {
+    "question": "If you browse through the current Treaties you will find numbers in brackets below most article numbers. What are these numbers in brackets?",
+    "answers": [
+      "The old number of that particular article in the previous Nice Treaty."
+    ]
+  },
+  {
+    "question": "What are some examples of EU Secondary Legislation? (Check all that apply)",
+    "answers": ["Directives.", "Regulations.", "Decisions."]
+  },
+  {
+    "question": "What is true about the following legislation act? Council Regulation (EC) No 1/2003 (Check all that apply)",
+    "answers": [
+      "The act is a Regulation.",
+      "It was adopted in 2003.",
+      "The Council is behind the act."
+    ]
+  },
+  {
+    "question": "What is true about the following case? C-43/01 (Check all that apply)",
+    "answers": [
+      "It’s a case from the Court of Justice",
+      "The case is from 2001"
+    ]
+  },
+  {
+    "question": "Why is the opinion of the Advocate General important when reading case law from the Court of Justice of the EU? (Check all that apply)",
+    "answers": ["It usually contains a detailed analysis of the case."]
+  },
+  {
+    "question": "Where are proposals for new legislation from the Commission published?",
+    "answers": ["In the COM documents series."]
+  },
+  {
+    "question": "Which of the following statements about primary and secondary law are true?",
+    "answers": [
+      "Primary law is principally made up of the Treaties.",
+      "Primary law forms the basis not only of the EU institutions, but also of the powers that can be exercised by those institutions and the procedure under which they must operate.",
+      "Secondary law is comprised of law that the EU system produces by itself."
+    ]
+  },
+  {
+    "question": "Following concerns from animal rights campaigners in several member states about the cruelty of seal hunting, and following the introduction by a number of member states of rules prohibiting or limiting the marketing of seal meat and other seal products, the EU introduced a Regulation banning the import of seal meat and other products made from seals. The legal basis for the Regulation was Article 114 TFEU. Several organizations representing seal hunters and traders in seal products brought an action before the Court of Justice of the EU challenging this Regulation, on the grounds that the it breached the principle of conferral, as the EU did not have competence to ban the import of seal products. You are a lawyer advising the EU institutions. What is your advice?",
+    "answers": [
+      "Argue that the measure is necessary for the functioning of the internal market."
+    ]
+  },
+  {
+    "question": "An important tool in the EU legal toolbox to maintain legal certainty and uniform application of EU Law is the possibility for national courts to ask the European Court of Justice for a preliminary ruling. This is usually done when a question of interpretation of EU law arises before a national court of last instance and that court considers that an ECJ decision on this question is necessary to produce a judgment in the case before it. In fact, in such cases the judge of the court is obliged to send a reference to the ECJ. But what about the lower courts, can they also send reference to the ECJ?",
+    "answers": [
+      "Yes, all national courts to send references for preliminary rulings to the Court of Justice of the EU."
+    ]
+  },
+  {
+    "question": "Which one of the principles below is a principle that stems from the national legal orders and is not unique to the EU legal order?",
+    "answers": ["Principle of legal certainty"]
+  },
+  {
+    "question": "According to an EU directive, the Member States shall take the measures necessary to ensure that every worker is entitled to paid annual leave of at least four weeks. Emma Larsson works for a private employer who refuses to grant her the said four weeks of annual leave, since she has been on sick leave during the better part of the past year. According to the national applicable law, a company only has to grant paid annual leave to employees who have actually been working during at least half of the reference period (constituting the past year). However, said national law also stipulates that certain absences, such as those due to maternity leave or work-related accidents, shall count as periods of actual work for the purposes of calculating the length of paid leave that an employee is entitled to. Emma’s employer claims that her sick leave cannot count as a period of actual work and that she has, hence, not actually worked for the minimum period of time required for her to be granted paid annual leave. Can Emma force her employer to grant her the four weeks of paid annual leave that is stipulated in the EU directive?",
+    "answers": [
+      "Yes, since the national law should be given an EU conform interpretation, her sick leave should be counted as periods of actual work."
+    ]
+  },
+  {
+    "question": "Which of the below statements are true about regulations? (Check all that apply)",
+    "answers": [
+      "Regulations always form part of secondary EU law.",
+      "Regulations should never be transposed by the national legislator into the national legal order."
+    ]
+  },
+  {
+    "question": "What is the basic condition that must be fulfilled for the EU Charter to become applicable?",
+    "answers": ["The applicability of EU law"]
+  },
+  {
+    "question": "Where would you find the basic text in the Treaties on proportionality in the exercise of Union competence?",
+    "answers": ["Art 5 TEU"]
+  },
+  {
+    "question": "A national law of Factoria (an imagined EU member state) stipulates that owners of fishing vessels registered in Factoria must be resident in that member state. Non-Nationals of Factoria are much less likely to be resident in Factoria than nationals, so the practice puts non-nationals at a disadvantage, and so it is likely to be indirectly discriminatory on grounds of nationality. What does this mean?",
+    "answers": [
+      "That the national law will breach EU law unless Factoria can show that the difference of treatment is justified on grounds allowed by the Treaties."
+    ]
+  },
+  {
+    "question": "Complete the following sentence: Direct discrimination occurs when a person is treated less favourably ________ their status.",
+    "answers": ["because of"]
+  },
+  {
+    "question": "Complete the following sentence: In areas where the EU has shared competence, as soon as the EU legislates to regulate a particular area, member states are ___________________ also legislate on the same area.",
+    "answers": ["no longer allowed to"]
+  },
+  {
+    "question": "Member States’ procedural autonomy is subject to which of the following principles:",
+    "answers": ["Effectiveness", "Equivalence"]
+  },
+  {
+    "question": "Which ground cannot justify a restriction on the free movement of capital?",
+    "answers": ["Economic concerns"]
+  },
+  {
+    "question": "What principle is enshrined in Article 45(2) TFEU and re-iterated in Regulation 492/2011 in relation to workers?",
+    "answers": ["Non-discrimination."]
+  },
+  {
+    "question": "The public service exception in Article 45 (4) TFEU entails that... (Check all that apply)",
+    "answers": [
+      "Indirect discrimination based on nationality towards employees in the public sector may be allowed.",
+      "Direct discrimination based on nationality towards employees in the public sector may be allowed."
+    ]
+  },
+  {
+    "question": "On what grounds may Member States restrict rights of free movement of persons? (Check all that apply)",
+    "answers": ["Economic grounds", "Educational grounds", "Public health"]
+  },
+  {
+    "question": "Does the principle of mutual recognition mean that a product lawfully sold in one national market shall always be lawfully sold at all other national markets within the EU internal market?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Under which conditions does a certain selling arrangement fall outside the scope of Article 34 TFEU according to the Keck judgement? (Check all that apply)",
+    "answers": [
+      "The measure does not entail any discrimination in law or in fact",
+      "The measure is generally applicable (concerns all affected traders)"
+    ]
+  },
+  {
+    "question": "In addition to freedom of establishment, what principle is enshrined in Article 49 TFEU in relation to the self-employed?",
+    "answers": ["Non-discrimination"]
+  },
+  {
+    "question": "On which grounds can derogations be made to the freedom of establishment and the freedom to provide services? (Check all that apply)",
+    "answers": ["Public policy", "Public security", "Public health"]
+  },
+  {
+    "question": "What status is established by Article 20 TFEU?",
+    "answers": ["European Union citizenship."]
+  },
+  {
+    "question": "Which transport service falls under the general Treaty provisions on the free movement of service?",
+    "answers": ["Train", "Road transport", "Inland waterways"]
+  },
+  {
+    "question": "In which field in the External Dimension does the EU have exclusive competence?",
+    "answers": ["Common Commercial Policy"]
+  },
+  {
+    "question": "Article 218 TFEU establishes the procedure by which agreements between the European Union and third countries or international organisations shall be negotiated and concluded. In this procedure, which is the most important EU institution?",
+    "answers": ["The Council"]
+  },
+  {
+    "question": "Does WTO law have direct effect in EU law?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Which of the following fields is the Common Security and Defense Policy (CSDP) an integral part of?",
+    "answers": ["The Common Foreign and Security Policy (CFSP)"]
+  },
+  {
+    "question": "How is new EU legislation made part of the EEA Agreement?",
+    "answers": ["By the EEA Joint Committee"]
+  },
+  {
+    "question": "Is there any obligation for EU Member States to support each other in the event of terrorist attack?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Please decide if the following statement is true: The European External Action Service and the High Representative (EEAS) is an EU institution and stands responsible for the external policy making.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What kind of EU policies does the EEA agreement also cover? (Check all that apply)",
+    "answers": ["Rules of competition", "Environmental goals"]
+  },
+  {
+    "question": "What is one of the main roles of the European Parliament in the field of external relations?",
+    "answers": [
+      "It must give its consent before the EU concludes most types of international agreements."
+    ]
+  },
+  {
+    "question": "In what way is the Court of Justice of the EU important in the field of external relations?",
+    "answers": [
+      "It decides on the delimitation of external competence between the EU and its member states."
+    ]
+  },
+  {
+    "question": "In forging a long-term business strategy, what appears to lead to a better result?",
+    "answers": [
+      "A step-by-step approach where the grounds are tested and balanced relations achieved"
+    ]
+  },
+  {
+    "question": "What type(s) of middleman agreement is more affected by EU competition law?",
+    "answers": ["The licensee agreement", "The distributorship relation"]
+  },
+  {
+    "question": "When an Agency relation with unlimited term expires, the agent has a mandatory right to:",
+    "answers": [
+      "A limited indemnity covering his loss of future Commission on transactions he has organized",
+      "Compensation for investments he has made"
+    ]
+  },
+  {
+    "question": "Which of the following provision(s) is/are hard core prohibited in distributorship agreements:",
+    "answers": [
+      "A prohibition to sell the products to customers who intend to export the product outside the distributor’s territory"
+    ]
+  },
+  {
+    "question": "What is the name of the document that is commonly used in international sea carriage of goods?",
+    "answers": ["Bill of lading"]
+  },
+  {
+    "question": "What is the major legal regime that applies to international sea carriage of goods?",
+    "answers": ["The Hague-Visby Rules"]
+  },
+  {
+    "question": "What is the distinction between an agent and a distributor?",
+    "answers": [
+      "The agent receives a commission on sales reported whereas the distributor determines his own margin"
+    ]
+  },
+  {
+    "question": "Both licensing and distributorship relations leave it basically free for the parties to decide on the terms of their collaboration. However, EU competition rules impact the freedom to contract. Please indicate which undertakings that are prohibited:",
+    "answers": [
+      "Create territorial protection",
+      "Contain end pricing mechanisms",
+      "Control output"
+    ]
+  },
+  {
+    "question": "May a licensor do the folowing in a licensing arrangement? If not, which of the following is unlawful?",
+    "answers": [
+      "She requests compensation for the fact that the licensee also is granted rights to any invention made by the licensor and requests that the licensee shall free of charge grant back inventions made by him/her."
+    ]
+  },
+  {
+    "question": "What is the maximum compensation the shipper can receive based on weight limitation if the goods were carried by sea?",
+    "answers": ["2 SDR per kilo"]
+  },
+  {
+    "question": "In European Union law there is at present but one company form: The European Company. Nonetheless there are as many possible types of European Companies as there are member states. How can this be?",
+    "answers": [
+      "Because to a fairly large extent national law is applicable to European Companies"
+    ]
+  },
+  {
+    "question": "What is meant by “regulatory competition” with regard to company law within the European Union?",
+    "answers": [
+      "That member states compete with each other by adapting their national company law in order to attract primary establishments of companies"
+    ]
+  },
+  {
+    "question": "Rules regarding the representational authority on behalf of the company fall into two groups. Which of the two following options are correct?",
+    "answers": [
+      "One group of rules draws the limit between valid and invalid legal acts which a representant has performed on behalf of the company"
+    ]
+  },
+  {
+    "question": "Why does comparative company law often focus on rule-functions rather than the content of rules?",
+    "answers": [
+      "Because functions are viewed as more universal than rules",
+      "Because a multiplicity of rules is consistent with a much more limited set of functions"
+    ]
+  },
+  {
+    "question": "The core of company law can be said to consist of three types of rules. Which are these three?",
+    "answers": [
+      "Rules concerning the responsibilities for the company's debts",
+      "Rules concerning the decision-making authority on behalf of the company",
+      "Rules concerning the representational authority on behalf of the company"
+    ]
+  },
+  {
+    "question": "Is there such a thing as a European Company?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Rules regarding the decision-making authority on behalf of the company fall into two groups. Which?",
+    "answers": [
+      "One group of rules tell us when a company decision exists",
+      "One group of rules draws the limit between lawful and unlawful company decisions"
+    ]
+  },
+  {
+    "question": "What does the \"comply or explain\" code entail?",
+    "answers": [
+      "It allows companies to depart from particular recommendations of the applicable code, provided they explain the reasons for doing so."
+    ]
+  },
+  {
+    "question": "Which of the following alternatives gives the best definition of “company law”?",
+    "answers": ["Legal rules only applicable to companies"]
+  },
+  {
+    "question": "How are companies and contracts related?",
+    "answers": [
+      "Companies presuppose contracts as an institution",
+      "Both contracts and companies are institutions in the service of private autonomy"
+    ]
+  },
+  {
+    "question": "EU labour law is regulated by primary and secondary law. Secondary law in this area is mostly made up of:",
+    "answers": ["Directives"]
+  },
+  {
+    "question": "The EU Charter of Fundamental Rights became legally binding in 2009. How is it relevant for European Labour Law?",
+    "answers": [
+      "It contains explicit protection for certain labour rights, such as collective bargaining, collective action, and right to information within the undertaking",
+      "It contains articles protecting freedom of expression, freedsom of assembly, and equality between men and women, which are relevant in labour law situations"
+    ]
+  },
+  {
+    "question": "Which of the following alternatives are part of the important so-called ‘restructuring’ Directives that were adopted in the 1970s?",
+    "answers": [
+      "The Collective Redundancies Directive (98/59/EC)",
+      "The Employer Insolvency Directive (2008/94/EC)",
+      "The Transfers of Undertakings Directive (2001/23/EC)"
+    ]
+  },
+  {
+    "question": "The (2001/23/EC) Transfers of Undertakings Directive regulates some aspects of employment protection. A transfer of an undertaking does not in itself constitute grounds for dismissal, but does not stand in the way of dismissals due to economic, technical or organisational reasons.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The important Laval judgment (Case C-341/05) from the Court of Justice of the European Union deals with posting of workers, the right to industrial action and ...",
+    "answers": ["... the freedom to provide services"]
+  },
+  {
+    "question": "The aim of the (96/71/EC) Posted Workers Directive is to enable the free movement of persons and services and to provide protection for workers in the case of the posting of workers and the transnational provision of services.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following EU labour law directives regulate different forms of flexible work? Please select all that apply.",
+    "answers": [
+      "Temporary Agency Work Directive (2008/104/EC)",
+      "Part-Time Work Directive (97/81/EC)",
+      "Fixed-Term Work Directive (99/70/EC)"
+    ]
+  },
+  {
+    "question": "The (97/81/EC) Part-Time Work Directive, the (99/70/EC) Fixed-Term Work Directive and the (2008/104) Temporary Agency Work Directive provide protection for employees through a specific principle, which? Several answers could be correct.",
+    "answers": [
+      "The principle of non-discrimination",
+      "The principle of equal treatment"
+    ]
+  },
+  {
+    "question": "The EU mainstreaming approach as regards gender equality and non-discrimination means that the EU in all its activities and policies must aim to eliminate inequalities, to promote equality between men and women and to combat discrimination.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does the following definition refer to: ‘a situation where an apparently neutral provision, criterion or practice would put persons of one sex at a particular disadvantage compared with persons of the other sex, unless that provision, criterion or practice is objectively justified by a legitimate aim, and the means of achieving that aim are appropriate and necessary’",
+    "answers": ["Indirect discrimination on grounds of sex"]
+  },
+  {
+    "question": "Is it a breach of EU law for member states to tax at a higher rate dividends distributed to non-residents taxpayers?",
+    "answers": [
+      "There is a risk such measure would infringe article 63 TFEU, the free movement of capital, which forbids restrictions on capital."
+    ]
+  },
+  {
+    "question": "Which tax is levied on the most mobile tax basis?",
+    "answers": ["Corporate Income Tax"]
+  },
+  {
+    "question": "Why are VAT and indirect taxes harmonized?",
+    "answers": [
+      "Since Member States’ membership fee is partly based on the custom duties and VAT"
+    ]
+  },
+  {
+    "question": "Which of the following sources of law deal with taxes on the internal market?",
+    "answers": ["Article 28 TFEU", "Article 31 TFEU", "Article 4 TEU"]
+  },
+  {
+    "question": "At which level of government are taxes decided upon?",
+    "answers": ["European Union", "National Governments"]
+  },
+  {
+    "question": "Do you think it is possible for a member state to tax at a higher rate dividens distributed to non-resident tax payers?",
+    "answers": ["It depends"]
+  },
+  {
+    "question": "The TFEU obliges Member States to equalize their domestic taxes with that of other States.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Corporate income tax is a tax on capital (in the economic sense of it) and is levied on a highly mobile tax basis, especially due to the free movement of capital in the EU.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Why is environmental law relevant to the study and application of European business law?",
+    "answers": ["It overlaps with internal market law"]
+  },
+  {
+    "question": "‘Environmental protection always overrides free movement provisions in the EU legal context’. Consider this statement and answer whether you think it is:",
+    "answers": [
+      "Dependant on the legal nature of the environmental protection measure"
+    ]
+  },
+  {
+    "question": "Pursuant to the Brussels I Regulation, where can a person domiciled within an EU Member State (MS) be sued in matters relating to tort?",
+    "answers": [
+      "Either in the Member State where the harmful event occurred or the Member State where he/she is domiciled, at the choice of the plaintiff"
+    ]
+  },
+  {
+    "question": "A judgment given in an EU Member State must be recognized by the other Member States even when they find it manifestly contrary to their public policy.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Following EU Member States have been granted special standing regarding the EU private international law rules:",
+    "answers": ["Denmark"]
+  },
+  {
+    "question": "The main rule of Rome II Regulation refers to the law of the country where:",
+    "answers": ["The damage occurs"]
+  },
+  {
+    "question": "Even if an EU conflict rule refers to the law of a non-member state, the conflict rule must be followed.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A Spanish company and a French company have entered into a contract regarding research and development cooperation. The contract stipulates that it is governed by German law. This choice is of law valid.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Can some of the provisions of the Treaty on the Functioning of the European Union have a direct impact on the Private International Law of the Member States?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Does EU law, as it is today, cover the whole Private International Law of the Member States?",
+    "answers": ["False"]
+  },
+  {
+    "question": "The value of trademarks is decreasing in today’s society.",
+    "answers": ["False"]
+  },
+  {
+    "question": "EUIPO plays an important role as regards to the development of European trademark law. Which of the following is a correct description as to what EUIPO has as its principle task?",
+    "answers": [
+      "EUIPO is the EU Institution that governs the system of community rights and registers community Trademarks (and Community Designs)."
+    ]
+  },
+  {
+    "question": "Are there any limitations regarding the lifespan of a trademark?",
+    "answers": ["No."]
+  },
+  {
+    "question": "It is necessary to consider both preliminary judgements from the ECJ on one hand and administrative decisions from EUIPO, the General Court and the ECJ on the other to fully understand EU trademark law.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A first question as to regards trademark protection is to define what a trademark is, or to put it differently, what kind of signs that may be afforded protection. In the new trademark directive (EU) 2015/2436 there are a number of prerequisites that a sign must meet to be allowed protection. Which of the following is not a prerequisite for trademark protection?",
+    "answers": ["The signs must be used in the course of trade."]
+  },
+  {
+    "question": "All signs cannot constitute trademarks and there are consequently several grounds for refusal of a trademark registration. In article 3(1) c it is stated that a sign may not constitute a trademark if the sign consists exclusively of indications which may serve, in trade, to designate e.g. the kind, quality, quantity, of the goods. Which of the following is a correct description as to how article 3(1)c is to be applied and understood?",
+    "answers": [
+      "The lack of distinctiveness that is indicated in article 3(1)c may be cured by use and acquired distinctiveness."
+    ]
+  },
+  {
+    "question": "Even if a trademark right exists a third party shall, under certain circumstances, be allowed to use the trademark. Which of the following is allowed regarding usage of a trademark, in the course of trade? (Check all that apply)",
+    "answers": [
+      "It is allowed to use a competitor’s trademark where it is necessary to indicate the intended purpose of a product or service.",
+      "It is allowed to use one’s own name in commercial information"
+    ]
+  },
+  {
+    "question": "A trademark infringement may be defined as an unauthorised use of a trademark. However, in order for such use to be regarded as infringing a trademark right there are a number of prerequisites that have to be fulfilled. Which of the following is a prerequisite for an infringement according to article 5 trademark directive? (Check all that apply)",
+    "answers": [
+      "The use gives result to a likelihood of confusion.",
+      "The use regards use of any sign which is identical with a protected trademark in relation to goods or services which are identical with those for which the trade mark is registered."
+    ]
+  },
+  {
+    "question": "The “double identity” rule provides the proprietor with a right to prevent any sign which is identical with the trademark in relation to any goods or services.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What does degeneration mean?",
+    "answers": [
+      "That a trademark shall be revoked if, in consequence of acts or inactivity of the proprietor, it has become the common name in the trade for a product or service in respect of which it is registered."
+    ]
+  },
+  {
+    "question": "Which (one or several) of the following IPR-related exercises requires vigilance by a dominant company?",
+    "answers": [
+      "Refusal to license essential facility.",
+      "Territorial allocation for its distributors.",
+      "Resale price maintenance (RPM – establishing licensee’s sales price) in licensing relations."
+    ]
+  },
+  {
+    "question": "Is it possible to divide the royalty payment obligation to relate partly to the patent, a TM and the know-how and thereby secure payments even if the patent should be invalidated?",
+    "answers": ["No"]
+  },
+  {
+    "question": "An invention has to be absolutely new in order to receive patent protection. How do you prevent that your own patent application becomes an obstacle to patent applications in other countries? Several alternatives may apply).",
+    "answers": [
+      "By filling a PCT application you actually obtaining a single filing date in all designated countries and thereby avoid that one application disturbs the other.",
+      "If you file your subsequent patent applications within a twelve months period, you will be entitled to priority from the first national application."
+    ]
+  },
+  {
+    "question": "Is the following statement correct? When determining novelty the invention must be described in a single prior document, whereas when considering inventive step reference can be made to several documents which hints at the invention.",
+    "answers": ["Correct"]
+  },
+  {
+    "question": "At what stage is it optimal to apply for patent protection?",
+    "answers": [
+      "Once the final product has been established but before a competitor has been able to destroy the novelty."
+    ]
+  },
+  {
+    "question": "In order to address harmful practices related to industrial property rights, the Commission will apply:",
+    "answers": ["European competition law principles."]
+  },
+  {
+    "question": "The EU Patent Regulation has been agreed and is awaiting final ratification. Is it true that the newly established Unified Patent Court will decide on infringement procedures?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "May a licensor who has granted a license to its invention as well as any future development require that the licensee assigns his development to the licensor?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Could novelty be destroyed by a non-scientific article?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Can the German patentee prevent importation of his patented protected product sold by his licensee in Spain from being imported into Germany?",
+    "answers": ["No"]
+  },
+  {
+    "question": "Which are the three main rules that collectively make up the substantive rules in EU competition law?",
+    "answers": [
+      "The EU merger regulation",
+      "Article 102 TFEU",
+      "Article 101 TFEU"
+    ]
+  },
+  {
+    "question": "Which of the following can typically be found at the start of a competition law investigation in the EU?",
+    "answers": ["A decision by the European Commission."]
+  },
+  {
+    "question": "What are some of the benefits of competition?",
+    "answers": [
+      "Increased competition benefits the consumer by offering more, different and cheaper products."
+    ]
+  },
+  {
+    "question": "The relevant market combines the product market and the geographic market, which of the following is the correct definition as provided by the EU Commission?",
+    "answers": [
+      "A relevant geographic market comprises the area in which the firms concerned are involved in the supply of products or services and in which the conditions of competition are sufficiently homogeneous.",
+      "A relevant product market comprises all those products and/or services which are regarded as similar or substitutable by the consumer by reason of the products' target group, fabric and intended use."
+    ]
+  },
+  {
+    "question": "What are the elements that must be fulfilled to establish a breach of Article 101?",
+    "answers": [
+      "There must be an effect on trade between EU Member States.",
+      "The agreement, concerted practice or decision by an association must have the object or effect of distorting competition in the internal market.",
+      "An undertaking or an association of undertakings must be involved."
+    ]
+  },
+  {
+    "question": "EU competition law can only be applied to entities which are recognized as companies in a member State. True or false?",
+    "answers": ["False"]
+  },
+  {
+    "question": "An agreement within the meaning of EU competition law requires a written or at least legally binding agreement between the parties. True or false?",
+    "answers": ["False"]
+  },
+  {
+    "question": "Article 101(3) provides a ‘legal exception’ to the prohibition in Article 101(1). Which of the following constituent elements must be satisfied for the application of Article 101(3) TEFU?",
+    "answers": [
+      "An agreement must not afford such undertakings the possibility of eliminating competition in a substantial part of the products in question.",
+      "An agreement must allow consumers a fair share of the resulting benefit.",
+      "An agreement must contribute to improving the production or distribution of goods or to promoting technical or economic progress.",
+      "An agreement must not impose on the undertakings concerned restrictions which are not indispensable to the attainment of these objectives."
+    ]
+  },
+  {
+    "question": "An agreement is void under Article 101(2) TFEU if:",
+    "answers": [
+      "It is fulfilling the conditions of Article 101(1) TFEU and not fulfilling the conditions of Article 101(3) TFEU."
+    ]
+  },
+  {
+    "question": "How can the conditions of 101(3) TFEU be described best?",
+    "answers": ["An exception for agreements which bring about efficiency."]
+  },
+  {
+    "question": "When is a company dominant within the meaning of EU competition law?",
+    "answers": [
+      "When a company’s market position is so strong that it can behave independently of its customers."
+    ]
+  },
+  {
+    "question": "Which of the following abuses is typically not considered to be exclusionary?",
+    "answers": ["Excessive pricing."]
+  },
+  {
+    "question": "Which law regulates mergers in the EU?",
+    "answers": ["Regulation 139/2004"]
+  },
+  {
+    "question": "What are the three conditions set out in the Regulation that need to be fulfilled to intervene in a merger?",
+    "answers": [
+      "EU dimension.",
+      "Significantly impediment of effective competition in particular through creating or strengthening of a dominant position.",
+      "Concentration."
+    ]
+  },
+  {
+    "question": "What is the one-stop shop under the EU merger regulation?",
+    "answers": [
+      "The European Commission, so there is no need to notify elsewhere."
+    ]
+  },
+  {
+    "question": "When is a merger harmful to competition?",
+    "answers": [
+      "Where the merger lessens competition significantly.",
+      "Where the merger creates a dominant position."
+    ]
+  },
+  {
+    "question": "Which law regulates the Commission’s enforcement procedure in competition proceedings relating in particular to cartel and abuse of dominance investigations?",
+    "answers": ["Council Regulation 1/2003."]
+  },
+  {
+    "question": "Which power of the following powers does the European Commission not have within the current enforcement framework?",
+    "answers": ["Wiretap phones of the companies involved."]
+  },
+  {
+    "question": "What is the role of the Court in competition proceedings in the EU?",
+    "answers": [
+      "The Court reviews the European Commission’s decision in EU competition proceedings."
+    ]
+  },
+  {
+    "question": "The Commission may by decision impose fines on undertakings and associations of undertakings where, either intentionally or negligently: (a) they infringe Article 101 or Article 102 of the Treaty; or (b) they contravene a decision ordering interim measures under Article 8; or (c) they fail to comply with a commitment made binding by a decision pursuant to Article 9. For each undertaking and association of undertakings participating in the infringement, the fine shall not exceed 10 % of its total turnover in the preceding business year. Where the infringement of an association relates to the activities of its members, the fine shall not exceed 10 % of the sum of the total turnover of each member active on the market affected by the infringement of the association. True or false?",
+    "answers": ["True"]
+  },
+  {
+    "question": "What could never be considered an undertaking under Article 107 TFEU?",
+    "answers": ["The State itself"]
+  },
+  {
+    "question": "What is the main characteristic of EU State aid control?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which is the supervisory body in State aid procedure?",
+    "answers": ["The European Commission"]
+  },
+  {
+    "question": "What are the consequences of a negative decision in State aid?",
+    "answers": ["The aid must be repaid"]
+  },
+  {
+    "question": "How do we define an ‘undertaking’ in Article 107(1) TFEU?",
+    "answers": [
+      "An entity engaging in economic activity regardless of its legal status or how it is financed"
+    ]
+  },
+  {
+    "question": "What are the consequences for the application of Article 107 TFEU if the State acted like a normal, private investor?",
+    "answers": ["There is no State aid in the meaning of Article 107(1) TFEU"]
+  },
+  {
+    "question": "What provision in the Treaties regulates services of general economic interest?",
+    "answers": ["Article 106 TFEU"]
+  },
+  {
+    "question": "Which of the following is not part of the four main principles of EU public procurement rules?",
+    "answers": ["Cost effectiveness"]
+  },
+  {
+    "question": "Which steps are relevant for a typical procurement procedure under the EU public procurement law?",
+    "answers": [
+      "Publication on the TED",
+      "Standstill period",
+      "Debriefing of the parties",
+      "Submission of bids only until a deadline"
+    ]
+  },
+  {
+    "question": "What are the legal reasons that the EU cannot exclude environmental or social considerations?",
+    "answers": ["Article 7 to Article 14 TFEU"]
+  },
+  {
+    "question": "Which of the following mechanisms was NOT created by the courts to ensure enforcement of EU law at national level:",
+    "answers": ["Private Liability"]
+  }
+]

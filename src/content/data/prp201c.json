@@ -70,7 +70,7 @@
   },
   {
     "question": "Which of the following is a bad Python variable name?",
-    "answers": ["spam.23", "23spam"]
+    "answers": ["spam.23", "23spam", "#spam"]
   },
   {
     "question": "Assume the variable x has been initialized to an integer value (e.g., x = 3). What does the following statement do? 1 x = x + 2",
@@ -993,8 +993,15 @@
   {
     "question": "For this XML Schema: 1 2 3 4 5 6 7 <xs:complexType name=”person”> <xs:sequence> <xs:element name=\"lastname\" type=\"xs:string\"/> <xs:element name=\"age\" type=\"xs:integer\"/> <xs:element name=\"dateborn\" type=\"xs:date\"/> </xs:sequence> </xs:complexType> And this XML, 1 2 3 4 5 6 <person> <lastname>Severance</lastname> <Age>17</Age> <dateborn>2001-04-17</dateborn> </person> Which tag is incorrect?",
     "answers": ["Age"]
-  },{
+  },
+  {
     "question": "For the following Python code to work, what must be added to the title column in the CREATE TABLE statement for the Course table: 1 2 3 4 5 cur.execute('''INSERT OR IGNORE INTO Course (title) VALUES ( ? )''', ( title, ) ) cur.execute('SELECT id FROM Course WHERE title = ? ', (title, )) course_id = cur.fetchone()[0]",
     "answers": ["A UNIQUE constraint"]
+  },
+  {
+    "question": "Which of the following is true about an API?",
+    "answers": [
+      "An API is a contract that defines how to use a software library"
+    ]
   }
 ]

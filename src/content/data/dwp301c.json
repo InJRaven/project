@@ -1,0 +1,3632 @@
+[
+  {
+    "question": "Software plays a crucial role in modern technology, making software engineering an essential discipline. Which of the following best defines software engineering?",
+    "answers": ["The full range of processes involved in software development"]
+  },
+  {
+    "question": "A software development company wants to reduce its development risks and ensure that the project is complete within the timeline with efficiency. Which of the following is best suited in this scenario to achieve the desired goal?",
+    "answers": [
+      "Use software development lifecycle (SDLC) to provide a structured process."
+    ]
+  },
+  {
+    "question": "After a software system is deployed, ongoing updates and issue resolution are required to ensure smooth operation. Which task is typically performed during the maintenance phase of the SDLC?",
+    "answers": ["Resolving minor software bugs and performance issues"]
+  },
+  {
+    "question": "After a software development, a logistics company is reviewing it. Which key activity should they perform primarily to ensure that the product works as expected?",
+    "answers": ["Ensuring the software meets requirements."]
+  },
+  {
+    "question": "Which document will you leverage for the initial planning of an inventory system to track what users expect the system to do, including high-level goals and business requirements?",
+    "answers": ["User requirements specification (URS) document"]
+  },
+  {
+    "question": "An organization is planning its software development approach with a strict step-by-step development process in which one phase must be completed before starting a new phase. Which software development lifecycle (SDLC) model does this scenario describe?",
+    "answers": ["Waterfall"]
+  },
+  {
+    "question": "What is the primary objective of software validation that focuses on user experience?",
+    "answers": ["Making sure the application is usable and accessible"]
+  },
+  {
+    "question": "Your team has completed developing and testing a new software. Which process will you use to create a detailed technical document that helps future developers understand the system architecture and operation?",
+    "answers": ["System documentation"]
+  },
+  {
+    "question": "A tech company is developing a groundbreaking communication platform and needs to determine user interface design responsibilities. Who is primarily responsible for designing the software interface?",
+    "answers": ["UX designer"]
+  },
+  {
+    "question": "In the early planning stages of a complex enterprise software project, the team reviews documentation requirements. Which type of documentation details the software system’s expected features and functionality?",
+    "answers": ["Requirements documentation"]
+  },
+  {
+    "question": "Emma is a fresher in the web application field. She wants to understand technology, she should use it to style content and add interactive features to the applications. Which of the following statements best describes the technology for Emma in this scenario?",
+    "answers": [
+      "HTML defines the structure, CSS adds style, and JavaScript adds interactivity"
+    ]
+  },
+  {
+    "question": "As a front-end developer, you are creating an online shopping website that is both visually appealing and interactive. Which combination of technologies would you primarily use to achieve this?",
+    "answers": ["HTML, CSS, and JavaScript"]
+  },
+  {
+    "question": "In web development, how does the back-end contribute to handling dynamic content and secure transactions?",
+    "answers": [
+      "By managing server-side operations and protecting data integrity"
+    ]
+  },
+  {
+    "question": "Meera tries to log into the website, but receives a 404 error continuously with her credentials. What is the most likely error in the back-end?",
+    "answers": ["Missing endpoints or incorrect routing"]
+  },
+  {
+    "question": "Priya is a junior developer pairing with a senior engineer who directs the implementation but lets her write the code. Which pair programming style are they using?",
+    "answers": ["Strong style"]
+  },
+  {
+    "question": "Alex is planning to build a dynamic user interface for a web application and is evaluating tools that provide a predefined structure and workflow for development. Which of the following development frameworks should Alex use in this scenario?",
+    "answers": ["Vue.js"]
+  },
+  {
+    "question": "While working with the cloud app, your team needs to manage changes in the source code to avoid overwriting each other’s work. Which tool will you use primarily to manage and track code changes during development?",
+    "answers": ["Version control system"]
+  },
+  {
+    "question": "A development team is using a tool that automates code integration and testing, ensuring that all code components work together smoothly. What process are they implementing to automatically build and test your code?",
+    "answers": ["Continuous integration"]
+  },
+  {
+    "question": "A software engineer is using a version control system to manage changes to code over time. Which additional tool can enhance the efficiency of this process by automating tasks such as downloading dependencies and running tests?",
+    "answers": ["Build tool"]
+  },
+  {
+    "question": "As a developer, you are building a data-driven web application using PHP for server-side scripting and MySQL as the database. Which software stack would meet your requirements?",
+    "answers": ["LAMP stack"]
+  },
+  {
+    "question": "A programmer wants to store and manage 1000 integers in a program efficiently. Which programming component should a programmer use?",
+    "answers": ["Container"]
+  },
+  {
+    "question": "A programmer wants to create a simple script that can be edited and executed immediately without the need for compiling it into a separate file. Which of the following types of languages should a programmer use to process directly by an interpreter each time it runs?",
+    "answers": ["They run each time without being compiled."]
+  },
+  {
+    "question": "Which of the following best reflects a characteristic of compiled programming languages?",
+    "answers": ["Requires more coding time but runs faster once installed"]
+  },
+  {
+    "question": "An IT analyst is reviewing a project proposal that involves designing a data management system and interacting directly with database systems. He needs to select an appropriate type of programming language or tool for specific tasks related to querying data, manipulating data, or interacting with hardware. Which of the following statements correctly defines the primary purpose of the query language in this scenario?",
+    "answers": ["To request and manipulate data within a database system"]
+  },
+  {
+    "question": "In programming fundamentals, which logic construct has exactly two possible outcomes (“true” or “false”) and serves as the basis for conditional and repetitive operations?",
+    "answers": ["Boolean expression"]
+  },
+  {
+    "question": "You are creating a program that handles multiple user inputs and makes decisions based on the user’s inputs. You want to organize your code by grouping similar tasks using reusable components. Which of the following is the best approach for organizing code for this scenario?",
+    "answers": [
+      "Create functions or methods for handling specific tasks in your code"
+    ]
+  },
+  {
+    "question": "You are developing a cross-platform application where you want to write a line-by-line code without compiling the entire program list. Which type of code will be used in this scenario?",
+    "answers": ["An interpreted programming language"]
+  },
+  {
+    "question": "A programmer wants to select a control structure for executing one block of code program among the possible blocks based on the value of a variable. Identify a suitable programming construct for this scenario.",
+    "answers": ["switch"]
+  },
+  {
+    "question": "Sofia assigns a label to store values that should never change while her program runs. Which type of identifier should she choose?",
+    "answers": ["Constant"]
+  },
+  {
+    "question": "Anam is discussing the sequence of phases that are required to develop and maintain complex software systems, starting with planning to deployment. Which process should she use for the systematic development of the software?",
+    "answers": ["Software Development Life Cycle (SDLC)"]
+  },
+  {
+    "question": "A team is preparing for a major application overhaul. During a kickoff meeting, the lead architect states that decisions made at this stage will guide design direction and impact future development. What is the team focusing on?",
+    "answers": ["Defining the system’s architectural structure"]
+  },
+  {
+    "question": "The architectural design team has completed its design work and is compiling outputs for documentation. Which of the following would be an expected artifact at this stage?",
+    "answers": [
+      "Unified modeling language (UML) diagrams showing system structure"
+    ]
+  },
+  {
+    "question": "You are tasked to analyze the modelling behaviour of the smart thermostat system for its transition between heating, cooling, and idle states. Which of the following best describes a state transition diagram in unified modeling language (UML)?",
+    "answers": [
+      "A diagram showing various states in the system and events that cause transitions between those states."
+    ]
+  },
+  {
+    "question": "Emly, a software engineer, joins an agile team in the middle of the project. She started reviewing the project’s unified model language (UML) diagrams. How does a UML diagram help Emly in this project to design a software architecture?",
+    "answers": ["They serve to bring new team members up to speed quickly."]
+  },
+  {
+    "question": "You want to design a distributed loan processing system that should continue functioning even if one of the services fails. Which of the following architecture approaches would you choose for your requirement?",
+    "answers": ["Microservices architecture"]
+  },
+  {
+    "question": "A developer is tasked to create patients in object-oriented analysis and design-based healthcare applications, where the action is to cancel appointments for patients. Which approach does the developer use for representing a patient named Maya in the system?",
+    "answers": [
+      "By instantiating the patient class to create an object representing Maya with her specific details and capabilities."
+    ]
+  },
+  {
+    "question": "A developer builds a system where the user interface directly communicates with a server that handles data processing. No separate application logic layer is used. What type of architecture is this?",
+    "answers": [
+      "A 2-tier architecture with client interfaces talking directly to a server"
+    ]
+  },
+  {
+    "question": "You are designing a new social media site and want to build it using modular services that interact via APIs. Which architecture pattern is appropriate for this scenario?",
+    "answers": ["Microservices architecture"]
+  },
+  {
+    "question": "Which environment should a company deploy if they want their employees to use an application that handles thousands of users at one time, ensuring high security and reliability?",
+    "answers": [
+      "Production environment designed for general users to load, secure, and scale data."
+    ]
+  },
+  {
+    "question": "A company wants to ensure that external threats, such as malware or hackers, cannot directly access the internal network in the production environment. Which componentis most suitable to the requirement?",
+    "answers": ["Firewall"]
+  },
+  {
+    "question": "For your e-commerce shopping application, you want to build a part of the application that runs on the user’s device and provides shopping experience, such as browsing products and placing orders. Which layer will you use to complete your application?",
+    "answers": ["Front-end application layer"]
+  },
+  {
+    "question": "Which of the following statements best describes the core professional responsibility of software engineers?",
+    "answers": [
+      "Create innovative software designs addressing practical challenges"
+    ]
+  },
+  {
+    "question": "You’ve expertise in writing code in multiple languages and developing applications. Which of the following skills best suits your expertise?",
+    "answers": ["Technical proficiency"]
+  },
+  {
+    "question": "Sana always helps with project issues by discussing them with her team members and shows flexibility when her manager assigns new tasks. What type of skills does this show?",
+    "answers": ["Interpersonal skills"]
+  },
+  {
+    "question": "The US Bureau of Labor Statistics predicts approximately what percent growth for software developers, analysts, and tests from 2020-2030?",
+    "answers": ["22%"]
+  },
+  {
+    "question": "Maya is considering a career transition into technology and exploring different professional paths. What is the key trait that enables a technical professional to thrive?",
+    "answers": ["Deriving fulfillment from problem-solving"]
+  },
+  {
+    "question": "Sophie is creating user interface and back-end functionalities of an application, handling complete software solutions. Which of the following role best suits her?",
+    "answers": ["Full-stack engineer"]
+  },
+  {
+    "question": "Sonia received feedback on her code submission this morning in a daily feedback meeting. What is her first step during the day?",
+    "answers": [
+      "She revised the code as per her peer’s suggestions to restructure critical methods."
+    ]
+  },
+  {
+    "question": "David is part of the product development team at a tech startup. They’re preparing to launch a new mobile application and want to ensure its reliability and performance before market release. Which technology professional is primarily responsible for validating software performance?",
+    "answers": ["Software quality assurance engineer"]
+  },
+  {
+    "question": "Lama is working on software features that rely on extensive user data which require large user data . He understands that this may risk the security of users’ data. Which of the following code of ethics he is expected to focus on?",
+    "answers": ["Promoting societal well-being"]
+  },
+  {
+    "question": "Which of the following tools are responsible for adding style and flair to enhance the appearance of the webpage?",
+    "answers": ["Cascading Style Sheet (CSS)"]
+  },
+  {
+    "question": "A web developer is focusing on making the visual elements and user interface (UI) of a website more attractive using a JavaScript library. Which is the appropriate tool for a web developer?",
+    "answers": ["React.js"]
+  },
+  {
+    "question": "You are exploring agile practices and starting pair programming with your colleague to work on a new module. You both sit together and start exchanging feedback to work on the new module. Which of the following statements best describes this approach?",
+    "answers": [
+      "Pair programming is a type of agile development where two developers plan and discuss their ideas as they create a solution."
+    ]
+  },
+  {
+    "question": "A software development team is reviewing recent updates in the application’ code. They want to understand the history of these changes. Which kind of information can a version control system help a team understand the code history?",
+    "answers": ["Who changed the code"]
+  },
+  {
+    "question": "Jimmy is responsible for integrating code into the production environment, ensuring smooth deployment, and managing support infrastructure. What type of software engineering role is Jimmy playing?",
+    "answers": ["DevOps engineer"]
+  },
+  {
+    "question": "Priya noticed a performance issue in the application after its deployment. Which technical skill will help her resolve this issue?",
+    "answers": ["Monitoring and troubleshooting"]
+  },
+  {
+    "question": "Which of the following is one key reason for the ongoing high demand for software engineers in tech companies?",
+    "answers": ["Most organizations need software applications and websites."]
+  },
+  {
+    "question": "During a team meeting, Alan, a senior software engineer, asked to create a collaborative environment for team growth. Which responsibility would best fit his position?",
+    "answers": ["Mentors other software engineers."]
+  },
+  {
+    "question": "A development team is building a new app. To stay organized and adapt to changing requirements, they follow the Software Development Lifecycle (SDLC). Which of the following is a key advantage of using the Software Development Life Cycle (SDLC)?",
+    "answers": ["It allows teams to adjust requirements as needed."]
+  },
+  {
+    "question": "Which software development process verifies that the code is readable, maintainable, and follows consistent standards to minimize defects?",
+    "answers": ["Coding for quality"]
+  },
+  {
+    "question": "After the initial meeting with the team members, the team will collaborate with the stakeholders to define the long-term customer satisfaction strategies and specific actions. Which of the following is aimed at while collaborating with the stakeholders?",
+    "answers": ["Establishing goals and objectives"]
+  },
+  {
+    "question": "During project review, you identified that your project’s development approach requires planning and design before starting coding. You also know that most of the client feedback occurs during the testing phase. Which of the following software development methodologies will you leverage in this situation?",
+    "answers": ["Waterfall"]
+  },
+  {
+    "question": "A software engineer is defining attributes for an object in an object-oriented programming language. These attributes store information related to the object, such as its color, size, or name. What are these attributes called?",
+    "answers": ["Property"]
+  },
+  {
+    "question": "You are developing an application and want to ensure that the components are usable on multiple applications without modification. Which characteristic of component design should you prioritize?",
+    "answers": ["Reusable"]
+  },
+  {
+    "question": "Which type of architecture is a computing model in which a server hosts, delivers, and manages most of the resources and services delivered to a client?",
+    "answers": ["2-tier"]
+  },
+  {
+    "question": "Your team is tasked with identifying bugs in the application, ensuring the components in the application work as expected before integrating them into the actual production setup. Which environment will you primarily use in this scenario?",
+    "answers": ["QA"]
+  },
+  {
+    "question": "Which of the following programming languages will you leverage to develop a fast-performing desktop application that should run directly on Windows and macOS without an interpreter?",
+    "answers": ["C++"]
+  },
+  {
+    "question": "A company is developing a web application that allows users to store and manage data efficiently. The system should support adding new records, retrieving stored information, modifying existing data, and removing unnecessary entries. Which set of database operations best supports these requirements?",
+    "answers": ["Create, Read, Update, Delete"]
+  },
+  {
+    "question": "You are working on a game development project, where you want to store players’ names that remain the same throughout the game session. Which type of identifier will you use?",
+    "answers": ["Constant"]
+  },
+  {
+    "question": "What should the developer use to implement functionality, such as creating a block of code that calculates the tax amount flexibly without repeating code?",
+    "answers": ["Function"]
+  },
+  {
+    "question": "Tanya wants to reduce project risks and ensure that her project development process is structured and efficient. Which of the following software development lifecycle (SDLC) benefits does Tanya have in this scenario?",
+    "answers": [
+      "Helps development teams work systematically, improving efficiency and lowering risks."
+    ]
+  },
+  {
+    "question": "A financial institution has launched a new online banking system. After a few months, customers report minor issues with the transaction history not displaying correctly on some devices. What is a key activity performed during the maintenance phase of the SDLC to address such issues?",
+    "answers": ["Correcting minor transaction display errors"]
+  },
+  {
+    "question": "During the final testing of a new e-commerce system, the team wants to confirm that the software performs as defined in the specifications. Which of the following activities should they perform in the testing phase in this scenario?",
+    "answers": ["Checking software against requirements"]
+  },
+  {
+    "question": "A startup company is using a development method where software is built in small increments, allowing frequent testing and feedback at each iteration. What do you call this approach?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "A project is facing structural performance issues because of its poor design system. Who is primarily responsible for such concerns?",
+    "answers": ["Software architect"]
+  },
+  {
+    "question": "Ayesha is designing the layout of a website, focusing on content structure and visual organization. Which technology is she most likely working with?",
+    "answers": ["Hypertext Markup Language (HTML)"]
+  },
+  {
+    "question": "You want to structure the content on a website using headings, paragraphs, lists, and links. Which technology will you use in this scenario?",
+    "answers": ["Hypertext Markup Language (HTML)"]
+  },
+  {
+    "question": "A web application needs to handle dynamic content and secure transactions. What role does the back-end development play?",
+    "answers": ["Processing data requests and securing transactions"]
+  },
+  {
+    "question": "Amal is developing a cloud-based service that needs to retrieve data from a back-end system. Which technology should he use to enable this communication?",
+    "answers": ["Application Programming Interfaces (APIs)"]
+  },
+  {
+    "question": "You are planning a cloud app, process, and need to select the architecture and workflow from the start. Which tool should you use in this scenario?",
+    "answers": ["Framework"]
+  },
+  {
+    "question": "You want to improve the internal structure of your code to make it clear and maintainable, without changing its external behavior. What technique should you apply?",
+    "answers": ["Code refactoring"]
+  },
+  {
+    "question": "Your team is deploying a large application and wants to ensure that code changes are automatically tested and integrated into the main branch. Which tool would best support this scenario?",
+    "answers": ["Continuous integration tool"]
+  },
+  {
+    "question": "A student is learning about different technology combinations used for web development. Which of these represents a complete software stack?",
+    "answers": ["MEAN stack"]
+  },
+  {
+    "question": "Ray is responsible for ensuring all company website pages share the same fonts, colors, and spacing. What technology should he use?",
+    "answers": ["Cascading Style Sheets (CSS)"]
+  },
+  {
+    "question": "What is the primary function of back-end development in a web application that must manage dynamic content and ensure secure user interactions?",
+    "answers": ["Handling data processing and ensuring transaction security"]
+  },
+  {
+    "question": "Carl is writing a failing test, and then Leo implements code to make it pass in a test-driven development environment. For the next feature, Carl and Leo switched their responsibilities. Which pair programming style best suits this scenario?",
+    "answers": ["Ping-pong style"]
+  },
+  {
+    "question": "While testing a new feature in the application, Sofia observed an unexpected behavior in it. She leveraged a tool to step through the code and found the source of the error. What process has she performed to identify the error?",
+    "answers": ["Debugging"]
+  },
+  {
+    "question": "Seeni is managing third-party libraries and ensuring your application always uses the correct versions of dependencies. Which tool would should she use in this scenario?",
+    "answers": ["Package manager"]
+  },
+  {
+    "question": "Rommy is playing a game and has entered a high score on the gaming site. The game programming updates the score based on Rommy’s entered score. Which type of identifier is used in this scenario?",
+    "answers": ["Variable"]
+  },
+  {
+    "question": "Priya is writing a short script in a language that must be processed line by line each time it runs. She does not compile the code in advance. What type of language is she using?",
+    "answers": [
+      "An interpreted language where the code runs without prior compilation"
+    ]
+  },
+  {
+    "question": "Emma is developing a performance-critical desktop application that requires processing large amounts of data using an interpreted or compiled language. She is aware that her choice may affect development time and application performance. In this scenario, which of the following is the advantage of using a compiled language over an interpreted language?",
+    "answers": ["Takes longer to write the code, but it runs faster"]
+  },
+  {
+    "question": "While developing firmware for a custom microcontroller, you want to ensure precise control over hardware functions using a programming language that communicates directly with the CPU using mnemonics. Which of the following statements best describes the role of an assembly language in this scenario?",
+    "answers": [
+      "To write code that interacts directly with CPU registers and memory using mnemonics"
+    ]
+  },
+  {
+    "question": "A student is writing code that needs to evaluate conditions for decision-making. What type of expression evaluates to either “true” or “false” and is commonly used in branching and loop structures?",
+    "answers": ["Boolean expression"]
+  },
+  {
+    "question": "You want to plan a visual logic for your team before they start writing actual code for the new program. You also want to ensure that the code is easy to read, maintain, and scale. Which of the following methods is most suitable for your planning phase of this program?",
+    "answers": [
+      "Use flowchart software to map the process with symbols and arrows"
+    ]
+  },
+  {
+    "question": "While reviewing the program, you noticed that the user information is stored in variables and manipulated through reusable code blocks. Which programming concept should you use to organize the code into reusable and structured parts?",
+    "answers": ["Modular programming"]
+  },
+  {
+    "question": "In software development, which of the following is typically considered the foundation for later design and implementation work?",
+    "answers": ["Early-stage architectural decisions"]
+  },
+  {
+    "question": "Which of the following best represents the states of login, processing, and log out for the user interaction with the system in various phases?",
+    "answers": [
+      "A diagram that illustrates different user states and events that trigger state change."
+    ]
+  },
+  {
+    "question": "A new software team was provided with the unified modeling language (UML) diagram to understand the system’s components and their interactions in software architecture. What is the benefit of UML diagrams in software architecture?",
+    "answers": [
+      "They provide a visual overview for onboarding and collaboration."
+    ]
+  },
+  {
+    "question": "A startup company wants to design an application in which each node captures requests and provides services to the other nodes without a central server. Which of the following architectures is best suited in this scenario?",
+    "answers": ["Peer-to-peer architecture"]
+  },
+  {
+    "question": "Consider a patient, Teena, who wants to interact with the software to cancel her appointments. How would Teena’s instance help developers to use object-oriented analysis and design in this scenario?",
+    "answers": [
+      "Teena acts as an object instantiated from the patient class, which includes general attributes and methods for patients."
+    ]
+  },
+  {
+    "question": "A developer is designing a desktop application where he wants to add a user interface that directly communicates with the central database server to retrieve data. Which of the following statements describes the correct architecture in this scenario?",
+    "answers": [
+      "The interface resides on client machines and requests data or services to a server."
+    ]
+  },
+  {
+    "question": "A startup wants to create a ride-sharing application where user requests trigger notifications to drivers. Which architecture pattern should they use?",
+    "answers": ["Event-driven architecture"]
+  },
+  {
+    "question": "Which component is efficient for diverting heavy website traffic on multiple servers without overloading the main server?",
+    "answers": ["Load balancer"]
+  },
+  {
+    "question": "A software company is developing a new cloud-based software solution and needs to integrate data from multiple external sources into its system. Which component is responsible for retrieving and loading this data?",
+    "answers": ["Data integration layer"]
+  },
+  {
+    "question": "A startup is hiring a software engineer to create an application that helps users track their expenses automatically. What is the primary responsibility of a software engineer in this role?",
+    "answers": ["Develop and design software to address practical challenges."]
+  },
+  {
+    "question": "Which of the following character traits suggests an individual might thrive in a technical career path?",
+    "answers": ["Enjoys solving analytical challenges"]
+  },
+  {
+    "question": "Sini has returned to her desk after the daily feedback meetings. What is the first step for Sini to optimize code performance?",
+    "answers": ["She analyzes profiling logs to detect runtime memory leaks."]
+  },
+  {
+    "question": "Kevin works to identify vulnerabilities in software, using penetration testing tools and encryption methods to strengthen security before product release. What should be Kevin’s job title in this case?",
+    "answers": ["Software security engineer"]
+  },
+  {
+    "question": "Rocky noticed that his company’s software may compromise use privacy. He wants to act responsibly according to professional standards. What is his primary code of ethics?",
+    "answers": ["To serve the public good with fairness and integrity"]
+  },
+  {
+    "question": "Which key considerations drive an organization's selection of cloud computing when considering expenditure for off-the-shelf software and investments in upgrades?",
+    "answers": ["Software as a service and development platforms"]
+  },
+  {
+    "question": "Which of the following statements describes a benefit of cloud computing?",
+    "answers": [
+      "Hardware failures do not result in data loss because of backups maintained on the network"
+    ]
+  },
+  {
+    "question": "Which service provider provides one of the largest cloud-based data management platforms?",
+    "answers": ["Oracle Cloud"]
+  },
+  {
+    "question": "Which service provider uses its cloud platform internally for their end-user products, such as Search and app engines that automatically allocate and de-allocate resources to handle demand?",
+    "answers": ["Google Cloud Platform (GCP)"]
+  },
+  {
+    "question": "Select the answer that best describes how does Cloud Computing helps IoT devices?",
+    "answers": [
+      "Provides the resources to store and process the data produced by IoT devices and users."
+    ]
+  },
+  {
+    "question": "Which of the following code tool will help Sian to structure his web pages, during his web development course project?",
+    "answers": ["Hypertext Markup Language (HTML)"]
+  },
+  {
+    "question": "A developer wants to use a Cascading Style Sheet (CSS) extension that allows variables and nested rules to organize styles better. Which of the following tool is compatible for developers?",
+    "answers": ["Syntactically awesome style sheets (SASS)"]
+  },
+  {
+    "question": "A digital marketing agency wants to design and maintain complex network controllers and operating systems that manage data traffic across platforms. What type of software engineer should they hire?",
+    "answers": ["Systems developer"]
+  },
+  {
+    "question": "During a technical recruitment process for a tech company, hiring managers are evaluating candidates’ technical skills. Which skill can be most objectively assessed during the interview?",
+    "answers": ["Cloud computing"]
+  },
+  {
+    "question": "In this digital world, organizations want to remain competitive and efficient. Hence, they are continuously investing in technical solutions, which build a strong job market. Which of the following factors mainly contributes to the strong job market for software developers?",
+    "answers": ["Most businesses require software applications and websites."]
+  },
+  {
+    "question": "Sana has recently been promoted to a senior software engineer. She wants to understand better how she can help her team beyond writing code. Which of the following tasks aligns primarily with Sana?",
+    "answers": ["Providing guidance and support to junior developers"]
+  },
+  {
+    "question": "Before starting a new project, a project manager conducts a meeting to ensure all the departments, including sales, customer support, and IT, are involved in defining the project scope. This statement caters to which requirement-gathering step?",
+    "answers": ["Identifying requirements"]
+  },
+  {
+    "question": "A project team is working on a project where they need to deliver a complete system before the client performs acceptance testing. Which of the following software development methods is most suitable in this scenario?",
+    "answers": ["Sequential"]
+  },
+  {
+    "question": "While designing a hospital management system using object-oriented analysis and design (OOAD), you explained to the team to build a generalized structure for creating an object like “Patient.” What do you call this generalized template?",
+    "answers": ["Blueprint"]
+  },
+  {
+    "question": "Which characteristic ensures that a component can be expanded with additional functionality without modifying its core structure?",
+    "answers": ["Extensible"]
+  },
+  {
+    "question": "Which architecture style is best suited for the banking system, where the system breaks down its functions into various independently deployable segments communicating over HTTP?",
+    "answers": ["Microservices"]
+  },
+  {
+    "question": "You want to verify the application’s deployment process and user experience in an environment for closely monitoring production, such as configuration and data volumes. Which pre-production environment will you use?",
+    "answers": ["Staging"]
+  },
+  {
+    "question": "Which of the following programming languages will you leverage for updating the core modules of an embedded system that requires conversion of source code to machine code for faster execution?",
+    "answers": ["C"]
+  },
+  {
+    "question": "Which fundamental database operations are represented by the acronym CRUD?",
+    "answers": ["Create, Read, Update, Delete"]
+  },
+  {
+    "question": "Roman wants to track the number of steps a user takes daily, which may vary throughout the day. What should Roman use to store the step count in his application?",
+    "answers": ["Variable"]
+  },
+  {
+    "question": "According to the US National Institute of Standards and Technology (NIST) definition of “cloud computing,” what is the meaning of the statement “a shared pool of configurable computing resources”?",
+    "answers": ["Networks, servers, storage, applications, and services."]
+  },
+  {
+    "question": "What tasks do hypervisors accomplish?",
+    "answers": [
+      "Enable multiple operating systems to run alongside each other and separate VMs logically"
+    ]
+  },
+  {
+    "question": "According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today’s markets?",
+    "answers": ["Data-driven decisions"]
+  },
+  {
+    "question": "Why did American Airlines require a new technology platform?",
+    "answers": [
+      "Requirement for better customer service",
+      "To migrate applications to cloud-native microservices for faster and more reliable customer service"
+    ]
+  },
+  {
+    "question": "Which of the following denotes the relationship between Blockchain, AI, and cloud?",
+    "answers": [
+      "Blockchain provides a decentralized source of truth, AI powers analytics and decision-making, and the cloud provides globally distributed computing resources"
+    ]
+  },
+  {
+    "question": "In which cloud service model does the service provider manage the application data along with the infrastructure and platform resources ?",
+    "answers": ["SaaS"]
+  },
+  {
+    "question": "In which IaaS cloud environment can the customers deploy their middleware and install applications?",
+    "answers": ["Virtual Machines"]
+  },
+  {
+    "question": "What is one of the concerns in cloud infrastructure configuration and management?",
+    "answers": [
+      "Dependency on a third party for workload availability and performance"
+    ]
+  },
+  {
+    "question": "What is the responsibility of a user in the PaaS model?",
+    "answers": ["Application code and its maintenance"]
+  },
+  {
+    "question": "Which capability in the PaaS model eliminates the need for the integration of disparate components?",
+    "answers": ["APIs for services"]
+  },
+  {
+    "question": "Which is a characteristic of the SaaS model?",
+    "answers": ["Applications reside on a remote cloud network"]
+  },
+  {
+    "question": "What is the users’ role in a public cloud?",
+    "answers": ["Users don’t own the servers their applications run on"]
+  },
+  {
+    "question": "What is a feature of a private cloud?",
+    "answers": ["Application portability"]
+  },
+  {
+    "question": "If an organization needs to run a highly sensitive and mission-critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?",
+    "answers": ["Private Cloud"]
+  },
+  {
+    "question": "What do you mean by “cloud bursting”?",
+    "answers": [
+      "You can leverage public cloud instances for a period of time but return to the private cloud when the surge is met"
+    ]
+  },
+  {
+    "question": "Each Cloud Region can have multiple Availability Zones. What are Zones ?",
+    "answers": ["Unique physical locations with one or more data centers"]
+  },
+  {
+    "question": "Which of the following is a benefit of virtualization?",
+    "answers": ["Cost savings"]
+  },
+  {
+    "question": "Which of the following types of Virtual Machine (VM) guarantees resources for future deployments?",
+    "answers": ["Reserved virtual servers"]
+  },
+  {
+    "question": "Which of the following is a feature of bare metal servers?",
+    "answers": ["High performance and secure"]
+  },
+  {
+    "question": "What does a cloud native application consist of?",
+    "answers": ["Microservices"]
+  },
+  {
+    "question": "DevOps and Cloud share a _________ relationship.",
+    "answers": ["Symbiotic"]
+  },
+  {
+    "question": "Fill in the blank. _____________ is a key part of an enterprise’s digital transformation strategy.",
+    "answers": ["Cloud computing"]
+  },
+  {
+    "question": "Which of the following are some best practices organizations must follow to protect their cloud resources and systems?",
+    "answers": [
+      "Adopt a shared responsibility model of active monitoring for security and compliance"
+    ]
+  },
+  {
+    "question": "Which of the following are key Identity and Access Management (IAM) components?",
+    "answers": ["Cloud Directory Services, Audits, and Compliance"]
+  },
+  {
+    "question": "Which of these statements is true of cloud encryption? A. Encryption ensures that only authorized users have access to sensitive data. B. When encrypted data is intercepted without authorization, it is unreadable and meaningless? C. Encryption protects data when it is at rest, in transit, and in use in memo. D. Encryption eliminates data security risks.",
+    "answers": ["A, B, and C only"]
+  },
+  {
+    "question": "What are some of the monitoring tools that help you to gain insights about your posture, compliance, and threats?",
+    "answers": ["Flow logs from the network and security events"]
+  },
+  {
+    "question": "Identify the two main parts of an encryption system from the provided options.",
+    "answers": ["The encryption algorithm and decryption key"]
+  },
+  {
+    "question": "What are some of the benefits that cloud monitoring solutions offer?",
+    "answers": [
+      "Accelerate the diagnosis and resolution of performance incidents and provide proactive notifications of abnormal or unusual situations."
+    ]
+  },
+  {
+    "question": "Your client wants to add a company logo to the homepage using the image path ‘assets/logo.png’. Which HTML tag embeds this image?",
+    "answers": ["<img src=”image URL”>"]
+  },
+  {
+    "question": "Your team is evaluating the updates in HTML specifications for a technical report. Which of the following statements is true for the development of HTML5 specifications?",
+    "answers": [
+      "W3C and WHATWG started collaborating with each other to develop HTML5 in 2007."
+    ]
+  },
+  {
+    "question": "A client wants their site to store data in their local system without a server. How does HTML5 assist with this functionality?",
+    "answers": [
+      "HTML5 requires built-in APIs for local storage of the content."
+    ]
+  },
+  {
+    "question": "A student is editing an HTML file and wants to add comments that won’t show on the webpage. Which syntax should they use?",
+    "answers": ["<!-- This is a comment -->"]
+  },
+  {
+    "question": "Your team is building a web application that must run smoothly on desktops, tablets, and smartphones without separate versions. Which HTML5 feature best supports this requirement?",
+    "answers": ["Support multi-platform development"]
+  },
+  {
+    "question": "How does HTML5 help in optimizing a website for search engines and reducing load time without compromising interactivity and content richness?",
+    "answers": ["Enhances SEO tags and performance through meta tags"]
+  },
+  {
+    "question": "What purpose does the <br> tag serve in HTML?",
+    "answers": ["To add a line break"]
+  },
+  {
+    "question": "Which of the following JavaScript methods should you leverage to build a web form, where you want to retrieve the value entered by a user in a specific text field after clicking a button?",
+    "answers": ["document.getElementByld"]
+  },
+  {
+    "question": "While reviewing a webpage on Firefox, you noticed that the input type=“date” field appears as a regular text box. Does Firefox support this input?",
+    "answers": ["Firefox supports the input type=“date”"]
+  },
+  {
+    "question": "A user wants scripting features to work properly in their browser. Which of the following conditions must be true?",
+    "answers": ["The browser supports scripting."]
+  },
+  {
+    "question": "Ryan, a web developer, is troubleshooting a webpage where an external CSS file does not apply the expected styles. On checking, he noticed that some elements have styles defined using different methods. Which method of applying CSS has the highest priority and will override others?",
+    "answers": ["Inline CSS applied directly to each HTML element"]
+  },
+  {
+    "question": "Select all of the following that are true in describing a fluid and/or fixed layout. Select all that apply.",
+    "answers": [
+      "Elements in a fluid layout have flexible widths and heights",
+      "Fixed layouts are independent of screen sizes, and their values do not change"
+    ]
+  },
+  {
+    "question": "A user fails to submit a form on the website. It shows only the field that is already filled as an example in a light grey color. However, the example text disappears on focus. What is the possible bug here?",
+    "answers": ["The field misses required attributes"]
+  },
+  {
+    "question": "A web designer is using Tailwind CSS to style a button. He wants the button to appear in a different color upon hover. What would you use to apply this style to your website?",
+    "answers": [
+      "A special class modifies the appearance of elements by applying a CSS attribute based on the condition described"
+    ]
+  },
+  {
+    "question": "You are writing a self-contained and meaningful blog using HTML5. Which of the following tags is the most suitable?",
+    "answers": ["<article>"]
+  },
+  {
+    "question": "Your web form shows a selection of regions from the drop-down menu of suggestions. Which HTML5 attribute is suitable in this scenario?",
+    "answers": ["list"]
+  },
+  {
+    "question": "The development team is evaluating CSS frameworks for a client project. When considering a component-based framework, what drawback should they anticipate?",
+    "answers": [
+      "Restricting creative design options to the framework’s predefined component library"
+    ]
+  },
+  {
+    "question": "A developer is building a news website that features multiple stories on the homepage. Which semantic HTML5 tag should be used to wrap each individual news story that could potentially be syndicated or distributed independently?",
+    "answers": ["<article>"]
+  },
+  {
+    "question": "You are creating a structure for a webpage and want it to be accessible and indexable by search engines. Which technology should you use?",
+    "answers": ["HTML"]
+  },
+  {
+    "question": "You’ve embedded a chart using the figure element in your webpage. Now you want to add a descriptive title directly in the chart. Which HTML5 tag will you use to complete this task?",
+    "answers": ["Figcaption"]
+  },
+  {
+    "question": "Which of the following is NOT a method JavaScript uses to display or output information to users?",
+    "answers": ["Changing the server's HTML files automatically"]
+  },
+  {
+    "question": "Which of the following statements correctly describes how the function operates in a JavaScript function that adds two numbers?",
+    "answers": [
+      "Function accepts arguments without their types and returns results of the input types."
+    ]
+  },
+  {
+    "question": "Your team is developing a content management system and needs to access a specific content area using DOM manipulation. Which DOM method would you use to select the div element with id=“content_area”?",
+    "answers": ["document.getElementById(“content_area”)"]
+  },
+  {
+    "question": "What keyword is used to declare a traditional named function in JavaScript?",
+    "answers": ["function"]
+  },
+  {
+    "question": "Mark is writing a JavaScript function and encounters this line of code: var total = 20 + 5 + “4”; What will ‘total’ contain after execution?",
+    "answers": ["“254”"]
+  },
+  {
+    "question": "Which type of node are you referring to while examining a DOM tree in Chrome DevTools for node with integer value 3?",
+    "answers": ["Text"]
+  },
+  {
+    "question": "Which array method would you use if you want to calculate the sum of all order prices in an array?",
+    "answers": ["reduce()"]
+  },
+  {
+    "question": "Select all of the following that are proper ways to add a “color” property to a custom “Car” object.",
+    "answers": [
+      "Modify the code of the Car object directly to add a “color” parameter in the constructor",
+      "Car.prototype.color = “Red”"
+    ]
+  },
+  {
+    "question": "Which of the following JavaScript functions will you use to change the text and formatting inside a div element dynamically?",
+    "answers": ["innerHTML"]
+  },
+  {
+    "question": "Which of the following are primitive data types in JavaScript?",
+    "answers": ["String, Number, Boolean, Undefined, Null"]
+  },
+  {
+    "question": "A team is documenting reports on HTML5 development. Which of the following statements explains the evolution of HTML5 standards?",
+    "answers": [
+      "Web Hypertext Application Technology Working Group has created HTML5."
+    ]
+  },
+  {
+    "question": "Which of the following best suits HTML5 for developing a media-rich website?",
+    "answers": [
+      "HTML5 includes support for audio and video tags to develop a media-rich site."
+    ]
+  },
+  {
+    "question": "During an HTML training, an instructor asks students to hide a note from appearing on the webpage using correct HTML syntax. Which of the following is a correct syntax for this task?",
+    "answers": ["< !-- This is a comment -- >"]
+  },
+  {
+    "question": "Your team is developing an interactive web application that should work across desktops and mobile devices. Which of the following HTML5 features is most likely in this scenario?",
+    "answers": ["Leverages cross-platform and cross-browser compatibility"]
+  },
+  {
+    "question": "A content writer is formatting text and needs to insert a single line break without creating a new paragraph. Which HTML tag should they use?",
+    "answers": ["<br>"]
+  },
+  {
+    "question": "Which of the following methods will you use for listing the script elements embedded in the HTML for debugging purposes?",
+    "answers": ["document.scripts"]
+  },
+  {
+    "question": "Which of the following conditions must be met to enable scripting in browsers?",
+    "answers": ["The browser supports scripting"]
+  },
+  {
+    "question": "Which characteristic of cloud computing enables cost savings by serving multiple consumers?",
+    "answers": ["Resource pooling"]
+  },
+  {
+    "question": "Which 1950s network feature helped evolve Virtual Machines (VMs)?",
+    "answers": ["Shared access to a mainframe"]
+  },
+  {
+    "question": "What are some cloud computing benefits?",
+    "answers": ["Competitive advantage, flexibility, and efficiency"]
+  },
+  {
+    "question": "Which of these vendors is known more for their SaaS offerings?",
+    "answers": ["Salesforce"]
+  },
+  {
+    "question": "How did UBank leverage the cloud to remove barriers to innovation?",
+    "answers": [
+      "By adopting a PaaS cloud development model to streamline development and empower product teams"
+    ]
+  },
+  {
+    "question": "Which of the following is a risk that businesses run if they do not adopt cloud?",
+    "answers": ["Lack of Decision-making capacity"]
+  },
+  {
+    "question": "How does Cloud connectivity support IoT devices?",
+    "answers": ["Serves as a dynamic and scalable collection point"]
+  },
+  {
+    "question": "What is the three-way symbiotic relationship between IoT, AI, and Cloud?",
+    "answers": [
+      "IoT delivers the data, AI powers the insights, and both emerging technologies leverage Cloud's scalability and processing power"
+    ]
+  },
+  {
+    "question": "What is the three-way relationship between blockchain, AI, and the Cloud?",
+    "answers": [
+      "Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and Cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies."
+    ]
+  },
+  {
+    "question": "Subnets are the main area where security is implemented in the cloud. Which of the following is used to provide security at the virtual instance level in subnets?",
+    "answers": ["Security Groups or SGs"]
+  },
+  {
+    "question": "Which of the following is a benefit of isolation of applications in containers?",
+    "answers": [
+      "Preventing malicious code in one container from impacting other containers"
+    ]
+  },
+  {
+    "question": "Which of the following storage types are ephemeral or non-persistent?",
+    "answers": ["Direct Attached storage"]
+  },
+  {
+    "question": "What makes File storage an ideal solution for scenarios where shared storage is required?",
+    "answers": [
+      "File storage can be mounted on multiple compute nodes at the same time"
+    ]
+  },
+  {
+    "question": "Which of the following scenarios is best suited for Block Storage?",
+    "answers": [
+      "Applications that need consistent fast access to the disk, such as databases"
+    ]
+  },
+  {
+    "question": "Which of the following is a feature of Object storage?",
+    "answers": [
+      "You can directly use Object Storage without attaching it to a compute node"
+    ]
+  },
+  {
+    "question": "Which of the following options describes a development principle, or action, for cloud native applications?",
+    "answers": [
+      "Containerize the microservices for maximum flexibility, scalability, and portability."
+    ]
+  },
+  {
+    "question": "Which of the following best describes a key benefit of DevOps in a cloud-native environment?",
+    "answers": [
+      "It leverages cloud technologies for rapid and reliable delivery of applications through automation and collaboration."
+    ]
+  },
+  {
+    "question": "Which of the provided options encapsulates the complete application modernization journey?",
+    "answers": [
+      "The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from the waterfall and agile methodology to DevOps."
+    ]
+  },
+  {
+    "question": "How would a global flower delivery company leverage the Hybrid Multicloud architecture to meet its requirement of varying capacity demands across different geographies?",
+    "answers": [
+      "By distributing their delivery service application across multiple cloud environments and providers spread across multiple geographies."
+    ]
+  },
+  {
+    "question": "Which of the following statements describes the DevOps approach and process?",
+    "answers": [
+      "DevOps process is a collaborative approach that defines how people build, deploy, and manage applications in a cloud-native environment to deliver software continuously."
+    ]
+  },
+  {
+    "question": "Which of these scenarios is NOT a good use case for serverless architecture?",
+    "answers": ["Workloads characterized by long-running processes"]
+  },
+  {
+    "question": "How can the microservices architecture approach be characterized ?",
+    "answers": [
+      "Decomposition of large applications into core functions to construct a comprehensive and functional application."
+    ]
+  },
+  {
+    "question": "Fill in the blank. Microservices architecture is an approach in which a ______________ comprises many loosely coupled and independently deployable smaller components or services.",
+    "answers": ["Single application"]
+  },
+  {
+    "question": "Which of these statements is true of cloud encryption? A. Encryption ensures that only authorized users have access to sensitive data. B. When encrypted data is intercepted without authorization, it is unreadable and meaningless C. Encryption protects data when it is at rest, in transit, and in use in memo. D. Encryption eliminates data security risks.",
+    "answers": ["A, B, and C only"]
+  },
+  {
+    "question": "Identify some of the standard cloud monitoring best practices from the provided options.",
+    "answers": [
+      "Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users and track the usage and cost of your cloud resources and services."
+    ]
+  },
+  {
+    "question": "What are some of the benefits of using access groups?",
+    "answers": [
+      "The use of access groups helps to reduce the number of policies in an account. Access groups provide a more streamlined way to assign access rights."
+    ]
+  },
+  {
+    "question": "The Weather Company migrated its weather web property to a secure, scalable, and global architecture in the IBM Cloud. What benefits did they realize as a result of this migration?",
+    "answers": [
+      "Harness local data centers to minimize latency for users and optimize their systems for elasticity in handling extreme spikes in demand"
+    ]
+  },
+  {
+    "question": "Which of these scenarios are good use cases for Public Cloud? Select two.",
+    "answers": [
+      "Reducing time-to-market for products and services",
+      "Disaster recovery, data protection, and business continuity"
+    ]
+  },
+  {
+    "question": "What do we mean when we say that the Hybrid Cloud is interoperable?",
+    "answers": [
+      "The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization"
+    ]
+  },
+  {
+    "question": "What is the benefit of using private cloud?",
+    "answers": ["Leverage usage of systems directly controlled by organization"]
+  },
+  {
+    "question": "Which of the following refers to a physical location where a cloud provider clusters its infrastructure to deliver services?",
+    "answers": ["Region"]
+  },
+  {
+    "question": "Which of the following VMs use hosted hypervisors?",
+    "answers": ["Oracle VirtualBox"]
+  },
+  {
+    "question": "Which type of Virtual Machine (VM) takes advantage of unused capacity in data centers at a much lower cost than regular VMs of similar sizes?",
+    "answers": ["Transient or Spot VMs"]
+  },
+  {
+    "question": "Why do bare metal servers take longer to provision than virtual servers?",
+    "answers": [
+      "They are physical servers that can be customized to a specified capacity"
+    ]
+  },
+  {
+    "question": "Which part of a logically segmented cloud network is the main area where security is implemented?",
+    "answers": ["Subnets"]
+  },
+  {
+    "question": "Which is a container?",
+    "answers": [
+      "An executable unit of software in which application code is packaged along with its libraries and dependencies, allowing it to be run anywhere"
+    ]
+  },
+  {
+    "question": "Which storage type is sometimes called \"Local Storage\"?",
+    "answers": ["Direct Attached"]
+  },
+  {
+    "question": "What is another name for File Storage?",
+    "answers": ["NFS"]
+  },
+  {
+    "question": "Which of the following is true for block storage?",
+    "answers": ["Can only be attached to one node at a time"]
+  },
+  {
+    "question": "Which of the following is true for Object storage?",
+    "answers": ["You cannot run operating systems or databases"]
+  },
+  {
+    "question": "What is a Content Delivery Network (CDN)?",
+    "answers": ["A distributed server network"]
+  },
+  {
+    "question": "What is serverless computing?",
+    "answers": [
+      "An approach to computing that offloads responsibility for common infrastructure management tasks."
+    ]
+  },
+  {
+    "question": "What is the microservices architecture approach?",
+    "answers": [
+      "An approach in which a single application consists of many loosely coupled and independently deployable smaller components or services"
+    ]
+  },
+  {
+    "question": "Which of the following lists all three microservices communication methods?",
+    "answers": ["APIs, event streaming, and message brokers"]
+  },
+  {
+    "question": "Which of the following contains the two environments where a hybrid cloud environment connects?",
+    "answers": ["Public and private clouds"]
+  },
+  {
+    "question": "Which of the following best describes a multi-cloud strategy?",
+    "answers": ["Cloud adoption strategy"]
+  },
+  {
+    "question": "Which of the following system-level services must be leveraged in cloud native applications due to the complexity of microservices architecture?",
+    "answers": ["Load balancing, service discovery, and routing."]
+  },
+  {
+    "question": "In the context of continuous integration, what does the release of code changes as immutable images imply about system updates?",
+    "answers": [
+      "Any required modification necessitates replacing the entire component."
+    ]
+  },
+  {
+    "question": "Why is DevOps considered a critical component in realizing the benefits of application modernization?",
+    "answers": [
+      "It enables programmable infrastructure that supports speed and resiliency."
+    ]
+  },
+  {
+    "question": "What are the three main areas that cloud monitoring assesses?",
+    "answers": ["Data, applications, and infrastructure."]
+  },
+  {
+    "question": "What does data encryption do?",
+    "answers": ["Scrambles data in a way that makes the data illegible."]
+  },
+  {
+    "question": "What is the purpose of cloud directory services?",
+    "answers": ["Securely manage user profiles and their credentials."]
+  },
+  {
+    "question": "What does a distribute-denial-of-service (DDoS) attack do?",
+    "answers": [
+      "A DDoS attack targets the server in the enterprise by overloading it with traffic from multiple synchronized systems."
+    ]
+  },
+  {
+    "question": "Which is another element of cloud security?",
+    "answers": ["Cloud network security."]
+  },
+  {
+    "question": "Cloud computing is a key part of an enterprise’s digital transformation strategy. True or false.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are some best practices organizations need to follow in order to protect their cloud resources and systems? Select two.",
+    "answers": [
+      "Run security monitoring tools on a periodic basis to ensure security threats and breaches are flagged",
+      "Active monitoring for security and compliance"
+    ]
+  },
+  {
+    "question": "Which of the following are key components of Identity and Access Management (IAM)? Select two.",
+    "answers": ["Cloud Directory Services", "Audit and Compliance"]
+  },
+  {
+    "question": "Which of these statements is true of cloud encryption? A. Encryption ensures only authorized users have access to sensitive data. B. When encrypted data is intercepted without authorization, it is unreadable and meaningless C. Encryption protects data when it is at rest, in transit, and in use in memo. D. Encryption eliminates data security risk",
+    "answers": ["A, B, and C only"]
+  },
+  {
+    "question": "Identify some of the standard cloud monitoring best practices from the provided options. Select two.",
+    "answers": [
+      "Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users.",
+      "Track usage and cost of your cloud resources and services."
+    ]
+  },
+  {
+    "question": "A developer is trying to troubleshoot a webpage where the text color remains red, despite setting that to blue in the internal and external style sheets. What could be the probable reason for this?",
+    "answers": ["Inline CSS applied using the style attribute"]
+  },
+  {
+    "question": "Which of the following statements accurately describes the behavior of fixed and fluid layouts? Select all that apply.",
+    "answers": [
+      "Fluid layouts use relative units to allow elements to scale dynamically.",
+      "Fixed layouts do not change their dimensions regardless of the device."
+    ]
+  },
+  {
+    "question": "You are working on a responsive web design using a CSS framework and need to apply styles based on different states, such as hover or focus. To achieve this, you use a modifier. What is the purpose of a modifier?",
+    "answers": [
+      "A specialized class that adjusts an element’s appearance by applying CSS based on a specified condition"
+    ]
+  },
+  {
+    "question": "You want to create a document page with different themed parts, each with its own heading. What HTML5 tag should you use to group related content with a common theme?",
+    "answers": ["<section>"]
+  },
+  {
+    "question": "A startup is considering using Bootstrap for its new e-commerce platform. What limitations should they be aware of when adopting this component framework?",
+    "answers": ["The pre-built elements may limit design customization."]
+  },
+  {
+    "question": "Which tag is used to represent an independent item of content in a document, which can be meaningful on its own?",
+    "answers": ["<article>"]
+  },
+  {
+    "question": "A developer wants to add interactive features to his application, including validation and animations, to enhance user experience and engagement on a webpage. Which technology should he use?",
+    "answers": ["JavaScript"]
+  },
+  {
+    "question": "You are creating a personal portfolio website and want to include your headshot using a file located at ‘images/profile.jpg’. Which HTML tag will you use?",
+    "answers": ["<img src=\"image URL\">"]
+  },
+  {
+    "question": "You want to test a web form that includes an input type=\"date\" field. When you open this form in Microsoft Edge, you see spinning boxes to select the date. Which of the following describes Edge’s support for input type in this case?",
+    "answers": ["Edge supports the input type=“date”"]
+  },
+  {
+    "question": "JavaScript allows websites to update content dynamically without a full page reload. What feature of JavaScript enables this capability?",
+    "answers": ["Its ability to manipulate the DOM and respond to events"]
+  },
+  {
+    "question": "You have noticed that the JavaScript function named add returns either a number or a concatenated string. Why does this occur?",
+    "answers": [
+      "JavaScript returns results based on the data types and its arguments."
+    ]
+  },
+  {
+    "question": "You’re building a web app that needs to highlight a user profile section when clicked. Which DOM method correctly retrieves the HTML element with id=“user_profile”?",
+    "answers": ["document.getElementById(“user_profile”)"]
+  },
+  {
+    "question": "When creating a function expression in JavaScript, what must you do?",
+    "answers": ["Assign the function to a variable"]
+  },
+  {
+    "question": "What is the main purpose of the map() array method in JavaScript?",
+    "answers": [
+      "To create a new array by transforming each element using a provided function"
+    ]
+  },
+  {
+    "question": "Sophia is learning JavaScript object-oriented programming and wants to add a color property to her “Vehicle” object. Which of the following are valid ways to add the color property? Select all that apply.",
+    "answers": [
+      "Vehicle.prototype.color = “Blue”",
+      "Modify the Vehicle object directly by adding a color parameter in its constructor",
+      "Vehicle.color = “Blue”"
+    ]
+  },
+  {
+    "question": "What is the main characteristic of let in terms of scope?",
+    "answers": [
+      "It is limited to the block enclosed by curly braces {} in which it is defined."
+    ]
+  },
+  {
+    "question": "What is the relation between Git and GitHub?",
+    "answers": ["GitHub is an online hosting service for Git repositories."]
+  },
+  {
+    "question": "Which of the following describes a repository?",
+    "answers": ["A data structure that stores documents and source code"]
+  },
+  {
+    "question": "What is the purpose of a license?",
+    "answers": ["To express how people can use your code"]
+  },
+  {
+    "question": "What is the role of “commit” in GitHub?",
+    "answers": ["To save changes"]
+  },
+  {
+    "question": "What type of version control system is Git?",
+    "answers": ["Distributed"]
+  },
+  {
+    "question": "Which of the following statements is associated with a working directory?",
+    "answers": [
+      "Contains the files and subdirectories on the computer that are associated with a Git repository"
+    ]
+  },
+  {
+    "question": "What happens if you make a change on a repository branch that you don't own?",
+    "answers": ["GitHub makes a pull request"]
+  },
+  {
+    "question": "You need to run three commands to push local changes to the GitHub repository. Which command will you use when your changes are ready to be moved to the GitHub repository?",
+    "answers": ["git push"]
+  },
+  {
+    "question": "What are three commonly used commands for working with remote repositories?",
+    "answers": ["push, pull, fetch"]
+  },
+  {
+    "question": "When managing forks, which command can you use to fetch and merge the remote branch in a single step?",
+    "answers": ["git pull <upstream>"]
+  },
+  {
+    "question": "Which of the following commands is used to make a branch active?",
+    "answers": ["git checkout"]
+  },
+  {
+    "question": "Which command can a developer use to keep up-to-date with the upstream?",
+    "answers": ["git pull <upstream> and git fetch <upstream>"]
+  },
+  {
+    "question": "In Git workflow, which step involves creating a separate workspace for making changes and developing features without interfering with the main codebase?",
+    "answers": [
+      "Creating a branch from the main repository and working on the branch"
+    ]
+  },
+  {
+    "question": "Which of the following commands helps you to view the commit history?",
+    "answers": ["git log"]
+  },
+  {
+    "question": "Which of the following options do you use to request someone to review and approve your project changes before they become final?",
+    "answers": ["Pull request"]
+  },
+  {
+    "question": "What is the primary purpose of version control?",
+    "answers": ["Allows you to keep track of changes to your documents"]
+  },
+  {
+    "question": "Which of the following is a feature of the Git Repository model?",
+    "answers": ["It is a distributed version control system"]
+  },
+  {
+    "question": "What is an “organization” in reference to GitHub?",
+    "answers": ["A collection of user accounts that own repositories"]
+  },
+  {
+    "question": "How will you create a python file in GitHub?",
+    "answers": [
+      "Select Add File > Select Create New File> Provide the file name > Add a comment > Add the code > Commit changes to the repository"
+    ]
+  },
+  {
+    "question": "Which of the following does the main branch store?",
+    "answers": ["The deployable version of the project code"]
+  },
+  {
+    "question": "Which of the following best describes the function of a pull request?",
+    "answers": ["Helps to merge the child branch with the main branch"]
+  },
+  {
+    "question": "Identify the correct statement.",
+    "answers": [
+      "You can add files in the child branch without adding any to the main branch."
+    ]
+  },
+  {
+    "question": "What is meant by an initial commit in a Git workflow?",
+    "answers": [
+      "Officially recording the current state of your project’s files in the local Git repository"
+    ]
+  },
+  {
+    "question": "Which git command allows you to see the state of your working directory and the staged snapshot of your changes?",
+    "answers": ["git status"]
+  },
+  {
+    "question": "Why do you fork a project?",
+    "answers": ["To use an existing repository as the base for a new project"]
+  },
+  {
+    "question": "Which of the following options should be used to fork a repository?",
+    "answers": [
+      "Navigate to the GitHub project and select Fork at the top of the page."
+    ]
+  },
+  {
+    "question": "Which Git command can an integrator use to undo any botched commits?",
+    "answers": ["git revert"]
+  },
+  {
+    "question": "Which of the following describes JSX?",
+    "answers": ["JavaScript XML, a syntax extension for JavaScript"]
+  },
+  {
+    "question": "What tool quickly sets up a new React project with current features like fast refresh and current module replacement?",
+    "answers": ["Vite"]
+  },
+  {
+    "question": "Which describes \"one-way binding\" in React?",
+    "answers": [
+      "Data can only flow from parent components to child components."
+    ]
+  },
+  {
+    "question": "What role does a Virtual DOM have in React?",
+    "answers": ["It changes just the parts of the DOM that need updating."]
+  },
+  {
+    "question": "How does React send data from one class component to another?",
+    "answers": ["By using props"]
+  },
+  {
+    "question": "In addition to componentDidMount(), which method does React invoke to mount a class component?",
+    "answers": ["getDerivedStateFromProps()"]
+  },
+  {
+    "question": "Which method does React call when updating props to reflect that update in the component's state?",
+    "answers": ["getDerivedStateFromProps()"]
+  },
+  {
+    "question": "What happens in React when you attempt to change a state object directly?",
+    "answers": ["It doesn't change the state or cause a re-render."]
+  },
+  {
+    "question": "Which type of syntax does React use to update how the UI should behave when data or states change?",
+    "answers": ["Declarative"]
+  },
+  {
+    "question": "Which of the following shows JSX syntax?",
+    "answers": [
+      "const MyComponent = () => { return ( <> <h1>Hello, World!</h1> <p>This is a JSX component.</p> </> ); }"
+    ]
+  },
+  {
+    "question": "Which React feature eliminates the need for class-based coding because it handles states in function components?",
+    "answers": ["Hooks"]
+  },
+  {
+    "question": "Which directory in the React folder structure contains the source code for the React application?",
+    "answers": ["src"]
+  },
+  {
+    "question": "Which specific file in the React folder structure typically contains essential details such as setup instructions and usage guidelines?",
+    "answers": ["README.md"]
+  },
+  {
+    "question": "Which feature in JavaScript, as part of ES6, addresses the need for handling asynchronous operations?",
+    "answers": ["Promise"]
+  },
+  {
+    "question": "True or False: The JSX syntax is similar to HTML, used by React, and extends ECMAScript.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are the core building blocks of React apps?",
+    "answers": ["Components"]
+  },
+  {
+    "question": "How do you pass data from parent components to child components in React?",
+    "answers": ["With props"]
+  },
+  {
+    "question": "Which statement is true in regard to event handling with React class components?",
+    "answers": [
+      "Class components can respond to user interactions such as clicks, clicks, data entry, and form submissions."
+    ]
+  },
+  {
+    "question": "Which lifecycle method gets called prior to unmounting a class component from the DOM?",
+    "answers": ["componentWillUnmount()"]
+  },
+  {
+    "question": "What purpose do React class components serve?",
+    "answers": ["To modularize code that controls the UI"]
+  },
+  {
+    "question": "How do props contribute to component composition in building complex UIs?",
+    "answers": ["By creating variations of the same component"]
+  },
+  {
+    "question": "Which component composition principle focuses on making reusable components that encapsulate UI features?",
+    "answers": ["Abstraction"]
+  },
+  {
+    "question": "How is the state managed in function components in React?",
+    "answers": ["With the useState hook"]
+  },
+  {
+    "question": "Which phase of the functional component's lifecycle involves responding to changes in the component's state or props and reinvoking the function body?",
+    "answers": ["Updating phase"]
+  },
+  {
+    "question": "Which two phases of functional component's lifecycle are involved in initializing the component and ensuring that errors don't crash the entire application?",
+    "answers": ["Error-handling phase"]
+  },
+  {
+    "question": "In JavaScript, what method should you use to add new items to the end of an array?",
+    "answers": ["push()"]
+  },
+  {
+    "question": "How do you access the first element of an array in JavaScript?",
+    "answers": ["arr[0]"]
+  },
+  {
+    "question": "In React, what method would you commonly use to render lists of elements dynamically?",
+    "answers": ["map()"]
+  },
+  {
+    "question": "How does React quickly update the DOM when props or state changes?",
+    "answers": [
+      "By using the Virtual DOM to compute the minimal set of changes needed"
+    ]
+  },
+  {
+    "question": "Which of these is true about React's Virtual DOM?",
+    "answers": [
+      "It's a lightweight, in-memory representation of the actual DOM."
+    ]
+  },
+  {
+    "question": "When using the useEffect hook, what happens if you pass an empty array ([]) as the dependency list?",
+    "answers": ["The effect runs only once, when the component first mounts."]
+  },
+  {
+    "question": "Which hook would you recommend to manage side effects?",
+    "answers": ["useEffect"]
+  },
+  {
+    "question": "Why would you need to create a custom hook?",
+    "answers": ["To share reusable stateful logic across components"]
+  },
+  {
+    "question": "Which hook would you recommend for making HTTP requests within React functional components?",
+    "answers": ["useEffect"]
+  },
+  {
+    "question": "Which of the following is a standard method used to fetch data from an external API?",
+    "answers": ["Fetch API"]
+  },
+  {
+    "question": "What is Redux primarily used for in React applications?",
+    "answers": ["Managing application state"]
+  },
+  {
+    "question": "What is a benefit of using Redux in application development?",
+    "answers": ["Redux makes state prediction easier."]
+  },
+  {
+    "question": "What architectural elements does Redux primarily use to manage an application's states?",
+    "answers": ["Actions, the store, and reducers"]
+  },
+  {
+    "question": "Which of the following accurately describes the role of reducers in Redux?",
+    "answers": [
+      "Receiving the current state and an action object and returning a new state after performing the actions"
+    ]
+  },
+  {
+    "question": "Which two main types of middleware commonly handle asynchronous operations in Redux?",
+    "answers": ["Thunk and Saga"]
+  },
+  {
+    "question": "Which of the following function component principles helps you identify errors well?",
+    "answers": ["Unidirectional data flow"]
+  },
+  {
+    "question": "What purpose does higher-order function component composition serve?",
+    "answers": ["Adding features without rewriting code"]
+  },
+  {
+    "question": "How does the hierarchy principle benefit component organization in React?",
+    "answers": ["It provides modular design using parent-child components."]
+  },
+  {
+    "question": "Which hook function should you use to update the user's name from \"Marie\" to \"Marie Torres\" in React?",
+    "answers": ["setName(\"Marie Torres \")"]
+  },
+  {
+    "question": "If you allow users to collapse or expand a section for better readability, which approach would provide the best user experience to control screen clutter?",
+    "answers": ["Use useState for rendering the conditional information."]
+  },
+  {
+    "question": "Which phase of a functional component's lifecycle does React use to initialize a component and prepare it for rendering on the DOM?",
+    "answers": ["Mounting phase"]
+  },
+  {
+    "question": "Examine the following code: useEffect(() => { fetch('https://api.example.com/products') .then(response => response.json()) .then(data => setProducts(data)) .catch(error => console.error('Error fetching products:', error)); }, [ ]); What purpose does the empty dependency array, [], serve?",
+    "answers": [
+      "It fetches the product data only once when the component mounts."
+    ]
+  },
+  {
+    "question": "Which of the following methods directly removes elements from an array by modifying the original array?",
+    "answers": ["splice"]
+  },
+  {
+    "question": "Which of the following can you use to provide additional data about an HTML element?",
+    "answers": ["Attributes"]
+  },
+  {
+    "question": "Which key benefit of React's virtual DOM enables efficient updates?",
+    "answers": ["Re-rendering only the updated component"]
+  },
+  {
+    "question": "What hook can you use to manage a form's state in React?",
+    "answers": ["useState"]
+  },
+  {
+    "question": "Which hook should you use to handle asynchronous logic in functional components?",
+    "answers": ["useEffect"]
+  },
+  {
+    "question": "How can you trigger an effect to run only once after the initial render in a functional component?",
+    "answers": ["With the useEffect hook and an empty dependency array"]
+  },
+  {
+    "question": "How can you handle form submission in React?",
+    "answers": ["With the onSubmit event"]
+  },
+  {
+    "question": "How can you handle user input in a controlled component in React?",
+    "answers": ["With the onChange event handler to update the state"]
+  },
+  {
+    "question": "What is an advantage of using Redux Thunk middleware?",
+    "answers": ["Thunk enables async operations without boilerplate code."]
+  },
+  {
+    "question": "What is Redux Toolkit primarily used for?",
+    "answers": ["Reducing boilerplate code"]
+  },
+  {
+    "question": "Which function from the Redux Toolkit consolidates Redux setup logic into a single function call?",
+    "answers": ["configureStore()"]
+  },
+  {
+    "question": "What is the purpose of a Redux slice?",
+    "answers": [
+      "To divide the application states into several parts and manage their updates"
+    ]
+  },
+  {
+    "question": "Which middleware is commonly used with Redux to handle asynchronous actions and side effects?",
+    "answers": ["Redux Thunk"]
+  },
+  {
+    "question": "In what manner do network operations run?",
+    "answers": ["Asynchronous"]
+  },
+  {
+    "question": "For which of the following events would you write a callback function in Node.js?",
+    "answers": ["When the network operation completes."]
+  },
+  {
+    "question": "Where in the callback function does a Node.js generally pass an error object?",
+    "answers": ["The first parameter"]
+  },
+  {
+    "question": "What do you use response.end for?",
+    "answers": ["To end the request and send a response to the client"]
+  },
+  {
+    "question": "Which of the following can be helpful to mitigate the issue of needing nested callbacks in order to make something happen sequentially?",
+    "answers": ["async/await"]
+  },
+  {
+    "question": "What do you use to convert a JavaScript object to a string?",
+    "answers": ["Method JSON.stringify()"]
+  },
+  {
+    "question": "A promise is defined as an object returned by an asynchronous method that has three states. Which of the following is one of the states?",
+    "answers": ["Resolved"]
+  },
+  {
+    "question": "Which npm package is used to generate a JSON web token?",
+    "answers": ["jsonwebtoken"]
+  },
+  {
+    "question": "Which of the following npm commands is a best practice to use when installing dependencies?",
+    "answers": ["npm install --save"]
+  },
+  {
+    "question": "What can you use to manage Node.js packages in your Node.js framework?",
+    "answers": ["npm application"]
+  },
+  {
+    "question": "What are two different types of patterns that web frameworks employ?",
+    "answers": [
+      "Model-View-Controller (MVC) and Representational State Transfer APIs (REST API)"
+    ]
+  },
+  {
+    "question": "When Node.js receives the final part of the HTTP response message, what event handler does it call?",
+    "answers": ["response.on(‘end’)"]
+  },
+  {
+    "question": "How can you obtain public data and information from an external web server?",
+    "answers": ["Send an HTTP request"]
+  },
+  {
+    "question": "You can use the app.get() method to handle requests in Express. What does the app.get() method call look like?",
+    "answers": ["app.get(path, callback)"]
+  },
+  {
+    "question": "Which of the following is one of the five steps needed to work with Express?",
+    "answers": ["Create a new route handler"]
+  },
+  {
+    "question": "Which statement is true regarding passwordless authorization?",
+    "answers": [
+      "They gain access to the system by demonstrating they possess a factor that proves their identity such as biometrics or a “magic link”."
+    ]
+  },
+  {
+    "question": "What technology do web servers use to respond to client requests?",
+    "answers": ["HTTP"]
+  },
+  {
+    "question": "What is a popular format for sending data to REST services over HTTP?",
+    "answers": ["JSON"]
+  },
+  {
+    "question": "Which of the following is true regarding the import() function but NOT the require() function?",
+    "answers": ["It must be called at the beginning of the file."]
+  },
+  {
+    "question": "How can you handle incoming request messages and return response messages with a web server?",
+    "answers": ["Develop a callback function"]
+  },
+  {
+    "question": "How do you make a function or a value available to Node.js applications that import your module?",
+    "answers": ["Add a property to exports"]
+  },
+  {
+    "question": "If you find a module written by someone else on the internet with a copyleft license, what type of node module is this considered?",
+    "answers": ["Third-party"]
+  },
+  {
+    "question": "What is the function of a package manager?",
+    "answers": ["Automates dependency package configuration"]
+  },
+  {
+    "question": "What would you use let today = require('./today’); for?",
+    "answers": ["To import a Node.js module"]
+  },
+  {
+    "question": "Which of the following is a back-end technology?",
+    "answers": ["Web API"]
+  },
+  {
+    "question": "What quality makes it possible for you to run JavaScript applications without compiling?",
+    "answers": ["JavaScript is an interpreted language."]
+  },
+  {
+    "question": "Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?",
+    "answers": ["REST Web Service"]
+  },
+  {
+    "question": "Which of the following is a difference between ES and CommonJS modules?",
+    "answers": [
+      "ES modules use the import() statement whereas CommonJS modules use require()."
+    ]
+  },
+  {
+    "question": "How do you handle operation results with Node.js?",
+    "answers": [
+      "Write callback functions to handle results when the operations complete"
+    ]
+  },
+  {
+    "question": "What do you use the http.createServer function for?",
+    "answers": ["To create an instance of a web server"]
+  },
+  {
+    "question": "Which core Node.js module can be used for input and output (I/O)?",
+    "answers": ["fs"]
+  },
+  {
+    "question": "Which is an aspect of Node Package Manager (NPM)?",
+    "answers": [
+      "It functions as a command line interface for installing packages"
+    ]
+  },
+  {
+    "question": "What do you use the require function for?",
+    "answers": ["To import a Node.js module"]
+  },
+  {
+    "question": "What happens when a module does not have a package.json file?",
+    "answers": [
+      "The require statement assumes that scripts have a file extension of js."
+    ]
+  },
+  {
+    "question": "What best describes the network operations that Node.js makes?",
+    "answers": [
+      "Non-blocked operations return immediately without added processing time on the server"
+    ]
+  },
+  {
+    "question": "Before the Node.js framework receives the HTTP response message from the remote web server, it immediately returns a result for the http.request function call. What does this result state?",
+    "answers": ["A request is in progress."]
+  },
+  {
+    "question": "What parameter is optional in an HTTP request?",
+    "answers": ["Callback function parameter"]
+  },
+  {
+    "question": "What object do Node.js modules in the SDK pass as the first parameter in a callback function?",
+    "answers": ["Error"]
+  },
+  {
+    "question": "What do you pass back in the callback handler to indicate a successful return?",
+    "answers": ["Null object"]
+  },
+  {
+    "question": "Which function calls the resultCallback callback function to return results to the main application?",
+    "answers": ["result()"]
+  },
+  {
+    "question": "Why can inversion of control be an issue when using callbacks?",
+    "answers": [
+      "Callbacks sometimes hand over control to third-party code which can make errors hard to identify"
+    ]
+  },
+  {
+    "question": "JSON is the standard format for API data exchange. What relationship does JSON have with Node.js?",
+    "answers": ["Standard representation of native JavaScript objects"]
+  },
+  {
+    "question": "When an error occurs, which state is the promise at?",
+    "answers": ["Rejected"]
+  },
+  {
+    "question": "The axios package handles HTTP requests in Node.js and returns a promise object. The promise object has a method that is called after the promise completes. What method does the promise object use?",
+    "answers": ["then"]
+  },
+  {
+    "question": "One disadvantage of manual parsing is that string matching ignores the XML data structure. However, depending on XML data complexity, string matching might be more efficient than what?",
+    "answers": ["An XML tree of the data"]
+  },
+  {
+    "question": "Which type of authentication is widely used for password recovery by providing a magic link to the user?",
+    "answers": ["Passwordless"]
+  },
+  {
+    "question": "Which term describes starting server and bind it to a specific port for handling incoming requests?",
+    "answers": ["app.listen"]
+  },
+  {
+    "question": "The Node.js framework doesn't provide many features for building web apps. What do developers rely on to extend Node.js features?",
+    "answers": ["External libraries and packages"]
+  },
+  {
+    "question": "Which statement regarding the jsonwebtoken.verify() method is true?",
+    "answers": ["It is used to verify a JSON web token"]
+  },
+  {
+    "question": "Unlike Node.js, which deals with HTTP at a lower level, Express provides an app class to serve what function?",
+    "answers": ["Map to a web resource path"]
+  },
+  {
+    "question": "Which web application framework is based on the Node.js runtime environment?",
+    "answers": ["Express"]
+  },
+  {
+    "question": "Which Node.js package can parse a string of XML elements into a JavaScript object?",
+    "answers": ["xml2js"]
+  },
+  {
+    "question": "Which library and module are commonly used for performing black-box testing of REST APIs?",
+    "answers": ["Mocha/SuperTest"]
+  },
+  {
+    "question": "Which of the following kind of task is middleware most useful for?",
+    "answers": ["Error handling"]
+  },
+  {
+    "question": "After executing the following lines of code, what value does x hold? x = 5 x = x – 2",
+    "answers": ["3"]
+  },
+  {
+    "question": "What is the output of the following operation in Python? 2 + 3 * 4 / 2",
+    "answers": ["8.0"]
+  },
+  {
+    "question": "Which statement accurately describes Python’s dynamic typing system?",
+    "answers": [
+      "Python automatically determines variable types based on assigned values."
+    ]
+  },
+  {
+    "question": "What is the relationship between Boolean values and integers in Python?",
+    "answers": [
+      "Boolean True converts to 1 and False converts to 0 when cast to integers."
+    ]
+  },
+  {
+    "question": "In Python, what is the output of the following operation? '5' + '6'",
+    "answers": ["'56'"]
+  },
+  {
+    "question": "A content management system needs to standardize how article titles are displayed. If a writer submits the title “data science basics” stored in the variable article_title, which method would transform it to “Data Science Basics”?",
+    "answers": ["article_title.title()"]
+  },
+  {
+    "question": "What is the significance of index positions in Python strings?",
+    "answers": [
+      "Index positions allow access to individual characters at specific locations in a string."
+    ]
+  },
+  {
+    "question": "A startup company needs to choose a programming language for its new project. They require rapid development, good community support, and versatility across different domains. Why would Python be a suitable choice?",
+    "answers": [
+      "Python’s simple syntax and extensive libraries enable faster development and diverse applications."
+    ]
+  },
+  {
+    "question": "What is a key feature of Jupyter Notebooks?",
+    "answers": [
+      "Interactive cells that can combine code, visualizations, and markdown text"
+    ]
+  },
+  {
+    "question": "What will be the output of the following code? print(\"Python is \\\"awesome\\\"\")",
+    "answers": ["Python is \"awesome\""]
+  },
+  {
+    "question": "A data scientist stores experiment results in a tuple structure. The results are organized as experiment_data= ((1.5, 2.7), [3.6, 4.1]) where the first element is a tuple of control group measurements and the second is a list of test group measurements. Which code would the scientist use to access only the test group measurements?",
+    "answers": ["experiment_data[1]"]
+  },
+  {
+    "question": "Consider the tuple A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2]?",
+    "answers": ["[4]"]
+  },
+  {
+    "question": "Which statement correctly explains the difference between the append() and extend() methods for Python lists?",
+    "answers": [
+      "append() adds an object as a single element, while extend() adds each element of an iterable individually."
+    ]
+  },
+  {
+    "question": "A web developer maintains a navigation menu stored as a list: nav_menu = [\"Home\", \"Products\", \"About Us\", \"Contact\"]. After user testing, they decided to remove the \"Products\" page. What will the navigation menu contain after executing del(nav_menu[1])?",
+    "answers": ["[\"Home\", \"About Us\", \"Contact\"]"]
+  },
+  {
+    "question": "What is the importance of creating proper copies of lists in Python rather than using direct assignment?",
+    "answers": [
+      "Changes to a copied list will not affect the original list, while changes to an assigned list will."
+    ]
+  },
+  {
+    "question": "What would be the result of (\"Python\", \"Data\", \"Science\")[1:3]?",
+    "answers": ["(\"Data\", \"Science\")"]
+  },
+  {
+    "question": "Consider the following dictionary: {\"The Bodyguard\":\"1992\", \"Saturday Night Fever\":\"1977\"}. Select the values.",
+    "answers": ["\"1977\" and \"1992\""]
+  },
+  {
+    "question": "The variable release_year_dict is a Python dictionary. What is the outcome of applying the following method? release_year_dict.values()",
+    "answers": ["Retrieves the values of the dictionary"]
+  },
+  {
+    "question": "Consider the set: V={'A','B'}, what is the result of V.add('C')?",
+    "answers": ["{'A','B','C'}"]
+  },
+  {
+    "question": "Which operation would you use to combine all unique elements from two sets, A and B?",
+    "answers": ["A.union(B) or A | B"]
+  },
+  {
+    "question": "A traffic management system uses the following code to control pedestrian crossing signals: signal_state = \"Red\" if signal_state == \"Green\": print(\"Walk\") else: print(\"Wait\") print(\"Look both ways\") What message will pedestrians see on the display?",
+    "answers": ["Wait Look both ways"]
+  },
+  {
+    "question": "Which of the following is the true value of x after the following lines of code? x = 1 x = x > 5",
+    "answers": ["x=-1"]
+  },
+  {
+    "question": "What characteristic of a while loop determines when it will terminate execution?",
+    "answers": ["The evaluation of its conditional expression to False"]
+  },
+  {
+    "question": "What is the purpose of the __init__ method in a Python class definition?",
+    "answers": [
+      "To automatically initialize object attributes when instances are created."
+    ]
+  },
+  {
+    "question": "What fundamental capability does the enumerate() function provide that a standard loop does not?",
+    "answers": [
+      "It automatically tracks both the index position and element value simultaneously."
+    ]
+  },
+  {
+    "question": "What is the result of running the following lines of code? class Points(object): def init(self, x, y): self.x = x self.y = y def print_point(self): print('x=', self.x, ' y=', self.y) p2 = Points(1, 2) p2.x = 'A' p2.print_point()",
+    "answers": ["x= A y=2"]
+  },
+  {
+    "question": "Given the conditional function delta, under what circumstances does this function evaluate unity? def delta(x): if x == 0: y = 1 else: y = 0 return y",
+    "answers": ["When the parameter equals zero"]
+  },
+  {
+    "question": "What is the output of the following line of code? a = 1 def do(x): a = 100 return x + a print(do(1))",
+    "answers": ["101"]
+  },
+  {
+    "question": "Which of the following functions will correctly perform the addition of two numbers?",
+    "answers": ["def add(a, b): c = a + b return(c)"]
+  },
+  {
+    "question": "What constitutes the primary rationale for implementing granular exception handling with explicitly typed catch blocks?",
+    "answers": [
+      "To identify precise exception classification and source location"
+    ]
+  },
+  {
+    "question": "In a machine learning algorithm, two feature vectors are represented as NumPy arrays: a=np.array([-1,1]) and b=np.array([1,1]). What will be returned when calculating np.dot(a,b)?",
+    "answers": ["0"]
+  },
+  {
+    "question": "How do you perform matrix multiplication on the Numpy arrays A and B?",
+    "answers": ["np.dot(A,B)"]
+  },
+  {
+    "question": "If you run the following lines of code, what values will the variable “out” take? X=np.array([[1,0,1],[2,2,2]]) out=X[0:2,2]",
+    "answers": ["array([1,2])"]
+  },
+  {
+    "question": "What happens when you multiply a NumPy array by a scalar value?",
+    "answers": ["Each element in the array is multiplied by the scalar value"]
+  },
+  {
+    "question": "Consider the following text file: Example1.txt: This is line 1 This is line 2 This is line 3 What is the output of the following lines of code? with open(\"Example1.txt\",\"r\") as file1: FileContent=file1.read() print(FileContent)",
+    "answers": ["This is line 1 This is line 2 This is line 3"]
+  },
+  {
+    "question": "When would you use the “a” mode with the open() function?",
+    "answers": [
+      "When you want to add content to an existing file without overwriting it"
+    ]
+  },
+  {
+    "question": "How can you write multiple lines to a file at once using a list?",
+    "answers": [
+      "Use a for loop to iterate through the list, writing each element with write()"
+    ]
+  },
+  {
+    "question": "What is the difference between the “w” and “a” modes when opening a file?",
+    "answers": ["“w” overwrites the file while “a” adds to the end of the file"]
+  },
+  {
+    "question": "What's the difference between loc and iloc methods in pandas?",
+    "answers": [
+      "loc uses labels for indexing, while iloc uses integer positions"
+    ]
+  },
+  {
+    "question": "How can you create a DataFrame from a dictionary in pandas?",
+    "answers": ["pd.DataFrame(dictionary)"]
+  },
+  {
+    "question": "What are the three parts of a response message?",
+    "answers": ["Start or status line, header, and body"]
+  },
+  {
+    "question": "A data scientist is scraping a webpage containing NBA player salaries. After creating the BeautifulSoup object, what would be the next step to extract all player names stored in “h3” tags?",
+    "answers": ["Use soup.find_all('h3') to create a list of all h3 elements"]
+  },
+  {
+    "question": "What data structure do HTTP responses typically use for their return?",
+    "answers": ["JSON"]
+  },
+  {
+    "question": "When creating a candlestick chart for cryptocurrency prices, what data processing step was used to prepare the time-based data?",
+    "answers": [
+      "Using the pandas to_datetime function to convert UNIX timestamps to readable dates"
+    ]
+  },
+  {
+    "question": "A web developer is creating an HTML table showing quarterly sales results. How should they structure the HTML to display this tabular data properly?",
+    "answers": [
+      "Use a <table> tag with <tr> tags for rows and <td> tags for cells"
+    ]
+  },
+  {
+    "question": "What is the difference between GET and POST HTTP methods when making requests?",
+    "answers": [
+      "GET requests include data in the URL, while POST requests send data in the request body."
+    ]
+  },
+  {
+    "question": "A financial analyst needs to access cryptocurrency price data for analysis. Which API wrapper mentioned in the course would be most suitable?",
+    "answers": [
+      "PyCoinGecko, which provides cryptocurrency data updated every minute"
+    ]
+  },
+  {
+    "question": "What Python library would you use to parse XML files?",
+    "answers": ["xml.etree"]
+  },
+  {
+    "question": "A developer is creating an application that needs to retrieve data from a REST API. Which code snippet correctly sends a GET request with parameters?",
+    "answers": [
+      "import requests; payload = {'name': 'John', 'ID': '123'}; r = requests.get('https://api.example.com/data', params=payload)"
+    ]
+  },
+  {
+    "question": "What is the first step in creating a BeautifulSoup object for web scraping?",
+    "answers": ["Import BeautifulSoup and parse the HTML content"]
+  },
+  {
+    "question": "What data type does the value 1.0 belong to?",
+    "answers": ["float"]
+  },
+  {
+    "question": "Given the string Name=\"EMILY\", which statement would provide the index of 0?",
+    "answers": ["Name.find(\"E\")"]
+  },
+  {
+    "question": "What does the code segment 1/2 produce as a result?",
+    "answers": ["0.5"]
+  },
+  {
+    "question": "How many identical keys can a dictionary have?",
+    "answers": ["1"]
+  },
+  {
+    "question": "What is the syntax to obtain the first element of the tuple? A=('a','b','c')",
+    "answers": ["A[0]"]
+  },
+  {
+    "question": "What does the split() method return from a list of words?",
+    "answers": [
+      "A list of substrings split based on a specified delimiter (or whitespace by default)."
+    ]
+  },
+  {
+    "question": "How do you cast the list A to the set a?",
+    "answers": ["a=set(A)"]
+  },
+  {
+    "question": "What will be the output if x=7? if(x!=1): print('Hi') else: print('Hello') print('Mike')",
+    "answers": ["Hi Mike"]
+  },
+  {
+    "question": "What is the process of forcing your program to output a pre-decided error message when it encounters an issue?",
+    "answers": ["Exception handling"]
+  },
+  {
+    "question": "What add function would return the value 4?",
+    "answers": ["def add(x): return(x + x) add(2)"]
+  },
+  {
+    "question": "What code segment would output the following? 1 3 4",
+    "answers": ["for i in range(1,5): if (i!=2): print(i)"]
+  },
+  {
+    "question": "What is the width of the rectangle in the class Rectangle? class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show()",
+    "answers": ["2"]
+  },
+  {
+    "question": "Which method arranges the elements in a given list in a particular ascending or descending order?",
+    "answers": ["sort()"]
+  },
+  {
+    "question": "What outcome do the following lines of code produce? a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a*b",
+    "answers": ["array([0, 0, 0, 0, 0])"]
+  },
+  {
+    "question": "What outcome do the following lines of code produce? a=np.array([10,9,8,7,6]) a+1",
+    "answers": ["array([11,10,9,8,7])"]
+  },
+  {
+    "question": "How would you select the columns with the headers: Artist, Length and Genre from the dataframe df and assign them to the variable y?",
+    "answers": ["y=df[['Artist','Length','Genre']]"]
+  },
+  {
+    "question": "Given the file object named file1, what output would the following line of code produce? for n in range(0, 2): print(file1.readline())",
+    "answers": ["It would output the first 2 lines from the text file."]
+  },
+  {
+    "question": "Which line of code is in the mode of append?",
+    "answers": ["with open(\"Example.txt\",\"a\") as file1:"]
+  },
+  {
+    "question": "What is scheme, internet address and route a part of?",
+    "answers": ["URL"]
+  },
+  {
+    "question": "Which response code series indicates the successful execution of the requested operation?",
+    "answers": ["200"]
+  },
+  {
+    "question": "What is the data type of the entity 43?",
+    "answers": ["int"]
+  },
+  {
+    "question": "What data type does 3.12323 represent?",
+    "answers": ["float"]
+  },
+  {
+    "question": "What is the result of the following: int(3.99)?",
+    "answers": ["3"]
+  },
+  {
+    "question": "What is the result of the operation: 11//2",
+    "answers": ["5"]
+  },
+  {
+    "question": "What is the value of x after the following is run: x=4 x=x/2",
+    "answers": ["2.0"]
+  },
+  {
+    "question": "Which line of code will perform the action as required for implementing the following equation? y = 2 x 2 − 3 y=2x 2 −3 y, equals, 2, x, squared, minus, 3",
+    "answers": ["y = 2*x*x – 3"]
+  },
+  {
+    "question": "What is the result of the following? Name[-1] Alternate text: Image with numbers zero to fourteen and a name – Michael Jackson",
+    "answers": ["\"n\""]
+  },
+  {
+    "question": "What is the result of the following? print(\"AB\\nC\\nDE\")",
+    "answers": ["AB C DE"]
+  },
+  {
+    "question": "What is the output of the following? \"helloMike\".find(\"Mike\")",
+    "answers": ["5"]
+  },
+  {
+    "question": "Consider the following tuple: say_what=('say','what','you','will') What is the result of the following? say_what[-1]",
+    "answers": ["'will'"]
+  },
+  {
+    "question": "Consider the following tuple A=(1,2,3,4,5). What is the outcome of the following? A[1:4]",
+    "answers": ["(2, 3, 4)"]
+  },
+  {
+    "question": "Consider the following list B=[1,2,[3,'a'],[4,'b']]. What is the result of B[3][1]?",
+    "answers": ["‘b’"]
+  },
+  {
+    "question": "What is the outcome of the following operation? [1,2,3] + [1,1,1]",
+    "answers": ["[1, 2, 3, 1, 1, 1]"]
+  },
+  {
+    "question": "What will be the length of the list A after executing the following code: 1 2 A = [1] A.append([2, 3, 4, 5])",
+    "answers": ["2"]
+  },
+  {
+    "question": "What are the keys of the following dictionary? {\"a\":1,\"b\":2}",
+    "answers": ["[\"a\",\"b\"]"]
+  },
+  {
+    "question": "Consider the following Python Dictionary: Dict={\"A\":1,\"B\":\"2\",\"C\":[3,3,3],\"D\":(4,4,4),'E':5,'F':6} What will be the outcome of the following operation? Dict[\"D\"]",
+    "answers": ["(4, 4, 4)"]
+  },
+  {
+    "question": "Which of the following is the correct syntax to extract the keys of a dictionary as a list?",
+    "answers": ["list(dict.keys())"]
+  },
+  {
+    "question": "Consider the following set: {\"A\",\"A\"}, what will the result be when you create the set?",
+    "answers": ["{\"A\"}"]
+  },
+  {
+    "question": "What method do you use to add an element to a set?",
+    "answers": ["Add"]
+  },
+  {
+    "question": "What is the result of the following operation? {'a','b'} &{'a'}",
+    "answers": ["{'a'}"]
+  },
+  {
+    "question": "What is the outcome of the following? 1=2",
+    "answers": ["SyntaxError: can’t assign to literal"]
+  },
+  {
+    "question": "What is the output of the following code segment? i=6 i<5",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False. What is the output of the below code snippet? ‘a’==‘A’",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following best describes the purpose of ‘elif’ statement in a conditional structure?",
+    "answers": [
+      "It defines the condition in case the preceding conditions in the if statement are not fulfilled."
+    ]
+  },
+  {
+    "question": "What will be the result of the following? 1 2 for x in range(0, 3): print(x)",
+    "answers": ["0 1 2"]
+  },
+  {
+    "question": "What is the output of the following: 1 2 for x in ['A', 'B', 'C']: print(x + 'A')",
+    "answers": ["AA BA CA"]
+  },
+  {
+    "question": "What is the output of the following? 1 2 3 for i, x in enumerate(['A', 'B', 'C']): print(i, x)",
+    "answers": ["0 A 1 B 2 C"]
+  },
+  {
+    "question": "What does the following function return? len(['A','B',1])",
+    "answers": ["3"]
+  },
+  {
+    "question": "What does the following function return? len([sum([1,1,1])])",
+    "answers": ["1"]
+  },
+  {
+    "question": "After executing the following code segment, what will be the value of list L? L=[1,3,2] sorted(L)",
+    "answers": ["[1,3,2]"]
+  },
+  {
+    "question": "What result does the following code produce? 1 2 3 4 def print_function(A): for a in A: print(a + '1') print_function(['a', 'b', 'c'])",
+    "answers": ["a1 b1 c1"]
+  },
+  {
+    "question": "Why do we use exception handlers?",
+    "answers": ["To catch errors within a program"]
+  },
+  {
+    "question": "What is the purpose of a try...except statement?",
+    "answers": ["Catch and handle exceptions when an error occurs"]
+  },
+  {
+    "question": "Consider the following code: If the user enters the value of `b’ as 0, what is expected as the output? 1 2 3 4 5 6 7 8 a = 1 try: b = int(input(\"Please enter a number to divide a: \")) a = a / b print(\"Success a =\", a) except: print(\"There was an error\")",
+    "answers": ["There was an error"]
+  },
+  {
+    "question": "Which of the following statements will create an object ‘C1’ for the class that uses radius as 4 and color as ‘yellow’? 1 2 3 4 5 6 7 8 9 10 11 class Circle(object): # Constructor def __init__(self, radius=3, color='blue'): self.radius = radius self.color = color # Method def add_radius(self, r): self.radius = self.radius + r return self.radius",
+    "answers": ["C1 = Circle(4, ‘yellow’)"]
+  },
+  {
+    "question": "Consider the execution of the following lines of code. CircleObject = Circle() CircleObject.radius = 10 What are the values of the radius and color attributes for the CircleObject after their execution? 1 2 3 4 5 6 7 8 9 10 11 class Circle(object): # Constructor def __init__(self, radius=3, color='blue'): self.radius = radius self.color = color # Method def add_radius(self, r): self.radius = self.radius + r return self.radius",
+    "answers": ["10, ‘blue’"]
+  },
+  {
+    "question": "What is the color attribute of the object V1? 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 class Vehicle: color = \"white\" def __init__(self, max_speed, mileage): self.max_speed = max_speed self.mileage = mileage self.seating_capacity = None def assign_seating_capacity(self, seating_capacity): self.seating_capacity = seating_capacity V1 = Vehicle(150, 25)",
+    "answers": ["‘white’"]
+  },
+  {
+    "question": "Which of the following options would create an appropriate object that points to a red, 5-seater vehicle with a maximum speed of 200kmph and a mileage of 20kmpl? 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 class Vehicle: color = \"white\" def __init__(self, max_speed, mileage): self.max_speed = max_speed self.mileage = mileage self.seating_capacity = None def assign_seating_capacity(self, seating_capacity): self.seating_capacity = seating_capacity V1 = Vehicle(150, 25)",
+    "answers": ["Car = Vehicle(200, 20)"]
+  },
+  {
+    "question": "What is the value printed upon execution of the code shown below? 1 2 3 4 5 6 7 8 9 class Graph(): def __init__(self, id): self.id = id self.id = 80 val = Graph(200) print(val.id)",
+    "answers": ["200"]
+  },
+  {
+    "question": "What are the most commonly used modes when opening a file?",
+    "answers": ["(a)ppend, (r)ead, (w)rite"]
+  },
+  {
+    "question": "Which data attribute retrieves the file's title?",
+    "answers": ["file1.name"]
+  },
+  {
+    "question": "Which command instructs Python to initiate a new line?",
+    "answers": ["\\n"]
+  },
+  {
+    "question": "Which method is used to write data into a file in Python?",
+    "answers": ["file1.write()"]
+  },
+  {
+    "question": "What Python object do you cast to a data frame?",
+    "answers": ["Dictionary"]
+  },
+  {
+    "question": "How would you access the first row and first column in the DataFrame df?",
+    "answers": ["df.iloc[0,0]"]
+  },
+  {
+    "question": "What is the proper way to load a CSV file using pandas?",
+    "answers": ["pandas.read_csv(‘data.csv’)"]
+  },
+  {
+    "question": "Assume that you have a data frame containing details of various musical artists, their famous albums, their genres, and various other parameters. Here, `Genre` is the fifth column in the sequence and there is an entry of “Disco” in the 7th row of the data. How would you select the Genre disco?",
+    "answers": ["df.iloc[6, 4]"]
+  },
+  {
+    "question": "Assume that you have a data frame containing details of various musical artists, their famous albums, their genres, and various other parameters. Here, `Album` is the second column. How do we retrieve records from row 3 through row 6?",
+    "answers": ["df.loc[2:5, ‘Album’]"]
+  },
+  {
+    "question": "What Python library serves as a foundation for Pandas and is used for scientific computing?",
+    "answers": ["Numpy"]
+  },
+  {
+    "question": "What attribute retrieves the number of elements in a numpy array?",
+    "answers": ["a.size"]
+  },
+  {
+    "question": "How would you change the first element to 10 in this array? c = np.array([100,1,2,3,0])",
+    "answers": ["c[0]=10"]
+  },
+  {
+    "question": "What does API stand for?",
+    "answers": ["Application Programming Interface"]
+  },
+  {
+    "question": "Which data format is commonly found in the HTTP message for API requests?",
+    "answers": ["JSON"]
+  },
+  {
+    "question": "What is the primary purpose of an API?",
+    "answers": [
+      "To connect and enable communication between software applications."
+    ]
+  },
+  {
+    "question": "What is the function of \"GET\" in HTTP requests?",
+    "answers": ["Carries the request from the client to the server"]
+  },
+  {
+    "question": "What does URL stand for?",
+    "answers": ["Uniform Resource Locator"]
+  },
+  {
+    "question": "What does the file extension “csv” stand for?",
+    "answers": ["Comma Separated Values"]
+  },
+  {
+    "question": "What is webscraping?",
+    "answers": ["The process to extract data from a particular website"]
+  },
+  {
+    "question": "A data scientist is tracking the daily temperature. The code below represents the temperature dropping 3 degrees from the morning reading. What will the value of evening_temp be after execution? morning_temp = 22 evening_temp = morning_temp - 3",
+    "answers": ["19"]
+  },
+  {
+    "question": "Which statement accurately describes how Python interprets mathematical operations?",
+    "answers": [
+      "Python follows the standard mathematical order of operations (PEMDAS)."
+    ]
+  },
+  {
+    "question": "A developer is creating a weather app that displays temperature readings. The API returns temperature as “22.5”. What data type conversion is needed to perform mathematical calculations on this value?",
+    "answers": ["float(“22.5”)"]
+  },
+  {
+    "question": "What fundamental difference exists between string concatenation and numeric addition in Python?",
+    "answers": [
+      "String concatenation joins text values while numeric addition performs mathematical summation."
+    ]
+  },
+  {
+    "question": "What is the primary purpose of escape sequences in Python strings?",
+    "answers": [
+      "Include special characters or formatting that would otherwise be difficult to represent."
+    ]
+  },
+  {
+    "question": "A data analyst is building a shopping cart application. The current cart contains items ['shirt', 'pants'] stored in the variable cart. The analyst wants to add a collection of accessories as a single entry. What will the cart contain after executing cart.append(['hat', 'belt'])?",
+    "answers": ["['shirt', 'pants', ['hat', 'belt']]"]
+  },
+  {
+    "question": "Consider the following list: A=[\"hard rock\",10,1.2] What will list A contain after the following command is run? del(A[1])",
+    "answers": ["[\"hard rock\",1.2]"]
+  },
+  {
+    "question": "A game developer is creating a character customization system. The default character attributes are stored in a list default_attributes = [\"warrior\", 100, 50, 10]. For each new player, the developer needs to create a copy that can be modified without affecting the original. Which code creates a proper copy of default_attributes for a new player variable called player_attributes?",
+    "answers": ["player_attributes = default_attributes[:]"]
+  },
+  {
+    "question": "What is the outcome of the following? len((\"disco\",10,1.2, \"hard rock\",10))",
+    "answers": ["5"]
+  },
+  {
+    "question": "What fundamental characteristic distinguishes a dictionary from a list or tuple in Python?",
+    "answers": [
+      "Dictionaries use key-value pairs instead of ordered indices to store and retrieve data."
+    ]
+  },
+  {
+    "question": "A retail inventory system uses a dictionary to track products: inventory = {\"shirt\":45, \"pants\":20, \"shoes\":15, \"hat\":5}. The store manager needs to check which items are running low in stock. Which Python code would extract only the quantities from the inventory dictionary?",
+    "answers": ["inventory.values()"]
+  },
+  {
+    "question": "A data analyst is tracking unique website visitors. The current visitors set is visitors = {'user123', 'user456'}. A new visitor with ID 'user789' visits the site. What will the visitors set contain after executing visitors.add('user789')?",
+    "answers": ["{'user789', 'user123', 'user456'}"]
+  },
+  {
+    "question": "A security system maintains a set of authorized access codes: auth_codes = {'A123', 'B456', 'C789'}. When someone enters code 'B456', which Python expression would the system use to verify if this is an authorized code?",
+    "answers": ["'B456' in auth_codes"]
+  },
+  {
+    "question": "A temperature monitoring system uses the following code to check if a reading exceeds a threshold: current_temp = 18 current_temp = current_temp > 25 What value will be stored in current_temp after these lines execute?",
+    "answers": ["False"]
+  },
+  {
+    "question": "A museum curator is labeling artifacts using Python. The following code processes a list of ancient items: items = [\"Vase\", \"Statue\", \"Mask\"] for index, item in enumerate(items, start=1): print(f\"Exhibit {index}: {item} - Ancient Greece\") What will be displayed on the museum labels?",
+    "answers": [
+      "Exhibit 1: Vase - Ancient Greece Exhibit 2: Statue - Ancient Greece Exhibit 3: Mask - Ancient Greece"
+    ]
+  },
+  {
+    "question": "A weather application uses a class to track temperature data. What will be displayed when this code is running? class WeatherData: def __init__(self, temp_c, humidity): self.temp_c = temp_c self.humidity = humidity def display(self): print(f\"Temperature: {self.temp_c}°C, Humidity: {self.humidity}%\") today = WeatherData(22, 45) today.temp_c = 25 today.display()",
+    "answers": ["Temperature: 25°C, Humidity: 45%"]
+  },
+  {
+    "question": "A data validation system uses a function to check if a value falls within an acceptable range. What will the following function return when processing a sensor reading of 32? def validate_temperature(reading): if 20 <= reading <= 40: result = \"Valid\" else: result = \"Invalid\" return result",
+    "answers": ["“Valid”"]
+  },
+  {
+    "question": "A budgeting application uses the following code to calculate expenses. What will be displayed when this code is running? total_budget = 1000 def calculate_remaining(spent): total_budget = 500 return total_budget - spent print(calculate_remaining(200))",
+    "answers": ["300"]
+  },
+  {
+    "question": "A scientific calculator app needs to implement addition functionality. Which function would be most appropriate for this application?",
+    "answers": ["def scientific_add(num1, num2): return num1 + num2"]
+  },
+  {
+    "question": "Why is it the best practice to have multiple except statements with each type of error labeled correctly?",
+    "answers": [
+      "To determine the type of error thrown and its location within the program"
+    ]
+  },
+  {
+    "question": "What mathematical operation does np.dot() perform when applied to two one-dimensional NumPy arrays?",
+    "answers": [
+      "It performs the dot product by summing the products of corresponding elements in the vectors."
+    ]
+  },
+  {
+    "question": "What does the attribute ndim return when applied to the following NumPy array? X=np.array([[1,0,1],[2,2,2]]) X.ndim",
+    "answers": ["2"]
+  },
+  {
+    "question": "If you run the following lines of code, what values will the variable “Z” take? X=np.array([[1,0],[0,1]]) Y=np.array([[2,2],[2,2]]) Z=np.dot(X,Y)",
+    "answers": ["array([[2,2], [2,2]])"]
+  },
+  {
+    "question": "What is the advantage of using a \"with\" statement when opening files in Python?",
+    "answers": [
+      "It automatically closes the file when the code block is exited."
+    ]
+  },
+  {
+    "question": "What task do the following lines of code accomplish? with open('Example2.txt','r') as readfile: with open('Example3.txt','w') as writefile: for line in readfile: writefile.write(line)",
+    "answers": ["Copying the text from Example2.txt to Example3.txt"]
+  },
+  {
+    "question": "Given the dataframe df, how can you retrieve the element in the first row and first column?",
+    "answers": ["df.iloc[0,0]"]
+  },
+  {
+    "question": "Which method extracts the distinct elements from the following? df['Length']",
+    "answers": ["unique"]
+  },
+  {
+    "question": "What does the line of code “table_row = table.find_all(name='tr')” do in web scraping?",
+    "answers": [
+      "It locates all the data within the table marked with a tag “tr”"
+    ]
+  },
+  {
+    "question": "Complete the sentence. The Python library we used to plot the graphs is_____.",
+    "answers": ["matplotlib"]
+  },
+  {
+    "question": "What is the structure of a query string in a GET request URL?",
+    "answers": [
+      "It begins with a question mark followed by parameter-value pairs separated by ampersands."
+    ]
+  },
+  {
+    "question": "How would you define an application program interface (API)?",
+    "answers": [
+      "A set of rules that allows two software components to communicate with each other"
+    ]
+  },
+  {
+    "question": "A data analyst has received three data files: customer_data.csv, inventory.json, and sales_report.xml. Which Python code would correctly read the CSV file?",
+    "answers": ["import pandas as pd; df = pd.read_csv('customer_data.csv')"]
+  },
+  {
+    "question": "What is the proper sequence when using the Requests library to make an HTTP request?",
+    "answers": [
+      "Import the library, create a request using get() or post(), check the status code, and then process the response."
+    ]
+  },
+  {
+    "question": "A data scientist needs to extract player statistics from an NBA website. After obtaining the HTML, what BeautifulSoup method would help locate all table rows containing player data?",
+    "answers": ["soup.find_all('tr') to identify all table rows"]
+  },
+  {
+    "question": "In Python, what can be either a positive or negative number but lacks a decimal point?",
+    "answers": ["int"]
+  },
+  {
+    "question": "Given the string Name=\"ABCDE\", what outcome does the operation Name.find(\"B\") produce?",
+    "answers": ["1"]
+  },
+  {
+    "question": "Which of the following code segments would generate an output of \"0.5\"?",
+    "answers": ["1/2"]
+  },
+  {
+    "question": "In a list or tuple, what does the index of \"1\" represent?",
+    "answers": ["The second element"]
+  },
+  {
+    "question": "If A is a list, what happens with this segment of code: a=set(A)?",
+    "answers": ["It casts the list “A” to the set “a”"]
+  },
+  {
+    "question": "For the code shared below, what value of x will produce the output “How are you?”? [Select three] How are you? if(x!=1): print('How are you?') else: print('Hi')",
+    "answers": ["x = \"7\"", "x = 0", "x = 6"]
+  },
+  {
+    "question": "What is an error that occurs during the execution of code?",
+    "answers": ["Exception"]
+  },
+  {
+    "question": "Which of the following `add` functions would return ‘11’?",
+    "answers": ["def add(x): return(x+x) add('1')"]
+  },
+  {
+    "question": "What is the output of the following? for i in range(1,5): if (i!=2): print(i)",
+    "answers": ["1 3 4"]
+  },
+  {
+    "question": "Consider the class Rectangle, what are the data attributes? class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show()",
+    "answers": ["self.height, self.width, self.color"]
+  },
+  {
+    "question": "Complete the statement. You cannot sort a list if it contains:",
+    "answers": ["strings and numeric values"]
+  },
+  {
+    "question": "What outcome do the following lines of code produce? a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a+b",
+    "answers": ["array([1, 1, 1, 1, 1])"]
+  },
+  {
+    "question": "What line of code would produce the following: array([11, 11, 11, 11, 11])?",
+    "answers": ["a=np.array([1,1,1,1,1]) a+10"]
+  },
+  {
+    "question": "The following line of code selects the columns under which headers from the dataframe df? y=df[['Artist','Length','Genre']]",
+    "answers": ["‘Artist’, ‘Length’ and ‘Genre’"]
+  },
+  {
+    "question": "Consider the file object: File1.What would the following line of code output? file1.readline(4)",
+    "answers": ["It would output the first 4 characters from the text file."]
+  },
+  {
+    "question": "What mode will write text at the end of the existing text in a file?",
+    "answers": ["Append “a”"]
+  },
+  {
+    "question": "In the URL below, which part is the scheme? http://www.ibm.com/images/IDSNlogo.png",
+    "answers": ["http://"]
+  },
+  {
+    "question": "Using which of the following functions, can you extract a table from a webpage directly?",
+    "answers": ["pandas.read_html()"]
+  },
+  {
+    "question": "Identify the file where you add code to reference the modules in the package?",
+    "answers": ["__init__.py"]
+  },
+  {
+    "question": "Which of the following is a best practice when creating function names to write test cases?",
+    "answers": ["test_"]
+  },
+  {
+    "question": "Which of the following is a valid method name based on PEP8 guidelines?",
+    "answers": ["get_user_name()"]
+  },
+  {
+    "question": "Which of the following is required to package a Python module?",
+    "answers": [
+      "The Python module should be packaged in a directory with __init__.py in the same directory"
+    ]
+  },
+  {
+    "question": "Which of the following is TRUE about web apps and APIs? (Select two)",
+    "answers": [
+      "Both web apps and APIs link two system parts.",
+      "All web apps are APIs, but not all APIs are web apps."
+    ]
+  },
+  {
+    "question": "Which of the following methods sends HTML form data to the server?",
+    "answers": ["POST"]
+  },
+  {
+    "question": "What is @app.route used for?",
+    "answers": ["To define a route"]
+  },
+  {
+    "question": "Which of the following are two objects provided by Flask that are used for each client call? (Select two)",
+    "answers": ["Request", "Response"]
+  },
+  {
+    "question": "You can use dynamic routes to create ______ endpoints.",
+    "answers": ["RESTful"]
+  },
+  {
+    "question": "When working with a Flask server, what is the code number for a successful response?",
+    "answers": ["200"]
+  },
+  {
+    "question": "Which of the following components acts as the link between the browser and the web application for an e-commerce shopping site?",
+    "answers": ["An API that connects the browser and the application."]
+  },
+  {
+    "question": "Developers want to test the newly implemented payment gateway in the online booking site for its efficiency with the current system. Which testing phase is this?",
+    "answers": ["Integration testing"]
+  },
+  {
+    "question": "An engineer is cleaning up legacy code and wants to find style issues quickly. He used PyLint for this task. Which of the following is true about PyLint?",
+    "answers": ["PyLint is a Python static code analysis tool."]
+  },
+  {
+    "question": "An application uses a constant to define a user’s date of birth. According to PEP8, how should this constant be named?",
+    "answers": ["DATE_OF_BIRTH"]
+  },
+  {
+    "question": "Your team is developing a manufacturing inventory management application for a manufacturing company. During the requirements gathering phase, the stakeholders specify that the application should function across desktop and mobile devices used on the factory floor. Which type of requirement is this?",
+    "answers": ["Technical requirements"]
+  },
+  {
+    "question": "While designing a unit testing strategy for your Python app, you choose to encapsulate tests within a class. Why is this considered good practice?",
+    "answers": ["It provides a single entry point to run all unit tests."]
+  },
+  {
+    "question": "Roma is reviewing a unit test output for a square function and observed an error message “AssertionError: 8!=4”. She identified that the square function is written to calculate the cube. What does this error message in the unit test output indicate?",
+    "answers": [
+      "The square function returned unexpected results, assertion failed."
+    ]
+  },
+  {
+    "question": "Your project has a folder structure where mypackage contains a file my_code.py with a print_hello() function. Which import approaches correctly access the function?",
+    "answers": ["from mypackage import my_code then my_code.print_hello()"]
+  },
+  {
+    "question": "You are writing a test for a specific function within a custom package module. Which of the following is the correct format to call that function with a parameter?",
+    "answers": ["{package_name}. {module_name}. {function_name} (parameters)"]
+  },
+  {
+    "question": "Your team wants to create a reusable set of functions, considering building a folder with an init.py and multiple .py files. Which of the following statements is correct for qualifying this folder?",
+    "answers": ["A library recognized as a Python package."]
+  },
+  {
+    "question": "Why would you select Django and Flask frameworks over a Python library for web application development that helps to simplify debugging and promotes reusable code structures?",
+    "answers": [
+      "Frameworks provide structured flow, built-in debugging, and support for building complete applications."
+    ]
+  },
+  {
+    "question": "Once the user visits a specific URL, the associated view function runs and returns data to the browser. What do you call this function?",
+    "answers": ["Route"]
+  },
+  {
+    "question": "Using a central location, you are trying to pass settings like DEBUG and SECRET_KEY into your Flask app. Which components will you use to store and access these settings?",
+    "answers": ["Config objects"]
+  },
+  {
+    "question": "Which response property should a developer verify while building a RESTful API to ensure that the Flask reponse will send back the correct media file type, such as JSON and HTML, to interpret data correctly?",
+    "answers": ["content_type"]
+  },
+  {
+    "question": "In a Flask application, you receive GET requests with a query parameter named device. You want to retrieve the value of this parameter carefully without error. Which code snippet will you use in this scenario?",
+    "answers": ["request.args.get(\"device\")"]
+  },
+  {
+    "question": "A developer is working on a Flask API route for a client who wants to add a feature that returns book details. After sending a request to OpenLibrary, they receive a 200 status code. What is the ideal action?",
+    "answers": ["Deliver the response's JSON data in the frontend."]
+  },
+  {
+    "question": "Every HTTP response contains a _________-digit code.",
+    "answers": ["Three"]
+  },
+  {
+    "question": "A developer returns a value from a Flask route and checks the automatic response. What HTTP status code is returned by default?",
+    "answers": ["200"]
+  },
+  {
+    "question": "You've written a simple Flask app and used the @app.route(\"/\") parameter. What type of HTTP requests will you receive by default?",
+    "answers": ["Accept only GET requests."]
+  },
+  {
+    "question": "You are using Flask for developing a user management feature and want to incorporate update functionality into it. Which HTTP request method will you use to complete this task?",
+    "answers": ["Use PUT or PATCH requests to change the existing database."]
+  },
+  {
+    "question": "You want to check the weather for tomorrow on a weather application. What enables the weather app to access this data?",
+    "answers": [
+      "An API that connects the weather app to the weather data source."
+    ]
+  },
+  {
+    "question": "Michel has written the function that calculates the total room charges for the room reservation application for a hotel. Before integrating this function with other website components, he wants to verify this function for its functionality. Which type of testing should Michel perform?",
+    "answers": ["Unit testing"]
+  },
+  {
+    "question": "A developer wants to verify that a script follows Python coding standards. What is PyLint used for in this scenario?",
+    "answers": ["PyLint is a Python static code analysis tool."]
+  },
+  {
+    "question": "You're writing a Python module that defines several constants. How should a constant be formatted in line with PEP8?",
+    "answers": ["DATE_OF_BIRTH"]
+  },
+  {
+    "question": "When gathering requirements for an app to manage events, the customer mentions that the project aims to improve customer retention. Which of the following requirements describes the above scenario?",
+    "answers": ["Business requirements"]
+  },
+  {
+    "question": "You want to test a method inside a module called data_tools.py, which is part of the analytics package. What is the correct way to reference it?",
+    "answers": ["analytics.data_tools.analyze(parameters)"]
+  },
+  {
+    "question": "Rosy is reviewing a Python folder that contains multiple.py files and an init.py file. Which of the following best describes a Python package for categorizing these folders correctly?",
+    "answers": ["A directory of Python modules and init.py files"]
+  },
+  {
+    "question": "As a developer, you want to define a route in a Flask application using the @app.route decorator. Which of the following paths is best suitable in this scenario?",
+    "answers": ["Object"]
+  },
+  {
+    "question": "Mona is developing a web application using the Flask framework, with the @app.route() decorator in her code. What is this decorator primarily used to create?",
+    "answers": ["URL handlers"]
+  },
+  {
+    "question": "After submitting a form in a Flask app, a developer checks whether it was successful. What property of the response indicates this?",
+    "answers": ["status_code"]
+  },
+  {
+    "question": "Sana is creating an endpoint in Flask for receiving POST requests with JSON payloads. Which content snippet correctly checks if the request method is POST and contains content from JSON?",
+    "answers": ["request.method == \"POST\" and request.is_json"]
+  },
+  {
+    "question": "While developing a Flask app that fetches book data from the OpenLibrary API using the author's name, you have received a 200 status code from the API response. What should your application do?",
+    "answers": ["Return the JSON response to the client."]
+  },
+  {
+    "question": "A developer receives a 404 message in response to an invalid URL request. How many digits are in such HTTP response codes?",
+    "answers": ["Three"]
+  },
+  {
+    "question": "After defining a simple route in Flask, a developer notices the browser returns a success message. Which status code was automatically returned?",
+    "answers": ["200"]
+  },
+  {
+    "question": "One of your team members forgot to define the method in a route decorator in a Flask project. What default behavior will the Flask application take for handling HTTP methods?",
+    "answers": ["The route will accept the GET request automatically."]
+  },
+  {
+    "question": "Which request methods should you apply for developing an employee directory with Flask, and need to allow managers to revise the employee's contact details?",
+    "answers": ["Apply PUT or PATCH requests to update the database."]
+  },
+  {
+    "question": "You’re building a website for an online store. You need to store product information, customer details, and order history. Which of the following best describes the role of a database in this scenario?",
+    "answers": ["A collection of related tables"]
+  },
+  {
+    "question": "Which of the following is the most significant advantage of an RDBMS?",
+    "answers": ["It’s ACID-Compliant"]
+  },
+  {
+    "question": "In a library entity-relationship data model, a book is an example of _____, and the book’s title, edition, and publication date are examples of _______.",
+    "answers": ["an entity, attributes"]
+  },
+  {
+    "question": "Which of the following statements about a database is/are correct?",
+    "answers": [
+      "A database is a logically coherent data collection with some inherent meaning."
+    ]
+  },
+  {
+    "question": "What is the key advantage of the relational model in databases?",
+    "answers": ["Logical and physical data independence"]
+  },
+  {
+    "question": "What is the correct syntax for inserting data into a table named Members?",
+    "answers": [
+      "INSERT INTO MEMBERS (MEMBER_ID, LASTNAME, FIRSTNAME) VALUES (‘1432’, ‘Smith’, ‘Charles’)"
+    ]
+  },
+  {
+    "question": "When using the DELETE statement to remove data from a database, what does the WHERE clause do?",
+    "answers": [
+      "It specifies where to find the data to delete, by column number and row number."
+    ]
+  },
+  {
+    "question": "A single INSERT statement can be used to insert multiple rows in a table. True or False?",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which SELECT statement eliminates duplicates in the result set?",
+    "answers": ["SELECT DISTINCT(country) FROM author"]
+  },
+  {
+    "question": "The SELECT statement is called a query, and the output we get from executing the query is called a result set. True or False?",
+    "answers": ["True"]
+  },
+  {
+    "question": "When you create an object (an instance of a class) in Django, what does it represent?",
+    "answers": ["Table row"]
+  },
+  {
+    "question": "Which of the following is a benefit of using ORM?",
+    "answers": ["It speeds up application development"]
+  },
+  {
+    "question": "When you define a forward relationship between tables, which of the following does Django automatically create?",
+    "answers": ["Backward access"]
+  },
+  {
+    "question": "Which of the following built-in features in Django allows you to manage user accounts, including registration, login, and password management?",
+    "answers": ["Authentication and authorization"]
+  },
+  {
+    "question": "Which objects would you call the Delete method on to delete records in a database?",
+    "answers": ["Model object or QuerySet"]
+  },
+  {
+    "question": "What are the two main components of an object in Object-Oriented Analysis and Design (OOAD)?",
+    "answers": ["Data and behaviors"]
+  },
+  {
+    "question": "Multi-table inheritance is like which of the following relationships?",
+    "answers": ["One-to-one"]
+  },
+  {
+    "question": "What is the main reason ORM was invented?",
+    "answers": [
+      "To bridge the gap between object-oriented programming (OOP) and SQL"
+    ]
+  },
+  {
+    "question": "Django only requires that model relationships be defined on one side. What is this called?",
+    "answers": ["Forward access"]
+  },
+  {
+    "question": "Which of the following items does Django provide, allowing you to define your data models using Python classes?",
+    "answers": ["Object-Relational Mapping or ORM"]
+  },
+  {
+    "question": "What does the Django template contain besides Python code?",
+    "answers": ["Dynamic HTML elements"]
+  },
+  {
+    "question": "Django creates three files after you’ve created a project. Which of these files is a command interface that interacts with the Django project?",
+    "answers": ["manage.py"]
+  },
+  {
+    "question": "For the online course example, when registering the course and instructor models in the Django admin site, you would write and run “admin.site.register(Course)” and what other code statement.",
+    "answers": ["admin.site.register(Instructor)"]
+  },
+  {
+    "question": "When you map a URL to the course view, what file do you add path objects to?",
+    "answers": ["urls.py"]
+  },
+  {
+    "question": "Django template files display content such as course names and descriptions. How is the content displayed?",
+    "answers": ["HTML"]
+  },
+  {
+    "question": "What is one difference between the Django MVT and the MVC design pattern?",
+    "answers": [
+      "The Django framework or Django server itself acts as controller"
+    ]
+  },
+  {
+    "question": "What two development tasks must be performed to manage and determine which data will be presented to the UI?",
+    "answers": ["Model data and create views"]
+  },
+  {
+    "question": "Which command is used in the Django Admin video to start the server?",
+    "answers": ["python manage.py runserver"]
+  },
+  {
+    "question": "Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?",
+    "answers": ["Read-only HTTP metadata"]
+  },
+  {
+    "question": "Django template file structures sometimes have two files created with the same name. How do you ensure Django points to the correct file?",
+    "answers": ["Name spacing"]
+  },
+  {
+    "question": "Django class-based view must be mapped with a URL pattern, almost like configuring the URL for the function-based view. The only difference is you need to specify which of the following?",
+    "answers": ["The as_view function"]
+  },
+  {
+    "question": "A username and password can be received from a user via a login HTML template. Which HTTP method sends the username or password to the online course log in view to authenticate the user?",
+    "answers": ["POST request"]
+  },
+  {
+    "question": "In the Bootstrap Integration video, a course index page is designed that contains courses represented as cards. The multiple course cards are then added to a container. How are the multiple course cards managed?",
+    "answers": ["They are wrapped in a card deck"]
+  },
+  {
+    "question": "Django provides a default static files app that collects all static files in a single directory. When you deploy your app to a production web server, you can move all static files to this directory. There are several steps to do this. What call do you make in the last step?",
+    "answers": ["Run the ‘collectstatic’ command"]
+  },
+  {
+    "question": "ASGI is a web server interface that Django apps support. What is the main difference between WSGI and ASGI?",
+    "answers": [
+      "ASGI supports asynchronous code, and WSGI is suitable for synchronous web applications"
+    ]
+  },
+  {
+    "question": "Which type of view was created for Django to address the extensibility and reusability of views?",
+    "answers": ["Class-based view"]
+  },
+  {
+    "question": "Does authorization occur before, after, or during the authentication process?",
+    "answers": ["After authentication"]
+  },
+  {
+    "question": "How can you use Bootstrap CSS-style classes without manually downloading and importing them?",
+    "answers": [
+      "Add a link to the latest Bootstrap version into the head element of your HTML template"
+    ]
+  },
+  {
+    "question": "Django apps can have app-specific static files and external static files. Where do you define the directories for external static files, so that you can find them?",
+    "answers": ["In the STATICFILES_DIRS list in settings.py file"]
+  },
+  {
+    "question": "WSGI is the primary Python standard for communicating between web servers and applications. To make Django apps work with WSGI, the start project command creates a file that declares an application callable by default. What is this file named?",
+    "answers": ["wsgi.py"]
+  },
+  {
+    "question": "Which of the following views was the initially implemented view in Django?",
+    "answers": ["Function-based view"]
+  },
+  {
+    "question": "Which of the following describes the Authentication process?",
+    "answers": ["It validates user identity"]
+  },
+  {
+    "question": "Bootstrap is a free web front-end framework that helps develop web apps. What does it provide Django?",
+    "answers": ["HTML and CSS templates"]
+  },
+  {
+    "question": "What does Django use namespacing for when you add static files to an app?",
+    "answers": [
+      "It uniquely refers to static files that use the same name across multiple apps"
+    ]
+  },
+  {
+    "question": "When Django developers run a runserver command, what does it start?",
+    "answers": ["Minimal development of web server"]
+  },
+  {
+    "question": "MVC design pattern includes three components. Which component routes requests?",
+    "answers": ["Controller"]
+  },
+  {
+    "question": "What do templates do in Django?",
+    "answers": ["Defines the structure and layout of the final output"]
+  },
+  {
+    "question": "After the core development work is done in Django apps, what is one thing that could be done to facilitate app content management?",
+    "answers": ["Add an admin site"]
+  },
+  {
+    "question": "Creating an admin user is one of the first steps when building a Django admin site. What command would you use to do this in the Django Admin video?",
+    "answers": ["python manage.py createsuperuser"]
+  },
+  {
+    "question": "A view takes an HTTP request and returns an HTTP response. The HTTP response can be a string, a JSON/XML file, or an HTML page with what response status?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What does Django map each field to in a database table?",
+    "answers": ["Column"]
+  },
+  {
+    "question": "Which of the following relationships between entities does Django ORM support?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following explains how OOP models entities?",
+    "answers": ["Using classes and objects"]
+  },
+  {
+    "question": "What can you use to perform actions on data in databases without writing SQL queries?",
+    "answers": ["Django Models APIs"]
+  },
+  {
+    "question": "Which of the following terms defines when Django only requires relationships to be defined on one side?",
+    "answers": ["Related object"]
+  },
+  {
+    "question": "Which attributes of columns in a table must always be defined in a CREATE TABLE statement?",
+    "answers": ["Name and datatype"]
+  },
+  {
+    "question": "What would you add to this SELECT statement to sort the result set alphabetically by author’s last name? SELECT title, lastname from Author",
+    "answers": ["ORDER BY lastname"]
+  },
+  {
+    "question": "What is the best definition of a JOIN operator?",
+    "answers": [
+      "It combines the rows from two or more tables that are related by a common column."
+    ]
+  },
+  {
+    "question": "What is the function of a predicate when reading and modifying data?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following INSERT statements will add one row containing a student’s identification number, first name, and last name?",
+    "answers": [
+      "INSERT INTO STUDENT (STUDENT_ID, LASTNAME, FIRSTNAME) VALUES (‘345DT2000’, ‘Morales’, ‘Raul’)"
+    ]
+  },
+  {
+    "question": "You want to update a row in the Student table to change a student’s first name from “Kristen” to “Christine.” What will happen if you leave out the Where clause in the UPDATE statement?",
+    "answers": [
+      "Every student’s first name would change to “Christine” in the table."
+    ]
+  },
+  {
+    "question": "Which expression below is used with a SELECT statement to retrieve the number of rows that match the query criteria?",
+    "answers": ["COUNT"]
+  },
+  {
+    "question": "What are the five basic SQL commands?",
+    "answers": ["CREATE, SELECT, INSERT, UPDATE, DELETE"]
+  },
+  {
+    "question": "In use cases for RDBMS, what is one of the reasons that relational databases are so well suited for Online Transaction Processing (OLTP) applications?",
+    "answers": [
+      "They support the ability to insert, update, or delete small amounts of data"
+    ]
+  },
+  {
+    "question": "The Relational Model stores data in tables, which allows for data independence. What type of data independence does it provide?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In a relational data model, a primary key uniquely identifies each row in a table. What is the function of a foreign key?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "What is Docker?",
+    "answers": [
+      "An open platform used for developing, shipping, and running applications in containers"
+    ]
+  },
+  {
+    "question": "What does an image name consist of?",
+    "answers": ["The hostname, the repository, and the tag"]
+  },
+  {
+    "question": "What is a container?",
+    "answers": [
+      "A standard unit of software that packages code and all its dependencies"
+    ]
+  },
+  {
+    "question": "What are the three parts of the Docker architecture?",
+    "answers": ["Registry", "Host", "Client"]
+  },
+  {
+    "question": "What are some of the traits of containers?",
+    "answers": ["Containers save both time and money and improve utilization."]
+  },
+  {
+    "question": "What is a Kubernetes Cluster?",
+    "answers": ["A cluster of nodes that run containerized applications"]
+  },
+  {
+    "question": "What are three examples of Kubernetes objects?",
+    "answers": ["Namespaces", "ReplicaSets", "Pods"]
+  },
+  {
+    "question": "What is Kubernetes?",
+    "answers": ["An all-inclusive platform as a service"]
+  },
+  {
+    "question": "What languages are used to create the container orchestration configuration file?",
+    "answers": ["YAML or JSON"]
+  },
+  {
+    "question": "What is the function of a ClusterIP Service?",
+    "answers": ["Provides inter-service communication within the Cluster"]
+  },
+  {
+    "question": "What rollout command do you use to implement a rollback to a previous version in Kubernetes?",
+    "answers": ["An ‘undo’ command"]
+  },
+  {
+    "question": "Which three statements about ConfigMaps are correct?",
+    "answers": [
+      "A ConfigMap provides configuration data to pods and deployments.",
+      "Data stored in a ConfigMap must not exceed one megabyte.",
+      "A ConfigMap object stores non-confidential data in key-value pairs."
+    ]
+  },
+  {
+    "question": "What Kubernetes object adds or deletes pods for scaling and redundancy?",
+    "answers": ["A ReplicaSet"]
+  },
+  {
+    "question": "What are the autoscaling types in Kubernetes?",
+    "answers": ["Horizontal, Vertical, and Cluster"]
+  },
+  {
+    "question": "What is Service binding?",
+    "answers": [
+      "The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications"
+    ]
+  },
+  {
+    "question": "What is a valid Istio feature?",
+    "answers": [
+      "Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation."
+    ]
+  },
+  {
+    "question": "What are three functions of a service mesh?",
+    "answers": [
+      "Provides Service behavior metrics for optimization",
+      "Encrypts traffic between Services",
+      "Manages traffic between Services"
+    ]
+  },
+  {
+    "question": "What are three true statements about Red Hat OpenShift?",
+    "answers": [
+      "Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.",
+      "Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs.",
+      "Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments."
+    ]
+  },
+  {
+    "question": "What are three examples of Build input sources?",
+    "answers": [
+      "Inline Dockerfile definitions",
+      "Input Secrets",
+      "External artifacts"
+    ]
+  },
+  {
+    "question": "What do Operators provide?",
+    "answers": [
+      "Customizations and parameterization, but only at the time of installations"
+    ]
+  },
+  {
+    "question": "What are the steps used to create and run containers?",
+    "answers": [
+      "Create a Dockerfile, use it to create a container image, and then use the container image to create a running container."
+    ]
+  },
+  {
+    "question": "What is the function of the Docker ‘run’ command?",
+    "answers": ["Creates a container from an image"]
+  },
+  {
+    "question": "What applications are a good fit for Docker?",
+    "answers": ["Applications that require flexible scaling and portability"]
+  },
+  {
+    "question": "What is a Docker container?",
+    "answers": ["A runnable instance of an image"]
+  },
+  {
+    "question": "Do containers have to be on a specific operating system or platform?",
+    "answers": [
+      "No, containers work on many types of operating systems and platforms."
+    ]
+  },
+  {
+    "question": "What are three parts of Docker’s underlying technology?",
+    "answers": [
+      "The Go programming language",
+      "Namespaces",
+      "Linux kernel features"
+    ]
+  },
+  {
+    "question": "What does the Docker client-server architecture provide?",
+    "answers": ["A communication channel"]
+  },
+  {
+    "question": "What are volumes and bind mounts used for in Docker?",
+    "answers": ["Persisting data"]
+  },
+  {
+    "question": "How are digital containers like shipping containers?",
+    "answers": [
+      "Container size and specs are standardized, which makes them easier to move around."
+    ]
+  },
+  {
+    "question": "What Docker features create a container image?",
+    "answers": ["The build command and a Dockerfile"]
+  },
+  {
+    "question": "What is automated bin packing?",
+    "answers": [
+      "A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability"
+    ]
+  },
+  {
+    "question": "What component of a worker node ensures containers are running as desired?",
+    "answers": ["The kubelet"]
+  },
+  {
+    "question": "What are three Kubernetes capabilities?",
+    "answers": [
+      "Automated rollouts",
+      "Storage orchestration",
+      "Secret and configuration management"
+    ]
+  },
+  {
+    "question": "In what three environments can container orchestration be implemented?",
+    "answers": [
+      "Public cloud environments",
+      "Private cloud environments",
+      "On-premises environments"
+    ]
+  },
+  {
+    "question": "What does a control plane do?",
+    "answers": [
+      "Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster"
+    ]
+  },
+  {
+    "question": "What is Kubectl?",
+    "answers": ["Kubernetes command line interface (CLI)"]
+  },
+  {
+    "question": "What is a label?",
+    "answers": ["A key-value pair attached to an object"]
+  },
+  {
+    "question": "What Kubernetes object should be used for stateless applications?",
+    "answers": ["Deployment"]
+  },
+  {
+    "question": "What is the most popular container orchestration tool used as of 2022?",
+    "answers": ["Kubernetes"]
+  },
+  {
+    "question": "What is the function of an External Name Service?",
+    "answers": ["Maps to a DNS name"]
+  },
+  {
+    "question": "What are the three required steps to bind the IBM Cloud Service to your Cluster?",
+    "answers": [
+      "Configure your app to access the credentials.",
+      "Bind the Service to your Cluster to create credentials.",
+      "Provision an instance of the Service."
+    ]
+  },
+  {
+    "question": "Which rolling update types ensure 100% app availability?",
+    "answers": [
+      "One-at-a-time updates and rollbacks ensure 100% app availability."
+    ]
+  },
+  {
+    "question": "What are three ways to create a ConfigMap?",
+    "answers": [
+      "By using string literals",
+      "By providing a ConfigMap YAML descriptor file",
+      "By using an existing property or ‘key’ = ‘value’ file"
+    ]
+  },
+  {
+    "question": "What does a ConfigMap do?",
+    "answers": ["Provides variables for your application"]
+  },
+  {
+    "question": "Which Kubernetes autoscaler type scales the Cluster?",
+    "answers": ["Cluster Autoscaler (CA)"]
+  },
+  {
+    "question": "How do you create a ReplicaSet from scratch?",
+    "answers": [
+      "Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’."
+    ]
+  },
+  {
+    "question": "What does Service binding do?",
+    "answers": [
+      "Manages configuration and credentials for back-end Services while protecting sensitive data"
+    ]
+  },
+  {
+    "question": "How do you prepare your application to enable rolling updates?",
+    "answers": ["Add liveness and readiness probes to deployments."]
+  },
+  {
+    "question": "What are three ways to create a Secret?",
+    "answers": [
+      "By using a string literal",
+      "By using environment variables",
+      "By using volume mounts"
+    ]
+  },
+  {
+    "question": "What are the two features of an ImageStream?",
+    "answers": [
+      "Stores images",
+      "Provides a trigger capability when a new version of an image is available"
+    ]
+  },
+  {
+    "question": "What are the three Build triggers used in OpenShift?",
+    "answers": ["Webhook", "Configuration change", "Image change"]
+  },
+  {
+    "question": "Which three statements are true?",
+    "answers": [
+      "The oc and kubectl binary offer different capabilities.",
+      "The oc lets you manage projects during restricted bandwidth or availability of the web console.",
+      "The oc lets you work directly with project source code using command script."
+    ]
+  },
+  {
+    "question": "What packages, deploys, and manages native apps in Kubernetes?",
+    "answers": ["An Operator"]
+  },
+  {
+    "question": "What strategy was Red Hat OpenShift designed for?",
+    "answers": ["A hybrid-cloud strategy."]
+  },
+  {
+    "question": "What provides traffic management to control the flow of traffic between Services?",
+    "answers": ["A service mesh"]
+  },
+  {
+    "question": "What three processes are performed by the Operator Framework tool set?",
+    "answers": ["Package", "Building", "Testing"]
+  },
+  {
+    "question": "What are the three features of Custom Resource Definitions (CRDs)?",
+    "answers": [
+      "Control the install, upgrade, and role-based access control (RBAC) of Operators in a cluster",
+      "Extend Kubernetes functionality",
+      "Can be engaged with kubectl"
+    ]
+  },
+  {
+    "question": "In Istio, what handles communication between services?",
+    "answers": ["The data plane"]
+  },
+  {
+    "question": "What are three added features that OpenShift provides?",
+    "answers": [
+      "Good networking solutions out of the box",
+      "Better management through image streams",
+      "Better user experience"
+    ]
+  },
+  {
+    "question": "Twelve factor methodology expects the processes to be: Select two answers.",
+    "answers": ["Stateless and share nothing", "Centrally store the data"]
+  },
+  {
+    "question": "In a microservices architecture you should segregate services based on ______",
+    "answers": ["Functional requirements"]
+  },
+  {
+    "question": "SOA components are:",
+    "answers": ["Reusable"]
+  },
+  {
+    "question": "Single page application (SPA): Select two answers:",
+    "answers": [
+      "Updates dynamically using calls to backing REST-based services",
+      "Is built using HTML, CSS and JavaScript"
+    ]
+  },
+  {
+    "question": "Microservices should have:",
+    "answers": ["Automation for deployment and monitoring"]
+  },
+  {
+    "question": "A Serverless computer is a combination of which of the following services? Select two answers.",
+    "answers": ["Backend as a Service", "Function as a Service"]
+  },
+  {
+    "question": "Which of the following is a benefit of a Serverless computing model?",
+    "answers": ["Only paying for use"]
+  },
+  {
+    "question": "Which service is provided by Function-as-a-Service or FaaS, a Cloud Computing service?",
+    "answers": ["Executes code in response to events"]
+  },
+  {
+    "question": "Which language writes Serverless Framework?",
+    "answers": ["Node.js"]
+  },
+  {
+    "question": "How can you utilize Serverless Reference Architecture for an Event streaming use case? Select two answers.",
+    "answers": [
+      "You can trigger your application using publisher-subscriber topics",
+      "You can update secondary data stores and caches"
+    ]
+  },
+  {
+    "question": "Which of the following is a challenge of deploying microservices?",
+    "answers": ["Require dynamic scaling of your microservice instances"]
+  },
+  {
+    "question": "Which of the following statements about IBM Cloud Code Engine project and application is correct?",
+    "answers": [
+      "You can have two applications with the same name in two different projects."
+    ]
+  },
+  {
+    "question": "Which of the following is a feature of containers?",
+    "answers": ["It is suitable for microservice architecture"]
+  },
+  {
+    "question": "Which are the two main interfaces to deploy applications on IBM Cloud Code Engine?",
+    "answers": ["IBM Cloud Console and IBM Cloud CLI"]
+  },
+  {
+    "question": "Which is a feature of Code Engine Jobs?",
+    "answers": ["Designed for one-time execution of your code"]
+  },
+  {
+    "question": "What are the key characteristics of a RESTful API? Select two answers.",
+    "answers": [
+      "Stateless communication between client and server",
+      "It works on HTTP"
+    ]
+  },
+  {
+    "question": "What does an API Gateway act as?",
+    "answers": ["An API management tool"]
+  },
+  {
+    "question": "Which syntax is used to make an update request to a product REST API?",
+    "answers": ["PUT /products/114 (product data in the body)"]
+  },
+  {
+    "question": "Which type of framework is Flask?",
+    "answers": ["Micro web"]
+  },
+  {
+    "question": "Which one of the following statements is true about communication in a RESTful API?",
+    "answers": ["Resources are uniquely identified at individual endpoints."]
+  },
+  {
+    "question": "What are the potential drawbacks of an API Gateway? Select two answers.",
+    "answers": ["Bottleneck in scalability", "Single point of failure"]
+  },
+  {
+    "question": "Which specification is followed by Swagger?",
+    "answers": ["OpenAPI"]
+  },
+  {
+    "question": "Which cURL command should be used to query a list of products?",
+    "answers": [
+      "curl -X 'GET' \\ 'http://127.0.0.1:5000/products' \\ -H 'accept: application/json'"
+    ]
+  },
+  {
+    "question": "Which HTTP method is used to create new data in a REST API?",
+    "answers": ["POST"]
+  },
+  {
+    "question": "What is the purpose of Postman?",
+    "answers": ["Tests APIs"]
+  },
+  {
+    "question": "Cloud Native Computing Foundation (CNCF) defines ‘serverless’ as the concept of building and running applications that do not require _______ management.",
+    "answers": ["server"]
+  },
+  {
+    "question": "Cloud provider is responsible for which of the following components in the Serverless model? Select three answers.",
+    "answers": ["OS", "Storage", "Network"]
+  },
+  {
+    "question": "___________ is a Serverless computing constraint.",
+    "answers": ["Vendor lock-in"]
+  },
+  {
+    "question": "Managing which one of the following is your responsibility in a Serverless computing model?",
+    "answers": ["Code"]
+  },
+  {
+    "question": "Which one is the key characteristic of a function in FaaS model?",
+    "answers": ["Scale automatically and independently as required"]
+  },
+  {
+    "question": "Which of the following is a best practice in FaaS design?",
+    "answers": ["Make each function perform only one action"]
+  },
+  {
+    "question": "What is the responsibility of the Front End in a Serverless Architecture?",
+    "answers": ["Host static content and scripts"]
+  },
+  {
+    "question": "Which is an example of post-processing in the Serverless Reference Architecture?",
+    "answers": [
+      "You could apply artificial intelligence or image recognition to upload images"
+    ]
+  },
+  {
+    "question": "Which is the key characteristic of IBM Cloud Functions?",
+    "answers": ["Cost-Effective and Highly Available"]
+  },
+  {
+    "question": "The Knative platform is offered by which service provider?",
+    "answers": ["Open-source option for Serverless"]
+  },
+  {
+    "question": "What is the main benefit of using PaaS, such as IBM Cloud Code Engine, to deploy your microservices?",
+    "answers": [
+      "Provides fully managed deployment services to help your deployment process with minimal efforts"
+    ]
+  },
+  {
+    "question": "What are the three deployment modes of IBM Cloud Code Engine?",
+    "answers": [
+      "(1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs"
+    ]
+  },
+  {
+    "question": "Which of the following statement is correct about Code Engine project and application?",
+    "answers": [
+      "A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects."
+    ]
+  },
+  {
+    "question": "What are the two main application-building methods supported in IBM Cloud Code Engine?",
+    "answers": ["Building container image with Dockerfile and Buildpack."]
+  },
+  {
+    "question": "What is the role of docker in container technology?",
+    "answers": [
+      "A software platform for building and running applications as containers"
+    ]
+  },
+  {
+    "question": "What is normally the first command of a Dockerfile?",
+    "answers": ["FROM"]
+  },
+  {
+    "question": "What is a container registry?",
+    "answers": [
+      "A container repository where your pushed container images are curated"
+    ]
+  },
+  {
+    "question": "Once your microservice or web application is deployed, how can you test it?",
+    "answers": [
+      "IBM Cloud Code Engine will provide a URL for you to run or test your service or application."
+    ]
+  },
+  {
+    "question": "What is the correct IBM Cloud CLI command to create and deploy an application?",
+    "answers": [
+      "“ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry”"
+    ]
+  },
+  {
+    "question": "Which method is used by the IBM Cloud Code Engine to access your container image?",
+    "answers": ["From both public and private container registry"]
+  }
+]

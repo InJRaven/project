@@ -1,0 +1,764 @@
+[
+  {
+    "question": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer describes an",
+    "answers": ["algorithm"]
+  },
+  {
+    "question": "To make this algorithm functional, which step would you add to step 4? Scan to find the smallest number Set to 0 in the index in the output array Remove that number from the input array __________________________________________",
+    "answers": ["Repeat steps 1-3, but add 1 to the index number for each loop"]
+  },
+  {
+    "question": "Take input, get output, use output on next input is an example of a learning algorithm",
+    "answers": ["true"]
+  },
+  {
+    "question": "Learning algorithms require large datasets, which means storing identifying information about users",
+    "answers": ["true"]
+  },
+  {
+    "question": "A _________ _________ in machine learning is the idea that the algorithm itself influences the next set of inputs that go into the model. The main takeaway is that algorithms sometimes have more influence than a user's initial input.",
+    "answers": ["feedback loop"]
+  },
+  {
+    "question": "Are anonymous datasets truly anonymous?",
+    "answers": ["No, due to combining data and re-identification"]
+  },
+  {
+    "question": "Which of the following best describes what an algorithm is?",
+    "answers": ["a recipe that a computer uses to solve problems"]
+  },
+  {
+    "question": "An algorithm that takes an input, tries 10 different sorting techniques, and uses the best fit on the next 100 inputs is best described as a",
+    "answers": ["learning algorithm"]
+  },
+  {
+    "question": "Which of these steps follows the most logical order for a low-to-high sorting algorithm?",
+    "answers": [
+      "Scan to find the smallest number Set to 0 in the index in the output array Remove that number from the input array Repeat steps 1-3, but add 1 to the index number for each loop"
+    ]
+  },
+  {
+    "question": "What's the difference between a basic and learning algorithm?",
+    "answers": [
+      "An basic algorithm takes an input and gets an output, while a learning algorithm uses the output on the next input"
+    ]
+  },
+  {
+    "question": "Pseudocode can best be defined as",
+    "answers": [
+      "an explainable description of code that is meant for humans, not computers"
+    ]
+  },
+  {
+    "question": "What side effect of learning algorithms creates an ethical dilemma for its users?",
+    "answers": [
+      "Learning algorithms require large datasets, which means storing identifying information about users"
+    ]
+  },
+  {
+    "question": "How do anonymized datasets fall short of their goal of being anonymous?",
+    "answers": [
+      "Anonymized datasets can be combined with other datasets, which can re-identify individuals"
+    ]
+  },
+  {
+    "question": "What is a likely outcome for a weather app using a learning algorithm to figure out where to put their future weather stations?",
+    "answers": [
+      "Collecting location data every time the app is opened, potentially learning where a user lives, works, etc."
+    ]
+  },
+  {
+    "question": "Which of the following is a good example of a feedback loop in machine learning?",
+    "answers": [
+      "A social media site tracks engagement, uses an algorithm to surface posts you're likely to engage with, which then goes back into the algorithm"
+    ]
+  },
+  {
+    "question": "A fact of learning algorithms is that",
+    "answers": [
+      "even if you haven't shared an direct datapoint about yourself, with enough related datapoints the algorithm can make an educated guess with alarming accuracy"
+    ]
+  },
+  {
+    "question": "A basic learning model can figure out which of the 10 sorting mechanisms works best for this type of input. A complex model ______________________",
+    "answers": ["automatically derives its mechanism"]
+  },
+  {
+    "question": "A model's error rate is the ratio of incorrect predictions to total predictions",
+    "answers": ["true"]
+  },
+  {
+    "question": "The goal of the _______________ is to get the model's error rate as low as possible. To do this, we repeat a cycle of feeding training data, compare predictions to actual outcomes, and adjust the model as needed.",
+    "answers": ["training phase"]
+  },
+  {
+    "question": "As models become more complex, researchers are unable to reason why the decisions are being made. This is called the _________________",
+    "answers": ["black box problem"]
+  },
+  {
+    "question": "____________ can often be caused by predicting what someone may or may not do based on data",
+    "answers": ["real harm"]
+  },
+  {
+    "question": "Hedge funds largely rely on predictive models to judge the movement of stocks, bonds, and securities",
+    "answers": ["true"]
+  },
+  {
+    "question": "What's the difference between a basic and complex learning algorithm?",
+    "answers": [
+      "A basic algorithm has a set amount of choices to optimize for, while a complex algorithm is given the freedom to find its own model"
+    ]
+  },
+  {
+    "question": "When building a predictive model, what is the goal of the develop phase?",
+    "answers": [
+      "To specify the type of algorithm the model should use and make sure the data is cleaned/formatted"
+    ]
+  },
+  {
+    "question": "When building a predictive model, what is the goal of the training phase?",
+    "answers": [
+      "To adjust the model based on a subset of data, optimizing for a lower error rate"
+    ]
+  },
+  {
+    "question": "When building a predictive model, what is the goal of the deployment phase?",
+    "answers": [
+      "To use the model in real-life predictions, monitoring the error rate and accuracy"
+    ]
+  },
+  {
+    "question": "What are the attributes of an error function when training a predictive model",
+    "answers": [
+      "the percentage of predictions that don't match actual outcomes"
+    ]
+  },
+  {
+    "question": "In a complex learning function, we will understand the ____, but not the ____",
+    "answers": ["inputs/outputs, algorithm"]
+  },
+  {
+    "question": "What is the black box problem?",
+    "answers": [
+      "When a model is deployed, but researchers are unable to figure out why it's making decisions"
+    ]
+  },
+  {
+    "question": "Which of the following is a negative consequence of a predictive model used in real life?",
+    "answers": [
+      "A model used by a bank wrongly predicts a person will not be able to pay off a loan"
+    ]
+  },
+  {
+    "question": "How are predictive models used in hedge funds?",
+    "answers": [
+      "they predict future movement of stocks and find points to exploit the market moving in either direction"
+    ]
+  },
+  {
+    "question": "What is one possible reason a model may predict a higher crime rate based on datasets used?",
+    "answers": [
+      "If drug arrests are historically high in that area, the model may correlate crime with areas of high drug use based on the datasets"
+    ]
+  },
+  {
+    "question": "To measure accuracy, take the number of ________ results and divide over the number of all results",
+    "answers": ["true positive and true negative"]
+  },
+  {
+    "question": "A false negative result is one in which the model predicts a result was negative, and in reality it was ___________. It is an _________ prediction",
+    "answers": ["positive, incorrect"]
+  },
+  {
+    "question": "City and State are correlated data, but a model will measure no variation and the results will not be affected",
+    "answers": ["false"]
+  },
+  {
+    "question": "A ________ training set relies on running a final accuracy test before deploying a model. An __________ training set relies on multiple tests to ensure that a model is free of bias",
+    "answers": ["classic, optimized"]
+  },
+  {
+    "question": "An unknown unknown is an example of a cultural reflection of data",
+    "answers": ["false"]
+  },
+  {
+    "question": "An ethical predictive model needs to be accurate, _____________, and fair",
+    "answers": ["explainable"]
+  },
+  {
+    "question": "To measure a predictive model's accuracy, you",
+    "answers": [
+      "divide the number of correct predictions by the total number of predictions"
+    ]
+  },
+  {
+    "question": "A predictive model's false negative result can be defined as",
+    "answers": [
+      "the predicted result was negative, and the actual result was positive"
+    ]
+  },
+  {
+    "question": "A predictive model's true positive result can be defined as",
+    "answers": [
+      "the predicted result was positive, and the actual result was positive"
+    ]
+  },
+  {
+    "question": "Model inputs of address with \"City + State\" as separate inputs from a dataset would violate which accuracy guideline?",
+    "answers": ["No correlating data"]
+  },
+  {
+    "question": "Once a dataset has been cleaned, which accuracy guideline ensures your model is looking at the problem correctly?",
+    "answers": ["Domain expertise"]
+  },
+  {
+    "question": "A good example of cultural reflection in training data is",
+    "answers": [
+      "a model selects for one demographic less often because of their historical representation"
+    ]
+  },
+  {
+    "question": "A good example of empirical reflection in training data is",
+    "answers": [
+      "an image recognition model cannot tell a difference between a photo of a dog and a photo of a photo of a dog"
+    ]
+  },
+  {
+    "question": "A training set based on feeding 60% of data, validating on 20% of data, and then designing multiple tests for the remaining 20% of data is referred to as an",
+    "answers": ["optimized training set"]
+  },
+  {
+    "question": "Our goals for building an ethical predictive model include making sure the results are",
+    "answers": ["accurate, fair and explainable"]
+  },
+  {
+    "question": "Unknown Unknowns refer to",
+    "answers": [
+      "lack of explainability and what a model is actually looking at to make it's prediction"
+    ]
+  },
+  {
+    "question": "Narrow AI (ANI) is defined as a specific type of artificial intelligence in which a technology outperforms humans in some defined task.",
+    "answers": ["true"]
+  },
+  {
+    "question": "An ethical, evolved predictive model would need to mimic a researcher's ability to _________________",
+    "answers": ["eliminate bias"]
+  },
+  {
+    "question": "Researchers believe that a general-purpose AI must be available to as many as possible, making it similar to a ________",
+    "answers": ["utility"]
+  },
+  {
+    "question": "A perverse instantiation is an unintended negative outcome of programming a goal that is too specific given to general intelligence",
+    "answers": ["false"]
+  },
+  {
+    "question": "For-profit colleges tend to use predictive models",
+    "answers": [
+      "to see which candidates are most likely to receive government loans."
+    ]
+  },
+  {
+    "question": "The second evolution of decision-making AI would enable",
+    "answers": ["predictive models to decide war strategy"]
+  },
+  {
+    "question": "For a model to clean, parse, and self-train it's own dataset while remaining impartial, the model needs",
+    "answers": ["a list of bias and domain tests to run and adjust for"]
+  },
+  {
+    "question": "For a model to make decisions that involve human life, the model needs",
+    "answers": ["a moral code of reasoning and priorities"]
+  },
+  {
+    "question": "A type of artificial intelligence that outperforms humans in some defined task is known as",
+    "answers": ["Narrow AI"]
+  },
+  {
+    "question": "A type of artificial intelligence that outperforms humans in all tasks is known as",
+    "answers": ["General AI"]
+  },
+  {
+    "question": "In 2019, ____% of equity-futures and cash-equity trades were executed by algorithms",
+    "answers": ["80-90%"]
+  },
+  {
+    "question": "The optimistic view of general AI could be accurately summarized as AI as a ____",
+    "answers": ["utility"]
+  },
+  {
+    "question": "The pessimist view of general AI references a scenario in which advancement is _____",
+    "answers": ["winner take all"]
+  },
+  {
+    "question": "An ethical general purpose AI must _____ while not harming the safety of humanity",
+    "answers": ["benefit as many people as possible"]
+  },
+  {
+    "question": "\"Companies have an obligation to their shareholders\" is part of a view that sees artificial intelligence as",
+    "answers": [
+      "just another tool that accelerates research, like online advertising"
+    ]
+  },
+  {
+    "question": "An unintended negative outcome of programming a broad goal into general intelligence is known as",
+    "answers": ["perverse instantiation"]
+  },
+  {
+    "question": "True or false: The definition of fairness is \"just treatment without bias and contempt\"",
+    "answers": ["false"]
+  },
+  {
+    "question": "Statistical parity as a fairness goal makes the most sense when",
+    "answers": ["distributing randomly, ex. tickets"]
+  },
+  {
+    "question": "Error rate parity means an equal chance of",
+    "answers": ["mistakes made for each group"]
+  },
+  {
+    "question": "If you know one group is misrepresented in merit by training data, one way to ensure fairness is to",
+    "answers": ["create a separate threshold for that group"]
+  },
+  {
+    "question": "True or false: fairness in machine learning cannot protect all individuals within protected groups from harm",
+    "answers": ["true"]
+  },
+  {
+    "question": "Our goal in machine learning fairness is to minimize _______ as long as _______ is obtained",
+    "answers": ["error rates, parity"]
+  },
+  {
+    "question": "True or false: it is practical to protect all possible subgroups in predictive modeling",
+    "answers": ["false"]
+  },
+  {
+    "question": "In machine learning, a pareto curve helps us",
+    "answers": ["pick an optimal tradeoff between fairness and accuracy"]
+  },
+  {
+    "question": "True or false: A blind attribute model protects group fairness by not including group membership in predictions",
+    "answers": ["false"]
+  },
+  {
+    "question": "An adversarial algorithm is _______________ to identify weaknesses in black box models",
+    "answers": ["purposefully biased"]
+  },
+  {
+    "question": "True or false: our analysis revealed that Word2Vec is not a black box model",
+    "answers": ["true"]
+  },
+  {
+    "question": "Which step in the fairness process would be most appropriate to introduce an auditing model?",
+    "answers": ["in-processing"]
+  },
+  {
+    "question": "True or false: the no free lunch theorem states that we cannot have fair models without giving up something else",
+    "answers": ["false"]
+  },
+  {
+    "question": "Which of the following is a good example of sample bias?",
+    "answers": [
+      "your model is trained to recognize pets, but you only give it photos of dogs"
+    ]
+  },
+  {
+    "question": "When cleaning/parsing data removes a potentially important attribute, that is referred to as",
+    "answers": ["exclusion bias"]
+  },
+  {
+    "question": "Labeling outputs made by predictive models can avoid which feedback issue?",
+    "answers": ["re-training bias"]
+  },
+  {
+    "question": "True or false: Recommendation engines are not as susceptible to feedback bias due to their constraints on data inputs",
+    "answers": ["false"]
+  },
+  {
+    "question": "A \"best response\" in game theory is when",
+    "answers": [
+      "a user has no choice but to follow the group dynamic to benefit"
+    ]
+  },
+  {
+    "question": "Fairness is best defined as just treatment without __________",
+    "answers": ["favoritism or discrimination"]
+  },
+  {
+    "question": "Which type of fairness would make sense when dividing tickets evenly between groups?",
+    "answers": ["statistical parity"]
+  },
+  {
+    "question": "Which type of fairness fails to address merit while maintaining accuracy?",
+    "answers": ["statistical parity"]
+  },
+  {
+    "question": "A model that prioritizes equality on the outputs uses",
+    "answers": ["error rate parity"]
+  },
+  {
+    "question": "Fairness in machine learning can protect groups from bias, but can still harm",
+    "answers": ["individuals within those groups"]
+  },
+  {
+    "question": "A goal of a fair model's accuracy standards is to",
+    "answers": ["minimize the error rate as long as parity is obtained"]
+  },
+  {
+    "question": "A model that makes more mistakes by moving its decision threshold down 40% of its worthiness metric will be potentially",
+    "answers": ["fairer but less accurate"]
+  },
+  {
+    "question": "If one group comprises the majority of the training data, they will skew the dataset and give the model",
+    "answers": ["more confidence about that group"]
+  },
+  {
+    "question": "If we know one group's worthiness score has been artificially inflated, one solution for fairness is to",
+    "answers": ["creating separate decision thresholds for each group"]
+  },
+  {
+    "question": "An unfair model will by nature",
+    "answers": ["optimize for making the fewest mistakes"]
+  },
+  {
+    "question": "A state where resources cannot be reallocated to make one individual better off without making at least one individual worse off is known as a",
+    "answers": ["pareto efficiency"]
+  },
+  {
+    "question": "In machine learning, what do we plot on the X,Y axis to determine a pareto curve?",
+    "answers": ["Error rate, rejection rate"]
+  },
+  {
+    "question": "Why is it impractical to protect all possible subgroups in predictive models?",
+    "answers": ["Accuracy will be lowered beyond a reasonable rate"]
+  },
+  {
+    "question": "A model that equalizes the number of mistakes it makes for each subgroup to reduce harm is deciding on",
+    "answers": ["equality of false negatives"]
+  },
+  {
+    "question": "A _________ model can still be unfair even though it won't explicitly know which groups are being inputted into the system",
+    "answers": ["blind attribute"]
+  },
+  {
+    "question": "What tools do researchers have to evaluate the fairness of existing black box models?",
+    "answers": ["Change inputs, evaluate outputs"]
+  },
+  {
+    "question": "A \"purposefully biased\" algorithm used to identify unfair attributes is known as",
+    "answers": ["an adversarial algorithm"]
+  },
+  {
+    "question": "In presenting an audit report, a researcher would",
+    "answers": ["score the weight of input attributes on output"]
+  },
+  {
+    "question": "In fixing the Word2Vec model, we have an advantage over a traditional black box model in that",
+    "answers": ["we have access to the training data"]
+  },
+  {
+    "question": "An auditing model is an example of a ______ bias mitigation method",
+    "answers": ["in-processing"]
+  },
+  {
+    "question": "The __________ theorem states that all models have the same error rate when averaged over all possible data generating distributions.",
+    "answers": ["no free lunch"]
+  },
+  {
+    "question": "As a cognitive bias, humans see lack of context/meaning around a piece of information and tend to",
+    "answers": ["fill in gaps with existing knowledge"]
+  },
+  {
+    "question": "When your collected data doesn't accurately reflect the full environment, you're experiencing",
+    "answers": ["sample bias"]
+  },
+  {
+    "question": "The tendency to only seek attributes in existing collected data is known as",
+    "answers": ["availability bias"]
+  },
+  {
+    "question": "An example of automation bias is",
+    "answers": ["using scraped twitter data over survey data"]
+  },
+  {
+    "question": "A ________ is when a model is validated by it's own influence on predictions",
+    "answers": ["self-fulfilling prediction"]
+  },
+  {
+    "question": "One way to avoid feedback loops in machine learning is to",
+    "answers": ["label outputs to prevent re-training bias"]
+  },
+  {
+    "question": "Dating algorithms become biased mostly through offering users _________",
+    "answers": ["collaborative filtering"]
+  },
+  {
+    "question": "Predictive loops in marketplace models like dating apps are especially susceptible to bias due to",
+    "answers": ["short feedback cycles"]
+  },
+  {
+    "question": "Game theory states that outcomes that are best for _____ can be obscured by outcomes best for ______",
+    "answers": ["the group, the individual"]
+  },
+  {
+    "question": "A dataset column that cannot directly identify, like zip code, is called a",
+    "answers": ["quasi-identifiable column"]
+  },
+  {
+    "question": "True or false: k-anonymity protects users from all privacy violations",
+    "answers": ["false"]
+  },
+  {
+    "question": "Which of the following is an example of partially obfuscated data?",
+    "answers": ["60-70 years old"]
+  },
+  {
+    "question": "True or false: a non-sensitive column can endanger user privacy",
+    "answers": ["True"]
+  },
+  {
+    "question": "Why is it important to limit precise outputs in a predictive model?",
+    "answers": ["It can help limit adversarial attacks"]
+  },
+  {
+    "question": "Where is a perturbed input used?",
+    "answers": ["To observe differing outputs"]
+  },
+  {
+    "question": "Which of the following is not a recommended security practice in machine learning?",
+    "answers": ["Create a chain of command"]
+  },
+  {
+    "question": "True or false: data minimization is the concept of shrinking datasets to only what is required to fulfill a general purpose",
+    "answers": ["True"]
+  },
+  {
+    "question": "A model working at 95% with 100k rows of data and 97% with 500k rows is an example of",
+    "answers": ["diminishing returns"]
+  },
+  {
+    "question": "True or false: global differential privacy is added after data is collected",
+    "answers": ["True"]
+  },
+  {
+    "question": "Randomized response in local differential privacy gives its users which of the following?",
+    "answers": ["plausible deniability"]
+  },
+  {
+    "question": "In reverse-engineering a double coin flip differential model, what would be the amount of falsified \"yes/no\" responses in our dataset?",
+    "answers": ["25%"]
+  },
+  {
+    "question": "True or false: a glass box model is traditionally preferred by businesses",
+    "answers": ["False"]
+  },
+  {
+    "question": "An ethical model will be more fair and explainable, at the expense of ________",
+    "answers": ["accuracy"]
+  },
+  {
+    "question": "Explainable models can provide _________, which look very similar to auditing models",
+    "answers": ["attribute weight charts"]
+  },
+  {
+    "question": "Which of the following is a strategy to improve group outcomes using game theory?",
+    "answers": ["explainable recommendation systems"]
+  },
+  {
+    "question": "True or false: glass box models allow agents to re-run them",
+    "answers": ["True"]
+  },
+  {
+    "question": "A differentially private search algorithm would add some ______ at the expense of _______",
+    "answers": ["noise, accuracy"]
+  },
+  {
+    "question": "A dataset attribute that is not identifiable but constitutes data about the individual that needs to be protected is known as a",
+    "answers": ["sensitive column"]
+  },
+  {
+    "question": "K-anonymity in a dataset is achieved when each individual cannot be",
+    "answers": [
+      "distinguished from at least K individuals who are also in the dataset"
+    ]
+  },
+  {
+    "question": "A major downside to k-anonymity is that re-identification is possible with",
+    "answers": ["multiple datasets"]
+  },
+  {
+    "question": "A hospital dataset protects whether an individual has had either a stroke, heart attack, or staph infection. The individual may still be harmed via dataset",
+    "answers": ["group inclusion"]
+  },
+  {
+    "question": "A non-sensitive column may become sensitive or even identifiable when viewed through the lens of",
+    "answers": ["algorithmic privacy violations"]
+  },
+  {
+    "question": "An example of a public dataset at risk of an algorithmic privacy violation is the",
+    "answers": ["Google Maps satellite view dataset"]
+  },
+  {
+    "question": "The Netflix prize privacy scandal is an example of reidentification through",
+    "answers": ["multiple datasets"]
+  },
+  {
+    "question": "The nature of a predictive model may reveal ___________",
+    "answers": ["the data it is trained on"]
+  },
+  {
+    "question": "An adversarial model relies on using __________ to observe different outputs",
+    "answers": ["perturbed inputs"]
+  },
+  {
+    "question": "One way to counter a potential adversarial algorithm is by",
+    "answers": ["limiting precise outputs"]
+  },
+  {
+    "question": "Which of the following is a recommended security practice for machine learning datasets?",
+    "answers": ["Enact a sound data governance structure"]
+  },
+  {
+    "question": "The Data minimization principle requires that you limit data collection to only what is __________",
+    "answers": ["required to fulfill a specific purpose"]
+  },
+  {
+    "question": "Delete unused data __________ is a method of data minimization",
+    "answers": ["early and often"]
+  },
+  {
+    "question": "GDPR states that \"Personal data shall be adequate, relevant and __________ in relation to the purpose or purposes for which they are processed.\"",
+    "answers": ["not excessive"]
+  },
+  {
+    "question": "What can be learned from a predictive model should not change if the _________ is either included or excluded in the training set",
+    "answers": ["individual's data"]
+  },
+  {
+    "question": "Differential privacy works by adding what to a dataset?",
+    "answers": ["noise"]
+  },
+  {
+    "question": "If a coin is flipped, which of the following would ensure \"yes/no\" data is private while still remaining useful?",
+    "answers": ["heads for true answer, tails for random answer"]
+  },
+  {
+    "question": "At which level of differential privacy is the outcome secured from even the people collecting answers?",
+    "answers": ["local"]
+  },
+  {
+    "question": "Plausible deniability refers to the ability of the individual to ______",
+    "answers": ["claim their score was randomized response"]
+  },
+  {
+    "question": "In reverse-engineering a double coin flip differential model, what would be the amount of truthful \"yes/no\" responses in our dataset?",
+    "answers": ["75%"]
+  },
+  {
+    "question": "Ethical models are _________",
+    "answers": ["accurate, explainable, and fair"]
+  },
+  {
+    "question": "A _____ model is preferred by businesses because they see less competition as a benefit",
+    "answers": ["black box"]
+  },
+  {
+    "question": "One benefit of an explainable model is",
+    "answers": ["recruiting leverage"]
+  },
+  {
+    "question": "The Strava dataset example illustrates that while differential privacy can protect individuals, it can still harm _______",
+    "answers": ["groups"]
+  },
+  {
+    "question": "The explainable AI movement states that cooperation between agents, in this case, algorithms and humans, depends on which of the following?",
+    "answers": ["trust"]
+  },
+  {
+    "question": "A benefit of glass-box models is that if an attribute is skewing the fairness of a decision, a human agent may choose to",
+    "answers": ["re-run the algorithm without it"]
+  },
+  {
+    "question": "_____ algorithms are a challenge to explainable AI, as their complexity makes it difficult to weigh attribute importance",
+    "answers": ["deep learning"]
+  },
+  {
+    "question": "When used in recommendation engines, explainable algorithms can help answer the question of ____",
+    "answers": ["why?"]
+  },
+  {
+    "question": "Group outcomes being improved through explainable recommendation systems is an example of using _______ to modify outcomes",
+    "answers": ["game theory"]
+  },
+  {
+    "question": "A major limitation of using explainable, adjustable algorithms is that users tend to make _____ decisions",
+    "answers": ["selfish"]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) What lessons can be learned from game theory about optimizing for both individual and group outcomes in recommendation models?",
+    "answers": [
+      "Game theory teaches us that systems optimized solely for individual benefit can undermine collective welfare. In recommendation models, this means balancing user preferences with broader group outcomes. By encouraging cooperative strategies, such as fair distribution of opportunities or exposure, models can achieve “Pareto-efficient” outcomes where no group is made worse off to benefit another."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) What are the potential negative outcomes of using a predictive model that is subject to instant user feedback?",
+    "answers": [
+      "Models that adjust too quickly to user feedback risk creating feedback loops that reinforce biases. For example, a dating app might over-represent certain groups because of immediate popularity signals, marginalizing others and reducing diversity. Additionally, instant feedback can amplify harmful stereotypes, making the model less fair and less representative over time."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How can these lessons be applied to ensure that user preferences can be recognized without causing fairness issues?",
+    "answers": [
+      "User preferences should be incorporated alongside fairness constraints so that the model recognizes individual choices without letting them dominate outcomes. This could mean limiting how much weight any single user’s feedback carries, or balancing short-term user satisfaction with long-term fairness metrics. In practice, it requires a hybrid approach: optimizing recommendations for individual relevance while also protecting group equity."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How would you instruct the company to monitor and update the model after launching it?",
+    "answers": [
+      "I would recommend continuous monitoring with fairness dashboards that track error rates, representation levels, and satisfaction metrics across subgroups. The company should schedule periodic audits, retrain with updated and more diverse datasets, and use A/B testing to evaluate fairness interventions. Most importantly, resource officers or moderators should remain part of the feedback loop, ensuring human judgment corrects issues the algorithm might miss."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How can fairness and bias issues be mitigated in this family screening tool before results reach a resource officer?",
+    "answers": [
+      "Fairness can be improved by auditing the dataset for over- or under-representation of specific groups and applying techniques such as re-sampling or balanced weighting to correct disparities. Separate thresholds could be introduced to ensure groups with historically inflated or deflated risk scores are treated equitably. Additionally, the tool should undergo continuous fairness testing to detect whether error rates are consistent across demographics, with adjustments applied before results are shared with a resource officer."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How could the County implement systems to help those resource officers using the algorithm to make more informed decisions?",
+    "answers": [
+      "The County could provide explainable AI dashboards that show not only the tool’s risk scores but also the key attributes influencing the outcome. Training programs could teach officers how to interpret results critically rather than treating the algorithm as absolute. Officers could also be given access to contextual data—family history, social support networks, and human observations—so that the AI’s output is one input among many, rather than the deciding factor."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) Even with fairness protections in place, do you believe these algorithms are beneficial to society? What are some of the major drawbacks of becoming reliant on predictive models to make substantial decisions?",
+    "answers": [
+      "These algorithms can be beneficial if they help allocate limited resources more efficiently and highlight at-risk cases that may otherwise go unnoticed. However, they also carry risks of over-reliance, where human judgment is sidelined in favor of automated decisions. Major drawbacks include the possibility of perpetuating hidden biases in training data, creating opaque systems that reduce accountability, and eroding trust if families feel unfairly targeted. Predictive models should therefore be used cautiously, with human oversight and accountability built in at every stage."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How might a company building on top of generative AI platforms harm its users due to the fairness shortcomings of the underlying models? You may draw from the fictional examples we've covered in the specialization (such as loans and job applications), as well as real-world cases reported online where companies have been caught in fairness controversies.",
+    "answers": [
+      "A company that relies on generative AI without addressing fairness gaps may unintentionally reinforce harmful stereotypes or systematically disadvantage certain groups. For example, if an AI-powered hiring platform is built on biased training data, it might under-rank qualified candidates from marginalized backgrounds. Similarly, an AI system used in lending could assign lower creditworthiness scores to minority applicants, perpetuating historical inequities. These harms reduce trust, limit opportunities, and expose the company to reputational and legal risks."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How could companies developing generative AI solutions build tools to ensure that users apply their models fairly? What approaches could they take to identify and mitigate biases within their datasets?",
+    "answers": [
+      "Companies can embed fairness auditing tools directly into their platforms, allowing users to visualize bias across demographics before deploying models. They might implement bias detection pipelines that flag disparities in outcomes and error rates between groups. Techniques such as balanced re-sampling, adversarial debiasing, and separate thresholds for underrepresented groups can mitigate inequities. Importantly, regular dataset reviews and external audits should be conducted to ensure bias does not creep back in as the data evolves."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) What best practices should companies developing solutions with generative AI adopt to maximize ethical outcomes in their models?",
+    "answers": [
+      "Best practices include prioritizing transparency by offering explainable outputs, enforcing strict data governance, and applying data minimization principles. Companies should involve diverse stakeholders during model development to surface potential blind spots. They should also adopt a “fairness-first” approach, where accuracy is pursued alongside equity, not at its expense. Continuous monitoring after deployment is critical—AI fairness isn’t a one-time adjustment, but an ongoing responsibility."
+    ]
+  },
+  {
+    "question": "Write a few sentences to address the question below, based on the scenario you just reviewed (remember the goal is to be able to use this as a portfolio piece, so it's worth putting in the effort!) How could a company build an ethical model using generative AI that reduces harm to its users as much as possible? You may create a new example or carry over your scenario from section one",
+    "answers": [
+      "A company could design a job-matching platform that uses generative AI while ensuring fairness by incorporating explainability, fairness constraints, and subgroup analysis into the model. For example, the platform might adjust thresholds so that historically underrepresented candidates are not penalized by biased historical hiring patterns. It could provide users with clear explanations of why certain matches were made and allow them to challenge or refine results. By combining fairness metrics, explainability, and user feedback loops, the model would minimize harm and foster trust among users."
+    ]
+  }
+]

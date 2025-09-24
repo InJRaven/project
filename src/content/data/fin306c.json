@@ -1,0 +1,1325 @@
+[
+  {
+    "question": "Company XYZ provides consulting services to Company ABC in November 2022 for a fee of $100,000. Company ABC pays $50,000 in cash in November 2022 and the remaining $50,000 in January 2023. Company XYZ incurred $10,000 in expenses related to the consulting services in November 2022, which will be paid in December 2022. Additionally, on November 1, 2022, Company XYZ pre-paid $12,000 for rent for the next twelve months. What should Company XYZ recognize as net income/ net operating cash flow for November 2022?",
+    "answers": ["Net Income: $89,000; Net Operating Cash Flow: $38,000."]
+  },
+  {
+    "question": "Which of the following is NOT an objective of the Conceptual Framework, as defined by US GAAP?",
+    "answers": [
+      "To establish specific rules for recognizing and measuring transactions and events"
+    ]
+  },
+  {
+    "question": "Which factors would raise doubts about an entity's ability to continue as a going concern under US GAAP?",
+    "answers": [
+      "A significant decrease in demand for the entity's products or services."
+    ]
+  },
+  {
+    "question": "Which of the following statements regarding the use of IFRS in the United States is true?",
+    "answers": [
+      "US companies can voluntarily choose to use IFRS for financial reporting purposes."
+    ]
+  },
+  {
+    "question": "Which organization has the legal authority to establish and enforce financial reporting standards for publicly traded companies in the United States?",
+    "answers": ["The Securities and Exchange Commission (SEC)"]
+  },
+  {
+    "question": "Which of the following best describes the principle of verifiability in financial reporting?",
+    "answers": [
+      "Financial statements should include information that can be verified or confirmed through independent sources or methods"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of the historical cost principle in accounting?",
+    "answers": [
+      "Recording a machine on the balance sheet at its original purchase price"
+    ]
+  },
+  {
+    "question": "Which financial statement provides information about a company's revenues, expenses, and net income or loss over a period of time?",
+    "answers": ["Income statement"]
+  },
+  {
+    "question": "Which of the following is an example of accrual accounting?",
+    "answers": [
+      "A company records revenue when it delivers products or services to customers, regardless of when it receives payment."
+    ]
+  },
+  {
+    "question": "Which of the following scenarios demonstrates the use of accrual accounting?",
+    "answers": [
+      "A business records a $10,000 sale on credit on December 31st, but the payment is not received until January 15th of the following year."
+    ]
+  },
+  {
+    "question": "Which organization is primarily responsible for establishing and improving US Generally Accepted Accounting Principles (GAAP)?",
+    "answers": ["The Financial Accounting Standards Board (FASB)"]
+  },
+  {
+    "question": "ABC Corporation has been using the FIFO inventory valuation method for several years. They have decided to switch to the LIFO method in the current year. Which accounting principle requires that they disclose this change in their financial statements?",
+    "answers": ["Consistency"]
+  },
+  {
+    "question": "Which of the following is an example of historical cost accounting?",
+    "answers": ["Recording a building at its original purchase price"]
+  },
+  {
+    "question": "As per Generally Accepted Accounting Principles (GAAP), financial statements are the primary means of communicating financial information to stakeholders. Which of the following is not classified as a financial statement?",
+    "answers": ["Notes"]
+  },
+  {
+    "question": "Which of the following is an example of an accounting process?",
+    "answers": ["Calculating payroll taxes for employees"]
+  },
+  {
+    "question": "Which of the following best describes a T-account?",
+    "answers": [
+      "A graphical representation of debits and credits for a specific account"
+    ]
+  },
+  {
+    "question": "What is the purpose of an adjusting entry in the accounting process?",
+    "answers": [
+      "To update accounts to their proper amounts for financial reporting"
+    ]
+  },
+  {
+    "question": "Company X's retained earnings balance at the end of 2024 was $60,000. During that year, the company paid out $10,000 in dividends and had a net income of $25,000. What was the company's retained earnings balance at the beginning of 2024?",
+    "answers": ["$45,000"]
+  },
+  {
+    "question": "If a company borrows money from a bank, how does this transaction affect the company's liabilities and assets?",
+    "answers": ["Liabilities and assets both increase"]
+  },
+  {
+    "question": "Which of the following best describes the revenue recognition concept in accounting?",
+    "answers": [
+      "Recognizing revenue when it is earned, regardless of when payment is received"
+    ]
+  },
+  {
+    "question": "Which of the following statements best describes a non-adjusted trial balance?",
+    "answers": ["It is prepared before any adjusting entries are made"]
+  },
+  {
+    "question": "Which of the following statements is true about closing entries in accounting?",
+    "answers": [
+      "Closing entries transfer net income or loss to the retained earnings account."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of an item that may be included in the statement of comprehensive income?",
+    "answers": ["Unrealized gains in available for sale investments"]
+  },
+  {
+    "question": "Which of the following is an example of a permanent asset account in the accounting process?",
+    "answers": ["Prepaid rent"]
+  },
+  {
+    "question": "At the end of the 2022 fiscal year, Company X has current assets of $800,000, including inventory of $120,000 and prepaid rent of $50,000. Its total assets are $1,500,000, current liabilities are $200,000, and total liabilities are $400,000. What is Company X's current ratio?",
+    "answers": ["4.00"]
+  },
+  {
+    "question": "At the end of the 2022 fiscal year, Company X has current assets of $800,000, including inventory of $120,000 and prepaid rent of $50,000. Its total assets are $1,500,000, current liabilities are $200,000, and total liabilities are $400,000. What is Company X's debt to equity ratio?",
+    "answers": ["0.36"]
+  },
+  {
+    "question": "Which of the following best describes the times interest earned (TIE) ratio?",
+    "answers": [
+      "It measures a company's ability to meet its interest obligations."
+    ]
+  },
+  {
+    "question": "Which of the following policy decisions would not be included in the Summary of Significant Accounting Policies?",
+    "answers": ["Issuance of debt or equity"]
+  },
+  {
+    "question": "Given the importance of liquidity ratios in measuring a company's ability to meet its short-term obligations, which of the following transactions would contribute to an increase in a company's liquidity ratios?",
+    "answers": ["Borrow cash by signing a two-year note"]
+  },
+  {
+    "question": "Which of the following statements accurately categorizes accumulated depreciation in the Balance Sheet, a financial statement that provides information about a company's financial position at a specific point in time?",
+    "answers": [
+      "A contra-asset category that offsets the value of an asset, such as property or equipment, and reflects the total depreciation expense incurred over the asset's useful life."
+    ]
+  },
+  {
+    "question": "Which of the following factors hinders the efficacy of the Balance Sheet for internal and external decision makers?",
+    "answers": [
+      "The Balance Sheet utilizes assumptions to determine Balance Sheet values."
+    ]
+  },
+  {
+    "question": "Which of the following statements is true regarding the differences between Form 10-K, Form 10-Q, and Form 8-K?",
+    "answers": [
+      "Form 10-K is filed annually and includes audited financial statements, while Form 10-Q is filed quarterly and includes unaudited financial statements."
+    ]
+  },
+  {
+    "question": "Which of the following statements is true regarding the difference between unqualified and qualified audit reports?",
+    "answers": [
+      "An unqualified audit report indicates that the financial statements are free of material misstatements, while a qualified audit report indicates that there were material misstatements found in the financial statements."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a segment as defined by the segment reporting standards?",
+    "answers": ["Product line"]
+  },
+  {
+    "question": "What is the difference between a single-step income statement and a multiple-step income statement?",
+    "answers": [
+      "A single-step income statement combines all revenues and expenses into one category, while a multiple-step income statement separates them into several categories."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of other income (expense) on the income statement?",
+    "answers": ["Gain on sale of investment", "Interest Expense"]
+  },
+  {
+    "question": "What is the difference between continued operations and discontinued operations on an income statement?",
+    "answers": [
+      "Continued operations are ongoing business activities that are expected to continue in the future, while discontinued operations are business activities that have been sold or terminated."
+    ]
+  },
+  {
+    "question": "What is the formula for calculating earnings per share (EPS)?",
+    "answers": [
+      "Net income minus preferred dividends divided by average common shares outstanding"
+    ]
+  },
+  {
+    "question": "A company has net income of $500,000 and preferred dividends of $50,000. The company has 1,000,000 shares of common stock outstanding for the entire year. What is the earnings per share (EPS) for the company?",
+    "answers": ["$0.45"]
+  },
+  {
+    "question": "Which of the following is not a commonly used non-GAAP earnings metric?",
+    "answers": ["Gross Profit Margin"]
+  },
+  {
+    "question": "Using the indirect method, what is the cash flow from operating activities based on the following information? Net income = $15,000 Loss on sale of equipment = $3,500 Increase in accounts receivable = $1,200 Decrease in inventory = $400 Increase in accounts payable = $700",
+    "answers": ["$18,400"]
+  },
+  {
+    "question": "Which section of the cash flow statement reports the cash inflows and outflows from a company's day-to-day operations?",
+    "answers": ["Operating activities"]
+  },
+  {
+    "question": "A company has accounts receivable of $50,000 and credit sales of $200,000 for the year. What is the average collection period for accounts receivable? (round to the nearest number)",
+    "answers": ["90 days"]
+  },
+  {
+    "question": "A company has a net profit margin of 8%, an asset turnover of 1.5, and an equity multiplier of 2. What is the return on equity (ROE)?",
+    "answers": ["24%"]
+  },
+  {
+    "question": "Emily has $5,000 that she wants to invest in a savings account that earns 3% interest compounded annually for a period of four years. What is the expected future value of her investment at the end of the four-year term?",
+    "answers": ["$5,627"]
+  },
+  {
+    "question": "Which of the following best describes the concept of time value of money?",
+    "answers": [
+      "Money is worth more in the future than the same amount today due to the potential to earn interest."
+    ]
+  },
+  {
+    "question": "David wants to invest $10,000 in a savings account that earns 4% simple interest per year for two years. What is the expected future value of his investment at the end of the two-year term?",
+    "answers": ["$10,800"]
+  },
+  {
+    "question": "What is the key difference between an ordinary annuity, an annuity due, and a deferred annuity?",
+    "answers": ["The timing of the payments"]
+  },
+  {
+    "question": "The Smith Corporation wants to accumulate $3,500,000 for a new project. The funds are needed on January 1, 2027. Smith intends to make six equal annual deposits in a fund that will earn interest at 8% compounded annually. The first deposit is to be made one year from today, January 1, 2022. What is the amount of the required annual deposit?",
+    "answers": ["$477,104"]
+  },
+  {
+    "question": "Carla plans to make monthly deposits of $150 for four years into a savings account. The first deposit will be made immediately. The savings account pays interest at an annual rate of 6%, compounded monthly. How much will Carla have accumulated in the savings account at the end of the four-year period? Round to the nearest dollar.",
+    "answers": ["$8,115"]
+  },
+  {
+    "question": "On January 1, 2022, the Johnson Company purchased merchandise from a supplier. Payment was a non-interest bearing note requiring four annual payments of $30,000 on each December 31 beginning on December 31, 2022, and a lump-sum payment of $120,000 on December 31, 2025. A 12% interest rate properly reflects the time value of money in this situation. How much should you capitalize the merchandise purchase in the assets?",
+    "answers": ["$167,383"]
+  },
+  {
+    "question": "The Kiddo Toy Company needs to acquire the use of a new piece of equipment to enhance its manufacturing process. The machine in question is manufactured by the Bouncy Corp. The machine has an estimated useful life of 15 years and can be sold for $20,000 at the end of its useful life. Bouncy Corp has provided Kiddo Toy Company with two options: Buy the Machine. The equipment can be purchased outright for $300,000. The machine's annual maintenance and insurance cost is expected to be around $10,000 per year, which Kiddo Toy Company would pay. Lease the Machine. The machine can be leased for 15 years with an annual lease payment of $35,000. The first payment is due immediately. Bouncy Corp will cover all maintenance and insurance costs. At the end of the 15-year lease period, the machine would be returned to Bouncy Corp. If the time value of money is estimated to be 10%, which option should Kiddo Toy Company choose?",
+    "answers": ["Lease the machine, as it is cheaper in the long run."]
+  },
+  {
+    "question": "Widget Co. needs to acquire the use of a piece of equipment to manufacture its products. The equipment needed is manufactured by Gear Inc. The equipment can be used for 7 years and then sold for $20,000 at the end of its useful life. Gear has presented Widget with the following options: Buy the equipment. The equipment could be purchased for $200,000 in cash. All maintenance costs, which approximate $10,000 per year, would be paid by Widget. Lease the equipment. The equipment could be leased for a 7-year period for an annual lease payment of $40,000 with the first payment due immediately. All maintenance costs will be paid for by the Gear Inc. and the equipment will revert back to Gear at the end of the 7-year period. Assuming that a 10% interest rate properly reflects the time value of money in this situation and that all maintenance costs are paid at the end of each year, determine which option Widget should choose for its present value. Ignore taxes.",
+    "answers": ["$214,210.43"]
+  },
+  {
+    "question": "As a high-profile executive of a Fortune 500 company, Elizabeth has been asked to accept an early retirement package. The company has offered her three enticing compensation packages to persuade her to retire. The packages are as follows: A lump sum of $500,000 to be paid immediately. An annuity of $50,000 per year for 25 years, with the first payment made immediately. An annuity of $100,000 per year for 10 years, with the first payment made on the date Elizabeth turns 65 years old (in 10 years). Assuming that Elizabeth can invest funds at a 8% rate, which alternative should she choose?",
+    "answers": [
+      "Option 2: Annuity of $50,000 per year for 25 years, with the first payment made immediately"
+    ]
+  },
+  {
+    "question": "Which of the following is not a criteria for recognizing revenue under the accrual basis of accounting?",
+    "answers": ["The customer has paid for the product or service."]
+  },
+  {
+    "question": "Which of the following statements regarding performance obligations under US GAAP is true?",
+    "answers": [
+      "A performance obligation is a promise to transfer a distinct good or service to a customer"
+    ]
+  },
+  {
+    "question": "On December 1, 2022, ABC Corp signed a contract with a customer for $12,000 to provide services over the next six months. On December 31, 2022, ABC completed 20% of the services. Which of the following journal entries should ABC make on December 31, 2022, in accordance with US GAAP revenue recognition standards?",
+    "answers": ["Debit Unearned Revenue for $2,400, credit Revenue for $2,400"]
+  },
+  {
+    "question": "In the realm of commerce and contractual obligations, Dunne Co. has crafted an agreement comprising two remarkable performance obligations. Behold Product A, with a majestic stand-alone selling price of $150, and Product B, graced with a stand-alone selling price of $300. Now, witness the grandeur of their combined offering, shimmering at a total price of $360. Enveloped in this transaction lies the question: What portion of this splendid price shall be artfully allocated to the performance obligation for delivering Product B?",
+    "answers": ["$90"]
+  },
+  {
+    "question": "The prestigious Cora Co. has inked a wondrous agreement in contractual marvels and corporate dealings, graced with two distinct performance obligations. Its standalone selling price remains shrouded in mystery for the enigmatic Product A, impervious to estimation. Behold Product B, with an awe-inspiring standalone selling price of $250. Now, set your gaze upon the total of their combined offering, a price of $360. Amidst this transaction, the inquiry arises: What portion of this price shall be allocated to the performance obligation for delivering Product B?",
+    "answers": ["$250"]
+  },
+  {
+    "question": "Dynamo Electronics, a renowned electronics manufacturer, has introduced an exclusive promotion for its cutting-edge tablet device - an extended service plan at a reduced rate. The standard price of the service plan is $400, but Dynamo is offering it for $320 when purchased with the tablet. They estimate a 60% likelihood that customers will opt for the discounted extended service plan when buying the tablet. Assuming Dynamo sells 500 tablets with the extended service plan discount offer, what would be the total stand-alone selling price allocated to the extended service plan option in these 500 tablet contracts?",
+    "answers": ["$24,000"]
+  },
+  {
+    "question": "Amazonia Solutions operates a platform that connects stores around the world. When the customer tries to find a product online on Amazonia Solutions, and there isn’t that product, Amazonia connects the customer with other associated stores and receives a 15% fee commission from the other stores for facilitating the connection. One customer went through Amazonia and agreed to pay $8,000 for a product in Unga Bunga Store. How would this transaction be reflected on Amazonia Solutions’ income statement?",
+    "answers": ["Revenue of $1,200"]
+  },
+  {
+    "question": "Meet Harmony, an upscale boutique offering elegant gift cards redeemable for luxurious products. In 2025, Harmony sold $4,500,000 worth of gift cards, and customers redeemed $4,000,000 of the gift cards for their desired items. By December 31, 2025, Harmony determined that $250,000 of the remaining gift cards would unlikely be redeemed. How much gift card revenue should Harmony recognize in 2025?",
+    "answers": ["$4,250,000"]
+  },
+  {
+    "question": "ABC Company enters into a consignment arrangement with XYZ Corporation to sell its products. The products are delivered to XYZ's premises, but ownership remains with ABC until the products are sold to end customers. Which of the following statements regarding revenue recognition in this consignment arrangement is correct?",
+    "answers": [
+      "ABC Company recognizes revenue when the products are sold to end customers."
+    ]
+  },
+  {
+    "question": "XYZ Corporation sold a product to a customer for $10,000. The customer has the option to pay the full amount upfront or make equal annual payments over a period of three years. XYZ Corporation uses a discount rate of 8% to assess the time value of money. Which of the following statements regarding revenue recognition and time value of money is correct?",
+    "answers": [
+      "XYZ Corporation recognizes revenue based on the total discounted cash flows, considering the time value of money."
+    ]
+  },
+  {
+    "question": "Company XYZ enters into a long-term software development contract with a customer. The contract is expected to span over two years and has a total contract value of $500,000. According to US GAAP guidelines, if the outcome of the contract cannot be reasonably estimated, which of the following methods is required for revenue recognition in long-term contracts?",
+    "answers": ["Completed Contract Method"]
+  },
+  {
+    "question": "Under US GAAP, how is Construction in Progress (CIP) typically classified and reported for long-term contracts?",
+    "answers": ["CIP is classified as a long-term asset on the balance sheet."]
+  },
+  {
+    "question": "Company XYZ is engaged in a long-term construction project and has a contract with a customer for $2,000,000. As of the end of the reporting period, the company has billed the customer for $1,200,000 based on the progress of the project. According to US GAAP, how should the progress billings be reported in the financial statements?",
+    "answers": [
+      "Recognize the $1,200,000 as a contra asset CIP account based on the percentage of completion method."
+    ]
+  },
+  {
+    "question": "In the construction industry, Kyle Engineering Inc. has secured a contract to build a state-of-the-art bridge at a contracted price of $18,000,000. The company follows the percentage-of-completion method to recognize revenue over time. Here are the project updates: Cost Incurred 2023 $4,500,000 2024 $1,500,000 2025 $3,750,000 Estimated Additional Cost to Complete 2023 $9,000,000 2024 $6,750,000 2025 $0 What is the company’s percentage completion in 2023?",
+    "answers": ["33%"]
+  },
+  {
+    "question": "In the construction industry, Kyle Engineering Inc. has secured a contract to build a state-of-the-art bridge at a contracted price of $18,000,000. The company follows the percentage-of-completion method to recognize revenue over time. Here are the project updates: Cost Incurred 2023 $4,500,000 2024 $1,500,000 2025 $3,750,000 Estimated Additional Cost to Complete 2023 $9,000,000 2024 $6,750,000 2025 $0 What is the company’s revenue recognized in 2024?",
+    "answers": ["$6,000,000"]
+  },
+  {
+    "question": "In the construction industry, Kyle Engineering Inc. has secured a contract to build a state-of-the-art bridge at a contracted price of $18,000,000. The company follows the percentage-of-completion method to recognize revenue over time. Here are the project updates: Cost Incurred 2023 $4,500,000 2024 $7,500,000 2025 $7,500,000 Estimated Additional Cost to Complete 2023 $9,000,000 2024 $6,750,000 2025 $0 What is the company’s profit/(loss) recognized in 2024?",
+    "answers": ["($2,250,000)"]
+  },
+  {
+    "question": "Under US GAAP, how are losses for long-term contracts recognized?",
+    "answers": [
+      "Losses are recognized immediately when identified, regardless of the stage of completion."
+    ]
+  },
+  {
+    "question": "Which of the following statements describes a difference between revenue recognition in US GAAP and IFRS?",
+    "answers": [
+      "US GAAP recognizes revenue when it is realized or realizable, while IFRS recognizes revenue when it is probable and can be reliably measured."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describes the difference between revenue recognition at a certain point in time and revenue recognition over a period of time?",
+    "answers": [
+      "Revenue recognition at a certain point in time recognizes revenue when goods or services are delivered, while revenue recognition over a period of time recognizes revenue proportionally over the duration of a long-term contract."
+    ]
+  },
+  {
+    "question": "Which of the following is not true about revenue recognition with respect to long-term construction contracts under US GAAP?",
+    "answers": [
+      "Long-term construction contracts have multiple performance obligations as the goods or services are separately identifiable."
+    ]
+  },
+  {
+    "question": "Which of the following is a true statement regarding non-GAAP earnings?",
+    "answers": [
+      "Non-GAAP earnings are a supplemental measure that exclude certain items from GAAP earnings."
+    ]
+  },
+  {
+    "question": "What is the difference between the direct and indirect method of preparing the cash flow statement?",
+    "answers": [
+      "The direct method reports actual cash inflows and outflows from operating activities, while the indirect method adjusts net income for non-cash items."
+    ]
+  },
+  {
+    "question": "Alex has $12,000 that he wants to invest in a bond that pays 6% interest compounded quarterly for a period of three years. What is the expected future value of his investment at the end of the three-year term?",
+    "answers": ["$14,347.42"]
+  },
+  {
+    "question": "Katie has $15,000 that she wants to invest in a savings account that pays 3.5% simple interest per year for a period of three years. What is the expected future value of her investment at the end of the three-year term?",
+    "answers": ["$16,575"]
+  },
+  {
+    "question": "Which of the following is a correct statement regarding revenue recognition under the accrual basis of accounting?",
+    "answers": [
+      "Revenue is recognized when the product or service is delivered to customers."
+    ]
+  },
+  {
+    "question": "In the realm of commerce and contractual obligations, Dunne Co. has crafted an agreement comprising two remarkable performance obligations. Behold Product A, with a majestic stand-alone selling price of $150, and Product B, graced with a stand-alone selling price of $300. Now, witness the grandeur of their combined offering, shimmering at a total price of $360. Enveloped in this transaction lies the question: What portion of this splendid price shall be artfully allocated to the performance obligation for delivering Product A?",
+    "answers": ["$120"]
+  },
+  {
+    "question": "Company ABC enters into a long-term construction contract with a customer. The contract is expected to span over three years and has a total contract value of $1,000,000. According to US GAAP guidelines, which of the following methods is most commonly used for revenue recognition in long-term contracts?",
+    "answers": ["Percentage-of-Completion Method"]
+  },
+  {
+    "question": "In the construction industry, Kyle Engineering Inc. has secured a contract to build a state-of-the-art bridge at a contracted price of $18,000,000. The company follows the percentage-of-completion method to recognize revenue over time. Here are the project updates: Cost Incurred 2023 $4,500,000 2024 $1,500,000 2025 $3,750,000 Estimated Additional Cost to Complete 2023 $9,000,000 2024 $6,750,000 2025 $0 What is the company’s percentage completion in 2024?",
+    "answers": ["47%"]
+  },
+  {
+    "question": "On December 31, 2023, the trial balance of Gardenia Corporation shows the following items: • Currency and coins: $1,000 • Balance in checking account: $4,500 • Customer checks waiting to be deposited: $2,300 • Marketable equity securities: $12,000 • Commercial paper, purchased on 11/1/2023, mature on 1/30/2024: $6,500 • Treasury bills, purchased on 12/1/2023, mature on 3/31/2024: $7,800 What amount will Gardenia Corporation report as cash and cash equivalents on its year-end balance sheet?",
+    "answers": ["$14,300"]
+  },
+  {
+    "question": "The following information relates to Halloran Co.'s accounts receivable for 2024: Accounts receivable balance, 1/1/2024 $975,000 Credit sales for 2024 $4,500,000 Accounts receivable written off during 2024 $80,000 Collections from customers during 2024 $ 4,100,000 Allowance for uncollectible accounts balance, 12/31/2024 $350,000 What amount should Halloran report for accounts receivable, before allowances, on December 31, 2024?",
+    "answers": ["$1,295,000"]
+  },
+  {
+    "question": "Which of the following statements accurately describes the difference between cash and accounts receivable?",
+    "answers": [
+      "Cash is a type of asset that includes physical money and funds available in bank accounts, while accounts receivable refers to money owed by customers for goods or services."
+    ]
+  },
+  {
+    "question": "On August 31 of the current year, Iracema sold equipment to a customer for $10,000 with credit terms 2/10, n/30. Iracema uses the gross method of accounting for sales discounts. What is the correct entry for this company on August 31?",
+    "answers": ["Dr - Accounts receivable 10,000 Cr - Sales 10,000"]
+  },
+  {
+    "question": "On August 31 of the current year, Iracema sold equipment to a customer for $10,000 with credit terms 2/10, n/30. Iracema uses the net method of accounting for sales discounts. What is the correct entry for this company on August 31?",
+    "answers": ["Dr - Accounts receivable 9,800 Cr - Sales 9,800"]
+  },
+  {
+    "question": "In 2024, Ashbaugh Industries had sales totaling $1,500,000 and returns totaling $40,000. Returns are recorded as they occur, and additional estimated returns are accrued at the end of the period. The cost of goods sold for the year was $1,050,000, 70% of the total sales. Based on the company's estimation, 4% of all sales are expected to be returned. What would be the necessary year-end adjusting journal entry to account for the anticipated sales returns?",
+    "answers": ["Credit to refund liability for $20,000"]
+  },
+  {
+    "question": "Which of the following statements accurately describes the differences between the direct write-off method and the allowance method for recording bad debt expense?",
+    "answers": [
+      "The direct write-off method reduces accounts receivable directly, while the allowance method uses a contra-asset account."
+    ]
+  },
+  {
+    "question": "On April 1, Cicero Assoc. sold equipment to King Kong and accepted a 4-month, $100,000 interest-bearing note as payment. At the time of the transaction, the prevailing interest rate for similar transactions was 5%. How much discount will Cicero Assoc. recognize at the beginning of the transaction?",
+    "answers": ["$0"]
+  },
+  {
+    "question": "The receivable turnover ratio is a financial ratio that measures:",
+    "answers": [
+      "The efficiency of a company's collection process for accounts receivable."
+    ]
+  },
+  {
+    "question": "Fighting Illini conducts monthly bank reconciliations. At the end of May, the general ledger checking account displayed a balance of $1,700, while the bank statement reported a bank balance of $1,966. Outstanding checks amounted to $446, and deposits in transit were $35. The bank statement listed service charges of $40 and NSF (non-sufficient funds) checks totaling $105. What is the adjusted cash balance after reconciling?",
+    "answers": ["$1,555"]
+  },
+  {
+    "question": "The Constance Corporation's inventory on December 31, 2021, was $125,000 (at cost) based on a physical count of inventory on hand, before any necessary adjustment for the following: • Merchandise costing $51,000, shipped f.o.b. shipping point from a vendor on December 27, 2021, was received by Constance on January 5, 2022. • Merchandise costing $45,000 was shipped to a customer f.o.b. shipping point on December 28, 2021, arrived at the customer's location on January 6, 2022. • Merchandise costing $12,000 was being held on hand for Jess Company on consignment. • Estimated sales returns are 10% of annual sales. Sales revenue was $550,000 with a gross profit ratio of 25%. What amount should Constance Corporation report as inventory in its December 31, 2021, balance sheet?",
+    "answers": ["$ 205,250"]
+  },
+  {
+    "question": "What inventory costing method can be used in both a periodic and a perpetual inventory system, resulting in the same amount for cost of goods sold?",
+    "answers": ["FIFO"]
+  },
+  {
+    "question": "Cema Corp. uses the periodic inventory system. During its first year of operations, Cema Corp. made the following purchases (listed in chronological order of acquisition): 50 units at $100 per unit 70 units at $60 per unit 170 units at $80 per unit Sales for the year totaled 280 units, leaving 10 units on hand at the end of the year. What is the ending inventory amount for Cema Corp. using the average cost method, rounded to the nearest dollar?",
+    "answers": ["$786"]
+  },
+  {
+    "question": "Prunedale Co. uses a periodic inventory system. Beginning inventory on January 1 was overstated by $23,000, and its ending inventory on December 31 was understated by $26,000. These errors were not discovered until the next year. As a result, Prunedale's cost of goods sold for this year was:",
+    "answers": ["Overstated by $49,000."]
+  },
+  {
+    "question": "On April 20 of the current year, Brooke Carpets Corp. sold a carpet to a customer for $8,000 with credit terms 2/10, n/30. The company uses the net method of accounting for sales discounts. What is the correct entry for Brooke on April 20?",
+    "answers": ["Dr - Accounts receivable 7,840 Cr - Sales 7,840"]
+  },
+  {
+    "question": "When inventory costs are increasing:",
+    "answers": [
+      "FIFO produces lower COGS, higher current Net Income, and higher Ending Inventory."
+    ]
+  },
+  {
+    "question": "ABC Company had net sales of $500,000 and cost of goods sold (COGS) of $350,000 for the year. If operating expenses were $100,000, what is the gross profit ratio for ABC Company?",
+    "answers": ["30%"]
+  },
+  {
+    "question": "XYZ Company had an average inventory of $200,000 and cost of goods sold (COGS) of $800,000 during the year. What is the inventory turnover ratio for XYZ Company?",
+    "answers": ["4 times"]
+  },
+  {
+    "question": "Company X had the following transactions affecting inventory during January 2024. All sales are made for $25, and Company X uses a periodic inventory system. Jan. 1 Beginning Balance: 200 units @ $15 Jan. 6 Purchase: 400 units @ $18 Jan. 11 Sale: 300 units Jan. 17 Purchase: 200 units @ $20 Jan. 25 Sale: 100 units What is Company X’s ending inventory balance under the LIFO inventory method?",
+    "answers": ["$7,900"]
+  },
+  {
+    "question": "Which of the following is not an advantage of the dollar-value LIFO method?",
+    "answers": ["Minimizes tax liability"]
+  },
+  {
+    "question": "ABC Company holds a certain inventory item with a cost of $10,000. Due to a decline in market demand and changes in technology, its selling price equals $8,000, and the cost to sell equals $500. If ABC Company follows the Lower of Cost or Net Realizable Value (LCNRV) rule in accordance with U.S. Generally Accepted Accounting Principles (U.S. GAAP), what value should ABC report the inventory item on their financial statements?",
+    "answers": ["$7,500"]
+  },
+  {
+    "question": "The records of ABC company revealed the following information related to inventory destroyed in a burn: Beginning Inventory - $18,000 Purchases to date of burn - $9,600 Net sales to date of burn - $27,000 Gross profit ratio – 25% The estimated amount of inventory destroyed by the burn is:",
+    "answers": ["$7,350"]
+  },
+  {
+    "question": "Which of the following is the correct formula used to determine the cost-to-retail percentage?",
+    "answers": [
+      "Goods available for sale at cost divided by goods available for sale at retail"
+    ]
+  },
+  {
+    "question": "Cost Retail Beginning Inventory $20,000 $35,000 Net Purchases $45,000 $80,000 Net Markups $12,000 Net Markdowns ($7,000) Net Sales $100,000 According to the values given, what is the estimate of cost of goods sold under the average cost retail method?",
+    "answers": ["$54,167"]
+  },
+  {
+    "question": "Use the following information to answer the question. Assume that there was a change of 5% in retail prices over the year. Cost Retail Beginning Inventory $20,000 $35,000 Net Purchases $45,000 $80,000 Net Markups - $20,000 Net Markdowns - ($10,000) Net Sales - $90,000 What is Company X’s estimate of cost of goods sold under the LIFO retail method?",
+    "answers": ["$33,428"]
+  },
+  {
+    "question": "ABC Company discovered an inventory error in its records. The company's physical count of inventory revealed a quantity of 500 units, while the recorded quantity in the books was 450 units. The cost per unit of inventory is $20. What is the impact of this inventory error on the company's reported inventory value?",
+    "answers": ["Understatement of $1,000"]
+  },
+  {
+    "question": "ABC Company has been using the Average Cost inventory method for several years but is considering changing to the LIFO (Last-In, First-Out) method. Which of the following statements is a potential advantage of switching to the LIFO method?",
+    "answers": [
+      "LIFO results in lower taxable income during periods of rising prices."
+    ]
+  },
+  {
+    "question": "XYZ Corporation has been using the First-In, First-Out (FIFO) method to value its inventory for several years but is considering changing to the Weighted Average Cost method. Which of the following statements is a potential advantage of switching to the Weighted Average Cost method?",
+    "answers": [
+      "Weighted Average Cost enhances financial statement comparability across different companies."
+    ]
+  },
+  {
+    "question": "When comparing International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP) regarding the valuation of inventories, which of the following statements is true?",
+    "answers": [
+      "U.S. GAAP permits the use of LIFO, while IFRS prohibits the use of LIFO."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a tangible fixed asset?",
+    "answers": ["Land"]
+  },
+  {
+    "question": "Which of the following is an example of an intangible asset?",
+    "answers": ["Patent"]
+  },
+  {
+    "question": "A construction firm had the following expenditures for the year: January 1 $125,000 February 1 $250,000 March 31 $750,000 August 31 $550,000 November 30 $150,000 The interest rate was 9.5%. What is the amount of interest that the firm capitalized for the year?",
+    "answers": ["$105,688"]
+  },
+  {
+    "question": "A company purchased new machinery equipment for $180,000. The company paid cash for the equipment. Other costs associated with the equipment were: transportation costs, $10,000; sales tax paid $25,000; installation cost, $15,000 & annual maintenance costs of $7,500. The cost recorded for the equipment was:",
+    "answers": ["$230,000"]
+  },
+  {
+    "question": "Below are financial details for a research laboratory. Salaries for lab research 1,250,000 Materials used in R&D projects 350,000 Purchase of equipment 550,000 Fees paid to outside contractors for R&D 400,000 Patent and other legal fees 95,000 Salaries for R&D performed for another firm 225,000 Equipment useful life 8 years Depreciation for the year 175,000 The equipment will be used for multiple R&D projects. What will R&D expense be for 2018?",
+    "answers": ["$2,175,000"]
+  },
+  {
+    "question": "Which of the following is an example of an R&D cost?",
+    "answers": ["None of these answers is an example of an R&D cost"]
+  },
+  {
+    "question": "Santos Co. exchanged land and $7,000 cash for equipment. The book value and the fair value of the land were $112,000 and $95,000, respectively. Assuming that the exchange has commercial substance, Santos would record equipment and a gain/(loss) on exchange of assets in the amounts of:",
+    "answers": ["Equipment Gain/(loss) $102,000 $(17,000)"]
+  },
+  {
+    "question": "Gen Corp. acquired a manufacturing facility on five acres of land for a lump-sum price of $8,000,000. The building included used but functional equipment. Independent appraisals said the fair values were $4,500,000, $3,000,000, and $2,500,000 for the building, land, and equipment, respectively. The initial values of the building, land, and equipment would be:",
+    "answers": ["$3,600,000; $2,400,000; $2,000,000"]
+  },
+  {
+    "question": "Goodwill is the excess of the purchase price of an acquired company over the:",
+    "answers": ["Fair value of the net assets acquired."]
+  },
+  {
+    "question": "Under U.S. Generally Accepted Accounting Principles (US GAAP), what is an asset retirement obligation (ARO)?",
+    "answers": [
+      "A liability that represents the estimated costs for the retirement of tangible fixed assets."
+    ]
+  },
+  {
+    "question": "Archie Co. purchased a framing machine for $53,000 on January 1, 2024. The machine is expected to have a four-year life, with a residual value of $5,000 at the end of four years. Using the straight-line method, depreciation for 2024 and book value at December 31, 2024, would be:",
+    "answers": ["$12,000 and $41,000 respectively."]
+  },
+  {
+    "question": "A company purchased an asset on May 1, 2022, for $150,000 with an estimated three-year life and $10,000 residual value. The company uses units-of-production depreciation and expects the asset to produce 25,000 units. Calculate the gain or loss if the asset was sold on August 31, 2024, for $105,000. Actual production was: 2022 = 2,500 units; 2023 = 10,000 units; 2024 = 6,500 units. Which of the following options shows the correct gain or loss on the sale of the asset using the given information?",
+    "answers": ["Loss of $61,400"]
+  },
+  {
+    "question": "Lucas Corp. owns equipment for which it paid $60 million. At the end of 2022, it had accumulated depreciation on the equipment of $25 million. Due to adverse economic conditions, Lucas’ management determined that it should assess whether an impairment loss should be recognized for the equipment. The estimated undiscounted future cash flows to be provided by the equipment total $45 million, and the equipment's fair value at that point is $35 million. Under these circumstances, Lucas:",
+    "answers": ["Should not recognize an impairment loss"]
+  },
+  {
+    "question": "Cora Co. purchased a piece of equipment for $450,000 on January 1, 2017, with a useful life of 15 years. The company uses straight-line depreciation for all of its assets. In 2019, this asset was depreciated for $25,000. What is the residual value of this piece of equipment?",
+    "answers": ["$75,000"]
+  },
+  {
+    "question": "The fixed asset turnover ratio is a financial metric that measures:",
+    "answers": [
+      "The efficiency of a company in generating profits from its fixed assets."
+    ]
+  },
+  {
+    "question": "A machine that costs $200,000 has an expected service life of five years and a residual value of $20,000. Depreciation for the second year of the asset’s life using the double-declining-balance method is:",
+    "answers": ["$48,000"]
+  },
+  {
+    "question": "Leek Corporation acquired a coal mine at a total cost of $25,000,000. The mine is expected to produce 50,000,000 tons of coal over its three-year useful life. During the first year of operations, 2,500,000 tons of coal were extracted. Depletion expense for the first year should be:",
+    "answers": ["$1,250,000"]
+  },
+  {
+    "question": "The Natal Corporation purchased equipment on January 1, 2024, at a cost of $180,000. The equipment had an estimated service life of 10 years and a residual value of $18,000. The company utilizes the straight-line depreciation method. However, in 2026, the estimate of the equipment's residual value was revised to zero. What is the revised depreciation expense for the equipment in 2026?",
+    "answers": ["$18,450"]
+  },
+  {
+    "question": "The Galilee Company acquired equipment on January 1, 2024, for $200,000, with an estimated service life of 10 years and a residual value of $10,000. The company follows a fiscal year-end of December 31 and uses the double-declining balance (DDB) depreciation method. However, in 2026, the company switched to the straight-line depreciation method. What is the adjusting entry for depreciation expense in 2026?",
+    "answers": ["$14,750"]
+  },
+  {
+    "question": "Assuming an asset is used evenly over a five-year service life, which method of depreciation will always result in the largest amount of depreciation in the first year?",
+    "answers": ["Double-declining-balance."]
+  },
+  {
+    "question": "Under U.S. Generally Accepted Accounting Principles (US GAAP), how are debt investments initially recognized and subsequently measured?",
+    "answers": [
+      "Debt investments are initially recognized at historical cost and subsequently measured at fair value or amortized cost."
+    ]
+  },
+  {
+    "question": "Which statements accurately describe a difference between debt and equity investments?",
+    "answers": [
+      "Debt investments provide a fixed rate of return, while equity investments provide potential for both income and capital appreciation."
+    ]
+  },
+  {
+    "question": "In financial reporting, what is the key difference between the stated rate and the market rate?",
+    "answers": [
+      "The stated rate is used to calculate the interest paid on a financial instrument, while the market rate reflects the prevailing interest rates in the market."
+    ]
+  },
+  {
+    "question": "Cema Inc. acquires bonds with a maturity value of $900,000 for $870,000. How would Cema record the purchase of these bonds in its journal entry?",
+    "answers": ["Debit of $30,000 to Discount on bond investment"]
+  },
+  {
+    "question": "On July 1, 2025, Beauty Hotels Corp. issued $600,000 of 10% bonds, dated July 1. The bonds mature in ten years, and interest is payable semiannually on June 30 and December 31. The market interest rate for bonds of similar risk and maturity is 12%. Joe, Inc. purchased the entire bond issue. On January 1, 2027, Titanic Corp. decided to sell its debt investment for $550,000, while the bonds had an amortized cost of $580,000. What would Titanic's journal entry to record the sale of the bonds include?",
+    "answers": [
+      "Debit Cash for $550,000, Debit Loss on Sale of Investments for $30,000, Debit Discount on Bond Investment for $20,000, and Credit Investment - Bonds for $600,000."
+    ]
+  },
+  {
+    "question": "What are the key differences between trading, available-for-sale, and held-to-maturity debt investments in US GAAP?",
+    "answers": [
+      "The classification is based on the investor's intent, the recognition of unrealized gains or losses, and the expected holding period."
+    ]
+  },
+  {
+    "question": "Wenner Inc. purchased several investments in debt securities during 2024, its first year of operations. The following information pertains to these securities. The fluctuations in their fair values are not considered permanent. Held-to-Maturity Securities: Fair Value 12/31/2024 Fair Value 12/31/2025 Amortized Cost 12/31/2024 Amortized Cost 12/31/2025 Natal Co. Bonds $375,000 $400,000 $367,500 $360,000 Trading Securities: Fair Value 12/31/2024 Fair Value 12/31/2025 Cost Recife Co. Bonds $48,000 $59,500 $60,000 Fortaleza Inc. Bonds $47,000 $77,000 $39,000 Joao Pessoa Inc. Bonds $44,000 $38,500 $32,900 Available-for-Sale Securities: Fair Value 12/31/2024 Fair Value 12/31/2025 Cost Maceio Co. Bonds $130,500 $160,500 $140,000 What would be the balance in Wenner’s accumulated other comprehensive income with respect to these investments in its 12/31/2025 balance sheet (ignore taxes)?",
+    "answers": ["$10,400."]
+  },
+  {
+    "question": "Chips Corporation bought 1,000 bonds of Curry Corporation in 2018 for $550 per bond, categorizing them as available-for-sale securities. The value of the Curry investment was $600 per bond on December 31, 2019, and $650 per bond on December 31, 2020. In 2021, Chips sold all the Curry bonds for $700 per bond. If Chips recognizes unrealized holding gains and losses until the sale, what would be the reclassification adjustment amount recorded by Chips upon the sale?",
+    "answers": ["A debit of $150,000."]
+  },
+  {
+    "question": "On January 1, Company X purchased bonds with a face value of $20,000 issued by Company Y. The stated rate of the bonds is 10% paid annually, and the bond matures in 4 years. The market rate for similar bonds is 12%. Company X has the intent of holding the bonds until maturity. What would Company X record as the discount on bonds payable upon purchasing the bonds?",
+    "answers": ["$1,215"]
+  },
+  {
+    "question": "Which of the following financial instruments is considered an equity security that investors would purchase?",
+    "answers": ["Common stock"]
+  },
+  {
+    "question": "On January 1, 2024, Sampaio Corporation purchased 20% of the outstanding voting common stock of Lima Company for $600,000. The book value of the acquired shares was $575,000. The excess cost over book value is attributable to an intangible asset on Lima’s books that was undervalued and had a five-year useful life. For the year ended December 31, 2024, Lima reported a net income of $225,000 and paid cash dividends of $25,000. What is the carrying value of Sampaio’s investment in Lima on December 31, 2021?",
+    "answers": ["$635,000"]
+  },
+  {
+    "question": "Which of the following is true regarding the fair value option for investments that are accounted for using the equity method:",
+    "answers": ["The fair value option is an irrevocable election"]
+  },
+  {
+    "question": "On July 1, 2024, Lima Corporation acquired 40% of the shares of Alice Company. Lima paid $3,100,000 for the investment, which equals 40% of the book value of identifiable net assets on Alice’s balance sheet. Alice recognized net income of $1,000,000 for 2024 and paid its shareholders $150,000 in dividends each quarter. After all closing entries are made, Lima’s \"Investment in Alice Company\" account would have a balance of:",
+    "answers": ["$3,180,000"]
+  },
+  {
+    "question": "What are the key differences between the fair value through net income (FVTNI) and equity method (EM) for equity investments in US GAAP?",
+    "answers": [
+      "The classification is based on the investor's level of ownership, the investor's intent, and the equity recognition in the investee's income."
+    ]
+  },
+  {
+    "question": "Under US GAAP, which of the following statements regarding fair value through net income (FVTNI) classification for equity investments is true?",
+    "answers": [
+      "The FVTNI classification requires the equity investment to be measured at fair value with changes recorded in the income statement."
+    ]
+  },
+  {
+    "question": "The equity method is used when an investor can't control, but can exercise significant influence over the operating and financial policies of the investee. We presume, in the absence of evidence to the contrary, that this is so if:",
+    "answers": [
+      "The investor owns between 20% and 50% of the investee's voting shares."
+    ]
+  },
+  {
+    "question": "If Brazil Company exercises significant influence over Argentina Company and owns 40% of its common stock, then Brazil Company:",
+    "answers": [
+      "Would record 40% of the net income of Argentina Company as investment income each year."
+    ]
+  },
+  {
+    "question": "Assume Apple buys 30% of Microsoft’s common stock for $200 million on January 1, 2023. Microsoft has $350 million in net income for 2023, declares a dividend of $10 million in 2023, and its stock price increases by 20% during 2023. What value would Apple show on its balance sheet at 12/31/2023 for its investment in Microsoft?",
+    "answers": ["$302,000,000"]
+  },
+  {
+    "question": "Lolla Corporation purchased 12% of Kyle Corporation's common stock on January 1st, 2023, for $50,000. Kyle Corporation reported net incomes of $10,000 and $50,000 for the years ending December 31, 2023, and December 31, 2024, respectively. In 2024, Kyle Corporation declared and paid a dividend of $60,000, while no dividends were declared in 2023. The fair value of Lolla's investment in Kyle Corporation's stock increased to $70,000 on December 31, 2024. How much income should Lolla Corporation report in its 2024 income statement from this investment?",
+    "answers": ["$26,000."]
+  },
+  {
+    "question": "Under US GAAP, which of the following statements is true regarding the equity method for equity investments?",
+    "answers": [
+      "The equity method is used when the investor has significant influence over the investee."
+    ]
+  },
+  {
+    "question": "Fighting Illini conducts monthly bank reconciliations. At the end of May, the general ledger checking account displayed a balance of $1,612, while the bank statement reported a bank balance of $1,900. Outstanding checks amounted to $446, and deposits in transit were $35. The bank statement listed service charges of $20 and NSF (non-sufficient funds) checks totaling $103. What is the adjusted cash balance after reconciling?",
+    "answers": ["$1,489"]
+  },
+  {
+    "question": "A machine that costs $200,000 has an expected service life of five years and a residual value of $20,000. Depreciation for the second year of the asset’s life using the sum-of-the-years-digits method is:",
+    "answers": ["$48,000"]
+  },
+  {
+    "question": "On January 1, Company X purchased bonds with a face value of $20,000 issued by Company Y. The stated rate of the bonds is 10% paid annually, and the bond matures in 4 years. The market rate for similar bonds is 12%. Company X has the intent of holding the bonds until maturity. What would Company X record as cash received for interests at the end of each year?",
+    "answers": ["$2,000"]
+  },
+  {
+    "question": "Suppose Illini Company prepaid $6,000 in rent for the next three years on 12/31/2022. Illini’s pre-tax GAAP income for 2022 was $20,000. The applicable tax rate was 30%. Which one of the following is incorrect regarding the 12/31/2022 tax journal entry?",
+    "answers": ["The deferred tax liability would be credited by $4,200."]
+  },
+  {
+    "question": "At the beginning of the year, Illini Inc. reported a valuation allowance of $4,000 related to a deferred tax asset of $12,000. At the end of the year, Illini determined it was probable that only 25% of the deferred tax asset would not be realized. The year-end adjustment of the valuation allowance would include which of the following?",
+    "answers": ["Debit to valuation allowance of $1,000"]
+  },
+  {
+    "question": "Suppose Illini Company prepaid $6,000 in rent for the next three years ($2,000 per year) on 12/31/2022. Illini’s annual pre-tax GAAP income for 2022–2025 was $20,000. The applicable tax rate was 30%. What is the taxable income for 2023?",
+    "answers": ["$22,000"]
+  },
+  {
+    "question": "Suppose Illini Company prepaid $6,000 in rent for the next three years ($2,000 per year) on 12/31/2022. Illini’s annual pre-tax GAAP income for 2022–2025 was $20,000. The applicable tax rate was 30%. For 2024, the deferred tax liability account is reduced by",
+    "answers": ["$600."]
+  },
+  {
+    "question": "Suppose Illini Company prepaid $6,000 in rent for the next three years ($2,000 per year) on 12/31/2022. Illini’s annual pre-tax GAAP income for 2022–2025 was $20,000. The applicable tax rate was 30%. For 2025, the tax expense is",
+    "answers": ["$6,000."]
+  },
+  {
+    "question": "When deferred tax assets and deferred tax liabilities reverse, it is because",
+    "answers": [
+      "Deferred tax asset Deferred tax liability Taxable income is lower than pretax accounting income Taxable income is higher than pretax accounting income"
+    ]
+  },
+  {
+    "question": "Installment sales and accrued revenues are subtracted from pretax accounting income (GAAP income) when figuring taxable income because",
+    "answers": [
+      "We must reverse the revenue amounts that are part of pretax accounting income (GAAP income) in order to align it with taxable income, since those amounts were not included in taxable income."
+    ]
+  },
+  {
+    "question": "Deferred tax assets arise when",
+    "answers": [
+      "GAAP revenue is lower than tax revenue, and/or GAAP expense is higher than tax expense."
+    ]
+  },
+  {
+    "question": "Illini Company generated a $20,000 pre-tax GAAP income in 2022, its first year of operation, which included a $10,000 penalty from violating a safety code (not deductible for tax purpose). The income tax rate for 2022 was 30%, and the enacted rate for years after 2022 is 40%. Illini’s income tax payable for 2022 would be",
+    "answers": ["$9,000."]
+  },
+  {
+    "question": "Illini’s income tax expense for 2022 would be",
+    "answers": ["$6,000."]
+  },
+  {
+    "question": "Illini, Inc.’s reported pretax accounting income of $550,000 for 2022. Pretax accounting income included $10,000 of tax-exempt income from municipal bonds. The company’s tax rate is 30%. The following information also applies to fiscal year 2022: Depreciation deducted for tax purposes: $120,000 Depreciation deducted for financial reporting purposes: $60,000 What amount should be recorded as income tax payable (current) for the balance sheet as of December 31, 2022?",
+    "answers": ["$144,000"]
+  },
+  {
+    "question": "For 2022, Illini Inc. reported depreciation of $960,000 on the Income Statement and depreciation of $1,200,000 on its tax return. The difference in depreciation is the only temporary difference, and it will reverse equally over the next 4 years. The company’s enacted income tax rates are 35% for 2022 and 2023 and 30% for 2024, 2025, and 2026. What amount should be included as the deferred income tax liability in the company’s December 31, 2022 Balance Sheet?",
+    "answers": ["$75,000"]
+  },
+  {
+    "question": "Illini, Inc. uses the accrual method of accounting for financial reporting purposes and the installment method of accounting for income tax purposes. Installment income of $900,000 was booked on the GAAP income statement in 2022. It will be collected in the following years when the enacted tax rates are: Year Collection of Income Enacted Tax Rates 2023 $180,000 35% 2024 160,000 30% 2025 240,000 30% 2026 320,000 25% The installment income is the company’s only temporary difference in 2022. What amount should be reported as the deferred income tax liability in the company’s December 31, 2022 Balance Sheet?",
+    "answers": ["$263,000"]
+  },
+  {
+    "question": "Illini Inc. reported pretax accounting income of $650,000 and taxable income of $1,000,000 for the year ended December 31, 2022. The only temporary difference relates to accrued product warranty costs, which are expected to be paid as follows: Year Amount 2023 $150,000 2024 75,000 2025 75,000 2026 50,000 The enacted income tax rates are 35% for 2022, 30% for 2023 through 2025, and 25% for 2026. If the company expects taxable income in future years, the deferred tax asset in the December 31, 2022 Balance Sheet should be:",
+    "answers": ["$102,500"]
+  },
+  {
+    "question": "Recognition of tax benefits in the year of loss due to a loss carryforward requires",
+    "answers": ["the establishment of a deferred tax asset."]
+  },
+  {
+    "question": "Illini Company started its operation on 1/1/2022. Its income before taxes in 2022–2024 was $30,000, ($80,000), and $110,000, respectively. The tax rate was 30%. In 2022, Illini elected to carry back its loss. How much tax refund did Illini generate in 2023?",
+    "answers": ["$9,000"]
+  },
+  {
+    "question": "Illini Company started its operation on 1/1/2022. Its income (loss) before taxes in 2022–2024 was $30,000, ($80,000), and $110,000, respectively. The tax rate was 30% for all years. In 2023, Illini elected to carry back its loss. How much of a deferred tax asset did Illini generate in 2023?",
+    "answers": ["$15,000"]
+  },
+  {
+    "question": "Illini Company started its operation on 1/1/2022. Its income (loss) before taxes in 2022–2024 was $30,000, ($80,000), and $110,000, respectively. The tax rate was 30% for all years. In 2022, Illini elected to carry back its loss. How much tax payable did Illini record in 2024?",
+    "answers": ["$12,000"]
+  },
+  {
+    "question": "Illini, Inc. reported income from continuing operations before tax of $114 million, in addition to a loss on discontinued operations of $40 million. The company’s tax rate is 25%. How should the company report the tax on discontinued operations?",
+    "answers": [
+      "A tax benefit of $10 million that is net against the $40 million pretax loss."
+    ]
+  },
+  {
+    "question": "Illini, Inc. incurred a taxable loss for the current year (2022). The company had been profitable prior to 2022 and decided to use the carryback provisions to offset a portion of the prior period income. How should the amounts related to the carryback be reported in the 2022 financial statements?",
+    "answers": [
+      "The tax refund should be shown as a reduction of the loss in 2022."
+    ]
+  },
+  {
+    "question": "Which one of the following is not an example of activity recorded to other comprehensive income?",
+    "answers": ["Service cost under defined benefit pension plans"]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 10,000 shares of its $1 par common stock at $6 per share. Please answer the following two questions. The impact of this issuance on Illini’s 2022 pre-tax earnings is:",
+    "answers": ["No impact"]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 10,000 shares of its $1 par common stock at $6 per share. Please answer the following two questions. The impact of this issuance on the additional paid-in capital is:",
+    "answers": ["An increase of $50,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 4,000 shares of $10 par common stock for a patent. The stock is currently selling for $20 per share on the open market. The fair value of the patent is estimated to be between $72,000 and $76,000 based on a discounted cash flow analysis. The patent shall be recorded at",
+    "answers": ["$80,000."]
+  },
+  {
+    "question": "Which one of the following is incorrect?",
+    "answers": [
+      "Retained earnings is equal to the accumulated net income or loss since the inception of the firm, and is not adjusted for any other equity related transactions.",
+      "Stock dividends substantially change the ownership structure of a company."
+    ]
+  },
+  {
+    "question": "Illini, Inc. issued 100,000 shares of $10 par common stock for $1,800,000. Illini acquired 8,000 shares of its own common stock at $14 per share. Three months later, Illini sold 2,000 of these shares at $16 per share. To record the sale of the 2,000 treasury shares, Illini should credit",
+    "answers": [
+      "Treasury Stock for $28,000 and Paid-in Capital - Share Repurchase for $4,000."
+    ]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued its inventory as dividends to its shareholders. The book value of the inventory at the time was $10,000, and the inventory could be sold on the market at $60,000. What is the net impact of the dividends on Illini’s 2022 pre-tax earnings?",
+    "answers": ["A net gain of $50,000"]
+  },
+  {
+    "question": "Illini Co. has outstanding 40,000 shares of 8% preferred stock with a $10 par value and 100,000 shares of $3 par value common stock. Dividends have been paid every year except last year and the current year. If the preferred stock is cumulative and nonparticipating and $200,000 is distributed, the common stockholders will receive",
+    "answers": ["$136,000."]
+  },
+  {
+    "question": "On December 31, 2022, Illini Inc. reported 200,000 shares of its $4 par value common stock outstanding. On January 31, 2023, when the market price of the stock was $10, the corporation declared a 15% stock dividend to be issued to stockholders of record on February 14, 2023. What was the impact of the 15% stock dividend on the balance of the retained earnings account?",
+    "answers": ["$300,000 decrease"]
+  },
+  {
+    "question": "On 1/1/2022, Illini Inc. awarded its key executives 20,000 stock options to purchase 20,000 of its $1 par common shares at $10 per share within the next 5 years, but not before 1/1/2024 (the vesting date). The market price of the stock on 1/1/2022 was $12 per share. The fair value of the options was estimated to be $5 per option on 1/1/2022. On 3/1/2024 when the market price of the stock was $20 per share, all the options were exercised. What is the total compensation expense for the 20,000 stock options?",
+    "answers": ["$100,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini Inc. awarded its key executives 20,000 stock options to purchase 20,000 of its $1 par common shares at $10 per share within the next 5 years, but not before 1/1/2024 (the vesting date). The market price of the stock on 1/1/2022 was $12 per share. The fair value of the options was estimated to be $5 per option on 1/1/2022. On 3/1/2024 when the market price of the stock was $20 per share, all the options were exercised. What is the amount of compensation expense that shall be recorded for 2022?",
+    "answers": ["$50,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini Inc. awarded its key executives 20,000 stock options to purchase 20,000 of its $1 par common shares at $10 per share within the next 5 years, but not before 1/1/2024 (the vesting date). The market price of the stock on 1/1/2022 was $12 per share. The fair value of the options was estimated to be $5 per option on 1/1/2022. On 3/1/2024 when the market price of the stock was $20 per share, all the options were exercised. Which one of the following is correct regarding the journal entry for the exercise of the options on 3/1/2024?",
+    "answers": ["Debit APIC-stock options by $100,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini awarded its key executives 20,000 stock options to purchase 20,000 of its $1 par common shares at $10 per share within next 5 years, but not before 1/1/2024 (the vesting date). The stock options were recorded as a liability because the executives could choose to receive cash at exercise. The fair value of the options was estimated to be $5 per option on 1/1/2022 and $8 per option on 12/31/22. What compensation expense shall be recorded for 2022?",
+    "answers": ["$80,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini Inc. awarded its key executives 20,000 stock options to purchase 20,000 of its $1 par common shares at $10 per share within the next 5 years, but not before 1/1/2024 (the vesting date). The market price of the stock on 1/1/2022 was $12 per share. The fair value of the options was estimated to be $5 per option on 1/1/2022. Illini Inc. records forfeitures based on an estimated forfeiture rate. The forfeiture rate was estimated to be 5% on the date of grant. What is the amount of compensation expense that shall be recorded for 2022?",
+    "answers": ["$47,500"]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 10,000 cash settled SARs for its key executives that would vest after 3 years on 1/1/2025 (the vesting date). The market value of Illini stock on the date of grant was $14 per share. The SARs were recorded as a liability because the executives could choose to receive cash at exercise. The fair value of the SARs was estimated to be $5 per SAR on 1/1/2022 and $6, $9, and $6 per SAR at the end of 2022, 2023, and 2024, respectively. The market value of Illini stock on the vesting date was $20 per share. What is the total value of the compensation to be received by executives on the vesting date (1/1/2025)?",
+    "answers": ["$60,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 10,000 cash settled SARs for its key executives that would vest after 3 years on 1/1/2025 (the vesting date). The market value of Illini stock on the date of grant was $14 per share. The SARs were recorded as a liability because the executives could choose to receive cash at exercise. The fair value of the SARs was estimated to be $5 per SAR on 1/1/2022 and $6, $9, and $6 per SAR at the end of 2022, 2023, and 2024, respectively. The market value of Illini stock on the vesting date was $20 per share. How many shares of company stock will be distributed to executives on the vesting date (1/1/2025)?",
+    "answers": ["3,000"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Inc. granted company executives restricted stock units (RSUs) representing 25,000 $1 par common shares. The RSUs can be redeemed for common shares. The RSUs vest at the end of 2025 and expire at the end of 2030. The $1 par common shares have a market price of $40 per share on the grant date. The fair value at December 31, 2022, 2023, 2024, and 2025, is $45, $42, $46, and $48, respectively. All recipients are expected to remain employed through the vesting date. Which of the following would be recorded on the date of the RSU grant?",
+    "answers": ["No entry would be recorded."]
+  },
+  {
+    "question": "Illini Corporation granted 20,000 options on January 1, 2022, that permit executives to purchase 20,000 of the company's $1 par common shares for $12 per share, which is the market price of the shares on the date of grant. The awards vest in four separate groups (tranches), as included below: Vesting Date Amount Vesting Fair Value per Option Dec. 31, 2022 25% $8 Dec. 31, 2023 25% $12 Dec. 31, 2024 25% $15 Dec. 31, 2025 25% $16 No forfeitures are expected. Assume compensation cost is recorded separately for each tranche. What is the total amount of compensation expense to be recorded during 2024?",
+    "answers": ["$45,000"]
+  },
+  {
+    "question": "To record the exercise of stock options, which of the following is true?",
+    "answers": [
+      "A credit is recorded to additional paid-in capital – excess of par for the difference between the option fair value and the par value of the stock to be issued."
+    ]
+  },
+  {
+    "question": "What effect will the acquisition of treasury stock have on stockholders' equity and earnings per share, respectively?",
+    "answers": ["Decrease and increase"]
+  },
+  {
+    "question": "Illini had 10,000 shares of 5%, $10 par value cumulative preferred stock, and 20,000 shares of 5%, $10 par value noncumulative preferred stock outstanding during the year. Net income after taxes was $500,000. No dividends were declared during the year. Earnings available to common shareholders would be:",
+    "answers": ["$495,000"]
+  },
+  {
+    "question": "In computing earnings per share for a simple capital structure, if the preferred stock is cumulative, the amount that should be deducted as an adjustment to the numerator (earnings) is the:",
+    "answers": ["None of these"]
+  },
+  {
+    "question": "On 1/1/2022, Illini had 200,000 common shares outstanding. Illini issued 100,000 new shares on 4/1/2022, and repurchased 24,000 shares on 5/1/2022. What is the denominator for the basic EPS calculation (i.e., weighted average number of shares outstanding) for the year of 2022? Base your calculation on the number of months.",
+    "answers": ["259,000"]
+  },
+  {
+    "question": "When computing diluted earnings per share, convertible securities are:",
+    "answers": ["Recognized only if they are dilutive"]
+  },
+  {
+    "question": "On 1/1/2022, Illini had 100,000 common shares outstanding. Illini issued 50,000 new shares on 4/1/2022, had a 2-for-1 stock split on 5/1/2022, and repurchased 12,000 shares on 7/1/2022. What is the denominator for the basic EPS calculation (i.e., weighted average number of shares outstanding) for the year 2022? Base your calculation on the number of months.",
+    "answers": ["269,000"]
+  },
+  {
+    "question": "On 1/1/2022, Illini had 100,000 shares of $1 par common stock outstanding and $1,000,000 convertible bonds. The bonds were converted into 20,000 shares of common stock on 7/1/2022. The interest expense of the bonds from January 1 through July 1 was $30,000. The 2022 net income (after interest and tax) was $600,000. The tax rate was 30%. What would be the basic earnings per share?",
+    "answers": ["$5.45"]
+  },
+  {
+    "question": "On 1/1/2022, Illini had 100,000 shares of $1 par common stock outstanding and $1,000,000 convertible bonds. The bonds were converted into 20,000 shares of common stock on 7/1/2022. The interest expense of the bonds from January 1 through July 1 was $30,000. The 2022 net income (after interest and tax) was $600,000. The tax rate was 30%. What would be the diluted earnings per share?",
+    "answers": ["$5.18"]
+  },
+  {
+    "question": "On 1/1/2022, Illini had 50,000 shares of common stock outstanding. On 4/1/2022 Illini issued 20,000 shares of common stock. Throughout the year, Illini had outstanding stock options for 10,000 shares with an exercise price of $10 per share. The average market price for the year was $12. What number of shares should be used in the denominator when computing diluted earnings per share?",
+    "answers": ["66,667"]
+  },
+  {
+    "question": "Illini Co. had 300,000 shares of common stock outstanding during 2022. Additionally, Illini had 25,000 shares of convertible preferred stock, which are convertible into 50,000 shares of common stock, as well as $1,000,000 of 10% convertible bonds outstanding during 2022, which are convertible into 60,000 shares of common stock. During 2022, Illini paid dividends of $2.00 per share on the common stock and $2.50 per share on the preferred stock. The net income for 2022 was $750,000 and the income tax rate was 30%. What are Illini’s Basic EPS and Diluted EPS?",
+    "answers": ["$2.29 and 2.00"]
+  },
+  {
+    "question": "Illini changed from the FIFO method of inventory costing to the LIFO method during 2022. The cost of inventory production has been increasing since the first day of operation. When reported in the 2022 comparative financial statements, the 2022 inventory amount would be:",
+    "answers": ["Decreased"]
+  },
+  {
+    "question": "Illini changed from the LIFO method of inventory costing to the FIFO method on January 1, 2022. Inventory values at the end of each year since the inception of the company on January 1, 2020 are as follows: Year FIFO LIFO 2020 $400,000 $360,000 2021 $800,000 $720,000 The effective tax rate is 20% each year. The change in inventory costing method was applied retrospectively. How would Illini’s 2020 ending balance for retained earnings be affected (compared to before the accounting change)?",
+    "answers": ["An increase of $32,000"]
+  },
+  {
+    "question": "Illini changed from the LIFO method of inventory costing to the FIFO method on January 1, 2022. Inventory values at the end of each year since the inception of the company on January 1, 2020 are as follows: Year FIFO LIFO 2020 $400,000 $360,000 2021 $800,000 $720,000 The effective tax rate is 20% each year. The change in inventory costing method was applied retrospectively. How would Illini’s 2021 ending balance for inventory be affected (compared to before the accounting change)?",
+    "answers": ["An increase of $80,000"]
+  },
+  {
+    "question": "Illini changed from the LIFO method of inventory costing to the FIFO method on January 1, 2022. Inventory values at the end of each year since the inception of the company on January 1, 2020 are as follows: Year FIFO LIFO 2020 $400,000 $360,000 2021 $800,000 $720,000 The effective tax rate is 20% each year. The change in inventory costing method was applied retrospectively. How would Illini’s 2022 beginning balance for retained earnings be affected (compared to before the accounting change)?",
+    "answers": ["An increase of $64,000"]
+  },
+  {
+    "question": "Changes in accounting estimates that are affected by changes in accounting principle shall be accounted for:",
+    "answers": ["Prospectively"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Co. purchased a machine for $528,000 and depreciated it by the straight-line method using an estimated useful life of 8 years with no salvage value. On January 1, 2025, Illini determined that the machine had a useful life of 6 years from the date of acquisition and will have a salvage value of $48,000. An accounting change was made in 2025 to reflect this new information. What is the balance of the accumulated depreciation for this machine on December 31, 2025?",
+    "answers": ["$292,000"]
+  },
+  {
+    "question": "In 2022, Illini found that it had forgotten to record the amortization of discount on bonds payable for its interest payments in 2021. Interest expense for 2021 was equal to the cash outflow for interest. Which one of the following is incorrect regarding the impact of the error on the 2021 financial statements?",
+    "answers": ["Net carrying value of the bonds is overstated."]
+  },
+  {
+    "question": "Illini Company's December 31 year-end financial statements contained the following errors: Dec. 31, 2022 Dec. 31, 2023 Ending inventory $3,000 understated $4,400 overstated Depreciation expense $800 understated - An insurance premium of $7,200 was prepaid in 2022 covering the years 2022, 2023, and 2024.The prepayment was recorded with a debit to insurance expense. In addition, on December 31, 2023, fully depreciated machinery was sold for $3,800 cash, but the sale was not recorded until 2024. There were no other errors during 2022 or 2023 and no corrections have been made for any of the errors. Ignore income tax considerations. What is the total net effect of the errors on Illini’s 2022 net income?",
+    "answers": ["Net income understated by $7,000"]
+  },
+  {
+    "question": "Illini Company's December 31 year-end financial statements contained the following errors: Dec. 31, 2022 Dec. 31, 2023 Ending inventory $3,000 understated $4,400 overstated Depreciation expense $800 understated - An insurance premium of $7,200 was prepaid in 2022 covering the years 2022, 2023, and 2024.The prepayment was recorded with a debit to insurance expense. In addition, on December 31, 2023, fully depreciated machinery was sold for $3,800 cash, but the sale was not recorded until 2024. There were no other errors during 2022 or 2023 and no corrections have been made for any of the errors. Ignore income tax considerations. What is the total net effect of the errors on Illini’s 2023 net income?",
+    "answers": ["Net income overstated by $6,000"]
+  },
+  {
+    "question": "Illini Company's December 31 year-end financial statements contained the following errors: Dec. 31, 2022 Dec. 31, 2023 Ending inventory $3,000 understated $4,400 overstated Depreciation expense $800 understated - An insurance premium of $7,200 was prepaid in 2022 covering the years 2022, 2023, and 2024.The prepayment was recorded with a debit to insurance expense. In addition, on December 31, 2023, fully depreciated machinery was sold for $3,800 cash, but the sale was not recorded until 2024. There were no other errors during 2022 or 2023 and no corrections have been made for any of the errors. Ignore income tax considerations. What is the total effect of the errors on the balance of Illini's retained earnings as of December 31, 2023?",
+    "answers": ["Retained earnings understated by $1,000"]
+  },
+  {
+    "question": "Which of the following statements is not correct when comparing a cash flow statement prepared using the direct method versus a cash flow statement prepared using the indirect method?",
+    "answers": ["Both have identical operating activities section."]
+  },
+  {
+    "question": "Converting revenues to cash inflows under the direct method would require which of the following adjustments for the indicated changes in accrued revenues and deferred revenues?",
+    "answers": [
+      "Increase in Accrued Revenue Increase in Deferred Revenue Added Deducted"
+    ]
+  },
+  {
+    "question": "Converting expenses to cash outflows under the direct method would require which of the following adjustments for the indicated changes in accrued expenses and deferred expenses?",
+    "answers": [
+      "Increase in Accrued Expense Increase in Deferred Expense Deducted Added"
+    ]
+  },
+  {
+    "question": "In determining net cash flow from operating activities, a decrease in accounts payable requires the following adjustment:",
+    "answers": [
+      "The decrease should be added to the cost of goods sold under the direct method."
+    ]
+  },
+  {
+    "question": "When preparing a cash flow statement, an increase in accounts receivable during a period would require which of the following adjustments in determining cash flow from operating activities?",
+    "answers": [
+      "Direct Method Indirect Method Deducted from sales revenue Deducted from net income"
+    ]
+  },
+  {
+    "question": "When preparing a cash flow statement, an increase in wages payable during a period would require which of the following adjustments in determining cash flow from operating activities?",
+    "answers": [
+      "Direct Method Indirect Method Deducted from wages expense Added to net income"
+    ]
+  },
+  {
+    "question": "On 1/1/2022, Illini issued 10% bonds at par for $180,000. The bonds pay interest semi-annually and mature on 12/31/2025. What would be reported on the cash flow statement for the year ended 12/31/2025?",
+    "answers": [
+      "Financing activities: Cash outflows of $180,000; Operating activities: Cash outflows of $18,000."
+    ]
+  },
+  {
+    "question": "Illini provides the following information for fiscal year 2022: Net Loss $160,000 Depreciation expense $12,000 Decrease in inventory $30,000 Increase in accounts payables $40,000 Purchase of land by issuing bonds $150,000 Loss on investment $24,000 Proceeds from selling investment $300,000 Purchase of treasury stock $90,000 Gain on sale of equipment $20,000 Proceeds from sale of equipment $30,000 Loans made to affiliated entities $210,000 Dividends paid to shareholders $60,000 Proceeds from issuing bonds $300,000 Proceeds from issuing stock $240,000 The cash flows from operating activities would be equal to:",
+    "answers": ["Cash outflows of $74,000"]
+  },
+  {
+    "question": "Illini provides the following information for fiscal year 2022: Net Loss $160,000 Depreciation expense $12,000 Decrease in inventory $30,000 Increase in accounts payables $40,000 Purchase of land by issuing bonds $150,000 Loss on investment $24,000 Proceeds from selling investment $300,000 Purchase of treasury stock $90,000 Gain on sale of equipment $20,000 Proceeds from sale of equipment $30,000 Loans made to affiliated entities $210,000 Dividends paid to shareholders $60,000 Proceeds from issuing bonds $300,000 Proceeds from issuing stock $240,000 The cash flows from investing activities would be:",
+    "answers": ["Cash inflows of $120,000"]
+  },
+  {
+    "question": "Illini provides the following information for fiscal year 2022: Net Loss $160,000 Depreciation expense $12,000 Decrease in inventory $30,000 Increase in accounts payables $40,000 Purchase of land by issuing bonds $150,000 Loss on investment $24,000 Proceeds from selling investment $300,000 Purchase of treasury stock $90,000 Gain on sale of equipment $20,000 Proceeds from sale of equipment $30,000 Loans made to affiliated entities $210,000 Dividends paid to shareholders $60,000 Proceeds from issuing bonds $300,000 Proceeds from issuing stock $240,000 The cash flows from financing activities would be:",
+    "answers": ["Cash inflows of $390,000"]
+  },
+  {
+    "question": "Which one of the following statements is not correct?",
+    "answers": [
+      "Long-term debt that is callable by the lender in the upcoming year will not be classified as a current liability if the debt is not expected to be called."
+    ]
+  },
+  {
+    "question": "On January 1, 2020, Illini Company borrowed $20,000 from a local bank by signing a two-month 12% note. Interest was payable at maturity on February 28, 2022. Based on the information provided, please answer the following question (base your calculation on the number of months). What is the total interest expense Illini should record on the note?",
+    "answers": ["$400"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company borrowed $20,000 from a local bank by signing a two-month 12% note. Interest was payable at maturity on February 28, 2022. Based on the information provided, please answer the following question (base your calculation on the number of months). What account(s) should be debited at maturity by Illini Company?",
+    "answers": ["Interest expense and Notes payable"]
+  },
+  {
+    "question": "Illini Inc. is billed quarterly for the cost of utilities. The bill for October – December 2022 is expected to be received and paid in January 2023. The average monthly cost for utilities is $1,500. Based on the information provided, how much utilities expense should be accrued as of December 31, 2022?",
+    "answers": ["$4,500"]
+  },
+  {
+    "question": "Illini Inc. is billed quarterly for the cost of utilities. The bill for October – December 2022 is expected to be received and paid in January 2023. The average monthly cost for utilities is $1,500. When the bill is paid in January 2023, what account should be debited by Illini, Inc.?",
+    "answers": ["Utilities payable"]
+  },
+  {
+    "question": "On November 1, 2022, Big Grove Company collected $9.8 million cash from customers for products that would be delivered in January 2023. Based on the information provided, please answer the following question: As of the fiscal year ended December 31, 2022, what should Big Grove Company report related to the $9.8 million collected from customers?",
+    "answers": ["Liability of $9.8 million"]
+  },
+  {
+    "question": "On November 1, 2022, Big Grove Company collected $9.8 million cash from customers for products that would be delivered in January 2023. Based on the information provided, please answer the following question: When the product is provided to customers in January 2023, what account should be debited by Illini, Inc.?",
+    "answers": ["Deferred revenue"]
+  },
+  {
+    "question": "At the fiscal year-end, suppose a loss is considered reasonably possible and estimated to be $30,000. A loss of $30,000 is considered material to the financial statements. The year-end financial statements should reflect which of the following:",
+    "answers": ["Disclosure note detailing the possible loss"]
+  },
+  {
+    "question": "Illini Company offers a two-year warranty on its products. Warranty expense is expected to be 2% of sales and should be accrued in the period of the sale. The 2022 beginning and ending balances of the company’s warranty liability were $24,000 and $28,000, respectively. The sales in 2022 were $400,000. How much did Illini spend on the warranty services in 2022?",
+    "answers": ["$4,000"]
+  },
+  {
+    "question": "During 2022, Illini, Inc. was involved in pending litigation due to defective products sold during the year. As of December 31, 2022, Illini, Inc. estimated a loss of $1,500,000 was probable. In February 2023, Illini, Inc. settled the litigation for a loss of $2,500,000. Financial statements for the year ended December 31, 2022, are released on March 10, 2023. For the year ended December 31, 2022, what amount should be accrued in the financial statements related to the loss?",
+    "answers": ["$1,500,000"]
+  },
+  {
+    "question": "An interest-bearing note payable on the balance sheet of CMA Co. will require the following payments:",
+    "answers": [
+      "Stated face amount at maturity along with periodic interest payments determined by stated interest rate."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describes an installment bond?",
+    "answers": [
+      "An installment bond involves periodic payments of both principal and interest on the loan."
+    ]
+  },
+  {
+    "question": "The interest expense for the reporting period on a bond is calculated using ____________ rate and the cash payments are calculated using ________ rate.",
+    "answers": ["market; coupon"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Co. issued 5-year bonds with a face value of $1,000,000 and a stated interest rate of 8%. Interest is payable semiannually on June 30 and December 31. The bonds were sold to yield 6%. The issue price of the bonds is (please round your answer to the nearest thousand):",
+    "answers": ["$1,085,000"]
+  },
+  {
+    "question": "On July 1, 2022, Illini Company sold 3-year $1 million 8% bonds for $1 million. The interest is payable semiannually on January 1 and July 1. No interim statements were prepared. Please answer the following question (base your calculation on the number of months). How much interest expense shall be recorded for the six months ended December 31, 2022, if any?",
+    "answers": ["$40,000"]
+  },
+  {
+    "question": "On July 1, 2022, Illini Company sold 3-year $1 million 8% bonds for $1 million. The interest is payable semiannually on January 1 and July 1. No interim statements were prepared. Please answer the following question (base your calculation on the number of months). What account is credited in the relevant journal entry recorded on December 31, 2022, if any?",
+    "answers": ["Interest payable"]
+  },
+  {
+    "question": "A bond has a stated interest of 10% but was sold to yield 8%. The bond pays interest quarterly. The interest rate used to calculate the quarterly interest expense is:",
+    "answers": ["2%"]
+  },
+  {
+    "question": "On July 1, 2022, Illini Company sold 3-year $2 million 12% bonds for $2,049,955 to yield 11%. The interest is payable semiannually on June 30 and December 31. What is the interest expense for the six months ended December 31, 2022?",
+    "answers": ["$112,748"]
+  },
+  {
+    "question": "On July 1, 2022, Illini Company sold 3-year $2 million 12% bonds for $2,049,955 to yield 11%. The interest is payable semiannually on June 30 and December 31. What is the interest expense for the six months ended June 30, 2023?",
+    "answers": ["$128,326"]
+  },
+  {
+    "question": "On July 1, 2022, Illini redeemed its $1 million 6% bonds by issuing 20,000 shares of common stock to their holders when the remaining balance in the discount account was $60,000. Illini’s stock was traded on the market for $50 per share. What is the net impact of this redemption on earnings?",
+    "answers": ["A gain of $60,000"]
+  },
+  {
+    "question": "Illini Company issued 10% bonds, dated January 1, with a face amount of $2 million on January 1, 2021. The bonds mature on December 31, 2030 (10 years). For bonds of similar risk and maturity, the market yield is 8%. Interest is paid semiannually on June 30 and December 31. The issue price (before issue costs) is $2,271,807. Illini paid $50,000 in bond issue costs. Which of the following is correct regarding the journal entry to be recorded at issuance?",
+    "answers": ["Credit premium on bond payable for $221,807"]
+  },
+  {
+    "question": "On April 1, 2022, Illini Company sold 3-year $2 million 8% bonds for $2.04 million. The bonds were originally dated January 1, 2022. The interest is payable semiannually on June 30 and December 31. Please answer the following question (base your calculation on the number of months). How much of the selling price of the bonds relates to accrued interest?",
+    "answers": ["$40,000"]
+  },
+  {
+    "question": "On April 1, 2022, Illini Company sold 3-year $2 million 8% bonds for $2.04 million. The bonds were originally dated January 1, 2022. The interest is payable semiannually on June 30 and December 31. Please answer the following question (base your calculation on the number of months). How much interest expense shall be recorded on June 30, 2022, if any?",
+    "answers": ["$40,000"]
+  },
+  {
+    "question": "For marking bond instruments to its fair value, a fair value adjustment is needed. This amount is the difference between the ________ of the bond and its _______ .",
+    "answers": [
+      "fair value at date of adjustment; book value at date of adjustment"
+    ]
+  },
+  {
+    "question": "Illini Company issued 10% bonds, dated January 1, with a face amount of $1 million on January 1, 2021. The bonds mature on December 31, 2030 (10 years). For bonds of similar risk and maturity, the market yield is 12%. Interest is paid semiannually on June 30 and December 31. Illini elected the option to report these bonds at their fair value. On June 30, 2021, the effective interest rate decreased to 9% (4.5% semi-annual). As a result, the fair value of the bonds was determined to be $1,062,966. The book value was $888,419 on June 30, 2021, prior to the fair value adjustment. Which of the following is true regarding the fair value adjustment on June 30, 2021?",
+    "answers": ["An unrealized gain of $174,547 would be recorded."]
+  },
+  {
+    "question": "Illini Company issued $200,000 3-year 8% convertible bonds on January 1, 2022 for $202,000. The bonds pay interest semiannually on June 30 and December 31. On July 1, 2022, the balance in the premium on bonds payable account was $1,600, and half of the bonds were converted into 200 common shares of Illini. Which one of the following is correct regarding the entry for the conversion?",
+    "answers": ["Debit premium by $800."]
+  },
+  {
+    "question": "Illini Company issued $1,000,000 3-year 8% convertible bonds on January 1, 2022 for $1,000,000. Each $1,000 bond can be converted into 50 shares of Illini’s common stock. The fair value of Illini’s common stock was $22 per share on January 1, 2022. What is the value of the beneficial conversion feature at January 1, 2022?",
+    "answers": ["$100,000"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company sold 3-year $2 million 12% bonds for $2,049,955 to yield 11%. The interest is payable semiannually on June 30 and December 31, starting June 30, 2022. The amortization schedule is as follows. Date Payment Interest Expense Change Book Value January 1, 2022 $2,049,955 June 30, 2022 $120,000 $112,748 $7,252 $2,042,703 December 31, 2022 $120,000 $112,349 $7,651 $2,035,052 June 30, 2023 $120,000 $111,928 $8,072 $2,026,979 December 31, 2023 $120,000 $111,484 $8,516 $2,018,463 June 30, 2024 $120,000 $111,015 $8,985 $2,009,479 December 31, 2024 $120,000 $110,521 $9,479 $2,000,000 Due to financial and operations problems, although Illini made the $120,000 interest payment on 12/31/22, it expected that it would not be able to make the required future interest payments and therefore restructured the debt with its debt holders. Suppose the new terms only required a lump sum payment of $2 million at maturity on 12/31/24. Please answer the following two questions. How much gain did Illini record on 12/31/22?",
+    "answers": ["$35,052"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company sold 3-year $2 million 12% bonds for $2,049,955 to yield 11%. The interest is payable semiannually on June 30 and December 31, starting June 30, 2022. The amortization schedule is as follows. Date Payment Interest Expense Change Book Value January 1, 2022 $2,049,955 June 30, 2022 $120,000 $112,748 $7,252 $2,042,703 December 31, 2022 $120,000 $112,349 $7,651 $2,035,052 June 30, 2023 $120,000 $111,928 $8,072 $2,026,979 December 31, 2023 $120,000 $111,484 $8,516 $2,018,463 June 30, 2024 $120,000 $111,015 $8,985 $2,009,479 December 31, 2024 $120,000 $110,521 $9,479 $2,000,000 Due to financial and operations problems, although Illini made the $120,000 interest payment on 12/31/22, it expected that it would not be able to make the required future interest payments and therefore restructured the debt with its debt holders. Suppose the new terms only required a lump sum payment of $2 million at maturity on 12/31/24. Please answer the following two questions. After the entry recorded on 12/31/22, the carrying value of the debt is?",
+    "answers": ["$2,000,000."]
+  },
+  {
+    "question": "How does the classification of short-term debt differ between US GAAP and IFRS?",
+    "answers": [
+      "US GAAP allows short-term debt to be classified as noncurrent if the intent and ability to refinance is demonstrated before the financial statement issuance. IFRS allows short-term debt to be classified as noncurrent if the intent and ability to refinance is demonstrated before the period-end date."
+    ]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company signed a lease contract for a manufacturing machine. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Illini is required to make 5 annual payments of $40,000 on January 1 of each year starting January 1, 2022. The lease term is 5 years. The machine’s economic life is 7 years. Illini’s incremental borrowing rate is 8%, which is the same as the lessor’s implicit rate. Suppose the machine’s fair value on January 1, 2022, was $180,000. The classification of the lease is:",
+    "answers": ["A finance lease."]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company signed a lease contract for a manufacturing machine. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Illini is required to make 5 annual payments of $40,000 on January 1 of each year starting January 1, 2022. The lease term is 5 years. The machine’s economic life is 7 years. Illini’s incremental borrowing rate is 8%, which is the same as the lessor’s implicit rate. Suppose the machine’s fair value on January 1, 2022, was $200,000. The classification of the lease is:",
+    "answers": ["An operating lease."]
+  },
+  {
+    "question": "What is the entry recorded by the lessor at lease inception in a sales-type lease with profit?",
+    "answers": ["Debit lease receivable and credit sales revenue."]
+  },
+  {
+    "question": "On January 1, 2022, Hessel Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Hesselis required to make 8 annual payments of $35,000 on January 1 of each year starting January 1, 2022. The lease term is 8 years. The machine’s economic life is 10 years. The lessee’s incremental borrowing rate was 6%, which is the same as the lessor’s implicit rate. The present value of the lease payments is $230,383. Suppose the lease is classified as a finance lease. Which of the following is incorrect for the journal entry (or entries) recorded on January 1, 2022 by Hessel Company (lessee)?",
+    "answers": ["Debit interest expense by $13,823."]
+  },
+  {
+    "question": "On January 1, 2022, Hessel Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Hesselis required to make 8 annual payments of $35,000 on January 1 of each year starting January 1, 2022. The lease term is 8 years. The machine’s economic life is 10 years. The lessee’s incremental borrowing rate was 6%, which is the same as the lessor’s implicit rate. The present value of the lease payments is $230,383. Suppose the lease is classified as a finance lease. Suppose the machine has a carrying value of $220,000 on the books of the lessor. Which of the following is incorrect for the journal entry (or entries) recorded on January 1, 2022 by Noel Corporation (lessor)?",
+    "answers": ["Credit machinery by $220,000."]
+  },
+  {
+    "question": "On January 1, 2022, Hessel Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Hesselis required to make 8 annual payments of $35,000 on January 1 of each year starting January 1, 2022. The lease term is 8 years. The machine’s economic life is 10 years. The lessee’s incremental borrowing rate was 6%, which is the same as the lessor’s implicit rate. The present value of the lease payments is $230,383. Suppose the lease is classified as a finance lease. Which of the following is correct for the journal entry (or entries) recorded on December 31, 2022 by Hessel Company (lessee)?",
+    "answers": ["Debit interest expense by $11,723."]
+  },
+  {
+    "question": "On January 1, 2022, Hessel Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Hesselis required to make 8 annual payments of $35,000 on January 1 of each year starting January 1, 2022. The lease term is 8 years. The machine’s economic life is 10 years. The lessee’s incremental borrowing rate was 6%, which is the same as the lessor’s implicit rate. The present value of the lease payments is $230,383. Suppose the lease is classified as a finance lease. The total lease related expense for Hessel (lessee) in 2022 was:",
+    "answers": ["$40,521"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Illini is required to make 5 annual payments of $40,000 on January 1 of each year starting January 1, 2022. The lease term is 5 years. The machine’s economic life is 7 years. Illini’s incremental borrowing rate was 8%, which is the same as the lessor’s implicit rate. The present value of lease payments is $172,485. Suppose the lease is classified as an operating lease. Which of the following is incorrect for the journal entry (or entries) recorded on December 31, 2022 by Illini (lessee)?",
+    "answers": ["Debit rent expense by $40,000."]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Illini is required to make 5 annual payments of $40,000 on January 1 of each year starting January 1, 2022. The lease term is 5 years. The machine’s economic life is 7 years. Illini’s incremental borrowing rate was 8%, which is the same as the lessor’s implicit rate. The present value of lease payments is $172,485. Suppose the lease is classified as an operating lease. The total lease related expense in 2022 for Illini (lessee) is:",
+    "answers": ["$40,000"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company leased a manufacturing machine from Noel Corporation. There is no ownership transfer or purchase option at the end of the lease term. Under the contract, Illini is required to make 5 annual payments of $40,000 on January 1 of each year starting January 1, 2022. The lease term is 5 years. The machine’s economic life is 7 years. Illini’s incremental borrowing rate was 8%, which is the same as the lessor’s implicit rate. The present value of lease payments is $172,485. Suppose the lease is classified as an operating lease. The total lease related revenue in 2022 for Noel Corporation (lessor) is:",
+    "answers": ["$40,000"]
+  },
+  {
+    "question": "Refer to the following lease amortization schedule. Six payments are made annually starting with the beginning of the lease. A purchase option is reasonably certain to be exercised at the end of the six-year lease. The asset has an expected economic life of eight years. Dec. 31 Payments Interest Decrease in Balance Outstanding Balance 2020 $519,115 2020 $90,000 $90,000 429,115 2021 $90,000 $17,165 72,835 356,280 2022 $90,000 ??? ??? ??? 2023 $90,000 11,221 78,779 201,752 2024 $90,000 8,070 81,930 119,822 2025 $90,000 4,793 85,207 34,615 2026 $36,000 1,385 34,615 0 What is the effective annual interest rate charged on this lease?",
+    "answers": ["4%"]
+  },
+  {
+    "question": "Refer to the following lease amortization schedule. Six payments are made annually starting with the beginning of the lease. A purchase option is reasonably certain to be exercised at the end of the six-year lease. The asset has an expected economic life of eight years. Dec. 31 Payments Interest Decrease in Balance Outstanding Balance 2020 $519,115 2020 $90,000 $90,000 429,115 2021 $90,000 $17,165 72,835 356,280 2022 $90,000 ??? ??? ??? 2023 $90,000 11,221 78,779 201,752 2024 $90,000 8,070 81,930 119,822 2025 $90,000 4,793 85,207 34,615 2026 $ 36,000 1,385 34,615 0 The lessee will record amortization expense on the leased asset of:",
+    "answers": ["$64,889."]
+  },
+  {
+    "question": "Refer to the following lease amortization schedule. Six payments are made annually starting with the beginning of the lease. A purchase option is reasonably certain to be exercised at the end of the six-year lease. The asset has an expected economic life of eight years. Dec. 31 Payments Interest Decrease in Balance Outstanding Balance 2020 $519,115 2020 $90,000 $90,000 429,115 2021 $90,000 $17,165 72,835 356,280 2022 $90,000 ??? ??? ??? 2023 $90,000 11,221 78,779 201,752 2024 $90,000 8,070 81,930 119,822 2025 $90,000 4,793 85,207 34,615 2026 $36,000 1,385 34,615 0 What is the balance of the lease liability on the lessee’s December 31, 2022 balance sheet (after the third lease payment is made)?",
+    "answers": ["$280,531."]
+  },
+  {
+    "question": "Which of the following would not be included in the Lease Receivable account?",
+    "answers": ["All would be included."]
+  },
+  {
+    "question": "For a sales-type lease,",
+    "answers": [
+      "The gross profit recognized at lease inception will be the same whether the residual value is guaranteed or unguaranteed."
+    ]
+  },
+  {
+    "question": "According to the lessor, a guaranteed residual value by the lessee should be:",
+    "answers": ["Included as part of the lease receivable at present value"]
+  },
+  {
+    "question": "From the perspective of the lessee, a guaranteed residual value indicates which of the following:",
+    "answers": [
+      "If the guaranteed residual value exceeds the estimated residual value, the excess represents an additional estimated payment for the lessee."
+    ]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company sold equipment with a carrying value of $30,000 to Prairie View Corp. and simultaneously leased it back for three years. The sale price was $38,656.45 (equal to the fair value). The remaining useful life was 3 years. The lease required three annual payments of $15,000 starting December 31, 2022. The implicit rate for the lease was 8%. Please answer the following the question. Should Illini record a sale on January 1, 2022?",
+    "answers": ["No"]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company sold equipment with a carrying value of $30,000 to Prairie View Corp. and simultaneously leased it back for three years. The sale price was $38,656.45 (equal to the fair value). The remaining useful life was 3 years. The lease required three annual payments of $15,000 starting December 31, 2022. The implicit rate for the lease was 8%. Please answer the following the question. How much interest expense, if any, should Illini record for 2022?",
+    "answers": ["$3,093."]
+  },
+  {
+    "question": "On January 1, 2022, Illini Company sold equipment with a carrying value of $30,000 to Prairie View Corp. and simultaneously leased it back for three years. The sale price was $38,656.45 (equal to the fair value). The remaining useful life was 3 years. The lease required three annual payments of $15,000 starting December 31, 2022. The implicit rate for the lease was 8%. Please answer the following the question. The 2022 ending balance of the financial liability account is",
+    "answers": ["$26,749."]
+  },
+  {
+    "question": "Which one of the following is incorrect for defined benefit plans?",
+    "answers": [
+      "Pension obligations and plan assets are reported separately on the balance sheet."
+    ]
+  },
+  {
+    "question": "Illini’s defined benefit pension plan had plan assets of $600,000 on January 1, 2022. The actuary’s discount rate for this year was 10%. The expected return on plan assets was $60,000. During 2022, $60,000 was paid in pension benefits. The actual return on plan assets was $20,000. The contribution to the plan in 2022 was $100,000. The amount of plan assets at December 31, 2022, was:",
+    "answers": ["$660,000."]
+  },
+  {
+    "question": "Illini’s defined benefit pension plan had a PBO of $600,000 on January 1, 2022. The actuary’s discount rate for this year was 10%. The actual return on plan assets was $20,000. Service cost incurred for 2022 was $40,000. During 2022, $20,000 was paid pension benefits. The expected return on plan assets was $50,000. The pension plan’s impact on 2022 pre-tax net income was:",
+    "answers": ["Net expense of $50,000."]
+  },
+  {
+    "question": "Blair Inc. has a defined benefit pension plan. On December 31 (the end of the fiscal year), the company had compiled the following information: ending PBO, $120,000; benefits paid to retirees, $10,000; interest cost, $12,000. The discount rate applied by the actuary was 6%. What was the beginning PBO?",
+    "answers": ["$118,000."]
+  },
+  {
+    "question": "The following information pertains to the defined benefit pension plan of Curtis Orchard Company for the year: Service cost $ 80,000 Cash contributions 160,000 Benefits paid to retirees 110,000 Plan assets, January 1 620,000 Actual return on plan assets 70,000 PBO, January 1 900,000 Discount rate 10% Expected return on plan assets 8% What is the balance of the PBO on December 31?",
+    "answers": ["$960,000."]
+  },
+  {
+    "question": "The following information pertains to the defined benefit pension plan of Curtis Orchard Company for the year: Service cost $ 80,000 Cash contributions 160,000 Benefits paid to retirees 110,000 Plan assets, January 1 620,000 Actual return on plan assets 70,000 PBO, January 1 900,000 Discount rate 10% Expected return on plan assets 8% What is the balance of plan assets on December 31?",
+    "answers": ["$740,000."]
+  },
+  {
+    "question": "The following information pertains to the defined benefit pension plan of Curtis Orchard Company for the year: Service cost $ 80,000 Cash contributions 160,000 Benefits paid to retirees 110,000 Plan assets, January 1 620,000 Actual return on plan assets 70,000 PBO, January 1 900,000 Discount rate 10% Expected return on plan assets 8% What is the pension expense for the year?",
+    "answers": ["$120,400."]
+  },
+  {
+    "question": "Prairie View Company recorded the following balances with respect to its defined benefit pension plan for the current fiscal year: PBO @ January 1 500,000 Plan assets @ January 1 400,000 Service cost 275,000 Actual return 32,000 Interest cost 45,000 Annual contribution 282,000 Benefits paid (128,000) Benefits paid (128,000) PBO @ December 31 $692,000 Plan assets @ December 31 $586,000 Assuming that the pension expense for the year is $296,000, what is the expected long-term rate of return on plan assets?",
+    "answers": ["6%"]
+  },
+  {
+    "question": "Prairie View Company recorded the following balances with respect to its defined benefit pension plan for the current fiscal year: PBO @ January 1 500,000 ￼ Plan assets @ January 1 400,000 Service cost 275,000 ￼ Actual return 32,000 Interest cost 45,000 ￼ Annual contribution 282,000 Benefits paid (128,000) ￼ Benefits paid (128,000) PBO @ December 31 $692,000 ￼ Plan assets @ December 31 $586,000 What is company’s discount rate?",
+    "answers": ["9%"]
+  },
+  {
+    "question": "Prairie View Company recorded the following balances with respect to its defined benefit pension plan for the current fiscal year: PBO @ January 1 500,000 ￼ Plan assets @ January 1 400,000 Service cost 275,000 ￼ Actual return 32,000 Interest cost 45,000 ￼ Annual contribution 282,000 Benefits paid (128,000) ￼ Benefits paid (128,000) PBO @ December 31 $692,000 ￼ Plan assets @ December 31 $586,000 At year end, which of the following is true with respect to the net pension balance?",
+    "answers": ["Net pension liability of $106,000."]
+  },
+  {
+    "question": "Which one of the following is not initially recognized in other comprehensive income (OCI)?",
+    "answers": ["Service cost."]
+  },
+  {
+    "question": "Illini’s defined benefit pension plan had a PBO of $700,000 on January 1, 2022. The actuary’s discount rate for this year was 10%. Service cost incurred for 2022 was $30,000. During 2022, $45,000 was paid in pension benefits. The actuarial gain due to changes in assumptions for 2022 was $60,000. Plan assets increased during the year by $45,000. The amount of the PBO on December 31, 2022, was:",
+    "answers": ["$695,000."]
+  },
+  {
+    "question": "The following information pertains to Sakanaya Corporation's defined benefit pension plan: $ in Thousands 2021 Beginning Balances 2022 Beginning balances Projected benefit obligation $5,200 $5,595 Plan assets 4,900 5,220 Prior service cost–AOCI 520 480 Net loss–AOCI 710 786 At the end of 2021, the company contributed $720 (in thousands) to the pension fund and benefit payments of $545 (in thousands) were made to retirees. The expected rate of return on plan assets was 10%, and the actuary's discount rate is 6%. There were no changes in actuarial estimates and assumptions regarding the PBO. What is the 2021 service cost for the plan?",
+    "answers": ["$628 (in thousands)"]
+  },
+  {
+    "question": "The following information pertains to Sakanaya Corporation's defined benefit pension plan: $ in Thousands 2021 Beginning Balances 2022 Beginning balances Projected benefit obligation $5,200 $5,595 Plan assets 4,900 5,220 Prior service cost–AOCI 520 480 Net loss–AOCI 710 786 At the end of 2021, the company contributed $720 (in thousands) to the pension fund and benefit payments of $545 (in thousands) were made to retirees. The expected rate of return on plan assets was 10%, and the actuary's discount rate is 6%. There were no changes in actuarial estimates and assumptions regarding the PBO. What is the company’s 2021 actual return on plan assets?",
+    "answers": ["$145 (in thousands)"]
+  },
+  {
+    "question": "The following information pertains to Sakanaya Corporation's defined benefit pension plan: $ in Thousands 2021 Beginning Balances 2022 Beginning balances Projected benefit obligation $5,200 $5,595 Plan assets 4,900 5,220 Prior service cost–AOCI 520 480 Net loss–AOCI 710 786 At the end of 2021, the company contributed $720 (in thousands) to the pension fund and benefit payments of $545 (in thousands) were made to retirees. The expected rate of return on plan assets was 10%, and the actuary's discount rate is 6%. There were no changes in actuarial estimates and assumptions regarding the PBO. What is the company’s 2021 gain or loss on plan assets?",
+    "answers": ["$345 loss (in thousands)"]
+  },
+  {
+    "question": "An employer reports a pension loss in other comprehensive income when:",
+    "answers": ["the return on plan assets is lower than expected."]
+  },
+  {
+    "question": "Amortizing a net loss for pensions will:",
+    "answers": [
+      "Decrease ending retained earnings and increase accumulated other comprehensive income."
+    ]
+  },
+  {
+    "question": "The following questions pertain to the partially completed pension spreadsheet for Wesley Corporation included below. ($ in millions) PBO Plan Assets AOCI PSC AOCI Net (gain) loss Pension Expense Net Pension Status Beginning balance 480 56 (96) (245) Service cost (32) Interest cost (58) Expected return 48 Gain/loss on assets 19 Prior Service cost Amortization of: Prior service cost 8 Net gain/loss 3 Gain on PBO 110 Cash contributions 147 Benefits paid 100 (100) Ending balance (605) 48 (184) What was the company’s beginning PBO balance?",
+    "answers": ["$725"]
+  },
+  {
+    "question": "The following questions pertain to the partially completed pension spreadsheet for Wesley Corporation included below. ($ in millions) PBO Plan Assets AOCI PSC AOCI Net (gain) loss Pension Expense Net Pension Status Beginning balance 480 56 (96) (245) Service cost (32) Interest cost (58) Expected return 48 Gain/loss on assets 19 Prior Service cost Amortization of: Prior service cost 8 Net gain/loss 3 Gain on PBO 110 Cash contributions 147 Benefits paid 100 (100) Ending balance (605) 48 (184) What was the company’s ending plan asset balance?",
+    "answers": ["$614"]
+  },
+  {
+    "question": "The following questions pertain to the partially completed pension spreadsheet for Wesley Corporation included below. ($ in millions) PBO Plan Assets AOCI PSC AOCI Net (gain) loss Pension Expense Net Pension Status Beginning balance 480 56 (96) (245) Service cost (32) Interest cost (58) Expected return 48 Gain/loss on assets 19 Prior Service cost Amortization of: Prior service cost 8 Net gain/loss 3 Gain on PBO 110 Cash contributions 147 Benefits paid 100 (100) Ending balance (605) 48 (184) What was the company’s discount rate?",
+    "answers": ["8%"]
+  }
+]

@@ -2032,5 +2032,771 @@
   {
     "question": "What remains the most enduring asset in the age of data and automation?",
     "answers": ["Authenticity, empathy, and trust"]
+  },
+  {
+    "question": "You're working on a new marketing campaign using AI tools like ChatGPT & DALL-E. How would you define your usage of prompt engineering?",
+    "answers": [
+      "A technique to guide generative AI models to produce the outputs you desire."
+    ]
+  },
+  {
+    "question": "Which of the following best describes the functionality of ChatGPT and DALL-E?",
+    "answers": [
+      "They can both generate text and visual content based on user prompts, understand and respond to prompts in multiple languages, but cannot update their knowledge in real-time."
+    ]
+  },
+  {
+    "question": "Which characteristics are crucial for crafting effective prompts? (Select all that apply)",
+    "answers": [
+      "Consideration of the target audience and context",
+      "Clear and concise language.",
+      "Specificity in what is expected from the AI."
+    ]
+  },
+  {
+    "question": "Imagine you've been asked to create a persuasive text for a fashion marketing campaign. What would be your primary goal?",
+    "answers": ["To engage the audience and motivate them to take action."]
+  },
+  {
+    "question": "What should be considered when generating visual content for a fashion campaign using DALL-E? (Select all that apply)",
+    "answers": ["Current fashion trends", "Target audience", "Brand identity"]
+  },
+  {
+    "question": "It reduces the need for a marketing team.",
+    "answers": [
+      "It allows for creating tailored, engaging content to connect with the target audience."
+    ]
+  },
+  {
+    "question": "You're using sentiment analysis and A/B testing to optimize a marketing campaign. What can these tools help you achieve?",
+    "answers": [
+      "They provide insights to refine and improve campaign elements based on audience response."
+    ]
+  },
+  {
+    "question": "Generative AI models can _________ the training data to create unique content.",
+    "answers": ["Learn from"]
+  },
+  {
+    "question": "What does generative AI do differently than discriminative AI?",
+    "answers": ["Mimics the human ability to create data"]
+  },
+  {
+    "question": "What type of generative AI capability does a large language model primarily exhibit?",
+    "answers": ["Text generation"]
+  },
+  {
+    "question": "What is the key impact of generative AI on medical treatments, particularly in drug discovery?",
+    "answers": ["Accelerating drug discovery through Generative AI models"]
+  },
+  {
+    "question": "How does generative AI empower the human resource function?",
+    "answers": ["Creating job requisitions"]
+  },
+  {
+    "question": "Which of the following generative AI tools is best for researching the latest news or information on any topic?",
+    "answers": ["Gemini"]
+  },
+  {
+    "question": "David is designing a poster for a fantasy-themed event and wants to include an image of a dragon with butterfly wings sitting on a crystal throne. He decides to use a generative AI tool to create this visual. Which prompt would be the most effective for achieving his goal?",
+    "answers": [
+      "Generate an image of a dragon with butterfly wings sitting on a crystal throne."
+    ]
+  },
+  {
+    "question": "Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?",
+    "answers": ["Ability to simulate avatar personality and behavior."]
+  },
+  {
+    "question": "At the Annual Virtual Reality Conference, participants explore a cutting-edge metaverse platform showcasing unique interaction capabilities. What distinguishing feature sets this platform apart?",
+    "answers": ["Personalized interactive avatars"]
+  },
+  {
+    "question": "Which activity best reflects the text generation capabilities of large language models?",
+    "answers": ["Producing text replies in response to a given prompt"]
+  },
+  {
+    "question": "Which task shows how generative AI modifies existing text to meet user needs?",
+    "answers": ["Summarizing a long report into key points"]
+  },
+  {
+    "question": "During a course discussion, Aarav shares that 2014 was a turning point for generative AI. What development is he most likely referring to?",
+    "answers": ["The introduction of Generative Adversarial Networks (GANs)"]
+  },
+  {
+    "question": "Which task is best suited for discriminative AI rather than generative AI?",
+    "answers": ["Classifying emails as spam or not spam"]
+  },
+  {
+    "question": "Which development led to the ability of AI models to produce entirely new data?",
+    "answers": ["Generative adversarial networks"]
+  },
+  {
+    "question": "Lena wants to generate an AI image of a penguin riding a surfboard at sunrise. What should she include in her prompt for best results?",
+    "answers": ["Specific details like animal, object, and time of day"]
+  },
+  {
+    "question": "Which tool best suits a use case focused on video generation from text prompts?",
+    "answers": ["Synthesia"]
+  },
+  {
+    "question": "Selina has put together a presentation. She asks ChatGPT, “Can you create slides on the remaining wildflowers in the rainforest?”",
+    "answers": [
+      "ChatGPT will suggest the title, content, and visuals for slides."
+    ]
+  },
+  {
+    "question": "Aarav wants to build his coding skills, so he prompts ChatGPT with, “Write a Python program that prints a welcome message.” What will ChatGPT most likely do?",
+    "answers": ["Generate the Python code and explain how to run it"]
+  },
+  {
+    "question": "Lina wants to create an image of “a golden retriever reading a book in a library” using a text prompt. Which generative AI model is most suited for this task?",
+    "answers": ["DALL·E"]
+  },
+  {
+    "question": "Which tool transforms video clips into different styles using AI-powered editing?",
+    "answers": ["Runway Gen-1"]
+  },
+  {
+    "question": "Which sector uses generative AI to simulate fraud scenarios and assess credit risk?",
+    "answers": ["Banking and Finance"]
+  },
+  {
+    "question": "Which report states that generative AI could automate up to half of today’s work activities?",
+    "answers": ["McKinsey Economic Potential of Generative AI"]
+  },
+  {
+    "question": "Neel types a follow-up question into ChatGPT and receives a coherent reply that continues the conversation. What enables this behavior?",
+    "answers": ["Pattern recognition in language"]
+  },
+  {
+    "question": "An amateur musician wants to generate original melodies and instrumentals using AI. Which tool should they explore?",
+    "answers": ["AudioCraft"]
+  },
+  {
+    "question": "Which open-source AI code generator is based on GPT-2, trained on data from various GitHub repositories, and is particularly accurate for writing C code?",
+    "answers": ["Polycoder"]
+  },
+  {
+    "question": "Which image generation tool is most recognized for creating highly detailed artistic visuals from text descriptions?",
+    "answers": ["MidJourney"]
+  },
+  {
+    "question": "Sean is working on optimizing his software development workflow and wants to integrate a generative AI tool to assist with writing and refining his code. Which one should he choose?",
+    "answers": ["GitHub Copilot"]
+  },
+  {
+    "question": "Stephany needs to visualize a new product line that hasn't yet been manufactured. Which capability of generative AI would be most useful for creating photorealistic product images?",
+    "answers": ["Text-to-image generation with photorealistic settings"]
+  },
+  {
+    "question": "Which generative AI tool is specifically designed to help developers generate HTML, CSS, and JavaScript code for creating web pages?",
+    "answers": ["GitHub Copilot"]
+  },
+  {
+    "question": "Harsh needs to monitor and detect anomalies in the company software to reduce downtime and prevent critical failures. Which tool can he use to do that?",
+    "answers": ["Watson AIOps"]
+  },
+  {
+    "question": "Taesha is a second-grade teacher who wants to use generative AI tools to better support her students with special needs and learning disabilities by monitoring their individual progress. What is the primary way AI can help with this?",
+    "answers": ["Track learner progress"]
+  },
+  {
+    "question": "Nadia was using ChatGPT to debug and correct the code she was working on. However, when she started to __________, she found this AI tool was struggling to execute the task.",
+    "answers": ["Generate a complex code from scratch"]
+  },
+  {
+    "question": "Which generative AI feature allows artists to extend an existing image beyond its original borders to create a larger composition?",
+    "answers": ["Outpainting"]
+  },
+  {
+    "question": "Which statement accurately describes the relationship between discriminative and generative AI approaches?",
+    "answers": [
+      "Discriminative AI identifies patterns in existing data, while generative AI creates new data"
+    ]
+  },
+  {
+    "question": "Which statement best describes the comprehensive capabilities of current generative AI systems?",
+    "answers": [
+      "They can create diverse content, including text, images, audio, video, code, and virtual worlds"
+    ]
+  },
+  {
+    "question": "A digital marketing director must generate engaging social media posts, ads, and product descriptions. Which generative AI tool would be most appropriate for this content marketing task?",
+    "answers": ["Copy.ai"]
+  },
+  {
+    "question": "A digital marketing agency wants to use generative AI to enhance user engagement in its advertising campaigns. It is considering using AI-generated storytelling and dynamic video ads. What should it focus on to ensure the prompts are effectively tailored to its target audience?",
+    "answers": [
+      "Analyze user data to personalize narratives that resonate emotionally with individuals"
+    ]
+  },
+  {
+    "question": "A digital marketing firm wants to leverage generative AI to produce high-quality visuals for a new campaign. What should they focus on to ensure these visuals are compelling?",
+    "answers": [
+      "Ensure visuals reflect brand esthetics by incorporating key brand elements"
+    ]
+  },
+  {
+    "question": "A company plans to use generative AI to improve its ad targeting strategy. Which AI capability should they focus on to enhance the precision of their targeting?",
+    "answers": [
+      "Predictive analytics to analyze consumer data and forecast ad performance"
+    ]
+  },
+  {
+    "question": "A marketing team uses generative AI to create ad copy for a new product launch. Which approach should they take to ensure the ad copy is compelling?",
+    "answers": [
+      "Include product details, unique selling points, and audience insights in the ad copy"
+    ]
+  },
+  {
+    "question": "In what ways can generative AI enhance the effectiveness of advertisements in the realm of digital marketing?",
+    "answers": [
+      "By dynamically tailoring ads to individual user preferences and behaviors"
+    ]
+  },
+  {
+    "question": "What is a possible drawback of utilizing generative AI in developing advertising materials?",
+    "answers": [
+      "It may produce content lacking subtle nuances for branding alignment, requiring manual review."
+    ]
+  },
+  {
+    "question": "How can digital marketers effectively enhance the performance of AI-driven ad campaigns?",
+    "answers": [
+      "By conducting A/B testing to evaluate and refine ad variations"
+    ]
+  },
+  {
+    "question": "What is a significant obstacle to generative AI’s creation of dynamic video content?",
+    "answers": [
+      "Achieving AI-generated characters that exhibit realistic emotional expressions"
+    ]
+  },
+  {
+    "question": "A digital marketing agency is planning a campaign for a new sports drink targeting young athletes. They decide to use generative AI to create dynamic video ads. Which approach should they take to ensure the ads are most effective?",
+    "answers": [
+      "Leverage AI to generate personalized narratives and dynamic elements tailored to different platforms and audience segments"
+    ]
+  },
+  {
+    "question": "How does generative AI enhance the efficiency of creating video content for digital marketing campaigns?",
+    "answers": [
+      "It enables the quick creation of tailored videos that can be adapted for various digital channels."
+    ]
+  },
+  {
+    "question": "As a digital marketer, you are tasked with improving the SEO strategy for a blog that has been underperforming. Which of the following AI-driven techniques might you employ to enhance content strategy and user engagement effectively?",
+    "answers": [
+      "Leverage AI tools selectively to assist with content analysis and align with SEO best practices"
+    ]
+  },
+  {
+    "question": "You are tasked with improving the SEO of a client’s website. The website has a high bounce rate, and you suspect the meta descriptions might be contributing to this. What approach should you take to create more engaging meta-descriptions that could decrease the bounce rate?",
+    "answers": [
+      "Experiment with calls to action and ensure descriptions reflect page content accurately"
+    ]
+  },
+  {
+    "question": "What is a key issue faced when over-relying on AI for handling SEO responsibilities?",
+    "answers": [
+      "AI-generated content may struggle to fully reflect a brand’s voice and creative nuances"
+    ]
+  },
+  {
+    "question": "How does generative AI contribute to creating compelling and optimized meta titles that enhance search engine visibility and ranking?",
+    "answers": [
+      "By generating titles that are optimized for keyword relevance and aligned with SEO best practices"
+    ]
+  },
+  {
+    "question": "You need to improve your team’s keyword research efficiency. Traditional methods are manual, but AI’s growing influence can help. How can AI transform this process?",
+    "answers": [
+      "By streamlining the identification of relevant keywords and emerging trends automatically"
+    ]
+  },
+  {
+    "question": "You’re working to optimize content for AI-driven search algorithms like ChatGPT and Gemini. How can these AI platforms be leveraged effectively to improve content for better search visibility and user engagement?",
+    "answers": [
+      "By converting content into conversational answers that AI assistants can easily process"
+    ]
+  },
+  {
+    "question": "How can AI-powered platforms help a B2B company enhance the visibility of its blog on search engines?",
+    "answers": [
+      "By leveraging AI insights to refine content strategies through industry-specific benchmarks"
+    ]
+  },
+  {
+    "question": "In what ways can artificial intelligence facilitate the identification of effective keywords for digital marketing campaigns?",
+    "answers": [
+      "By streamlining the identification and evaluation of trending and high-performing keywords"
+    ]
+  },
+  {
+    "question": "You are working on improving SEO for a website and need to optimize meta titles. How can generative AI assist in creating effective meta titles for SEO purposes?",
+    "answers": [
+      "By ensuring titles are concise and within character limits, improving search engine visibility and click-through rate"
+    ]
+  },
+  {
+    "question": "You’re exploring the use of AI tools for your SEO tasks. What is a significant challenge when relying heavily on AI for SEO?",
+    "answers": [
+      "AI-generated content might lack originality and fail to represent your brand’s unique identity accurately"
+    ]
+  },
+  {
+    "question": "A digital marketing agency wants to improve its content personalization strategy using AI. They have segmented their audience into “Young teens interested in hair beauty treatments” and “Working professionals interested in skin care.” How can generative AI assist in creating personalized content for these segments?",
+    "answers": [
+      "Analyzing user behaviors and preferences to tailor content that resonates with each audience’s needs"
+    ]
+  },
+  {
+    "question": "A digital marketing professional is tasked with creating a blog post using AI to enhance content production. To ensure the generated blog content meets high standards, which approach should the professional take?",
+    "answers": [
+      "Provide a specific and detailed prompt outlining the blog’s purpose, target audience, and key points."
+    ]
+  },
+  {
+    "question": "As a digital marketing manager, you are tasked with creating a social media calendar for the upcoming month. Which of the following steps should you prioritize to ensure the calendar is well-structured and aligns with your brand’s goals?",
+    "answers": [
+      "Focus on creating a detailed prompt that includes content themes, posting frequency, and calls to action"
+    ]
+  },
+  {
+    "question": "You are planning to create a video script for a new product launch. Which prompt elements will help ensure the script engages and aligns with your marketing strategy?",
+    "answers": [
+      "Include specific details about the product’s features, tone, and a clear CTA"
+    ]
+  },
+  {
+    "question": "A digital marketing professional is tasked with creating a social media calendar for a new fitness brand targeting millennials. They want to ensure the calendar is well-structured and engaging. Which of the following prompts would best help them achieve this using AI tools?",
+    "answers": [
+      "Design an 8-day social media calendar for a fitness brand aimed at millennials, ensuring it includes specific content themes and clear calls to action (CTAs)."
+    ]
+  },
+  {
+    "question": "A travel agency wants to improve its SEO strategy using AI tools. They plan to analyze an article titled “Top 10 Winter Destinations.” Which combination of AI tools and techniques would best optimize this content for search engines?",
+    "answers": [
+      "Analyze semantic keyword usage with AI and refine keyword integration for better relevance and SEO performance"
+    ]
+  },
+  {
+    "question": "A digital marketing team is tasked with increasing engagement on a beauty brand’s website using AI. They have identified two distinct audience segments: “Young teens interested in hair beauty treatments” and “Working professionals interested in skincare.” Which AI strategy would be most effective in creating personalized content for these segments?",
+    "answers": [
+      "Create distinct content for each segment to tailor messaging and recommendations based on their specific interests"
+    ]
+  },
+  {
+    "question": "Imagine you are a content strategist tasked with developing a comprehensive content calendar for your brand. You decide to leverage AI tools to enhance your planning process. As you explore the capabilities of these tools, you come across various benefits they offer. What is a key benefit of using AI to develop a content calendar?",
+    "answers": [
+      "AI can generate daily post ideas, themes, and engagement strategies for effective planning."
+    ]
+  },
+  {
+    "question": "As a digital marketer, how can AI tools like Synthesia and Quso enhance video content creation by improving efficiency, creativity, and personalization while reducing production time and costs for your upcoming campaign?",
+    "answers": [
+      "By facilitating engaging video creation using AI avatars and repurposing long-form content"
+    ]
+  },
+  {
+    "question": "Imagine you are a digital marketing professional tasked with creating engaging content for a new product launch using generative AI tools. Which approach best utilizes AI to ensure the content is engaging and aligned with your marketing strategy?",
+    "answers": [
+      "Employ AI to create a detailed narrative structure for your content, focusing on storytelling elements that resonate with your target audience"
+    ]
+  },
+  {
+    "question": "An e-commerce platform wants to enhance its product recommendation system by integrating AI algorithms. The platform is considering using collaborative filtering and content-based filtering. What is the key advantage of using a hybrid approach that combines both these methods?",
+    "answers": ["It provides more accurate and personalized recommendations."]
+  },
+  {
+    "question": "A digital marketing agency is tasked with creating a series of social media ads for a new organic skincare line. The target audience is women aged 25-45 interested in clean beauty. Which approach best utilizes generative AI to achieve high engagement across different platforms?",
+    "answers": [
+      "Generate platform-specific ad variations using AI to tailor tone and format for each platform"
+    ]
+  },
+  {
+    "question": "Imagine you are a marketer for a fitness brand. You want to create a compelling website banner using AI tools. Which strategy would best ensure the banner captures user attention and drives engagement?",
+    "answers": [
+      "Use AI to generate a bold, clear message with a striking visual tailored to the target audience"
+    ]
+  },
+  {
+    "question": "A content strategist is leveraging AI tools to craft a LinkedIn post for a leadership development workshop. Which prompt would likely result in a successful post on this platform?",
+    "answers": [
+      "Compose a LinkedIn post emphasizing key industry trends and data with a formal tone"
+    ]
+  },
+  {
+    "question": "A marketing team is preparing to launch AI-generated display banners for an upcoming campaign. They want to ensure visual consistency across various sizes and placements. What strategy should they adopt?",
+    "answers": [
+      "Utilize automated tools to adjust the layout and visuals for consistent formatting"
+    ]
+  },
+  {
+    "question": "Consider a scenario where a digital marketer needs to create engaging email content for a new line of organic dog treats. They plan to use generative AI tools. Which steps should they prioritize to ensure the AI generates compelling and relevant email copy?",
+    "answers": [
+      "Define the email's purpose and key message, and specify the desired tone"
+    ]
+  },
+  {
+    "question": "A company is launching a new AI-powered fitness app and wants to use generative AI to create ad copy for the X platform. What should be the primary focus when crafting AI prompts for this platform?",
+    "answers": [
+      "Keep the ad concise and within a 280-character limit, using urgency and action-oriented language"
+    ]
+  },
+  {
+    "question": "Imagine you are an online retail platform manager looking to enhance customer interaction through innovative technologies. You have been exploring various AI solutions to improve customer engagement with your site. Which approach would most effectively leverage AI to enhance customer interaction?",
+    "answers": [
+      "By offering tailoring experiences and suggesting products based on browsing history."
+    ]
+  },
+  {
+    "question": "In what ways does AI enhance the customization of product suggestions for online shoppers?",
+    "answers": [
+      "By evaluating user interactions to offer personalized recommendations based on history"
+    ]
+  },
+  {
+    "question": "How does generative AI streamline the process of creating email marketing content, and what are the key benefits?",
+    "answers": [
+      "By automating A/B testing to reduce manual adjustments and enhance personalization"
+    ]
+  },
+  {
+    "question": "A digital marketing team is planning to use AI-generated emails to engage with their audience. They have identified two main personas: a tech-savvy early adopter and a French-speaking busy executive. What should be the primary focus for crafting emails for these personas?",
+    "answers": [
+      "Highlighting technical specifications and using concise language"
+    ]
+  },
+  {
+    "question": "A digital marketing manager is preparing an email campaign using generative AI for a tech-savvy early adopter persona. Which of the following elements should be included in the AI prompt to ensure the email resonates with this persona?",
+    "answers": [
+      "Focus on the technical depth and include real-world success stories"
+    ]
+  },
+  {
+    "question": "What is one advantage of utilizing generative AI in crafting email marketing campaigns?",
+    "answers": [
+      "It streamlines the process of generating tailored email content."
+    ]
+  },
+  {
+    "question": "A company wants to improve email engagement by utilizing AI-driven personalization. Which of the following is a key benefit of using AI to personalize emails for different customer personas?",
+    "answers": [
+      "AI can generate emails in multiple languages, ensuring clarity for diverse audiences."
+    ]
+  },
+  {
+    "question": "Imagine you are designing an email marketing campaign to improve engagement and conversions. You want to ensure each recipient feels the email is tailored specifically for them. How does generative AI help achieve this level of personalization?",
+    "answers": [
+      "Dynamically inserting personalized content into emails based on recipient preferences"
+    ]
+  },
+  {
+    "question": "In crafting AI-assisted outreach emails for B2B sales, what component is essential for capturing the recipient’s interest?",
+    "answers": [
+      "Communicating a clear value proposition with a professional tone increases credibility and engagement"
+    ]
+  },
+  {
+    "question": "Imagine you are optimizing an email campaign to boost engagement and conversions. You want to streamline the A/B testing process and gain actionable insights quickly. How does AI automate this process effectively?",
+    "answers": [
+      "Generating multiple variations and analyzing their performance in real time for optimization"
+    ]
+  },
+  {
+    "question": "Imagine you are managing email campaigns for a product launch and want to save time while ensuring consistent communication with your audience. What role does generative AI play in automating these workflows?",
+    "answers": [
+      "Automating routine tasks like drafting personalized welcome emails for new subscribers and scheduling them"
+    ]
+  },
+  {
+    "question": "Imagine you are tasked with creating persuasive email copy for a new product launch. To ensure the AI generates impactful and relevant content, what is a critical factor to consider?",
+    "answers": [
+      "Providing detailed prompts that outline goals, audience, and desired tone for the email"
+    ]
+  },
+  {
+    "question": "What strategies can be employed to customize AI-generated emails to meet specific business goals?",
+    "answers": [
+      "By leveraging customer feedback and adjusting content to better meet their expectations"
+    ]
+  },
+  {
+    "question": "Consider a scenario where a retail brand wants to leverage generative AI to enhance its digital marketing strategy by creating a virtual influencer. What are the potential benefits and challenges they might face in using AI-driven virtual influencers?",
+    "answers": [
+      "Virtual influencers can promote products without the risks associated with real influencers, but they might lack the authenticity that audiences seek."
+    ]
+  },
+  {
+    "question": "A retail company wants to use generative AI to create personalized ad content that resonates with different customer segments. How should they approach this to ensure the content is both personalized and effective?",
+    "answers": [
+      "Implement real-time data analysis to adjust the content dynamically based on audience reactions"
+    ]
+  },
+  {
+    "question": "Imagine you are working as a digital marketing strategist for a fast-growing e-commerce brand. Your team is considering using generative AI to create visually appealing ad content for an upcoming campaign. You need to decide whether AI-generated images would be beneficial for your strategy. What is the key advantage of incorporating AI-generated visuals into your campaigns?",
+    "answers": ["They allow for rapid scalability across platforms."]
+  },
+  {
+    "question": "A digital marketing team is planning to use AI-generated visuals for a personalized e-commerce campaign. They want to ensure the visuals resonate with their target demographic and align with the campaign’s tone. What prompt-writing techniques should they apply to achieve this goal?",
+    "answers": [
+      "Include demographic details, specify the context of use, and define the style and mood of the visuals"
+    ]
+  },
+  {
+    "question": "A digital marketing agency is using generative AI to create meta descriptions for a client’s webpage on ‘Healthy Meal Prep Ideas.’ What should be the primary focus when generating these descriptions to enhance click-through rates?",
+    "answers": [
+      "Ensure that the description is keyword-rich and aligns with audience intent"
+    ]
+  },
+  {
+    "question": "You are a digital marketing professional tasked with improving the SEO strategy for a client’s website. To stay competitive, you decide to explore AI tools for keyword research. While evaluating these tools, you consider their potential advantages. What is a key benefit of using AI for keyword research in your strategy?",
+    "answers": [
+      "AI tools analyze keyword performance and user search intent to identify the most relevant search terms."
+    ]
+  },
+  {
+    "question": "A digital marketing agency is using generative AI tools to enhance their SEO strategies. They want to improve user engagement on their website by optimizing content readability. Which approach should they take to achieve this goal?",
+    "answers": [
+      "Tailor AI-generated prompts to match the audience’s proficiency level and simplify sentence structure"
+    ]
+  },
+  {
+    "question": "A digital marketing team is tasked with creating engaging content for a new product launch on social media. They decide to use an AI tool to generate the content. Which approach should they prioritize to ensure the content is both high-quality and engaging?",
+    "answers": [
+      "Use the AI tool to generate content ideas, then refine these ideas manually based on audience insights"
+    ]
+  },
+  {
+    "question": "A marketing team is using AI to generate content for a blog. They want to ensure the content is optimized for both search engines and user engagement. What process should they follow?",
+    "answers": [
+      "Use AI to suggest keywords and create an initial draft, then refine the content manually to enhance readability and engagement"
+    ]
+  },
+  {
+    "question": "As a digital marketing professional, you are tasked with maintaining a consistent brand voice across various social media platforms. What is the key element to focus on when crafting AI prompts for social media content?",
+    "answers": [
+      "Specifying the tone, style, and elements such as hashtags and CTAs in each prompt"
+    ]
+  },
+  {
+    "question": "As a digital marketing professional developing an AI-driven content strategy for a new product launch, what’s the best first step to ensure the content aligns with the needs and interests of your target audience?",
+    "answers": [
+      "Conduct research to identify target audience segments, and define content themes and keywords tailored to each segment"
+    ]
+  },
+  {
+    "question": "A digital marketing agency is tasked with creating a series of website banners for a new fitness app targeting busy professionals. How can generative AI streamline this process and ensure the banners are effective across various formats?",
+    "answers": [
+      "By generating dynamic ad copies and adapting layouts for different formats"
+    ]
+  },
+  {
+    "question": "Imagine you’re crafting a marketing campaign for a new line of organic dog treats using AI-generated email marketing. Which strategy would ensure the emails resonate with the target audience of pet owners aged 25–45?",
+    "answers": [
+      "Using AI to generate personalized content based on demographics and interests"
+    ]
+  },
+  {
+    "question": "You are a digital marketing professional working for an online bookstore. Your goal is to enhance customer engagement and product discovery by leveraging AI technology. You need to decide on a strategy that will effectively personalize the shopping experience for your customers. What approach should you implement to achieve this goal?",
+    "answers": [
+      "Utilize AI-powered recommendation engines to suggest books based on browsing history and past purchases"
+    ]
+  },
+  {
+    "question": "When creating persuasive email copy using generative AI, what strategy should be prioritized to ensure high conversion rates?",
+    "answers": [
+      "Focus on crafting personalized messages that address the recipient’s needs and challenges"
+    ]
+  },
+  {
+    "question": "Imagine you are a digital marketer using AI-powered tools to enhance your email marketing strategy. You want to integrate AI-generated content into your existing email automation platform. What steps should you take to ensure smooth integration and maximize the impact of your email campaigns?",
+    "answers": [
+      "Set up API integration to automate content insertion, configure workflows, test thoroughly, and track performance metrics"
+    ]
+  },
+  {
+    "question": "You need to craft a highly personalized email for a French-speaking executive who values efficiency and concise communication. How can generative AI help you create an effective email?",
+    "answers": [
+      "Generate a brief, direct email in French, focusing on key benefits and using bullet points for clarity"
+    ]
+  },
+  {
+    "question": "A company wants to use AI to automate its A/B testing process for email campaigns. What are the key features of AI-powered A/B testing that can enhance the efficiency and effectiveness of their email marketing strategy?",
+    "answers": [
+      "AI generates multiple email variations and analyzes test results in real-time to identify the best option."
+    ]
+  },
+  {
+    "question": "Imagine you are a digital marketing manager at a tech company. Your team is using generative AI to create personalized email campaigns. What is a key consideration you must address to ensure ethical use of AI in this scenario?",
+    "answers": ["Obtaining consent from customers before using their data"]
+  },
+  {
+    "question": "You are tasked with implementing a new AI-driven marketing strategy for a fashion brand. What is a limitation of AI that you should be aware of when planning long-term strategies?",
+    "answers": ["AI’s lack of strategic insight and creativity"]
+  },
+  {
+    "question": "A prompt is any input or ________ that helps generative AI models produce relevant and logical responses.",
+    "answers": ["Series of instructions"]
+  },
+  {
+    "question": "What is the primary purpose of refining prompts through the process of prompt engineering?",
+    "answers": ["To ensure prompts align with specific goals and expectations"]
+  },
+  {
+    "question": "Which of the following is considered a best practice in prompt engineering?",
+    "answers": ["Writing clear, specific, and goal-oriented instructions"]
+  },
+  {
+    "question": "What does it mean to \"assign a role\" in a prompt when working with a generative AI model?",
+    "answers": [
+      "To set the model’s persona or perspective, such as acting as a tutor or customer support agent"
+    ]
+  },
+  {
+    "question": "How do prompt engineering tools typically support users in writing effective prompts?",
+    "answers": [
+      "By offering interactive environments to experiment with and evaluate prompt outcomes"
+    ]
+  },
+  {
+    "question": "Which of the following prompt engineering approaches involves breaking down complex tasks into easier ones through a sequence of simpler prompts to guide the model toward the intended outcome?",
+    "answers": ["Chain-of-thought"]
+  },
+  {
+    "question": "How does the interview pattern approach enhance the interaction with generative AI models?",
+    "answers": [
+      "By promoting a back-and-forth exchange of information with the model"
+    ]
+  },
+  {
+    "question": "Which of the following best highlights the benefit of the tree-of-thoughts approach compared to linear reasoning methods?",
+    "answers": [
+      "It allows the model to explore and evaluate multiple reasoning branches before deciding."
+    ]
+  },
+  {
+    "question": "How does the play off method enhance the quality of a model’s response?",
+    "answers": [
+      "It generates multiple outputs, then critiques or selects the best among them."
+    ]
+  },
+  {
+    "question": "What is a key strength of multimodal prompting in AI applications?",
+    "answers": [
+      "It enables the model to understand and reason across formats like text, images, and audio."
+    ]
+  },
+  {
+    "question": "Carlos is launching a social media campaign for a biodegradable packaging product. He wants to use prompt engineering to generate creative marketing ideas tailored to eco-conscious consumers. What is the best prompt he can use?",
+    "answers": [
+      "Generate three unique marketing strategies for promoting biodegradable packaging. Consider audience preferences, key selling points, and marketing platforms."
+    ]
+  },
+  {
+    "question": "Which statement best describes how the persona pattern dimension improves the quality of AI-generated responses?",
+    "answers": ["It provides a distinct character perspective."]
+  },
+  {
+    "question": "What is the key benefit of incorporating examples within the prompt?",
+    "answers": ["It helps the model understand the desired purpose."]
+  },
+  {
+    "question": "A novelist is exploring ways to make her fantasy stories more immersive using LLM-generated content. Which prompt tool feature would most effectively support her creativity?",
+    "answers": [
+      "Offering flexible prompt formats (e.g., hero’s journey and magical quests) aligned with fantasy genre tropes"
+    ]
+  },
+  {
+    "question": "Ravi is a product manager experimenting with generative AI to create user-friendly product descriptions. He wants to consistently guide the tone and structure of the outputs. Which prompt engineering practice would best support his goal?",
+    "answers": [
+      "Clearly defining the model’s role and providing structured examples in the prompt"
+    ]
+  },
+  {
+    "question": "Imagine you are planning a business trip, and you want to use the interview pattern approach to prompt an AI model to assist you in planning your itinerary. What would be the benefit of this approach in comparison to a traditional static prompt?",
+    "answers": [
+      "The model will ask for your preferences and adjust the itinerary accordingly."
+    ]
+  },
+  {
+    "question": "A user is writing a prompt about rare cardiac conditions. What prompt engineering method will ensure that the AI produces expert-level responses?",
+    "answers": ["Use domain-specific terminology and focus areas"]
+  },
+  {
+    "question": "To ensure that the AI does not favor any particular demographic when generating hiring recommendations, which prompt technique should be employed?",
+    "answers": ["Bias mitigation"]
+  },
+  {
+    "question": "An AI is being trained to handle algebra problems. Which prompt best supports Chain-of-Thought reasoning?",
+    "answers": ["Include solved examples with explanation"]
+  },
+  {
+    "question": "You’re building an AI advisor to help students choose between different college majors based on goals, interests, and market trends. Which prompting approach is most effective?",
+    "answers": [
+      "Let the model weigh each option with reasoning before recommending"
+    ]
+  },
+  {
+    "question": "Your prompt asks the AI to brainstorm several taglines for a campaign, then analyze their strengths, and pick the best. What is this approach called?",
+    "answers": ["Playoff method involving generation and self-evaluation"]
+  },
+  {
+    "question": "You want an AI to critique a digital poster design and suggest visual enhancements. Which prompt strategy should be used?",
+    "answers": [
+      "Multimodal prompt that feeds in the image and asks a specific design question"
+    ]
+  },
+  {
+    "question": "What is the main purpose of prompt engineering when working with generative AI models?",
+    "answers": [
+      "To craft inputs that influence the AI’s outputs toward specific goals"
+    ]
+  },
+  {
+    "question": "An ideal prompt is likely to be:",
+    "answers": ["Focused and task-aligned"]
+  },
+  {
+    "question": "Which of the following offers an interactive interface to test prompts using GPT models?",
+    "answers": ["OpenAI’s Playground interface"]
+  },
+  {
+    "question": "Chain-of-thought (CoT) prompting is particularly effective when _________.",
+    "answers": ["Tasks benefit from explicit reasoning steps"]
+  },
+  {
+    "question": "How does tree-of-thought prompting extend chain-of-thought prompting?",
+    "answers": [
+      "It allows the model to follow multiple branches of reasoning in parallel."
+    ]
+  },
+  {
+    "question": "An example of multimodal prompting is:",
+    "answers": ["Interpreting a chart with accompanying text"]
+  },
+  {
+    "question": "Which prompt would best help an AI model generate a clear, concise product description?",
+    "answers": [
+      "“Create a short, feature-focused paragraph describing our waterproof smartwatch for fitness enthusiasts.”"
+    ]
+  },
+  {
+    "question": "How does IBM watsonx.ai assist users in designing effective prompts through its Prompt Lab?",
+    "answers": ["By providing a curated list of example prompts by task"]
+  },
+  {
+    "question": "Why might a prompt engineer choose the interview pattern approach?",
+    "answers": [
+      "It helps guide the AI through structured, layered questioning."
+    ]
+  },
+  {
+    "question": "Which of the following text-to-image prompts is most likely to produce a high-quality, contextually rich image with enhanced visual appeal?",
+    "answers": [
+      "“Generate a hyper-realistic image of a red cardinal perched on a snow-covered pine branch during sunset.”"
+    ]
   }
 ]

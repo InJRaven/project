@@ -535,5 +535,66 @@
     "answers": [
       "Takes the hash of the p and then encrypting using its private key"
     ]
+  },
+  {
+    "question": "There is a typical dice (with each side showing distinct numbers between 1 and 6). In each event, you throw the dice and observe the number. What is the information entropy for one event in bits?",
+    "answers": ["2.585"]
+  },
+  {
+    "question": "(This problem builds on the previous problem. ) There is a typical dice (with each side showing distinct numbers between 1 and 6). In each event, you throw the dice and observe the number. What is the information entropy for *five* event in bits?",
+    "answers": ["12.925"]
+  },
+  {
+    "question": "(This problem builds on the previous problem. ) Now suppose you modify the dice so that the side which originally showed the number 6 becomes a 5 (i.e., the numbers 1, 2, 3, 4 occupy one side each, and 5 occupies two sides). What is the information entropy for one event?",
+    "answers": ["2.251"]
+  },
+  {
+    "question": "Alice and Bob wants to communicate with each other. They first use Diffie-Hellman Key Exchange protocol to establish a session key and then use the session key to encrypt the messages from Alice to Bob. An attacker eavesdrops on the resulting ciphertext and conducts a brute-force attack on the encryption. Suppose the attacker succeeds in her brute-force search. Which of the followings remain secure (secret against the attacker)? Select all that applies.",
+    "answers": ["Alice's private key", "Bob's private key"]
+  },
+  {
+    "question": "Which of the followings is the most temporary by design?",
+    "answers": ["Nonce"]
+  },
+  {
+    "question": "What are the purposes of a nonce in key distribution? Select all that applies.",
+    "answers": ["To connect the response to the corresponding communication"]
+  },
+  {
+    "question": "There are 5 computers (hardware. Each computer hosts 4 virtual machines (VM) with different addresses, and each VM hosts 10 applications. How many key exchange sessions (in one session, two logical parties share a key) are needed if the decentralized key distribution is used so that all VM's share a pair-wise keys?",
+    "answers": ["190"]
+  },
+  {
+    "question": "(This problem has the same setup as the previous question but asks a different question.) There are 5 computers (hardware. Each computer hosts 4 virtual machines (VM) with different addresses, and each VM hosts 10 applications. How many key exchange sessions (in one session, two logical parties share a key) are needed if the decentralized key distribution is used so that all applications share a pair-wise keys?",
+    "answers": ["19900"]
+  },
+  {
+    "question": "Which of the followings are needed for a CA to generate a digital certificate?",
+    "answers": [
+      "The private key of CA",
+      "The request for the user's certificate",
+      "The public key of the user (the certificate subject)"
+    ]
+  },
+  {
+    "question": "Which of the followings are required to verify the signature of the digital certificate signed by a CA?",
+    "answers": ["The public key of CA", "The certificate itself"]
+  },
+  {
+    "question": "Which of the following statements are true? Select all that applies.",
+    "answers": [
+      "Digital certificates can be requested before using it to share the public key.",
+      "Once receiving the digital certificates signed by a Certificate Authority (CA), a user can share it with anybody whom it wants to communicate."
+    ]
+  },
+  {
+    "question": "Which of the followings are the PKI's responsibilities? Select all that applies.",
+    "answers": [
+      "Distribute certificates",
+      "Manage certificates",
+      "Store certificates",
+      "Create certificates",
+      "Revoke certificates"
+    ]
   }
 ]

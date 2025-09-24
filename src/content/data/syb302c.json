@@ -1,0 +1,791 @@
+[
+  {
+    "question": "Entrepreneurs cause entrepreneurship.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are common motivators for entrepreneurs to start a new venture? Check all that apply.",
+    "answers": [
+      "To help others",
+      "To elevate their independence",
+      "To create new things",
+      "To earn more money",
+      "To increase their freedom"
+    ]
+  },
+  {
+    "question": "Innovations must be radical and disruptive in order to be viable for new company creation.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Nike's development of the \"Air Jordan\" brand is an example of this type of innovation:",
+    "answers": ["Marketing innovation"]
+  },
+  {
+    "question": "What makes a decision “strategic”? Check all that apply.",
+    "answers": [
+      "Involves planning actions in an uncertain and unpredictable future",
+      "Results in substantial gains or losses as a result of the decision and its subsequent outcomes",
+      "Requires significant allocations of resources"
+    ]
+  },
+  {
+    "question": "Strategic decisions typically share which four processes? Choose the four that apply.",
+    "answers": [
+      "Generating alternatives",
+      "Recognizing a problem situation",
+      "Evaluating the various alternatives",
+      "Selecting the alternative that best satisfies the evaluation criteria"
+    ]
+  },
+  {
+    "question": "The Opportunity Analysis Canvas is designed to help individuals develop which areas? (Check all that apply).",
+    "answers": [
+      "Thinking entrepreneurially",
+      "Seeing entrepreneurially",
+      "Acting entrepreneurially"
+    ]
+  },
+  {
+    "question": "Entrepreneurs have a natural desire to take risks at a higher level than non-entrepreneurs.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which type of individuals are more likely to discover and act on an entrepreneurial opportunity?",
+    "answers": ["Internal locus of control"]
+  },
+  {
+    "question": "Which is the more valuable measure of your social capital?",
+    "answers": ["The diversity of the people that you know."]
+  },
+  {
+    "question": "Why build social capital? (Check all that apply.)",
+    "answers": [
+      "To be a more valuable collaborator",
+      "To be better informed",
+      "To be a more efficient problem solver",
+      "To be more creative"
+    ]
+  },
+  {
+    "question": "How would you define the \"entrepreneurial mindset\"? Be sure to discuss each of the five factors. Please respond in one to two paragraphs.",
+    "answers": [
+      "Entrepreneurial mindset has five factors. They are; high need for achievement, individualism, locus of control focus, and optimism. Need for achievement is defined as having a preference for challenge, an acceptance of personal responsibility for outcomes, and a personal drive for accomplishment. Individualism means that entrepreneurs need less support or approval from others. High individualism is associated with an emphasis on individual initiative and achievement. Often results in entrepreneurs needing less support or approval from others. Control has two segments, which is autonomy and locus of control. Autonomy is an individual's belief about their level of freedom from the influence of others. Locus of control is an individual's belief that they can influence the environment in which they are found. People with higher levels of autonomy and an internal locus on control are more likely to discover an entrepreneurial opportunity. Internally-oriented locus of control people believed that they are able to influence their environment. Successful entrepreneurs are able to focus attention on a single task and see it through to completion. This leads selected individuals to react and to become successful entrepreneurs. While optimism enables entrepreneurs to try new things and attempt difficult tasks, optimism may also present negative impacts. Optimism leads entrepreneurs to frequently make judgements on subjective positive factors."
+    ]
+  },
+  {
+    "question": "We are interested in your personal perspectives on \"entrepreneurial motivation\". Discuss each of the three factors through which goal-directed behavior is initiated, energized and maintained as related to entrepreneurial strategic decision-making. Please respond in one to two paragraphs.",
+    "answers": [
+      "We are interested in your personal perspectives on \"entrepreneurial motivation\". Discuss each of the three factors through which goal-directed behavior is initiated, energized and maintained as related to entrepreneurial strategic decision-making. Please respond in one to two paragraphs."
+    ]
+  },
+  {
+    "question": "In considering the role of \"risk\" in entrepreneurial decision-making, why do entrepreneurs accept risks that traditional managers may avoid? Please respond in one paragraph.",
+    "answers": [
+      "Entrepreneurs engage in risk that traditional managers may avoid because they have intuition, have individualistic view, have high tolerance for ambiguity and high confidence in skills, knowledge, and expertise. Entrepreneurs mitigate risk based on intuition which is improved through past experiences. They have individualistic view complemented by relationships and team orientation. They have high tolerance for ambiguity based on comfort with making difficult choices with in complement information in the past. And lastly they have high confidence in skills, knowledge, and expertise enhanced based on past success."
+    ]
+  },
+  {
+    "question": "How can you improve your confidence level and risk tolerance? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "How can you increase your comfort level with making strategic decisions quickly, with limited information and high consequences? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What four attributes influence an industry's favorability to new firm entry? Choose the four that apply.",
+    "answers": [
+      "Industry structure",
+      "Demand conditions",
+      "Knowledge conditions",
+      "Industry lifecycle"
+    ]
+  },
+  {
+    "question": "What knowledge do you possess that can contribute to serving a market need within your industry of interest? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the demand conditions in the market need discussed in prior question? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What is the lifecycle stage of industry and market that you are interested in entering? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What complimentary assets are most critical in the above industry and market of interest? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the four characteristics of industry structure? Choose the four that apply.",
+    "answers": [
+      "Capital intensity",
+      "Advertising intensity",
+      "Firm size",
+      "Firm concentration"
+    ]
+  },
+  {
+    "question": "Sustainable competitive advantage can only be maintained until competitors are able to duplicate or develop a compelling substitute.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When developing a new product, it is necessary to meet every customer desire.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Within the product design and development decisions, successful entrepreneurs create multiple products simultaneously that are uniquely positioned for every potential market segment.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is smart to set your pricing significantly lower than competitors' prices in an effort to capture market share and achieve your revenue goals quickly.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Strategic planning requires near-term commitment for long-term benefits.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What factors may make it economically unattractive to produce your anticipated product or service? Choose all that apply.",
+    "answers": [
+      "Designing the product for a market niche that is too small to generate the desired revenue goals of your company",
+      "Agreeing to minimum production volume requirements that exceed your ability to pay for the production costs and invest in marketing appropriately",
+      "Over-designing the product to the point where the price is beyond your customer"
+    ]
+  },
+  {
+    "question": "Discuss common pitfalls that entrepreneurs experience in selecting which ideas to develop into new ventures. Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Discuss four types of macro changes that increase new venture opportunities. Please respond in one to two paragraphs.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What questions should you consider in determining how to produce the product for your venture? Please write three questions.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What demographic and psychographic changes are creating new market needs in business areas that interest you? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What technical advancements, political changes, and/or regulatory changes are creating new market opportunities in business areas that interest you? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "From http://www.bplans.com/sample_business_plans.php, what is the name of the business plan that you chose to evaluate?",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What is the URL for your chosen plan? (for example http://www.bplans.com/software_publisher_business_plan/executive_summary_fc.php#.UR5i8aVfB8E)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the completeness of the company summary. Your evaluation of the company summary should discuss the mission and describe the types of products or services offered by the company. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the product description. The features and functions of the product should be clearly described. A discussion of the differentiating factors from competitors as well as prices should be included. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the market segmentation. Define the target market segments in detail to include a numeric market size and a discussion of market trends. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the industry analysis. Discuss the current state of the industry and assess the future of the industry using quantifiable terms. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the marketing strategy. Discuss the distribution strategy and describe the marketing programs. Include the position statement, if any. Assess if the pricing strategy is logical. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the sales strategy. Assess how the sales strategy aligns with the target market segments. Include any sales goals and timelines. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the management summary. Assess if the management team is well constituted and if there are any management team gaps. Discuss the personnel plan. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Please evaluate the financial plan. Discuss the key expenses, expected sources of funding, and the revenues plans and forecasts. Define the amount of funding needed to launch the company. (One paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "If you were an investor, would you invest in this plan? Why or why not? Your response should be logical and clearly express your point of view. (One to two paragraph response)",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What is the Value Proposition that your company or organization offers to solve customer problems and satisfy their needs? Your response should address value proposition items to include a distinct mix of elements catering to a customer segment’s needs. Values may be quantitative, such as price or speed of service, or qualitative, such as design or customer experience. Please respond with one paragraph.",
+    "answers": ["Tao là Thái nè"]
+  },
+  {
+    "question": "What are the Customer Relationships that your company or organization plans to establish with its customer segments? Your response should address customer relationships that may include customer acquisition, customer retention, and upselling. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the Key Partnerships that your company or organization utilizes? Your response should describe the company or organization’s network of suppliers and partners. Examples of partnerships include strategic alliances, co-opetition, joint ventures, and buyer-supplier relationships. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the four key items do customers want to know? (Choose Four)",
+    "answers": [
+      "How does this impact my end state?",
+      "Do I have chemistry with this seller?",
+      "Can I afford this solution?",
+      "Is this the right solution?"
+    ]
+  },
+  {
+    "question": "Which \"customers\" do most solutions involve? (Choose All That Apply)",
+    "answers": [
+      "Influencer",
+      "Payer",
+      "Recommender",
+      "End-user",
+      "Decision-Maker",
+      "Saboteur"
+    ]
+  },
+  {
+    "question": "A \"customer archetype\" is a \"customer type\"?",
+    "answers": ["False"]
+  },
+  {
+    "question": "A winning value proposition typically requires a \"gain creator\" or \"pain killer\" for a major \"customer job\".",
+    "answers": ["True"]
+  },
+  {
+    "question": "Based on Value Proposition Design principles, what are the seven steps to effectively interviewing customers? (Please reply in approximately 250 words).",
+    "answers": ["I have chemistry with this"]
+  },
+  {
+    "question": "Customers derive value not just from what companies produce in their factories, but also from what companies add to their factory output in the form of packaging, services, advertising, customer advice, financing, delivery arrangements, and upgrades.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The Total Product Concept consists of which four main elements? (Choose Four)",
+    "answers": ["Expected", "Augmented", "Potential Product", "Core"]
+  },
+  {
+    "question": "What is the \"chasm\" in the content of marketing innovations? (Please respond in approximately 50 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the three pillars of Qualitative Research? (Choose Three)",
+    "answers": ["Focus groups", "Observation", "In-depth interviews"]
+  },
+  {
+    "question": "What are the three types Of Strategic Partnerships? (Choose Three)",
+    "answers": [
+      "Co-opetition",
+      "Horizontal partnerships",
+      "Vertical partnerships"
+    ]
+  },
+  {
+    "question": "The world beyond the chasm requires companies to be adept at four competencies: (1) establishing strategic partnerships, (2) securing competitive advantage, (3) positioning their businesses, and (4) providing effective leadership. For the business idea that you developed in the first assignment on business modeling, what is your strategy for developing these four competencies? (Please respond in approximately 250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "The four purposes of prototypes are: (Choose Four)",
+    "answers": ["Communication", "Learning", "Integration", "Milestones"]
+  },
+  {
+    "question": "High fidelity prototyping tools are best for concept sketching and basic story boards.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the first step of the Experience Map?",
+    "answers": ["The lens"]
+  },
+  {
+    "question": "Customer insights is the fuel that drives effective marketing in all companies.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The multiple levels of product and service is an extremely useful concept in thinking of a number of marketing concepts, such as growth, customer value, segmentation, and positioning. For the product or service that you envisioned with the first assignment on business modelling, what is the (1) Core Benefit, (2) Actual Product or Service, and (3) Augmented Products or Services? (Please respond in approximately 250 words).",
+    "answers": ["Tao là Thái nè"]
+  },
+  {
+    "question": "When considering the team that you would build for your new venture, it is important to reflect on your personal strengths and weaknesses. Based on your education, experiences, interests, and relationships, what gaps do you need to fill in your founding team? (Please respond in approximately 250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Your board members, and their reasons for being included, should be a brief part of your business plan. A board of directors gives you access to expertise, provided you choose them wisely, but at the cost of giving up control of the business to them. Technically, the officers of a corporation report to the board of directors, who bear the ultimate responsibility for the proper management of the company. A board of advisors is a less-formal entity. You can have the same kind of people on an advisory board, but you don’t report to them nor do they have the same power as a board of directors. Your board should be able to challenge your thinking, help you solve knotty problems, and even change management if necessary. What specific activities, events, organizations, etc. can you engage in to meet qualified, potential board members for your venture? (Please respond in approximately 250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "A number of the most important people who’ll do work for you won’t work for you. Your attorney, your accountant, and your insurance broker are all crucial members of your team. They are part of the external team of your venture. What specific activities, events, organizations, etc. can you engage in to meet qualified, potential outside professionals for your venture? (Please respond in approximately 250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Building on your early ideas from the Initial Business Model Canvas in week one, this is an opportunity to evolve your plans, or develop a new canvas for a new concept. What is the Value Proposition that your company or organization offers to solve customer problems and satisfy their needs? Your response should address value proposition items to include a distinct mix of elements catering to a customer segment’s needs. Values may be quantitative, such as price or speed of service, or qualitative, such as design or customer experience. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the Customer Segments that your company or organization serves? Your response should address customer segment items to include the needs and wants of customers, distribution channels, types of relationships, different profitabilities, and the customers' willingness to pay. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What Channels does your company or organization utilize for communication, distribution, and sales? Your response should address some or all of the five distinct channel phases which include awareness, evaluation, purchase, delivery, and after sales. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What is the Cost Structure of your company or organization? Your response should describe all costs incurred to operate the business model. Two types of cost structures are cost-driven and value-driven; many business models fall somewhere in between these two models. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Anti-dilution provisions in financing documents protect:",
+    "answers": [
+      "(b) investors from dilution in the event of stock splits, stock dividends or sales of stock at a price lower than that the investor paid"
+    ]
+  },
+  {
+    "question": "Bridge financing is a term that means:",
+    "answers": [
+      "An interim financing round that provides cash to a company that is anticipating either a larger financing round, a merger or an initial public offering"
+    ]
+  },
+  {
+    "question": "The key components of a business plan are:",
+    "answers": [
+      "Executive Summary, Company Description, Product/Service Description, Market Opportunity, Sales & Marketing Plan, Management Team, Financial Projections"
+    ]
+  },
+  {
+    "question": "The 4 \"M's\" that investors look for in a company are:",
+    "answers": ["Momentum, Management Team, Market Potential, Money"]
+  },
+  {
+    "question": "Which of the following is false about a Term Sheet?",
+    "answers": ["It is binding on the investor for 60 days."]
+  },
+  {
+    "question": "The primary purpose of the ‘cap’ in a convertible note is:",
+    "answers": [
+      "To place a ceiling on the valuation at which the note converts into equity."
+    ]
+  },
+  {
+    "question": "Series A, Series B and Series C preferred refers to the:",
+    "answers": ["Class of the preferred stock."]
+  },
+  {
+    "question": "An investor invests $2.5 million on $5 million post-money valuation in a participating Preferred Stock. The company subsequently sells for $10 million. What is the ownership of the Preferred investor and how much of the $10 million will the investor receive?",
+    "answers": ["50%; $6.25 million."]
+  },
+  {
+    "question": "Which of the following statements about a balance sheet is correct?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What is the simplest form of corporate structure?",
+    "answers": ["Unincorporated sole proprietorship"]
+  },
+  {
+    "question": "BACKGROUND - Ima Founder starts her own business, NEWCO, on January 1, 2014 and sets up a corporation with 10,000 shares of common stock, with a par value of $0.001 per share. She invests $1,000 in NEWCO in exchange for the 10,000 shares of common stock. She subsequently raises $150,000 in convertible notes, which she closes on March 1, 2014. The notes accrue simple interest at 12% per year. The maturity date of the notes is March 1, 2017, at which time all principal and accrued interest are payable to the noteholders, unless the notes are converted earlier in accordance with the note terms. From April 1 through December 31, 2014, Ima spends $72,000 in payroll costs to develop her first product, a web application used to book doctor appointments online. All costs to develop the application are expensed as incurred. On March 1, 2014, Ima enters into a lease agreement to rent office space for NEWCO. The terms of the lease include an upfront payment of a $3,000 security deposit to guarantee timely rent payment and provide for repairing any damages to the office that are not considered “normal wear and tear”, but which is refundable upon completion of the lease term. Rent is $3,000 per month, which includes ALL costs, including use of the office space, phones, use of common facilities and all Internet connectivity. Rent is payable in arrears (that is, payable on the first day of each month following a month during which the office space is occupied). On September 1, 2014, she engages the services of a UX/UI consultant to provide a professional user experience in using the web application. The consultant is paid $5,000 monthly, payable on the first day of the month following the month the work is performed. On December 1, 2014, she sells 4 annual contracts of her web application to doctor offices at a price of $60,000 per contract per year. The doctor offices have immediate use of the web application and are given 30 day payment terms. (Note: for purposes of this exercise, assume the cost of the mobile applications is negligible). ASSIGNMENT - Develop a balance sheet and an income statement for NEWCO based upon the above facts. Based on the balance sheet and income statement developed, answer the following questions: QUESTION 1: What is NEWCO’s cash balance on December 31, 2014?",
+    "answers": ["$34,000"]
+  },
+  {
+    "question": "What is the balance of convertible notes (including accrued interest) at December 31, 2014?",
+    "answers": ["$165,000"]
+  },
+  {
+    "question": "What is NEWCO’s Shareholders’ Equity at December 31, 2014?",
+    "answers": ["$(116,000)"]
+  },
+  {
+    "question": "What is NEWCO’s pre-tax income or loss for the year 2014?",
+    "answers": ["Loss of $117,000"]
+  },
+  {
+    "question": "Deferred revenues are revenues that have been booked (contracted for) but not yet earned as of a reporting date. What is Newco’s deferred revenue balance at December 31, 2014?",
+    "answers": ["$220,000"]
+  },
+  {
+    "question": "What is the accrued expense balance on the balance sheet at December 31, 2014?",
+    "answers": ["$8,000"]
+  },
+  {
+    "question": "Early stage companies, owing to the lack of history and collateral, rarely raise money via debt with one notable exception, which is:",
+    "answers": [
+      "Convertible notes, which are a hybrid, more closely related to equity"
+    ]
+  },
+  {
+    "question": "Which of the following is TRUE regarding intermediary sources of capital? (Select all that apply.)",
+    "answers": [
+      "This category includes investment bankers.",
+      "They can introduce you to other financing sources.",
+      "They may charge a fee for their services."
+    ]
+  },
+  {
+    "question": "Strategic or corporate venture capital firms make investments:",
+    "answers": [
+      "Within their core businesses to achieve financial and strategic returns"
+    ]
+  },
+  {
+    "question": "The primary sources of seed and early stage capital include the following: (Select all that apply.)",
+    "answers": ["Management team", "Angel investors", "Founders"]
+  },
+  {
+    "question": "Which of the following statements is CORRECT about friends and family investors? (Select all that apply.)",
+    "answers": [
+      "Terms should always be put into writing",
+      "When discussing an investment with a friends and family investor, the entrepreneur should clearly discuss risk versus reward",
+      "They invest because of the relationship to the founder(s)"
+    ]
+  },
+  {
+    "question": "According to the U.S. Federal Reserve, what percentage of all startups are bootstraped?",
+    "answers": ["More than 70%"]
+  },
+  {
+    "question": "What is the primary benefit to the entrepreneur of bootstrapping his/her company:",
+    "answers": [
+      "If successful, the entrepreneur retains a greater share of the exit value (or a higher valuation during fund raising)"
+    ]
+  },
+  {
+    "question": "One of the disadvantages of an entrepreneur going into an accelerator program is that the entrepreneur:",
+    "answers": ["Must give up equity to participate"]
+  },
+  {
+    "question": "Which of the following is true about angel investors:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Seed or early stage investors typically invest in companies that have all of the following attributes: (Select all that apply.)",
+    "answers": [
+      "A promising product concept",
+      "Early customer validation",
+      "Is seeking funding of $5 million or less"
+    ]
+  },
+  {
+    "question": "Develop a high-level funding schedule for a new venture business concept that can be used to discuss cash requirements for the first year of operations with prospective investors. The schedule should be prepared on a monthly basis and should include the following specific details: (1.) Headcount plan - including all personnel need to carry out the critical operations of the business for the upcoming year. (2.) Forecast general & administrative expenses, including office rent and related costs, utilities, communication expenses, insurance, filing fees, etc. (3.) Estimate the cost of how you plan to market the company/product. (4.) Develop your revenue model, including key assumptions and variables such as unit sales, sales growth, number of customers by the end of the year, product pricing, etc., Make the model flexible enough to enable you to change key variables and run “what if” analyses. (5.) If the cost of delivering your product of service is significant, forecast the cost of goods sold based upon estimate costs and the product assumptions used in item 4 above. (6.) After preparing the initial financial plan, critically review the plan and assumptions (including having advisors and other management team members review the plan for reasonableness). Adjust the month-to-month results to “normalize” the cash balance (and ensure it never runs below $0), adjusting discretionary expenses if necessary. Upon completion of the financial model, answer the following questions: QUESTION 1: How much cash do you need to raise to operate during the first 12 months of operations? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Does the amount of cash needed in item 1 above fall within the “reasonableness range” for an early stage company (i.e., up to $5 million)? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "What is your monthly cash burn rate - both gross and net burn (gross burn is the average of total expenses each month; net burn is gross burn offset by the average monthly cash generated from revenues). Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "How long will you be able to operate at the end of the 12 months forecast before you need to raise additional funding? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Which of the following statements is correct about the due diligence process? (Select all that apply.)",
+    "answers": [
+      "Due diligence is a two-way process",
+      "Prospective investors will want to investigate legal, financial and strategic matters",
+      "The key to success in due diligence is advance preparation and cooperation among the parties"
+    ]
+  },
+  {
+    "question": "Which of the following items discovered in the due diligence process could be a cause for concern by an investor, which could ultimately lead to a decision by the investor to NOT invest?",
+    "answers": [
+      "A large shareholder loan that will be paid upon completion of the current financing"
+    ]
+  },
+  {
+    "question": "When negotiating terms sheets with prospective investors, which of the following are correct? (Select all that apply.)",
+    "answers": [
+      "Don’t take everything the other side says at face value - they may be posturing.",
+      "Both the investor and entrepreneur need to win."
+    ]
+  },
+  {
+    "question": "Valuation of startup companies can be done objectively by following traditional valuation methods.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Choose the statement that is NOT correct?",
+    "answers": [
+      "The Wiltbank Study indicates that investors expect an IRR of 15% in six years"
+    ]
+  },
+  {
+    "question": "What factor(s) can impact the valuation of your company?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following statements about term sheets is correct? (Select all that apply.)",
+    "answers": [
+      "No shop clauses are beneficial to the investor but not the company.",
+      "They normally include a statement on the use of the proceeds of the investment.",
+      "They state the pre-money valuation and the amount of the investment."
+    ]
+  },
+  {
+    "question": "Equity securities include all of the following: (Select all that apply.)",
+    "answers": ["Warrants", "Preferred stock", "Options"]
+  },
+  {
+    "question": "A cap on a convertible note is used to:",
+    "answers": [
+      "Establish the maximum pre-money valulation at which the note will convert"
+    ]
+  },
+  {
+    "question": "Which of the following is not a characteristic of Preferred Stock?",
+    "answers": [
+      "Anti-dilution provisions protect the preferred shareholder’s pro-rata interests"
+    ]
+  },
+  {
+    "question": "Based on the following data, determine a “reasonable” valuation that an investor would place on your company in issuing a term sheet to make an investment in your company. Note that all amounts stated in the assumptions, except for estimated revenues that are based on the financial projections for your company, are based on comparables for companies similar to yours who are operating in your industry. (1) Estimated revenues in year 5 (assumed exit year) - $25 million (2) After tax earnings in the year of exit are estimated at 12% of revenues, or $3 million. (3) PE ratio in the year of exit is 20X (4) Exit values approximate 2X of revenues in the exit year (5) The investor’s desired IRR yield based on the Wiltbank Study is 20X. QUESTION 1: Assuming the investor is investing $750,000, what is the average exit value? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Assuming the investor is investing $750,000, what is the post-money value? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Assuming the investor is investing $750,000, what is the pre-money value? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Assuming the investor is investing $750,000, what is the post-money ownership for the investor? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Assuming the investor is investing $750,000, what is the post-money ownership for the founders/ owners? Please include your numeric answer and an explanation of several sentences.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Which of the following statements is correct about what prospective investors want to see when you pitch your company to them? (Select all that apply.)",
+    "answers": [
+      "Investors don’t care how or if your product works because they assume it does or will",
+      "Why customers will buy your product/solution",
+      "You and your team have an in-depth knowledge of the market"
+    ]
+  },
+  {
+    "question": "When an entrepreneur tells an investor “I have no competition”, what the investor hears and thinks is:",
+    "answers": ["(d) Both a and c"]
+  },
+  {
+    "question": "What is Guy Kawasaki’s 10/20/30 rule?",
+    "answers": ["10 slides, 20 minutes, 30-point font"]
+  },
+  {
+    "question": "What is the one attribute of every “perfect” pitch deck, regardless of its size?",
+    "answers": ["They tell a compelling story."]
+  },
+  {
+    "question": "When discussing/presenting the Competition slide in a pitch deck, which of the following statements is correct?",
+    "answers": [
+      "Point out why your product or solution is better but never “knock” the competition."
+    ]
+  },
+  {
+    "question": "The appendix is useful for:",
+    "answers": [
+      "Putting information into the deck that you want to have available in the event questions arise after the pitch to which these slides relate."
+    ]
+  },
+  {
+    "question": "When you “tell your story” to prospectors, you should do all of the following: (Select all that apply.)",
+    "answers": [
+      "Be genuine, passionate and try to connect directly with the audience.",
+      "Discuss who you are, where you’re from and why you’re starting the company.",
+      "Tell interesting stories constructed from anecdotes from your life that an investor might think is interesting."
+    ]
+  },
+  {
+    "question": "Which of the following is a “Don’t” that should be avoided in making an investor pitch?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following are “Do’s” of making a pitch: (Select all that apply.)",
+    "answers": [
+      "Give a product demo, if applicable.",
+      "Highlight your and your management team’s prior successes.",
+      "Connect emotionally with the investor."
+    ]
+  },
+  {
+    "question": "Assuming that an entrepreneur must speak to between 10 to 15 prospective investors to actually have one investor “close”; that the amount of each investor’s investment is $50,000; and you are trying to raise a minimum of $1 million. How many prospective investors must the entrepreneur speak to before they successfully raise $1 million?",
+    "answers": ["200 to 300"]
+  },
+  {
+    "question": "The pitch deck is less important than your product, vision, team and execution, the factors that ultimately attract investment. However, it exists to convey those aspects of your company and pique investors’ interest in hearing more. Using the following points as a guideline, develop a “winning pitch” for your new venture. (1.) Create a memorable “one-liner” - an opening vision/mission statement that catches the attention of your audience. (2.) Know your audience. (3.) Use between to 8-10 slides, providing the following information: a. Cover slide, with logo and contact information, b. Opportunity, c. Management ream, d. Product, e. Market size, f. Business model, g. Competition, h. Go-to-market strategy, i. Traction, and j. How much money you’re raising and the “use of proceeds”. (4.) If your pitch includes a demo, make sure you have enough time in the pitch session to do it properly - otherwise DON’T. You can demo the product later. -- To create your pitch deck, you may use this free tool, Google Slides (http://www.google.com/slides/about/). --How to create a new presentation Once you are in Google Drive you can create a new presentation as follows: (1) Click the red “Create” button in the top left corner (2) Then click “Presentation” from the drop-down menu (3) Your blank presentation will now open. (4) You can pick a theme for your new presentation, which you can change later if you wish. (5) You can give it a name by clicking in the “Untitled Presentation” box at the top left, and then typing in your title. You can click there again to change the title at any time. (6) Google Docs automatically saves your presentation any time you make changes. NOTE: Your submission with this assignment will not be shared with classmates, and will only be viewable by University and Coursera staff. SUBMISSION: Please paste the URL to where you posted your pitch deck online. Include your presentation notes in the \"notes\" section below each slide. You may use Google Slides (http://www.google.com/slides/about/) or an alternate site.",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "For a new business idea, or an idea that you developed in our prior courses, what is the Value Proposition that your company or organization offers that solves customer problems and satisfies their needs? Your response should address value proposition items to include a distinct mix of elements catering to a customer segment’s needs. Values may be quantitative, such as price or speed of service, or qualitative, such as design or customer experience. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Submit your customer contact log for the 10 interviews from this module. For example: Name: Jane Doe Email: janedoe@email.com Relevance: Parent of child with asthma (if your idea is a solution is a treatment for childhood asthma) Contact Source: Jane is my neighbor. Key Discoveries: (For the Value Propositions listed in your business model canvas, what did you learn from Jane that supports and/or contradicts your Value Propositions? Your task is not to prove that you were right in your initial thoughts - as this is rarely the case for entrepreneurs and companies. Instead, focus on trying to arrive at the best value proposition and best business model canvas by the end of our course. The interviews are a key step to making that happen). Interviewee #1 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Interviewee #2 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #3 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #4 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #5 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #6 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #7 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #8 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #9 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #10 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Submit your second customer contact log for the 10 interviews from this module. For example: Name: Jane Doe Email: janedoe@email.com Relevance: Parent of child with asthma (if your idea is a solution is a treatment for childhood asthma) Contact Source: Jane is my neighbor. Key Discoveries: (For the Value Propositions listed in your business model canvas, what did you learn from Jane that supports and/or contradicts your Value Propositions? Your task is not to prove that you were right in your initial thoughts - as this is rarely the case for entrepreneurs and companies. Instead, focus on trying to arrive at the best value proposition and best business model canvas by the end of our course. The interviews are a key step to making that happen). Interviewee #11 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #12 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #13 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #14 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #15 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #16 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #17 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #18 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #19 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "Interviewee #20 (List the first and last name, email, relevance, contact source, and key discoveries):",
+    "answers": ["Tao Thái nè"]
+  },
+  {
+    "question": "In one sentence, tell us what your company does.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What will your company do or make? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What’s new, interesting, or different about it versus competitors? Please respond in one to two paragraphs.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Who is your target customer? Please respond in one to two paragraphs.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What monetization models do you plan to use (i.e. advertising, subscription, freemium, direct sales, licensing, etc.)? Please respond in one to two paragraphs.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Explain how you intend to find customers? Please respond in one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "This final business model canvas enhances your initial business model canvas developed at the start of this course. These enhancements are motivated by your customer interviews and subsequent research and analysis. What is the Value Proposition that your company or organization offers to solve customer problems and satisfy their needs? Your response should address value proposition items to include a distinct mix of elements catering to a customer segment’s needs. Values may be quantitative, such as price or speed of service, or qualitative, such as design or customer experience. Please respond with one paragraph.",
+    "answers": ["Tao là Thái nè"]
+  },
+  {
+    "question": "What are the Customer Relationships that your company or organization plans to establish with its customer segments? Your response should address customer relationships that may include customer acquisition, customer retention, and up-selling. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the Revenue Streams that your company or organization will generate? Your response should address at least one of the following transaction revenues resulting from one-time customer payments or recurring revenues resulting from ongoing payments. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What Key Resources are required to make the business model work? Your response should address key resources that can be physical, financial, intellectual, and/or human. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "What are the Key Activities your company or organization must perform? Your response should describe the most important activities a company must perform to operate successfully. Key activities will differ depending on type of business. These activities may be outsourced or completed within the organization. Please respond with one paragraph.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Effective business plans present a lot of information in as few words as possible. The following business plan format, within 15 to 20 pages, is all that’s needed. The business plan should present a clarity of purpose, a focus on customers with a clear value proposition, a compelling product roadmap to implement the vision, and a qualified team to execute the plan. Company purpose: Define the business in a single declarative sentence.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Problem: Describe the pain of the customer (or the customer’s customer). Outline how the customer addresses the issue today. What is the specific problem you are trying to address? Why is it a problem? Do people in the target market care about this problem? Why do people care about this problem? What are people doing about this problem now? Has anyone else identified this as a problem? Be sure to support your assessment with research, references, and analysis. Please respond in approximately one page (250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Solution: Demonstrate your company’s value proposition to make the customer’s life better. Provide scenario(s) of how your product or service will be used by customers. What specifically are you proposing as a solution to the problem? Why would a customer care about your solution? Why should an investor care? What is the value proposition? Are there any solutions like this in your target market? Are there comparable solutions in other markets? How did you come to this solution? What are the technical risks/challenges of your solution? What would keep customers from adopting your solution? Would your solution be required to unseat an existing solution or disrupt a current business process? Please respond in approximately one to two pages (250-500 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Why Now: Discuss the historical evolution of your product or service category. Define recent trends that make your solution possible. Please respond in approximately one page (250 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Market Size: Identify and profile the customer you cater to. Calculate the market opportunity. What are your specific target markets? How many buyers exist in your target market(s)? Who are your specific customers? What is the state of the current market for you solution? Is it highly fragmented? What does the market do now to address your problem? Do they spend any money on your problem? Do you perceive your target customers as having sufficient budget and/or power to actually be able to purchase your product? Please respond in approximately one to two pages (250-500 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Competition: Discuss your competitors. Define your competitive advantages. Who are your major competitors? Why do you consider them to be competitors? Are they direct competitors or indirect competitors (have something similar but not directly competitive)? What is their history? Did they discover the same problem? Have they built/do they offer the same type of solution as yours? What are your competitive strengths and weaknesses? How do you compare? How are they pricing their offering? What is their marketing strategy? How can you overcome their advantages? Are any of them likely acquirers? If so, how can you tailor your solution to better position yourself for this outcome? Please respond in approximately one to two pages (250-500 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Business Model: Discuss the business model for your company. How will you make money? How will you price the product/service? Are there comparably priced solutions in your market? What are the major dependencies of your business model (i.e. staff, suppliers, expertise, rapid adoption, validation, etc.)? What is the key metric to determine if your business is a success? When will you reach this milestone? Are there follow-on or derivative products/service and/or revenue streams you need to consider as part of the overall business? Please respond in approximately one to two pages (250-500 words).",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Financials: The final business plan should include an income statement, cash flow statement, and balance sheet. See our course in New Venture Finance for a reminder of these statements. The business plan should also include a discussion to: Explain your five-year sales forecast and income statement. What are your key assumptions? How do these compare with your industry? When will you be cash flow positive? What are your assumptions about market size and market penetration rate? What if costs run higher by 20% or revenue is 20% below projections? What could you do from an operating perspective to keep the business going? How much funding do you need to operate for 24 months under your assumptions? How much do you need if you have no revenue for 24 months? How big can this business get in 5 years? How big can it get ultimately? Are there similarly sized companies in your industry? Please respond in approximately one to two pages (250-500 words). This page length does not include your three financial statements that would exists as spreadsheets on your final business plan for investors or audiences beyond Coursera.",
+    "answers": ["ok"]
+  },
+  {
+    "question": "Team: Discuss your founders, the executive management team, and your board of directors and/or advisors. What are the critical skills your business needs to succeed? Who are the members of your team? Do they have all the critical skills you need? Who/what skills are you lacking? How many team members do you need initially to produce, market, sell and support your product/service? Are there outsourcing opportunities? What things are critical to keep in-house? Are there some capabilities to start as outsourced and later move in-house? How will you go about finding and recruiting the people you need? Please respond in approximately one to two pages (250-500 words).",
+    "answers": ["ok"]
+  }
+]

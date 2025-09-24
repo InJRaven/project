@@ -1015,5 +1015,61 @@
   {
     "question": "You are training a team of junior data analysts on the ethical use of GenAI in their projects. What is a key guideline you would emphasize to ensure ethical practice when using GenAI for data analysis? Select the best answer.",
     "answers": ["Implementing transparency in AI decision-making processes"]
+  },
+  {
+    "question": "Identify all the applications of generative AI in the context of anomaly detection within data analysis. Select all that apply.",
+    "answers": [
+      "Generating synthetic anomalies for training purposes.",
+      "Enhancing the quality of training datasets with synthetic data."
+    ]
+  },
+  {
+    "question": "In which scenario is normalization particularly important? Select the best answer.",
+    "answers": [
+      "When using algorithms sensitive to the scale of features, such as K-Nearest Neighbors or Support Vector Machines."
+    ]
+  },
+  {
+    "question": "Which of the following is a typical component of the Examples phase in the RACE framework? Select all that apply.",
+    "answers": [
+      "Enabling the AI to replicate your tone and language choices",
+      "Providing specific instances of desired outputs or past successes"
+    ]
+  },
+  {
+    "question": "How can integrating generative AI tools with Jupyter Notebooks benefit data analysis workflows? Select the best answer.",
+    "answers": [
+      "It enables the automated generation of insightful visualizations based on data patterns."
+    ]
+  },
+  {
+    "question": "Which of the following is a unique capability of generative AI? Select all that apply.",
+    "answers": [
+      "The potential to enhance creative processes across various fields.",
+      "The ability to simulate complex scenarios and environments.",
+      "The ability to generate new and unique data."
+    ]
+  },
+  {
+    "question": "What role does generative AI play in enhancing data visualization within data analysis workflows? Select the best answer.",
+    "answers": [
+      "It automates the creation of visually appealing and informative charts and graphs."
+    ]
+  },
+  {
+    "question": "Law enforcement agencies are exploring the use of Generative AI to analyze crime data and predict potential criminal activity. What is a key ethical consideration when using Generative AI for this criminal justice data analysis? Select the best answer.",
+    "answers": ["Bias in predictive policing"]
+  },
+  {
+    "question": "In what way does generative AI contribute to anomaly detection in data analysis? Select the best answer.",
+    "answers": ["By creating synthetic anomalies to train detection systems."]
+  },
+  {
+    "question": "What is the primary goal of the Action phase in the RACE framework? Select the best answer.",
+    "answers": ["To provide the AI with specific instructions or tasks"]
+  },
+  {
+    "question": "Which learning paradigm is most suitable for a data analysis task that involves summarizing the key findings of a research paper? Select the best answer.",
+    "answers": ["Zero-shot learning"]
   }
 ]

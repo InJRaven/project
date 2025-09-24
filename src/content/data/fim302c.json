@@ -83,7 +83,6 @@
       "is a noncash expense that is recorded on the income statement."
     ]
   },
-
   {
     "question": "Edward charged $1,500 worth of laptop one years ago on MasterCharge which has an interest rate of 8% compounded monthly. He made 12 regular monthly payments of $80 at the end of each month, and refrained from using the card for the past year. How much does he still owe?",
     "answers": ["$628.51"]
@@ -140,11 +139,6 @@
     "question": "A 10-year, 7% coupon bond with a face value of $1,000 is currently selling for $871.65. Calculate your rate of return if you sell the bond next year for $880.10.",
     "answers": ["9.00"]
   },
-  {
-    "question": "Consider a coupon bond that has a $1,000 par value (face value) and a coupon rate of 10%. The bond is currently selling for $1,300 and has eight years to maturity? What is the bond’s yield to maturity?",
-    "answers": ["5"]
-  },
-
   {
     "question": "Case Study Quiz : Ysom, Inc. First, This quiz is related to course 3.3, 4.1, 4.2. Since it has tough questions, please REVIEW them before starting. Second, please download \"Mini case Excel Template\". Mini case Excel Template XLSX File Third, read \"Background\" tab in attached file. Last, answer the following questions using \"Template\" tab in attached file. Are you ready for practice quiz?",
     "answers": ["Yes"]
@@ -905,5 +899,527 @@
   {
     "question": "What Excel function do we use to conduct a sensitivity analysis for a business project?",
     "answers": ["What-if Analysis - Data Table"]
+  },
+  {
+    "question": "Continued Question Q1-Q8. Suppose a startup requires financing of 5 million dollars and it is raised in two rounds. The 1st round VC provides 3 million dollars now and the discount rate is 60%. The 1st round VC’s investment period is four years. The 2nd round VC provides 2 million dollars in year 2. The 2nd round VC’s investment period is two years and the discount rate is 50%. The startup is expected to earn 4 million dollars in year four and should be comparable to companies with PE ratio of 25. (On some questions, your answer may include a dollar sign, or a percent sign. You should not include these symbols in your answer.) Q1. What is the future value of investment in round 1?",
+    "answers": ["19660800"]
+  },
+  {
+    "question": "Q2. How much is the Round1 VC’s final % ownership? (Round the result to one decimal place)",
+    "answers": ["19.7"]
+  },
+  {
+    "question": "Q3. What is the future value of investment in round 2?",
+    "answers": ["4500000"]
+  },
+  {
+    "question": "Q4. How much is the Round2 VC’s final % ownership? (Round the result to one decimal place)",
+    "answers": ["4.5"]
+  },
+  {
+    "question": "Q5. What is the round 1 VC’s retention ratio?",
+    "answers": ["95.5"]
+  },
+  {
+    "question": "Q6. What is the round 2 VC’s retention ratio?",
+    "answers": ["100"]
+  },
+  {
+    "question": "Q7. How much is the Round 1 VC’s current % ownership? (Round the result to one decimal place)",
+    "answers": ["20.6"]
+  },
+  {
+    "question": "Q8. How much is the Round 2 VC’s current % ownership? (Round the result to one decimal place)",
+    "answers": ["4.5"]
+  },
+  {
+    "question": "Continued Question Q1-Q6. Suppose a startup requires financing of 5 million dollars and it is raised in two rounds. The 1st round VC provides 3 million dollars now and the discount rate is 60%. The 1st round VC’s investment period is four years. The 2nd round VC provides 2 million dollars in year 2. The 2nd round VC’s investment period is two years and the discount rate is 50%. The startup is expected to earn 4 million dollars in year four and should be comparable to companies with PE ratio of 25. The Round 1 VC’s current % ownership is 20.6% and the Round 2 VC’s current % ownership is 4.5%. Shares outstanding before Round 1 was 1,000,000 shares. (On some questions, your answer may include a dollar sign, or a percent sign. You should not include these symbols in your answer.) Q1. How many new shares VC should purchase at 1st round? (Round the result to the nearest whole number)",
+    "answers": ["259446"]
+  },
+  {
+    "question": "Q2. How much shares outstanding before Round 2?",
+    "answers": ["1259446"]
+  },
+  {
+    "question": "Q3. How many new shares round 2 VC should purchase at 2nd round? (Round the result to the nearest whole number)",
+    "answers": ["59346"]
+  },
+  {
+    "question": "Q4. How many shares outstanding after Round 2?",
+    "answers": ["1318792"]
+  },
+  {
+    "question": "Q5. What price per share should Round 1 VC agree to pay? (Use the answer in Q1 and round the result to one decimal place)",
+    "answers": ["11.6"]
+  },
+  {
+    "question": "Q6. What price per share should Round 2 VC agree to pay? (Use the answer in Q3 and round the result to one decimal place)",
+    "answers": ["33.7"]
+  },
+  {
+    "question": "Which of the following is not a current asset?",
+    "answers": ["Accumulated depreciation"]
+  },
+  {
+    "question": "Which of the following assets is most liquid?",
+    "answers": ["Cash equivalents"]
+  },
+  {
+    "question": "Which of the following is not one of the three key financial statements available to investors in publicly traded firms?",
+    "answers": ["Statement of operating earnings"]
+  },
+  {
+    "question": "A firm has net working capital of $150. Long-term debt is $280, total assets are $700, and fixed assets are $200. What is the amount of the total liabilities?",
+    "answers": ["630"]
+  },
+  {
+    "question": "TG restaurant has accounts payable of $2,000, inventory of $7,900, cash of $1,000, fixed assets of $8,400, accounts receivable of $4,000, and long-term debt of $4,200. 5.1 What is the value of the net working capital?",
+    "answers": ["10900"]
+  },
+  {
+    "question": "5.2 What is the value of total assets?",
+    "answers": ["21300"]
+  },
+  {
+    "question": "What information do not financial statements contain?",
+    "answers": ["The number of employees the company has."]
+  },
+  {
+    "question": "The percentage of the next dollar you earn that must be paid in taxes is referred to as the _____ tax rate.",
+    "answers": ["Marginal"]
+  },
+  {
+    "question": "Andre's Bakery has sales of $2,500 with costs of $1,100. Interest expense is $260 and depreciation is $420. The tax rate is 35 percent. What is the net income?",
+    "answers": ["468"]
+  },
+  {
+    "question": "Calculate net income based on the following information. Sales = $300 Cost of goods sold = $160.00 Depreciation = $35.00 Interest paid = $10.00 Tax rate = 34%",
+    "answers": ["62.7"]
+  },
+  {
+    "question": "SEA Corp. paid $150 in dividends and $500 in interest expense. The addition to retained earnings is $500 and net new equity is $500. The tax rate is 35 percent. Sales are $15,900 and depreciation is $680. What are the earnings before interest and taxes?",
+    "answers": ["1500"]
+  },
+  {
+    "question": "JJ Manufacture currently has taxable income of $97,800. How much additional tax will the firm owe if taxable income increases by $21,000? Taxable Income Tax Rate $0 - 50,000 15% 50,001 - 75,000 25% 75,001 - 100,000 34% 100,001 - 335,000 39%",
+    "answers": ["8080"]
+  },
+  {
+    "question": "The cashflow of the firm is defined as the cashflow of the assets. This cashflow must be equal to:",
+    "answers": ["Cashflow to equity plus cashflow to debtholders."]
+  },
+  {
+    "question": "Ross Electric had net income of $200,000 of which 40 percent was distributed to the shareholders as dividends. During the year, the company sold $66,000 worth of common stock. What is the cash flow to stockholders?",
+    "answers": ["$14,000"]
+  },
+  {
+    "question": "A firm has a net income of 300, an increase in accounts receivables of 40, depreciation of 60 and a decrease in accounts payable of 25. What is operating cash flow?",
+    "answers": ["295"]
+  },
+  {
+    "question": "Calculate FV of the second round investment (C92 in excel template). Rounding numbers to the nearest whole number. Hint: $50,000 at 30% return for 3 years.",
+    "answers": ["109850"]
+  },
+  {
+    "question": "The financial ratio measured as current assets divided by average daily operating costs is the:",
+    "answers": ["Interval measure."]
+  },
+  {
+    "question": "Which of the following are liquidity ratios? I. interval measure II. current ratio III. quick ratio IV. Total asset turnover",
+    "answers": ["I, II and III only"]
+  },
+  {
+    "question": "A decrease in which one of the following will increase a firm's quick ratio without affecting its current ratio?",
+    "answers": ["Inventory"]
+  },
+  {
+    "question": "A firm has a total debt ratio of 0.63. This means that that firm has $0.63 in debt for every:",
+    "answers": ["$0.37 in total equity."]
+  },
+  {
+    "question": "From a cash flow point of view, which one of the following ratios best measures a firm's ability to pay the interest on its debts?",
+    "answers": ["Cash coverage ratio"]
+  },
+  {
+    "question": "A firm has total debt of $2,140 and a debt-equity ratio of 0.8. What is the value of the total assets?",
+    "answers": ["4815"]
+  },
+  {
+    "question": "The Corner Bakery generates $0.06 of net income for every $1 in sales. The bakery has a ___________ of 6 percent.",
+    "answers": ["Profit margin"]
+  },
+  {
+    "question": "The three parts of the Du Pont identity can be described as:",
+    "answers": [
+      "the equity multiplier, the profit margin, and the total asset turnover."
+    ]
+  },
+  {
+    "question": "Choi Wholesalers has sales of $607,400, costs of goods sold of $351,400, inventory of $97,936, and accounts receivable of $82,800. How many days, on average, does it take the firm to sell its inventory assuming that all sales are on credit?",
+    "answers": ["102"]
+  },
+  {
+    "question": "Hawaii Resort has annual sales of $2,560,000, total debt of $380,000, total equity of $750,000, and a profit margin of 8 percent. What is the return on assets? Write the answers as percentage.",
+    "answers": ["18.12"]
+  },
+  {
+    "question": "Soho Pizza has $507,400 in sales. The profit margin is 5 percent and the firm has 25,250 shares of stock outstanding. The market price per share is $20. What is the price-earnings ratio?",
+    "answers": ["19.91"]
+  },
+  {
+    "question": "NY sandwich has net working capital of $3,000, net fixed assets of $5,000, sales of $50,000, and current liabilities of $1,500. How many dollars worth of sales are generated from every $1 in total assets?",
+    "answers": ["5.26"]
+  },
+  {
+    "question": "Beans Coffee has sales of $3,800, costs of $1,500, interest paid of $460, and depreciation of $3,200. The tax rate is 35 percent. What is the value of the cash coverage ratio?",
+    "answers": ["5.0"]
+  },
+  {
+    "question": "Y firm has total debt of $2,500 and a debt-equity ratio of 0.64. What is the value of the total assets?",
+    "answers": ["6406.25"]
+  },
+  {
+    "question": "Which one of the following is a benefit of financial planning?",
+    "answers": ["ascertaining the feasibility of a firm's goals"]
+  },
+  {
+    "question": "Pro forma financial statements are: A) generally based on projected sales. B) projections of a firm's future financial position. C) guarantees of future performance.",
+    "answers": ["A and B only"]
+  },
+  {
+    "question": "A firm is currently operating at full capacity. Net working capital, costs, and all assets vary directly with sales. The firm does not wish to obtain any additional equity financing. The dividend payout ratio is constant at 40 percent. If the firm has a positive EFN, that need will be met by:",
+    "answers": ["long-term debt."]
+  },
+  {
+    "question": "(T/F) Sales forecasts are the starting point for financial planning.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The financial planning method in which accounts vary depending on a firm's predicted sales level is called the _____ approach.",
+    "answers": ["percentage of sales"]
+  },
+  {
+    "question": "The retention ratio is calculated as:",
+    "answers": ["the additions to retained earnings divided by net income."]
+  },
+  {
+    "question": "The internal growth rate of a firm is best described as the:",
+    "answers": [
+      "maximum growth rate achievable without external financing of any kind."
+    ]
+  },
+  {
+    "question": "In the financial planning model, external financing need (EFN) is equal to:",
+    "answers": ["assets less (liabilities + equity)"]
+  },
+  {
+    "question": "If accounts receivable are $45,000 and are directly proportional to total sales, the forecast accounts receivable for next year's 5% increase in sales to $125,000 would be:",
+    "answers": ["$47,250"]
+  },
+  {
+    "question": "If the forecasted net income is $3,500 and the expected dividend is $1,030 and the tax rate is 34%, what is the retention ratio?",
+    "answers": ["0.706"]
+  },
+  {
+    "question": "The most recent financial statements for Alpha Co. are shown below. Assets and costs are proportional to sales. Debt is not. A dividend of $90 was paid, and Alpha wants to maintain a constant payout to net income. Next year's sales are projected to be $480. What is external financing needed (EFN)?",
+    "answers": ["$168"]
+  },
+  {
+    "question": "Assuming the following ratios are constants, what is the sustainable growth rate? [ROA = 13.00%, ROE = 26.40%, Dividends/Net income = 33.3%]",
+    "answers": ["21.37%"]
+  },
+  {
+    "question": "#1 and #10 are continued questions. #1. Velapure Inc. maintains a constant dividend payout ratio. What is their retention ratio?",
+    "answers": ["39%"]
+  },
+  {
+    "question": "#2. Velapure Inc. is currently operating at maximum capacity. All costs, assets, and current liabilities vary directly with sales. If sales increase by 12%, What is the projected accounts payable?",
+    "answers": ["$2,436"]
+  },
+  {
+    "question": "#3. Velapure Inc. is currently operating at maximum capacity. All costs, assets, and current liabilities vary directly with sales. If sales increase by 12%, What is the current long-term debt?",
+    "answers": ["$525"]
+  },
+  {
+    "question": "#4. Velapure Inc. is currently operating at maximum capacity. All costs, assets, and current liabilities vary directly with sales. The tax rate and the dividend payout ratio will remain constant. How much additional debt is required if no new equity is raised and sales are projected to increase by 12 percent?",
+    "answers": ["$391.80"]
+  },
+  {
+    "question": "#5. Assume the profit margin and the dividend payout ratio of Velapure Inc. are constant. If sales increase by 8 percent, what is the pro forma retained earnings?",
+    "answers": ["$1,926.80"]
+  },
+  {
+    "question": "#6. All costs and net working capital vary directly with sales. Sales are projected to decrease by 3 percent. What is the projected decrease in accounts receivable?",
+    "answers": ["$30.60"]
+  },
+  {
+    "question": "#7. Velapure Inc. is currently operating at 80 percent of capacity. What is the full-capacity level of sales?",
+    "answers": ["$10,625"]
+  },
+  {
+    "question": "#8. Velapure Inc. does not want to incur any additional external financing. The dividend payout ratio is constant. What is their internal growth rate?",
+    "answers": ["2.92%"]
+  },
+  {
+    "question": "#9. If Velapure Inc. decides to maintain a constant debt-equity ratio, what sustainable growth rate can they maintain?",
+    "answers": ["4.68%"]
+  },
+  {
+    "question": "If Kate purchased a $1,000 certificate of deposit(CD) today with annual interest rate of 12%, with monthly compounding, what would be the CD worth when it matures in three years?",
+    "answers": ["$1,430"]
+  },
+  {
+    "question": "If the cost of capital is 7%, what is the PV of $460 paid in year 5?",
+    "answers": ["328"]
+  },
+  {
+    "question": "Suppose that MC Corporation expects a new project to yield $1,000 in one year, $1,200 in two years, and then $1,400 in three years. The company’s cost of capital is 11%. What is the value of the project today?",
+    "answers": ["2898.76"]
+  },
+  {
+    "question": "You will receive $1,000 one year from now, $800 two years from now, $860 three years from now, and $1,800 four years from now. If the discount rate is 10 percent, calculate the present value of these cash flows.",
+    "answers": ["3445.80"]
+  },
+  {
+    "question": "What is the present value of $4,000 per year annuity for 8 years at an interest rate of 6%? (Please round to nearest whole number)",
+    "answers": ["24839"]
+  },
+  {
+    "question": "What is the present value of $2,000 per year perpetuity at an interest rate of 10%?",
+    "answers": ["20000"]
+  },
+  {
+    "question": "Aunt Dursley has promised to leave Harry $50 forever and have it increase at 3% a year thereafter. How much has Aunt Dursley left Harry if your opportunity costs are 7%?",
+    "answers": ["1250"]
+  },
+  {
+    "question": "You plan to borrow $2,000 now and repay it in 5-year annually. If the interest rate is 10%, how much will your annual payments be?",
+    "answers": ["$527.59"]
+  },
+  {
+    "question": "How long does it take for $700 to grow into $950 at an annual interest rate of 10%?",
+    "answers": ["3.20"]
+  },
+  {
+    "question": "If the present value of $860 expected to be received four years from today is $500, what is the interest rate?",
+    "answers": ["14.52%"]
+  },
+  {
+    "question": "The JY Corporation offers a 10-year zero coupon bond. The yield to maturity is 8.8%. What is the current price of a $1,000 face value bond?",
+    "answers": ["$430.24"]
+  },
+  {
+    "question": "Calculate the YTM on a bond priced at $1,036 which has 2 years to maturity, a 10% annual coupon rate, and a return of $1,000 at maturity.",
+    "answers": ["8"]
+  },
+  {
+    "question": "A perpetuity differs from an annuity because :",
+    "answers": ["perpetuity payments never cease."]
+  },
+  {
+    "question": "Free cash flow is:",
+    "answers": [
+      "cash that the firm is free to distribute to creditors and stockholders."
+    ]
+  },
+  {
+    "question": "Consider a coupon bond that has a $1,000 par value (face value) and a coupon rate of 10%. The bond is currently selling for $1,300 and has eight years to maturity? What is the bond’s yield to maturity?",
+    "answers": ["5.3"]
+  },
+  {
+    "question": "What is the drawback to PE ratio?",
+    "answers": ["EPS can be nagative."]
+  },
+  {
+    "question": "What does the price-to-earnings ratio (P/E) tell you?",
+    "answers": [
+      "How much investors are willing to pay per unit of a company's earnings."
+    ]
+  },
+  {
+    "question": "What does a high P/E ratio suggest?",
+    "answers": ["A company shares are currently overpriced."]
+  },
+  {
+    "question": "The ABC Mart has $525,000 in sales. The profit margin is 3.5 percent and the firm has 5,000 shares of stock outstanding. The market price per share is $16. What is the price-earnings ratio? Round the number to two decimal places.",
+    "answers": ["4.35"]
+  },
+  {
+    "question": "The price-sales ratio is especially useful when analyzing firms that have which one of the following?",
+    "answers": ["Negative earnings"]
+  },
+  {
+    "question": "If the P/B ratio of a company is less than 1, what does this suggest?",
+    "answers": [
+      "The market is valuing the company at less than the total value of its assets."
+    ]
+  },
+  {
+    "question": "Q3-Q4 are continued questions. A firm has annual sales of $300,000, a price-earnings ratio of 24, and a profit margin of 4 percent. Profit margin is net income divided by sales. There are 15,000 shares of stock outstanding. What is the earning per share (EPS)?",
+    "answers": ["0.8"]
+  },
+  {
+    "question": "What is the price-sales ratio?",
+    "answers": ["0.96"]
+  },
+  {
+    "question": "Continued Question (Q1-Q4) Let’s consider the situation of a startup, Compare.com, which requires 5 million dollars investment from a venture capitalist. The startup is expected to earn 4 million dollars in year 4 and should be comparable to companies with PE ratio of 25. Assume that the VC’s required rate of return is 60% and shares outstanding is 1 million. (On some questions, your answer may include a dollar sign, or a percent sign. You should not include these symbols in your answer.) Q1. What is the estimated value of the startup in year 4?",
+    "answers": ["100000000"]
+  },
+  {
+    "question": "Q2. What is the VC’s future value given its required rate of return?",
+    "answers": ["32768000"]
+  },
+  {
+    "question": "Q3. How much ownership percentage should the startup give to the VC to persuade the VC to investment in the startup? (Round the result to one decimal places)",
+    "answers": ["32.8"]
+  },
+  {
+    "question": "Q4. How many shares does VC require to the startup? (Use the answer in Q3 and round the result to the nearest whole number.)",
+    "answers": ["328000"]
+  },
+  {
+    "question": "Continued Question (Q1-Q3) Let’s consider the situation of a startup, Compare.com, which requires 5 million dollars investment from a venture capitalist. The startup is expected to earn 4 million dollars in year 4 and should be comparable to companies with PE ratio of 25. Assume that the VC’s required rate of return is 60% and shares outstanding is 1 million. VC’s ownership is 32.8% and number of shares VC require to the startup is 488,095. (On some questions, your answer may include a dollar sign, or a percent sign. You should not include these symbols in your answer.) Q1. What price per share should you agree to pay? (Round the result to one decimal place)",
+    "answers": ["10.2"]
+  },
+  {
+    "question": "Q2. What is the pre-money valuation of the startup? (Use the result in Q1)",
+    "answers": ["10200000"]
+  },
+  {
+    "question": "Q3. What is the post-money valuation of the startup?",
+    "answers": ["15200000"]
+  },
+  {
+    "question": "If the net present value of project A is +$50, and of project B is +$80, then the NPV of the combined project is:",
+    "answers": ["$130"]
+  },
+  {
+    "question": "If the NPV of project A is +$80, and that of project B is -$40, and that of project C is +$20, what is the NPV of the combined project?",
+    "answers": ["$60"]
+  },
+  {
+    "question": "Given the following cash flow for the startup “Healthy Life”: C0=-2000, C1=+500, C2=+700, C3=+1200, C4=+1500, C5=$3000 calculate the NPV of the startup using a 10% discount rate.",
+    "answers": ["$2,822"]
+  },
+  {
+    "question": "Which one of the following will increase the NPV of a project?",
+    "answers": ["A decrease in the discount rate"]
+  },
+  {
+    "question": "Payback period rule accepts all projects for which the payback period is:",
+    "answers": ["Less than the cut-off value."]
+  },
+  {
+    "question": "The advantage of the payback period is :",
+    "answers": ["It is simple to calculate and use"]
+  },
+  {
+    "question": "The discount rate that makes the net present value of an investment exactly equal to zero is called the:",
+    "answers": ["Internal rate of return"]
+  },
+  {
+    "question": "What is the internal rate of return on an investment with the following cash flows? Year 0 1 2 3 Cash Flow -$84,500 +$19,800 +$48,100 +$31,400",
+    "answers": ["8.00%"]
+  },
+  {
+    "question": "The stand-alone principle suggests that project analysis should be based solely on which one of the following costs?",
+    "answers": ["incremental"]
+  },
+  {
+    "question": "Cash outflows that had been previously made and have no effect on the cash flows relevant to a current decision are called ________.",
+    "answers": ["sunk costs"]
+  },
+  {
+    "question": "You have purchased equipment for $1,400. The project’s life is 6 years. Salvage value is expected to be $200. What is the annual depreciation cost if the straight-line method is used?",
+    "answers": ["$200.00"]
+  },
+  {
+    "question": "You are considering a new project that will have annual revenue of $50,000 and annual operating costs of $27,000. The project will have the initial investment of $39,900. This project is expected to have a 4-year life and will be depreciated to zero using straight-line depreciation. What is the amount of the operating income (EBIT) for this project?",
+    "answers": ["$13,025"]
+  },
+  {
+    "question": "Three years ago, you purchased a machine for a 3-year project. Today, the project ended and the machine was sold. Which one of the following correctly defines the after-tax salvage value of that machine?",
+    "answers": ["Sale price - (Sales price - Book value) * Tax rate"]
+  },
+  {
+    "question": "A project will produce an operating cash flow of $14,600 a year from Year 1 to Year 8. The initial fixed asset investment in the project will be $48,900. The net after-tax salvage value is estimated at $11,000 and will be received in the last year of the project's life. What is the net present value (NPV) of the project if the required rate of return is 12 percent?",
+    "answers": ["$28,070.26"]
+  },
+  {
+    "question": "What is the correct logical test for the NPV method if we use IF function in Excel to make an investment decision?",
+    "answers": ["Calculated value > 0"]
+  },
+  {
+    "question": "An analysis of the change in a project's NPV when one or two important variable are changed is called _____ analysis.",
+    "answers": ["sensitivity"]
+  },
+  {
+    "question": "You are considering two independent projects both of which have been assigned a discount rate of 10 percent. Based on the profitability index, what is your recommendation concerning these projects? Project A Project B Year CF Year CF 0 -$40,000 0 -$50,000 1 30,000 1 18,000 2 20,000 2 50,000",
+    "answers": ["You should accept both project"]
+  },
+  {
+    "question": "Green Water System is analyzing a project with the following cash flows. What is NPV, IRR, and payback of this project? (discount rate is 10%, round off to the nearest decimal point) Year Cash Flow 0 -$227,000 1 85,000 2 135,000 3 150,000",
+    "answers": ["NPV 74,540 ; IRR 26% ; payback period 2"]
+  },
+  {
+    "question": "Which one is wrong explanation for using IRR in decision making?",
+    "answers": [
+      "If mutual exclusive projects have different lives, you should consider payback period of the projects."
+    ]
+  },
+  {
+    "question": "The final decision on which one of two mutually exclusive projects to accept ultimately depends upon which one of the following?",
+    "answers": ["Required rate of return"]
+  },
+  {
+    "question": "Compute the WACC of the firm. Debt $20 Equity $30 after-tax cost of debt 5% cost of equity 12%",
+    "answers": ["9.2%"]
+  },
+  {
+    "question": "You are considering two mutually exclusive projects with the follwing cash flows. Calculate IRR and NPV and compare them. Which project should you accept if the discount rate is 8.5%? Year Project A Project B 0 -50,000 -5,000 1 15,000 3,000 2 25,000 2,000 3 20,000 2,500",
+    "answers": ["You should accept project B and reject project A."]
+  },
+  {
+    "question": "Calculate the equivalent annual cost (EAC) of this two projects if discount rate is 10%. (Round off to the nearest decimal point) Year Project A Year Project B 0 -80,000 0 -30,000 1 32,000 1 15,000 2 40,000 2 27,000 3 10,000 3 4 22,000 4",
+    "answers": ["Project A: $1,479 ; Project B: $1,877"]
+  },
+  {
+    "question": "Which one of the following is the best example of two mutually exclusive projects?",
+    "answers": [
+      "Waiting until a machine finishes molding Product A before being able to mold Product B"
+    ]
+  },
+  {
+    "question": "An option that can be exercised any time before expiration date is called:",
+    "answers": ["An American option"]
+  },
+  {
+    "question": "The following are the main types of real options: I) The option to expand if the immediate investment project succeeds. II) The option to wait (and learn) before investing. III) The option to shrink or abandon a project.",
+    "answers": ["I, II and III"]
+  },
+  {
+    "question": "In the Black-Scholes model, the symbol \"σ(sigma)\" is used to represent the standard deviation of the:",
+    "answers": ["Rate of return on the underlying asset."]
+  },
+  {
+    "question": "The value of N(d) in the Black-Scholes model can take any value between:",
+    "answers": ["0 and +1"]
+  },
+  {
+    "question": "The buyer of a call option has the right to exercise, but the writer of the call option has:",
+    "answers": ["The obligation to deliver the shares at exercise price."]
+  },
+  {
+    "question": "MIST Inc. has call options on its common stock traded in the market. The options have an exercise price of $39 and expire in 1 years. The current price of the Cola stock is $40. The risk-free rate is 6% per year and the standard deviation of the stock returns is 25%. Calculate the value of d2. Hint: Use excel and Black-Scholes formula.",
+    "answers": ["0.2163"]
+  },
+  {
+    "question": "The opportunity to invest in a project can be thought of as a one year real option that is worth $500 with an exercise price of $800. Calculate the value of the option given that standard deviation is 30% and interest rate is 6%. Hint: Using Black-Scholes formula in excel.",
+    "answers": ["7.21"]
+  },
+  {
+    "question": "True/False Question. In real options, required investment is considered the exercise price.",
+    "answers": ["True"]
   }
 ]
