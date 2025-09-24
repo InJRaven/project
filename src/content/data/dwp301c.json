@@ -3628,5 +3628,1000 @@
   {
     "question": "Which method is used by the IBM Cloud Code Engine to access your container image?",
     "answers": ["From both public and private container registry"]
+  },
+  {
+    "question": "Have you forked the GitHub repo containing the project template?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added the \"About Us\" static page?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added the \"Contact Us\" static page?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you run and tested your Django application?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you updated your repository with all the changes?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you implemented fetchDealers endpoint in your Express server?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you implemented fetchDealers by state endpoint in your Express server?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you implemented fetchDealer by ID endpoint in your Express server?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created CarModel and CarMake Django models?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you registered CarModel and CarMake models with the Admin site?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created new car models objects with associated car makes?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you implemented get_request function in restapis.py?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created get_dealerships view and configured the route?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you implemented the post_review method in restapis.py?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created get_dealer_details view and configured the route?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created get_dealer_reviews view and configured the route?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created add_review view and configured the route?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a “Dealers” REACT component to render the dealerships?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added “PostReview” button to “Dealers” component for logged in users?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a “Dealer” Reviews REACT component to retrieve specific dealer information?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added “PostReview” link to the “Dealer” component for the users who are logged in?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created a submission page for reviews that includes fields for Review, Purchase Date, Car Make, Year, and a Post Review button?\"",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Does the review get updated after you add a new review?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you created a superuser for your Django Admin site?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added the user login or logout and signup menu items to the navigation bar?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a login view to handle login request?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a logout view to handle logout request?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a registration REACT page?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a register view to handle registration request?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added CI/CD to your project using GitHub actions?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you run code linting, explored its results and made corrections to ensure the workflow succeeds?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you configured the mongo-express application, and is it running in a dockerized container?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you deployed the sentiment analyzer on IBM Code Engine, and is it accessible?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a Dockerfile?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you built the docker image, run the container, and tested it locally?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you added a deployment.yml with the required services?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you deployed the application to Kubernetes?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you tested the deployed application from end to end?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Which of these are essential characteristics of the cloud? Select the two characteristics that apply.",
+    "answers": ["Broad network access", "Resource pooling"]
+  },
+  {
+    "question": "In the __________ cloud model, the cloud provider provisions the cloud infrastructure for use by multiple companies.",
+    "answers": ["Public"]
+  },
+  {
+    "question": "Virtualization is the process of creating a software-based version of physical resources, made possible through the use of ___________________.",
+    "answers": ["Hypervisors"]
+  },
+  {
+    "question": "A ______________ is an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere—desktops, traditional IT, or the cloud.",
+    "answers": ["Container"]
+  },
+  {
+    "question": "Which type of cloud storage can be mounted on multiple servers at once?",
+    "answers": ["File storage"]
+  },
+  {
+    "question": "Why do front-end developers use hypertext markup language (HTML) for a website?",
+    "answers": ["To create the physical structure of the website"]
+  },
+  {
+    "question": "When does the server return error 404?",
+    "answers": [
+      "When the request from the front end arrives at the back end, and the endpoint is missing."
+    ]
+  },
+  {
+    "question": "Which HTML tag should you use to specify self-contained content?",
+    "answers": ["<figure>"]
+  },
+  {
+    "question": "In JavaScript, what is one use of the toString method?",
+    "answers": ["It returns a string representing the object it is invoked on."]
+  },
+  {
+    "question": "In JavaScript, assume you need to create a variable with a global scope. What is the first step you must take to declare this variable?",
+    "answers": ["Providing the var keyword"]
+  },
+  {
+    "question": "Which of these options defines version control system?",
+    "answers": [
+      "A version control system helps you keep track of changes to your document."
+    ]
+  },
+  {
+    "question": "Which of the following is a feature of the Git repository model?",
+    "answers": ["Source code tracking"]
+  },
+  {
+    "question": "If you need to change the code in a GitHub project you have write access to, you should first perform which of the following actions?",
+    "answers": ["Create a new branch"]
+  },
+  {
+    "question": "What is the function of the git push command?",
+    "answers": [
+      "git push transfers your committed changes to the remote repository."
+    ]
+  },
+  {
+    "question": "In a Git team project, which team member uses the git-http-backend command as part of their responsibilities?",
+    "answers": ["Repository administrator"]
+  },
+  {
+    "question": "Which of the following is not a package used to build React applications?",
+    "answers": ["JSX"]
+  },
+  {
+    "question": "Select the correct order of methods called when a class component is created.",
+    "answers": [
+      "constructor(), getDerivedStateFromProps(), render(), componentDidMount()"
+    ]
+  },
+  {
+    "question": "Hooks can only be called ________.",
+    "answers": ["At the top level of a component"]
+  },
+  {
+    "question": "________ are JSON objects that contain information about changes that need to be made to the state.",
+    "answers": ["Actions"]
+  },
+  {
+    "question": "Which of the following Redux elements receives the old state and action as input and returns an updated state?",
+    "answers": ["Reducer"]
+  },
+  {
+    "question": "What does JSON stand for?",
+    "answers": ["JavaScript Object Notation"]
+  },
+  {
+    "question": "Which of the following actions you should execute to make a function or a value available to Node.js applications that import your module?",
+    "answers": ["Add a property to the implicit exports object"]
+  },
+  {
+    "question": "What is a promise?",
+    "answers": ["An object returned by an asynchronous method"]
+  },
+  {
+    "question": "What purpose does a router serve?",
+    "answers": ["Assists the server in handling queries"]
+  },
+  {
+    "question": "Which of the following characteristics is associated with Express handling multiple operation requests concurrently?",
+    "answers": ["Asynchronous programming"]
+  },
+  {
+    "question": "What is the result of running the following lines of code?",
+    "answers": ["a=X"]
+  },
+  {
+    "question": "Say you have a list named myList with these elements: [“John”, “Ralph”, “Leia”, “Simone”]. Which of the following shows the correct code for printing out the Leia element? Select two that apply.",
+    "answers": ["print(myList[-2])", "print(myList[2])"]
+  },
+  {
+    "question": "What initial value of x will produce the following output for the below code? Select the two statements that apply. Bye Hillary if(x==\"B\"): print('Hello') else: print('Bye') print('Hillary')",
+    "answers": ["x=”C\"", "x=“Bye”"]
+  },
+  {
+    "question": "When using the open() function to write to a file, what are the two parameters that should be passed into it?",
+    "answers": ["The path to the file and the mode argument w."]
+  },
+  {
+    "question": "In the BeautifulSoup Python library, what is the function of the Tag object?",
+    "answers": ["It corresponds to an HTML tag in the original HTML document."]
+  },
+  {
+    "question": "How does an entity-attribute model map to a relational database model?",
+    "answers": ["Entities map to tables, and attributes map to columns."]
+  },
+  {
+    "question": "Which statement best describes Cursor?",
+    "answers": [
+      "A special control data structure for iterating over rows in a database."
+    ]
+  },
+  {
+    "question": "What is the purpose of using a Django template?",
+    "answers": [
+      "When combined with Django views, it presents data as a dynamic HTML page."
+    ]
+  },
+  {
+    "question": "When you create a Django project, Django creates some core files, including manage.py. What purpose does manage.py serve?",
+    "answers": [
+      "It provides a command line interface so you can interact with the Django project."
+    ]
+  },
+  {
+    "question": "Which of the following describes one of the two types of containers in Bootstrap?",
+    "answers": ["It spans the entire width of the parent element."]
+  },
+  {
+    "question": "Some of the common Docker CLI commands include___________ to copy and rename images and ___________ for storing images in a configured registry.",
+    "answers": ["tag, push"]
+  },
+  {
+    "question": "Which of the following is true in relation to Kubernetes?",
+    "answers": [
+      "It provides a flexible model that maintains choice for users wherever appropriate."
+    ]
+  },
+  {
+    "question": "Which command in a Dockerfile provides a default for executing a container, and there can only be one such command in the file?",
+    "answers": ["CMD"]
+  },
+  {
+    "question": "When the \"apply\" command is run, the targeted Kubernetes cluster __________________.",
+    "answers": [
+      "Has its state changed to match the state that is defined in the provided files"
+    ]
+  },
+  {
+    "question": "What is Red Hat OpenShift?",
+    "answers": [
+      "A hybrid cloud, enterprise-ready Kubernetes container platform"
+    ]
+  },
+  {
+    "question": "Modern software development often uses the following along with the twelve-factor application methodology?",
+    "answers": ["Microservices"]
+  },
+  {
+    "question": "Which of the following is an open source API Gateway?",
+    "answers": ["Kong"]
+  },
+  {
+    "question": "Which technology is generally considered an example of serverless computing?",
+    "answers": ["FaaS"]
+  },
+  {
+    "question": "Which of the following is a potential benefit of an IBM Cloud Code Engine?",
+    "answers": ["It takes care of the cluster management."]
+  },
+  {
+    "question": "Which statement best describes OpenShift?",
+    "answers": [
+      "It is a hybrid, cloud, enterprise Kubernetes application platform."
+    ]
+  },
+  {
+    "question": "Which of the following is an essential characteristic of the Cloud?",
+    "answers": ["On-demand self-service"]
+  },
+  {
+    "question": "In the _______ cloud model, an organization's on-premises private cloud and third-party public cloud connect into a single, flexible infrastructure for running the organization's applications and workloads.",
+    "answers": ["Hybrid"]
+  },
+  {
+    "question": "Which of the following are the key benefits of virtualization? Select the two choices that apply.",
+    "answers": ["No need for a physical server"]
+  },
+  {
+    "question": "Which of the following is true about containers?",
+    "answers": ["Containers consume fewer resources than virtual machines."]
+  },
+  {
+    "question": "Which type of cloud storage is ideal for storing unstructured data?",
+    "answers": ["Object storage"]
+  },
+  {
+    "question": "Why front-end developers use cascading style sheets (CSS) for a website?",
+    "answers": ["To style the website and make it more appealing"]
+  },
+  {
+    "question": "Which of the following best describes an API?",
+    "answers": ["Code that works with data and has set rules and structures"]
+  },
+  {
+    "question": "Which HTML element should you use to define a document's logical separations, such as the numbered chapters of an online manual?",
+    "answers": ["<section>"]
+  },
+  {
+    "question": "In JavaScript, which of the following is a primitive data type? Select the two choices that apply.",
+    "answers": ["null", "undefined"]
+  },
+  {
+    "question": "Assume you are a developer on a GitHub project, and on your computer, you have a cloned copy of the GitHub repository. After editing several files in your local repository, what is the first step you must take to push your changes back to GitHub?",
+    "answers": ["Use the add command."]
+  },
+  {
+    "question": "Which of the following Git commands transfers changes from the remote repository to the local repository and then merges them to a branch?",
+    "answers": ["git pull"]
+  },
+  {
+    "question": "Which of the following is a disadvantage of testing React components?",
+    "answers": ["Requirement of writing more code"]
+  },
+  {
+    "question": "Which of the following two techniques used as middleware for Redux are most popular?",
+    "answers": ["Thunk middleware, Saga middleware"]
+  },
+  {
+    "question": "The ______ property is usually a string that identifies the action, and the ______ is an optional property that contains some data that is required to perform a task.",
+    "answers": ["Type, payload"]
+  },
+  {
+    "question": "What is template rendering?",
+    "answers": [
+      "It is the ability of the server to fill in dynamic content in the HTML template"
+    ]
+  },
+  {
+    "question": "Which is the correct syntax for declaring the tuple myTuple?",
+    "answers": ["myTuple = (“rectangle”, “circle”, “square”, “hexagon”)"]
+  },
+  {
+    "question": "Web scraping is a process used for automatically extracting information from a website within minutes. What is the purpose of the Python code provided below in web scraping? \"table_row=table.find_all(name='kr')\"",
+    "answers": [
+      "It will find all the data within the table marked with the tag \"kr.\""
+    ]
+  },
+  {
+    "question": "Which statement about an entity-attribute model regarding a movie is true?",
+    "answers": ["The movie is an entity."]
+  },
+  {
+    "question": "Which statement about Django templates is true?",
+    "answers": ["It contains dynamic HTML elements."]
+  },
+  {
+    "question": "Which Django class is used for styling textual elements?",
+    "answers": ["form-control"]
+  },
+  {
+    "question": "Which of the following is an open-source system for automating deployment, scaling, and management of containerized applications?",
+    "answers": ["Kubernetes"]
+  },
+  {
+    "question": "What happens when you change the Dockerfile and rebuild the image",
+    "answers": ["The Docker engine only rebuilds the changed layers."]
+  },
+  {
+    "question": "Which of the following are true for the apply command? Select all that apply.",
+    "answers": [
+      "It infers that a new deployment needs to be created.",
+      "It is namespace-scoped",
+      "It requires a file or directory of files.",
+      "It is declarative."
+    ]
+  },
+  {
+    "question": "Is Red Hat OpenShift an open-source software?",
+    "answers": [
+      "No. The Origin Kubernetes Distribution is open source, but it is packaged with other components to create the OpenShift product."
+    ]
+  },
+  {
+    "question": "In accordance with the twelve-factor app methodology, why should developers avoid storing configuration as constants in their code?",
+    "answers": ["Because configurations might differ among environments"]
+  },
+  {
+    "question": "What are the three main components of serverless stack? Select all that apply.",
+    "answers": ["FaaS", "BaaS", "API Gateway"]
+  },
+  {
+    "question": "Which of the following represent the use cases or deployment modes of an IBM Cloud Code Engine? Select the three appropriate choices.",
+    "answers": [
+      "Pushing the source code directly.",
+      "Deploying a built application to Code Engine",
+      "Creating and running batch jobs like a data processing or analytics task"
+    ]
+  },
+  {
+    "question": "A software development team is exhausted by manually identifying bugs in a large project. They considered leveraging the capabilities of generative AI to ease the process. How can generative AI help them in this scenario?",
+    "answers": [
+      "By leveraging machine learning models to identify bugs and suggest fixes."
+    ]
+  },
+  {
+    "question": "An engineering lead wants to improve defect detection early in the test cycle using data from past releases. How does AI assist with early-stage testing and issue prevention?",
+    "answers": ["Predict and delete bugs from past patterns."]
+  },
+  {
+    "question": "A team lead is evaluating AI tools that can generate realistic and meaningful technical documentation automatically. Which capability of LLM tools, such as GPT, help to perform this task effectively?",
+    "answers": ["Neural networks trained on huge text datasets"]
+  },
+  {
+    "question": "Your team is handling a substantial set of user feedback documents to identify key requirements for a new product. They want to automate the extraction and validation of user needs. Which AI capabilities can they leverage to complete this task?",
+    "answers": ["Natural language processing for trend identification"]
+  },
+  {
+    "question": "Which AI capability helps development teams keep software architecture updated in real time?",
+    "answers": ["Offering AI-generated architectural diagram"]
+  },
+  {
+    "question": "Which upcoming emerging trend in AI aims to help users understand how AI systems make decisions?",
+    "answers": ["Explainable AI"]
+  },
+  {
+    "question": "What type of content do AI tools typically generate when supporting website creation?",
+    "answers": ["Appealing web-ready content"]
+  },
+  {
+    "question": "You want to ensure consistency in layout, typography, and spacing across all pages in your website. How can AI help in maintaining uniform design standards?",
+    "answers": ["Analyzes patterns and adheres to predefined design principles"]
+  },
+  {
+    "question": "While working on a large-scale project for creating a website, a developer wants to reduce their team’s efforts on recognizing and fixing bugs. What is the primary advantage of using an AI-powered debugging tool in this scenario?",
+    "answers": ["Detecting bugs quickly and accurately"]
+  },
+  {
+    "question": "An AI engineer wants to simplify the user inputs to help the system recognize similar meanings in words like \"connect\", \"connected\", and \"connecting\". Which approach should the engineer rely on to achieve this?",
+    "answers": ["Mapping words to a shared linguistic structure"]
+  },
+  {
+    "question": "Which of the following best describes AI’s role in automating testing within CI/CD pipelines?",
+    "answers": ["Using code change analysis to generate and prioritize tests."]
+  },
+  {
+    "question": "An e-commerce site notices a sudden increase in fake product reviews. How can an AI-driven feature help limit this threat?",
+    "answers": ["It blocks suspicious content using pattern recognition."]
+  },
+  {
+    "question": "Which type of attack is common when you use AI-generated code that lacks input sanitization?",
+    "answers": ["SQL injection or cross-site scripting"]
+  },
+  {
+    "question": "Your team wants to improve the efficiency of executing hundreds of test cases on multiple environments. Which AI technique helps determine the best order to run test cases by considering factors like dependencies and resource use?",
+    "answers": ["Intelligent scheduling algorithm techniques"]
+  },
+  {
+    "question": "You are using an AI tool for detecting anomalies and patterns from execution logs during runtime. Which technique will you use in this scenario?",
+    "answers": ["Automated log analysis"]
+  },
+  {
+    "question": "A product manager is listing several benefits while pitching an AI-enhanced mobile app. Which of the following is the least likely to be driven by AI features?",
+    "answers": ["Hosting collaborative open forums"]
+  },
+  {
+    "question": "A developer is using AI-powered tools during a code review process to analyze source code for vulnerabilities with minimal false positives. Which AI security feature should a developer apply in this scenario?",
+    "answers": ["Static Application Security Testing (SAST)"]
+  },
+  {
+    "question": "How does AI help Mike peer review an application’s code to flag anti-patterns and suggest improvements before merging code?",
+    "answers": ["Increases analysis accuracy with machine learning"]
+  },
+  {
+    "question": "How do CI/CD pipelines help in AI-powered monitoring tools that are integrated to strengthen system performance?",
+    "answers": ["Detecting abnormal behavior and security threats"]
+  },
+  {
+    "question": "A security analyst wants to prevent advanced cyberthreats in their enterprise system by evaluating AI-powered tools. How does Symantec Endpoint Security in AI-driven cybersecurity help in this scenario?",
+    "answers": ["Exploiting machine learning and preventing malware"]
+  },
+  {
+    "question": "While integrating AI into their CI toolchain, Arjun’s team found it difficult to make the AI system work smoothly with their current workflows. What challenge were they likely facing?",
+    "answers": ["Achieving seamless integration for CI pipelines"]
+  },
+  {
+    "question": "A software architect wants to enhance system efficiency by leveraging AI to improve design structure and reuse components. How does AI assist in this scenario?",
+    "answers": ["Identifying reusable designs for web"]
+  },
+  {
+    "question": "A cybersecurity team wants to observe internal user activities and detect inconsistencies based on deviations from normal behavior patterns. Which tool should they use in this scenario?",
+    "answers": ["Splunk User Behavior Analytics"]
+  },
+  {
+    "question": "Which concern reflects a common risk when relying on generative AI for software outputs?",
+    "answers": ["Difficulty in trusting AI-generated code outputs"]
+  },
+  {
+    "question": "Which of these are examples of successful AI-driven apps?",
+    "answers": ["Siri and Alexa"]
+  },
+  {
+    "question": "Which issue highlights a major risk of using generative AI models in content creation?",
+    "answers": ["AI may produce misleading software content."]
+  },
+  {
+    "question": "AI-powered tools use static analysis during code review. What is the main benefit of using this technique?",
+    "answers": ["It identifies issues without running the code."]
+  },
+  {
+    "question": "What is one of the key capabilities of large language models (LLMs) in software development?",
+    "answers": ["Code generation and auto-completion"]
+  },
+  {
+    "question": "Your team is integrating AI into its application’s security module to identify unexpected behavior and flag unusual access patterns before they escalate. Which AI capability is best suited to this scenario?",
+    "answers": ["Anomaly detection"]
+  },
+  {
+    "question": "Tia wants to optimize her static website for more visibility and online performance. Which feature should she leverage to complete her task?",
+    "answers": ["Additional SEO measures"]
+  },
+  {
+    "question": "What enables AI to recognize patterns in email content and filter spam effectively?",
+    "answers": ["Utilizing machine learning and AI algorithms"]
+  },
+  {
+    "question": "Which method helps reduce bias and promote fairness in natural language processing (NLP) systems?",
+    "answers": ["Confirming various training data presence"]
+  },
+  {
+    "question": "Which of the following statements is correct about the use of AI in software testing?",
+    "answers": [
+      "AI-based techniques enable intelligent test generation and execution of test cases."
+    ]
+  },
+  {
+    "question": "Static analysis helps detect code issues early in the development cycle. What does this technique allow AI-powered tools to do?",
+    "answers": ["Review code without execution"]
+  },
+  {
+    "question": "Which of the following is a role played by AI in CI/CD?",
+    "answers": ["Automated testing and quality assurance"]
+  },
+  {
+    "question": "A software team wants to ensure their AI-generated content respects legal protections related to original works and inventions. What intellectual property consideration is essential in this scenario?",
+    "answers": ["Lack of intellectual property protection"]
+  },
+  {
+    "question": "You are accessing generative AI tools and need to be aware of ethical challenges to avoid unfair outputs. Which of the following is an ethical concern when using generative AI in software development?",
+    "answers": ["Bias and discrimination"]
+  },
+  {
+    "question": "An AI artist wants to learn the underlying distribution of existing image datasets and generate novel images from that knowledge for creating an innovative digital artwork. Which generative AI model would be most appropriate in this scenario?",
+    "answers": ["Generative adversarial networks (GANs)"]
+  },
+  {
+    "question": "During model evaluation, a developer observed that the AI output seemed to favor certain inputs more than others, raising fairness concerns. What is one of the challenges associated with using large language models (LLMs) in software development?",
+    "answers": ["Bias detection"]
+  },
+  {
+    "question": "While reviewing back-end architecture, Aiden used an AI tool to scan the codebase and highlight common implementation patterns. How does AI support design consistency in software systems?",
+    "answers": ["Exploring code for architectural patterns"]
+  },
+  {
+    "question": "During sprint planning, the team realizes that testing slows delivery. They explore tools that can automate repetitive QA tasks. Which capability of AI can help automate quality assurance?",
+    "answers": ["Automate test execution using historical data."]
+  },
+  {
+    "question": "A company wants to reduce its efforts in understanding client requirements using generative AI for extracting actionable insights and spot inconsistencies. What AI capabilities should they use to automate this task?",
+    "answers": ["Using NLP models to extract structured requirements from text"]
+  },
+  {
+    "question": "How does AI contribute to real-time architecture updates in software development projects?",
+    "answers": ["Automating code review"]
+  },
+  {
+    "question": "A software team wants to build AI systems that users can trust and understand. Which future trend in AI will support this effort?",
+    "answers": ["Explainable AI"]
+  },
+  {
+    "question": "A web development team is using AI to generate parts of a website. What kind of output is the AI tool most likely designed to create?",
+    "answers": ["Engaging content for web pages"]
+  },
+  {
+    "question": "How does AI help a UX designer to maintain a consistent look and feel across all pages in the multi-page website?",
+    "answers": ["It analyzes layout patterns and uses design rules."]
+  },
+  {
+    "question": "Which action best supports reducing redundancy in textual data while a developer is transforming variations of a word into a single common form before feature extraction?",
+    "answers": ["Converting related terms to a uniform base"]
+  },
+  {
+    "question": "What enables large language models (LLMs) like GPT to generate coherent and context-aware text?",
+    "answers": ["Deep learning trained on vast text datasets"]
+  },
+  {
+    "question": "A project manager wants to ensure that their team can efficiently deliver real-time architecture updates. How can AI support this goal?",
+    "answers": ["Automating code review"]
+  },
+  {
+    "question": "Which of the following is a future trend in software development that involves making AI systems understandable by humans?",
+    "answers": ["Explainable AI"]
+  },
+  {
+    "question": "What is a potential benefit of using AI-powered bug detection tools in coding?",
+    "answers": ["Detecting potential errors or bugs efficiently"]
+  },
+  {
+    "question": "Which AI technique generates test inputs by learning from past data and understanding software behavior patterns to improve test coverage?",
+    "answers": ["Machine learning algorithm techniques"]
+  },
+  {
+    "question": "Which technique would you most likely use to train an AI assistant to interpret user comments and documentation to suggest code improvements?",
+    "answers": ["Natural language processing (NLP)"]
+  },
+  {
+    "question": "A cybersecurity team uses AI to identify and block malware before it executes. Which core task is performed by Symantec Endpoint Security through its AI-powered capabilities?",
+    "answers": ["Preventing malware using machine learning"]
+  },
+  {
+    "question": "Which issue must teams resolve when adding AI into continuous integration (CI) pipelines?",
+    "answers": ["Ensuring the AI system works smoothly with existing CI tools"]
+  },
+  {
+    "question": "A security engineer is using the generative pre-trained transformer (GPT) powered tool to analyze HTTP traffic for potential threats. Which tool should a security engineer leverage for requests and responses for detecting vulnerabilities?",
+    "answers": ["BurpGPT"]
+  },
+  {
+    "question": "What is one major challenge associated with using generative AI in software development?",
+    "answers": ["The potential for bias and inaccuracy in generated outputs"]
+  },
+  {
+    "question": "Sophia interacts with a voice assistant that sets reminders, answers questions, and plays music through voice recognition. Which app is an example of this kind of AI-driven functionality?",
+    "answers": ["Siri and Alexa"]
+  },
+  {
+    "question": "What is one concern associated with generative AI models in software development?",
+    "answers": ["The potential for spreading false information"]
+  },
+  {
+    "question": "Which of the following is a technique AI-powered code review tools used to analyze source code without executing it and identify potential issues such as coding style violations, unused variables, or memory leaks?",
+    "answers": ["Static analysis"]
+  },
+  {
+    "question": "While editing a project file, Marcus noticed that his development environment offered helpful coding suggestions based on his initial input. Which AI capability is responsible for this assistance?",
+    "answers": ["Code generation and auto-completion"]
+  },
+  {
+    "question": "Jimmy wants to automatically create a website layout and code based on his preferences using AI. Which tool best supports this?",
+    "answers": ["AI website generator"]
+  },
+  {
+    "question": "Morgan noticed suspicious emails were automatically flagged and moved to spam without manual filtering while checking his emails. How does AI contribute to this kind of email security?",
+    "answers": ["Using machine learning and AI algorithms"]
+  },
+  {
+    "question": "During an NLP project review, Ethan raised concerns about biased results in the model’s output. What approach can help address ethical issues like this?",
+    "answers": ["Ensuring diversity in training datasets"]
+  },
+  {
+    "question": "During software testing, which of the following best describes the role of AI in test case generation and its execution?",
+    "answers": [
+      "AI-based methods enable intelligent test generation and its execution."
+    ]
+  },
+  {
+    "question": "Which function does AI perform to support quality control in continuous integration and delivery (CI/CD)?",
+    "answers": ["Automated testing and quality assurance"]
+  },
+  {
+    "question": "When building a multilingual chatbot, Liam chose a model known for handling translations between languages with high accuracy. Which type of generative AI model is most suited for this task?",
+    "answers": ["Transformers"]
+  },
+  {
+    "question": "Your team has noticed that the AI assistant sometimes suggests code snippets that reflect unfair assumptions. What is the major ethical challenge in this scenario?",
+    "answers": ["Bias detection"]
+  },
+  {
+    "question": "Mike, a software engineer, wants his team to follow the codebase consistently for the established design patterns to improve maintainability and quality using AI. How can AI best support this effort?",
+    "answers": ["Analyzing code for design patterns"]
+  },
+  {
+    "question": "You are a part of a hiring team that reviews candidates for software engineering roles. When evaluating software engineering candidates, which of the following traits do you consider most critical to success in the job?",
+    "answers": ["Effective communication and presentation skills"]
+  },
+  {
+    "question": "What is a characteristic function that software engineers do?",
+    "answers": [
+      "Design each piece of an application or system and plan how the pieces will work together."
+    ]
+  },
+  {
+    "question": "As companies continue to adopt emerging technologies, some shifts have significantly influenced the job market in tech. What recent technological trend has most contributed to the increased demand for software engineers?",
+    "answers": ["Rise of cloud-based infrastructure and services"]
+  },
+  {
+    "question": "Which of the following tools does a software engineer commonly leverage for version control and team collaboration in a software project?",
+    "answers": ["Git"]
+  },
+  {
+    "question": "What is a good source of portfolio content?",
+    "answers": ["Freelance work"]
+  },
+  {
+    "question": "Tom is preparing a software development portfolio to apply for entry-level roles. Which is the best way to highlight his skills that emphasize his capabilities for this role?",
+    "answers": ["Reading job listings"]
+  },
+  {
+    "question": "Ryan has just completed a short course in machine learning and is planning a side project to apply what he has learned. Which approach is the most effective?",
+    "answers": ["Upload the project to GitHub to make it easily accessible."]
+  },
+  {
+    "question": "Paul is applying for an entry-level software developer role with limited relevant work experience. What should be his approach for adding hobbies and interests to his resume?",
+    "answers": [
+      "Only if you have limited experience or skills relevant to the job."
+    ]
+  },
+  {
+    "question": "Ethan is revising his resume to apply for full-time roles after completing a year-long internship. Which section is typically the most detailed and takes up the most space?",
+    "answers": ["Work experience"]
+  },
+  {
+    "question": "Claire is tailoring her resume for online applications and wants to ensure it’s optimized for Search Engine Optimization (SEO) and Applicant Tracking Systems (ATS). What step should she take?",
+    "answers": ["Add alt-text to any visuals or graphics she includes."]
+  },
+  {
+    "question": "You’re preparing for an upcoming job interview at a company you’re excited about. Why is it important to analyze the language and tone used on the company’s website?",
+    "answers": [
+      "The language’s level of formality reflects the workplace vibe."
+    ]
+  },
+  {
+    "question": "Why did Jack decide to scan the social media accounts of the company to which he had applied?",
+    "answers": [
+      "Jack can know the company’s image and corporate culture from their posts."
+    ]
+  },
+  {
+    "question": "Amy is a back-end developer actively looking for job opportunities. She wants to enhance her visibility to recruiters using online platforms. How should she leverage LinkedIn to increase her chances?",
+    "answers": [
+      "She can highlight skills, flag profile as open to work, and complete skill tests."
+    ]
+  },
+  {
+    "question": "How would Alice leverage social media networking to support his job search strategy?",
+    "answers": ["By joining the company’s online community"]
+  },
+  {
+    "question": "Which of the following is true about working as a contractor and a full-time employee (FTE)?",
+    "answers": ["Contractors and FTEs usually work full-time hours."]
+  },
+  {
+    "question": "What is a red flag that might indicate thinking twice about responding to a job listing?",
+    "answers": [
+      "Broad expectations about the position with few specifics are mentioned."
+    ]
+  },
+  {
+    "question": "You’re transitioning to a new industry and reviewing job postings. Which of the following is a primary correct statement about the qualifications listed that might help guide your application decisions?",
+    "answers": [
+      "The qualifications may include both technical and interpersonal skills."
+    ]
+  },
+  {
+    "question": "What is true about rehearsing for interviews?",
+    "answers": ["It’s important to practice articulating your answers."]
+  },
+  {
+    "question": "Before attending a real interview, Mia asks her classmate to act as the interviewer so she can get some speaking practice. Which of the following best describes the activity Mia is doing?",
+    "answers": [
+      "A mock interview, where Mia practices interview-style questions and responses."
+    ]
+  },
+  {
+    "question": "Mike is preparing for the first round of the interview. He has read through the company’s website and wants to make a strong impression during the interview. What should he do as a next step?",
+    "answers": [
+      "Use his notes to compose questions he wants to ask the company."
+    ]
+  },
+  {
+    "question": "Pam is preparing for job interviews. She wants to understand the interview process. What is a true statement about the interview process overall?",
+    "answers": ["Interview processes may vary by company and position type."]
+  },
+  {
+    "question": "Aisha received a code test from a company she’s interviewing with. Before starting, she’s required to sign an NDA. What is the most likely reason the company includes an NDA with the code challenge?",
+    "answers": ["To keep the challenge confidential for other applicants"]
+  },
+  {
+    "question": "Which of the following is one purpose of a take-home coding challenge in technical interviews?",
+    "answers": [
+      "To allow the candidate to take the coding challenge independently at their own pace"
+    ]
+  },
+  {
+    "question": "What are some good things to review after first-round interviews to prepare for second-round screens?",
+    "answers": ["Email the company showing your interest in the position"]
+  },
+  {
+    "question": "Shane just received an invitation for an initial phone call with a company’s HR representative. What should he expect during this HR screening?",
+    "answers": ["A general overview of the company’s mission and offerings."]
+  },
+  {
+    "question": "Daniel’s final virtual interview is tomorrow morning. Which of the following is a smart step he should take today to prepare?",
+    "answers": ["Check internet connection and devices are working accurately"]
+  },
+  {
+    "question": "Rachael wants to make a great impression at the end of her upcoming interview. Why is it important to prepare questions for your interviewers in advance?",
+    "answers": [
+      "It helps show your genuine interest and preparation for the role."
+    ]
+  },
+  {
+    "question": "Lara is preparing for her upcoming technical interview that may include situational questions. How can she leverage the STAR method to prepare for such questions?",
+    "answers": [
+      "It guides her to explain her professional experiences in the form of a story."
+    ]
+  },
+  {
+    "question": "Paul has completed the coding challenge for the front-end developer role. In the next round of interviews, she is meeting with a project manager and two developers, who will evaluate her understanding of the role and team compatibility. What type of interview is Paul participating in?",
+    "answers": ["Team interview"]
+  },
+  {
+    "question": "After receiving a job offer, Pristin feels excited but realizes that the job offer letter mentions a salary less than what she was expecting. What should Pristin do next in this scenario to respond appropriately?",
+    "answers": ["Express interest and explain her value to get a fair offer"]
+  },
+  {
+    "question": "A company is developing a new enterprise application, and the engineering team has been assigned various responsibilities. What is the core responsibility of a software engineer?",
+    "answers": ["Designing system components and planning how they integrate"]
+  },
+  {
+    "question": "A university is updating the curriculum of its computer science program to align with growing industry demands. Which technological development has fueled the surge in demand for software engineers?",
+    "answers": ["Cloud computing"]
+  },
+  {
+    "question": "James is applying for his first job after college and is unsure about how much content to include in his resume. What’s the best approach to listing hobbies and interests?",
+    "answers": [
+      "Include hobbies and interests only if he has limited experience or job-relevant skills."
+    ]
+  },
+  {
+    "question": "Olivia is building a resume for her job search and wants to make sure she’s prioritizing the right sections. Which part of a resume is generally the most prominent?",
+    "answers": ["Work experience"]
+  },
+  {
+    "question": "Cristy is actively looking for a job change and wants to maximize her online presence. Which of the following strategies can help her technically?",
+    "answers": [
+      "Follow the relevant company and take part in their online discussions."
+    ]
+  },
+  {
+    "question": "Leah is comparing a contract job and a full-time employee (FTE) offer at two different companies. She wants to understand a key difference before making a decision. Which of the following statements is true?",
+    "answers": [
+      "Contractors and FTEs often work similar full-time hours for the company."
+    ]
+  },
+  {
+    "question": "You’re fresh out of college and browsing job boards. What are some red flags in a job listing that might suggest you should be cautious before applying?",
+    "answers": [
+      "It lists general expectations without outlining specific tasks."
+    ]
+  },
+  {
+    "question": "Megan is appearing for a marketing interview and is unsure what she should really practice. Which of the following statements is helpful for Megan in interview preparation?",
+    "answers": [
+      "Practicing responses out loud boosts confidence to appear for an interview."
+    ]
+  },
+  {
+    "question": "Carlos has a job interview coming up for a role he’s excited about. What’s a smart move in preparing for the interview?",
+    "answers": [
+      "Prepare thoughtful questions to ask the interviewer during the conversation."
+    ]
+  },
+  {
+    "question": "Jared is applying for a job and wants to understand what to expect during interviews. Which statement about how interview processes typically work is true?",
+    "answers": [
+      "The interview process can differ based on company size and job type."
+    ]
+  },
+  {
+    "question": "Luis has just received a coding challenge from a company and is surprised to see a non-disclosure agreement (NDA) attached. Why might the company require him to sign an NDA before completing the challenge?",
+    "answers": [
+      "To prevent him from sharing the challenge with other candidates"
+    ]
+  },
+  {
+    "question": "Chris has just received an email from a company he applied to, asking him to complete a coding task. Which statement best describes what Chris can expect from this kind of challenge?",
+    "answers": [
+      "Allows Chris to complete the task independently and submit it for review"
+    ]
+  },
+  {
+    "question": "Maya is preparing for her final round of interviews, which will be conducted over video. Which action should she take before the interview?",
+    "answers": ["Test her camera, microphone, and internet connection"]
+  },
+  {
+    "question": "You are nearing the end of the technical interview, and as best practice, the interview panel has asked you if you have any questions for them. What is the most effective way to take this opportunity?",
+    "answers": [
+      "Ask thoughtful questions to showcase your preparation and interest"
+    ]
+  },
+  {
+    "question": "How does the STAR method help the interviewee while answering behavioral or situational interview questions?",
+    "answers": [
+      "It helps you to structure your responses by explaining the situation, task, action, and result."
+    ]
+  },
+  {
+    "question": "Ravi passed the coding challenge and was invited to explain the software architecture behind one of his past projects and review the complex design process with the team, leading on how he would collaborate with real projects. Which type of interview is this?",
+    "answers": ["Technical interview"]
+  },
+  {
+    "question": "You have received a job offer for a software engineering role. What is your next most appropriate step?",
+    "answers": [
+      "Consider factors that might call for a compensation negotiation"
+    ]
   }
 ]
