@@ -1249,5 +1249,11 @@
   {
     "question": "Is this word appropriate for an academic essay? gonna",
     "answers": ["No"]
+  },
+  {
+    "question": "Which sentence below has a correctly formatted quotation (using MLA format)? (Be sure to check the punctuation carefully.)",
+    "answers": [
+      "He explains that they “edit and re-edit digital messages as much as they like until they decide they’ve perfectly conveyed their thoughts” (Ghuman)."
+    ]
   }
 ]
