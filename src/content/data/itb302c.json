@@ -1,0 +1,1406 @@
+[
+  {
+    "question": "Fill in the blank: Business intelligence involves automating processes and information channels in order to transform relevant data into _____ for decision-makers.",
+    "answers": ["actionable insights"]
+  },
+  {
+    "question": "What are some of the primary responsibilities of a business intelligence analyst? Select all that apply.",
+    "answers": [
+      "Use an understanding of large datasets to retrieve, organize, and interpret data",
+      "Create visualizations, dashboards, and reports to use when presenting and communicating insights",
+      "Gather requirements from stakeholders, partners, and team members"
+    ]
+  },
+  {
+    "question": "Fill in the blank: To enable disparate _____ to communicate, business intelligence professionals integrate them using an application programming interface.",
+    "answers": ["computer programs"]
+  },
+  {
+    "question": "Fill in the blank: The primary reason business intelligence professionals collaborate with the _____ department is to maximize the company’s software and hardware.",
+    "answers": ["information technology"]
+  },
+  {
+    "question": "A business intelligence professional is building data-reporting tools and creating dashboards that continuously analyze and monitor data. What business intelligence goal does this situation describe?",
+    "answers": ["Achieving higher levels of data maturity"]
+  },
+  {
+    "question": "A business intelligence professional is working for a local photography business. In which business intelligence stage might they access a spreadsheet that contains data about a seasonal marketing campaign?",
+    "answers": ["Capture"]
+  },
+  {
+    "question": "What are some typical tools involved in the business intelligence monitor stage? Select all that apply.",
+    "answers": ["Dashboards", "Pipeline"]
+  },
+  {
+    "question": "Business intelligence strategy is the management of the people, processes, and tools used in the business intelligence process. What are some key considerations with regard to the processes part of this concept? Select all that apply.",
+    "answers": [
+      "Traning and educating users",
+      "Creating a feedback system to confirm that users are getting value from the tools"
+    ]
+  },
+  {
+    "question": "Fill in the blank: To get clear directions when navigating a database, business intelligence professionals use _____, which organize data elements and how they relate to one another.",
+    "answers": ["data models"]
+  },
+  {
+    "question": "Fill in the blank: ETL is a type of _____ that enables data to be gathered from source systems, converted into a useful format, and brought into a data warehouse or other unified destination system.",
+    "answers": ["pipeline"]
+  },
+  {
+    "question": "As you have learned, business intelligence helps organizations gain insights, access the right data, and find ways to grow and improve their processes to put those insights to work. In this scenario, you’re a business intelligence professional working with a grocery store chain. Through their loyalty program, they have collected a lot of useful data about their customers’ shopping habits, but it isn’t organized for easy reporting. One of their goals is to create a personalized mailer campaign that targets specific customers’ needs. After considering the scenario, answer the following questions: How do you think business intelligence could be used to support this grocery chain’s needs? What data do you think could be useful for the personalized mailer campaign? Can you think of another example of BI supporting an organization in a different industry? What are some ways BI could be used to improve processes in that example? What industry are you currently in or are interested in exploring? How does business intelligence support your career goals? Your response should be approximately 3-4 sentences.",
+    "answers": [
+      "Business intelligence (BI) can help the grocery store chain by organizing and analyzing customer purchase data to identify trends, segment shoppers, and personalize marketing efforts like targeted mailers. Useful data might include purchase history, frequency of visits, preferred product categories, and geographic location. In the healthcare industry, for example, BI can improve patient care by analyzing treatment outcomes, reducing wait times, and optimizing staff scheduling. I'm interested in the tech industry, where BI supports my career goals by helping companies make data-driven decisions, streamline operations, and enhance customer experiences through insights"
+    ]
+  },
+  {
+    "question": "What are the typical responsibilities of a business intelligence analyst? Select all that apply.",
+    "answers": [
+      "Create visualizations, dashboards, and reports.",
+      "Retrieve, organize, and interpret an organization’s data.",
+      "Gather requirements from stakeholders, partners, and team members."
+    ]
+  },
+  {
+    "question": "Fill in the blank: To enable different computer programs to communicate with one another, companies can use an application programming _____. This is a set of functions and procedures that integrate diverse systems.",
+    "answers": ["interface"]
+  },
+  {
+    "question": "Which stakeholders do business intelligence professionals collaborate with in order to maximize available data and data tools?",
+    "answers": ["Information technology professionals"]
+  },
+  {
+    "question": "A business intelligence professional is considering how effectively their team is able to use the data available to them in order to extract actionable insights. What BI concept is the focus of this situation?",
+    "answers": ["Data maturity"]
+  },
+  {
+    "question": "In business intelligence, which stage might involve querying a database to return a financial dataset or accessing a spreadsheet of marketing campaign data?",
+    "answers": ["Capture"]
+  },
+  {
+    "question": "In what ways might data analysis be used in order to help business intelligence professionals provide data-driven insights? Select all that apply.",
+    "answers": [
+      "Understanding relationships between data points",
+      "Exploring why things happened",
+      "Examining data more in-depth"
+    ]
+  },
+  {
+    "question": "Did you complete this activity?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Which project planning document helps you understand the needs of the people most invested in the project’s success before planning the rest of the project details?",
+    "answers": ["Stakeholder Requirements Document"]
+  },
+  {
+    "question": "The Project Requirements Document should contain which of the following details? Select all that apply.",
+    "answers": ["Purpose", "User journeys", "Roll-out plan"]
+  },
+  {
+    "question": "What is the purpose of the Strategy Document? Select all that apply.",
+    "answers": [
+      "Establish information about dashboard functionality",
+      "Determine which metrics will be required",
+      "Align with stakeholders about project deliverables"
+    ]
+  },
+  {
+    "question": "What concept involves managing the people, processes, and tools used in the business intelligence process?",
+    "answers": ["Business intelligence strategy"]
+  },
+  {
+    "question": "A data pipeline is a series of processes that transports data from different sources to a new destination. What happens to the data at this destination?",
+    "answers": ["Storage and analysis"]
+  },
+  {
+    "question": "A business intelligence professional wants to improve a procedure in order to achieve better outcomes. To do this, they repeat the procedure over and over until they get closer to the desired results. What business intelligence concept does this situation describe?",
+    "answers": ["Iteration"]
+  },
+  {
+    "question": "What is data science?",
+    "answers": [
+      "A field of study that uses data to create new ways of modeling and understanding the unknown"
+    ]
+  },
+  {
+    "question": "What is the key difference between qualitative and quantitative data?",
+    "answers": [
+      "Qualitative data measures qualities and characteristics; quantitative data measures numerical facts."
+    ]
+  },
+  {
+    "question": "Which of the following statements accurately describe wide and long data? Select all that apply.",
+    "answers": [
+      "Wide data subjects can have data in multiple columns.",
+      "Long data subjects can have multiple rows that hold the values of subject attributes."
+    ]
+  },
+  {
+    "question": "Structured data is likely to be found in which of the following formats? Select all that apply.",
+    "answers": ["Spreadsheet", "Database table"]
+  },
+  {
+    "question": "Fill in the blank: A Boolean data type can have _____ possible values.",
+    "answers": ["two"]
+  },
+  {
+    "question": "What is the term for the individuals who have invested time and resources in a project and are interested in its outcome?",
+    "answers": ["Stakeholders"]
+  },
+  {
+    "question": "When collecting data for a study, what are some reasons to consider sample size? Select all that apply.",
+    "answers": [
+      "To collect data that represents a diverse set of perspectives",
+      "To make sure a few unusual responses don’t skew results"
+    ]
+  },
+  {
+    "question": "The SMART methodology can be used to ask a question that promotes change. What type of SMART question leads to change?",
+    "answers": ["Action-oriented"]
+  },
+  {
+    "question": "Which of the following inquiries are leading questions? Select all that apply.",
+    "answers": [
+      "How satisfied were you with our customer representative?",
+      "In what ways did our product meet your needs?"
+    ]
+  },
+  {
+    "question": "Which of the following data security tools can be used to ensure only specific people can access, edit, and download a spreadsheet? Select all that apply.",
+    "answers": ["Encryption", "Sharing permissions"]
+  },
+  {
+    "question": "Which type of bias is the tendency to construe ambiguous situations in a positive or negative way?",
+    "answers": ["Interpretation bias"]
+  },
+  {
+    "question": "Before completing a survey, an individual acknowledges reading information about how and why the data they provide will be used. What concept does this describe?",
+    "answers": ["Consent"]
+  },
+  {
+    "question": "A data analyst commits a SQL query to a repository as a new and improved query. Then, they specify the modifications they made during data cleaning and why they were made. What process does this scenario describe?",
+    "answers": ["Creating a changelog"]
+  },
+  {
+    "question": "Fill in the blank: To remove leading, trailing, and repeated spaces when cleaning data, use the _____ function.",
+    "answers": ["TRIM"]
+  },
+  {
+    "question": "Which spreadsheet tool changes how cells appear when values meet a specific condition?",
+    "answers": ["Conditional formatting"]
+  },
+  {
+    "question": "Fill in the blank: In a spreadsheet, the SPLIT function divides a text string around a ___ and puts each fragment into a new, separate cell.",
+    "answers": ["delimiter"]
+  },
+  {
+    "question": "The date and time a photo was taken is an example of which kind of metadata?",
+    "answers": ["Descriptive"]
+  },
+  {
+    "question": "In spreadsheets, an absolute reference is used to lock a function array so that rows and columns don’t change if the function is copied. What symbol is used to create an absolute reference?",
+    "answers": ["Dollar sign ($)"]
+  },
+  {
+    "question": "Which spreadsheet function vertically searches for a certain value in a column in order to return a corresponding piece of information?",
+    "answers": ["VLOOKUP"]
+  },
+  {
+    "question": "When creating a SQL query, which JOIN clause returns all matching records in two or more database tables?",
+    "answers": ["INNER"]
+  },
+  {
+    "question": "In a SQL query, which calculation does the modulo (%) operator perform?",
+    "answers": ["It returns the remainder of a division calculation."]
+  },
+  {
+    "question": "What are the main benefits of using a programming language to work with data? Select all that apply.",
+    "answers": [
+      "Clarify the steps of analysis",
+      "Easily reproduce and share work",
+      "Save time"
+    ]
+  },
+  {
+    "question": "What goals are programming languages designed to achieve? Select all that apply.",
+    "answers": ["Data visualization", "Data transformation", "Data cleaning"]
+  },
+  {
+    "question": "What is the term for programming code that is freely available and may be modified and shared by the people who use it?",
+    "answers": ["Open-source"]
+  },
+  {
+    "question": "To demonstrate how often data values fall into certain ranges, what type of data visualization should be used?",
+    "answers": ["Histogram"]
+  },
+  {
+    "question": "A dashboard is designed to share insights about the housing market in a city. What type of data visualization would be most effective at demonstrating how the city’s annual home sales have risen over time?",
+    "answers": ["Line chart"]
+  },
+  {
+    "question": "What type of visualizations enable the data in a presentation to automatically update and change over time?",
+    "answers": ["Dynamic"]
+  },
+  {
+    "question": "Why is it more effective to label a data visualization instead of using a legend? Select all that apply.",
+    "answers": [
+      "Labels make the data visualization more accessible because they don’t rely on the ability to interpret color.",
+      "Labels allow for text explanations to be placed directly on the visualization.",
+      "Labels can be placed near the data, whereas legends are typically positioned away from the data."
+    ]
+  },
+  {
+    "question": "A data visualization reveals two variables in the data that rise and fall at the same time. When variables are related in this way, what is likely happening?",
+    "answers": ["Correlation"]
+  },
+  {
+    "question": "Which of the following are appropriate uses for filters in data visualization tools? Select all that apply.",
+    "answers": [
+      "Limiting the number of rows or columns in view",
+      "Providing data to different users based on their particular needs"
+    ]
+  },
+  {
+    "question": "Which business intelligence stakeholder studies and improves an organization's use of computer hardware and software, cloud services, and related technologies?",
+    "answers": ["Systems analyst"]
+  },
+  {
+    "question": "As they work toward completing a project, a business intelligence professional is periodically sharing project deliverables with stakeholders. In this situation, which of the following might they be providing? Select all that apply.",
+    "answers": ["Product", "Outcome"]
+  },
+  {
+    "question": "Effective business intelligence professionals aim to ensure that their work doesn’t create or reinforce bias. What is the term for this principle?",
+    "answers": ["Fairness"]
+  },
+  {
+    "question": "What is a single, quantifiable data point that is used to evaluate performance?",
+    "answers": ["Metric"]
+  },
+  {
+    "question": "Fill in the blank: A key performance indicator is closely linked to business _____ and used to track progress toward a goal.",
+    "answers": ["Strategy"]
+  },
+  {
+    "question": "Leaders at an organization want to make more efficient and impactful business decisions. Therefore, they improve their team’s ability to use hardware and software tools to rapidly analyze data and communicate key insights. What business intelligence concept does this situation describe?",
+    "answers": ["Monitoring"]
+  },
+  {
+    "question": "A business intelligence professional considers the origin of a dataset, as well as what the data might have an impact on. What business intelligence practice does this situation involve?",
+    "answers": ["Contextualization"]
+  },
+  {
+    "question": "Data integrity, data visibility, update frequency, and change are all aspects of what key business intelligence consideration?",
+    "answers": ["Data availability"]
+  },
+  {
+    "question": "A soap maker recently implemented a new record-keeping process. This compromised the integrity of its business intelligence solution when using data about recent sales at a local craft fair. What data limitation does this situation describe?",
+    "answers": ["Change"]
+  },
+  {
+    "question": "A business intelligence professional working at a beach towel manufacturer creates a dashboard to highlight the spike in sales that happens each summer season. The vice president of sales instead asks for a dashboard that reveals year-over-year results. In this situation, what is the vice president trying to accomplish?",
+    "answers": ["Eliminate vanity metrics"]
+  },
+  {
+    "question": "A business intelligence professional is determining which metrics to include on a dashboard. They confirm that they have the necessary technologies and processes in place to obtain and analyze the data they need for each metric. What principle does this situation describe?",
+    "answers": ["Data availability"]
+  },
+  {
+    "question": "Which of the following statements accurately describe a dashboard best practice? Select all that apply.",
+    "answers": [
+      "Display the most important metric at the top.",
+      "Display supporting metrics below the top metric, as they reinforce it."
+    ]
+  },
+  {
+    "question": "What are some typical responsibilities of a project sponsor? Select all that apply.",
+    "answers": [
+      "Establish the criteria for project success",
+      "Assume overall accountability for a project",
+      "Represent the business side of a project"
+    ]
+  },
+  {
+    "question": "Developers typically use programming languages to achieve what goals? Select all that apply.",
+    "answers": [
+      "Test software applications",
+      "Execute software application",
+      "Create software applications"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Systems software developers create applications and programs for the _____ used in organizations.",
+    "answers": ["backend processing systems"]
+  },
+  {
+    "question": "What are the primary responsibilities of a systems analyst? Select all that apply.",
+    "answers": [
+      "Identify effective ways to design and implement information systems",
+      "Study how an organization uses its technologies",
+      "Improve an organization’s computer hardware and software"
+    ]
+  },
+  {
+    "question": "Bias is a preference in favor of or against a person, group of people, or thing. What type of preferences might these be? Select all that apply.",
+    "answers": ["Subconscious", "Conscious"]
+  },
+  {
+    "question": "A key performance indicator (KPI) is a quantifiable value that is linked to business strategy. What are KPIs used for?",
+    "answers": ["To track progress toward a goal"]
+  },
+  {
+    "question": "Which of the following statements accurately describe metrics and key performance indicators (KPIs)? Select all that apply.",
+    "answers": [
+      "Metrics support KPIs.",
+      "KPIs are strategic.",
+      "Metrics are tactical."
+    ]
+  },
+  {
+    "question": "A Portuguese sustainability nonprofit uses hardware and software tools to rapidly analyze data and communicate key insights about greenhouse gas emissions in Lisbon. This enables the board of directors to make effective decisions about what research projects to fund. What business intelligence concept does this scenario describe?",
+    "answers": ["Observation"]
+  },
+  {
+    "question": "Fill in the blank: Some key considerations when _____ a dataset include where it came from and other relevant background information, the motivation behind it, and where it fits within a larger setting.",
+    "answers": ["contextualizing"]
+  },
+  {
+    "question": "A business intelligence professional considers how each stakeholder will use the dashboard they create. This is an important part of prioritizing what within an organization?",
+    "answers": ["Cross-functional relationships"]
+  },
+  {
+    "question": "Fill in the blank: A business intelligence professional is considering the accuracy, completeness, consistency, and trustworthiness of data. They want to ensure the data _____ of their dataset.",
+    "answers": ["integrity"]
+  },
+  {
+    "question": "A business intelligence professional spends some time researching the data that will be used in an upcoming project. They want to ensure that it is timely, relevant, readily accessible, and able to be put to use. What business intelligence concept does this scenario describe?",
+    "answers": ["Data availability"]
+  },
+  {
+    "question": "The degree or extent to which information can be identified, monitored, and integrated from disparate internal and external sources describes which business intelligence concept?",
+    "answers": ["Data visibility"]
+  },
+  {
+    "question": "Update frequency describes challenges associated with _____ refreshing their information at different times.",
+    "answers": ["disparate data sources"]
+  },
+  {
+    "question": "Fill in the blank: A business intelligence professional is working to improve a dashboard. Currently, it features _____, such as the number of social media followers and monthly page views. They decide to focus on more meaningful metrics instead.",
+    "answers": ["vanity metrics"]
+  },
+  {
+    "question": "A business intelligence professional considers what they need in order to have the proper metrics on a dashboard. In this situation, what items should they ensure are in place? Select all that apply.",
+    "answers": ["Technologies", "Processes"]
+  },
+  {
+    "question": "The relevant datasets have been accessed and applied to the project.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Key details from the meeting notes are identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The primary stakeholders are identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The relevant business questions are identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The primary requirements for the final deliverable are identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The function of the dashboard—including access, scope, filters, and granularity—is identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The metrics to be included in the final dashboard are identified and documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Outlines for a minimum of three charts to be included in the final dashboard are documented.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Information about each chart includes details about the required metrics and dimensions.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The project planning documents provide relevant information that prepares the project for next steps.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "A business analyst automates processes and information channels in order to transform data into actionable insights. Then, they share these insights with decision-makers. What concept does this scenario describe?",
+    "answers": ["Business intelligence"]
+  },
+  {
+    "question": "An application programming interface integrates computer programs, forming a connection that enables them to communicate with each other. What does it use to accomplish this? Select all that apply.",
+    "answers": ["Various procedures", "A set of functions"]
+  },
+  {
+    "question": "Business intelligence projects often require the help of information technology (IT) professionals. What are some of the typical responsibilities of these team members? Select all that apply.",
+    "answers": [
+      "Test software",
+      "Install, repair, and upgrade hardware",
+      "Bring data into an internal company database"
+    ]
+  },
+  {
+    "question": "What events might occur during the monitor stage of the business intelligence process? Select all that apply.",
+    "answers": [
+      "Decision-makers are given business insights through a dashboard.",
+      "Information channels provide data that reveals a business opportunity.",
+      "A company uses automated processes to transform data into intelligence."
+    ]
+  },
+  {
+    "question": "Business intelligence strategy is the management of the people, processes, and tools used in the business intelligence process. What are some key considerations with regard to the tools part of this concept? Select all that apply.",
+    "answers": [
+      "Confirming access to needed technologies",
+      "Considering which dashboards, reports, and other solutions will be most effective"
+    ]
+  },
+  {
+    "question": "Which business intelligence tool is used to keep data consistent across systems and explain to users how it’s organized?",
+    "answers": ["Data models"]
+  },
+  {
+    "question": "What business intelligence process involves gathering data from source systems, converting it into a useful format, and bringing it into a unified system?",
+    "answers": ["ETL"]
+  },
+  {
+    "question": "Fill in the blank: In order to create, execute, test, and troubleshoot _____, developers use programming languages.",
+    "answers": ["software applications"]
+  },
+  {
+    "question": "Which of the following statements accurately describe applications and systems software developers? Select all that apply.",
+    "answers": [
+      "Systems software developers create applications and programs for the backend processing systems used in organizations.",
+      "Applications software developers design computer or mobile applications for consumers.",
+      "Systems software developers are likely to be stakeholders on a business intelligence project."
+    ]
+  },
+  {
+    "question": "What is the term for a conscious or subconscious preference in favor of or against a person, group of people, or thing?",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "A _____ is a method used to enable an accomplishment.",
+    "answers": ["tactic"]
+  },
+  {
+    "question": "A business intelligence professional at a building company considers when a dataset was created and what was happening in the construction industry at that time. What business intelligence concept does this scenario describe?",
+    "answers": ["Contextualizing"]
+  },
+  {
+    "question": "Which business intelligence concept involves the degree or extent to which timely and relevant information is readily accessible and able to be put to use?",
+    "answers": ["Data availability"]
+  },
+  {
+    "question": "Which of the following statements accurately describes Online Transaction Processing (OLTP) and Online Analytical Processing (OLAP) tools?",
+    "answers": [
+      "Both are optimized for processing. But Online Analytical Processing (OLAP) tools are also optimized for analysis and can analyze data from multiple databases."
+    ]
+  },
+  {
+    "question": "Fill in the blank: In order to create an effective data model, business intelligence professionals will often apply a _____, which uses relevant measures and facts to create a model that supports business needs.",
+    "answers": ["design pattern"]
+  },
+  {
+    "question": "Which of the following statements accurately describe primary keys? Select all that apply.",
+    "answers": [
+      "Primary keys can appear as foreign keys in other tables.",
+      "Only one primary key can exist in a table."
+    ]
+  },
+  {
+    "question": "A dimensional model is a type of relational model that has been optimized in order to achieve what goal?",
+    "answers": ["Quickly retrieve data from a warehouse"]
+  },
+  {
+    "question": "FIll in the blank: In a dimensional model, a foreign key is used to connect a dimension table to the appropriate _____ table.",
+    "answers": ["fact"]
+  },
+  {
+    "question": "In a snowflake schema, what is used to break down the schema into even more specific tables? Select all that apply.",
+    "answers": ["Dimensions", "Subdimensions"]
+  },
+  {
+    "question": "A business intelligence team is performing a database migration to improve the state of their database schemas. Which of the following activities may occur during their database migration? Select all that apply.",
+    "answers": [
+      "Changing data types",
+      "Adding new data tables",
+      "Splitting existing data fields"
+    ]
+  },
+  {
+    "question": "In row-based databases, each row in a table is an instance or an entry in the database. How are details about that instance recorded and organized?",
+    "answers": ["By column"]
+  },
+  {
+    "question": "A business intelligence team is working with a database system that is a collection of data systems spread across multiple physical locations. What type of database system are they using?",
+    "answers": ["Distributed database system"]
+  },
+  {
+    "question": "There are four key elements within database schemas. The first is relevant data. What are the other three? Select all that apply.",
+    "answers": [
+      "Unique keys for every database entry and object",
+      "Names and data types for each column in each table",
+      "Consistent formatting across data entries"
+    ]
+  },
+  {
+    "question": "In which stage of the ETL process is data delivered to a target system?",
+    "answers": ["Loading"]
+  },
+  {
+    "question": "What type of programming language uses another program to read and execute coded instructions?",
+    "answers": ["Interpreted"]
+  },
+  {
+    "question": "In this scenario, you are a business intelligence professional working with a sports news organization. In order to record the best swim times for different events at a college swimming championships, the organization uses simple, single tables. What kind of schema is this organization using? What are the benefits of this database schema?",
+    "answers": [
+      "Scenario: A sports news organization records the best swim times for different events using simple, single tables. What kind of schema is this? This organization is using a flat schema or single-table schema. Benefits of this schema: Simplicity: Easy to design and understand because all data is contained in one table. Quick to implement: Minimal setup required since there are no relationships to manage. Fast for small datasets: Efficient for simple queries when data volume is low. Good for straightforward reporting: Ideal for simple reporting tasks where complex joins are not needed."
+    ]
+  },
+  {
+    "question": "A local bookstore has recently expanded; they opened two new locations as well as an online retail store. They currently use a relational database with a central fact table to pull sales data. However, now that they are ingesting new data from the new storefronts, they would like to build subdimensional tables for each location. That way, they can quickly process data about their customers, sales, and stock for each store to give them up-to-date insights for every store front. As a business intelligence professional, what schema would you recommend to help this bookstore expand their business and their database? What are the benefits of this database schema?",
+    "answers": [
+      "Recommended schema: I recommend a snowflake schema for the bookstore’s expanding and more complex database needs. Benefits of a snowflake schema: More normalized structure: Unlike the star schema, it breaks down dimension tables into related subdimension tables, reducing data redundancy. Better organization for complex data: Can handle intricate relationships between data points (e.g., locations, customers, sales) more effectively. Improved query performance for complex queries: By organizing data into smaller, related tables, it can speed up certain types of analytical queries. Scalability: Easier to maintain and extend as the business grows and adds new dimensions or subdimensions. Enhanced data integrity: Normalization helps ensure consistency and accuracy across related data points. This schema is ideal as the bookstore expands with multiple locations and increasing data complexity, enabling faster processing and more detailed insights across all storefronts"
+    ]
+  },
+  {
+    "question": "A business intelligence professional stores large amounts of raw data in its original format within a database system. Then, they can access the data whenever they need it for their BI project. What type of database are they using?",
+    "answers": ["Data lake"]
+  },
+  {
+    "question": "Which of the following statements correctly describe primary and foreign keys? Select all that apply.",
+    "answers": [
+      "A primary key references a column or a group of columns in which each row uniquely identifies each record in the table.",
+      "A foreign key forms connections because it is a field within a database table that is a primary key in another table."
+    ]
+  },
+  {
+    "question": "Fill in the blank: A _____ schema is an extension of a star schema, which contains additional dimensions.",
+    "answers": ["snowflake"]
+  },
+  {
+    "question": "What type of database stores relevant data locally for analysis and less relevant data remotely?",
+    "answers": ["Separated storage and computing systems"]
+  },
+  {
+    "question": "When designing a data warehouse, BI professionals take into account which of the following considerations? Select all that apply.",
+    "answers": [
+      "The model that the data warehouse will follow",
+      "The business needs",
+      "The shape and volume of the data"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Logical data modeling involves representing different _____ in a physical data model.",
+    "answers": ["Tables"]
+  },
+  {
+    "question": "A BI professional considers the relevant data for a project, the names and data types of table columns, formatting of data entries, and unique keys for database entries and objects. What will these activities enable them to accomplish?",
+    "answers": ["Select appropriate elements for their database schema"]
+  },
+  {
+    "question": "What is the term for the predetermined locations where pipeline data is sent in order to be acted on?",
+    "answers": ["Target tables"]
+  },
+  {
+    "question": "A BI professional uses a pipeline to access source systems, then reads and collects the necessary data from within them. Which ETL stage does this scenario describe?",
+    "answers": ["Extract"]
+  },
+  {
+    "question": "Many BI tools are built upon similar principles and often have similar utilities. Therefore, a BI professional’s general understanding of one tool can be applied to others. What is this an example of?",
+    "answers": ["A transferable skill"]
+  },
+  {
+    "question": "What are some products useful for BI tasks that you can access with a Google Cloud Platform (GCP) account? Select all that apply.",
+    "answers": ["BigQuery", "Dataflow"]
+  },
+  {
+    "question": "Which Google Cloud Platform service reads data from the source, transforms it, and writes it to the destination location?",
+    "answers": ["Dataflow"]
+  },
+  {
+    "question": "In which section of the Dataflow console can you create and save shareable Jupyter notebooks with live code?",
+    "answers": ["Workbench"]
+  },
+  {
+    "question": "What are some benefits of data pipelines? Select all that apply.",
+    "answers": [
+      "Prevent system latency",
+      "Help eliminate errors",
+      "Automate data analysis processes"
+    ]
+  },
+  {
+    "question": "While working for a client, you need to create a streaming pipeline in Dataflow. What template could you use to quickly move Pub/Sub data to BigQuery?",
+    "answers": ["The Pub/Sub Topic to BigQuery template"]
+  },
+  {
+    "question": "Which of the following best describes BigQuery?",
+    "answers": [
+      "A data warehouse used to query, filter large datasets, aggregate results, and perform complex operations"
+    ]
+  },
+  {
+    "question": "Which section of the BigQuery console is used to run, save, share, and schedule queries and find resources?",
+    "answers": ["SQL workspace"]
+  },
+  {
+    "question": "Fill in the blank: After entering a query into the SQL workspace, a check mark along with the amount of data that the query processes appears. This indicates that the query is _____.",
+    "answers": ["valid"]
+  },
+  {
+    "question": "How can partitions and indexes help optimize a database? Select all that apply.",
+    "answers": [
+      "Enable a faster and more efficient database",
+      "Create shortcuts to specific rows",
+      "Divide large datasets into smaller, more manageable tables"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A query on a table with partitions and indexes processes _____ a table that is not partitioned or indexed.",
+    "answers": ["fewer records than"]
+  },
+  {
+    "question": "Data is moved into a target table during which phase of the ETL pipeline?",
+    "answers": ["Extraction"]
+  },
+  {
+    "question": "You are preparing a presentation for the executive team with your findings related to the tree appreciation event. What components might you include in the presentation? Select all that apply.",
+    "answers": [
+      "A recommendation for planning efficient decoration and clean-up routes",
+      "A recommendation for planning the supplies needed for the event",
+      "A dashboard that includes addresses and trees suitable for decoration"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A data mart is a _____ database that can be a subset of a larger data warehouse. This means it is a convenient way to access the data pertaining to specific areas or departments of a business.",
+    "answers": ["Subject-oriented"]
+  },
+  {
+    "question": "A business intelligence team manager wants to support their team’s ability to perform at a high level. They investigate the overall capability of their company’s database hardware and software tools to enable the team to process stakeholder requests. In this situation, which of the factors of database performance do they consider?",
+    "answers": ["Throughput"]
+  },
+  {
+    "question": "What term is used to describe data that is broken up into many pieces that are not stored together?",
+    "answers": ["Fragmented data"]
+  },
+  {
+    "question": "What is the business intelligence process that involves checking data for defects in order to prevent system failures?",
+    "answers": ["Quality testing"]
+  },
+  {
+    "question": "Fill in the blank: Completeness is a quality testing step that involves confirming that the data contains all desired ____ or components.",
+    "answers": ["Measures"]
+  },
+  {
+    "question": "A business intelligence professional is considering the integrity of their data throughout its life cycle. Which of the following goals do they aim to achieve? Select all that apply.",
+    "answers": [
+      "Data is accurate and complete",
+      "Data is consistent",
+      "Data is trustworthy"
+    ]
+  },
+  {
+    "question": "The Shipments table is missing a relationship to another table. Which table should it connect to?",
+    "answers": ["Order Items"]
+  },
+  {
+    "question": "Which of the following is a convention used in this schema?",
+    "answers": ["Abbreviating system id as “sid”"]
+  },
+  {
+    "question": "You find an error while trying to connect the Product table to the Order Items table. Which problem(s) would prevent the schema from validating? Select all that apply.",
+    "answers": [
+      "The data type of the product ids in the Product table is an integer, but it’s a string in the Order Items table.",
+      "There are product ids in the Order Items table that don’t exist in the Product table."
+    ]
+  },
+  {
+    "question": "The Customer table should be linked to which of the following tables? Select all that apply.",
+    "answers": ["Order Details", "Sales Fact"]
+  },
+  {
+    "question": "A team of business intelligence professionals builds schema validation into their workflows. In this situation, what goal do they want to achieve?",
+    "answers": [
+      "Ensure the source system data schema matches the target system data schema"
+    ]
+  },
+  {
+    "question": "Why is it important to ensure primary and foreign keys continue to function after data has been moved from one database system to another?",
+    "answers": ["To preserve the existing table relationships"]
+  },
+  {
+    "question": "Fill in the blank: A _____ describes the process of identifying the origin of data, where it has moved throughout the system, and how it has transformed over time.",
+    "answers": ["data lineage"]
+  },
+  {
+    "question": "A business intelligence professional considers what data is collected and stored in a database, how relationships are defined, the type of information the database provides, and the security of the data. What does this scenario describe?",
+    "answers": ["Considering the impact of business rules"]
+  },
+  {
+    "question": "At which point in the data-transfer process should incoming data be compared to business rules?",
+    "answers": ["Before loading it into the database"]
+  },
+  {
+    "question": "Which of the following statements accurately describe data marts and data lakes? Select all that apply.",
+    "answers": [
+      "Data lakes are useful when a business intelligence system is ingesting a lot of different data types because they do not require the data to be transformed before storage.",
+      "Data marts benefit business intelligence professionals because they provide a convenient way to access data that is relevant to a particular project."
+    ]
+  },
+  {
+    "question": "Fill in the blank: A business intelligence professional gathers data, loads it into a unified destination system, and then transforms it into a useful format. They do this using an _____ data pipeline.",
+    "answers": ["ETL"]
+  },
+  {
+    "question": "What is a measure of the workload that can be processed by a database, as well as the associated costs?",
+    "answers": ["Database performance"]
+  },
+  {
+    "question": "A business intelligence professional is considering the transactions, queries, analyses, and system commands being processed by a database system. Which of the five factors of database performance are they evaluating?",
+    "answers": ["Workload"]
+  },
+  {
+    "question": "Which of the following statements accurately describe database resources? Select all that apply.",
+    "answers": [
+      "Resources can be both internal and external.",
+      "Resources include disk space and memory.",
+      "Resources include hardware and software tools."
+    ]
+  },
+  {
+    "question": "Optimization involves decreasing _____, which is how long it takes for a database to respond to a user request.",
+    "answers": ["Response time"]
+  },
+  {
+    "question": "Fill in the blank: A query plan describes the _____ involved with executing a query by a relational database.",
+    "answers": ["steps"]
+  },
+  {
+    "question": "What are the goals of data partitioning? Select all that apply.",
+    "answers": [
+      "Improve query processing",
+      "Divide a database into distinct, logical parts"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Fragmented data occurs when data is broken up into many pieces that are not_____, often as a result of using the data frequently.",
+    "answers": ["stored together"]
+  },
+  {
+    "question": "Fill in the blank: Contention occurs when two or more data analysts attempt to use a _____in a conflicting way.",
+    "answers": ["single data resource"]
+  },
+  {
+    "question": "Fill in the blank: Quality testing is the process of checking data for _____ in order to prevent system failures.",
+    "answers": ["defects"]
+  },
+  {
+    "question": "A business intelligence professional is confirming that their data conforms to the actual entity being measured or described. Which quality testing validation element does this involve?",
+    "answers": ["Accuracy"]
+  },
+  {
+    "question": "A data warehouse is supposed to contain weekly data, but it does not update properly. As a result, the pipeline fails to ingest the latest information. What aspect of the data is being affected in this situation?",
+    "answers": ["Timeliness"]
+  },
+  {
+    "question": "Business intelligence professionals use schema validation, data dictionaries, and data lineages while establishing consistent data governance. Which aspect of data validation does this involve?",
+    "answers": ["Conformity"]
+  },
+  {
+    "question": "What process involves confirming the validity of database keys, preserving table relationships, and ensuring that conventions are consistent?",
+    "answers": ["Schema validation"]
+  },
+  {
+    "question": "Fill in the blank: A data _____ is a collection of information that describes the content, format, and structure of data objects within a database, as well as their relationships.",
+    "answers": ["dictionary"]
+  },
+  {
+    "question": "A business intelligence professional establishes what data will be collected, stored, and provided in a database. They also confirm how relationships are defined and the security of the data. What process does this scenario describe?",
+    "answers": ["Creating business rules"]
+  },
+  {
+    "question": "The relevant datasets have been accessed and downloaded.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The relevant datasets are uploaded to the BigQuery project space.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The relevant datasets are applied to the project.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The source tables are merged using SQL code.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The metrics to be shared in the final dashboard are included.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The metrics to be included in the final dashboard are in the target table.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Data is clean to ensure consistency across multiple datasets.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Data is transformed to ensure consistency across multiple datasets.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "A final reporting table is generated.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The reporting table includes all required components in order to prepare the dashboard for creation.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What does a design pattern enable business intelligence professionals to accomplish? Select all that apply.",
+    "answers": [
+      "Use relevant measures and facts",
+      "Create a model that supports business needs"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A primary key references a _____ to uniquely identify records in the table.",
+    "answers": ["column or group of columns"]
+  },
+  {
+    "question": "In a dimensional model, what is used to connect a dimension table to the appropriate fact table?",
+    "answers": ["Foreign key"]
+  },
+  {
+    "question": "What are some key benefits of columnar databases? Select all that apply.",
+    "answers": [
+      "Retrieving information from specific columns",
+      "Processing analytical queries effectively"
+    ]
+  },
+  {
+    "question": "A business intelligence team is working with a database system that stores and analyzes data in the same place. What type of database system are they using?",
+    "answers": ["Combined database system"]
+  },
+  {
+    "question": "Fill in the blank: A database schema must use _____ for each entry within the database in order to build connections between tables and enable users to combine relevant data.",
+    "answers": ["unique keys"]
+  },
+  {
+    "question": "In the ETL loading stage, what are typical target destinations to which the data might be delivered? Select all that apply.",
+    "answers": ["Analytics platform", "Data warehouse", "Data lake"]
+  },
+  {
+    "question": "Fill in the blank: Python is a programming language that is _____, which means it’s modeled around chunks of code that capture certain information.",
+    "answers": ["object-oriented"]
+  },
+  {
+    "question": "What are some key benefits of ELT data pipelines in business intelligence?",
+    "answers": [
+      "ELT enables business intelligence professionals to transform only the data they need.",
+      "ELT can ingest many different kinds of data into a storage system as soon as that data is available."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Database performance is a measure of the workload that can be _____ by a database, as well as the associated costs.",
+    "answers": ["processed"]
+  },
+  {
+    "question": "Which of the following statements accurately describes workload with regards to database performance?",
+    "answers": [
+      "Workload is the combination of transactions, queries, analysis, and system commands being processed by the database system at any given time."
+    ]
+  },
+  {
+    "question": "When evaluating a database system’s resources, what does a business intelligence professional consider? Select all that apply.",
+    "answers": ["Software", "Disk space and memory", "Hardware"]
+  },
+  {
+    "question": "Which of the following statements accurately describe indexes versus data partitions? Select all that apply.",
+    "answers": [
+      "Data partitioning is typically used in cloud-based systems handling big data.",
+      "Indexes are organizational tags used to locate data.",
+      "Data partitioning is the process of dividing a database into distinct, logical parts."
+    ]
+  },
+  {
+    "question": "There are four main reasons why data becomes fragmented. The first is using the data files frequently. What are the other three?",
+    "answers": [
+      "Deleting data files",
+      "Modifying the data files",
+      "Creating new data files"
+    ]
+  },
+  {
+    "question": "A business intelligence team can cause _____ when two or more data analysts attempt to use a single data resource in a conflicting way.",
+    "answers": ["contention"]
+  },
+  {
+    "question": "A business intelligence professional wants to avoid system failures. They check over their data in order to identify missing data, inconsistent data, or any other data defects. What does this scenario describe?",
+    "answers": ["Quality testing"]
+  },
+  {
+    "question": "A business intelligence professional is working with a data warehouse. They perform various tasks to confirm that the data is timely and the pipeline is ingesting the latest information. For what reasons is this an important element of business intelligence? Select all that apply.",
+    "answers": [
+      "To provide relevant insights",
+      "To ensure the data is updated properly",
+      "To have the most current information"
+    ]
+  },
+  {
+    "question": "Conformity is an aspect of establishing consistent data governance. What are the key tools involved with conformity? Select all that apply.",
+    "answers": ["Data dictionaries", "Schema validation", "Data lineages"]
+  },
+  {
+    "question": "Fill in the blank: Business rules affect what data is collected and stored in a database, how relationships are defined, the kind of information the database provides, and the _____ of the data.",
+    "answers": ["security"]
+  },
+  {
+    "question": "Quality testing involves checking data for defects in order to prevent what from happening?",
+    "answers": ["System failure"]
+  },
+  {
+    "question": "Which of the following statements accurately describe data dictionaries and data lineages? Select all that apply.",
+    "answers": [
+      "A data dictionary is a collection of information that describes the content, format, and structure of data objects within a database.",
+      "A data lineage describes the process of identifying the origin of data, where it has moved throughout the system, and how it has transformed over time."
+    ]
+  },
+  {
+    "question": "Which of the following statements correctly describe data analytics and business intelligence visualizations? Select all that apply.",
+    "answers": [
+      "Stakeholders use the insights from business intelligence visualizations to make decisions both now and in the future.",
+      "Stakeholders use the insights from data analytics visualizations to make decisions both now and in the future."
+    ]
+  },
+  {
+    "question": "A business intelligence professional empowers their stakeholders to interpret data themselves by determining what their dashboard needs to do. What other steps do they take to help dashboard users interpret data on their own? Select all that apply.",
+    "answers": [
+      "Maintain the dashboard",
+      "Improve the dashboard",
+      "Build the appropriate dashboard tool"
+    ]
+  },
+  {
+    "question": "What are some key benefits of sharing a low-fidelity mockup with dashboard users? Select all that apply.",
+    "answers": [
+      "Find and rectify incorrect assumptions",
+      "Enhance collaboration and get feedback",
+      "Avoid potential errors"
+    ]
+  },
+  {
+    "question": "A dashboard is running slowly because it tracks and features more data than necessary. What type of problem is occuring?",
+    "answers": ["Data problem"]
+  },
+  {
+    "question": "A company’s systems are overwhelmed because of the volume of metrics being tracked by their dashboards. What type of problem is this company experiencing?",
+    "answers": ["Tool problem"]
+  },
+  {
+    "question": "Which of the following issues are examples of audience problems? Select all that apply.",
+    "answers": [
+      "A dashboard includes private information that users are not permitted to access.",
+      "A dashboard includes metrics that are irrelevant to users."
+    ]
+  },
+  {
+    "question": "Fill in the blank: One strategy to avoid _____ problems involves considering the needs of different team members when building a single dashboard for multiple users.",
+    "answers": ["Audience"]
+  },
+  {
+    "question": "A business intelligence team is designing a dashboard. The director of operations instructs them to prioritize high-level overviews of key performance indicators. However, stakeholders from finance ask for more granularity in order to monitor additional metrics. What should the BI team do? Select all that apply.",
+    "answers": [
+      "Consider which trade-offs best align with business goals.",
+      "Determine what to prioritize and what to sacrifice in order to produce the best possible result for all users."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Pre-aggregation involves making calculations on database data before it is transferred to the _____ tool.",
+    "answers": ["visualization"]
+  },
+  {
+    "question": "A measure can be what type of data? Select all that apply.",
+    "answers": ["Quantitative", "Discrete", "Continuous"]
+  },
+  {
+    "question": "A business intelligence professional uses the Marks tool in Tableau to add color to a particular dimension. What are they doing?",
+    "answers": ["Encoding"]
+  },
+  {
+    "question": "A business intelligence professional creates a data visualization that uses only color to specify the data points. What should they do to make the visualization more accessible?",
+    "answers": ["Include labels."]
+  },
+  {
+    "question": "For what reasons might a dashboard designer choose to group objects? Select all that apply.",
+    "answers": [
+      "Because they highlight the same topic",
+      "Because they present data about similar metrics",
+      "To ensure the dashboard has a logical flow"
+    ]
+  },
+  {
+    "question": "What are some techniques for improving dashboard processing speeds? Select all that apply.",
+    "answers": ["Include fewer dimensions", "Remove irrelevant metrics"]
+  },
+  {
+    "question": "Fill in the blank: If a dashboard has _____, it is accessible to the general public.",
+    "answers": ["public availability"]
+  },
+  {
+    "question": "There are four key questions business intelligence professionals ask when designing a dashboard. One is, “How many charts are required?” What are the other three? Select all that apply.",
+    "answers": [
+      "Which chart types and forms of encoding will be most effective?",
+      "Which measures and dimensions will be represented in each chart?",
+      "Which parts of the dataset will make it possible to address the business requirement?"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Including more visualizations in a dashboard enables more data to be displayed, but this may _____ or slow down the dashboard.",
+    "answers": ["overwhelm the user"]
+  },
+  {
+    "question": "Fill in the blank: Pain points when long-term monitoring can change depending on the scale of the dashboard. _____ dashboards will likely require more context in order to make the data understandable for users.",
+    "answers": ["larger"]
+  },
+  {
+    "question": "Fill in the blank: The ways a business intelligence tool is actually used and implemented by the team are referred to as _____. It is important to have different views in a live-monitoring dashboard in order to give users the ability to drill down to the information that is relevant to them.",
+    "answers": ["use cases"]
+  },
+  {
+    "question": "When designing a dashboard, how can a business intelligence professional enable users to follow the data’s evolution, rather than isolated snapshots of the latest information?",
+    "answers": ["Build in tracking"]
+  },
+  {
+    "question": "Fill in the blank: When creating a dashboard, implementing _____ is beneficial because it helps users understand whether the visualizations indicate good or bad performance.",
+    "answers": ["comparisons"]
+  },
+  {
+    "question": "Which of the following pieces of information are typically included in a business intelligence presentation to stakeholders? Select all that apply.",
+    "answers": [
+      "Updates on project status",
+      "Information about stakeholder needs"
+    ]
+  },
+  {
+    "question": "Prioritizing the most relevant information is one of four presentation and communication best practices. What are the other three? Select all that apply.",
+    "answers": [
+      "Engage your audience by taking the time to understand their point of view.",
+      "Speak in clear, concise, and accessible language.",
+      "Describe how you addressed a concern previously raised by stakeholders."
+    ]
+  },
+  {
+    "question": "What is shared with stakeholders in order to provide them with a clear idea of your dashboard design intentions?",
+    "answers": ["Low-fidelity mockups"]
+  },
+  {
+    "question": "What job titles are most common in entry-level business intelligence jobs? Select all that apply.",
+    "answers": [
+      "Business intelligence analyst",
+      "Junior business intelligence analyst",
+      "Assistant business intelligence analyst"
+    ]
+  },
+  {
+    "question": "Which of the following pieces of information should you include when sharing your portfolio? Select all that apply.",
+    "answers": [
+      "Your thought process",
+      "The work you performed",
+      "What you might do differently in the future"
+    ]
+  },
+  {
+    "question": "The relevant data source is connected to Tableau.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "A dashboard mockup is designed.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The key business questions to be answered are included.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Relevant charts are created to answer the key business questions.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Relevant charts are compiled into an interactive dashboard.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The dashboard is designed to monitor data over long-term periods.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Visualizations are prepared and accessible to all potential audiences.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The information contained in the visualizations aligns with business requirements and meets stakeholder needs.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "An executive summary is included.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "The executive summary communicates key insights to stakeholders.",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "A business intelligence professional wants to answer ongoing business questions, and these answers are likely to change over time. Therefore, they choose to use dynamic visualizations in their dashboard. In this situation, what is the primary benefit of dynamic visualizations?",
+    "answers": ["They are interactive."]
+  },
+  {
+    "question": "What is the primary goal of the stories told by dashboards?",
+    "answers": [
+      "To provide important information about what’s currently happening"
+    ]
+  },
+  {
+    "question": "Who typically uses business intelligence tools in order to make informed decisions?",
+    "answers": ["Stakeholders"]
+  },
+  {
+    "question": "What is the purpose of creating a mockup for a stakeholder prior to building a dashboard? Select all that apply.",
+    "answers": [
+      "Helps you avoid potential errors in your final dashboard",
+      "Gives the stakeholder an opportunity to provide early feedback",
+      "Helps you narrow down the general visual details of your dashboard"
+    ]
+  },
+  {
+    "question": "Which data visualization approach entails representing the main takeaways in the largest chart at the top of your mockup and then going into further detail in the following charts?",
+    "answers": ["Funneling"]
+  },
+  {
+    "question": "In order to be most effective, what characteristics should your mockups have? Select all that apply.",
+    "answers": [
+      "They should be easy to understand.",
+      "They should have clear, bold details.",
+      "They should communicate your intentions."
+    ]
+  },
+  {
+    "question": "What is the term for a simple draft of a visualization that is used when planning a dashboard?",
+    "answers": ["Low-fidelity mockup"]
+  },
+  {
+    "question": "Fill in the blank: If a business intelligence professional creates a dashboard without considering the _____, there is likely to be an audience problem.",
+    "answers": ["Users"]
+  },
+  {
+    "question": "A business intelligence team collects and prepares data for a presentation to stakeholders. Then, they consider available visualization tools, as well as the team’s user interfaces and workstreams. In this situation, what is the primary purpose of the visualization tools?",
+    "answers": ["To represent and communicate data insights"]
+  },
+  {
+    "question": "Why is it helpful to temporarily remove an outlier from a chart? Select all that apply.",
+    "answers": [
+      "To help you notice trends",
+      "To make your chart more proportional"
+    ]
+  },
+  {
+    "question": "What visual elements can you change to make your map easier to read? Select all that apply.",
+    "answers": [
+      "Change the size of each dot",
+      "Display highways, roads, neighborhoods, and other features of the city"
+    ]
+  },
+  {
+    "question": "A business intelligence professional wants to create the best possible dashboard. They balance various factors by prioritizing certain elements while sacrificing others. What does this scenario describe?",
+    "answers": ["Making trade-offs"]
+  },
+  {
+    "question": "Fill in the blank: A dimension is a _____ data type that can be used to categorize data.",
+    "answers": ["Qualitative"]
+  },
+  {
+    "question": "What is the process of translating dimensions and measures into visual representations of data?",
+    "answers": ["Encoding"]
+  },
+  {
+    "question": "Which element of your dashboard explains how the data is encoded so that users can better interpret its insights?",
+    "answers": ["Legend"]
+  },
+  {
+    "question": "In your chart, you used a filter to focus on a certain portion of your map and update the chart next to it to only reflect average prices for that location. How does this filter improve the user experience with your dashboard? Select all that apply.",
+    "answers": [
+      "Avoid clutter",
+      "Increase processing speed",
+      "Highlight certain elements"
+    ]
+  },
+  {
+    "question": "If you wanted to add an additional chart to your dashboard to compare the average price per night in each neighborhood to the number of currently available rentals in those neighborhoods, what visualization type would be most effective?",
+    "answers": ["Grouped bar chart"]
+  },
+  {
+    "question": "What is the term for the privacy setting that is used to make a dashboard accessible to anyone?",
+    "answers": ["Public availability"]
+  },
+  {
+    "question": "A business intelligence team is building and maintaining dashboards. As part of that process, they configure privacy settings using object-level permissions. In this situation, they want to control the availability of which of the following?",
+    "answers": ["A single item"]
+  },
+  {
+    "question": "Where does a business intelligence professional set up row-level permissions?",
+    "answers": ["In the database"]
+  },
+  {
+    "question": "Which of the following chart types would most effectively illustrate holidays with the highest traffic?",
+    "answers": ["Circle (bubble) chart"]
+  },
+  {
+    "question": "Which of the following elements improves the accessibility of your charts?",
+    "answers": ["Captions"]
+  },
+  {
+    "question": "Which of the following charts would best address your stakeholder’s business needs? Select all that apply.",
+    "answers": [
+      "Traffic volumes by month per year",
+      "Traffic volumes by hour",
+      "Holidays with highest traffic",
+      "Traffic volumes by weather pattern"
+    ]
+  },
+  {
+    "question": "What best practices can help you build your dashboard? Select all that apply.",
+    "answers": [
+      "Arrange the legends along with the charts.",
+      "Use size, color, and other design elements to create a logical flow.",
+      "Place the chart you want to emphasize into your dashboard first."
+    ]
+  },
+  {
+    "question": "What are some logical ways to organize the charts in your dashboard? Select all that apply.",
+    "answers": [
+      "Arrange charts from most to least important.",
+      "Group charts by topic."
+    ]
+  },
+  {
+    "question": "What are some of the types of buttons you can add to your dashboard? Select all that apply.",
+    "answers": ["Images", "Navigation", "Download"]
+  },
+  {
+    "question": "How does adding a tile to your dashboard interface that allows users to change filters themselves address your stakeholder’s requests? Select all that apply.",
+    "answers": [
+      "Helps users who are not familiar with Tableau apply filters",
+      "Encourages users to view different timescales"
+    ]
+  },
+  {
+    "question": "What components should a BI slide deck presentation to a supervisor or stakeholder generally include? Select all that apply.",
+    "answers": [
+      "An intro slide",
+      "A summary of the business questions you answered",
+      "A description of your methods for creating your project",
+      "A summary of key insights about the data"
+    ]
+  },
+  {
+    "question": "On which slide of your presentation might you include a description of how you built your pipeline?",
+    "answers": ["Methods"]
+  },
+  {
+    "question": "Fill in the blank: In your key insights slide, you should aim to provide _____.",
+    "answers": ["direct answers to the business’ questions"]
+  },
+  {
+    "question": "Which of the following statements correctly describe business intelligence visualizations? Select all that apply.",
+    "answers": [
+      "Business intelligence visualizations are built, designed, and maintained over time.",
+      "Business intelligence visualizations are dynamic.",
+      "The data used in business intelligence visualizations continuously updates in order to lend new insights."
+    ]
+  },
+  {
+    "question": "A business intelligence professional discovers that the dashboard they created uses datasets from the wrong time period. What type of problem is occuring?",
+    "answers": ["Data problem"]
+  },
+  {
+    "question": "Fill in the blank: A business intelligence professional discovers there are hardware limitations creating issues with the dashboard. One strategy to avoid this tool problem might be reducing project _____ during the building phase.",
+    "answers": ["Scope"]
+  },
+  {
+    "question": "What steps do business intelligence professionals take when empowering users to interpret dashboard data on their own? Select all that apply.",
+    "answers": [
+      "Determine what the dashboard needs to do",
+      "Build the appropriate tool",
+      "Maintain and improve the dashboard"
+    ]
+  },
+  {
+    "question": "A business intelligence professional wants to help their team identify incorrect assumptions and implement necessary fixes for their dashboard. What tool will enable them to improve this process?",
+    "answers": ["Hypothesis testing"]
+  },
+  {
+    "question": "Which of the following issues are examples of tool problems? Select all that apply.",
+    "answers": [
+      "Systems are overwhelmed because of the volume of metrics being tracked.",
+      "A server crashes because too many people are editing the same visualization.",
+      "The wrong software or hardware was selected for the project."
+    ]
+  },
+  {
+    "question": "A dashboard includes metrics that are irrelevant to users. What type of problem needs to be fixed?",
+    "answers": ["Audience problem"]
+  },
+  {
+    "question": "A business intelligence professional is designing a dashboard for a restaurant group. The personnel manager has instructed them to prioritize data about employees. However, the kitchen manager asks to prioritize food sales data. What should the BI professional do? Select all that apply.",
+    "answers": [
+      "Consider which trade-offs best align with business goals.",
+      "Determine what to prioritize and what to sacrifice in order to produce the best possible result for all users."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Measures are _____ data types that can be either discrete or continuous.",
+    "answers": ["quantitative"]
+  },
+  {
+    "question": "Fill in the blank: A dashboard with _____uses a privacy setting to control the availability of a single item.",
+    "answers": ["object-level permission"]
+  },
+  {
+    "question": "Fill in the blank: Including more visualizations in a dashboard enables more data to be displayed, but this may _____ or overwhelm the user.",
+    "answers": ["slow down the dashboard"]
+  },
+  {
+    "question": "Fill in the blank: When conducting long-term monitoring, larger dashboards will likely require more context in order to make the data _____ for users.",
+    "answers": ["understandable"]
+  },
+  {
+    "question": "What are the benefits of implementing comparisons when creating a dashboard? Select all that apply.",
+    "answers": [
+      "It quickly enables users to understand why the data in the dashboard is useful",
+      "It helps users interpret whether the visualizations indicate good or bad performance"
+    ]
+  },
+  {
+    "question": "Fill in the blank: When sharing your_____, the sketches are intended to give stakeholders a clear idea of your design intentions.",
+    "answers": ["low-fidelity mockups"]
+  },
+  {
+    "question": "Fill in the blank: If you are interested in working in a particular industry, _____ your criteria during your job search. Otherwise, search for “entry-level business intelligence” positions.",
+    "answers": ["narrow"]
+  },
+  {
+    "question": "Please let us know if you plan to take this optional course. Your choice will not affect your Google Career Certificate, which you will receive regardless, but your response is required in order to send you information on how to claim your certificate.",
+    "answers": ["Yes, I want to learn how to accelerate my job search with AI!"]
+  }
+]
