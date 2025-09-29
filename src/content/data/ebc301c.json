@@ -1,0 +1,863 @@
+[
+  {
+    "question": "Dear Mina Kim,",
+    "answers": ["Incorrect"]
+  },
+  {
+    "question": "Dear Hector,",
+    "answers": ["Correct"]
+  },
+  {
+    "question": "Ms. Dyer:",
+    "answers": ["Correct"]
+  },
+  {
+    "question": "Dear MedEx",
+    "answers": ["Incorrect"]
+  },
+  {
+    "question": "Dear, Wayne",
+    "answers": ["Incorrect"]
+  },
+  {
+    "question": "Hi Everyone,",
+    "answers": ["Correct"]
+  },
+  {
+    "question": "Peter :",
+    "answers": ["Incorrect"]
+  },
+  {
+    "question": "Dear Ms. Jennifer.",
+    "answers": ["Incorrect"]
+  },
+  {
+    "question": "Hector Hausman wants some information about the mini coffee maker from Coffee Bug. He finds the contact information for Nancy Friesen on the Coffee Bug website. He writes an email to Nancy. Select the best option for each part of the email that he writes. Subject Line",
+    "answers": ["Mini Coffee Maker Questions"]
+  },
+  {
+    "question": "2. Email Greeting",
+    "answers": ["Dear Ms. Friesen,"]
+  },
+  {
+    "question": "3. First Part",
+    "answers": [
+      "I am interested in the mini coffee maker that I saw on your website. I have the following questions: Does it work overseas? Does it come in black? How can it be cleaned?"
+    ]
+  },
+  {
+    "question": "3. Second Part",
+    "answers": [
+      "Thank you for any information you can provide. I look forward to receiving your reply."
+    ]
+  },
+  {
+    "question": "4. Closing",
+    "answers": ["Best regards."]
+  },
+  {
+    "question": "6. Name",
+    "answers": ["Hector Hausman"]
+  },
+  {
+    "question": "Choose the best word to complete these sentences. An __________ is the plan for a meeting.",
+    "answers": ["agenda"]
+  },
+  {
+    "question": "2. A ______ is someone who attends a meeting.",
+    "answers": ["participant"]
+  },
+  {
+    "question": "3. Writing a summary of a meeting is called ________.",
+    "answers": ["taking minutes"]
+  },
+  {
+    "question": "4. A ________ is usually held at the start of a project.",
+    "answers": ["kickoff meeting"]
+  },
+  {
+    "question": "5. The goal of a _______ is to come up with new ideas and to be creative.",
+    "answers": ["brainstorming meeting"]
+  },
+  {
+    "question": "6. At a progress report meeting you will be expected to give ______.",
+    "answers": ["an update"]
+  },
+  {
+    "question": "7. Select all the sentences below which are guidelines for a successful meeting agenda.",
+    "answers": [
+      "Send out the agenda at least 24 hours before the meeting.",
+      "Make sure each item on the agenda is clear.",
+      "Bring a copy of the agenda to the meeting.",
+      "Make sure everyone knows the purpose of the meeting"
+    ]
+  },
+  {
+    "question": "8. Select all the sentences below which are guidelines for a successful meeting.",
+    "answers": [
+      "Start the meeting on time.",
+      "Keep the discussion on topic.",
+      "End the meeting when everything has been discussed.",
+      "Send the minutes as soon as possible."
+    ]
+  },
+  {
+    "question": "Instructions Choose the better sentences a or b to complete this email informing some colleagues about a meeting. 1. Subject line",
+    "answers": ["b. Subject: Tomorrow’s Database Training"]
+  },
+  {
+    "question": "2. Greeting",
+    "answers": ["b. Hi Everybody,"]
+  },
+  {
+    "question": "3. Purpose",
+    "answers": [
+      "a. I want to remind you that the training on the new database will take place tomorrow."
+    ]
+  },
+  {
+    "question": "4. Details of time and location",
+    "answers": ["a. The training is from 8:00 a.m. – 11:30 a.m. in Room 5C."]
+  },
+  {
+    "question": "5. Meeting goal/details",
+    "answers": [
+      "a. We hope to begin using the new database next month, so it’s important that all of you are familiar with the new system."
+    ]
+  },
+  {
+    "question": "6. What to do if you can’t attend",
+    "answers": [
+      "b. Please let me know by the end of today if you can’t attend."
+    ]
+  },
+  {
+    "question": "7. Referring to an attachment",
+    "answers": ["a. Attached is the schedule for the training."]
+  },
+  {
+    "question": "8. Preparation",
+    "answers": [
+      "a. In preparation, please complete the attached questionnaire."
+    ]
+  },
+  {
+    "question": "9. Closing sentence 1",
+    "answers": ["b. Please let me know if you have any questions."]
+  },
+  {
+    "question": "10. Closing sentence 2",
+    "answers": ["a. See you all tomorrow at 8:00."]
+  },
+  {
+    "question": "Choose the best way to complete the following sentences . If there is something you want to talk about at a meeting you can send an email to the organizer asking to ___________.",
+    "answers": ["add something to the agenda"]
+  },
+  {
+    "question": "If you can’t attend a meeting, you can send an email ___________.",
+    "answers": ["explaining why you can’t attend"]
+  },
+  {
+    "question": "Using words like unfortunately, I’m afraid and I’m sorry make the sentence ___________.",
+    "answers": ["softer"]
+  },
+  {
+    "question": "Just to let you know I can’t make it is an example of __________ language.",
+    "answers": ["informal"]
+  },
+  {
+    "question": "You should usually give a __________ reason when you are too busy to attend a meeting.",
+    "answers": ["detailed"]
+  },
+  {
+    "question": "Something has come up is an example of a ___________ reason.",
+    "answers": ["vague"]
+  },
+  {
+    "question": "I look forward to reading the minutes is an example of ____________.",
+    "answers": ["a closing sentence"]
+  },
+  {
+    "question": "If you can’t attend a meeting, it is ____________.",
+    "answers": ["possible to ask to reschedule it, but use indirect language"]
+  },
+  {
+    "question": "If you need to reschedule a meeting ___________.",
+    "answers": ["give a reason"]
+  },
+  {
+    "question": "Same time, same place probably means ___________.",
+    "answers": ["maybe only the day has changed"]
+  },
+  {
+    "question": "Choose the best word to complete these sentences. 1. A cell phone is a telecommunications ___.",
+    "answers": ["a. device"]
+  },
+  {
+    "question": "2. I’m sorry. I didn’t ___ that. Could you repeat what you said?",
+    "answers": ["a. catch"]
+  },
+  {
+    "question": "3. I don’t know the ___ number for our teleconference.",
+    "answers": ["a. call-in"]
+  },
+  {
+    "question": "4. I’m having trouble logging ___ the conference site.",
+    "answers": ["b. on to"]
+  },
+  {
+    "question": "5. Did you send us the access ___?",
+    "answers": ["b. code"]
+  },
+  {
+    "question": "6. I am ___ the results of the survey. Please look at them before the meeting.",
+    "answers": ["a. attaching"]
+  },
+  {
+    "question": "7. I’d like to get everyone’s ___ before I make a decision.",
+    "answers": ["a. input"]
+  },
+  {
+    "question": "8. Did we ___ Tina? She joined the meeting, right?",
+    "answers": ["b. lose"]
+  },
+  {
+    "question": "9. Use ___ if there’s a lot of noise near you when you call in to a meeting.",
+    "answers": ["a. mute"]
+  },
+  {
+    "question": "10. I can’t hear you clearly. You’re breaking ___.",
+    "answers": ["b. up"]
+  },
+  {
+    "question": "Which of these is a good thing to do when you have a teleconference?",
+    "answers": [
+      "a. Give people clear instructions for how to connect to the teleconference.",
+      "b. Call in to connect to the meeting before it is exactly the time.",
+      "a. Say “This is ... (your name)” when you join a teleconference.",
+      "b. Prepare ahead of time for the meeting."
+    ]
+  },
+  {
+    "question": "Choose the better sentence to complete these minutes.",
+    "answers": [
+      "The team discussed changes in the Northlake store and decided to add tables, chairs, and a coffee bar.",
+      "According to the Tourist Bureau, Pike Place Market has the most visitors.",
+      "The re-opening celebration is planned for June 12.",
+      "The team discussed where the best location is.",
+      "If we open a new store in the market, we might get new customers.",
+      "Here is the report from the Tourist Bureau.",
+      "We need more data to make a decision.",
+      "This report from the Tourist Bureau shows the number of visitors to each attraction.",
+      "This means that we have to reconsider our plans.",
+      "The statistics show that the Market is the best place."
+    ]
+  },
+  {
+    "question": "Part 1 of 2: Choose the best response to these sentences. How about a new advertising campaign?",
+    "answers": ["OK. Nice idea."]
+  },
+  {
+    "question": "What if we changed the atmosphere in the store?",
+    "answers": ["Atmosphere? What do you mean exactly?"]
+  },
+  {
+    "question": "Maybe we could make it lighter with more windows.",
+    "answers": [
+      "Adding to that, maybe we could paint it a brighter color, too."
+    ]
+  },
+  {
+    "question": "These are great ideas everyone. Anything else?",
+    "answers": [
+      "I know this might sound crazy, but what about concentrating on the student market?"
+    ]
+  },
+  {
+    "question": "I don’t really know about this, but....",
+    "answers": ["Go ahead."]
+  },
+  {
+    "question": "Part 2 of 2: Select the 1 sentence below which is NOT necessary for successful brainstorming.",
+    "answers": ["Move around while giving ideas."]
+  },
+  {
+    "question": "Select the 1 sentence below which is NOT necessary for successful brainstorming.",
+    "answers": [
+      "Have a break after 45 minutes",
+      "Follow-up the brainstorming with an email"
+    ]
+  },
+  {
+    "question": "True or False: You should write a script of what you want to say and read it so your English is perfect.",
+    "answers": ["False"]
+  },
+  {
+    "question": "You should prepare what you want to say before you make a call.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You should speak for no more than one minute .",
+    "answers": ["False"]
+  },
+  {
+    "question": "Explaining all the details of a situation is helpful for the listener.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It’s a good idea to repeat your contact information, even if you’ve given it before.",
+    "answers": ["True"]
+  },
+  {
+    "question": "It’s rude to tell someone that you need something soon.",
+    "answers": ["False"]
+  },
+  {
+    "question": "You should have a goal for a business or professional phone call.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Avoid being angry in a voicemail.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Your pronunciation will be better if you read your message like a script.",
+    "answers": ["False"]
+  },
+  {
+    "question": "If you speak quickly, your message will sound more like a native speaker and it will be easier to understand you.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Look at the discussion about three team-building companies. Choose the right word or phrase to complete the sentence. S&E Events is _____ expensive than TeamPower.",
+    "answers": ["much more"]
+  },
+  {
+    "question": "TeamPower is _____ Business Life Solutions.",
+    "answers": ["the same price as"]
+  },
+  {
+    "question": "_______ Business Life Solution offers complimentary t-shirts.",
+    "answers": ["Only"]
+  },
+  {
+    "question": "_______ S&E Events and TeamPower provide lunch with their program.",
+    "answers": ["Both"]
+  },
+  {
+    "question": "Team-building with S&E Events is _____ the most expensive.",
+    "answers": ["by far"]
+  },
+  {
+    "question": "It’s not as expensive _____.",
+    "answers": ["as I thought"]
+  },
+  {
+    "question": "_____ that I like is Business Life because the teams are small.",
+    "answers": ["The one"]
+  },
+  {
+    "question": "I think we should go with TeamPower. The _____.",
+    "answers": ["cheaper, the better."]
+  },
+  {
+    "question": "Business Life is _____ can come on Saturday.",
+    "answers": ["the only one that"]
+  },
+  {
+    "question": "S&E Events has been in business longer than _____.",
+    "answers": ["I thought"]
+  },
+  {
+    "question": "Part 1 Choose the right word to complete the sentence. A person often responds to a proposal with a ______.",
+    "answers": ["counter proposal"]
+  },
+  {
+    "question": "In a negotiation, a person should try to be _____.",
+    "answers": ["flexible"]
+  },
+  {
+    "question": "If you ask for a concession as a question, it sounds like _____.",
+    "answers": ["there is room for discussion"]
+  },
+  {
+    "question": "When someone does not accept a proposal, that person should _____.",
+    "answers": ["give a reason"]
+  },
+  {
+    "question": "If one party offers a special concession that is not normal in their business, they should _____.",
+    "answers": ["tell the other party it is not normal"]
+  },
+  {
+    "question": "When both sides give a little to reach an agreement, they both _____.",
+    "answers": ["compromise"]
+  },
+  {
+    "question": "Part 2 Choose the best phrases for each sentence. ______ we won’t be able to do that.",
+    "answers": ["I'm afraid"]
+  },
+  {
+    "question": "_______ we don’t do this, but we’ll accept it.",
+    "answers": ["Normally,"]
+  },
+  {
+    "question": "We _____ have that delivery a bit earlier.",
+    "answers": ["would rather"]
+  },
+  {
+    "question": "A: Would you consider a two-year contract? B: _______ it’s possible at this time.",
+    "answers": ["I'm not sure"]
+  },
+  {
+    "question": "We can’t cover transportation costs _____ you place a larger order.",
+    "answers": ["unless"]
+  },
+  {
+    "question": "If we offer free shipping, would you _____ increase that order?",
+    "answers": ["be willing to"]
+  },
+  {
+    "question": "_____ you include all of the parts, then we can agree to this.",
+    "answers": ["As long as"]
+  },
+  {
+    "question": "Actually, we were _____ a better rate.",
+    "answers": ["expecting"]
+  },
+  {
+    "question": "I’m wondering if we can meet halfway and _____ on the price.",
+    "answers": ["compromise"]
+  },
+  {
+    "question": "Decide if these sentences are true or false. You should tell the caller your name when you answer the call.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You should always call the customer by his/her first name.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Being quiet while the caller is explaining the problem is an example of active listening.",
+    "answers": ["False"]
+  },
+  {
+    "question": "4. Don’t use phrases like I see, OK, or uh-huh.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Repeating key words will help you check details about the problem.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Where did you buy it? is an example of a polite indirect question.",
+    "answers": ["False"]
+  },
+  {
+    "question": "After the caller explains the problem, you can restate or summarize the problem.",
+    "answers": ["True"]
+  },
+  {
+    "question": "If you have trouble understanding something the caller is saying, you should pass the call to your supervisor.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Choose the best way to complete these expressions. Could ______ your name please?",
+    "answers": ["I have"]
+  },
+  {
+    "question": "Do you mind _______ you Emily?",
+    "answers": ["if I call"]
+  },
+  {
+    "question": "Do you know who would ______?",
+    "answers": ["you spoke to"]
+  },
+  {
+    "question": "________ check our records.",
+    "answers": ["Let me just"]
+  },
+  {
+    "question": "Can you ______ the problem for me?",
+    "answers": ["describe"]
+  },
+  {
+    "question": "So, blue, not green, _______?",
+    "answers": ["is that correct"]
+  },
+  {
+    "question": "15. Sorry, ______ a few more details about what happened?",
+    "answers": ["could you give me"]
+  },
+  {
+    "question": "I'm sorry, could you ______?",
+    "answers": ["repeat that"]
+  },
+  {
+    "question": "Here is a conversation between Leon from an engineering company and Toni Zanetti from Northwestern Soul, a caterer. You will choose the best expression that fits the blank in the following questions. Toni: Hello. This is Toni Zanetti speaking. Leon: This is Leon Klinsman here from RTS Systems. I’m calling about the lunch you are catering for us today. Toni: Oh yes., Mr. Klinsman. I hope everything looks satisfactory. Leon: Actually, Ms. Zanetti. It doesn’t . Toni: ________________ [1] What is the problem ? Leon: Well, first of all we don’t have enough rolls. I think we will run out ... Toni: Umm. OK, go on. Leon: ...and there’s a mistake with the dessert. Toni: Sorry, Mr. Klinsman. ________________ [2] Leon: Well we ordered a giant chocolate mousse cake for our CEO’s birthday, and it isn’t here. Toni: Oh dear. ________________ [3] Mr. Klinsman. Toni: OK just ________________[4]... Toni: You said there aren’t enough rolls and you don’t have the chocolate cake, ________________ [5] Leon: Yes. And it’s her 50th birthday, and we wanted it to be a surprise. Toni: I see. ________________ [6] Mr. Klinsman. Toni ________________ [7]. Leon: What are you going to do about it then? Can you get another cake? Toni: Unfortunately, ________________. [8] Toni: We wouldn’t be able to get it in time, but ________________ [9] I know we made the cake. Maybe he hid it somewhere. Leon: Alright. Toni: And what if I brought over some more rolls. Maybe twenty. ________________ [10] Leon: I guess so. Toni: Alright Mr. Klinsman. I’ll call my colleague right now and call you back.",
+    "answers": ["sq"]
+  },
+  {
+    "question": "Here is a conversation between Leon from an engineering company and Toni Zanetti from Northwestern Soul, a caterer. Choose the best expression that fits the blank. TONI: Hello. This is Toni Zanetti speaking. LEON: This is Leon Klinsman here from RTS Systems. I’m calling about the lunch you are catering for us today. TONI: Oh yes., Mr. Klinsman. I hope everything looks satisfactory. LEON: Actually, Ms. Zanetti. It doesn’t . TONI: [1] ________________ What is the problem ? Select the best answer for [1].",
+    "answers": ["I'm very sorry to hear that."]
+  },
+  {
+    "question": "LEON: Well, first of all we don’t have enough rolls. I think we will run out ... TONI: Umm. OK, go on. LEON: ...and there’s a mistake with the dessert. TONI: Sorry, Mr. Klinsman. [2] ________________ Select the best answer for [2].",
+    "answers": ["Could you to give me a few more details?"]
+  },
+  {
+    "question": "LEON: Well we ordered a giant chocolate mousse cake for our CEO’s birthday, and it isn’t here. TONI: Oh dear. [3] ________________ Mr. Klinsman. Select the best answer for [3].",
+    "answers": ["I'm really sorry about this,"]
+  },
+  {
+    "question": "TONI: OK just [4] _______________ Select the best answer for [4].",
+    "answers": ["let me make sure I got that."]
+  },
+  {
+    "question": "TONI: You said there aren’t enough rolls and you don’t have the chocolate cake, [5] ________________ Select the best answer for [5].",
+    "answers": ["Is that right?"]
+  },
+  {
+    "question": "TONI: I see. [6] ________________ Mr. Klinsman. Select the best answer for [6].",
+    "answers": ["I do apologize"]
+  },
+  {
+    "question": "TONI: [7] __________________",
+    "answers": ["I can understand how upset you feel."]
+  },
+  {
+    "question": "LEON: What are you going to do about it then? Can you get another cake? TONI: Unfortunately, [8] ________________. Select the best answer for [8].",
+    "answers": ["I don't think we would be able to do that."]
+  },
+  {
+    "question": "TONI: We wouldn’t be able to get it in time, but [9] ________________ I know we made the cake. Maybe he hid it somewhere. LEON: Alright. Select the best answer for [9].",
+    "answers": ["why don't I call my colleague?"]
+  },
+  {
+    "question": "TONI: And what if I brought over some more rolls. Maybe twenty. [10] ________________ ? LEON: I guess so. TONI: Alright Mr. Klinsman. I’ll call my colleague right now and call you back. Select the best answer for [10].",
+    "answers": ["Would that be OK?"]
+  },
+  {
+    "question": "Part 1 Choose the right preposition to complete the sentence. \"We should decide ___ the venue very soon.\"",
+    "answers": ["on"]
+  },
+  {
+    "question": "\"He needs to get started. He shouldn’t put it ___.\"",
+    "answers": ["off"]
+  },
+  {
+    "question": "\"I need to meet ___ the photographer to explain what we want.\"",
+    "answers": ["with"]
+  },
+  {
+    "question": "\"I’d like you to be responsible ___ the flowers.\"",
+    "answers": ["for"]
+  },
+  {
+    "question": "\"Remember, you shouldn’t wait ___ the last minute.\"",
+    "answers": ["until"]
+  },
+  {
+    "question": "\"I’d like you to arrange ___ transportation for our special guest.\"",
+    "answers": ["for"]
+  },
+  {
+    "question": "\"Would you keep track ___ the budget?\"",
+    "answers": ["of"]
+  },
+  {
+    "question": "\"We don’t know how many people will come. We’re hoping ___ 300.\"",
+    "answers": ["for"]
+  },
+  {
+    "question": "Part 2 Choose the right word or phrase to complete the sentence. \"We have to ___ the date before we do anything.\"",
+    "answers": ["set"]
+  },
+  {
+    "question": "\"Could you follow up on _____?\"",
+    "answers": ["the room reservations"]
+  },
+  {
+    "question": "\"We’re ___ a party to celebrate our new partnership.\"",
+    "answers": ["hosting"]
+  },
+  {
+    "question": "\"Every year we have a special ceremony to ___ our best employees.\"",
+    "answers": ["honor"]
+  },
+  {
+    "question": "\"We’re ___ over 400 people.\"",
+    "answers": ["expecting"]
+  },
+  {
+    "question": "\"Can you _____ someone to help with the decorations?\"",
+    "answers": ["get"]
+  },
+  {
+    "question": "\"We need to ___ the banquet permit soon.\"",
+    "answers": ["apply for"]
+  },
+  {
+    "question": "Part 1 Choose the best word to complete these sentences from an announcement. Please remember to complete the _____ before the workshop:",
+    "answers": ["following"]
+  },
+  {
+    "question": "_____ the hotels that are close to the conference center:",
+    "answers": ["Below are"]
+  },
+  {
+    "question": "This equipment is provided in each room:",
+    "answers": ["a laptop computer"]
+  },
+  {
+    "question": "The hours for the exhibits area are listed _____:",
+    "answers": ["below"]
+  },
+  {
+    "question": "Each participant will need to bring _____ materials:",
+    "answers": ["these"]
+  },
+  {
+    "question": "Part 2 Complete these sentences with the best answer about lists in an announcement. To introduce a list, ________.",
+    "answers": ["use a full sentence"]
+  },
+  {
+    "question": "A long list ______.",
+    "answers": ["is easier to read if it is divided into two shorter lists"]
+  },
+  {
+    "question": "The sentence to introduce a list should end with a _____.",
+    "answers": ["colon"]
+  },
+  {
+    "question": "A list is usually bulleted and _____.",
+    "answers": ["indented"]
+  },
+  {
+    "question": "Lists are useful because _____.",
+    "answers": ["people can find information quickly"]
+  },
+  {
+    "question": "Are the following good or bad ideas when you’re preparing to give a presentation? Choose good idea or bad idea. 1. Practice your presentation more than once.",
+    "answers": ["good idea"]
+  },
+  {
+    "question": "2. Stand tall.",
+    "answers": ["good idea"]
+  },
+  {
+    "question": "3. Always walk back and forth in front of the podium.",
+    "answers": ["bad idea"]
+  },
+  {
+    "question": "4. Don’t move your body during a presentation.",
+    "answers": ["bad idea"]
+  },
+  {
+    "question": "5. It’s important to read from your script.",
+    "answers": ["bad idea"]
+  },
+  {
+    "question": "6. Face the audience and have eye contact.",
+    "answers": ["good idea"]
+  },
+  {
+    "question": "7. Speak quickly.",
+    "answers": ["bad idea"]
+  },
+  {
+    "question": "8. Pause before and after your main point.",
+    "answers": ["good idea"]
+  },
+  {
+    "question": "9. Stress the final letter in an abbreviation where you say the letters, such as IBM.",
+    "answers": ["good idea"]
+  },
+  {
+    "question": "10. Use fillers frequently instead of silence.",
+    "answers": ["bad idea"]
+  },
+  {
+    "question": "Part 1: What is the purpose of each sentence? Select the right answer. 1. Last year, activities related to conventions added more than $1 billion to the economy in our city.",
+    "answers": ["Present a surprising statistic."]
+  },
+  {
+    "question": "2. How many of you went to a convention in the last 5 years?",
+    "answers": ["Ask a question."]
+  },
+  {
+    "question": "3. Last week, Las Vegas hosted the largest convention in history.",
+    "answers": ["Present a surprising statistic."]
+  },
+  {
+    "question": "4. First, we’re going to explain reasons for the problem. Then...",
+    "answers": ["Show the direction of your talk."]
+  },
+  {
+    "question": "5. I’m the director of the Tourism Board.",
+    "answers": ["Introduce yourself."]
+  },
+  {
+    "question": "6. Let me show you our plan.",
+    "answers": ["Show the direction of your talk."]
+  },
+  {
+    "question": "Part 2: Choose the best word to complete these sentences. 7. Raise your hands _______ you have been to a convention in the last 5 years.",
+    "answers": ["if"]
+  },
+  {
+    "question": "8. _______ you could increase the number of visitors to the city by 200% in three years?",
+    "answers": ["What if"]
+  },
+  {
+    "question": "9. _____ you have been to a convention in the last 5 years?",
+    "answers": ["How many of"]
+  },
+  {
+    "question": "10. First, I’m going to ______ you our plan for our presentation.",
+    "answers": ["show"]
+  },
+  {
+    "question": "11. ______ what we are going to show you today.",
+    "answers": ["Here's"]
+  },
+  {
+    "question": "12. EFL ________ English as a foreign language.",
+    "answers": ["stands for"]
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. Introduction to the Presentation:",
+    "answers": [
+      "Good afternoon. My name is Pat Jonas. I’m here today to talk about trends in the travel industry."
+    ]
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. Later in the Presentation",
+    "answers": [
+      "As you know, millennials are very tech-savvy, so they use online and digital devices to research and book travel.",
+      "So, what can we do to attract their business?",
+      "I see you want to talk about this, but I have some surprising information for you. Are you ready for it?",
+      "Let’s go back a bit here. Statistics don’t always tell the whole story. What’s missing here is the increase we’ve seen recently.",
+      "Some types of travel are perfect for the person-to-person contact that an agent provides. For example, few people are want to commit to eco-travel without personal contact.",
+      "To close, here are my suggestions for each of the challenges I outlined.",
+      "Thank you.",
+      "And now I’d be happy to answer any questions.",
+      "Could you repeat that, please?",
+      "I can see that you’re upset.",
+      "I don’t believe that’s true.",
+      "I’m sorry. I’m not an expert in that area.",
+      "First, let’s take a look at changes in the market, particularly two groups – millennials, that is, people born between 1981 and 1996, and seniors."
+    ]
+  },
+  {
+    "question": "Choose the best sentence to use for an effective, professional presentation. The items follow the progression of a typical presentation. Introduction to the Presentation",
+    "answers": [
+      "I’d like to start with a statistic I saw last week in the news. Did you know that only 18% of customers book their travel through agents like you ?",
+      "So in the next twenty minutes. I’m going to talk about what we can do to increase our business and to bring people back from online sites.",
+      "Here’s an overview of my talk.",
+      "We’ll have time for questions at the end."
+    ]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 1. ___ between May and October.",
+    "answers": ["Most people visit"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 2. The number of visitors in May ____ about half the number in September.",
+    "answers": ["is"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 3. ___ people visit in September as in May.",
+    "answers": ["Twice as many"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 4. July has ___ visitors.",
+    "answers": ["the most"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 5. There are ___ visitors in August ___ in June.",
+    "answers": ["more... than"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 6. December has ___ more visitors than November does.",
+    "answers": ["slightly"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 7. The ___ highest number of people visited in August.",
+    "answers": ["second"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 8. Forty four ____ of the young people consulted social media.",
+    "answers": ["percent"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 9. The ___ of people who consult social media varied according to age.",
+    "answers": ["percentage"]
+  },
+  {
+    "question": "Look at the chart . Complete the sentences to give details about the data. 10. Most of the travelers who consult social media ___ younger than 35.",
+    "answers": ["are"]
+  },
+  {
+    "question": "Choose the correct use of words to describe the chart. 1. There was ____ sales.",
+    "answers": ["an upward trend in"]
+  },
+  {
+    "question": "2. Sales increased _____ twenty percent.",
+    "answers": ["by"]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions. 3. Doobly had a decline ____ 10% ___ marketshare.",
+    "answers": ["of ... in"]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions. 4. MacroINK's market share increased ____.",
+    "answers": ["significantly"]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions. 5. PICO's market decreased ____.",
+    "answers": ["from 5% to 4%"]
+  },
+  {
+    "question": "Look at these two pie charts. You will use them to answer the questions. 6. This chart shows the change in market share ___ a two-year period.",
+    "answers": ["in"]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 7. The number of visits _________ dramatically ______ 2011 to 2012.",
+    "answers": ["increased...from"]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 8. Visits do______ ______ 2011 ______ 2012.",
+    "answers": ["doubled between...and..."]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 9. The number of visits ______ in 2012.",
+    "answers": ["peaked"]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 10. Visits ______ sharply in 2013.",
+    "answers": ["dropped"]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 11. Visits fell ______ 60% in 2013.",
+    "answers": ["by"]
+  },
+  {
+    "question": "Look at this bar chart. You will use them to answer the questions. 12. Visits ______ ______ in 2014.",
+    "answers": ["leveled off"]
+  },
+  {
+    "question": "Choose the best option for a marketing piece.",
+    "answers": [
+      "Focus on your customer’s needs.",
+      "Enjoy the spectacular view of the city from our Sky Restaurant.",
+      "We have received the Best Hotel award for the last ten years.",
+      "You can register in two minutes or less.",
+      "Ninety-eight percent of our clients highly recommend our event planners.",
+      "Our highly experienced event planners will make sure your conference is successful.",
+      "Feel the warm breeze as you watch the sun set.",
+      "You get all the credit. No one needs to know that we do all the work.",
+      "Our staff will assist you with all your audio/visual needs.",
+      "Relax and enjoy exceptional food at one of our award-winning restaurants ."
+    ]
+  }
+]

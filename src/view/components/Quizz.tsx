@@ -27,6 +27,7 @@ const Quizz = () => {
     { value: "dms301m", label: "DMS301m" },
     { value: "dwp301c", label: "DWP301c" },
     { value: "eal202c", label: "EAL202c" },
+    { value: "ebc301c", label: "EBC301c" },
     { value: "ecc301c", label: "ECC301c" },
     { value: "ecc302c", label: "ECC302c" },
     { value: "elp", label: "ELP311c + ELP321c" },
