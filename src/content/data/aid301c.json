@@ -1,0 +1,601 @@
+[
+  {
+    "question": "Which of the following is/are NOT native or built-in data types in Python?",
+    "answers": ["heap", "varchar"]
+  },
+  {
+    "question": "Mutable data types/collections in Python can be changed in place. Immutable ones can not change in place. Which of the following are mutable?",
+    "answers": ["set", "list"]
+  },
+  {
+    "question": "Which of the following is NOT true about Python?",
+    "answers": [
+      "Base Python automatically parallelizes processing across cores when multiple cores are available"
+    ]
+  },
+  {
+    "question": "Which of the following pairs of events are mutually exclusive. There can be more than one answer.",
+    "answers": [
+      "Negative numbers and positive numbers less than 25",
+      "Numbers between 100-200 and numbers between 201-300"
+    ]
+  },
+  {
+    "question": "Which types of programming tasks best describes what you are expected to already have some familiarity with before beginning this course?",
+    "answers": [
+      "numeric computing, data munging, data visualization and data modeling"
+    ]
+  },
+  {
+    "question": "Though the emphasis may change, which two elements are both essential and common to all three process models we talked about?",
+    "answers": ["resolve the business question, feedback loops"]
+  },
+  {
+    "question": "Is the following statement True/False? To succeed in this course you are expected to be proficient in any one of the following: R, Python or Java.",
+    "answers": ["FALSE"]
+  },
+  {
+    "question": "Which of the following is the least accurate statement about the advantages of using process models in data science? Process models generally help by...",
+    "answers": ["speeding up the process of getting through the workflow"]
+  },
+  {
+    "question": "Is the following statement True/False? Design thinking is applied in other domains which helps make the task of communicating the AI workflow to those outside of data science easier.",
+    "answers": ["TRUE"]
+  },
+  {
+    "question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output. Which of the following products represents the most defensible business opportunity.",
+    "answers": [
+      "Create a service that improves on existing audio recognition systems as a richer interface to mobile devices"
+    ]
+  },
+  {
+    "question": "Lets imagine there is a start-up that has a speech-to-text service that incorporates gestures and body language into its output. They offer annotated meeting reports as a product and customers are generally very satisfied, but sales to new customers tend to be very slow to acquire. Which of the following business opportunities should be the highest priority?",
+    "answers": [
+      "Use customer segmentation and/or market analysis to help marketing with new customers"
+    ]
+  },
+  {
+    "question": "Your company is convinced it is time to change the nature of your companies core product and management has come to ask your advise. Which question DOES NOT exemplify scientific thinking in this situation?",
+    "answers": ["Which members of leadership support this decision?"]
+  },
+  {
+    "question": "Is the following statement true or false? CSV files are one of the most commonly used file formats for data science because file input/output is easy they are plain-text, and they work well with commonly used spreadsheet tools.",
+    "answers": ["TRUE"]
+  },
+  {
+    "question": "Which of the following DOES NOT represent a valid relational database to connector relationship?",
+    "answers": ["Berkeley DB --> bsddb"]
+  },
+  {
+    "question": "Which types of data generally work well with sparse matrices?",
+    "answers": ["word counts, user-item matrix for recommendations"]
+  },
+  {
+    "question": "Is the following statement True or False? Sparse matrices from SciPy need to be transformed into a dense matrix before using scikit-learns train-test-split function?",
+    "answers": ["FALSE"]
+  },
+  {
+    "question": "Which fundamental part of the data ingestion process is concerned with to the phrase \"bad data in equals bad data out\"?",
+    "answers": ["Implement several checks for quality assurance"]
+  },
+  {
+    "question": "Which of the following is most concerned with ensuring deployed models scale well with added users?",
+    "answers": ["data engineer"]
+  },
+  {
+    "question": "Which of the following is NOT normally a part of the EDA process",
+    "answers": ["Predictive linear or logistic regression"]
+  },
+  {
+    "question": "True/False. The EDA process is decoupled from modeling and cannot be used to help esitmate the time it will take to complete a modeling procedure",
+    "answers": ["False"]
+  },
+  {
+    "question": "The three types of missingss discussed during this module were:",
+    "answers": ["E. MCAR, MNAR, MAR"]
+  },
+  {
+    "question": "Which statement is the least true about using Jupyter notebooks in the context of EDA",
+    "answers": ["A. They naturally lend themselves to version control systems"]
+  },
+  {
+    "question": "Which of the following is the least valid statement when it comes to dashboards?",
+    "answers": ["D. Dashboards are quick way to create portable simple plots"]
+  },
+  {
+    "question": "A data scientist at Company Z sorted the survey responses by whether the respondents used Product 1 or Product 2 and then compiled their ages: 1 2 3 4 5 p1_ages = [25., 32., 20., 18., 28., 32., 31., 19., 34., 34., 23., 29., 17., 23., 25., 31., 32., 29., 29., 24., 22., 28., 26., 24., 23.] p2_ages = [20., 25., 27., 19., 22., 26., 24., 27., 24., 20., 25., 28., 18., 19., 23., 28., 19., 19., 19., 25., 29., 26., 23., 23., 22.] Of the hypothesis test discussed in these contents what one is the most appropriate for testing the following hypothesis? There is no age difference, on average, between the users of product 1 and the users of product 2",
+    "answers": ["(D) A 2-sample unequal variances t-test"]
+  },
+  {
+    "question": "Suppose that on average 2.5% of visitors to your website sign up for your newsletter. In a recent week, 2701 visitors out of a total of 108879 signed up. Using a binomial distribution. What is the probability that number of visitors who signed up is 2701 or fewer?",
+    "answers": ["B. 0.346"]
+  },
+  {
+    "question": "True/False. If there customer churn were quantified using a Poisson distribution, then a bootstrap could be used to quantify the uncertainty associated with the estimate.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is NOT and example of a valid strategy to deal with the multiple comparisons problem?",
+    "answers": [
+      "C. Perform all comparisons then only keep the single test that performs the best"
+    ]
+  },
+  {
+    "question": "Which of the following is statements is the least correct in the context of the EDA process",
+    "answers": [
+      "D. The EDA process can be used to help predict time to completion for a project"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a data manipulation that is NOT considered reproducible research?",
+    "answers": ["C. The use of proprietary tools to carry out research"]
+  },
+  {
+    "question": "True/False. The seaborn pairplot and other seaborn plotting functions exist as distinct tools from the plots available through matplotlib.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In the continuing AAVAIL streaming case study example, one of the data features that can be useful in answering questions about customer churn is the total number of streams that a customer has watched. Imagine that you are working with a dataset where 10% of customers are missing this feature. A good place to start would be to go back and see if it’s possible to gather this information from the user logs, but assuming that this initiative is unsuccessful, you will have to decide what to do about this missing data. Which course of action is LEAST likely to be helpful in modeling churn?",
+    "answers": [
+      "A. Replace the missing stream count with the mean stream count among users where this information is available."
+    ]
+  },
+  {
+    "question": "What is the main reason for using multiple imputation?",
+    "answers": [
+      "C. Multiple imputation helps to better characterize the error introduced by replacing missing/unknown data with some chosen values."
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an example of assumption that you work with when making probability statements about a sample of data?",
+    "answers": [
+      "E. That the probability statement applies to one observation at a time in a data set"
+    ]
+  },
+  {
+    "question": "There are many ways to carry out statistical inference. Which one method of the following is NOT used to compute estimates in the context of statistical inference.",
+    "answers": ["A. Null Hypothesis Significance Testing (NHST)"]
+  },
+  {
+    "question": "Company Z sent out a user satisfaction survey to its customers that included some demographic questions. They want to determine if there is a difference in the age among users of Product 1 versus users of Product 2 (at least among the survey respondents). Which of the following is an appropriate null hypothesis for this study?",
+    "answers": [
+      "C. Users of Product 1 and Product 2 are on average the same age."
+    ]
+  },
+  {
+    "question": "It is day one on the job and you need to come up with a plan—how do you begin?",
+    "answers": [
+      "Get the perspective from management and follow the leads they might provide"
+    ]
+  },
+  {
+    "question": "In order to come up with the back-of-the-envelope ROI calculation for this project, how might you approach it?",
+    "answers": [
+      "D. Number of active users X Yearly payment - estimate for cost of project time"
+    ]
+  },
+  {
+    "question": "Thinking with the lens of the scientific process, what would your next steps be if you wanted to decide where to open the next store for your sled business?",
+    "answers": [
+      "Gather different data say snowfall by county and repeat the experiment"
+    ]
+  },
+  {
+    "question": "When embarking on a data science project, why do you ultimately want to format your data so that it can be housed in something like a Pandas DataFrame or NumPy Array?",
+    "answers": [
+      "Nearly all modeling algorithms take input data in a tabular format analogous to format of DataFrames/Arrays."
+    ]
+  },
+  {
+    "question": "Which tasks should be included in a data ingestion pipeline? (Choose one or more)",
+    "answers": [
+      "A. Account for missing data, faulty data, repeated observations and other data integrity issues",
+      "B. Ensure that expected data is returned given a specific set of parameters",
+      "C. Ensure that an expected format is returned"
+    ]
+  },
+  {
+    "question": "Sparse matrices can be useful as a target destination for ETL, but what are the main caveats (choose one or more)?",
+    "answers": [
+      "B. NumPy linear algebra functions generally cannot be called directly",
+      "C. Saving to disk is not possible directly from a scipy.sparse format",
+      "E. It is difficult to print to screen scipy.sparse matrices directly"
+    ]
+  },
+  {
+    "question": "The .fit_transform method corresponds to which scikit-learn interface(s)? Choose one answer.",
+    "answers": ["Transformer, Estimator"]
+  },
+  {
+    "question": "True/False. A principal reason for emphasizing the use of pipelines in the AI workflow is to have a consistent platform that enables comparison of many variants of the workflow.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following statements describes the best strategy to address class imbalance?",
+    "answers": [
+      "Compare re-sampling approaches to a baseline and to detection algorithms."
+    ]
+  },
+  {
+    "question": "Which of the following statements is not a feature of the package imbalanced-learn imbalance?",
+    "answers": ["Has outlier detection algorithm packaged as part of library"]
+  },
+  {
+    "question": "Which of the following statements does not describe valid use case for dimensionality reduction?",
+    "answers": ["Down-sampling of the majority class"]
+  },
+  {
+    "question": "True/False. tSNE is a reasonable alternative to PCA because it describes a wider variety of structures. However, it is still recommended to use another dimensionality reduction method, like PCA if the number of features is very high.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which statement best describes why visualization of topics can have an impact on the business opportunity?",
+    "answers": [
+      "Because domain experts can visually inspect the validity of the topics"
+    ]
+  },
+  {
+    "question": "You are asked to build a recommendation engine for new products at an online retailer. Which of the following features is the least likely to be a protected attribute? Recall that a protected attribute is one that may contain privileged and unprivileged classes.",
+    "answers": ["purchase history"]
+  },
+  {
+    "question": "True/False. The API for the reweighting algorithm has a number of custom methods that will require you to consult the documentation to ensure appropriate use.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which outlier detection method is known to work well on high-dimensional data?",
+    "answers": ["One Class SVM"]
+  },
+  {
+    "question": "True/False. In an imbalanced dataset if the minority class represents less than 5% of all of the samples then outlier detection algorithms must be used in place of other supervised learning algorithms.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which clustering method can be readily applied to graphs?",
+    "answers": ["Spectral clustering"]
+  },
+  {
+    "question": "Which of the following clustering methods does not need to set the number of clusters?",
+    "answers": ["Dirichlet process Gaussian mixture models"]
+  },
+  {
+    "question": "True/False. In the clustering case study, the suggested re-sampling methods drove a major improvement in model performance.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True/False. In the context of customer profiling and the AAVAIL data set it makes sense to first perform a dimension reduction technique like PCA before running the model through a clustering estimator.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which scikit-learn API interface would be used to carry out feature engineering with a domain expert?",
+    "answers": ["Transformer"]
+  },
+  {
+    "question": "Which variant of SMOTE is most appropriate when you have a mixture of categorical and continuous variables?",
+    "answers": ["SMOTENC"]
+  },
+  {
+    "question": "Which of the following is not an example of a technique used for dimensionality reduction technique?",
+    "answers": ["K-nearest neighbors"]
+  },
+  {
+    "question": "When printing the most representative words from each topic what best describes the insight we gain?",
+    "answers": [
+      "The topics are defined by their representative words and the document is a mixture of these topics"
+    ]
+  },
+  {
+    "question": "For credit applications, which of the following types of patterns would be the most undesirable for a supervised learning algorithm to use?",
+    "answers": ["Given salary > 50K and the degree name"]
+  },
+  {
+    "question": "Which of the following is not an example of an outlier detection algorithms?",
+    "answers": ["Adaptive Synthetic (ADASYN)"]
+  },
+  {
+    "question": "Which of the following is NOT considered a reasonable metric to choose the number of clusters?",
+    "answers": ["Adjusted Rand index"]
+  },
+  {
+    "question": "What is the number of profiles or clusters for this particular dataset?",
+    "answers": ["6-8"]
+  },
+  {
+    "question": "If we have a situation where false positive is not as potentially costly as a false negative say flagging comments for manual review based on suspected unlawful activity, which of the following is the best approach to consider?",
+    "answers": ["Use recall as the evaluation metric"]
+  },
+  {
+    "question": "True/False. All classifiers in scikit-learn do multi-class classification out-of-the-box. These classifiers can differ in their approach though (e.g one-vs-all or one-vs-one).",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is not an example of a generalized linear model (GLM)?",
+    "answers": ["KNN regression"]
+  },
+  {
+    "question": "True/False. Models in the generalized linear mixture model (GLMM) family like multilevel models are generally optimized using sophisticated techniques like MCMC sampling.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When you use Watson Services like Watson Natural Language Understanding via the Python SDK, what are the three items that need to be saved? These items are generally saved on a local machine and included in scripts and notebooks as imported variables.",
+    "answers": ["service API key, service version, service URL"]
+  },
+  {
+    "question": "Which of the following does not describe a feature of the Watson Natural Language Understanding service?",
+    "answers": [
+      "Perform document classification tasks using a custom model built from text"
+    ]
+  },
+  {
+    "question": "Which of the following is not an example of a relevant question when tuning a NLP classification pipeline?",
+    "answers": ["Should I use RMSE or MAE as an evaluation metric?"]
+  },
+  {
+    "question": "True/False. Bagging and boosting ensemble methods both use only decision trees as base classifiers. The difference is in the bias and variance of the individual trees.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True/False. A decision tree classifier is useful as a model for the AAVAIL subscriber churn data.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following was not discussed as a tunable parameter of a neural network?",
+    "answers": ["Hardware availability"]
+  },
+  {
+    "question": "True/False. Transfer learning is a recent advancement to come out of the field of reinforcement learning.",
+    "answers": ["False"]
+  },
+  {
+    "question": "When training a custom classifier in Watson Visual Recognition the negative images should be:",
+    "answers": ["Visually distinct from the positive images"]
+  },
+  {
+    "question": "True/False. The Watson Visual Recognition service can only be accessed using an API key via Python or curl.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following use cases is the least appropriate use case for a convolutional neural network?",
+    "answers": ["Image composition"]
+  },
+  {
+    "question": "True/False. A typical convolutional neural network is constructed using a combination of convolutional, pooling and dense layers.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A simple CNN that runs on all ten classes and uses all of the data obtains approximately what level of accuracy?",
+    "answers": ["90-94%"]
+  },
+  {
+    "question": "True/False. All images must be downloaded and saved locally before you can call classify from the connected IBM Watson Visual Recognition service.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following neural network architectures are most-commonly used for time-series analysis?",
+    "answers": ["Recurrent neural networks"]
+  },
+  {
+    "question": "Which of the following model is not an example of an ensemble approach to learning?",
+    "answers": ["Decision tree"]
+  },
+  {
+    "question": "Processing the corpus with the provided lemmatize_document reduces the total number of tokens to what percentage of the original?",
+    "answers": ["45-50%"]
+  },
+  {
+    "question": "What important feature of the Watson NLU API do we have to ensure so that we can repeat an experiment in the future in a reproducible way?",
+    "answers": ["Passing a version argument with each request"]
+  },
+  {
+    "question": "Which of the following is not an example of a variant/application of gradient decent that we have covered?",
+    "answers": ["regularized gradient decent"]
+  },
+  {
+    "question": "If you have data with a large number of features and you are sure that it will take some time to train and tune the model, which approach is LEAST likely to result in a speed improvement during grid-searching?",
+    "answers": ["Use the Shuffle and split form of cross-validation"]
+  },
+  {
+    "question": "In which situation would you most strongly consider MAE over RMSE as a regression metric?",
+    "answers": [
+      "like predicting time to failure for a machine where we expect a long tailed distribution of values"
+    ]
+  },
+  {
+    "question": "Which of the following is not a valid way to pass parameter to a Spark MLlib model?",
+    "answers": ["Pass a pickle file when the model is declared"]
+  },
+  {
+    "question": "True/False. Spark MLlib has several estimators and transformers, but it lacks basic tooling for natural language processing (NLP) like the ability to make term frequency-inverse document frequency (TF-IDF) transformations.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which phrase most accurately reflects what is meant by the cold start problem in recommendation systems?",
+    "answers": [
+      "E. When a new user or new item is introduced and the recommendations depend on similarities"
+    ]
+  },
+  {
+    "question": "True/False. Matrix factorization is commonly associated with collaborative filtering recommender systems.",
+    "answers": ["True"]
+  },
+  {
+    "question": "When you worked on model deployment case study, which modification to the ALS algorithm had the largest effect on model performance?",
+    "answers": ["The lambda or regularization parameter"]
+  },
+  {
+    "question": "True/False. The Spark collaborative filtering implementation is built by default for explict feedback, but it can be used with implicit feedback just as easily.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following lists contains one or more references to a technology that is not a specific python package used to speed up and improve the performance of python code?",
+    "answers": ["subprocessing, symmetric-multiprocessing"]
+  },
+  {
+    "question": "A Spark cluster is generally managed using a Docker container and a YAML file.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following is least likely to be a use case for Docker containers?",
+    "answers": ["Replacement for a standard virtual machine"]
+  },
+  {
+    "question": "Docker images are the basis of containers. It is possible to pull an image from the registry and ask the Docker client to run a container based on that image. Some images are official while many others are user defined.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What is the principal reason to create a virtual environment before creating your model locally?",
+    "answers": [
+      "Because it ensures that locally created/trained models are compatible with Watson Machine Learning"
+    ]
+  },
+  {
+    "question": "True/False. You may only pass a pickle file to save your model in the your Watson Machine Learning library.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Docker containers run a private file system that is isolated from the host and other containers. What is the suggested way to access notebooks and scripts from within the container?",
+    "answers": ["volumes"]
+  },
+  {
+    "question": "Which type of recommender system is readily available in Spark Machine learning?",
+    "answers": ["Collaborative-based recommender systems"]
+  },
+  {
+    "question": "True/False. The Spark ML API uses DataFrames from Spark SQL. They can hold a variety of data types with different columns for storing text including: feature vectors, truth labels, and predictions.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are the two steps that must be carried out if you want to iterate locally on a model then deploy it to the Watson Machine Learning (WML) service?",
+    "answers": ["Provision a WML service & create a Python virtual environment"]
+  },
+  {
+    "question": "True/False. It is reasonable to think of the commands in a Dockerfile as a step-by-step recipe on how to build up a Docker image.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True/False. If we continue to add GPUs or other computational resources, the time it takes to train a model will always continue to decrease.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In the context of the AI workflow presented in these materials which of the following is not an example of a valid feedback loop?",
+    "answers": [
+      "Moving from the business opportunity and data collection to model iteration"
+    ]
+  },
+  {
+    "question": "True/False. It is critical in machine learning model deployment workflows to ensure close to 100% test coverage before production.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Common sources of performance drift include:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which list contains one or more elements that were presented as non-essential when creating a logging system to monitor the performance of a machine learning model that has been deployed.",
+    "answers": ["request_type, input data"]
+  },
+  {
+    "question": "Which of the following are three services provided by IBM Watson OpenScale?",
+    "answers": ["Drift Monitoring, Fairness, Explainability"]
+  },
+  {
+    "question": "True/False. IBM Watson OpenScale only works with models that have been built on, and deployed by, IBM Watson Stuido.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is Port Forwarding in Docker?",
+    "answers": [
+      "Allowing data to be passed in and out of a docker container and controlling which applications can do this"
+    ]
+  },
+  {
+    "question": "True/False. The date and time of a transaction should never be logged because this will only reflect past transactions and is not relevant to the performance of predictions on an on-going basis.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the purpose of kubectl in kubernetes?",
+    "answers": ["The CLI for communicating with the kubernetes cluster"]
+  },
+  {
+    "question": "True/False. A Kubernetes pod can contain multiple kubernetes deployments",
+    "answers": ["False"]
+  },
+  {
+    "question": "AAVAIL Management has described their needs to you in the language of business. How would you describe this project in the language of Data Science?",
+    "answers": ["Regression Analysis"]
+  },
+  {
+    "question": "When you compiled the JSON files into a single DataFrame or NumPy array, about how many days did the entire range of dates span?",
+    "answers": ["500"]
+  },
+  {
+    "question": "Which country had the most total revenue when you summed across all purchases?",
+    "answers": ["United Kingdom"]
+  },
+  {
+    "question": "There are many established methods from the literature that may be used to analyze time-series data. Classical machine learning techniques can also be used, but which of the following is the most important caveat to keep in mind when employing this approach?",
+    "answers": [
+      "A specialized strategy that uses recursion (for example) or multiple models must be employed for multipoint forecasting"
+    ]
+  },
+  {
+    "question": "When the data are pivoted and summarized across days which of the following features were the most difficult to include as a summarized or engineered feature?",
+    "answers": ["customer_id"]
+  },
+  {
+    "question": "The time-series plots using a day time interval for revenue, purchases and total_views revealed many similarities. Which part of the year indicated a trend for the highest level of activity?",
+    "answers": ["November-December"]
+  },
+  {
+    "question": "Your Flask application needs to error check the input when making a prediction. Which features need to be provided (at a minimum) as input given the context of this business opportunity?",
+    "answers": ["The target date and country"]
+  },
+  {
+    "question": "True/False. Unit testing and novelty detection provide an automated mechanism to monitor model performance.",
+    "answers": ["True"]
+  },
+  {
+    "question": "To move through the AI enterprise workflow quickly, we used the concept of workflow templates. Which of the following aspects of the template contributes the least to the re-usability of these templates?",
+    "answers": ["Have an HTML endpoint for the Flask app to create dashboards"]
+  },
+  {
+    "question": "What is the purpose of Minikube in the context of Kubernetes?",
+    "answers": [
+      "It launches a Kubernetes cluster locally within a virtual machine or directly on the host"
+    ]
+  },
+  {
+    "question": "Model accuracy metrics such as precision, recall and F1 scores provide objective evidence of fairness.",
+    "answers": ["False"]
+  },
+  {
+    "question": "To pass a query to an API endpoint that has been set up to run inside of a Docker container, which of the following best describes the formats that have been used in the presented deployment workflows?",
+    "answers": ["JSON"]
+  },
+  {
+    "question": "True/False. When logging for the predict endpoint, runtime is considered an optional feature to be monitored.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following was not mentioned as a reason to bundle unit tests with a deployed model?",
+    "answers": ["they perform the workflow feedback loops"]
+  },
+  {
+    "question": "Using the Café Sherlock example: How do you ensure new games drive revenue? Take the time to write down 2 ways you could validate the core business question into a testable hypothesis.",
+    "answers": [
+      "Hypothesis 1: If a new game is introduced at Café Sherlock, then the average spend per customer will increase by at least 10% over a 4-week period. Hypothesis 2: If a new game is introduced at Café Sherlock, then customer visit frequency will increase by at least 15% over the following month."
+    ]
+  },
+  {
+    "question": "If you were to munge the data into a pandas.DataFrame which of the following would describe a reasonable goal for the cleaning process?",
+    "answers": [
+      "transactions on the rows and items like customer_name and item_id on the columns"
+    ]
+  },
+  {
+    "question": "Our model performed very well (see below), possibly because Dr. Holmes and Dr. Watson are described in very different ways in the stories, but it could be something else. 1 2 3 4 5 6 7 8 precision recall f1-score support sherlock 0.96 1.00 0.98 150 watson 1.00 0.83 0.91 36 accuracy 0.97 186 macro avg 0.98 0.92 0.94 186 weighted avg 0.97 0.97 0.97 186 These results are not directly related to revenue, but for the sake of the example let's assume you needed a decent version of this model to craft a new game. Take a minute to think about how you would interpret these results.",
+    "answers": [
+      "The model performs very well overall, accurately identifying Sherlock with perfect recall and high precision. For Watson, it has perfect precision but lower recall, meaning it misses some Watson instances. This suggests the model is reliable but could improve on capturing all Watson examples to enhance balance and accuracy for game development."
+    ]
+  }
+]

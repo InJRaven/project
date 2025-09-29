@@ -1290,14 +1290,6 @@
     "answers": ["COPPA"]
   },
   {
-    "question": "Which of these is not allowed in the Coursera Community? (Select all that apply)",
-    "answers": [
-      "Sharing quiz answer screenshots",
-      "Sharing personal information such as phone number, email, or address",
-      "Sharing links to external groups"
-    ]
-  },
-  {
     "question": "Which advertising tool on Facebook implements the simplest, and least detailed, way to create a Facebook ad?",
     "answers": [
       "Advertising from your Business Page",
@@ -1593,30 +1585,6 @@
   {
     "question": "If you were presenting your data results, and wanted to talk about much you spent to get a new customer, what number would you include?",
     "answers": ["CAC"]
-  },
-
-  {
-    "question": "Which of the following actions should you take if you see a post asking you to join a WhatsApp, Discord, or other external group for help with the course?",
-    "answers": [
-      "Do not join the group. Report the post and flag it as suspicious."
-    ]
-  },
-  {
-    "question": "When reporting an issue or requesting help regarding a specific course item in the Questions & Support tab, which details should you include? (Select all that apply)",
-    "answers": [
-      "Activity Name",
-      "Screenshot (if applicable)",
-      "Description of the issue",
-      "Module number",
-      "Course name"
-    ]
-  },
-  {
-    "question": "How can you identify official moderators in the Coursera Community? (Select all that apply)",
-    "answers": [
-      "They have \"Group Moderator\" in their name.",
-      "Annie H and Jasmin R are official Coursera moderators"
-    ]
   },
   {
     "question": "DCB Cleaning ran an $800 campaign for businesses with new locations, offering one month of cleaning services for $300. They had 10 new clients sign up. What was the ROAS of the campaign?",
@@ -3019,5 +2987,2603 @@
   {
     "question": "It's the day of your presentation, and you do NOT need to call IT. Why?",
     "answers": ["All of the above"]
+  },
+  {
+    "question": "A business wants to increase both reach and customer engagement on social media. Which approach combines free and paid strategies to achieve this goal?",
+    "answers": [
+      "Create engaging content while using targeted ads to reach a wider audience"
+    ]
+  },
+  {
+    "question": "A nonprofit is planning a fundraising campaign and wants to maximize donations without incurring platform fees. Which social media tool is best suited for this goal?",
+    "answers": ["Facebook's charitable giving tools"]
+  },
+  {
+    "question": "A nonprofit wants to raise awareness for endangered species. They have created a campaign that shares disappearing images on Snapchat with the hashtag #LastSelfie. What is the primary purpose of this strategy?",
+    "answers": [
+      "To engage supporters and drive viral awareness through social sharing"
+    ]
+  },
+  {
+    "question": "A company has recently joined Instagram. What is one way they can strategically use both free and paid tools on the platform to achieve business goals?",
+    "answers": ["Post regularly and run targeted ad campaigns"]
+  },
+  {
+    "question": "A small business wants to grow its brand using social media. What is the first step they should take?",
+    "answers": [
+      "Identify their target audience and select the best platforms for engagement"
+    ]
+  },
+  {
+    "question": "Which of the following is a key advantage of digital marketing compared to traditional marketing?",
+    "answers": [
+      "The ability to track engagement and adjust strategies in real time"
+    ]
+  },
+  {
+    "question": "A business has a small budget but wants to grow its online presence. What is the best way for them to increase brand awareness for free?",
+    "answers": [
+      "Posting engaging content, responding to customer comments and encouraging user-generated content"
+    ]
+  },
+  {
+    "question": "What is one major difference between traditional and digital marketing?",
+    "answers": [
+      "Digital marketing allows businesses to target specific audiences, while traditional marketing typically reaches a broad audience"
+    ]
+  },
+  {
+    "question": "A business is creating a marketing strategy and wants to include social media. How does social media marketing fit into digital marketing?",
+    "answers": [
+      "It is a type of digital marketing that focuses on engaging audiences through social media platforms"
+    ]
+  },
+  {
+    "question": "A new business is launching on social media and wants to gain followers and drive sales. What strategy should they use?",
+    "answers": [
+      "Posting engaging content regularly and using paid ads to reach new customers"
+    ]
+  },
+  {
+    "question": "A nonprofit organization wants to raise awareness and funds for a cause using social media. What is the best way to achieve this?",
+    "answers": [
+      "Sharing stories, using visuals and encouraging supporters to spread the message"
+    ]
+  },
+  {
+    "question": "A clothing brand wants to connect with customers online without directly pushing sales. Which marketing strategy would be most effective?",
+    "answers": [
+      "Posting fashion tips, style guides and trend reports on their blog and social media"
+    ]
+  },
+  {
+    "question": "A local restaurant wants to build stronger relationships with customers through Facebook. Which approach aligns with how other businesses use the platform to engage their audience?",
+    "answers": [
+      "The restaurant can create a Facebook page to post updates, host events, and share content to encourage community interaction."
+    ]
+  },
+  {
+    "question": "A business is launching a new product and wants to promote it through video content. How can YouTube's features support this goal?",
+    "answers": [
+      "The business can create a YouTube channel, organize videos into playlists, and promote content with video ads."
+    ]
+  },
+  {
+    "question": "A business needs to manage customer communications efficiently using messaging platforms. Which key features would help accomplish this on both WhatsApp and Messenger?",
+    "answers": [
+      "WhatsApp offers contact labels to organize customers, while Messenger supports automated responses for quick replies."
+    ]
+  },
+  {
+    "question": "A clothing brand wants to increase audience engagement on Instagram. Which strategy would best achieve this?",
+    "answers": [
+      "The brand can use Instagram Stories to post behind-the-scenes content and create interactive polls and questions."
+    ]
+  },
+  {
+    "question": "A job seeker wants to use LinkedIn to grow their professional network. What key features of LinkedIn can help them achieve this goal?",
+    "answers": [
+      "The job seeker can create a profile showcasing their job history, skills, and accomplishments, and connect with other professionals."
+    ]
+  },
+  {
+    "question": "A local bakery wants to share updates, post videos and images, and interact with customers online. Which platform would be the best choice?",
+    "answers": ["Facebook"]
+  },
+  {
+    "question": "A fitness influencer wants to attract more views and engagement on TikTok. What is the best way to achieve this?",
+    "answers": [
+      "Create short, engaging workout videos with trending music and relevant hashtags"
+    ]
+  },
+  {
+    "question": "A local gym just opened and wants to attract members through Facebook. What’s the best first step?",
+    "answers": ["Create a Facebook Business Page and post regular updates"]
+  },
+  {
+    "question": "A fitness coach wants to stand out on YouTube while attracting more subscribers. What is the best strategy?",
+    "answers": [
+      "Develop a series of well-produced workout challenges with interactive elements and audience participation"
+    ]
+  },
+  {
+    "question": "Which Messenger feature allows businesses to let customers book appointments directly within the app?",
+    "answers": ["Appointment scheduling"]
+  },
+  {
+    "question": "A travel blogger wants to grow their audience on Instagram. They are considering different ways to attract new followers. Which strategy would work best?",
+    "answers": [
+      "Use Instagram Reels to create short, engaging travel videos with trending audio and hashtags"
+    ]
+  },
+  {
+    "question": "A business consultant wants to generate leads on LinkedIn. They know they need to expand their reach but aren’t sure how to get started. What is the best strategy?",
+    "answers": [
+      "Share valuable content, engage with industry discussions, and connect with potential clients"
+    ]
+  },
+  {
+    "question": "A personal trainer wants to grow their client base using TikTok. They see that fitness content is popular on the platform but aren’t sure how to make their videos stand out. What is the best strategy?",
+    "answers": [
+      "Create high-energy, short workout clips with trending sounds and clear fitness tips"
+    ]
+  },
+  {
+    "question": "Imra runs a flower business and wants to promote her new website for online orders. Which of the following is an example of a measurable success metric Imra could use to track her goal?",
+    "answers": ["Increase website visits to 10,000 in May"]
+  },
+  {
+    "question": "Why is it crucial to establish clear marketing goals before launching a campaign?",
+    "answers": ["To align efforts and evaluate success"]
+  },
+  {
+    "question": "James manages marketing for a cleaning service launching a new product, SnackWall. His manager gives him the goal: \"Achieve a 25% client enrollment in SnackWall.\" What additional information does James need to make this a SMART goal?",
+    "answers": ["A timeline to achieve the goal"]
+  },
+  {
+    "question": "Imra wants to launch a campaign to boost her online flower sales. She sets the goal: \"Increase online flower sales by 50%.\" What changes should Imra make for this goal to fully meet all components of the SMART framework?",
+    "answers": ["Add a timeline and clarify how sales will be tracked"]
+  },
+  {
+    "question": "Imra sets a goal to achieve $50,000 in online flower sales within 6 months. How does this goal meet the ‘measurable’ criterion of SMART?",
+    "answers": [
+      "It includes a clear sales target that can be tracked over time"
+    ]
+  },
+  {
+    "question": "James, the social media manager at DCB Cleaning, needs to track the performance of the new SnackWall service. His goal is to enroll 25% of existing clients within 6 months. Which KPI should James track?",
+    "answers": ["Number of SnackWall subscribers"]
+  },
+  {
+    "question": "Imra is launching a new floral subscription service. Her marketing goal is to gain 500 subscribers in 3 months. Which of the following best describes this goal?",
+    "answers": ["A specific and measurable marketing goal"]
+  },
+  {
+    "question": "Jordan’s team sets a marketing goal to \"increase customer sign-ups by 25% in six months.\" They create a subgoal to \"launch a referral program next quarter\" and track referral conversions to support this. How does a subgoal differ from a KPI or a SMART goal?",
+    "answers": [
+      "A subgoal outlines a smaller step toward achieving a broader goal, while a KPI measures progress and a SMART goal ensures the goal is clearly defined"
+    ]
+  },
+  {
+    "question": "Luis manages a home décor brand and is launching an email marketing campaign. Why are KPIs essential for his decision-making?",
+    "answers": [
+      "They help track key metrics like email open rates and conversion rates to refine his strategy"
+    ]
+  },
+  {
+    "question": "Liam, the owner of a digital marketing agency, sets a goal: \"Increase client retention by 15%.\" What change would make this goal time-bound?",
+    "answers": [
+      "Setting a deadline, such as \"Increase client retention by 15% within the next six months.\""
+    ]
+  },
+  {
+    "question": "Maya is running a paid advertising campaign for her e-commerce store. Which KPI should she monitor to measure ad effectiveness?",
+    "answers": [
+      "Return on ad spend (ROAS) tracks revenue generated per dollar spent on ads"
+    ]
+  },
+  {
+    "question": "Raj wants to grow his podcast audience. His goal is to \"increase podcast downloads by 20% in 4 months.\" What is the primary purpose of this goal?",
+    "answers": ["To increase audience engagement and reach"]
+  },
+  {
+    "question": "Mia owns a handmade jewelry business and sets a goal to \"increase sales by 500% in two weeks.\" What is the main issue with this goal?",
+    "answers": [
+      "It is not achievable given the short timeframe and drastic increase in sales required"
+    ]
+  },
+  {
+    "question": "Amara is running a crowdfunding campaign for her sustainable fashion brand. She wants to ensure her marketing efforts are effective. Why are KPIs essential in this situation?",
+    "answers": [
+      "They allow her to track performance and adjust strategies if needed"
+    ]
+  },
+  {
+    "question": "Mila is identifying the target audience for her artisanal candle business. She describes her ideal customers as individuals aged 25 to 45 who live in urban areas and have a passion for home decor. What characteristic is Mila using to describe her target audience?",
+    "answers": ["Demographics"]
+  },
+  {
+    "question": "Tom owns a local bakery and wants to identify his target audience. Based on the practices described by Imra at Calla & Ivy, what should Tom consider when defining his target audience?",
+    "answers": ["Common needs, demographics, interests and behaviors."]
+  },
+  {
+    "question": "Sara is researching her target audience for an eco-friendly cleaning product. She finds that many potential customers frequently visit sustainability blogs and follow eco-conscious influencers. What characteristic is Sara identifying?",
+    "answers": ["Behaviors"]
+  },
+  {
+    "question": "Sophia runs an online boutique selling handmade jewelry. She wants to refine her marketing to attract more repeat customers. What is the most effective strategy for Sophia to define and target the right audience?",
+    "answers": [
+      "Analyze purchase history, website traffic and customer engagement data to create personalized campaigns"
+    ]
+  },
+  {
+    "question": "Daisy runs an online jewelry boutique and notices that many repeat customers follow fashion influencers and frequently engage with Instagram posts about sustainable fashion. What category does this characteristic fall under?",
+    "answers": ["Interests"]
+  },
+  {
+    "question": "Rachel wants to understand how to move customers through the stages of the customer journey. What should she focus on?",
+    "answers": [
+      "Identifying key moments where marketing can encourage progress"
+    ]
+  },
+  {
+    "question": "Victor is launching a new brand of eco-friendly sneakers. He wants to attract customers who have never heard of his product before. What should he focus on?",
+    "answers": ["Creating awareness"]
+  },
+  {
+    "question": "Carlos owns a custom furniture business. He notices that potential customers visit his website and browse different designs but don’t make a purchase right away. To keep them engaged, he sends follow-up emails showcasing customer reviews and behind-the-scenes videos of the craftsmanship. What stage of the customer journey is Carlos focusing on?",
+    "answers": ["Interest"]
+  },
+  {
+    "question": "Lena owns a subscription meal service and wants to increase sign-ups. She notices that potential customers visit her website and browse meal plans but don’t sign up. To keep them engaged, she offers an interactive quiz to help them find the best meal plan for their needs. Which stage of the customer journey is she targeting?",
+    "answers": ["Interest"]
+  },
+  {
+    "question": "Lucas owns a specialty coffee brand. His research shows that his core customers are working professionals who buy high-end coffee beans regularly. However, he notices that students occasionally purchase his products as gifts. How should Lucas categorize these groups?",
+    "answers": [
+      "Working professionals are the primary audience, and students are the secondary audience."
+    ]
+  },
+  {
+    "question": "Tasha owns an online bookstore. She notices that many visitors read book reviews on her website but don’t make a purchase. To encourage them, she introduces a “Buy One, Get One 50% Off” promotion for first-time buyers. Which stage of the customer journey is she targeting?",
+    "answers": ["Conversion"]
+  },
+  {
+    "question": "Sophie is launching a subscription box service for organic skincare products. She wants to define her ideal customers so she can tailor her marketing strategy. Which of the following would be the most effective way to define her target audience?",
+    "answers": [
+      "Identify their demographics, interests and behaviors to create a detailed customer persona"
+    ]
+  },
+  {
+    "question": "Imra wants customers to spread the word about Calla & Ivy's bouquets. What strategy should she use?",
+    "answers": ["Offer referral incentives and request online reviews"]
+  },
+  {
+    "question": "Imra is a florist who wants to increase her social media presence. Her target audience is women between 30 and 55 years old, and she needs a platform to showcase images of her flower bouquets. Which social media platform is the best fit for Imra's needs?",
+    "answers": ["Instagram"]
+  },
+  {
+    "question": "James, who runs a corporate catering service, wants to drive new subscriptions through social media. He has humorous, image-based content ideas and is already active on Facebook. Which platform would complement his current presence and content strategy?",
+    "answers": ["Instagram"]
+  },
+  {
+    "question": "A DIY brand creates how-to craft tutorial videos and wants to attract adult hobbyists to increase tutorial views. The brand needs a platform that supports long-form video content and engages its target audience. Which platform is most suitable for this goal?",
+    "answers": ["YouTube"]
+  },
+  {
+    "question": "A mobile pet grooming service offers convenient, on-location grooming for pet owners in busy urban areas. Based on audience-mapping strategies, who is the primary target audience?",
+    "answers": ["Pet owners living in urban neighborhoods"]
+  },
+  {
+    "question": "A bakery wants to increase online orders while minimizing costs. Based on the guidelines for selecting platforms with limited resources, which option should they choose?",
+    "answers": ["Facebook"]
+  },
+  {
+    "question": "A local gym wants to use social media to increase membership sign-ups. What strategy would be the most effective?",
+    "answers": ["Hosting live workout sessions and interactive Q&As"]
+  },
+  {
+    "question": "A small business wants to use blogging to increase brand credibility. What is the most effective strategy?",
+    "answers": ["Posting high-quality, informative content regularly"]
+  },
+  {
+    "question": "A financial services company wants to prevent employees from sharing confidential information on social media. What is the best policy to implement?",
+    "answers": [
+      "Clearly define what is confidential and provide training on responsible social media use"
+    ]
+  },
+  {
+    "question": "A new coffee shop wants to build an online community and attract local customers. What is the best first step?",
+    "answers": [
+      "Identify their target audience and select platforms where they are most active"
+    ]
+  },
+  {
+    "question": "A company wants to define who manages official social media accounts clearly. What is the best practice?",
+    "answers": [
+      "Assign specific employees or a social media team to manage official accounts"
+    ]
+  },
+  {
+    "question": "A local boutique wants to showcase visually appealing products and drive sales through social media. Which platform should they focus on?",
+    "answers": ["Instagram"]
+  },
+  {
+    "question": "A local bakery wants to improve its social media presence to attract more customers. Which of the following is the best way to ensure its profile is easily recognizable and discoverable?",
+    "answers": [
+      "Use the bakery's name along with a keyword like \"bakery\" in the username"
+    ]
+  },
+  {
+    "question": "A small boutique is setting up its Instagram Business Account. What is the first step the owner must take before accessing Instagram’s business features?",
+    "answers": ["Switch from a personal account to a business account"]
+  },
+  {
+    "question": "A restaurant is creating its Facebook Business Page. Which component is most important to help customers take action, such as making a reservation or placing an order?",
+    "answers": ["A call-to-action button"]
+  },
+  {
+    "question": "Which of the following best describes a key element of a strong brand presence?",
+    "answers": [
+      "A consistent profile name, logo, and brand voice across platforms"
+    ]
+  },
+  {
+    "question": "Lisa is launching a handmade jewelry business and wants to establish a professional social media presence. What is the best first step to take when setting up her profile?",
+    "answers": ["Selecting a strong username and adding contact details"]
+  },
+  {
+    "question": "Jessica is launching a Facebook Business Page for her home decor shop. She wants to encourage customer interaction. Which element should she set up first?",
+    "answers": ["A call-to-action button leading to her online store"]
+  },
+  {
+    "question": "A fashion brand is selecting fonts, colors, and imagery for their marketing materials. Which EPIC framework element are they working on?",
+    "answers": ["Identity"]
+  },
+  {
+    "question": "Samantha is launching an Instagram account for her handmade pottery business. She wants to access business tools such as analytics and contact buttons. What should she do first?",
+    "answers": ["Switch from a personal account to a Business Account"]
+  },
+  {
+    "question": "A food brand has been in business for decades, and customers associate it with tradition and reliability. What branding element strengthens this perception?",
+    "answers": ["Trust"]
+  },
+  {
+    "question": "A skincare brand’s website highlights its founder’s struggle with sensitive skin and the journey to create gentle, all-natural products. How does this story impact the brand?",
+    "answers": [
+      "It builds customer trust by showing authenticity and a personal mission"
+    ]
+  },
+  {
+    "question": "A cosmetics company promotes its mission of using only organic and ethically sourced ingredients. How does this purpose influence its brand?",
+    "answers": [
+      "It helps attract customers who value sustainability and ethical production"
+    ]
+  },
+  {
+    "question": "A café selects an earthy color palette, a hand-drawn logo, and rustic typography to emphasize its commitment to organic and fair-trade products. How does this contribute to its brand identity?",
+    "answers": ["It visually reinforces the brand’s values and mission"]
+  },
+  {
+    "question": "A new restaurant has set up its Instagram Business Account but wants to make it easy for customers to contact them. What should they do next?",
+    "answers": [
+      "Add contact options such as email, phone, or directions to their profile"
+    ]
+  },
+  {
+    "question": "A restaurant wants to build long-term customer loyalty. How can branding help achieve this goal?",
+    "answers": [
+      "Creating a strong emotional connection by aligning with customer values"
+    ]
+  },
+  {
+    "question": "What is one way to make your social media text more engaging?",
+    "answers": ["Use the word \"you\" to create a personal connection"]
+  },
+  {
+    "question": "What is a best practice when selecting an image for a social media post?",
+    "answers": [
+      "Choose an image that aligns with your brand identity and storytelling"
+    ]
+  },
+  {
+    "question": "What is one way to optimize a social media video for audience engagement?",
+    "answers": ["Capture attention within the first five seconds"]
+  },
+  {
+    "question": "What is a key benefit of using a content calendar for social media?",
+    "answers": ["It helps plan and organize posts in advance"]
+  },
+  {
+    "question": "Which of the following is an example of curated content?",
+    "answers": [
+      "Sharing an industry expert’s article on your social media page"
+    ]
+  },
+  {
+    "question": "A small bakery wants to use storyboarding to plan its upcoming social media content. Which of the following would be the best first step?",
+    "answers": [
+      "Defining the goal of the content, such as increasing engagement or driving sales"
+    ]
+  },
+  {
+    "question": "Which of the following types of social media content is most likely to encourage audience participation?",
+    "answers": ["A post that asks a question and invites users to comment"]
+  },
+  {
+    "question": "What is a key reason why businesses should use a content calendar for social media management?",
+    "answers": ["It allows for better planning and consistency in messaging"]
+  },
+  {
+    "question": "Carlos owns a pet grooming business and recently started posting short grooming tutorials on social media. Soon, he noticed an increase in engagement and more customers booking appointments. Why was his approach successful?",
+    "answers": [
+      "He provided valuable content that built trust and encouraged interaction"
+    ]
+  },
+  {
+    "question": "A home decor business is posting about a new furniture collection on Facebook. They include a high-quality image and a brief caption. What else should they add to increase engagement?",
+    "answers": [
+      "A strong call to action that encourages followers to visit their store or website"
+    ]
+  },
+  {
+    "question": "A coffee shop is posting an image of its new seasonal drink. What is the best way to make it visually engaging?",
+    "answers": ["Use natural lighting, a close-up shot, and the rule of thirds"]
+  },
+  {
+    "question": "A tutoring company wants to create an engaging educational video for social media. How can they make the content more engaging for their audience?",
+    "answers": [
+      "Start with a relatable problem and use captions for accessibility"
+    ]
+  },
+  {
+    "question": "A local restaurant wants to share a post about its new seasonal menu. What is the best way to make the text engaging?",
+    "answers": [
+      "Use storytelling to highlight the ingredients and inspiration behind the dishes"
+    ]
+  },
+  {
+    "question": "A fitness studio is sharing a Facebook post about a new class schedule. How can they encourage audience engagement?",
+    "answers": [
+      "Ask a question and encourage followers to comment with their favorite workout time"
+    ]
+  },
+  {
+    "question": "A bakery is announcing a new seasonal pastry on Instagram. What is the best way to write an engaging caption?",
+    "answers": [
+      "Use a friendly tone, emojis, and a short story about the pastry"
+    ]
+  },
+  {
+    "question": "Question prompt goes hereA clothing brand is posting a new outfit collection on Instagram. What is the best way to write a caption that drives engagement?",
+    "answers": ["Use a conversational tone, storytelling, and a call to action"]
+  },
+  {
+    "question": "David is managing a bakery’s Instagram account. He wants to use platform-specific strategies to increase engagement. What should he post?",
+    "answers": ["A short video showing the process of decorating a cake"]
+  },
+  {
+    "question": "James is creating a storyboard for a YouTube tutorial. What should he focus on to ensure clarity?",
+    "answers": ["Organizing the visuals and dialogue into a logical sequence"]
+  },
+  {
+    "question": "A social media team realizes their engagement is lower than expected for their scheduled posts. What should they do to improve their content calendar?",
+    "answers": ["Review analytics and adjust posting times or content types"]
+  },
+  {
+    "question": "A travel blogger has a collection of stunning photos from past trips. How can they repurpose this content creatively?",
+    "answers": ["Create a slideshow video with captions and share it on TikTok"]
+  },
+  {
+    "question": "A clothing brand wants to encourage more people to share its posts. How can they use the concept of \"social currency\" to increase shares?",
+    "answers": [
+      "Create content that makes people look knowledgeable or trendy when they share it"
+    ]
+  },
+  {
+    "question": "A company receives a mix of critical and abusive comments on a new product post. How should they handle these interactions?",
+    "answers": [
+      "Respond professionally to valid criticism but remove harmful or offensive comments"
+    ]
+  },
+  {
+    "question": "A small bakery wants to expand its Instagram following. How can they use hashtags effectively to increase visibility?",
+    "answers": [
+      "Use a mix of trending, niche, and branded hashtags in their posts"
+    ]
+  },
+  {
+    "question": "A marketing team is creating a content calendar to manage their social media strategy. What key components should they include?",
+    "answers": ["Posting dates, content types, platforms, and campaign goals"]
+  },
+  {
+    "question": "A company wants to maximize engagement by repurposing content. What type of content is ideal for repurposing?",
+    "answers": ["Evergreen content that remains relevant over time"]
+  },
+  {
+    "question": "A marketing agency wants to add variety to its social media posts. How can they effectively use curated content?",
+    "answers": ["Share relevant industry articles with added insights"]
+  },
+  {
+    "question": "A small business owner has been posting on social media but isn’t seeing much engagement. They decide to analyze their post-performance using KPIs. Which of the following is an example of an engagement KPI?",
+    "answers": ["Likes, comments and shares"]
+  },
+  {
+    "question": "A marketing team notices a social media post had a high reach but very few interactions. What should they do to improve engagement?",
+    "answers": ["Create more interactive content, such as questions or polls"]
+  },
+  {
+    "question": "A company wants to improve its content strategy by using Meta Business Suite. Which of the following actions can they take to optimize their posts?",
+    "answers": [
+      "Analyze post performance in Meta Business Suite Insights and adjust content accordingly"
+    ]
+  },
+  {
+    "question": "A business wants to track whether their social media efforts are leading to sales. Which metric should they focus on?",
+    "answers": ["Website conversions from social media"]
+  },
+  {
+    "question": "Jake's company wants to track how many social media users visit their website and complete a purchase. Which KPI should they focus on?",
+    "answers": ["Click-through rate and conversion rate"]
+  },
+  {
+    "question": "Sophia manages multiple social media pages and wants to streamline her content posting. How can Meta Business Suite help?",
+    "answers": [
+      "It allows her to schedule and publish posts across Facebook and Instagram from one dashboard"
+    ]
+  },
+  {
+    "question": "Chris wants to assess how well his Facebook Page is performing over time. Which section of Facebook Insights provides an overview of key metrics, including engagement, reach and top-performing posts?",
+    "answers": ["The Insights Home dashboard"]
+  },
+  {
+    "question": "Ethan wants to post at a time when most of his Instagram followers are online. Where can he find this information in Instagram Insights?",
+    "answers": ["The Audience tab, under “Followers”"]
+  },
+  {
+    "question": "David notices that engagement is highest on his posts that go live in the evening. How should he adjust his content calendar?",
+    "answers": ["Schedule more posts in the evening when engagement is highest"]
+  },
+  {
+    "question": "Tina wants to know if her audience finds her posts interesting and valuable. Which metric should she track?",
+    "answers": ["Comments and shares"]
+  },
+  {
+    "question": "Liam notices that his recent posts have a low engagement rate despite high impressions. What does this indicate?",
+    "answers": [
+      "The content is being seen but is not resonating with the audience."
+    ]
+  },
+  {
+    "question": "Lisa sees that younger audiences engage more with her video content, while older audiences engage more with blog links. How should she adjust her strategy?",
+    "answers": [
+      "Create more video content for younger audiences and more blog links for older audiences"
+    ]
+  },
+  {
+    "question": "Jordan’s audience frequently comments that they enjoy behind-the-scenes content. How should he adjust his social media strategy?",
+    "answers": [
+      "Increase behind-the-scenes content while continuing to track audience engagement"
+    ]
+  },
+  {
+    "question": "Why might a business choose to invest in paid social media advertising?",
+    "answers": [
+      "To increase the reach of their posts beyond their current followers."
+    ]
+  },
+  {
+    "question": "What is a key difference between paid social media ads and organic posts?",
+    "answers": [
+      "Paid ads are guaranteed to be displayed to a targeted audience."
+    ]
+  },
+  {
+    "question": "Which platform allows you to send direct sponsored messages to a targeted audience?",
+    "answers": ["LinkedIn"]
+  },
+  {
+    "question": "What is one of the main components of a paid social media ad?",
+    "answers": ["Call to action"]
+  },
+  {
+    "question": "An account's organic posts are getting fewer views, and follower growth has slowed. What should be done to increase visibility among new potential customers?",
+    "answers": [
+      "Invest in paid ads to reach people outside of their current follower base"
+    ]
+  },
+  {
+    "question": "A content creator wants to understand how organic and paid content differ in appearance. What is one key visual distinction?",
+    "answers": [
+      "Paid ads are marked as “sponsored” and often include a call-to-action button"
+    ]
+  },
+  {
+    "question": "A small retail store wants to increase foot traffic using Instagram. Which ad format should be used?",
+    "answers": ["A location-based ad promoting her store to nearby users"]
+  },
+  {
+    "question": "A marketing manager for a B2B company wants to share a downloadable case study with a professional audience. Which platform would best match this goal?",
+    "answers": [
+      "LinkedIn, because it supports whitepapers and business content"
+    ]
+  },
+  {
+    "question": "A campaign features strong copy and visuals, but users drop off after clicking. What’s the most likely issue?",
+    "answers": ["The landing page experience doesn’t match the ad"]
+  },
+  {
+    "question": "A pet grooming company runs an ad showing a happy dog in a tub, but the caption says “Celebrate Summer with 20% Off Cat Collars.” What is the problem with this ad?",
+    "answers": [
+      "The copy and visuals do not match, which can confuse the audience"
+    ]
+  },
+  {
+    "question": "A jewelry company uses ads to reach people most likely to buy engagement rings. They define their audience as “men aged 28–38, recently engaged, living in metropolitan areas.” What does this example demonstrate?",
+    "answers": ["Audience targeting using demographics and life events"]
+  },
+  {
+    "question": "A digital course creator notices users are viewing her ad but not taking the next step. The ad ends with “Thanks for watching!” What change could improve performance?",
+    "answers": ["Add a CTA like “Start Learning Today” to guide action"]
+  },
+  {
+    "question": "A brand launches two ads with the same copy and visuals, but one ad gets significantly more views. The only difference is the bid strategy. What explains this?",
+    "answers": [
+      "The ad with the higher bid is likely to win more placement opportunities in auctions"
+    ]
+  },
+  {
+    "question": "An internal team is developing an ad but struggling with copy and image cohesion. What collaborative step could help?",
+    "answers": [
+      "Share a draft version early with the designer to align on tone and style"
+    ]
+  },
+  {
+    "question": "What is the first step you should take when creating a social media ad campaign?",
+    "answers": ["Define your business objective"]
+  },
+  {
+    "question": "Which metric would you use to measure the effectiveness of a campaign aimed at increasing brand awareness?",
+    "answers": ["Ad Recall Lift"]
+  },
+  {
+    "question": "What is an effective way to create compelling visual assets for social media ads?",
+    "answers": ["Use the Rule of Thirds for composition"]
+  },
+  {
+    "question": "Which of the following is a key element of writing effective ad copy?",
+    "answers": ["Create a strong opening that grabs attention"]
+  },
+  {
+    "question": "A local boutique is launching an ad campaign with the goal of increasing product sales through its website. The team wants to track the campaign’s return on investment. Which KPI would best measure the effectiveness of this campaign?",
+    "answers": ["Return on ad spend (ROAS)"]
+  },
+  {
+    "question": "A fitness brand is shooting video content to use in Facebook and Instagram Stories. They want to make sure the content performs well on mobile devices. What filming approach should they use?",
+    "answers": ["Record vertical videos to fit mobile screens"]
+  },
+  {
+    "question": "A startup without in-house designers hires a freelance animator to help with a new ad campaign. What is a benefit of working with an external creative professional?",
+    "answers": [
+      "External experts bring specific skills not available internally"
+    ]
+  },
+  {
+    "question": "A designer receives a creative brief for a paid ad campaign and reviews the section describing the problem the product solves and what sets it apart. What part of the brief is the designer most likely reading?",
+    "answers": ["The offer and key benefit"]
+  },
+  {
+    "question": "A local bakery is taking photos of its seasonal treats for a holiday campaign. The team wants the visuals to feel polished and eye-catching on social media. Which practice will help create effective images?",
+    "answers": [
+      "Use natural light and focus on a clear subject with minimal clutter"
+    ]
+  },
+  {
+    "question": "A small business is advertising allergy-friendly dog treats. They want to catch the attention of dog owners who are concerned about ingredients. What is the best way to open the ad copy?",
+    "answers": [
+      "Mention the audience’s concern and highlight the problem being solved"
+    ]
+  },
+  {
+    "question": "A small business posts behind-the-scenes videos and customer testimonials regularly without paying to boost them. What type of content is this?",
+    "answers": ["Organic content shared with followers naturally"]
+  },
+  {
+    "question": "A brand creates an ad with calming imagery of a yoga session, but the copy emphasizes fast delivery and bulk discounts. Why might this ad be less effective?",
+    "answers": [
+      "The visual and text send mixed messages that confuse the audience"
+    ]
+  },
+  {
+    "question": "A marketing team is designing a campaign to increase newsletter signups. The copy emphasizes a one-time sale, and the visuals focus on trending products. What issue could reduce the campaign’s effectiveness?",
+    "answers": ["The creative elements don’t match the goal of lead generation"]
+  },
+  {
+    "question": "A brand creates a horizontal video ad with small text that is viewed mainly on mobile devices. Viewers are skipping it after just a few seconds. What change would most likely improve performance?",
+    "answers": ["Create a vertical video with clear visuals and large text"]
+  },
+  {
+    "question": "A shoe company wants to show ads for running shoes to users who have shown interest in fitness gear, even when they're reading unrelated articles online. What type of advertising would best support this strategy?",
+    "answers": ["Data-based advertising"]
+  },
+  {
+    "question": "Which system is responsible for creating, organizing, and updating the main content of a website?",
+    "answers": ["Content Management System (CMS)"]
+  },
+  {
+    "question": "A user logs into a social media site on both their phone and laptop. The platform can connect their activity across both devices. Which data format makes this possible?",
+    "answers": ["UID (User Identifier)"]
+  },
+  {
+    "question": "Which type of data is collected directly by a company through its own website or app?",
+    "answers": ["First-party data"]
+  },
+  {
+    "question": "A music streaming app uses an algorithm to recommend playlists based on your listening habits. The app transforms stored information into unreadable strings of characters to protect user data. What is this privacy method called?",
+    "answers": ["Hashing"]
+  },
+  {
+    "question": "An advertiser chooses to place an ad for luxury watches inside a financial news article. Which targeting method are they applying?",
+    "answers": ["Contextual advertising"]
+  },
+  {
+    "question": "A user visits a travel website. The page loads vacation articles while an ad appears for luggage they recently browsed. What systems are most likely responsible for delivering both the content and the ad?",
+    "answers": ["CMS and ad server"]
+  },
+  {
+    "question": "A streaming platform allows users to log in from different devices and still receive the same show recommendations. What enables this continuity across platforms?",
+    "answers": ["User identifiers"]
+  },
+  {
+    "question": "A user signs in to an online bookstore and updates their profile preferences. The bookstore later uses this information to recommend new titles. What kind of data is being used?",
+    "answers": ["First-party data"]
+  },
+  {
+    "question": "A social media platform provides users with tools to manage their data sharing and ad preferences. What level of data protection is this an example of?",
+    "answers": ["Company data policies"]
+  },
+  {
+    "question": "A social media company is fined for failing to obtain consent before collecting personal data from EU residents. Which regulation applies in this case?",
+    "answers": ["GDPR"]
+  },
+  {
+    "question": "A user clicks the AdChoices icon on a digital ad and learns why the ad was shown to them. Which industry group created this transparency tool?",
+    "answers": ["DAA"]
+  },
+  {
+    "question": "A Facebook user clicks “Why You’re Seeing This Ad” and learns they were targeted based on interests and demographics. What company policy is this tool connected to?",
+    "answers": ["Meta’s data policy"]
+  },
+  {
+    "question": "An app encrypts user data before storage, so it can’t be traced back to individuals. What privacy method is being used?",
+    "answers": ["Hashing"]
+  },
+  {
+    "question": "An advertiser uses a person’s online shopping history, location and interests to tailor which products they see in their feed. What is the main reason for using this approach?",
+    "answers": ["To increase ad relevance and engagement"]
+  },
+  {
+    "question": "A local fitness studio wants more people in the neighborhood to discover and visit their new location. Which Facebook ad objective should they use?",
+    "answers": ["Promote Your Business Locally"]
+  },
+  {
+    "question": "Which Facebook ad objective is best if your primary goal is to get more people to click through to your website?",
+    "answers": ["Get More Website Visitors"]
+  },
+  {
+    "question": "A local tutoring service wants to gather contact details from parents interested in future sessions. What’s the best Facebook ad objective for this goal?",
+    "answers": ["Get More Leads"]
+  },
+  {
+    "question": "Which Facebook ad objective is designed to increase your Page’s followers?",
+    "answers": ["Promote Your Page"]
+  },
+  {
+    "question": "A small landscaping company wants to chat with people interested in booking services or asking about availability. What’s the best Facebook ad objective?",
+    "answers": ["Send Message"]
+  },
+  {
+    "question": "A marketer is preparing an ad to showcase a new line of eco-friendly backpacks. What’s the best practice when choosing her image?",
+    "answers": [
+      "Use a clear photo of the product that supports the ad’s message"
+    ]
+  },
+  {
+    "question": "A portrait photographer just opened a studio in Berlin and wants to reach people nearby. Which objective will help achieve that?",
+    "answers": ["Promote Your Business Locally"]
+  },
+  {
+    "question": "Lisa wants to reach moms interested in eco-baby products, but doesn’t want to rely on automatic targeting. What should she select?",
+    "answers": ["Create Your Own"]
+  },
+  {
+    "question": "An Instagram user taps an Instagram Stories ad and is redirected to a website. What made this possible?",
+    "answers": ["The call-to-action button in the story ad"]
+  },
+  {
+    "question": "A skincare company launches a fast-paced Story ad showing multiple products in a few seconds. Which creative best practice are they applying?",
+    "answers": ["Keep attention with speed"]
+  },
+  {
+    "question": "A digital marketer wants to promote a holiday sale, but Facebook has filled their ad with outdated content. How can he ensure his ad communicates the current offer?",
+    "answers": [
+      "Manually update all copy and visuals to match the seasonal message"
+    ]
+  },
+  {
+    "question": "A marketer increased their ad budget from $20 to $50 and extended the campaign to 5 days. What change should she expect?",
+    "answers": [
+      "Higher estimated reach and longer ad visibility to the target audience"
+    ]
+  },
+  {
+    "question": "A marketing specialist at a technology company wants to reach an audience similar to their current followers. Which targeting method should she use?",
+    "answers": ["Suggested Audience (automatic targeting)"]
+  },
+  {
+    "question": "An ad opens with a model, then transitions to brand imagery, and ends with a discount code. What structural benefit does this provide?",
+    "answers": [
+      "It creates an engaging narrative while still delivering a clear offer"
+    ]
+  },
+  {
+    "question": "A digital marketer posts a Story about their product and wants to reach more users beyond their followers. What benefit does promoting the Story provide?",
+    "answers": [
+      "Paid ads appear between Stories and can reach a targeted audience outside of followers"
+    ]
+  },
+  {
+    "question": "Which Facebook advertising tool is best suited for managing multiple Pages, Ad Accounts and assigning roles to a team?",
+    "answers": ["Business Manager"]
+  },
+  {
+    "question": "What is one benefit of using Facebook Page tools to create ads directly from a Page?",
+    "answers": [
+      "It's a fast and simple way to create basic ads with pre-filled content"
+    ]
+  },
+  {
+    "question": "Which ad placement setting lets Meta automatically distribute your ad across different platforms to get the best results for your budget?",
+    "answers": ["Advantage+ Placements (automatic)"]
+  },
+  {
+    "question": "Which of the following is a valid placement option for Facebook ads through Meta’s platform?",
+    "answers": ["Instagram Explore"]
+  },
+  {
+    "question": "Which combination of factors determines whether your ad wins in the Meta ad auction?",
+    "answers": ["Bid amount, estimated action rate and ad quality"]
+  },
+  {
+    "question": "Which of the following actions should you take if you see a post asking you to join a WhatsApp, Discord, or other external group for help with the course?",
+    "answers": [
+      "Do not join the group. Report the post and flag it as suspicious."
+    ]
+  },
+  {
+    "question": "When reporting an issue or requesting help regarding a specific course item in the Questions & Support tab, which details should you include? (Select all that apply)",
+    "answers": [
+      "Activity Name",
+      "Screenshot (if applicable)",
+      "Description of the issue",
+      "Module number",
+      "Course name"
+    ]
+  },
+  {
+    "question": "How can you identify official moderators in the Coursera Community? (Select all that apply)",
+    "answers": [
+      "They have \"Group Moderator\" in their name.",
+      "Annie H and Jasmin R are official Coursera moderators"
+    ]
+  },
+  {
+    "question": "Which of these is not allowed in the Coursera Community? (Select all that apply)",
+    "answers": [
+      "Sharing quiz answer screenshots",
+      "Sharing personal information such as phone number, email, or address",
+      "Sharing links to external groups"
+    ]
+  },
+  {
+    "question": "Which category of campaign objectives is most appropriate for encouraging people to learn more about a product or service?",
+    "answers": ["Consideration"]
+  },
+  {
+    "question": "A business wants to collect email addresses from people who have previously interacted with its ads. Which campaign objective best supports this goal?",
+    "answers": ["Leads"]
+  },
+  {
+    "question": "Which campaign objective is best suited for maximizing how many people see an ad and how often they see it?",
+    "answers": ["Reach"]
+  },
+  {
+    "question": "Which type of objective should be selected when the goal is to prompt potential customers to make a purchase?",
+    "answers": ["Sales"]
+  },
+  {
+    "question": "A marketing team aims to drive more users to a blog page that explains a new service offering. Which campaign objective should they choose?",
+    "answers": ["Traffic"]
+  },
+  {
+    "question": "How does defining a target audience before launching a Facebook ad campaign improve its effectiveness?",
+    "answers": [
+      "It ensures the ad is shown to people who are most likely to take action"
+    ]
+  },
+  {
+    "question": "What is the main difference between a Core Audience and a Lookalike Audience in Meta Ads Manager?",
+    "answers": [
+      "Core Audiences are built from user traits; Lookalike Audiences are based on existing customer data"
+    ]
+  },
+  {
+    "question": "Which tools can you use to define and refine a Core Audience in Ads Manager?",
+    "answers": ["Location, demographics, interests and behaviors"]
+  },
+  {
+    "question": "What is one way the Meta Pixel improves Facebook ad campaign performance?",
+    "answers": [
+      "It tracks user actions on your website to enhance targeting and measure conversions"
+    ]
+  },
+  {
+    "question": "Which of the following sources can be used to build a Custom Audience?",
+    "answers": [
+      "Website traffic, customer lists, app activity and Meta engagement"
+    ]
+  },
+  {
+    "question": "Which ad format in Meta Ads Manager allows you to include up to 10 images or videos, each with its own link?",
+    "answers": ["Carousel Ad"]
+  },
+  {
+    "question": "What step comes immediately after selecting your ad format when creating an ad in Ads Manager?",
+    "answers": ["Add media and text"]
+  },
+  {
+    "question": "What does it mean if your ad set is marked as “Learning” in Ads Manager?",
+    "answers": [
+      "The system is testing delivery to learn how to optimize ad performance"
+    ]
+  },
+  {
+    "question": "What is a best practice when writing copy for different placements in a Facebook ad?",
+    "answers": [
+      "Put the most important information at the beginning of your text"
+    ]
+  },
+  {
+    "question": "A business wants to update its time zone and currency settings before launching a Meta ad campaign. What step should be taken to configure these settings?",
+    "answers": [
+      "Click “Edit” in the Business Info section to adjust the time zone and currency"
+    ]
+  },
+  {
+    "question": "A business is deciding between using the Facebook Page interface and Meta Ads Manager to create its next campaign. What is one key advantage of using Meta Ads Manager instead of the Facebook Page “Create Ads” button?",
+    "answers": [
+      "It offers more advanced targeting, placement, and testing features"
+    ]
+  },
+  {
+    "question": "A business wants to display ads in various placements across Meta’s platforms and partner sites. Which of the following includes valid ad placements available in Meta Ads Manager?",
+    "answers": [
+      "Feed, Stories, In-stream videos, Search, Messages, and Apps & Sites"
+    ]
+  },
+  {
+    "question": "An advertiser wants to understand how they’re billed for their Meta ads. Which method is used to determine what they pay?",
+    "answers": [
+      "They’re charged based on impressions, clicks, or actions, depending on the ad’s objective"
+    ]
+  },
+  {
+    "question": "An advertiser wants to test different images and headlines for their Meta ad. Which level allows them to do this?",
+    "answers": ["Ad"]
+  },
+  {
+    "question": "A team wants to review the performance of past campaigns using Ads Reporting tools and view conversion results. Which section of the Meta Ads Manager navigation bar should they use?",
+    "answers": ["Analyze and Report"]
+  },
+  {
+    "question": "An advertiser wants to evaluate how different creatives perform while targeting the same audience. What level of the campaign structure should they duplicate?",
+    "answers": ["Ad"]
+  },
+  {
+    "question": "A company wants to customize where its ads appear, target specific audiences, and use advanced tools like A/B testing. Which platform should they use?",
+    "answers": ["Meta Ads Manager"]
+  },
+  {
+    "question": "An advertiser selects a campaign objective focused on video views. How might Meta charge them for the ad?",
+    "answers": ["Based on user actions, like completing a video view"]
+  },
+  {
+    "question": "Two advertisers are targeting the same audience. One has a higher bid, but their ad is shown less often. Why?",
+    "answers": [
+      "The other ad had a higher total value, factoring in quality and estimated action rate"
+    ]
+  },
+  {
+    "question": "A business wants to generate interest and recognition among people who haven't interacted with them before. What is the best campaign objective to use?",
+    "answers": ["Awareness"]
+  },
+  {
+    "question": "A campaign has a strict end date and a fixed budget to spend over that time. The advertiser wants Meta to distribute the spend as needed across days without going over the total. Which budget type supports this?",
+    "answers": ["Lifetime budget"]
+  },
+  {
+    "question": "A startup with a strict maximum bid of $2 per click wants to ensure Meta does not exceed this limit in any auction. Which bid strategy should be used?",
+    "answers": ["Bid cap"]
+  },
+  {
+    "question": "A business wants to encourage more likes, comments, and shares on its posts to grow its presence on the platform. Which Meta campaign objective should be used?",
+    "answers": ["Engagement"]
+  },
+  {
+    "question": "A business sets a daily budget of $40. On a particular day, the campaign performs exceptionally well. What is the maximum amount Meta might spend that day?",
+    "answers": ["$50"]
+  },
+  {
+    "question": "A campaign uses Campaign Budget Optimization to manage budget across multiple ad sets. Meta notices that one ad set is performing better than the others. What will Meta do in this case?",
+    "answers": [
+      "Meta will allocate more budget to the better-performing ad set"
+    ]
+  },
+  {
+    "question": "A campaign manager wants Meta to spend consistently every day, regardless of performance fluctuations. Which type of budget should be used?",
+    "answers": ["Daily budget"]
+  },
+  {
+    "question": "A small business is preparing a two-week campaign. The team wants to align the budget with their marketing goals while staying within their means. What is the most appropriate budgeting approach?",
+    "answers": [
+      "Choose an amount that fits the campaign goals and available resources"
+    ]
+  },
+  {
+    "question": "A business wants potential customers to sign up for a weekly newsletter using a form that collects their name and email address. Which objective in Ads Manager is best suited to support this goal?",
+    "answers": ["Leads"]
+  },
+  {
+    "question": "A mobile app company wants to drive downloads for its new budgeting app. Which campaign objective should they select?",
+    "answers": ["App promotion"]
+  },
+  {
+    "question": "A company plans to run a one-week campaign and wants the ad to stop automatically at the end. What budget setting requires a start and end date?",
+    "answers": ["Daily budget"]
+  },
+  {
+    "question": "A client wants to reach new people similar to their existing website visitors. What type of audience should they use?",
+    "answers": ["Lookalike audience"]
+  },
+  {
+    "question": "A company wants to reach people with specific job titles and education levels. Which audience feature supports this kind of targeting?",
+    "answers": ["Demographic targeting in a core audience"]
+  },
+  {
+    "question": "A client wants to reconnect with people who recently interacted with their Facebook Page. What type of audience should they use?",
+    "answers": ["Custom audience from Facebook engagement"]
+  },
+  {
+    "question": "A client wants to track when people add products to their cart on their website. What tool should they use to make this possible?",
+    "answers": ["Meta Pixel"]
+  },
+  {
+    "question": "A client wants to find new potential customers who are similar to their most active app users. Which audience type should they create?",
+    "answers": ["Lookalike audience"]
+  },
+  {
+    "question": "A client is concerned about managing delivery across multiple platforms. What is one reason they should consider using Advantage+ placements?",
+    "answers": [
+      "It reduces manual workload by automatically optimizing across placements"
+    ]
+  },
+  {
+    "question": "A client wants to control how much they’re willing to pay for a conversion. What tool should they use?",
+    "answers": ["Set a bid cap in Ads Manager"]
+  },
+  {
+    "question": "A client is setting up an ad set with a lifetime budget and wants to make sure the ad doesn’t run over weekends. What should they do?",
+    "answers": ["Customize the schedule to exclude weekend time slots"]
+  },
+  {
+    "question": "A client is setting up a new ad set and notices that changing their audience size affects the reach number. What does the estimated audience reach help them understand?",
+    "answers": [
+      "The number of people likely to see their ad based on audience and budget"
+    ]
+  },
+  {
+    "question": "A product launch is underway, and the goal is to generate excitement among potential customers. Which action most effectively aligns the ad with this goal in Ads Manager?",
+    "answers": ["Choosing the “Awareness” campaign objective"]
+  },
+  {
+    "question": "A small business wants to create an engaging video ad using images and text but doesn’t have a video editor. What ad format in Ads Manager is best suited for this situation?",
+    "answers": ["Slideshow"]
+  },
+  {
+    "question": "An ad preview shows the primary text is being cut off in mobile feeds. What should be done to address this issue?",
+    "answers": [
+      "Move the most important message to the beginning of the primary text"
+    ]
+  },
+  {
+    "question": "A fitness brand wants to say, “Are you too weak to lift weights?” Why could this statement violate Meta’s ad policies?",
+    "answers": ["It references a personal physical trait in a negative way"]
+  },
+  {
+    "question": "An advertiser sets a lifetime budget and selects a 10-day campaign window. What does the budget control in this scenario?",
+    "answers": ["The total amount spent over the entire 10-day campaign"]
+  },
+  {
+    "question": "A team wants to test different audiences without restarting the learning phase for an existing ad set. Which approach should be taken?",
+    "answers": ["Duplicate the ad set and edit the new version separately"]
+  },
+  {
+    "question": "After completing all steps in Ads Manager, an advertiser skips the tracking section and clicks Publish. What is the likely result of skipping this step?",
+    "answers": ["The ad will run, but performance data may be incomplete"]
+  },
+  {
+    "question": "A marketer notices an ad set is underperforming and labeled as “Learning Limited.” What would be the most appropriate first step to optimize reach and delivery?",
+    "answers": ["Expand the audience targeting to increase reach"]
+  },
+  {
+    "question": "A marketing analyst wants to understand weekly ad performance trends. What feature in Ads Manager should be used?",
+    "answers": ["Breakdown by time"]
+  },
+  {
+    "question": "An analyst reviews a conversion-focused campaign. Which metric would best reflect cost efficiency for this objective?",
+    "answers": ["Cost per result"]
+  },
+  {
+    "question": "What are three primary uses of a Facebook Page? (Choose three)",
+    "answers": [
+      "Have an online storefront for the business",
+      "Connect with customers"
+    ]
+  },
+  {
+    "question": "How can a business increase the reach of an organic post on its Page without creating a campaign in Ads Manager?",
+    "answers": ["Boost the post"]
+  },
+  {
+    "question": "When you begin a new campaign on Ads Manager, what is the first step in the process?",
+    "answers": ["Align your marketing goal with a campaign objective"]
+  },
+  {
+    "question": "A business set up a campaign. During the process, it tested different placements and observed a higher estimated total reach when it selected automatic placements. What caused this result?",
+    "answers": [
+      "Advantage+ Placements more efficiently distributed the ad bids."
+    ]
+  },
+  {
+    "question": "DCB Cleaning ran a campaign targeting businesses looking to switch their cleaning services, offering a six-month commitment for $1,000. The campaign ran for three months, at $200 per month, and gained six new clients. What was the ROAS?",
+    "answers": ["10"]
+  },
+  {
+    "question": "DCB Cleaning ran a campaign to get people to download their app, knowing that they generate $200 in revenue for every five downloads. The campaign cost $1,000, and they received 75 downloads. What was the ROAS?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Inu + Neko is launching a new product line on its website: bandanas for dogs. Each bandana costs $10, and in the month of its $800 campaign, they sold out of all 200 bandanas. What was the ROAS?",
+    "answers": ["2.5"]
+  },
+  {
+    "question": "It costs Calla & Ivy $10 in materials to make each free bouquet. They spent $200 on their marketing campaign, and 50 of their 200 sign-ups each resulted in a $50 purchase. What is their ROI?",
+    "answers": ["2.57"]
+  },
+  {
+    "question": "Inu + Neko has recently run several campaigns and is calculating the Cost Per Result for each. They began with a reach campaign, which generated 1,000 impressions for a $200 campaign. What was the Cost Per Result?",
+    "answers": ["$0.20"]
+  },
+  {
+    "question": "Another campaign for Inu + Neko was a lead generation campaign. They know that every five leads converts into a $20 sale. The campaign cost $800, and they generated 1,000 leads. What was the Cost Per Result?",
+    "answers": ["$0.80"]
+  },
+  {
+    "question": "They ran another lead generation campaign, which cost them $200 per month for four months. Over those four months, they brought in 2,000 leads, double the amount of leads as before. What was the Cost Per Result?",
+    "answers": ["$0.40"]
+  },
+  {
+    "question": "Inu + Neko ran a campaign to increase views on their grooming videos. They allocated a $10 daily budget for the month of September, which has 30 days. They received 75 plays by the end. What was the Cost Per Result?",
+    "answers": ["$4.00"]
+  },
+  {
+    "question": "Inu + Neko is trying to drive more traffic to the new products on their site, and set up a conversion campaign, allotting $500 a month for six months. At the end of that time, they made $20,000 in sales from 600 customers. What was the Cost Per Result?",
+    "answers": ["$5.00"]
+  },
+  {
+    "question": "Calla & Ivy want to figure out the lifetime value of their customers. They know that the average customer’s value is $50 a month, and the average lifespan of a customer is 5 years (60 months). What is the LTV?",
+    "answers": ["$3,000"]
+  },
+  {
+    "question": "Next, Calla & Ivy want to determine the average purchase frequency rate. There were 50 people in this demographic who made purchases last month. What is the Average Purchase Frequency per month? You need to use the information in Question 2 to figure this one out.",
+    "answers": ["2"]
+  },
+  {
+    "question": "A small business runs a three-week campaign to promote its $60 product. They spend $300 on advertising and generate $900 in revenue from sales directly tied to the campaign. What is their Return on Ad Spend (ROAS)?",
+    "answers": ["3"]
+  },
+  {
+    "question": "A tech company has an average order value of $100, customers buy 4 times a year, and the average customer stays with them for 3 years. What is the Lifetime Value (LTV) of a customer?",
+    "answers": ["$1,200"]
+  },
+  {
+    "question": "Which of the following would typically be considered a strong ROAS?",
+    "answers": ["6"]
+  },
+  {
+    "question": "An online software company’s average customer spends $100 annually and stays for 10 years. What is the LTV?",
+    "answers": ["$1,000"]
+  },
+  {
+    "question": "A small business runs a holiday campaign and sees a ROAS of 5. They are excited until they realize their ROI is much lower than expected. What does this suggest?",
+    "answers": ["The campaign had high additional costs beyond advertising"]
+  },
+  {
+    "question": "An online event organizer spends $750 on a lead generation campaign. The campaign yields 50 leads. What is the cost per lead?",
+    "answers": ["$15"]
+  },
+  {
+    "question": "An e-commerce company’s ad campaign results in a $3 cost per click. The product they sell costs $10, and only 10% of clicks convert to sales. What’s the issue?",
+    "answers": [
+      "The cost per result may be too high relative to the revenue earned per conversion"
+    ]
+  },
+  {
+    "question": "A software company spends $5,000 on marketing and gains 100 new customers. What is their customer acquisition cost?",
+    "answers": ["$50"]
+  },
+  {
+    "question": "A small business wants to know how much they spent to gain each new customer last quarter. Which metric should they calculate?",
+    "answers": ["Customer Acquisition Cost"]
+  },
+  {
+    "question": "A campaign generates $15,000 in revenue. Production, shipping, and marketing costs total $5,000. What is the ROI?",
+    "answers": ["2.0"]
+  },
+  {
+    "question": "A team analyzes their brand lift results and sees a 21.8% recall in the test group and 7.9% in the control group. How is the brand lift percentage derived?",
+    "answers": ["Subtract the control group recall from the test group recall"]
+  },
+  {
+    "question": "A team observes that the control group had a 9% recall rate, while the test group had 21%. They’re trying to evaluate the strength of the campaign. What role does the control group recall play in interpreting brand lift?",
+    "answers": [
+      "It establishes a baseline, so the lift reflects only the incremental impact of the ad"
+    ]
+  },
+  {
+    "question": "A marketer reviews a test report and sees that the confidence level is 42%. The team is unsure how to proceed. What does this low confidence level suggest?",
+    "answers": [
+      "The results may not be statistically strong enough to guide future decisions"
+    ]
+  },
+  {
+    "question": "After reviewing a conversion lift test, a performance marketer reports a return on ad spend (ROAS) of 8.5. What does this ROAS indicate about the campaign’s performance?",
+    "answers": ["The campaign generated $8.50 in revenue for every $1 spent"]
+  },
+  {
+    "question": "A test group includes participants who never logged into the platform and didn’t see the ad. The team notices that the measured brand lift is lower than expected. How does Intention to Treat (ITT) contribute to this outcome?",
+    "answers": [
+      "ITT can lower observed impact by including people who weren’t exposed to the ad"
+    ]
+  },
+  {
+    "question": "A florist runs an ad campaign to increase online bouquet sales during the holiday season. She wants to measure if the ads lead to more completed purchases. Which test type would best assess this objective?",
+    "answers": ["Conversion Lift Test"]
+  },
+  {
+    "question": "While setting up a conversion lift test, a marketer is asked to select data sources and events. Why is selecting the right data source and event important for the test?",
+    "answers": [
+      "It defines what conversions Meta will track and measure for lift"
+    ]
+  },
+  {
+    "question": "A Brand Lift Test includes the required ad recall question and one additional question about brand familiarity. What is one benefit of including multiple polling questions in a Brand Lift Test?",
+    "answers": [
+      "It provides more insight into different aspects of brand perception"
+    ]
+  },
+  {
+    "question": "After completing a Brand Lift Test, a marketing team receives a summary report that includes how their results compare to the average outcomes from similar tests conducted in their region. Why is this type of comparison valuable?",
+    "answers": [
+      "It helps evaluate the relative strength of the campaign's impact"
+    ]
+  },
+  {
+    "question": "A team runs a conversion lift test and finds a measurable increase in sales attributed to the campaign. How can they use this information moving forward?",
+    "answers": [
+      "To demonstrate that the campaign was effective and worth the investment"
+    ]
+  },
+  {
+    "question": "An analyst asks how Media Mix Modeling determines the value of each marketing channel. What should the analyst be told about how this method works?",
+    "answers": [
+      "It uses historical data and regression models to estimate each channel’s influence on results"
+    ]
+  },
+  {
+    "question": "A campaign team notices that a Facebook coupon ad appears to drive most conversions, but an earlier Instagram awareness campaign also likely contributed. What should the team do to better understand how all ads contributed?",
+    "answers": [
+      "Review their attribution model to make sure it accounts for multiple touchpoints"
+    ]
+  },
+  {
+    "question": "A small business wants to improve its ability to measure conversions from its ads across online and offline channels. Which solution does Meta offer to help connect the full customer journey?",
+    "answers": [
+      "Tools like the Meta Pixel, SDK, and Conversions API to track across platforms"
+    ]
+  },
+  {
+    "question": "After completing a successful A/B test, a marketer is deciding what to do next. What is the best way to continue optimizing their campaign?",
+    "answers": [
+      "Shift the budget to the winning version and create a new test based on it"
+    ]
+  },
+  {
+    "question": "A digital marketing analyst is reviewing options for assigning credit to ad touchpoints along the customer journey. Which attribution model credits the last ad a user clicked before converting?",
+    "answers": ["Last-click attribution model"]
+  },
+  {
+    "question": "A marketer is comparing attribution models and notices one model uses a fixed rule to assign credit before analyzing any data. What type of model are they most likely looking at?",
+    "answers": ["A rules-based attribution model"]
+  },
+  {
+    "question": "After running an A/B test, a marketing analyst sees that the two versions performed similarly and no confidence level is reported. What does this outcome suggest?",
+    "answers": ["There was no clear winner, and a new test should be created"]
+  },
+  {
+    "question": "A campaign resulted in high conversions on Facebook, but the marketing team also ran upper-funnel ads on YouTube and Instagram. What does the attribution data suggest if only the Facebook ad is getting credit?",
+    "answers": [
+      "The model may be underestimating the impact of earlier touchpoints"
+    ]
+  },
+  {
+    "question": "A business runs ads on social media, their website, and physical stores. Why is tracking online and offline sales important when measuring marketing effectiveness?",
+    "answers": [
+      "To get a complete view of how all campaigns contribute to overall performance"
+    ]
+  },
+  {
+    "question": "A marketer finishes an A/B test that identifies a clear winning ad version. What should they do next to continue improving campaign performance?",
+    "answers": [
+      "Use the winning version as the new baseline and run another test"
+    ]
+  },
+  {
+    "question": "A marketing team is preparing a presentation about a social media campaign and wants to explain why specific campaign choices were made. How should the campaign goal be used in this explanation?",
+    "answers": [
+      "By showing how the goal guided their decisions and audience targeting"
+    ]
+  },
+  {
+    "question": "A marketing analyst is building a chart to show how different audiences responded to an ad campaign, but the chart is overcrowded with labels and numbers. What should be done to make the chart easier to understand?",
+    "answers": [
+      "Simplify the chart by removing unnecessary details and focusing on key comparisons"
+    ]
+  },
+  {
+    "question": "A campaign’s results show that women aged 35–44 responded more strongly to the ads than other groups. How should this insight be applied when planning future campaigns?",
+    "answers": [
+      "Adjust future targeting to focus more on this high-performing demographic"
+    ]
+  },
+  {
+    "question": "A presenter is starting a presentation on a recent ad campaign and wants to capture the audience’s interest immediately. What is the best way to open the presentation?",
+    "answers": [
+      "Start with a rhetorical question, a story or an interesting fact related to their findings"
+    ]
+  },
+  {
+    "question": "A social media marketer is worried about looking stiff or awkward while speaking. What is one way to prepare body language in advance?",
+    "answers": [
+      "Practice deliberate movements, like stepping forward at key points"
+    ]
+  },
+  {
+    "question": "A campaign analyst is scheduled to present in a shared workspace and wants to ensure the presentation runs smoothly. What step should be taken before beginning?",
+    "answers": [
+      "Test the display setup and audio in advance to check for potential issues"
+    ]
+  },
+  {
+    "question": "A campaign aimed to increase website subscriptions, but the presentation only includes impressions and reach data. What key mistake is being made when choosing the metrics?",
+    "answers": [
+      "Presenting metrics that don’t align with their campaign goal of conversions"
+    ]
+  },
+  {
+    "question": "A campaign shows the strongest performance with a specific age group, and the marketing team wants to highlight this in a presentation. What should be done with this insight?",
+    "answers": [
+      "Present the age group insight as a key finding and suggest targeting them in future campaigns"
+    ]
+  },
+  {
+    "question": "A marketing analyst is presenting campaign data and wants to help the audience easily compare actual results to campaign goals. What is the best way to make this comparison clear in the chart?",
+    "answers": [
+      "Arrange the data so that each actual result is displayed directly next to its goal"
+    ]
+  },
+  {
+    "question": "A team presenting campaign results wants to build trust in the data being shown. What should be done when discussing where the data came from?",
+    "answers": [
+      "Clearly explain which tools and sources they used to collect the campaign data"
+    ]
+  },
+  {
+    "question": "Have you verified that the email for your Meta Blueprint account matches the email for your Coursera account?",
+    "answers": ["Yes!"]
+  },
+  {
+    "question": "What is one primary function of social media in marketing?",
+    "answers": [
+      "It allows businesses to interact with their audience and build brand loyalty"
+    ]
+  },
+  {
+    "question": "A company wants to target specific audiences with a cost-effective strategy. Why would digital marketing be a better choice than traditional marketing?",
+    "answers": ["It is cost-effective and allows better audience targeting"]
+  },
+  {
+    "question": "Which of the following is an important part of social media marketing?",
+    "answers": [
+      "Engaging with followers and responding to their comments and messages"
+    ]
+  },
+  {
+    "question": "A company is deciding between traditional and digital marketing. They want to ensure they can measure the impact of their campaigns and adjust their strategy as needed. Why would digital marketing be a better fit?",
+    "answers": [
+      "Digital marketing allows businesses to track results and optimize campaigns in real time"
+    ]
+  },
+  {
+    "question": "A company wants to increase brand awareness and customer engagement using social media. What is the best approach?",
+    "answers": [
+      "Using a mix of organic posts and paid ads to reach and interact with the target audience."
+    ]
+  },
+  {
+    "question": "A company wants to educate potential customers about its products without directly promoting them. Which digital marketing strategy should they use?",
+    "answers": [
+      "Creating blog posts and videos that provide useful information"
+    ]
+  },
+  {
+    "question": "A local store wants to use social media to reach more customers. How should they approach their marketing strategy?",
+    "answers": [
+      "Use social media to share updates, promotions and engage with customers online"
+    ]
+  },
+  {
+    "question": "Which of the following is a key benefit of combining organic and paid social media marketing?",
+    "answers": [
+      "It helps businesses engage with current followers while also reaching new audiences"
+    ]
+  },
+  {
+    "question": "A skincare brand wants to grow its Instagram following and increase brand awareness. What is the best strategy?",
+    "answers": [
+      "Post engaging content regularly, use relevant hashtags and interact with followers"
+    ]
+  },
+  {
+    "question": "Which YouTube feature provides insights into video performance, audience engagement and demographics?",
+    "answers": ["YouTube Analytics"]
+  },
+  {
+    "question": "An online clothing boutique wants to showcase its latest collection on Instagram. What is the best strategy?",
+    "answers": [
+      "Use Instagram Reels to create visually appealing fashion showcases with trending music"
+    ]
+  },
+  {
+    "question": "A social media manager wants to improve their networking opportunities on LinkedIn. What is the best strategy?",
+    "answers": [
+      "Engage with industry posts, share relevant insights, and connect with professionals in their field"
+    ]
+  },
+  {
+    "question": "A skincare brand wants to use TikTok to promote its products. They have heard that viral trends are important but aren’t sure how to approach content creation. What should they do?",
+    "answers": [
+      "Participate in trending challenges and create engaging videos that showcase their products in a fun way"
+    ]
+  },
+  {
+    "question": "A fitness studio has a Facebook Business Page but isn’t seeing much engagement. What tool can they use to reach more people?",
+    "answers": [
+      "Facebook Ads to target potential gym members by location and interests"
+    ]
+  },
+  {
+    "question": "A clothing store owner wants to improve customer service using WhatsApp Business. She needs a way to quickly respond to frequently asked questions without typing the same answers repeatedly. What should she do?",
+    "answers": [
+      "Set up automated responses and quick replies to answer common customer questions efficiently"
+    ]
+  },
+  {
+    "question": "A recent college graduate is looking for their first job in digital marketing. They know LinkedIn can help but aren’t sure where to start. What should they do to increase their chances of being noticed by recruiters?",
+    "answers": [
+      "Complete their LinkedIn profile with a professional photo, detailed work experience, and relevant skills"
+    ]
+  },
+  {
+    "question": "Imra is running an online advertising campaign to drive flower sales. She wants to measure how many visitors to her website actually make a purchase. Which KPI should she track?",
+    "answers": ["Conversion rate (percentage of visitors who make a purchase)"]
+  },
+  {
+    "question": "Mia owns an online jewelry store and wants to increase sales. She sets a goal to generate $10,000 in revenue over the next three months. Why is this goal important for her business?",
+    "answers": [
+      "It provides a clear target and a way to measure progress toward success"
+    ]
+  },
+  {
+    "question": "What is the purpose of a subgoal in business planning?",
+    "answers": [
+      "A subgoal breaks down a larger goal into smaller, actionable steps contributing to success"
+    ]
+  },
+  {
+    "question": "Drew is growing his business through influencer partnerships. Which KPI would best measure the success of his influencer marketing efforts?",
+    "answers": ["Engagement rate on sponsored social media posts"]
+  },
+  {
+    "question": "Nina owns a plant delivery service called GreenGlow. She sets a marketing goal to \"increase Instagram followers by 5,000 within 6 months.\" What is the primary purpose of this goal?",
+    "answers": ["To build brand awareness and expand the audience"]
+  },
+  {
+    "question": "Noah, a content strategist for a travel blog, wants to grow the blog’s audience. His team is considering different marketing strategies. How do KPIs help in this situation?",
+    "answers": [
+      "They ensure the team focuses on measurable goals instead of vague ambitions"
+    ]
+  },
+  {
+    "question": "James sets a goal to enroll 25% of DCB Cleaning clients in SnackWall within 3 months. How does this goal meet the ‘specific’ criterion of SMART?",
+    "answers": [
+      "It clearly defines a target percentage, customer segment and deadline"
+    ]
+  },
+  {
+    "question": "Carlos manages marketing for a local gym. Why is it important for him to set clear goals before launching a new membership campaign?",
+    "answers": [
+      "Goals ensure the marketing team is aligned and working toward a shared objective"
+    ]
+  },
+  {
+    "question": "Hannah owns a handmade furniture business. Her main business goal is to \"increase overall revenue by 20% this year.\" Which of the following is an appropriate subgoal?",
+    "answers": [
+      "\"Increase website traffic by 30% in six months through paid advertising.\""
+    ]
+  },
+  {
+    "question": "James is reviewing SnackWall's performance but is unsure which metrics to prioritize. Why are KPIs essential for James?",
+    "answers": ["They help focus on metrics that track progress toward goals"]
+  },
+  {
+    "question": "Olivia owns a handmade candle business and wants to grow her online sales. She is brainstorming different marketing goals to help her business succeed. Which of the following is a SMART goal for Olivia?",
+    "answers": [
+      "\"Increase online candle sales by 15% over the next three months by running targeted social media ads.\""
+    ]
+  },
+  {
+    "question": "Sasha runs an online store selling fitness apparel. Her goal is to boost sales. Which KPI should she track?",
+    "answers": ["Revenue generated from online purchases"]
+  },
+  {
+    "question": "Caleb manages the social media for a fitness studio, PeakPulse. He feels overwhelmed by the vast amount of available data. Why are KPIs crucial in this situation?",
+    "answers": ["They help prioritize the metrics most relevant to goals"]
+  },
+  {
+    "question": "Imra owns Calla & Ivy, a flower business. She wants to define her primary target audience for her online store. Based on her customer insights, what is the most effective way for Imra to identify her target audience?",
+    "answers": ["Analyze customer demographics, interests and behaviors"]
+  },
+  {
+    "question": "Carlos runs a premium coffee subscription service. He wants to analyze where potential customers drop off before subscribing. What stage of the customer journey should he focus on?",
+    "answers": ["Interest to desire"]
+  },
+  {
+    "question": "Imra wants to understand how customers move from discovering Calla & Ivy to becoming repeat buyers. What should she analyze?",
+    "answers": ["The customer journey"]
+  },
+  {
+    "question": "David owns an electronics store and wants to increase holiday sales. He notices that many customers browse products and add them to their carts but don’t complete their purchases. To encourage them, he sends a special discount code to shoppers who abandoned their carts. Which stage of the customer journey is he targeting?",
+    "answers": ["Desire"]
+  },
+  {
+    "question": "Josh runs a high-end fitness brand. His marketing primarily targets young professionals who are willing to invest in premium gym memberships, but he also markets to college students who may subscribe in the future. How should Ethan categorize these audiences?",
+    "answers": [
+      "Young professionals are the primary audience, and college students are the secondary audience."
+    ]
+  },
+  {
+    "question": "A marketing team is working on a campaign for a new high-performance running shoe. They need to define their target audience before launching ads. Which group would be the most relevant target audience?",
+    "answers": [
+      "Athletes and fitness enthusiasts who regularly buy running gear and participate in sports activities"
+    ]
+  },
+  {
+    "question": "James wants to increase SnackWall’s word-of-mouth marketing. What strategy should he use to encourage customers to advocate for the product?",
+    "answers": ["Offer referral incentives and request online reviews"]
+  },
+  {
+    "question": "Sophia runs an online boutique for vintage apparel. She notices many customers add items to their carts but don’t complete their purchases. What stage of the customer journey should she focus on improving?",
+    "answers": ["Conversion"]
+  },
+  {
+    "question": "Maya runs an online store for running shoes. She notices that some customers have shown repeated interest in a particular model by watching product videos and adding it to their wishlists. To push them toward making a purchase, she offers a limited-time 10% discount. What stage of the customer journey is Maya focusing on?",
+    "answers": ["Desire"]
+  },
+  {
+    "question": "A luxury travel agency is defining its target audience. Which of the following best represents a well-defined customer persona for their marketing?",
+    "answers": [
+      "\"Jet-Setting Julia,\" a high-income professional who prioritizes exclusive, customized travel experiences"
+    ]
+  },
+  {
+    "question": "Sarah wants more of her candle customers to recommend her brand to friends. Which approach would be most effective?",
+    "answers": ["Offer referral incentives and request online reviews"]
+  },
+  {
+    "question": "A company is launching an online tutoring service that provides affordable, flexible sessions for international college students. Based on audience-mapping strategies, who should they primarily target?",
+    "answers": ["College students studying abroad"]
+  },
+  {
+    "question": "A high-end fashion brand wants to showcase its luxury collections and drive website traffic. Which platform should they prioritize?",
+    "answers": ["Instagram"]
+  },
+  {
+    "question": "A tech company wants to improve its website’s search engine ranking through blogging. What should they focus on?",
+    "answers": ["Using relevant keywords throughout their blog posts"]
+  },
+  {
+    "question": "A fitness brand wants to increase brand awareness through social media. What is the best approach?",
+    "answers": [
+      "Select platforms that align with their audience and content style"
+    ]
+  },
+  {
+    "question": "A financial services company wants to prevent unauthorized employees from posting company-related content. What should they do?",
+    "answers": [
+      "Limit access to social media accounts to trained and approved employees"
+    ]
+  },
+  {
+    "question": "A nonprofit organization wants to raise awareness and encourage donations. Which platform should they prioritize?",
+    "answers": ["Facebook"]
+  },
+  {
+    "question": "A nonprofit organization wants to use social media to increase donations. What is the best approach?",
+    "answers": [
+      "Sharing compelling storytelling posts about beneficiaries and impact"
+    ]
+  },
+  {
+    "question": "A retail brand wants to encourage employees to engage with its social media pages while ensuring professionalism. What should they do?",
+    "answers": [
+      "Establish a policy that outlines appropriate engagement and brand tone"
+    ]
+  },
+  {
+    "question": "A tech company wants to network with industry professionals and share thought leadership content. Which platform should they prioritize?",
+    "answers": ["LinkedIn"]
+  },
+  {
+    "question": "A bakery wants to optimize its social media profile for customer engagement. What should be prioritized when setting up their profile?",
+    "answers": ["Writing a clear bio and adding a website link"]
+  },
+  {
+    "question": "An artist is setting up a Facebook Business Page to sell custom paintings. What should she prioritize first?",
+    "answers": ["Uploading a profile picture and adding business details"]
+  },
+  {
+    "question": "A brand strategist is helping a company improve its messaging on social media to engage customers better. Which part of the EPIC framework does this relate to?",
+    "answers": ["Connection"]
+  },
+  {
+    "question": "A new jewelry brand wants to build a strong emotional connection with its social media audience. What is the best approach?",
+    "answers": [
+      "Share the brand’s origin story and values through engaging posts"
+    ]
+  },
+  {
+    "question": "A fitness brand’s motto is \"Empowering everyone to move,\" and it actively supports community wellness programs. How does this purpose benefit the brand?",
+    "answers": [
+      "It builds stronger customer connections by aligning with shared values"
+    ]
+  },
+  {
+    "question": "A luxury auto company consistently uses a minimalist black-and-white design with sleek, elegant fonts in its marketing. What is the purpose of this visual choice?",
+    "answers": ["It conveys a sense of sophistication and exclusivity"]
+  },
+  {
+    "question": "A small business has just launched an Instagram Business Account but is unsure what type of username to choose. What is the best approach?",
+    "answers": [
+      "Select a simple and recognizable username that matches their brand name"
+    ]
+  },
+  {
+    "question": "A clothing brand wants to stand out in a crowded market. Which branding strategy will help customers recognize and remember their brand?",
+    "answers": [
+      "Developing a consistent brand identity, including colors, logos, and messaging"
+    ]
+  },
+  {
+    "question": "A luxury handbag brand is known for its craftsmanship and durability, leading customers to return for repeat purchases. What element drives this loyalty?",
+    "answers": ["Trust"]
+  },
+  {
+    "question": "A bakery shares how a family recipe passed down for generations became the foundation of its business. What role does this story play in branding?",
+    "answers": ["It differentiates the brand by giving it a unique backstory"]
+  },
+  {
+    "question": "Lisa owns a bakery and wants to grow her business using social media. Instead of just posting product photos, she starts sharing videos of her baking process. Why is this a strong strategy?",
+    "answers": [
+      "It makes her content engaging and helps customers connect with her brand"
+    ]
+  },
+  {
+    "question": "Imra wants to promote a new floral arrangement on Facebook. She includes a well-lit image, a short caption, and a website link. What else should she add to improve engagement?",
+    "answers": ["A relevant hashtag or mention to increase visibility"]
+  },
+  {
+    "question": "A fitness brand wants to post an image of a new workout class. What is the best strategy?",
+    "answers": ["Use action shots, natural lighting and vibrant colors"]
+  },
+  {
+    "question": "An event planning company wants to showcase a recent wedding setup through a video post. What is the best way to ensure the video looks professional?",
+    "answers": [
+      "Use natural lighting, steady camera movements and high-quality audio"
+    ]
+  },
+  {
+    "question": "An online clothing store wants to encourage more interaction on its Instagram posts. What is the best way to make the text more engaging?",
+    "answers": [
+      "Ask a question and invite followers to share their thoughts in the comments"
+    ]
+  },
+  {
+    "question": "A bookstore is creating a Facebook post to promote an upcoming author event. How can they make the text more engaging?",
+    "answers": [
+      "Use an engaging opening, a personal tone, and a clear call to action"
+    ]
+  },
+  {
+    "question": "A home decor business is posting a before-and-after transformation on Instagram. What is the best way to make the images visually appealing?",
+    "answers": [
+      "Use high-quality images with good lighting and a clean background"
+    ]
+  },
+  {
+    "question": "A fitness brand is sharing a workout tutorial on Instagram. What should they focus on to optimize the post?",
+    "answers": [
+      "Use a high-quality video, an engaging caption, and relevant hashtags"
+    ]
+  },
+  {
+    "question": "A home improvement company is creating a before-and-after video of a kitchen renovation for Instagram. What should they focus on to optimize the video for the platform?",
+    "answers": [
+      "Keep the video short, use a vertical format and include a strong opening shot"
+    ]
+  },
+  {
+    "question": "A travel blogger is sharing an Instagram post about a recent trip. How can they make the post more discoverable?",
+    "answers": [
+      "Use relevant hashtags and tag the location to increase visibility"
+    ]
+  },
+  {
+    "question": "A local coffee shop is launching a new seasonal drink and wants to increase engagement on Instagram. How should they use hashtags and mentions effectively?",
+    "answers": [
+      "Use a mix of branded and popular hashtags and tag relevant partners"
+    ]
+  },
+  {
+    "question": "Jake wants to improve his company's social media strategy by using a content calendar. What is the primary benefit of doing this?",
+    "answers": ["It helps organize and schedule posts in advance"]
+  },
+  {
+    "question": "A company wrote a successful blog post about industry trends. How could they repurpose this content for social media?",
+    "answers": [
+      "Turn key insights into an infographic and share it on LinkedIn"
+    ]
+  },
+  {
+    "question": "A marketing team wants to create a viral campaign for a new product launch. According to research on viral content, what is one key element they should focus on?",
+    "answers": ["Evoking strong emotions in the audience"]
+  },
+  {
+    "question": "A customer leaves a negative comment on a brand’s social media page about a delayed order. What is the best way for the brand to respond?",
+    "answers": [
+      "Acknowledge the concern, apologize, and offer to resolve the issue privately"
+    ]
+  },
+  {
+    "question": "A company with multiple social media managers wants to improve collaboration. How can a content calendar help?",
+    "answers": [
+      "It allows team members to contribute ideas and track scheduled content"
+    ]
+  },
+  {
+    "question": "A travel brand has long-form YouTube videos. How can they repurpose this content effectively?",
+    "answers": [
+      "Edit key moments into short clips for TikTok and Instagram Reels"
+    ]
+  },
+  {
+    "question": "A beauty brand wants to create engaging content on social media. What type of tutorial would be most effective?",
+    "answers": ["A short video demonstrating how to apply a new makeup product"]
+  },
+  {
+    "question": "A small tech startup is trying to increase its LinkedIn presence. What type of post would be most effective?",
+    "answers": ["An article explaining industry trends and insights"]
+  },
+  {
+    "question": "A fashion brand wants to create a storyboard for an upcoming product launch video. What should they include to make it effective?",
+    "answers": [
+      "A structured sequence of frames outlining key moments in the video"
+    ]
+  },
+  {
+    "question": "A small business wants to increase customer engagement on its social media posts. What is one effective strategy to encourage interaction?",
+    "answers": [
+      "Ask open-ended questions to invite followers to share their opinions"
+    ]
+  },
+  {
+    "question": "A new fitness app wants to build an engaged social media community. Which strategy would be most effective?",
+    "answers": ["Host challenges and encourage user-generated content"]
+  },
+  {
+    "question": "A business notices their engagement drops mid-week. How can they adjust their content calendar to improve performance?",
+    "answers": [
+      "Analyze engagement data and reschedule posts for higher activity periods"
+    ]
+  },
+  {
+    "question": "A company wrote a blog post on industry trends. How could they repurpose it for social media?",
+    "answers": ["Turn key insights into an infographic for LinkedIn"]
+  },
+  {
+    "question": "A coffee shop wants to engage customers on social media. What type of behind-the-scenes content would be most effective?",
+    "answers": ["A video showing how baristas create latte art"]
+  },
+  {
+    "question": "Emma receives many customer messages and wants to respond quickly. How can Meta Business Suite help her?",
+    "answers": [
+      "It consolidates messages from Facebook and Instagram into one inbox"
+    ]
+  },
+  {
+    "question": "Natalie wants to know which type of content receives the most engagement. Where should she look in Facebook Insights?",
+    "answers": ["The Content tab to review engagement metrics"]
+  },
+  {
+    "question": "Lena wants to know how many people visited her Instagram profile after seeing one of her posts. Which metric should she check in Instagram Insights?",
+    "answers": ["Profile Visits"]
+  },
+  {
+    "question": "Mia reviews her content calendar and sees that posts with product demos have high engagement, while text-based posts have low engagement. What should she do next?",
+    "answers": [
+      "Increase the number of product demo posts and reduce text-based posts"
+    ]
+  },
+  {
+    "question": "Alex’s goal is to increase awareness of his brand on social media. Which metric should he focus on?",
+    "answers": ["Reach"]
+  },
+  {
+    "question": "Carlos wants to ensure his content is reaching the right audience. Which tool should he use to analyze follower demographics?",
+    "answers": ["Facebook Insights and Instagram Insights"]
+  },
+  {
+    "question": "Ella wants to increase engagement on her social media posts. She decides to try different types of content to see what resonates with her audience. What is the best approach?",
+    "answers": [
+      "Experiment with different content formats and track engagement metrics to identify what works best"
+    ]
+  },
+  {
+    "question": "Maria wants to track how well her brand's content is performing on social media. She needs to choose KPIs that align with her goal of increasing engagement. Which KPI should she prioritize?",
+    "answers": ["Likes, comments and shares"]
+  },
+  {
+    "question": "Mark wants to know which posts are performing best on Facebook and Instagram. How can Meta Business Suite help?",
+    "answers": [
+      "It provides insights on reach, engagement, and audience demographics for each post"
+    ]
+  },
+  {
+    "question": "Anna posts similar content on Facebook and Instagram but notices higher engagement on Instagram. What should she do?",
+    "answers": [
+      "Analyze platform-specific engagement trends and adjust her strategy accordingly"
+    ]
+  },
+  {
+    "question": "A business notices that posting three times a week generates more engagement than posting daily. How should they adjust their content calendar?",
+    "answers": [
+      "Reduce posting frequency to three times a week to align with engagement trends"
+    ]
+  },
+  {
+    "question": "A local bakery finds many people don’t see its posts, and the owner wants to drive more foot traffic. What’s a key advantage of using paid ads?",
+    "answers": [
+      "They can target users by location to increase nearby store visits"
+    ]
+  },
+  {
+    "question": "A marketer notices that unpaid posts are being shared, but overall reach remains low. What aspect of paid ads could help improve reach?",
+    "answers": [
+      "Paid ads display to the audience she selects, regardless of existing connections"
+    ]
+  },
+  {
+    "question": "A consumer electronics brand wants to build awareness during a major tech event by sharing live updates, behind-the-scenes photos and real-time engagement. Which platform best supports this strategy?",
+    "answers": [
+      "X, which is ideal for real-time updates and event-based engagement"
+    ]
+  },
+  {
+    "question": "A business is planning its first social media ad. What’s the first step to ensure relevance and success?",
+    "answers": ["Define their target audience using demographics and interests"]
+  },
+  {
+    "question": "A small fitness brand wants to run its first ad campaign but is overwhelmed by audience options. What’s the best first step?",
+    "answers": [
+      "Define who their ideal customer is before selecting platform settings"
+    ]
+  },
+  {
+    "question": "An eco-friendly cleaning brand wants users to download a free guide on non-toxic cleaning. Which CTA is most effective for this ad?",
+    "answers": ["“Download Now” to prompt immediate access to the guide"]
+  },
+  {
+    "question": "A marketing team creates strong ad visuals, but conversions are low. They discovered that the landing page messaging was inconsistent with the ad. What does this reveal?",
+    "answers": [
+      "Assets must be coordinated to create a consistent experience from ad to action"
+    ]
+  },
+  {
+    "question": "An artist wants to expand their reach to art enthusiasts in a specific city. Why would paid ads be more effective than organic content?",
+    "answers": ["They allow geographic targeting regardless of follower status"]
+  },
+  {
+    "question": "An ad receives a lot of views but few conversions. What might be missing?",
+    "answers": ["A clear and compelling call to action"]
+  },
+  {
+    "question": "A meal delivery brand is launching a campaign in urban neighborhoods to reach young professionals interested in quick, healthy dinners. What targeting filter would be most effective?",
+    "answers": ["Location, age range and interest in healthy eating"]
+  },
+  {
+    "question": "Two companies are bidding for the same audience. One wins the auction, even with a slightly lower bid. Why?",
+    "answers": [
+      "Their ad had stronger relevance and quality scores for that audience"
+    ]
+  },
+  {
+    "question": "A nonprofit organization runs a campaign encouraging people to sign up for a newsletter. The team wants to assess the cost of each new signup. Which KPI would be the best fit?",
+    "answers": ["Cost per lead"]
+  },
+  {
+    "question": "A skincare company receives a photo from a customer showing how they use the product at home and wants to feature it in an ad. What should the company do before using this image in their campaign?",
+    "answers": ["Ask for permission before using the customer’s content"]
+  },
+  {
+    "question": "A social media manager is working with a copywriter, designer and brand marketer to create a campaign for a product launch. Which reason best explains why collaborating with internal teams supports a strong ad campaign?",
+    "answers": [
+      "Internal teams bring specialized skills that create brand consistency"
+    ]
+  },
+  {
+    "question": "A freelance copywriter receives a creative brief from a client’s marketing team. It includes background about the campaign, audience insights, tone and examples of competitor messaging. How does the creative brief help the copywriter?",
+    "answers": [
+      "It provides clear direction for writing copy that aligns with the campaign"
+    ]
+  },
+  {
+    "question": "A small business owner creates two different image ads for the same product: one showing a close-up and another showing a lifestyle scene. What is the best next step to improve the campaign’s performance?",
+    "answers": [
+      "Run both versions and test which version gets better engagement"
+    ]
+  },
+  {
+    "question": "A digital wellness brand wants to get people to click their ad and visit the website. They’re exploring ways to spark curiosity in the ad copy. Which approach would most effectively create curiosity?",
+    "answers": [
+      "Use a question or fact that addresses a key customer challenge"
+    ]
+  },
+  {
+    "question": "A social media ad promotes a free trial of a new software tool, but the key message highlights customer testimonials instead of the trial offer. Why might this message be less effective?",
+    "answers": [
+      "It doesn’t directly support the campaign’s goal of driving trial signups"
+    ]
+  },
+  {
+    "question": "A new ad uses a plain background and minimal color contrast. The team is concerned that users might scroll past it. What could help improve the ad’s performance?",
+    "answers": [
+      "Use brighter colors and stronger contrast to attract attention"
+    ]
+  },
+  {
+    "question": "A beverage company runs a campaign to raise awareness for a new sparkling water line. The marketing team needs a metric that measures how well the ad is remembered. Which KPI should they use?",
+    "answers": ["Ad recall lift"]
+  },
+  {
+    "question": "A marketer is drafting Facebook ad copy to promote a free trial of a meditation app. They want to hook readers, explain the benefit and prompt them to act. Which approach best follows a recommended copywriting structure?",
+    "answers": ["Write an opening, a transition and a clear call to action"]
+  },
+  {
+    "question": "A social media specialist is planning posts for an upcoming campaign. Some posts focus on engaging existing followers, while others need to drive website traffic from new users. How should they decide which posts should be paid?",
+    "answers": [
+      "Use paid ads when you want to reach beyond your current followers"
+    ]
+  },
+  {
+    "question": "A small business runs an ad with a photo of their product being used by a smiling customer. The copy highlights how the product improves daily routines. Why is this a strong example of ad design?",
+    "answers": ["The image and text reinforce the same emotional benefit"]
+  },
+  {
+    "question": "A business tests different headlines for a campaign focused on boosting app downloads. One version emphasizes features, and the other emphasizes time savings. How should they evaluate which version works best?",
+    "answers": [
+      "Measure results based on which version leads to more downloads"
+    ]
+  },
+  {
+    "question": "A brand tests two versions of an image: one with a product shot and another with a lifestyle scene. The lifestyle version performs better. What should they do next?",
+    "answers": [
+      "Use the better-performing image in the next phase of the campaign"
+    ]
+  },
+  {
+    "question": "A fashion retailer is planning an ad for running shoes. Instead of placing the ad on sports blogs, they target users based on recent search history for workout gear. What advertising method are they using?",
+    "answers": ["Data-based advertising"]
+  },
+  {
+    "question": "A marketing analyst is reviewing user data collected from interactions such as clicks, page visits and purchases. Why is this data valuable to both publishers and advertisers?",
+    "answers": ["It allows ads and content to be personalized for the user"]
+  },
+  {
+    "question": "After visiting an online clothing store, a user returns days later and sees items still in their shopping cart. What made this possible?",
+    "answers": ["A cookie saves information in their browser"]
+  },
+  {
+    "question": "An online furniture retailer shares its customer purchase history with a trusted home decor partner as part of a business agreement. What type of data is being shared?",
+    "answers": ["Second-party data"]
+  },
+  {
+    "question": "A group of advertisers voluntarily agrees to follow privacy standards set by an industry organization. What level of data protection does this represent?",
+    "answers": ["Industry self-regulation"]
+  },
+  {
+    "question": "A California resident requests a copy of all the personal information a company has collected about them. What law gives them this right?",
+    "answers": ["CCPA"]
+  },
+  {
+    "question": "A brand commits to the principles of notice, user choice and data security when serving ads. What is the benefit of following this self-regulatory framework?",
+    "answers": ["It builds trust with consumers and promotes ethical data use"]
+  },
+  {
+    "question": "An advertiser submits a campaign to Meta. Before approving the ad, the system checks the images, targeting and landing page. What policy is this process enforcing?",
+    "answers": ["Meta’s advertising policy"]
+  },
+  {
+    "question": "A user clears their cookies and notices the website no longer remembers their shopping preferences. What privacy-sensitive feature was affected?",
+    "answers": ["Local browser storage"]
+  },
+  {
+    "question": "A digital marketing firm collects user behavior from multiple unrelated websites using tracking cookies, then sells that data to advertisers. What kind of data collection is this?",
+    "answers": ["Third-party data"]
+  },
+  {
+    "question": "A marketing team finds that their data-driven ad campaign received five times more engagement than a generic campaign. What does this suggest about using personal data?",
+    "answers": ["It can significantly improve ad performance"]
+  },
+  {
+    "question": "An athletic apparel company wants to reach adults aged 25–50 interested in fitness. What is the best method to define this audience in the Facebook ad setup?",
+    "answers": [
+      "Use detailed targeting to choose age, interests, and behaviors"
+    ]
+  },
+  {
+    "question": "Once a campaign has a destination, audience, budget and duration, what is the final action before launch?",
+    "answers": ["Submit the promotion for review"]
+  },
+  {
+    "question": "A user sees an ad while viewing their friend's Stories. It appears between two Story posts. What kind of ad is this?",
+    "answers": ["Instagram Stories ad"]
+  },
+  {
+    "question": "A music streaming app tests their story ad with and without a voice-over. The version with sound performs better. What does this show?",
+    "answers": ["Enhance your story with sound"]
+  },
+  {
+    "question": "A marketer selects a one-day campaign with a $100 budget. What effect does this combination likely have?",
+    "answers": [
+      "The ad will attempt to reach many users quickly, possibly resulting in faster spend"
+    ]
+  },
+  {
+    "question": "A boutique owner isn’t sure who to target, but wants to launch quickly. Which targeting strategy is best?",
+    "answers": ["Let Instagram optimize delivery using Suggested Audience"]
+  },
+  {
+    "question": "A jewelry brand uses a product image and a \"Shop Now\" CTA in a Story ad focused on sales. What part of the funnel is this creative aligned with?",
+    "answers": [
+      "Bottom of the funnel, because it aims to convert viewers into buyers"
+    ]
+  },
+  {
+    "question": "A marketing intern wants to post a Story that lasts longer than 24 hours. Why might she use a paid ad instead of an organic post?",
+    "answers": [
+      "Paid Stories can run longer than 24 hours and appear in ad placements"
+    ]
+  },
+  {
+    "question": "A digital marketer is setting up an ad from their business’s Facebook Business Page to attract people to their website for a summer sale. What should be his first action after clicking the “Promote” button?",
+    "answers": ["Select “Get More Website Visitors” from the list of ad goals"]
+  },
+  {
+    "question": "A startup wants to grow its newsletter email list using Facebook ads. What objective should they choose?",
+    "answers": ["Get More Leads"]
+  },
+  {
+    "question": "An apparel company posts a story with five quick scenes over ten seconds. What tactic are they using?",
+    "answers": ["Split your story into scenes"]
+  },
+  {
+    "question": "While reviewing her ad draft, a user noticed Facebook had pre-filled the headline and image from her last post. What is the advantage of changing these default elements?",
+    "answers": [
+      "Custom creative makes the ad more relevant to the audience and goal"
+    ]
+  },
+  {
+    "question": "A marketing analyst at a startup sets their Instagram promotion to run for two days with a $5 daily budget. How does this impact their campaign?",
+    "answers": [
+      "The ad will run for 48 hours and spend up to $10 total, reaching a smaller audience"
+    ]
+  },
+  {
+    "question": "A junior marketer wants to focus on users aged 18–24 who live in Boston and follow fashion brands. What is the best way to set up targeting?",
+    "answers": ["Use Create Your Own to define age, location, and interests"]
+  },
+  {
+    "question": "A business wants to create a single campaign that runs on Facebook, Instagram, Messenger, and the Audience Network. Which tool should be used to enable this multi-platform distribution?",
+    "answers": ["Meta Ads Manager web interface"]
+  },
+  {
+    "question": "A team wants its video ad to run during video content on Facebook, placed alongside videos from trusted publishers. Which placement should they use?",
+    "answers": ["In-Stream"]
+  },
+  {
+    "question": "An advertiser is setting up a new Meta campaign. Which level should they use to choose the campaign’s goal?",
+    "answers": ["Campaign"]
+  },
+  {
+    "question": "A business wants to ensure its ad runs only during peak hours when users are most active. Where can they control this setting?",
+    "answers": ["Within the ad set under “Schedule” options"]
+  },
+  {
+    "question": "Question prompt goes hereA business owner needs to check ad performance and make quick edits to campaigns while traveling. Which Ads Manager tool is best suited for this?",
+    "answers": ["Ads Manager mobile app"]
+  },
+  {
+    "question": "An advertiser sees that their ad is losing auctions despite a competitive bid. Which factor could be reducing the ad’s total value?",
+    "answers": ["The ad quality score is low due to poor user experience"]
+  },
+  {
+    "question": "An advertiser wants to ensure that total ad costs do not exceed a set budget. What tool should be used to prevent spending beyond a fixed amount?",
+    "answers": ["Set an account spending limit in the Payment Settings section"]
+  },
+  {
+    "question": "An advertiser has a high estimated action rate but poor ad quality. What effect might this have in the Meta ad auction?",
+    "answers": [
+      "It could lower the total value and reduce the chances of winning"
+    ]
+  },
+  {
+    "question": "A business wants to adjust settings like billing information, payment methods, and account security. Which section of the navigation bar in Meta Ads Manager should they use?",
+    "answers": ["Manage Business"]
+  },
+  {
+    "question": "An advertiser is deciding how much they’re willing to spend for each website visit. What does this amount represent in Meta’s auction system?",
+    "answers": ["Their advertiser bid"]
+  },
+  {
+    "question": "A local business wants to collect contact information from people who may be interested in scheduling a consultation. Which Meta campaign objective should be selected to support this strategy?",
+    "answers": ["Leads"]
+  },
+  {
+    "question": "A campaign uses a lifetime budget and is set to run for 10 days. How does Meta determine how much to spend each day?",
+    "answers": ["Meta adjusts daily spend automatically based on opportunities"]
+  },
+  {
+    "question": "An advertiser is unsure how to divide their budget between several ad sets. They want Meta to handle the distribution automatically. Which budget option supports this approach?",
+    "answers": ["Campaign Budget Optimization"]
+  },
+  {
+    "question": "A company wants to drive traffic to its website so people can learn about a flower subscription service. What objective should be used?",
+    "answers": ["Traffic"]
+  },
+  {
+    "question": "An interior design company wants to attract more likes, comments, and shares on their new social media campaign. What campaign objective should they choose?",
+    "answers": ["Engagement"]
+  },
+  {
+    "question": "An advertiser wants to make sure no more than $20 is spent each day, even if there are opportunities for higher performance. Which budget type should be used?",
+    "answers": ["Daily budget"]
+  },
+  {
+    "question": "A mobile app company is preparing to launch a new budgeting app and wants to drive as many installs as possible. Which campaign objective is the best match?",
+    "answers": ["App promotion"]
+  },
+  {
+    "question": "A campaign has a daily budget of $60. On high-opportunity days, Meta may spend up to how much in a single day?",
+    "answers": ["$75"]
+  },
+  {
+    "question": "A campaign is using a lifetime budget of $300 over 10 days. How does Meta distribute the budget across those days?",
+    "answers": ["Meta can spend more on some days and less on others"]
+  },
+  {
+    "question": "A home décor brand is running a sale and wants to drive people directly to its online store to make purchases. Which campaign objective is the best fit?",
+    "answers": ["Sales"]
+  },
+  {
+    "question": "A client wants to create a new audience based on people who previously interacted with their app. What should they use as a source to build a lookalike audience?",
+    "answers": ["Custom Audience based on app activity"]
+  },
+  {
+    "question": "A client wants to create an audience based on specific demographics, interests, and behaviors. What type of audience should they use?",
+    "answers": ["Core audience"]
+  },
+  {
+    "question": "A client wants to re-engage people who visited their site more than 60 days ago but haven’t returned. What should they use to retarget this group?",
+    "answers": ["Create a time-based website Custom Audience"]
+  },
+  {
+    "question": "A client is deciding between letting Meta choose placements or selecting them manually. What is one benefit of using Advantage+ placements?",
+    "answers": [
+      "It automatically delivers ads in the most cost-effective placements"
+    ]
+  },
+  {
+    "question": "A client wants to run their campaign continuously starting today without setting an end date. What should they do in Ads Manager?",
+    "answers": ["Choose a start date and leave the end date blank"]
+  },
+  {
+    "question": "A client wants to understand whether their ad settings are too narrow. What can they review in Ads Manager to help with this?",
+    "answers": ["The estimated audience size tool"]
+  },
+  {
+    "question": "A client wants their ad to appear only during weekday afternoons for a short promotional campaign. What type of budget allows this level of scheduling control?",
+    "answers": ["Lifetime budget"]
+  },
+  {
+    "question": "A client asks to show ads to people based on their hobbies and device usage. Which feature of core audiences allows this level of targeting?",
+    "answers": ["Interests and behaviors targeting"]
+  },
+  {
+    "question": "A company has installed the Meta Pixel and wants to use the data to measure conversions in their campaign. What additional step must they take?",
+    "answers": ["Connect the Pixel to their ad account in Ads Manager"]
+  },
+  {
+    "question": "A client wants to reach people based on their interests, location, and behavior patterns. Which audience type should they choose?",
+    "answers": ["Core audience"]
+  },
+  {
+    "question": "A client wants their campaign to generate as many purchases as possible. Which optimization strategy should they select?",
+    "answers": ["Optimize for conversions"]
+  },
+  {
+    "question": "A company wants its ads to run only during specific hours of the day, such as evenings. Which scheduling option should they select?",
+    "answers": ["Use a lifetime budget and schedule specific times"]
+  },
+  {
+    "question": "A business wants users to visit its website and browse new products. What choice will best guide Meta in optimizing the ad delivery for this intent?",
+    "answers": ["Selecting a Traffic campaign objective"]
+  },
+  {
+    "question": "A clothing store wants to showcase several items from its new collection in a single ad to increase product awareness. Which ad format should they choose to meet this goal?",
+    "answers": ["Carousel"]
+  },
+  {
+    "question": "An advertiser uploads a product photo and sees options to crop it into square, vertical, or horizontal shapes. Why should these cropping tools be used?",
+    "answers": ["To optimize how the image appears across different placements"]
+  },
+  {
+    "question": "A skincare company wants to run an ad stating “Erase all acne in 7 days.” Which policy concern is most relevant here?",
+    "answers": ["Prohibited exaggerated or misleading claims"]
+  },
+  {
+    "question": "An advertiser wants to ensure that a campaign spends evenly over time without exceeding a set total. Which option in Ads Manager supports this objective?",
+    "answers": ["Use a lifetime budget with standard delivery"]
+  },
+  {
+    "question": "A team wants to compare how different demographics responded to an ad quickly. What feature in Ads Manager supports this?",
+    "answers": ["Breakdown by audience attributes"]
+  },
+  {
+    "question": "An advertiser selects “Traffic” as the campaign objective. What result metric will most likely be tracked?",
+    "answers": ["Link clicks"]
+  },
+  {
+    "question": "An ad is being created for a local gardening workshop with the goal of increasing sign-ups for an upcoming event. Which step in Ads Manager helps ensure the ad aligns with this marketing goal?",
+    "answers": [
+      "Selecting the appropriate campaign objective for lead generation"
+    ]
+  },
+  {
+    "question": "A business wants to create a new ad from scratch with a single image and original ad copy. Which action should be taken first in the creative section?",
+    "answers": ["Choose the ad format as “Single Image”"]
+  },
+  {
+    "question": "An advertiser includes “You will gain muscle fast!” in the ad copy. Why is this likely to be rejected?",
+    "answers": ["It makes a personal attribute claim"]
+  },
+  {
+    "question": "A campaign’s ad set is marked “Learning Limited” due to not achieving enough optimization events. What is the best way to help the ad set exit this status?",
+    "answers": [
+      "Raise the budget to ensure at least 50 conversion events per week"
+    ]
+  },
+  {
+    "question": "An advertiser wants to see how the cost per result has changed over several weeks. What should be done?",
+    "answers": ["Use the Breakdown feature to segment by week"]
+  },
+  {
+    "question": "You’ve launched a campaign with multiple ad sets and want to monitor the performance of a single ad set. Where should you go in Ads Manager to find this information?",
+    "answers": ["The Ad Sets tab within Ads Manager"]
+  },
+  {
+    "question": "A candy company creates a campaign to increase sales of its candies through its website. Which metric should the company use to evaluate the success of the campaign?",
+    "answers": ["Sales"]
+  },
+  {
+    "question": "Which feature is available for an unpaid (organic) post on a Page?",
+    "answers": ["Add a video"]
+  },
+  {
+    "question": "Which two ad placement platforms are available when you create an ad in Ads Manager? (Choose two)",
+    "answers": ["Instagram Feed", "Audience Insights"]
+  },
+  {
+    "question": "An advertiser is about to deliver a campaign. Where should the advertiser navigate to in Ads Manager to include Instagram in the campaign?",
+    "answers": ["Ad set level"]
+  },
+  {
+    "question": "A local gym spends $1,000 on ads to promote its new membership program. Over the next month, the campaign generates 50 leads. The gym typically converts 20% of leads into paying members; each new member brings in $500 annually. What is the ROAS?",
+    "answers": ["5"]
+  },
+  {
+    "question": "A subscription box service charges $50/month, with an average customer lifespan of 24 months and one purchase per month. What is the Lifetime Value?",
+    "answers": ["$1,200"]
+  },
+  {
+    "question": "A marketing manager is reviewing two recent campaigns. One campaign has a ROAS of 4, and the other has a ROAS of 2. However, the campaign with the lower ROAS generated more profit. What is the most likely explanation?",
+    "answers": ["The second campaign had lower production or fulfillment costs"]
+  },
+  {
+    "question": "A team runs two campaigns. One has a cost per result of $5, the other $20. Without additional context, what should they do?",
+    "answers": [
+      "Review how much each result is actually worth before making a decision"
+    ]
+  },
+  {
+    "question": "A local gym runs a campaign that costs $2,400 and brings in 60 new members. What is their CAC?",
+    "answers": ["$40"]
+  },
+  {
+    "question": "Which metric would be most helpful in understanding the long-term revenue a customer might generate for your company?",
+    "answers": ["Lifetime Value (LTV)"]
+  },
+  {
+    "question": "An online learning company earns $12,000 in revenue from a campaign with $4,000 in ad and operations costs. What is the ROI?",
+    "answers": ["2.0"]
+  },
+  {
+    "question": "A campaign has a ROAS of 5. What insight does this provide to a marketing manager?",
+    "answers": ["The revenue was five times the amount spent on advertising"]
+  },
+  {
+    "question": "A team compares two campaigns: one shows a strong ROAS but weak ROI, while the other has moderate ROAS and strong ROI. The team wants to prioritize campaigns that lead to long-term profitability. Which metric should they focus on?",
+    "answers": [
+      "ROI, because it includes all investments and provides a clearer picture of profit"
+    ]
+  },
+  {
+    "question": "A marketer notices that their campaign has a cost per lead of $50. Each lead typically converts into a $2,000 client. What does this suggest?",
+    "answers": [
+      "The cost per lead is reasonable, given the value of a converted customer"
+    ]
+  },
+  {
+    "question": "During a Brand Lift Test, the percentage of people in the control group who recalled the ad was 7.9%, and in the test group it was 21.8%. What should the marketer conclude from these numbers?",
+    "answers": [
+      "There is a 13.9 point increase in brand recall between test and control groups"
+    ]
+  },
+  {
+    "question": "In a recent Brand Lift Test, 11% of the control group indicated that they remembered seeing the ad, even though they were not targeted with it. What is the most appropriate explanation for this recall in the control group?",
+    "answers": [
+      "Respondents may recall the brand due to prior exposure or perceived familiarity"
+    ]
+  },
+  {
+    "question": "A campaign shows promising test results, but the confidence level is too low to be considered reliable. The team wants to improve the setup for future experiments. How can they increase the confidence level in the next test?",
+    "answers": ["Extend the test duration to collect more responses"]
+  },
+  {
+    "question": "A campaign manager wants to exclude users from the test group if they don’t see the ad. A colleague recommends keeping them in to reduce bias. Why is it important to keep participants in their original group assignment under ITT?",
+    "answers": ["It preserves randomization and minimizes selection bias"]
+  },
+  {
+    "question": "A marketer is launching a new campaign to improve awareness of a brand’s online ordering option. The goal is to increase recognition among a broader audience. Which test should the marketer use to evaluate this campaign’s effectiveness?",
+    "answers": ["Brand Lift Test"]
+  },
+  {
+    "question": "While setting up a survey for a Brand Lift Test, a marketer wants to ensure the poll questions are relevant to the campaign. How can the marketer ensure the questions align with the campaign’s content?",
+    "answers": [
+      "Customize the wording of the ad recall question to match the ad and brand"
+    ]
+  },
+  {
+    "question": "A brand’s test results show similar lift values to the regional benchmark, but leadership is unsure how to use the data. What is a meaningful way to act on this result?",
+    "answers": ["Use the comparison to guide expectations for future campaigns"]
+  },
+  {
+    "question": "A Brand Lift Test reports 26% ad recall in the test group and 11% in the control group. How should the brand lift be calculated based on these results?",
+    "answers": [
+      "Subtract the control group’s recall from the test group’s recall"
+    ]
+  },
+  {
+    "question": "A campaign generates strong conversion results, but the ROAS is lower than expected. The team wants to improve future spend efficiency. Which strategy could help improve ROAS in future campaigns?",
+    "answers": [
+      "Shift more budget toward campaigns that show proven performance"
+    ]
+  },
+  {
+    "question": "A marketing analyst is reviewing how test groups were managed in a brand lift experiment. They learn that participants remained in their assigned groups regardless of whether they saw the ad. What principle does this approach reflect?",
+    "answers": ["Intention to Treat"]
+  },
+  {
+    "question": "A team sets up a Brand Lift Test but begins running their campaign before launching the experiment. Why is this a problem for valid test results?",
+    "answers": [
+      "The control group must be defined before any ad exposure occurs"
+    ]
+  },
+  {
+    "question": "After analyzing test results, a marketer learns that their campaign produced positive lift, but only for a specific audience segment. What is one way to use this insight to refine future campaigns?",
+    "answers": [
+      "Adjust targeting to focus on the segment that responded most positively"
+    ]
+  },
+  {
+    "question": "A marketing director is reviewing a campaign's annual performance across TV, Facebook, and YouTube. They want to understand which channel contributed most to sales. Which approach would help them determine the contribution of each channel to the final results?",
+    "answers": [
+      "Use Media Mix Modeling to analyze past data and evaluate each channel's ROI"
+    ]
+  },
+  {
+    "question": "A marketer wants to evaluate which of their ads played the most crucial role in a customer’s decision to make a purchase. What is the primary purpose of attribution modeling in this context?",
+    "answers": [
+      "To assign credit to specific touchpoints that influenced a customer’s conversion"
+    ]
+  },
+  {
+    "question": "An advertiser collects data from their app, website, and retail store, but finds it difficult to attribute all actions to a single user. What makes it hard to connect these touchpoints?",
+    "answers": [
+      "Reliance on cookies, which are ineffective across mobile and apps"
+    ]
+  },
+  {
+    "question": "A social media team wants to run an A/B test comparing two ad headlines. To ensure the test delivers reliable insights, what is one best practice they should follow?",
+    "answers": ["Test only one variable at a time"]
+  },
+  {
+    "question": "A company uses a last-click attribution model but notices that early ads in the funnel aren’t being credited for conversions. What is one limitation of this model?",
+    "answers": [
+      "It ignores the influence of earlier touchpoints in the customer journey"
+    ]
+  },
+  {
+    "question": "A marketing team uses available performance data to identify which ads had the greatest incremental impact on conversions. What is a key feature of statistical attribution models?",
+    "answers": [
+      "They assign fractional credit to touchpoints based on estimated incremental impact"
+    ]
+  },
+  {
+    "question": "A media planner receives attribution data showing high ROI for search and social ads, but low ROI for display ads. What is the most strategic response?",
+    "answers": [
+      "Reallocate budget to channels with higher ROI for the next quarter"
+    ]
+  },
+  {
+    "question": "A marketing team wants to track app purchases, website sales, and in-store transactions in one reporting system. Which tools should they use to capture these data sources on Meta?",
+    "answers": ["Meta Pixel, SDK, and Conversions API"]
+  },
+  {
+    "question": "A company is running a cross-platform holiday campaign that includes digital, print, and TV. They want to evaluate which channels to prioritize next year. Why would Media Mix Modeling be appropriate in this situation?",
+    "answers": [
+      "It’s designed to measure the effectiveness of both online and offline media channels"
+    ]
+  },
+  {
+    "question": "A strategist wants to distribute credit equally across all ad impressions and clicks that led to a purchase. Which attribution model should they choose?",
+    "answers": ["Even-credit attribution model"]
+  },
+  {
+    "question": "An analyst is unsure whether to use a rules-based or statistical model. What is one advantage of using a statistical model over a rules-based model?",
+    "answers": [
+      "It reflects actual performance patterns rather than relying on assumptions"
+    ]
+  },
+  {
+    "question": "A team is preparing an A/B test and wants to ensure the results clearly show which change made the difference. What is the most important step in designing the test?",
+    "answers": ["Vary only one element between the two ad versions"]
+  },
+  {
+    "question": "An analyst is reviewing attribution results for a brand awareness campaign. The data shows strong impact from early impressions. What model would best reflect this influence?",
+    "answers": ["First-touch attribution model"]
+  },
+  {
+    "question": "After an A/B test, a manager assumes the ad with the highest click-through rate is the winner. However, it also had a higher cost per result. What should the manager consider before concluding?",
+    "answers": [
+      "The goal of the test and which metric aligns best with campaign objectives"
+    ]
+  },
+  {
+    "question": "A marketing team is presenting campaign results and wants to help the audience evaluate success. What role do campaign goals play in this part of the presentation?",
+    "answers": [
+      "They provide a baseline for measuring whether the results met expectations"
+    ]
+  },
+  {
+    "question": "A campaign team is preparing a performance presentation and wants the audience to notice the key metric first. What is the best way to help the audience focus on what matters?",
+    "answers": ["Use color contrast to highlight the most critical data point"]
+  },
+  {
+    "question": "A marketing team reviews campaign data and notices that most sales happened in the second half of the month. How should this finding be used to improve the next campaign?",
+    "answers": [
+      "Shift more ad budget to the part of the month when sales are higher"
+    ]
+  },
+  {
+    "question": "A marketer feels nervous before starting and wants to center themselves. What technique could help provide calm and focus before speaking?",
+    "answers": [
+      "Take a deep breath or sip water as a calming anchor before starting"
+    ]
+  },
+  {
+    "question": "A marketing coordinator is preparing to present in a conference room they haven’t used before. What should be done in advance to avoid technical issues?",
+    "answers": [
+      "Check how to load their presentation on the room’s computer or screen"
+    ]
+  },
+  {
+    "question": "An A/B test reveals that one creative performed significantly better than the other. What conclusion should be drawn from this data?",
+    "answers": [
+      "Use the better-performing creative for future campaigns and continue testing other options"
+    ]
+  },
+  {
+    "question": "A presenter is concluding a campaign performance presentation and wants to leave the audience with a strong final message. What is the best way to conclude the presentation?",
+    "answers": [
+      "Circle back to their opening by answering their initial question or finishing their story"
+    ]
+  },
+  {
+    "question": "A marketing team preparing for a campaign presentation wants to feel confident about the timing and flow. What should be done before presenting?",
+    "answers": [
+      "Practice the entire presentation out loud and time how long it takes"
+    ]
+  },
+  {
+    "question": "A chart showing sales growth starts the vertical axis at 100 instead of 0, making the growth appear larger than it really is. What adjustment should be made?",
+    "answers": [
+      "Adjust the axis to start at zero so the visual accurately reflects the change in data"
+    ]
+  },
+  {
+    "question": "A marketing campaign team wants to show that their results were carefully tested before sharing conclusions. What could be mentioned to explain the process?",
+    "answers": [
+      "Describe any experiments, such as an A/B test, that were used to validate the results"
+    ]
   }
 ]

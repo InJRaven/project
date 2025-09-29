@@ -20,6 +20,7 @@ import { useEffect, useState } from "react";
 const Quizz = () => {
   const subjects = [
     { value: "ada201c", label: "ADA201c" },
+    { value: "aid301c", label: "AID301c" },
     { value: "bdi302c", label: "BDI302c" },
     { value: "cry303c", label: "CRY303c" },
     { value: "det101c", label: "DET101c" },

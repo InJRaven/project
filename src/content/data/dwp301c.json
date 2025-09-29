@@ -4623,5 +4623,141 @@
     "answers": [
       "Consider factors that might call for a compensation negotiation"
     ]
+  },
+  {
+    "question": "Sana is looking for technical career opportunities and wants to understand what makes software engineering different from software development. Which of the following best describes software engineering in this scenario?",
+    "answers": [
+      "The application of scientific principles to the design and creation of software."
+    ]
+  },
+  {
+    "question": "A healthcare startup is finalizing its new software. They want to ensure that the program meets user requirements and is bug-free before the general launch. What should be the focus of the testing team during their testing phase?",
+    "answers": ["Verify software matches requirements."]
+  },
+  {
+    "question": "A project manager is collecting input from the stakeholders about the new inventory system requirements. Which document should they develop to properly capture the system’s capabilities and constraints?",
+    "answers": ["Software requirements specification (SRS) document"]
+  },
+  {
+    "question": "Tara is testing a new software application, ensuring it behaves efficiently according to users’ requirements and is easy to use. Which type of testing should Tara use?",
+    "answers": [
+      "Its goal is to make sure the application is usable and accessible."
+    ]
+  },
+  {
+    "question": "As a software developer, you want to write clear, efficient, and easy-to-maintain code by following certain best practices. Which software development lifecycle phase supports this phase?",
+    "answers": ["Software design"]
+  },
+  {
+    "question": "You want to prepare a document that explains how to use software once it is deployed, which type of documentation should you prefer to create?",
+    "answers": ["User documentation"]
+  },
+  {
+    "question": "Liam wants to add clickable buttons for pop-up messages on the website. Which technology should Liam use in this scenario?",
+    "answers": ["JavaScript"]
+  },
+  {
+    "question": "A web developer needs a tool to build interactive user interfaces. Which of these would be the most appropriate choice?",
+    "answers": ["Vue.js"]
+  },
+  {
+    "question": "Ricky is adding a user-friendly carousel feature while developing a cloud app, but he doesn’t want to build it from scratch. Which tool will Ricky use in this scenario?",
+    "answers": ["Libraries"]
+  },
+  {
+    "question": "You are developing a large-scale software application that requires reusable code structures using classes and objects. Which of the following statements best describes an object-oriented programming language",
+    "answers": [
+      "To create programs using object-oriented principles like classes and objects"
+    ]
+  },
+  {
+    "question": "In a programming lecture, the instructor mentions “scripting languages” while discussing different types of languages. Which of these programming language types is she most likely referring to?",
+    "answers": ["An interpreted programming language"]
+  },
+  {
+    "question": "Tanya is building a program where she needs to store items that will automatically grow or shrink as users add or remove entries. Which type of container should she use?",
+    "answers": ["Vector"]
+  },
+  {
+    "question": "Your team is tasked with creating a scalable enterprise application, considering that the earlier design choices will have a long-lasting impact on the application’s structure and future development process. Which of the following aspects should a team focus on?",
+    "answers": ["It represents the earliest design decisions."]
+  },
+  {
+    "question": "Which of the following would typically be created as a result of software architecture design?",
+    "answers": ["Unified modeling language (UML) diagrams"]
+  },
+  {
+    "question": "A developer joins an ongoing software project. They review Unified Modeling Language (UML) diagrams to understand how system components interact. What is the main benefit of using these diagrams?",
+    "answers": ["To quickly understand the system structure and relationships"]
+  },
+  {
+    "question": "Your organization wants to structure an application into layers that separate presentation, logic, and data management to improve scalability and maintainability. Which of the following architectures will you use?",
+    "answers": ["Three-tier architecture"]
+  },
+  {
+    "question": "Which of the following architecture patterns should organizations follow to develop an application where users can send and receive messages via a server?",
+    "answers": ["Event-driven architecture"]
+  },
+  {
+    "question": "A team is writing new features for an application and regularly testing their code changes. Which environment are they working in?",
+    "answers": ["Development for active code updates"]
+  },
+  {
+    "question": "An organization wants to leverage a server that handles business logic and enables communication between users and server-side applications. Which server is best suited for this requirement?",
+    "answers": ["Application server"]
+  },
+  {
+    "question": "A software engineer is working on optimizing a database query to improve application performance. This task requires specialized knowledge and technical expertise. Which of the following is an example of a technical skill?",
+    "answers": ["Proficiency in coding"]
+  },
+  {
+    "question": "Manya wants to collaborate with cross-functional teams and adjust her tasks as the project requirements change. What kind of skills will she leverage for a successful project completion?",
+    "answers": ["Communication and adaptation capabilities"]
+  },
+  {
+    "question": "As Alex navigates the career fair, he’s particularly curious about interdisciplinary collaborations in the software development world. Which technology professionals most frequently collaborate with creative specialists, bridging the gap between technical functionality and innovative design?",
+    "answers": ["Game developers"]
+  },
+  {
+    "question": "During the focus time, Mini wants to refine some code for better performance. What would she do?",
+    "answers": ["She disabled feature toggles to reduce conditional branching."]
+  },
+  {
+    "question": "Sharon has recently joined a new project team where they work on shared devices to brainstorm and write code interactively. What does pair programming best involve in this scenario?",
+    "answers": [
+      "It is a collaborative development approach where two programmers work together to design and write code."
+    ]
+  },
+  {
+    "question": "The IT security team at a financial institution is investigating potential unauthorized code modifications during a recent audit. What critical information can version control systems provide to support their investigation?",
+    "answers": ["Code modification authors"]
+  },
+  {
+    "question": "Jonny works with the software development team that creates software that enables users to interact with the application directly using buttons. What type of software engineering role is Jonny playing in this team?",
+    "answers": ["Front-end engineer"]
+  },
+  {
+    "question": "Joy wants to ensure that her software meets the client’s requirements and works as expected. Which technical skill will help her to meet this expectation?",
+    "answers": ["Testing and debugging"]
+  },
+  {
+    "question": "A technology investment firm is analyzing the growing technology workforce landscape. What fundamental factor is driving the increased demand for software engineers?",
+    "answers": ["Demand for software applications and websites"]
+  },
+  {
+    "question": "A healthcare technology company is preparing to launch a critical patient management application. What quality assurance process is essential to ensure the software meets all specified requirements?",
+    "answers": ["Testing"]
+  },
+  {
+    "question": "You’ve documented requirements for your new software development project. Now your team is revisiting those requirements to ensure that they are clear, complete, and aligned with the project objectives for sharing with the client. Which of the following best describes this process?",
+    "answers": ["Analyzing requirements"]
+  },
+  {
+    "question": "Which of the following software development methodologies easily handles changing requirements and enables feedback to be regularly incorporated into the solution?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "You are modeling a software solution for a medical lab using object-oriented analysis and design (OOAD). You want to illustrate the classes for the technician, nurse, and doctor to inherit from Medical Personnel. What type of UML diagram should you create?",
+    "answers": ["Class"]
   }
 ]

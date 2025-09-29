@@ -653,7 +653,7 @@
   },
   {
     "question": "What does the \"Z\" mean in this representation of a time: 1 2002-05-30T09:30:10Z",
-    "answers": ["his time is in the UTC timezone"]
+    "answers": ["this time is in the UTC timezone"]
   },
   {
     "question": "Which of the following dates is in ISO8601 format?",

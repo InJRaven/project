@@ -289,6 +289,1154 @@
       "Looking at people that also ask questions",
       "Using Google Trends"
     ]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can identify relevant competitors in a search landscape.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I understand how to analyze a competitor’s keyword strategy.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I know how to conduct keyword research.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I feel confident mapping keywords to specific pages in a logical way.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can write basic SEO title tags aligned with keyword targets.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can spot content and keyword gaps based on competitive comparisons.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I understand how my keyword and competitive research informs the overall SEO strategy.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "I was able to list at least 5 core pages with mapped keywords and example title tags",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Take a moment to reflect on your experience completing this module: What parts of the research process felt clear and intuitive? Where did you get stuck or feel unsure? Which tools or techniques were the most helpful to you? Did you notice any patterns in your competitive analysis that surprised you? Based on what you’ve learned, what areas of SEO research do you want to deepen your skills in? Write 3–5 sentences summarizing what you learned and one specific area you want to improve moving forward.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can assess whether on-page content is well-optimized for target keywords.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I know how to identify content gaps on a website.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I understand what makes a piece of content high-quality from both a user and SEO perspective.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can evaluate a website’s backlink profile or authority using available tools.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I can spot quick-win content opportunities based on keyword alignment and visibility.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I feel confident recommending specific on-page improvements with SEO impact in mind.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Rate yourself on the following: (1 = Not Confident, 3 = Somewhat Confident, 5 = Very Confident) I understand how on-page content, authority, and visibility all connect in SEO strategy.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "I was able to identify key on-page elements for quality and optimization with 2-3 examples",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What’s one specific area of on-page SEO or visibility you’d like to improve or explore further, and find 3 resources that will aid you in this exploration.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "What is the main purpose of an executive summary in an SEO strategy presentation?",
+    "answers": [
+      "To provide a high-level overview of the opportunity, strategy, and business impact"
+    ]
+  },
+  {
+    "question": "When prioritizing SEO recommendations, which of the following combinations should be considered?",
+    "answers": ["Business impact and level of effort"]
+  },
+  {
+    "question": "In your keyword research, you’ve found a high-volume keyword with low competition but low relevance to your site. What should you do?",
+    "answers": ["Skip it—relevance is more important than volume"]
+  },
+  {
+    "question": "Which of the following combination of factors can improve a page’s visibility in search results, aside from keyword usage?",
+    "answers": ["Improving page speed and earning backlinks"]
+  },
+  {
+    "question": "In your final roadmap, you recommend fixing several technical issues. Which of the following would be considered a quick win?",
+    "answers": ["Fixing a broken robots.txt file that’s blocking key pages"]
+  },
+  {
+    "question": "Which of the following best describes a KPI in the context of SEO?",
+    "answers": ["A measurable indicator of performance aligned with goals"]
+  },
+  {
+    "question": "What is the best way to structure your final SEO portfolio for maximum clarity and impact?",
+    "answers": [
+      "Start with a concise executive summary, then follow with key findings, recommendations, and supporting details"
+    ]
+  },
+  {
+    "question": "From the above instructions, please use this area to provide the websites you chose and what made you choose them. You can look back on this for later exercises in this course.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "From the above instructions, please use this area to provide the answers to the questions. You can look back on this for later exercises in this course.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Use this space to reflect on and answer the above questions.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "Please use this space to consider the points laid out and to answer the questions above.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "From the guidance above, please use this space to create your Buyer's Persona. Describe in detail your Buyer's Persona starting with the companies you chose, demographic data, user details, SEO specific queries, and/or persona's possible searches.",
+    "answers": ["oke"]
+  },
+  {
+    "question": "You receive a private message offering to sell you assignment answers for the 'Introduction to Google SEO' course. Which is the most appropriate channel to report this suspicious activity?",
+    "answers": ["Coursera's learner support"]
+  },
+  {
+    "question": "Which of the following roles can benefit from SEO knowledge beyond traditional marketing roles? (Select all that apply)",
+    "answers": ["Sales Managers", "Project Managers", "Content Writers"]
+  },
+  {
+    "question": "What is Search Engine Optimization (SEO) and why is it crucial for website visibility?",
+    "answers": [
+      "SEO is a set of strategies used to improve a website's ranking on search engines, thus increasing visibility."
+    ]
+  },
+  {
+    "question": "Which of the following are core skills for a career in SEO? (Select all that apply)",
+    "answers": ["Analytical skills", "Link building", "Keyword research"]
+  },
+  {
+    "question": "Which role is primarily responsible for improving a website’s visibility in organic search?",
+    "answers": ["SEO Specialist"]
+  },
+  {
+    "question": "What are the benefits of incorporating user-generated content (UGC) into your SEO strategy?",
+    "answers": [
+      "Increases engagement and interaction with the audience",
+      "Provides fresh and diverse content",
+      "Boosts credibility and trustworthiness"
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice for optimizing title tags?",
+    "answers": ["Keep the title tag under 60 characters."]
+  },
+  {
+    "question": "What are some essential elements of on-page SEO?",
+    "answers": ["Title tags", "Meta descriptions", "Heading tags"]
+  },
+  {
+    "question": "How can AI-generated content impact your SEO strategy?",
+    "answers": ["It can improve content generation speed and efficiency."]
+  },
+  {
+    "question": "What is a primary challenge of incorporating user-generated content (UGC) into your SEO strategy?",
+    "answers": ["Ensuring the content is high-quality and relevant."]
+  },
+  {
+    "question": "Which of the following best describes the purpose of heading tags in SEO?",
+    "answers": [
+      "To help search engines understand the structure and relevance of content"
+    ]
+  },
+  {
+    "question": "What is one key element to consider when creating an optimized title tag for SEO?",
+    "answers": [
+      "Include the primary keyword near the beginning of the title tag."
+    ]
+  },
+  {
+    "question": "What is the impact of Google's algorithm changes on AI-generated content?",
+    "answers": [
+      "AI-generated content must adhere to Google's quality guidelines."
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice for using heading tags in SEO?",
+    "answers": [
+      "Use headings to create a clear and logical structure for the content."
+    ]
+  },
+  {
+    "question": "Which of the following is a potential risk of using AI for content creation in SEO? (Select all that apply.)",
+    "answers": [
+      "Your site may get penalized for SEO content.",
+      "AI-generated content is always better than human-created content.",
+      "AI-generated content may lack originality and uniqueness."
+    ]
+  },
+  {
+    "question": "How do social media interactions contribute to SEO?",
+    "answers": ["Expand reach and link opportunities"]
+  },
+  {
+    "question": "Identify the tactics that are part of a strong offsite SEO strategy.",
+    "answers": [
+      "Digital PR",
+      "Social media engagement",
+      "Competitor backlink analysis"
+    ]
+  },
+  {
+    "question": "What is the primary benefit of implementing effective offsite SEO strategies for a website?",
+    "answers": ["Brand authority and visibility"]
+  },
+  {
+    "question": "Which of the following are effective offsite SEO tactics to enhance a website's authority and relevance?",
+    "answers": ["Guest blogging and digital PR"]
+  },
+  {
+    "question": "Which of the following factors are crucial for evaluating the quality of a backlink?",
+    "answers": [
+      "Time spent on page",
+      "On-page signals",
+      "Anchor text relevance"
+    ]
+  },
+  {
+    "question": "Which strategy involves integrating social media to improve offsite SEO effectively?",
+    "answers": ["Utilizing social media for brand mentions"]
+  },
+  {
+    "question": "Which of these tactics is considered outdated and potentially harmful to offsite SEO?",
+    "answers": ["Link farming"]
+  },
+  {
+    "question": "Select the factors that influence the scoring of a backlink's quality.",
+    "answers": [
+      "Website's overall traffic",
+      "Anchor text relevance",
+      "Link placement within content"
+    ]
+  },
+  {
+    "question": "Select the strategies that can improve offsite SEO by engaging with external platforms or communities.",
+    "answers": [
+      "Guest blogging",
+      "Digital PR campaigns",
+      "Local directory listings"
+    ]
+  },
+  {
+    "question": "Which tactic is considered effective for building high-quality backlinks?",
+    "answers": ["Guest blogging on reputable sites"]
+  },
+  {
+    "question": "Which strategies integrate social media and SEO effectively?",
+    "answers": [
+      "Brand mentions on social platforms",
+      "Collaborating with influencers",
+      "Engaging content sharing"
+    ]
+  },
+  {
+    "question": "Why is it important to understand Google's evolving emphasis on link evaluation?",
+    "answers": [
+      "It impacts how SEO strategies are developed to align with current algorithms."
+    ]
+  },
+  {
+    "question": "What is a key factor in maintaining a natural link profile?",
+    "answers": ["Diverse anchor text"]
+  },
+  {
+    "question": "Which of the following is a key factor to consider when building a natural link profile for a website?",
+    "answers": ["Link diversity and relevance"]
+  },
+  {
+    "question": "Identify the offsite SEO tactics that involve collaboration with other content creators or platforms.",
+    "answers": ["Guest blogging", "Digital PR"]
+  },
+  {
+    "question": "Why is off-site SEO crucial for a website?",
+    "answers": ["It increases authority and visibility"]
+  },
+  {
+    "question": "What is the primary benefit of brand mentions in offsite SEO?",
+    "answers": ["Enhancement of online visibility"]
+  },
+  {
+    "question": "Identify the tactics that can be used to improve offsite SEO for a local business.",
+    "answers": [
+      "Utilizing local directory listings",
+      "Collaborating with local influencers",
+      "Participating in local community events"
+    ]
+  },
+  {
+    "question": "Identify the factors crucial for obtaining high-quality backlinks and maintaining a natural link profile.",
+    "answers": ["Page load time", "Anchor text relevance"]
+  },
+  {
+    "question": "Which strategies can effectively enhance brand visibility through SEO and social media integration?",
+    "answers": [
+      "Optimizing social media profiles for SEO",
+      "Using social media for backlink building",
+      "Creating shareable content"
+    ]
+  },
+  {
+    "question": "Select the elements that contribute to improving a website's crawlability.",
+    "answers": [
+      "Sitemaps help search engines discover new pages on your site.",
+      "Robots.txt files instruct search engines on which pages to crawl.",
+      "HTML tags ensure better crawlability.",
+      "Link structure within a site aids efficient crawling."
+    ]
+  },
+  {
+    "question": "What is the impact of crawlability on SEO?",
+    "answers": [
+      "It determines how easily search engines can access, understand, and index content."
+    ]
+  },
+  {
+    "question": "Identify the technical aspects of URLs that impact SEO performance.",
+    "answers": ["Keyword usage in URL", "URL length"]
+  },
+  {
+    "question": "Which elements are important for ensuring a website's crawlability?",
+    "answers": ["Sitemap", "robots.txt file"]
+  },
+  {
+    "question": "How does a hierarchical organization of website pages impact user experience and SEO?",
+    "answers": [
+      "Hierarchically arranged pages help users find information faster."
+    ]
+  },
+  {
+    "question": "What is a main advantage of using subdomains for organizing website content?",
+    "answers": [
+      "Subdomains help segment content and maintain separate server resources."
+    ]
+  },
+  {
+    "question": "Which statements about HTTPS are accurate in the context of SEO and user experience?",
+    "answers": [
+      "HTTPS impacts SEO by improving user trust.",
+      "Implementing HTTPS ensures secure connections for users."
+    ]
+  },
+  {
+    "question": "Identify the benefits and best practices of using subdomains and subdirectories for organizing website content.",
+    "answers": [
+      "Subdirectories allow for easier content management.",
+      "Subdomains can dilute domain authority if used excessively."
+    ]
+  },
+  {
+    "question": "Which factor influences the allocation of crawl budget for a website?",
+    "answers": [
+      "Crawl budget is allocated based on website size and update frequency."
+    ]
+  },
+  {
+    "question": "Which of the following is a key element of technical SEO?",
+    "answers": [
+      "JavaScript optimization helps improve load time and SEO performance."
+    ]
+  },
+  {
+    "question": "Which elements should be included in a sitemap to improve SEO?",
+    "answers": [
+      "Canonical URLs to avoid content duplication",
+      "All pages of the website"
+    ]
+  },
+  {
+    "question": "What is a main role of robots.txt in improving website SEO?",
+    "answers": [
+      "It prevents search engines from crawling specific pages or sections."
+    ]
+  },
+  {
+    "question": "What is the significance of crawl budget in SEO?",
+    "answers": [
+      "Crawl budget limits the number of pages a search engine will crawl on a site, impacting visibility."
+    ]
+  },
+  {
+    "question": "How does optimizing the site structure improve search engine visibility?",
+    "answers": [
+      "It ensures all pages are indexed.",
+      "It helps search engines understand content hierarchy."
+    ]
+  },
+  {
+    "question": "What does the term 'crawl budget' refer to in SEO?",
+    "answers": [
+      "Crawl budget refers to the number of pages a search engine will crawl over a given timeframe."
+    ]
+  },
+  {
+    "question": "Select the technical SEO practices that improve website design for efficient search engine crawling.",
+    "answers": [
+      "Ensuring URLs are short and descriptive.",
+      "Using HTTPS to enhance security and SEO trustworthiness.",
+      "Implementing redirects to manage outdated pages."
+    ]
+  },
+  {
+    "question": "What role does JavaScript optimization play in technical SEO?",
+    "answers": [
+      "It ensures scripts are executed quickly and indexable by search engines."
+    ]
+  },
+  {
+    "question": "What is the impact of using HTTPS on a website's SEO and user trust?",
+    "answers": ["It improves both SEO ranking and user trust."]
+  },
+  {
+    "question": "Identify the factors in keyword research affected by changes in search queries.",
+    "answers": [
+      "Long-tail keywords are becoming increasingly important due to conversational queries.",
+      "Semantic understanding by search engines aids in matching user queries with relevant content."
+    ]
+  },
+  {
+    "question": "Identify the implications of changing user behavior on keyword research.",
+    "answers": [
+      "Greater reliance on conversational search queries",
+      "Increased importance of local keywords and phrases"
+    ]
+  },
+  {
+    "question": "Which of the following reflects a shift in search queries that can impact SEO strategies?",
+    "answers": ["Increased use of long-tail keywords"]
+  },
+  {
+    "question": "What should be considered when adapting SEO strategies to shifts in search queries?",
+    "answers": ["Changes in search queries require adapting keyword strategy."]
+  },
+  {
+    "question": "Select the statements that describe how user behavior impacts keyword research.",
+    "answers": [
+      "Adapting to changes in user behavior can improve SEO effectiveness.",
+      "Understanding user intent can enhance keyword research.",
+      "User language and phrasing must be considered in keyword research."
+    ]
+  },
+  {
+    "question": "How do changes in user search behavior influence SEO content strategies?",
+    "answers": [
+      "Changes in search behavior require updating SEO content regularly."
+    ]
+  },
+  {
+    "question": "What is an implication of the shift towards more conversational search queries?",
+    "answers": [
+      "SEO strategies need to integrate more synonyms and related phrases"
+    ]
+  },
+  {
+    "question": "What is a key factor to consider when evaluating brand visibility in the search journey?",
+    "answers": ["The alignment of branded keywords with user search queries"]
+  },
+  {
+    "question": "Select the changes in the search journey that impact keyword research.",
+    "answers": [
+      "Increased use of natural language processing",
+      "Rise in mobile search volume"
+    ]
+  },
+  {
+    "question": "How does brand visibility impact the search journey?",
+    "answers": ["Brand visibility can lead to higher click-through rates."]
+  },
+  {
+    "question": "Which aspect of brand visibility is crucial for enhancing search journey effectiveness?",
+    "answers": ["Consistency in brand messaging across platforms"]
+  },
+  {
+    "question": "Identify the factors that have led to changes in the search journey.",
+    "answers": [
+      "Growth in mobile internet access",
+      "Shift towards video-based content consumption",
+      "Rise in use of AI agents",
+      "Increasing popularity of voice assistants"
+    ]
+  },
+  {
+    "question": "What aspect should marketers consider when understanding the impact of user behavior changes on keyword research?",
+    "answers": ["Adapting content to align with evolving user intent"]
+  },
+  {
+    "question": "Select the elements of user behavior that influence the effectiveness of keyword research.",
+    "answers": [
+      "Use of voice search technology",
+      "The use of AI assisted search",
+      "Increasing reliance on social media for searches",
+      "Preference for visual search formats"
+    ]
+  },
+  {
+    "question": "Please provide details on what important SEO elements are utilized in the website that you selected below. Think about the title tags, meta descriptions, and header tags, for example.",
+    "answers": [
+      "juxtapose brilliance reflexive xenogenesis thrive nexus lullaby enigma nebula quantification"
+    ]
+  },
+  {
+    "question": "Please provide details of your findings on the structure of the content for the website you selected below. Think about readability, logical flow, and use of subheadings in your analysis.",
+    "answers": [
+      "elephant dawn zest heuristic lunar lullaby manifest whirlwind gale universe"
+    ]
+  },
+  {
+    "question": "Please provide details on the the level of optimization for your selected website. Be sure to include an analysis of keyword use, internal linking, and image optimization.",
+    "answers": [
+      "underworld webinar harmony bravery brilliance hubris falsifiability mysticism knowledge alchemy"
+    ]
+  },
+  {
+    "question": "Please provide the following: Create a list of actionable suggestions as if you were conducting a professional audit. Focus on improving the site's SEO performance and addressing any areas of weakness or missed opportunities.",
+    "answers": [
+      "diplomatic xenophobia horizon zealous moondust foundation prism universal unravel juxtaposition"
+    ]
+  },
+  {
+    "question": "Please provide your assessment on the website you selected. Include information about their off-page presence, along with social media to identify opportunities for improving visibility and engagement.",
+    "answers": [
+      "vivid opinion notebook diamond bibliography quintessential tranquility vanguard apple acumen"
+    ]
+  },
+  {
+    "question": "Please provide your detailed report outlining your selected website findings. Include potential opportunities and actionable tactics you recommend for enhancing their online growth.",
+    "answers": [
+      "flame breeze fallacious thrive opportunity ontology vanguard dog gravitas hubris"
+    ]
+  },
+  {
+    "question": "Please review the crawl data. Which SEO tool did you choose to use? Or, did you choose to audit the website manually?",
+    "answers": [
+      "dawn balloon delight ontology novel zephyr reflex fish foundation westernize"
+    ]
+  },
+  {
+    "question": "Please provide the manual assessment that identified opportunities to enhance the site's technical performance.",
+    "answers": [
+      "coherent malleable zealot qualitative timeless brevity quintessential oblivion zephyr clarity"
+    ]
+  },
+  {
+    "question": "Please provide your findings along with actionable recommendations, and prioritize them based on their potential impact.",
+    "answers": [
+      "unity bliss pragmatic illusion elephant harmony illusion quantification zodiac jungle"
+    ]
+  },
+  {
+    "question": "Why is it important to estimate the competitiveness of a potential keyword? (Select all that apply.)",
+    "answers": [
+      "Estimating the competitiveness will help determine how long it will take to see results",
+      "Estimating the competitiveness will help you to set appropriate expectations for clients"
+    ]
+  },
+  {
+    "question": "True or False: Analytics tools such as Google Webmaster are usually not very useful in assessing customer intent.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: Listing brand is the best way to optimize your title tag.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Keyword selection on a larger site should be determined by which of the following factors:",
+    "answers": ["competition, search volume, intent, audience alignment"]
+  },
+  {
+    "question": "True or False: An existing site is more likely to have pages that work well with the keywords you have identified.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following make up the criteria used to select keywords?",
+    "answers": ["Relevancy, intent, and competitiveness"]
+  },
+  {
+    "question": "Suppose you want to identify online competition based on keyword usage, what tools might you use for this? (Select all that apply.)",
+    "answers": [
+      "MOZ keyword difficulty tool",
+      "Open Site Explorer",
+      "Majestic SEO"
+    ]
+  },
+  {
+    "question": "Suppose your client gave you a list of sites they consider to be their direct competitors; what should your attitude be toward organic competitors that are not on their list?",
+    "answers": [
+      "Include organic competitors that the client may not consider to be their competition."
+    ]
+  },
+  {
+    "question": "When you are organizing your top competitors to develop a plan to compete, what is an effective way to make the results of your analysis easier to grasp? (Select all that apply.)",
+    "answers": [
+      "Color-code the results to emphasize the strength of competitors.",
+      "Put each competitor in columns with their related keyword category."
+    ]
+  },
+  {
+    "question": "You've been hired to assign keywords to a site's existing pages to optimize SEO and you're eager to dive in, but what questions should you ask first? (Select all that apply.)",
+    "answers": [
+      "What pages may need a revamp based on user engagement?",
+      "How is the page performing from a user experience standpoint?"
+    ]
+  },
+  {
+    "question": "True or False: The first step in developing a competitive analysis is to determine how your target audience reacts to your content.",
+    "answers": ["False"]
+  },
+  {
+    "question": "When we perform an internal content audit on our own or a client’s site, we should also:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Elements of a good domain level content strategy include:",
+    "answers": ["All of these answers are correct"]
+  },
+  {
+    "question": "True of False: The four types of content are evergreen, trending, seasonal, and general.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False: Customers visiting a site where there is a call to action are more likely to perform that action.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False: The most important step in developing a site-wide strategy is identifying effective keywords.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or False: Placing valuable resource material in a sub-domain increases the main domain authority of a competitor's site.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What are things we should be paying attention to when doing an analysis of social signals? (Select all that apply.)",
+    "answers": [
+      "Analyze which are the most used sites.",
+      "Design content that invites more interaction, such as pinnable images.",
+      "Add a call-to-action connecting target audiences to useful sites."
+    ]
+  },
+  {
+    "question": "When conducting an internal content audit, it is best to start with data from the last:",
+    "answers": ["6-months"]
+  },
+  {
+    "question": "Mobile Massage provides mobile massage services to local businesses for their employees. They are proud to offer massage services in a company’s address during business hours. They believe in the power of massage on one’s mind, body, and productivity level; thus consider themselves as an effective productivity partner. They have built a website, but seem to be falling short in increasing their customer base. What should they do to increase brand presence and build consumer trust and loyalty?",
+    "answers": [
+      "Create a content strategy to optimize the content on the site."
+    ]
+  },
+  {
+    "question": "When optimizing your app you should focus on:",
+    "answers": ["Both app store optimization as well as external optimization"]
+  },
+  {
+    "question": "What is an example of an external app SEO method?",
+    "answers": ["Creating a solid content marketing strategy"]
+  },
+  {
+    "question": "What is an example of ASO?",
+    "answers": ["Optimizing your apps titles and descriptions"]
+  },
+  {
+    "question": "Both app stores will evaluate things like:",
+    "answers": ["User metrics such as uninstall rate, app speed, and more"]
+  },
+  {
+    "question": "What is an A/B test?",
+    "answers": ["Splitting traffic across different variations of the app"]
+  },
+  {
+    "question": "Both Google and Apple have built-in A/B testing functionality.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Why should you optimize screenshots?",
+    "answers": ["To improve downloads and retention"]
+  },
+  {
+    "question": "Which of these is a good reason to forecast?",
+    "answers": [
+      "Getting approval for appropriate resources to finish a project"
+    ]
+  },
+  {
+    "question": "SEO forecasting is difficult because:",
+    "answers": ["The landscape can change frequently"]
+  },
+  {
+    "question": "Creating a custom CTR curve is:",
+    "answers": ["Helpful but not required"]
+  },
+  {
+    "question": "KPI stands for:",
+    "answers": ["Key Performance Indicator"]
+  },
+  {
+    "question": "With KPIs you should have:",
+    "answers": ["Focus only on the ones that matter most"]
+  },
+  {
+    "question": "ROI stands for:",
+    "answers": ["Return on Investment"]
+  },
+  {
+    "question": "With SEO you:",
+    "answers": ["Generally see a longer-term ROI than that of paid"]
+  },
+  {
+    "question": "What is the main reason that you should do a mini-audit of a site prior to working with a client?",
+    "answers": [
+      "It helps you identify ways to provide immediate value and set the timeline for the project."
+    ]
+  },
+  {
+    "question": "In your initial conversation with clients, why is it a good idea to share a few quick wins and opportunities? (Select all that apply.)",
+    "answers": [
+      "Identifying opportunities helps to identify ways that your expertise is needed.",
+      "Quick wins provide a means to show immediate value to your services."
+    ]
+  },
+  {
+    "question": "Which of the following IS NOT a SMART goal?",
+    "answers": ["Generate more site traffic within three months."]
+  },
+  {
+    "question": "Which of the following is an unrealistic client expectation that should be reframed early in your relationship?",
+    "answers": [
+      "Within eight months, attain a number one rank for their top keyword."
+    ]
+  },
+  {
+    "question": "Imagine that one of your client’s primary goals is to increase the amount of traffic to their site. The chart below compares this year’s data (in blue) to last year’s data (in red). Is this year’s dip (in blue) after June an indicator that you are likely to have trouble meeting the client’s goal?",
+    "answers": [
+      "Probably not. The traffic is still significantly higher than where it was at the same time last year. There is some reason to think that this is a seasonal dip."
+    ]
+  },
+  {
+    "question": "What are some quick wins you should try when working with a new client? (Select all that apply.)",
+    "answers": [
+      "Add more text to the homepage and other important pages.",
+      "Ensure their is a robots.txt file uploaded and appropriate areas are blocked.",
+      "Have the client install Google Webmaster Tools & Google Analytics on their computer."
+    ]
+  },
+  {
+    "question": "When looking at traffic for a site, which of these should you most be concerned about:",
+    "answers": ["Organic Visits"]
+  },
+  {
+    "question": "Suppose you are working in-house, scoping an SEO project, which of the following should you be able to do? (Select all that apply.)",
+    "answers": [
+      "Prioritize work needed",
+      "Estimate ability to meet various deadlines",
+      "Estimate a project's length"
+    ]
+  },
+  {
+    "question": "Suppose you are in your initial meeting with a new client; which of the following are questions you should ask? (Select all that apply.)",
+    "answers": [
+      "Have you previously used other domain names?",
+      "What keywords are you currently tracking?",
+      "(If they have worked with an SEO firm previously) ask, \"What did you like and dislike?\"",
+      "Has your company previously worked with an SEO firm?"
+    ]
+  },
+  {
+    "question": "Suppose you have separated keywords into thematic groups associated with specified areas of a site. You notice one group is performing poorly for keyword rankings; what should this prompt you to do?",
+    "answers": [
+      "Go into the area of the site associated with that keyword group to see how that area can be improved."
+    ]
+  },
+  {
+    "question": "Why do search engines not like link exchanges?",
+    "answers": [
+      "Because they are a form of compensated link and used to manipulate page rank"
+    ]
+  },
+  {
+    "question": "Your website recently participated in a large scale link exchange program. How might this affect your website's SEO?",
+    "answers": ["It will improve because of the increased number of backlinks"]
+  },
+  {
+    "question": "Which of the following is a critical step in structuring a content marketing campaign?",
+    "answers": ["Integrating the campaign with a broader marketing strategy"]
+  },
+  {
+    "question": "Which of the following are important aspects of structuring a content marketing campaign? (Select all that apply.)",
+    "answers": [
+      "Identifying target audience",
+      "Monitoring and adjusting the campaign as needed",
+      "Aligning with overall business goals"
+    ]
+  },
+  {
+    "question": "Why is it important to align a content marketing campaign with the overall business strategy?",
+    "answers": ["To ensure the campaign supports the company's broader goals"]
+  },
+  {
+    "question": "What is the primary goal of a content marketing campaign?",
+    "answers": ["Boosting brand awareness"]
+  },
+  {
+    "question": "A business has been using clickbait headlines in their content marketing campaign to improve their SEO rankings. What is your evaluation of this strategy?",
+    "answers": ["It's a bad strategy because it can lead to a high bounce rate"]
+  },
+  {
+    "question": "How should keywords be incorporated into a content marketing campaign to optimize SEO?",
+    "answers": [
+      "They should be used in the content's title and throughout the text in a natural way"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a type of content marketing campaign? (Select all that apply.)",
+    "answers": ["Physical billboard campaign"]
+  },
+  {
+    "question": "Why is a 'Thought leadership campaign' considered a type of content marketing campaign?",
+    "answers": [
+      "It involves creating and sharing content that establishes the brand as a leader in its industry."
+    ]
+  },
+  {
+    "question": "What is the main advantage of a 'Brand awareness campaign' over a 'Product launch campaign'?",
+    "answers": [
+      "Brand awareness campaigns focus on building long-term recognition and trust"
+    ]
+  },
+  {
+    "question": "What are characteristics of successful data-driven studies? (Select all that apply.)",
+    "answers": [
+      "Contains data that you’ve assembled based on research",
+      "It contains information that addresses knowledge gaps related to a hot topic in your market.",
+      "It’s carefully promoted to the media that writes about related topics."
+    ]
+  },
+  {
+    "question": "Which of the following factors are considered in link valuation? (Select all that apply.)",
+    "answers": [
+      "The relevance of the linking site",
+      "The authority of the linking site",
+      "The position of the link on the page"
+    ]
+  },
+  {
+    "question": "What are the characteristics of Skyscraper content? (Select all that apply.)",
+    "answers": [
+      "It’s designed to steal rankings from competitors.",
+      "It contains authoritative information on a topic."
+    ]
+  },
+  {
+    "question": "What is the value of working with experts for your content marketing campaign? (Select all that apply.)",
+    "answers": [
+      "It improves your chances of getting a link because the opinion of experts is something that others respect.",
+      "It can result in content that Google chooses to rank because of its quality."
+    ]
+  },
+  {
+    "question": "What are the characteristics of guest posting? (Select all that apply.)",
+    "answers": [
+      "Guest posting should focus on a small number of sites that have a similar target audience as your business.",
+      "High volume guest posting is dangerous."
+    ]
+  },
+  {
+    "question": "Which of the following types of links are typically disliked by search engines? (Select all that apply.)",
+    "answers": [
+      "Link exchanges",
+      "Links from unrelated websites",
+      "Paid links without the 'nofollow' attribute"
+    ]
+  },
+  {
+    "question": "What is the most effective way to use content marketing campaigns to drive higher SEO rankings?",
+    "answers": [
+      "By producing high-quality, relevant content that answers the users' queries"
+    ]
+  },
+  {
+    "question": "Which of the following best describes how social media impacts SEO?",
+    "answers": [
+      "Social media can increase your brand and reputation online which indirectly impacts SEO as over time it will lead to more links to your site."
+    ]
+  },
+  {
+    "question": "Is social media a Google ranking factor?",
+    "answers": ["Yes, indirectly"]
+  },
+  {
+    "question": "Which of the following tactics can help connect social media with SEO strategy?",
+    "answers": ["Sharing high-quality content on social media"]
+  },
+  {
+    "question": "You've found that your target audience primarily uses X (formerly Twitter). Which marketing tactic is most likely to help meet your goal of increasing brand awareness?",
+    "answers": ["Running a hashtag campaign"]
+  },
+  {
+    "question": "Which of the following tactics will best help you understand where your target audience hangs out on social media?",
+    "answers": ["Checking the demographics of different social media platforms"]
+  },
+  {
+    "question": "Which of the following factors should be considered when deciding which marketing tactics to use for your business goals on social media? (Select all that apply.)",
+    "answers": [
+      "The type of content your target audience engages with",
+      "The time your target audience is most active",
+      "The demographics of your target audience"
+    ]
+  },
+  {
+    "question": "What is a good approach to creating content that engages your target audience on social media?",
+    "answers": [
+      "Use analytics to understand what content resonates with your audience and adapt accordingly"
+    ]
+  },
+  {
+    "question": "Which of the following are effective methods to engage your target audience on social media? (Select all that apply.)",
+    "answers": [
+      "Use a variety of content formats (e.g., videos, infographics, articles)",
+      "Engage in conversations with followers"
+    ]
+  },
+  {
+    "question": "Which of the following best describes a strategy to build an audience with social media?",
+    "answers": [
+      "Create and share valuable, relevant content consistently across multiple social media platforms"
+    ]
+  },
+  {
+    "question": "How does social sharing of your content by other people help you with SEO?",
+    "answers": [
+      "When people share your content on a social site you get exposed to their audience."
+    ]
+  },
+  {
+    "question": "In a case study, a brand increased its reputation by constructively responding to negative reviews publicly and promptly. What SEO benefit does this strategy provide?",
+    "answers": ["It shows users that the brand is trustworthy and credible"]
+  },
+  {
+    "question": "You posted a blog article on your website and shared it on your social media channels. The post got a lot of engagement. What impact does this likely have on your SEO?",
+    "answers": [
+      "Positive impact, as the engagement can lead to increasing your reputation online and potentially result in links to your site"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the role of social media marketing in SEO optimization?",
+    "answers": [
+      "To increase the visibility of your website in search engine results"
+    ]
+  },
+  {
+    "question": "Which of the following are ways that social media marketing can support SEO? (Select all that apply.)",
+    "answers": [
+      "By driving traffic to your website",
+      "By increasing brand awareness",
+      "By indirectly generating backlinks"
+    ]
+  },
+  {
+    "question": "When considering a social media platform for your SEO strategy, which of the following factors should you not prioritize?",
+    "answers": ["The latest trend in social media"]
+  },
+  {
+    "question": "You're choosing a platform for your social media strategy. A platform you're considering has a huge user base, but your target audience is not active there. What should you do?",
+    "answers": ["Ignore the platform because your audience isn't there"]
+  },
+  {
+    "question": "Which of the following tactics would you consider as part of a successful social media strategy for SEO optimization? (Select all that apply.)",
+    "answers": [
+      "Engaging with followers and responding to comments",
+      "Using relevant hashtags to increase visibility",
+      "Consistent posting of high-quality content"
+    ]
+  },
+  {
+    "question": "What impact can influencers have on SEO?",
+    "answers": ["Influencers can boost SEO through increased backlinks"]
+  },
+  {
+    "question": "Which of the following is the best way to measure the impact of influencer marketing on SEO?",
+    "answers": ["Increase in backlinks"]
+  },
+  {
+    "question": "Which of the following are ways influencers can contribute to SEO? (Select all that apply.)",
+    "answers": [
+      "Endorsing your content resulting in attracting backlinks to that content",
+      "Endorsing your content and building your brand awareness as a result"
+    ]
+  },
+  {
+    "question": "What are methods for using Facebook to connect with influencers? (Select all that apply.)",
+    "answers": [
+      "Pay influencers to create and promote content for you.",
+      "Leverage influencer marketplaces to identify and connect with influencers.",
+      "Become an active participant in Facebook Groups"
+    ]
+  },
+  {
+    "question": "If you comment on the social posts of influencers will it help you build a relationship with them?",
+    "answers": [
+      "Add comments to their posts where you can add value to the conversation."
+    ]
+  },
+  {
+    "question": "Which of the following are ways influencers can impact SEO? (Select all that apply.)",
+    "answers": [
+      "Endorsing your content resulting in attracting backlinks to that content",
+      "By increasing social media engagement",
+      "By attracting new visitors to the website"
+    ]
+  },
+  {
+    "question": "Why is it important to collaborate with influencers who have a similar audience to your target market?",
+    "answers": [
+      "Because it increases the likelihood of their audience being interested in your content, product or service"
+    ]
+  },
+  {
+    "question": "What would be the potential downside of partnering with an influencer whose audience does not align with your target market? (Select all that apply.)",
+    "answers": [
+      "There is less chance that the influencer’s activities will result in backlinks to your site"
+    ]
+  },
+  {
+    "question": "What is the primary role of influencers in SEO optimization?",
+    "answers": ["To increase your brand and reputation online"]
+  },
+  {
+    "question": "Why is the most important reason to maintain a genuine relationship with influencers and not just treat them as promotional tools?",
+    "answers": ["Because it can lead to long-term collaboration"]
+  },
+  {
+    "question": "What is the primary objective of creating relationships with influencers in SEO?",
+    "answers": [
+      "To increase your brand and reputation and increase your website's visibility"
+    ]
+  },
+  {
+    "question": "Which of the following are effective ways to build relationships with influencers for SEO purposes? (Select all that apply.)",
+    "answers": [
+      "Offering them exclusive content",
+      "Providing them with valuable feedback",
+      "Engaging with their content regularly"
+    ]
+  },
+  {
+    "question": "What are some types of sites that have a strong correlation between social shares and inbound links for their content pages? (Select all that apply.)",
+    "answers": [
+      "Sites that publish data-driven content",
+      "Prominent news sites"
+    ]
+  },
+  {
+    "question": "What makes up anchor content? (Select all that apply.)",
+    "answers": [
+      "Content that is authoritative",
+      "Content that addresses topics that aren’t well covered by other content on the web"
+    ]
+  },
+  {
+    "question": "Based on the case study of Ahrefs content marketing case study, which of the following tactics were used? (Select all that apply.)",
+    "answers": [
+      "Researching media needs related to their target market (SEO)",
+      "Creating valuable content for users",
+      "Utilizing social media for increased reach"
+    ]
+  },
+  {
+    "question": "If a potential partner's website has a low domain authority but a highly engaged audience that aligns with your target audience, should you still consider partnering with them?",
+    "answers": ["Yes, because the audience alignment is the most important"]
+  },
+  {
+    "question": "Which of the following actions can contribute to building successful partnerships for optimizing SEO? (Select all that apply.)",
+    "answers": [
+      "Creating a joint webinar, video, or event",
+      "Collaborating on a joint research project and publishing the results",
+      "Exchanging guest posts"
+    ]
+  },
+  {
+    "question": "What is the most important characteristic of a good partner?",
+    "answers": ["Alignment with your target audience"]
+  },
+  {
+    "question": "How do you determine whether a media person is someone you should reach out to?",
+    "answers": [
+      "You’ve built a list of media contacts that have written about closely related topics"
+    ]
+  },
+  {
+    "question": "How should you approach outreach to media people? (Select all that apply.)",
+    "answers": [
+      "Personalize your pitch",
+      "Include a brief but clear list of the key points of interest in your content.",
+      "Limit the length of your pitch to 3 or 4 paragraphs"
+    ]
+  },
+  {
+    "question": "Identify key elements of a successful content marketing campaign. (Select all that apply.)",
+    "answers": [
+      "You’ve completed detailed research of the market and identified gaps in available information and believe you can create content that fills those gaps.",
+      "Publishing only very high quality, up to date, information",
+      "You’ve researched the media that covers your market and identified numerous potential targets that may be willing to link to your content."
+    ]
+  },
+  {
+    "question": "After analyzing your data, you find that infographics are the most linked to content on your website. What should be your next step?",
+    "answers": ["Invest in paid advertising for infographics"]
+  },
+  {
+    "question": "Which of the following tools would be beneficial to use when analyzing data to see which content gets the most links and shares?",
+    "answers": ["BuzzSumo"]
+  },
+  {
+    "question": "When considering whether or not a campaign makes sense should you consider piggybacking on recent news events?",
+    "answers": [
+      "Yes, by creating content that introduces new angles to the trending news stories"
+    ]
+  },
+  {
+    "question": "In the AGCO case study they used YouTube as a channel to promote their brand. But isn’t this a bad idea since links to YouTube won’t help your website?",
+    "answers": [
+      "No, building your brand in a significant way will raise your visibility, and this can lead to third parties implementing links to your website."
+    ]
+  },
+  {
+    "question": "Evaluate and select the following content marketing strategies for their effectiveness in next-level content marketing. (Select all that apply.)",
+    "answers": [
+      "Using a variety of formats like blogs, podcasts, and videos",
+      "Create content on a fixed schedule."
+    ]
+  },
+  {
+    "question": "Analyzing your competitor's content strategy is a part of next-level content marketing. Which of the following is the most effective way to do this?",
+    "answers": [
+      "Using their content to see what has worked for them and generate ideas, but create unique content"
+    ]
   }
 ]
-

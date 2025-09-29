@@ -131,6 +131,27 @@
     console.log("✅ Gán giá trị textarea:", answer);
   };
 
+  const richTextBoxField = async (rtb: HTMLElement, answers: string) => {
+    if (!rtb) return;
+    await delay(500);
+    const beforeInputEvent = new InputEvent("beforeinput", {
+      bubbles: true,
+      cancelable: true,
+      inputType: "insertText",
+      data: answers,
+    });
+    rtb.dispatchEvent(beforeInputEvent);
+
+    const inputEvent = new InputEvent("input", {
+      bubbles: true,
+      cancelable: true,
+      inputType: "insertText",
+      data: answers,
+    });
+    rtb.dispatchEvent(inputEvent);
+    await delay(500);
+  };
+
   const selectAnswers = async (subject: string, autoSubmit: boolean) => {
     const jsonFilePath = chrome.runtime.getURL(`content/data/${subject}.json`);
 
@@ -166,9 +187,19 @@
         /** START: TAKE INPUT */
         const inputs = Array.from(item.querySelectorAll("input"));
         /** END: TAKE INPUT */
+
+        /** START: TAKE textarea */
         const textarea = item.querySelector(
           "textarea[required]"
         ) as HTMLTextAreaElement;
+        /** END: TAKE textarea */
+
+        /** START: TAKE Rich Text Box */
+        const richTextBox = item.querySelector(
+          '[contenteditable="true"][role="textbox"]'
+        ) as HTMLElement;
+        /** END: TAKE Rich Text Box */
+
         for (const answer of matchedQuestion.answers) {
           console.log(`🔎 Tìm đáp án: "${answer}"`);
 
@@ -176,6 +207,7 @@
           await inputRadioAndCheckbox(inputs, answer);
           await inputField(inputs, answer);
           await textareaField(textarea, answer);
+          await richTextBoxField(richTextBox, answer);
         }
       }
 

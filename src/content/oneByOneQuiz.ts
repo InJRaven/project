@@ -133,7 +133,26 @@
     textarea.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị textarea:", answer);
   };
+  const richTextBoxField = async (rtb: HTMLElement, answers: string) => {
+    if (!rtb) return;
+    await delay(500);
+    const beforeInputEvent = new InputEvent("beforeinput", {
+      bubbles: true,
+      cancelable: true,
+      inputType: "insertText",
+      data: answers,
+    });
+    rtb.dispatchEvent(beforeInputEvent);
 
+    const inputEvent = new InputEvent("input", {
+      bubbles: true,
+      cancelable: true,
+      inputType: "insertText",
+      data: answers,
+    });
+    rtb.dispatchEvent(inputEvent);
+    await delay(500);
+  };
   const getButton = async (timeOut = 3000): Promise<HTMLElement | null> => {
     const innerButton = ["Check", "Next", "Submit assignment"];
     try {
@@ -296,6 +315,9 @@
               const textarea = item.querySelector(
                 "textarea[required]"
               ) as HTMLTextAreaElement;
+              const richTextBox = item.querySelector(
+                '[contenteditable="true"][role="textbox"]'
+              ) as HTMLElement;
               const chosenAnswers: boolean[] = [];
               for (const answer of matched.answers) {
                 const selected = await inputRadioAndCheckbox(inputs, answer);
@@ -304,6 +326,7 @@
                 }
                 await inputField(inputs, answer);
                 await textareaField(textarea, answer);
+                await richTextBoxField(richTextBox, answer);
               }
               if (
                 inputs.some(
