@@ -859,5 +859,297 @@
       "Our staff will assist you with all your audio/visual needs.",
       "Relax and enjoy exceptional food at one of our award-winning restaurants ."
     ]
+  },
+  {
+    "question": "1. In the U.S. business cards are usually exchanged when you introduce yourself.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It’s a good idea to carry your business cards in a card case.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In the U.S. you must give a business card with both hands.",
+    "answers": ["False"]
+  },
+  {
+    "question": "It is a good idea to offer your business cards to as many people as you can.",
+    "answers": ["False"]
+  },
+  {
+    "question": "\"Do you want my card?\" is a good way to offer your card to someone.",
+    "answers": ["False"]
+  },
+  {
+    "question": "You can use the phrase Here you are as you hand someone your card.",
+    "answers": ["True"]
+  },
+  {
+    "question": "It is polite in the U.S. to immediately put another person’s business card in a pocket.",
+    "answers": ["False"]
+  },
+  {
+    "question": "In the U.S, if the other person doesn’t have a card, it's okay to ask him or her to write contact details on the back of one of your cards.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Look at these pictures and choose the label that fits the picture. Image of cranes by the water. Image Source: Daniel Ramirez, URL: https://commons.wikimedia.org/wiki/File:Container_Cranes_-_Seattle_Harbor_(2874285692).jpg .",
+    "answers": ["Global trade hub"]
+  },
+  {
+    "question": "Images of albums in a museum display. Image Source: Razcan Orendovici, URL: https://commons.wikimedia.org/wiki/File:Seattle_Music_Scene_Exhibit_3,_EMP_Museum.jpg .",
+    "answers": ["Thriving musical scene"]
+  },
+  {
+    "question": "Image of man in a kayak. Image Source: Public Domain, URL: https://en.wikipedia.org/wiki/Sea_kayak#/media/File:Recreational_kayak.jpg",
+    "answers": ["Opportunities for outdoor recreation"]
+  },
+  {
+    "question": "Image of a person analyzing an infrared image on a computer next to a microscope. Image source: University of Washington, All rights reserved.",
+    "answers": ["Leading research center"]
+  },
+  {
+    "question": "Image of 787 Dreamliner in hangar. Image source: Yasuhiko Obara Yasobara, URL: https://commons.wikimedia.org/wiki/File:Boeing_787_Roll-out.jpg .",
+    "answers": ["Center for aeronautical engineering"]
+  },
+  {
+    "question": "Image of 3D printer at work. Image Source: CoMotion, University of Washington, URL: http://comotion.uw.edu/sites/default/files/3D%20Skema.png .",
+    "answers": ["Technology for startups"]
+  },
+  {
+    "question": "Who creates new ideas and products?",
+    "answers": ["A developer."]
+  },
+  {
+    "question": "Who organizes and controls the work of a part of business?",
+    "answers": ["A manager."]
+  },
+  {
+    "question": "Who examines carefully something in detail and shares what they learn with others?",
+    "answers": ["An analyst."]
+  },
+  {
+    "question": "Who usually oversees other managers in a particular area of an organization?",
+    "answers": ["A director."]
+  },
+  {
+    "question": "Who helps a business deal with people outside of its organization?",
+    "answers": ["A customer service agent."]
+  },
+  {
+    "question": "Who makes sure that things are completed? They would oversee different teams working together.",
+    "answers": ["A project manager."]
+  },
+  {
+    "question": "Who organizes things for another person in the organization such as setting up meetings?",
+    "answers": ["An administrative assistant."]
+  },
+  {
+    "question": "Who brings together different people to make sure the business runs smoothly?",
+    "answers": ["A coordinator."]
+  },
+  {
+    "question": "Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. Third event:",
+    "answers": ["Schultz visited Italy."]
+  },
+  {
+    "question": "Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. Fourth event:",
+    "answers": ["Schultz decided to change Starbucks."]
+  },
+  {
+    "question": "Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. Fifth event:",
+    "answers": ["Starbucks sold espresso by the cup"]
+  },
+  {
+    "question": "Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. Sixth event:",
+    "answers": ["Starbucks opened international stores."]
+  },
+  {
+    "question": "Comprehension Quiz Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. First event:",
+    "answers": ["Three friends opened a store to sell coffee beans."]
+  },
+  {
+    "question": "Put these events in order: Schultz visited Italy and saw people sitting in coffee bars. Starbucks opened international stores. Starbucks sold espresso by the cup. Three friends opened a store to sell coffee beans. Schultz was the head of marketing at Starbucks. Schultz decided to change Starbucks. Second event:",
+    "answers": ["Schultz was the head of marketing."]
+  },
+  {
+    "question": "Jeff Bezos was the first CEO and ____________ of Amazon.com.",
+    "answers": ["founder"]
+  },
+  {
+    "question": "At first, Jeff Bezos ____________ his business from the garage of his house.",
+    "answers": ["operated"]
+  },
+  {
+    "question": "Bezos believed there would be a huge ____________ in online shopping because of the internet.",
+    "answers": ["growth"]
+  },
+  {
+    "question": "Amazon.com ____________ new customers because they made it easy to shop online. They were the first online company to have a “shopping cart” on their site.",
+    "answers": ["attracted"]
+  },
+  {
+    "question": "Amazon didn’t ____________ a profit for its first six years.",
+    "answers": ["make"]
+  },
+  {
+    "question": "________ Bezos’ leadership, the company expanded.",
+    "answers": ["Under"]
+  },
+  {
+    "question": "When they opened “Amazon Marketplace,” they gave other people and stores the ____________ to sell their products on the Amazon.com website.",
+    "answers": ["opportunity"]
+  },
+  {
+    "question": "In 2000, Amazon ____________ their logo by adding an arrow underneath two letters of the name, which showed that they sell everything from A to Z.",
+    "answers": ["updated"]
+  },
+  {
+    "question": "In 2007, Amazon ____________ a new product, the Kindle. This was the first “e-book.”",
+    "answers": ["launched"]
+  },
+  {
+    "question": "Amazon has continued to ____________ its business. In addition to selling everything through its website, it is involved in media production, groceries, artificial intelligence and cloud storage.",
+    "answers": ["diversify"]
+  },
+  {
+    "question": "Choose the best subject line.",
+    "answers": ["Thanks for your help"]
+  },
+  {
+    "question": "Choose the best subject line.",
+    "answers": ["Request for information"]
+  },
+  {
+    "question": "Choose the best subject line.",
+    "answers": ["Website redesign project update"]
+  },
+  {
+    "question": "Choose the best subject line.",
+    "answers": ["Website Project Problem"]
+  },
+  {
+    "question": "Choose the best subject line.",
+    "answers": ["Application Question"]
+  },
+  {
+    "question": "Answer these questions by choosing the correct answer. Which is more formal?",
+    "answers": ["request"]
+  },
+  {
+    "question": "Which is more informal?",
+    "answers": ["Cheers"]
+  },
+  {
+    "question": "Which is more neutral?",
+    "answers": ["don’t"]
+  },
+  {
+    "question": "Which is more formal?",
+    "answers": ["Sincerely,"]
+  },
+  {
+    "question": "5. Which is more informal?",
+    "answers": ["Want to go for a coffee?"]
+  },
+  {
+    "question": "Which is more formal?",
+    "answers": ["Did you receive it?"]
+  },
+  {
+    "question": "Which is more informal?",
+    "answers": ["btw"]
+  },
+  {
+    "question": "Which is more neutral?",
+    "answers": ["I wanted to ask about"]
+  },
+  {
+    "question": "Remember when we looked at different situations to decide if we should be direct or indirect? Let’s see if now you can also choose the best language to match these situations in this short quiz. I want to borrow your stapler.",
+    "answers": ["Can I borrow your stapler?"]
+  },
+  {
+    "question": "I want to request a catalogue from a mail-order clothing company.",
+    "answers": ["Please send me a catalog."]
+  },
+  {
+    "question": "I want to suggest that we move our weekly meeting to 6:00 pm on Friday.",
+    "answers": [
+      "Would it be possible to move the meeting to 6:00 pm on Friday?"
+    ]
+  },
+  {
+    "question": "I want to tell you that the length of your report is too short.",
+    "answers": ["The report is a little short."]
+  },
+  {
+    "question": "I want to tell you there will be no salary increase this year.",
+    "answers": [
+      "It appears that we might not be able to give any salary increases this year."
+    ]
+  },
+  {
+    "question": "Seattle’s geographic location has made it a...",
+    "answers": ["...center for global trade."]
+  },
+  {
+    "question": "Seattle has one of the largest ___________ in the U.S.",
+    "answers": ["ports"]
+  },
+  {
+    "question": "The workforce in the Seattle area is _________________.",
+    "answers": ["highly educated"]
+  },
+  {
+    "question": "Seattle is a good place for ______________.",
+    "answers": ["research and innovation"]
+  },
+  {
+    "question": "People are attracted to Seattle because of ______________.",
+    "answers": ["the quality of life"]
+  },
+  {
+    "question": "People in Seattle can _____________.",
+    "answers": ["do a lot of outdoor activities"]
+  },
+  {
+    "question": "Choose the best way to complete these opening sentences. I am writing to ___ a brochure.",
+    "answers": ["request"]
+  },
+  {
+    "question": "I am writing ___ your admission requirements.",
+    "answers": ["regarding"]
+  },
+  {
+    "question": "Complete these friendly closing sentences with the missing word. Thank you i_____ advance.",
+    "answers": ["in"]
+  },
+  {
+    "question": "A_________, thank you for all your help.",
+    "answers": ["Again"]
+  },
+  {
+    "question": "P_______ let me know if you have any questions.",
+    "answers": ["Please"]
+  },
+  {
+    "question": "I l_____ forward to hearing from you soon.",
+    "answers": ["look"]
+  },
+  {
+    "question": "Thank you f______ your consideration.",
+    "answers": ["for"]
+  },
+  {
+    "question": "Please let me k_____ if there’s anything else I can do.",
+    "answers": ["know"]
+  },
+  {
+    "question": "Please feel f_____ to contact me if you need any more help.",
+    "answers": ["free"]
+  },
+  {
+    "question": "I look forward to m______ you.",
+    "answers": ["meeting"]
   }
 ]
