@@ -1,0 +1,539 @@
+[
+  {
+    "question": "What does the term Cacophony mean ?",
+    "answers": ["a) An unpleasant mixture of loud sounds"]
+  },
+  {
+    "question": "What approximate percentage of online users use ad blockers to avoid more interruptions ?",
+    "answers": ["b) 30%"]
+  },
+  {
+    "question": "What is meant by niche audience?",
+    "answers": [
+      "c) A small group of people who have great interest in a particular subject"
+    ]
+  },
+  {
+    "question": "What action does the word ‘narrowcasting’ describe.",
+    "answers": [
+      "b) The dissemination of information to a smaller audience (instead of the broader public"
+    ]
+  },
+  {
+    "question": "The main trend in branded content during the last decade is placing your audience’s emotions at the forefront, instead of focusing the message mainly on your product. True or false?",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which is the main reason behind audience fragmentation, from a media business perspective?",
+    "answers": [
+      "c) The exponential growth in content",
+      "c) The exponential growth in content."
+    ]
+  },
+  {
+    "question": "What term did the Polish thinker Zygmunt Bauman coin to describe these times where’s “the growing conviction that change is the only permanence, and uncertainty the only certainty”?",
+    "answers": ["b) “Liquid modernity”"]
+  },
+  {
+    "question": "What is the most effective way of creating a valuable connection with a future customer?",
+    "answers": ["c) Focusing on the customers’ needs and interests"]
+  },
+  {
+    "question": "What should be the primary definition of your online brand content narrative?",
+    "answers": ["b) Relevant"]
+  },
+  {
+    "question": "Companies have a different content team or agency for each content channel. True or false?",
+    "answers": ["a) True"]
+  },
+  {
+    "question": "Free media coverage for relevant brand content is called...",
+    "answers": ["a) Earned media"]
+  },
+  {
+    "question": "Which of the following traits are essential when producing brand journalism content?",
+    "answers": ["c) Verification"]
+  },
+  {
+    "question": "Content syndication is an agreement by which an independent agency produces content for a big company inside their offices. True or false?",
+    "answers": ["b) False"]
+  },
+  {
+    "question": "Who bought (and saved) The Washington Post in 2013?",
+    "answers": ["c) Jeff Bezos"]
+  },
+  {
+    "question": "The New York Times is a subscription-first newspaper. True or false?",
+    "answers": ["a) True"]
+  },
+  {
+    "question": "What is inverted pyramid style in journalism?",
+    "answers": [
+      "a) Top heavy news story (the beginning contains the important information)"
+    ]
+  },
+  {
+    "question": "In journalism, ‘convergence’ means:",
+    "answers": ["a) Sharing facilities, resources, staff or content"]
+  },
+  {
+    "question": "Which of the following is NOT true about journalism today?",
+    "answers": [
+      "c) There are more fact-checkers than 25 years ago in newsrooms"
+    ]
+  },
+  {
+    "question": "There is only one age demographic group where roughly half of its population reads a daily newspaper:",
+    "answers": ["b) 65 years or older"]
+  },
+  {
+    "question": "Despite the wave of criticism suffered by Facebook in recent years, it continues to be the highest source of news for the population of the United States. True or false?",
+    "answers": ["a) True"]
+  },
+  {
+    "question": "What does Inbound Marketing mean?",
+    "answers": [
+      "c) A strategy that utilizes several forms of pull marketing, blogs, events, SEO, social media... in order to create brand awareness"
+    ]
+  },
+  {
+    "question": "Transmedia storytelling implies:",
+    "answers": ["b) Some interaction from the user"]
+  },
+  {
+    "question": "Content curation is:",
+    "answers": [
+      "a) ) Adding your own voice and value to a handpicked collection of content, gathered from a variety of sources that you publish and share online"
+    ]
+  },
+  {
+    "question": "Which app is generally considered as a great example of how to use badges in order to engage users?",
+    "answers": ["b) Foursquare"]
+  },
+  {
+    "question": "Gamification is more about keeping attention than attracting attention. True or false?",
+    "answers": ["a) True"]
+  },
+  {
+    "question": "Approximately how much branded content and games are viewed or enjoyed through smartphones?",
+    "answers": ["b) 55%"]
+  },
+  {
+    "question": "An effective tool for boosting engagement with very different types of content is adding a leaderboard. Leaderboards always track person-to-person or team-to-team competition. True or false?",
+    "answers": ["b) False"]
+  },
+  {
+    "question": "Which famous luxury brand has created a mobile game called to attract Chinese millennials called H-pitchhh?",
+    "answers": ["c) Hermes"]
+  },
+  {
+    "question": "LinkedIn’s progress bar when you complete your profile is a form of gamification. True or false?",
+    "answers": ["a) True"]
+  },
+  {
+    "question": "Augmented reality (AR) is considered the fastest-growing sector in gamification, offering an interactive experience of a real-world environment where real objects are ‘augmented’ by computer-generated multi-sensory perceptual information. What other names does it receive?",
+    "answers": ["a) Mixed reality"]
+  },
+  {
+    "question": "Nicholas Carr’s concept of “ecosystem of permanent distraction” refers to:",
+    "answers": [
+      "a) The overwhelming amount of content available for audiences."
+    ]
+  },
+  {
+    "question": "What is the meaning of “relevant” content?",
+    "answers": ["b) Newsworthy."]
+  },
+  {
+    "question": "What is the plot of a story?",
+    "answers": ["c) A series of events in time."]
+  },
+  {
+    "question": "What is transmedia storytelling?",
+    "answers": [
+      "a) The adaptation of narratives to any kind of platform, media, or device."
+    ]
+  },
+  {
+    "question": "What characterises an audience that has been mentally persuaded by your message? Select all that apply.",
+    "answers": [
+      "They generate more positive thoughts than negative thoughts",
+      "They have accepted your argument"
+    ]
+  },
+  {
+    "question": "What behavioural cues would signal that the audience has been persuaded by your message? Select all that apply.",
+    "answers": [
+      "They would display enthusiasm in their gestures and body language",
+      "They are likely to ask 'how' questions"
+    ]
+  },
+  {
+    "question": "Why is Petty and Cacioppo's model of persuasion so influential? Select all that apply.",
+    "answers": [
+      "It argues that the audience is actively judging your presentation.",
+      "It specifies situations when an audience is likely to engage with the message"
+    ]
+  },
+  {
+    "question": "Why is persuasive communication challenging? Select only one response.",
+    "answers": ["Because you have to understand the needs of the audience"]
+  },
+  {
+    "question": "You have a difficult colleague who is attacking you and others in your meeting. Should you:",
+    "answers": [
+      "Find a way to end the meeting and reschedule or impose a 15 minute break."
+    ]
+  },
+  {
+    "question": "You lose a major client. When explaining what has happened to your leadership team you: Select all that apply.",
+    "answers": [
+      "Analyse what happened, take responsibility, seek more learning and refocus on who is your ideal client and how to get more of them.",
+      "Determine whether they are a client you want to keep or not and seek out options to repair the relationship."
+    ]
+  },
+  {
+    "question": "In a meeting, your colleague has a different point of view to you. Do you: Select only one response.",
+    "answers": [
+      "Find out why the person believes what they do and negotiate a solution."
+    ]
+  },
+  {
+    "question": "A colleague gets promoted over you and you don't think they should have been promoted. Every time something goes well, they claim responsibility. Do you: Select all that apply.",
+    "answers": [
+      "Let the boss know you want to be promoted. Then every time you succeed, let your boss informally know.",
+      "Reflect on what it is the other person has that you want. Then communicate to your superiors what you want without shame, blame or attack."
+    ]
+  },
+  {
+    "question": "You are with a client and you find out what is important to them. Then you make them an offer based on what they've told you. They don't look convinced. Do you: Select all that apply.",
+    "answers": [
+      "Assume you haven't found out clearly enough what they want and go back to questioning them.",
+      "Realise they're not the ideal client for you and thank them for their time."
+    ]
+  },
+  {
+    "question": "You are triggered in a meeting and start to feel frustrated. Do you: Select all that apply.",
+    "answers": [
+      "Assess what you value, see which ones are flexible and whether your environment fits your values which are non-negotiable.",
+      "Take time out and when you feel calm assess what happened and why, then have the conversations you need.",
+      "Check in with yourself, see what's coming up and ask yourself what you need in that moment."
+    ]
+  },
+  {
+    "question": "If a message has three parts, beginning, middle and end, where does the problem-solution-benefit part of presentation come in?",
+    "answers": ["Middle part"]
+  },
+  {
+    "question": "Is it important or not important to learn how information is processed during communication?",
+    "answers": [
+      "It is important because the knowledge will help us structure the message that make processing easier for the audience",
+      "It is important because the knowledge will help us understand the processing needs of the audience"
+    ]
+  },
+  {
+    "question": "Why do you need to use simple language in your presentation?",
+    "answers": ["So that it is easier for your audience to comprehend"]
+  },
+  {
+    "question": "Why is it important to vary your delivery style?",
+    "answers": ["To help sustain the attention of the audience"]
+  },
+  {
+    "question": "What do the letters PR in the acronym,, \"Change PR-I-EST-S\" stand for?",
+    "answers": ["Be provocative"]
+  },
+  {
+    "question": "A metaphor is a figure of speech used to compare two things, which are different, but have something in common. When is it useful to use one?",
+    "answers": [
+      "When the person you're speaking to is unable to grasp what you're saying and you need to explain it differently."
+    ]
+  },
+  {
+    "question": "The presentation technique of creating tension using \"What is\" versus \"What is possible\" is best employed at what stage of presentation?",
+    "answers": ["Beginning"]
+  },
+  {
+    "question": "Why would you use a cliffhanger and not finish your story?",
+    "answers": [
+      "To keep the loop open so that your audience stays engaged and wants to contact you afterwards.",
+      "To challenge your audience to come up with different endings and to stay engaged."
+    ]
+  },
+  {
+    "question": "A client thinks that the cost of your services is too high. Which is the best metaphor to choose:",
+    "answers": [
+      "A metaphor about how paying for cheaper products always ends up costing more."
+    ]
+  },
+  {
+    "question": "Should you use a story at the beginning of a presentation? Why or why not?",
+    "answers": [
+      "Yes, it allows you to relax as you talk about something you are familiar with and connect emotionally with the audience.",
+      "Yes, it allows you to introduce the main theme of the presentation in an easy-to-listen-to way."
+    ]
+  },
+  {
+    "question": "What is the most dramatic finding of Solomon Asch's classic social psychology experiment? Select all that apply.",
+    "answers": [
+      "That we tend to conform even if we don't believe in the group",
+      "That we tend to conform even our own senses tell us otherwise"
+    ]
+  },
+  {
+    "question": "What typifies groupthink? Select all those that apply.",
+    "answers": [
+      "Sense of invulnerability",
+      "Exposure to limited information",
+      "Mass rationalisation"
+    ]
+  },
+  {
+    "question": "Erving Goffman suggested that human are social actors. Which emotion most associated with this idea?",
+    "answers": ["Embarrassment"]
+  },
+  {
+    "question": "Why is normative social influence so powerful? Select all that apply.",
+    "answers": [
+      "Because we want to be liked and accepted by our peers",
+      "Because we want to get along with others"
+    ]
+  },
+  {
+    "question": "What are some of the remedy for groupthink? Select all that apply.",
+    "answers": [
+      "To let the leader decide quickly with minimum interference from the group members",
+      "Ask group members to critically analyse all decisions",
+      "For the leader to initially refrain from revealing his/her opinion"
+    ]
+  },
+  {
+    "question": "In a meeting, people will switch off if:",
+    "answers": [
+      "The meeting isn't relevant to them and answer their biggest questions"
+    ]
+  },
+  {
+    "question": "Bernice McCarthy's work identifies how we like to learn. This is relevant because: Select all that apply.",
+    "answers": [
+      "If you use her system, you become more adaptable rather than fixed on how you prefer to receive information",
+      "We need to know how people take in and process information so as to engage them",
+      "It teaches you about what different people need in order to be able to take in information"
+    ]
+  },
+  {
+    "question": "Why would you ask, \"For what purpose?\" Select all that apply.",
+    "answers": [
+      "To find out the intention of a discussion",
+      "To find out the benefits of the discussion",
+      "To find out the context of the decision or idea"
+    ]
+  },
+  {
+    "question": "Why would you ask, \"How is that a problem?\" Select all that apply.",
+    "answers": [
+      "So that you find out what the problem really is",
+      "It makes the person/people conscious of their problem"
+    ]
+  },
+  {
+    "question": "Why should you announce the agenda and ask everyone if there is anything they should like to add or change at the beginning of a meeting? Select all that apply.",
+    "answers": [
+      "Makes people feel included and responsible for reaching the outcome",
+      "Get permission so that later you can refer to their commitment to reaching the outcome",
+      "Gain agreement on the outcome for the meeting"
+    ]
+  },
+  {
+    "question": "Why do you think we should smile when it is appropriate during a presentation? Or should we?",
+    "answers": ["It puts the other person at ease", "It relaxes the atmosphere"]
+  },
+  {
+    "question": "Why does mimicry work? Or does it?",
+    "answers": [
+      "It increases similarity which is important for persuasion",
+      "It gives the impression that you are similar to each other"
+    ]
+  },
+  {
+    "question": "Does rapport increase persuasion and if so why?",
+    "answers": [
+      "Yes, because it increases our trust",
+      "Yes, because It increases liking"
+    ]
+  },
+  {
+    "question": "Why is it important to remember Carl Roger's six facets of effective interpersonal communication?",
+    "answers": ["It encourages better interactions with each other"]
+  },
+  {
+    "question": "What are the characteristics of an authentic speaker?",
+    "answers": ["They tend to be open", "They tend to be helpful"]
+  },
+  {
+    "question": "If you don't have rapport with someone, should you:",
+    "answers": [
+      "Refocus your attention on them - their body language and vocal tone and match them."
+    ]
+  },
+  {
+    "question": "Rapport is a process by which you:",
+    "answers": [
+      "Build a connection on an unconscious level by adapting your behaviour to theirs"
+    ]
+  },
+  {
+    "question": "To prepare properly for a meeting you should:",
+    "answers": [
+      "Find out what's happening in their industry and how they're affected."
+    ]
+  },
+  {
+    "question": "You're walking past a meeting room when your boss opens the door and asks you to join the meeting. You're introduced to a major prospect. What's the first thing you do?",
+    "answers": [
+      "Give them all of your attention and start to match them physically and vocally and repeat their words back to them."
+    ]
+  },
+  {
+    "question": "When you match someone you can:",
+    "answers": [
+      "Understand what they are thinking and feeling.",
+      "Make suggestions which are more likely to be accepted.",
+      "Build trust so that everything happens more quickly."
+    ]
+  },
+  {
+    "question": "How does Carl Roger's notion of empathy help in a conflict situation? Select all that apply.",
+    "answers": [
+      "Empathy creates a positive mood",
+      "Empathy allows you to see the other party's position"
+    ]
+  },
+  {
+    "question": "How does the boomerang effect suggest we should approach a conflict situation, if at all?",
+    "answers": [
+      "It suggests not to make extreme statements that fall into the other party's zone of rejection"
+    ]
+  },
+  {
+    "question": "What does it mean when you say you trust a person? Select all that apply.",
+    "answers": [
+      "It means you are willing to be vulnearable to any promise made by this person",
+      "It means you have a positive expectation that this person will deliver what is promised"
+    ]
+  },
+  {
+    "question": "How is Sherif's idea of latitude of acceptance useful in conflict resolution?",
+    "answers": [
+      "It is useful because it forces both parties to look for common areas of agreement"
+    ]
+  },
+  {
+    "question": "If you are a salesperson, how do you overcome price objection? Select all that apply.",
+    "answers": [
+      "Communicate that your product has benefits the buyer has never considered before",
+      "Communcate that the current price in fact represents a better value than the competitor’s (if this is true)",
+      "Communicate in the long term, the benefit the product gives is worth the current price paid"
+    ]
+  },
+  {
+    "question": "What is one of the most advanced ways of dealing with objections?",
+    "answers": [
+      "Acknowledge the objection, then ignore it and move on - then the person feels heard, but you're not stuck answering the objection"
+    ]
+  },
+  {
+    "question": "The purpose of BATNA is to:",
+    "answers": [
+      "Have other options of meeting your goal so that you feel secure whilst negotiating"
+    ]
+  },
+  {
+    "question": "When using the Milton Model it is crucial to: Select all that apply.",
+    "answers": [
+      "Make sure what you're doing is ethical and in the best interests of both parties",
+      "Continue to match them physically and vocally to create unconscious trust",
+      "Make sure you have rapport otherwise the listener will critically question everything you say"
+    ]
+  },
+  {
+    "question": "Which options are Lost Performative: Select all that apply.",
+    "answers": ["It's dangerous to do things without an expert"]
+  },
+  {
+    "question": "What is true about objections: Select all that apply.",
+    "answers": [
+      "People usually object before they make a decision - sometimes 5-8 times",
+      "We feel scared of them because we're afraid of being rejected and not being good enough"
+    ]
+  },
+  {
+    "question": "Why is pitching a persuasion process? Select all that apply.",
+    "answers": [
+      "This is because the project may be risky",
+      "This is because of the uncertainty in the outcome"
+    ]
+  },
+  {
+    "question": "Why should numercial data be presented in a meaningful way to investors during a pitch? Select all that apply.",
+    "answers": [
+      "This is because you want to help the investors in their funding decision",
+      "This is because you want the investors to understand how credible the venture is."
+    ]
+  },
+  {
+    "question": "How can a pitcher convince investors that the idea is of high quality? Select all that apply.",
+    "answers": [
+      "By providing convincing evidence",
+      "By amassing supporting evidence"
+    ]
+  },
+  {
+    "question": "Why is trust important in a pitch situation? Select all that apply.",
+    "answers": [
+      "This is because investments can be very risky",
+      "This is because it will give investors greater confidence that his investments will pay off"
+    ]
+  },
+  {
+    "question": "Why must the pitcher be well-prepared? Select all that apply.",
+    "answers": [
+      "It shows that the pitcher is serious",
+      "It shows that the pitcher has thought of all the contingencies"
+    ]
+  },
+  {
+    "question": "When you are selling a product or service from the stage, it's important to: Select all that apply.",
+    "answers": [
+      "Tell them what it would be like working with you so they can visualise it and relax",
+      "Tell them who the product is for and not for so it feels like it's just for them"
+    ]
+  },
+  {
+    "question": "When you Indicate Expertise in the No Fail Keynote, it's important to:",
+    "answers": [
+      "Tell them your experience relevant to their context - they are focused only on whether you can help them"
+    ]
+  },
+  {
+    "question": "When selling a product or service it's best to: Select all that apply.",
+    "answers": [
+      "You feel that the client is getting unbelieveable value - the more convinced you are, the more convincing you'll be",
+      "You think the value of the product matches the price - if you see the value, you'll be more convincing"
+    ]
+  },
+  {
+    "question": "When presenting to an audience, they want: Select all that apply.",
+    "answers": [
+      "To be consulted - ask for their permission to make them an offer",
+      "Structure - structure makes them feel safe and it's easy for them to follow and retain the information"
+    ]
+  },
+  {
+    "question": "Why is praising someone who asks a question important? Select all that apply.",
+    "answers": [
+      "It shows others will be treated well if they ask a question",
+      "It reinforces them in front of their peers"
+    ]
+  }
+]

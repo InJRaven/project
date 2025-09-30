@@ -371,7 +371,9 @@
     "question": "Which of the following statements are true?",
     "answers": [
       "Given a large modulus n, the discrete logarithm problem is computationally difficult.",
-      "Using the primitive roots of a prime modulus p yields the maximum p-1 possible outcome values for the discrete logarithm, which is desired for cryptography."
+      "Using the primitive roots of a prime modulus p yields the maximum p-1 possible outcome values for the discrete logarithm, which is desired for cryptography.",
+      "Digital certificates can be requested before using it to share the public key.",
+      "Once receiving the digital certificates signed by a Certificate Authority (CA), a user can share it with anybody whom it wants to communicate."
     ]
   },
   {
@@ -579,13 +581,6 @@
   {
     "question": "Which of the followings are required to verify the signature of the digital certificate signed by a CA?",
     "answers": ["The public key of CA", "The certificate itself"]
-  },
-  {
-    "question": "Which of the following statements are true? Select all that applies.",
-    "answers": [
-      "Digital certificates can be requested before using it to share the public key.",
-      "Once receiving the digital certificates signed by a Certificate Authority (CA), a user can share it with anybody whom it wants to communicate."
-    ]
   },
   {
     "question": "Which of the followings are the PKI's responsibilities? Select all that applies.",

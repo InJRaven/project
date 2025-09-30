@@ -47,6 +47,7 @@ const Quizz = () => {
     { value: "lab211c", label: "LAB211c Summer" },
     { value: "lab211c_java_core", label: "LAB211c Fall" },
     { value: "law201c", label: "LAW201c" },
+    { value: "mco201c", label: "MCO201c" },
     { value: "mkt205c", label: "MKT205c" },
     { value: "mkt208c", label: "MKT208c" },
     { value: "msm201c", label: "MSM201c" },

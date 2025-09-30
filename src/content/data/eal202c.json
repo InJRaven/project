@@ -505,14 +505,7 @@
   },
   {
     "question": "Which of the following words convey a positive tone or stance? Choose all that apply.",
-    "answers": [
-      "beneficial",
-      "logical",
-      "positive",
-      "skeptical",
-      "dynamic",
-      "purposeful"
-    ]
+    "answers": ["beneficial", "logical", "positive", "dynamic", "purposeful"]
   },
   {
     "question": "As you learned in the lecture, qualifiers and intensifiers communicate how certain a speaker is in a statement. Choose the correct order of words and phrases below to show how certain a speaker would be when using them. The first word should be the most certain, and the last word should be the least certain.",
@@ -836,7 +829,7 @@
   },
   {
     "question": "Click on the link below and listen to a clip from an academic presentation. Then decide if the clip is from the introduction, body, or conclusion portions of the presentations. Question 1 Clip Play Video Which part of the presentation does this clip come from?",
-    "answers": ["introduction"]
+    "answers": ["conclusion"]
   },
   {
     "question": "Click on the link below and listen to a clip from an academic presentation. Then decide if the clip is from the introduction, body, or conclusion portions of the presentations. Question 2 Clip Play Video Which part of the presentation does this clip come from?",
@@ -966,7 +959,7 @@
   },
   {
     "question": "Question 4 Clip Play Video",
-    "answers": ["The presenter uses too many fillers."]
+    "answers": ["The presenter speaks too quickly/ does not pause."]
   },
   {
     "question": "True or false? Making an outline will help to alleviate nerves during the presentation.",
@@ -1018,7 +1011,7 @@
   },
   {
     "question": "In which area does this poster need improvement?",
-    "answers": ["Text style", "Flow indicators"]
+    "answers": ["Text style", "Flow indicators", "Flow"]
   },
   {
     "question": "How much white (empty) space is there?",
@@ -1112,7 +1105,8 @@
     "question": "Question 2 Clip Play Video",
     "answers": [
       "The presenter is moving her legs in a distracting way.",
-      "Valid"
+      "Valid",
+      "The presenter does not speak with inflection."
     ]
   },
   {
@@ -1120,7 +1114,8 @@
     "answers": [
       "The presenter has her back to the audience.",
       "Deductive inference",
-      "Invalid"
+      "Invalid",
+      "She presented a surprising fact."
     ]
   },
   {
@@ -1663,9 +1658,7 @@
     "question": "Look at the picture of a group discussion. Then look at the problems and solutions listed below. Choose one problem and one solution that match the picture.",
     "answers": [
       "Solution: Organize yourselves so that all participants are on an equal level and can see each other easily.",
-      "Problem: Students are not in a position to talk because their backs are to each other.",
-      "Solution: Come to the conversation with an open mind and collaborative attitude.",
-      "Problem: Students’ body language shows an unwillingness to participate."
+      "Problem: Students are not in a position to talk because their backs are to each other."
     ]
   },
   {
@@ -1949,5 +1942,319 @@
   {
     "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video A family has enough money to pay rent each month, to buy clothes to wear, and to eat three balanced meals a day, but they live in a bad area of town. They can only buy used clothing, and they can’t afford to eat out in restaurants. What kind of poverty is this family experiencing?",
     "answers": ["Relative poverty"]
+  },
+  {
+    "question": "Which of the following should you write in the space on the left when taking Cornell notes? Choose TWO answers.",
+    "answers": ["study questions", "key vocabulary"]
+  },
+  {
+    "question": "The speaker says, “My family was a fairly proactive family . . . “ What does the term “proactive” mean?",
+    "answers": ["Making things happen rather than reacting to events"]
+  },
+  {
+    "question": "Question 6 Clip Play Video What does the professor say about repeated reading of the textbook?",
+    "answers": [
+      "Reading repeatedly might not be enough. Students should use more active study techniques."
+    ]
+  },
+  {
+    "question": "What is important about the number 300 in the lecture?",
+    "answers": [
+      "It is the number of people who were unfairly put in prison. (:53-1:25)"
+    ]
+  },
+  {
+    "question": "For questions 1-3, listen to the lecture clip below on psychology and take notes as you listen. Pay attention to the information in the charts or graphs. After you listen, use your notes to answer the following questions. Question 1-3 Lecture Clip Play Video Prof. Steyvers mentions a study by Ebbinghuas. What did Ebbinghaus discover?",
+    "answers": [
+      "There is still some residual memory of the information no matter how long after the retrieval interval is."
+    ]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 3 Video Clip Play Video The professor mentions over 50%. What does that percentage refer to?",
+    "answers": [
+      "Percentage of people whose perception of crime nationally is extremely serious or very serious"
+    ]
+  },
+  {
+    "question": "True or false? A speaker's tone or stance may be interesting to the listener but are not very important for understanding a lecture.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follows. Question 1 Clip Play Video What question did the speaker ask the audience?",
+    "answers": ["She didn't ask any questions."]
+  },
+  {
+    "question": "Listen to this clip and answer the question that follow. Question 2 Play Video What background information was provided?",
+    "answers": ["Why she selected this topic"]
+  },
+  {
+    "question": "What public speaking tasks might an employee be asked to do?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which type of presentation is the most interactive (the one that is most conducive to one-on-one conversations)?",
+    "answers": ["Poster presentations"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? Then, we’ll look at the advantages and disadvantages of each option.",
+    "answers": ["outline"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? I’m an assistant manager at Lucky Burgers. I started working there in 2012.",
+    "answers": ["greeting"]
+  },
+  {
+    "question": "In which part of a speech’s introduction would this sentence go? Good morning. It’s a pleasure to be here today.",
+    "answers": ["greeting"]
+  },
+  {
+    "question": "If a speech were a burger, what part would the body be?",
+    "answers": ["The juicy middle"]
+  },
+  {
+    "question": "To help the audience remember your main points, you should follow which pattern?",
+    "answers": ["assertion, evidence, assertion"]
+  },
+  {
+    "question": "Which method of simplification is the phrase below used for? upwards of...",
+    "answers": ["approximation"]
+  },
+  {
+    "question": "Which method of simplification is the phrase below used for? ...is commonly called...",
+    "answers": ["example"]
+  },
+  {
+    "question": "Complete the sentence. If the presenter does not mention his/her preference regarding the right time to ask questions, audience members may ask questions ________________.",
+    "answers": [
+      "any time during the presentation or following the presentation"
+    ]
+  },
+  {
+    "question": "Complete the sentence. A good way to prepare for questions is to anticipate possible confusion audience members might have or clarification they may need while you are delivering ________________.",
+    "answers": ["the body of your presentation"]
+  },
+  {
+    "question": "An outline should _____________.",
+    "answers": ["contain only short phrases or key words"]
+  },
+  {
+    "question": "Verbal skills include all of the following EXCEPT ___________.",
+    "answers": ["smiling while speaking"]
+  },
+  {
+    "question": "How loudly you speak depends on ____________.",
+    "answers": ["the size of the room in which you are presenting"]
+  },
+  {
+    "question": "True or false? When an audience member seems to have a negative expression, smile at him/her and give him/her all your attention.",
+    "answers": ["False"]
+  },
+  {
+    "question": "True or false? If you remember something you forgot earlier, apologize to your audience and let them know what it is that you forgot to say.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #3. Tip #3: Increase the ______ size.",
+    "answers": ["font"]
+  },
+  {
+    "question": "Choose the word that completes the sentence from PowerPoint Tip #5. Tip #5: Write only the ______.",
+    "answers": ["keywords"]
+  },
+  {
+    "question": "What is a name for the concept that presenters want their audience to leave the presentation with?",
+    "answers": ["a takeaway"]
+  },
+  {
+    "question": "True or false? To give a three-dimensional (3D) effect to poster items, you can layer blocks of text behind colored paper.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To act as an interactive, practical ______ that encourages critical thinking",
+    "answers": ["worksheet"]
+  },
+  {
+    "question": "Click on the links below and compare the two handouts. Then answer the question that follows. Handout 3A 4.4handouts3a.pdf PDF File Handout 3B 4.4handouts3b.pdf PDF File Based on the tips in this lesson, which handout is better?",
+    "answers": ["3A"]
+  },
+  {
+    "question": "A good discussion is most similar to _____________.",
+    "answers": ["a volleyball match"]
+  },
+  {
+    "question": "Which of the following are good ways to prepare for an academic discussion? Choose all that apply.",
+    "answers": [
+      "Read information on the topic in your textbook, in the library, and on the internet.",
+      "Meet with your classmates and informally review what you know about the topic."
+    ]
+  },
+  {
+    "question": "When you start your discussion, you should ________________.",
+    "answers": ["sit so everyone can see each other"]
+  },
+  {
+    "question": "What kind of example for supporting your ideas is this? Nearly 1 out of every 5 deaths under the age of 5 worldwide is due to a water-related diseases.",
+    "answers": ["facts and statistics"]
+  },
+  {
+    "question": "An anecdote is mostly likely to begin with _____________.",
+    "answers": ["When I worked at a company like that one . . ."]
+  },
+  {
+    "question": "True or false? When a discussion group makes the effort to think more deeply and critically, the discussion is more engaging.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of genetically modified foods. Then answer the question that follows. Play Video Which of the following is true about the group discussion?",
+    "answers": [
+      "The group members are not physically positioned in a way that motivates the members to do their best and to be involved in the discussion."
+    ]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of genetically modified foods. Then answer the question that follows. Play Video In this video clip, the members politely challenged each other’s ideas. Which of the following phrases were used to politely challenge ideas that had been previously mentioned?",
+    "answers": [
+      "You know, Chad, maybe . . .",
+      "I see your points, but . . .",
+      "Even though . . .",
+      "If they were so good, then why. . . .?"
+    ]
+  },
+  {
+    "question": "True or false? The goal of a discussion should always be agreement.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video What’s a quote from this clip that shows that the conversation partners are trying to build on each other’s ideas?",
+    "answers": ["“Like you were saying . . .”"]
+  },
+  {
+    "question": "Watch the video clip below from an academic discussion on the topic of population growth. Then answer the question that follows. Play Video In the clip, Chad says, “To dovetail on what you said.” What does this mean?",
+    "answers": ["To connect with what you said"]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video Which of the following phrases from the video clip was used to synthesize ideas that were mentioned in the discussion?",
+    "answers": ["“It sounds like what you guys are touching on is . . . “"]
+  },
+  {
+    "question": "The speaker mentioned “swiping” as an example for what idea?",
+    "answers": ["Games and apps"]
+  },
+  {
+    "question": "True or false? According to the lecture, culture is one thing that can make a lecture difficult for a listener.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? The speaker uses language cues, visual cues, and verbal cues to make his points.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What does the speaker mean when he says, “One of the biggest problems people have is that they are too ambitious.”",
+    "answers": ["People plan too much in their schedules."]
+  },
+  {
+    "question": "When will special relativity be discussed in the course?",
+    "answers": ["in the beginning of the course"]
+  },
+  {
+    "question": "See how well you can determine meaning of an actual professor giving an introduction to Einstein’s General Relativity and Gravitation. The lecture is 4 minutes 39 seconds long. First, watch the entire video, then answer each of the following questions. General Relativity and Gravitation Lecture Loaded: 2.20% Play / Mute Settings Full Screen How does the professor know many of the students?",
+    "answers": ["They took his class before"]
+  },
+  {
+    "question": "Which of the following questions would not be appropriate to write in the “Questions/Main Ideas” column on a Cornell Note-taking form?",
+    "answers": ["Why do we need to learn to manage time?"]
+  },
+  {
+    "question": "What is a hypothetical?",
+    "answers": [
+      "fictional situations used to examine possibilities of a situation"
+    ]
+  },
+  {
+    "question": "What is NOT a way to show respect for your group members?",
+    "answers": [
+      "Think about what you are going to say next as they are speaking."
+    ]
+  },
+  {
+    "question": "Choose the word that completes the collocation. integral ____________",
+    "answers": ["part"]
+  },
+  {
+    "question": "Reaching a general agreement in a group is called ____________.",
+    "answers": ["consensus"]
+  },
+  {
+    "question": "A brief overview of main points is called ______________.",
+    "answers": ["summary"]
+  },
+  {
+    "question": "True or false? The action points that are discussed at the end of a discussion are the most interesting topics that were brought up.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following were frequently-referenced ideas in this course? Choose all that apply.",
+    "answers": [
+      "Be sure to build your background knowledge, or knowledge of the topic, before you have your discussion.",
+      "Discussions are all about collaboration, so be sure to build on what other people say.",
+      "Have a plan for your conversation, and try to follow it. Don’t get sidetracked."
+    ]
+  },
+  {
+    "question": "Choose the word that completes the collocation. empirical _____________",
+    "answers": ["evidence"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. meet _____________",
+    "answers": ["expectations"]
+  },
+  {
+    "question": "Why should you elaborate in a discussion?",
+    "answers": ["To clearly explain your ideas"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. ample _______________",
+    "answers": ["evidence"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. pilot ___________",
+    "answers": ["study"]
+  },
+  {
+    "question": "True or false? It's a good idea to use the same template colors for all of your slides.",
+    "answers": ["True"]
+  },
+  {
+    "question": "If you need to temporarily step away from your poster, what should you do?",
+    "answers": ["Ask a neighboring presenter to greet your viewers for you."]
+  },
+  {
+    "question": "What is the main reason why you should limit a handout to 1-2 pages?",
+    "answers": ["Too much information will not help the audience."]
+  },
+  {
+    "question": "Which of the following is an example of content?",
+    "answers": ["Accuracy of information"]
+  },
+  {
+    "question": "Match the description here to the correct term below. a chart, table, graph, or demonstration",
+    "answers": ["illustration"]
+  },
+  {
+    "question": "Complete the sentence. After offering an epiphany, the presenter should _____________.",
+    "answers": ["smile, but remain standing silently for a few seconds"]
+  },
+  {
+    "question": "Regarding rehearsing, all of the following are true EXCEPT __________.",
+    "answers": [
+      "Try rehearsing sitting down and standing up to get extra practice and become less nervous."
+    ]
+  },
+  {
+    "question": "An example of a distracting verbal mannerism is _____________.",
+    "answers": ["saying “um”"]
+  },
+  {
+    "question": "An example of a distracting nonverbal mannerism is ___________.",
+    "answers": ["touching your hair"]
   }
 ]

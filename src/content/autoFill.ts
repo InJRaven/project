@@ -1,16 +1,13 @@
 (() => {
   const SCRIPT_NAME = "AUTO_FILL";
-  if (
-    (window as any)._quizScriptRunning &&
-    (window as any)._quizScriptRunning !== SCRIPT_NAME
-  ) {
-    console.warn(
-      `⚠️ Script khác đang chạy: ${(window as any)._quizScriptRunning}`
-    );
+
+  // Ở TOP (nếu script có thể bị inject lại):
+  if ((window as any)._quizScriptRunning) {
+    console.warn(`⚠️ Đang chạy: ${(window as any)._quizScriptRunning}`);
     return;
   }
-  // Chặn chạy song song tuyệt đối
   (window as any)._quizScriptRunning = SCRIPT_NAME;
+
   window.addEventListener("beforeunload", () => {
     (window as any)._quizScriptRunning = null;
   });
@@ -26,22 +23,73 @@
   ): Promise<T[]> =>
     new Promise((resolve, reject) => {
       (window as any)._quizScriptObservers ||= [];
+
+      const isVisible = (el: Element) => {
+        const he = el as HTMLElement;
+        if (!he) return false;
+        if (he.hidden) return false;
+
+        const style = getComputedStyle(he);
+        if (
+          style.display === "none" ||
+          style.visibility === "hidden" ||
+          style.opacity === "0"
+        ) {
+          return false;
+        }
+        const rects = he.getClientRects();
+        return he.offsetHeight > 0 || he.offsetWidth > 0 || rects.length > 0;
+      };
+
       const scan = () =>
-        Array.from(document.querySelectorAll(selector)).filter(
-          (el) => (el as HTMLElement).offsetHeight > 0
+        Array.from(document.querySelectorAll<T>(selector)).filter(
+          isVisible
         ) as T[];
 
       let idle: number | undefined;
-      const first = scan();
-      if (first.length > 0) {
-        idle = window.setTimeout(() => resolve(scan()), 250);
-      }
+      let raf: number | undefined;
+      let timer: number | undefined;
+      let done = false;
+
+      const cleanup = (observer?: MutationObserver) => {
+        if (idle) {
+          clearTimeout(idle);
+          idle = undefined;
+        }
+        if (timer) {
+          clearTimeout(timer);
+          timer = undefined;
+        }
+        if (raf) {
+          cancelAnimationFrame(raf);
+          raf = undefined;
+        }
+        if (observer) {
+          try {
+            observer.disconnect();
+          } catch {}
+          const arr: MutationObserver[] =
+            (window as any)._quizScriptObservers || [];
+          const idx = arr.indexOf(observer);
+          if (idx > -1) arr.splice(idx, 1);
+        }
+      };
+
       const observer = new MutationObserver(() => {
-        clearTimeout(idle);
-        idle = window.setTimeout(() => {
-          observer.disconnect();
-          resolve(scan());
-        }, 250);
+        if (done) return;
+        if (idle) {
+          clearTimeout(idle);
+          idle = undefined;
+        }
+        if (raf) cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(() => {
+          const found = scan();
+          if (found.length) {
+            done = true;
+            cleanup(observer);
+            resolve(found);
+          }
+        });
       });
 
       (window as any)._quizScriptObservers.push(observer);
@@ -52,10 +100,24 @@
         attributeFilter: ["class", "style", "hidden", "aria-hidden"],
       });
 
-      setTimeout(() => {
-        clearTimeout(idle);
-        observer.disconnect();
+      // Nếu đã có sẵn thì resolve sớm (vẫn cleanup observer)
+      const first = scan();
+      if (first.length) {
+        idle = window.setTimeout(() => {
+          if (done) return;
+          done = true;
+          cleanup(observer);
+          // re-scan để chắc chắn phần tử còn hiển thị
+          resolve(scan());
+        }, 50);
+      }
+
+      // Timeout cứng như cũ (giữ nguyên hành vi reject)
+      timer = window.setTimeout(() => {
+        if (done) return;
         const final = scan();
+        done = true;
+        cleanup(observer);
         final.length
           ? resolve(final)
           : reject(
@@ -142,14 +204,17 @@
         await inputTitle(inputs, payload.title);
       }
 
-      const editors = (await waitElement(
+      const editors = await waitElement<HTMLElement>(
         ".data-cml-editor-scroll-content"
-      )) as HTMLElement[];
-      if (editors) {
+      ).catch(() => [] as HTMLElement[]);
+
+      if (editors.length) {
         for (const item of editors) {
           const editor = item.querySelector(
             '[contenteditable="true"][role="textbox"]'
           ) as HTMLElement;
+
+          if (!editor) continue;
           const content: string =
             payload.content !== ""
               ? payload.content
