@@ -135,10 +135,10 @@
       console.log("✅ Title đã tồn tại");
       return;
     }
+    delay(500);
     field.value = title;
     field.dispatchEvent(new Event("input", { bubbles: true }));
     console.log("✅ Gán giá trị input:", title);
-    delay(200);
   };
 
   const fillEditorContent = async (editor: HTMLElement, content: string) => {
@@ -199,8 +199,10 @@
 
   const handleAutoFill = async (payload: Payload, autoSubmit: boolean) => {
     try {
-      const inputs = (await waitElement("input#title")) as HTMLInputElement[];
-      if (inputs) {
+      const inputs = await waitElement<HTMLInputElement>("input#title").catch(
+        () => [] as HTMLInputElement[]
+      );
+      if (inputs.length) {
         await inputTitle(inputs, payload.title);
       }
 
