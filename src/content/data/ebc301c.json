@@ -1151,5 +1151,1610 @@
   {
     "question": "I look forward to m______ you.",
     "answers": ["meeting"]
+  },
+  {
+    "question": "Part 1 - Instructions Decide if these sentences are true or false. 1. When you are arranging a time for the meeting, tell the attendees what the meeting will be about.",
+    "answers": ["True"]
+  },
+  {
+    "question": "2. The easiest way to schedule a meeting is to let participants suggest the best time.",
+    "answers": ["False"]
+  },
+  {
+    "question": "3. It’s a good idea to give people a deadline to let you know whether a time you suggested is suitable.",
+    "answers": ["True"]
+  },
+  {
+    "question": "4. When you write an agenda, include the title and type of meeting at the top.",
+    "answers": ["True"]
+  },
+  {
+    "question": "5. Items in the agenda can be written as one word nouns.",
+    "answers": ["False"]
+  },
+  {
+    "question": "6. Writing a question after an agenda item helps people prepare.",
+    "answers": ["True"]
+  },
+  {
+    "question": "7. It is common to write the name of the person responsible for leading a discussion on an agenda item.",
+    "answers": ["True"]
+  },
+  {
+    "question": "8. Time for giving reports or updates is often given near the bottom of an agenda of a regularly scheduled team meeting.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Part 2 - Instructions Complete these phrases with the appropriate word. 9. I need to _______ next month’s team meeting.",
+    "answers": ["schedule"]
+  },
+  {
+    "question": "10. If you could let me know if that doesn’t work for you _______ tomorrow, that would be great.",
+    "answers": ["by"]
+  },
+  {
+    "question": "11. I’d like to _______ a meeting for next week.",
+    "answers": ["set up"]
+  },
+  {
+    "question": "12. I want to find _______ for us to meet.",
+    "answers": ["a time"]
+  },
+  {
+    "question": "13. Would Wednesday at 9:00 _______ for everyone?",
+    "answers": ["work"]
+  },
+  {
+    "question": "14. Can you give me some _______ when you are free?",
+    "answers": ["times"]
+  },
+  {
+    "question": "15. Please let me know when you _______.",
+    "answers": ["are available"]
+  },
+  {
+    "question": "16. Subject: _______ Next Month’s Team Meeting",
+    "answers": ["scheduling"]
+  },
+  {
+    "question": "Choose the best word or phrase to complete these sentences. 1. I would like to __________ an item to the agenda.",
+    "answers": ["add"]
+  },
+  {
+    "question": "2. Could we have _________ to talk about the new store?",
+    "answers": ["some time"]
+  },
+  {
+    "question": "3. Just to let you know that I can’t _________ next week’s meeting.",
+    "answers": ["make it to"]
+  },
+  {
+    "question": "4. I’m writing to inform you that I am unable _____ next week’s meeting.",
+    "answers": ["to attend"]
+  },
+  {
+    "question": "5. I’m going to be ________ the office on Monday.",
+    "answers": ["out of"]
+  },
+  {
+    "question": "6. I have __________ appointment on that day.",
+    "answers": ["a previously scheduled"]
+  },
+  {
+    "question": "7. Something has just ___________.",
+    "answers": ["come up"]
+  },
+  {
+    "question": "8. I won’t be at next week’s meeting due to a _______________.",
+    "answers": ["personal matter"]
+  },
+  {
+    "question": "9. I’m sorry for ___________.",
+    "answers": ["any inconvenience"]
+  },
+  {
+    "question": "10. Please let me know what ___________.",
+    "answers": ["was decided"]
+  },
+  {
+    "question": "11. Would it be possible to _________ Tuesday?",
+    "answers": ["move it to"]
+  },
+  {
+    "question": "12. Is there __________ we could push it back to the following week?",
+    "answers": ["any chance"]
+  },
+  {
+    "question": "Part 1 Which statement is correct?",
+    "answers": ["OK, let’s get started."]
+  },
+  {
+    "question": "Which statement is correct?",
+    "answers": ["Today, we’re going to discuss our expansion plans."]
+  },
+  {
+    "question": "Which statement is correct?",
+    "answers": ["Shall we start with the budget?"]
+  },
+  {
+    "question": "Which statement is correct?",
+    "answers": ["Are we ready to make a decision?"]
+  },
+  {
+    "question": "Which statement is correct?",
+    "answers": ["How about postponing this until next week?"]
+  },
+  {
+    "question": "Which statement is correct? In response to: OK, thanks, Neil. You made a good point.",
+    "answers": ["The leader will probably ask someone else to speak now."]
+  },
+  {
+    "question": "Which statement is correct? In response to: How about postponing this discussion until later?",
+    "answers": ["The leader wants the discussion to stop now."]
+  },
+  {
+    "question": "Which statement is close in meaning? In response to: Let’s move on.",
+    "answers": ["It’s time to change topics."]
+  },
+  {
+    "question": "Which statement is close in meaning? In response to: We need to watch the time here.",
+    "answers": ["We’ve talked long enough."]
+  },
+  {
+    "question": "Which statement is close in meaning? In response to: We need to follow up on that.",
+    "answers": ["Let’s talk about it now."]
+  },
+  {
+    "question": "Part 2 Complete the words in the sentences. OK, let’s g____ s________. Sample answer: get started",
+    "answers": ["get started"]
+  },
+  {
+    "question": "The first thing on our a_______ is the budget.",
+    "answers": ["agenda"]
+  },
+  {
+    "question": "Let’s m____ o__ to the budget.",
+    "answers": ["move on"]
+  },
+  {
+    "question": "Are we ready to m____ a d_________?",
+    "answers": ["make a decision"]
+  },
+  {
+    "question": "Thanks. You made a g_____ p______.",
+    "answers": ["good point"]
+  },
+  {
+    "question": "You’ve r________ an important issue.",
+    "answers": ["raised"]
+  },
+  {
+    "question": "I’m glad you b__________ that u__.",
+    "answers": ["brought that up"]
+  },
+  {
+    "question": "How about p__________ing this until our next meeting?",
+    "answers": ["postponing"]
+  },
+  {
+    "question": "Thanks for your i________t, everyone.",
+    "answers": ["input"]
+  },
+  {
+    "question": "Choose the best way to complete these sentences or conversations. ___ think Pike Place Market is our best option.",
+    "answers": ["I"]
+  },
+  {
+    "question": "I___ sure.",
+    "answers": ["‘m"]
+  },
+  {
+    "question": "I ___ like we need to do more research.",
+    "answers": ["feel"]
+  },
+  {
+    "question": "A: Southcenter would be great. B: __.",
+    "answers": ["I don’t think it’s a great location."]
+  },
+  {
+    "question": "A: Southcenter would be great. B: __.",
+    "answers": ["Yes, perfect."]
+  },
+  {
+    "question": "___ we opened a smaller store?",
+    "answers": ["What if"]
+  },
+  {
+    "question": "Maybe we ___ more research before we make a decision.",
+    "answers": ["should do"]
+  },
+  {
+    "question": "A: Let’s do more research before we make a decision. B: ___.",
+    "answers": ["Good idea."]
+  },
+  {
+    "question": "A: A lot of tourists visit Pike Place Market. B: ___.",
+    "answers": ["Good point."]
+  },
+  {
+    "question": "A: Godiva has a store at Southcenter. B: ___.",
+    "answers": ["Are you sure about that?"]
+  },
+  {
+    "question": "Choose the best response for the following questions. 1. It’s a difficult decision.",
+    "answers": ["b. Very difficult, but I have a suggestion."]
+  },
+  {
+    "question": "2. I think that Southcenter is the best place for our new store.",
+    "answers": ["b. Yes, it’s perfect."]
+  },
+  {
+    "question": "3. The rent is $5,000 a month. I think we should do it.",
+    "answers": ["a. Don’t you think that’s a bit expensive?"]
+  },
+  {
+    "question": "4. It’ll be easy to find sales people because there are so many students nearby.",
+    "answers": ["b. That’s a good point."]
+  },
+  {
+    "question": "5. Godiva already has a store there.",
+    "answers": ["a. That’s true, but we’re a bit different from them."]
+  },
+  {
+    "question": "6. I don’t think we should move.",
+    "answers": ["a. Do you think we should wait to decide?"]
+  },
+  {
+    "question": "7. It’s late, and we can’t make a decision.",
+    "answers": ["b. Why don’t we meet again tomorrow morning?"]
+  },
+  {
+    "question": "8. We need more customers. Let’s reduce all our prices.",
+    "answers": ["a. Do you think we can afford that?"]
+  },
+  {
+    "question": "First, try to remember. What do you say if... 1. you want to know who’s in the conference call?",
+    "answers": ["c. Who else is on?"]
+  },
+  {
+    "question": "Second, what if... 2. you think Neil is no longer in the conference?",
+    "answers": ["a. Did we lose Neil? / Is Neil still on?"]
+  },
+  {
+    "question": "Thirdly, what if... 3. someone’s cell coverage is bad?",
+    "answers": ["b. You’re breaking up."]
+  },
+  {
+    "question": "Again, first try to remember. What do you say if... 4. You’re late and want to apologize.",
+    "answers": ["b. Sorry I’m late."]
+  },
+  {
+    "question": "5. The screen just went blank on the web meeting site. What do you say?",
+    "answers": ["a. Something happened with the site."]
+  },
+  {
+    "question": "6. You want to know if everyone has access to the screen you’re looking at. What do you say?",
+    "answers": ["c. Can everyone see the screen?"]
+  },
+  {
+    "question": "What do you say if... 7. you want each person to speak for less than one minute.",
+    "answers": ["a. We have about one minute for each person."]
+  },
+  {
+    "question": "What if... 8. you didn’t hear what someone said.",
+    "answers": ["b. I didn’t catch that last part."]
+  },
+  {
+    "question": "9. you’re confused about what someone meant.",
+    "answers": ["c. Sorry to interrupt, but I’m not sure what you mean."]
+  },
+  {
+    "question": "Listen to the following audio of Tina giving a report in a meeting and be prepare to answer questions about the survey results. Click Play Did you listen to the audio? yes or no?",
+    "answers": ["yes"]
+  },
+  {
+    "question": "Part 1: answer the following questions about the university students based on the audio. How many university students were surveyed?",
+    "answers": ["150"]
+  },
+  {
+    "question": "How many shoppers were interviewed at Southcenter Mall?",
+    "answers": ["150"]
+  },
+  {
+    "question": "How much money did university students spend on candy?",
+    "answers": ["Less than $3.00."]
+  },
+  {
+    "question": "How often did university students make gift purchases?",
+    "answers": ["3 times a year."]
+  },
+  {
+    "question": "How often did shoppers make gift purchases?",
+    "answers": ["2 or 3 times a year."]
+  },
+  {
+    "question": "How much did university students spend on gift purchases?",
+    "answers": ["No more than $3.50."]
+  },
+  {
+    "question": "How much did shoppers spend on gift purchases?",
+    "answers": ["$15 to $20."]
+  },
+  {
+    "question": "What did university students buy as a gift purchase?",
+    "answers": ["A bar of chocolates."]
+  },
+  {
+    "question": "What did shoppers buy for a gift purchase?",
+    "answers": ["A box of chocolates."]
+  },
+  {
+    "question": "Choose the best word to complete these sentences. The most important information is ___ the top of page 2.",
+    "answers": ["at"]
+  },
+  {
+    "question": "___ the report.",
+    "answers": ["Here's"]
+  },
+  {
+    "question": "We have a report ___ costs.",
+    "answers": ["on"]
+  },
+  {
+    "question": "This is our analysis ___ the problem.",
+    "answers": ["of"]
+  },
+  {
+    "question": "The survey results are ___ the second page.",
+    "answers": ["on"]
+  },
+  {
+    "question": "We have a plan ___ the research.",
+    "answers": ["for"]
+  },
+  {
+    "question": "Did everyone ___ our report?",
+    "answers": ["receive"]
+  },
+  {
+    "question": "Please ___ a look at the table.",
+    "answers": ["take"]
+  },
+  {
+    "question": "Select six sentences that describe best practices for writing effective minutes.",
+    "answers": [
+      "Write a short summary of what happened in the meeting.",
+      "Include action items and the date of the next meeting, if known.",
+      "Look at the agenda before the meeting.",
+      "Use a more formal tone if you don’t know your readers.",
+      "Use headings to make the minutes easy to read.",
+      "Give information about discussions in a neutral way."
+    ]
+  },
+  {
+    "question": "Which choice is better for minutes of a meeting? (for heading)",
+    "answers": ["Date of Next Meeting"]
+  },
+  {
+    "question": "Which choice is better for minutes of a meeting? (information about a discussion)",
+    "answers": [
+      "The team discussed whether it was a problem that Godiva is at Southcenter."
+    ]
+  },
+  {
+    "question": "Which choice is better for minutes of a meeting? (information about a discussion)",
+    "answers": ["Godiva’s higher brand recognition might be a problem for us."]
+  },
+  {
+    "question": "Which choice is better for minutes of a meeting? (information about a decision)",
+    "answers": [
+      "We decided on Pike Place Market because of potential for the high sales and increased brand recognition."
+    ]
+  },
+  {
+    "question": "Which choice is better for the minutes of a meeting? (information about a survey)",
+    "answers": [
+      "Tina reported on the results of the consumer survey (attached)."
+    ]
+  },
+  {
+    "question": "Choose the best way to complete the sentences. They discussed ___.",
+    "answers": ["the problem."]
+  },
+  {
+    "question": "After a lengthy discussion, Karin suggested ___.",
+    "answers": ["that we hire a consultant."]
+  },
+  {
+    "question": "The team decided ___.",
+    "answers": ["to hire a consultant."]
+  },
+  {
+    "question": "We decided ___.",
+    "answers": ["that Pike Place Market is the best place."]
+  },
+  {
+    "question": "Tina reported ___.",
+    "answers": ["on the results of the survey."]
+  },
+  {
+    "question": "Erik explained ___.",
+    "answers": ["the challenges with Southcenter."]
+  },
+  {
+    "question": "The team debated ___.",
+    "answers": ["which location is better."]
+  },
+  {
+    "question": "Some team members disagreed ___.",
+    "answers": ["about the choice of location."]
+  },
+  {
+    "question": "We examined the ___ and benefits of the proposal.",
+    "answers": ["costs"]
+  },
+  {
+    "question": "We decided against the proposal because of the significant ___ involved.",
+    "answers": ["risks"]
+  },
+  {
+    "question": "Gary Fagin in the factory has raised the ___ of whether they can meet our production deadlines.",
+    "answers": ["issue"]
+  },
+  {
+    "question": "No one saw any ___ to the plan, so it was approved.",
+    "answers": ["drawbacks"]
+  },
+  {
+    "question": "The ___ documents are attached.",
+    "answers": ["following"]
+  },
+  {
+    "question": "Choose the best way to complete the following statements about brainstorming. Before the brainstorming, participants should know ____.",
+    "answers": ["...what the topic is"]
+  },
+  {
+    "question": "Giving people a few minutes to think about the question can help them ____.",
+    "answers": ["... generate ideas"]
+  },
+  {
+    "question": "The facilitator writes down ideas in order to help ~.",
+    "answers": ["...organize and select the ideas after the brainstorming"]
+  },
+  {
+    "question": "The facilitator should ____.",
+    "answers": ["...encourage all ideas"]
+  },
+  {
+    "question": "It is a good idea for a successful brainstorming to give ____.",
+    "answers": ["...no more than 40 minutes"]
+  },
+  {
+    "question": "Evaluating an idea should happen _____.",
+    "answers": ["...after the brainstorming finishes"]
+  },
+  {
+    "question": "Complete these sentences with the appropriate word or phrase. The purpose of this proposal _____ a new marketing campaign.",
+    "answers": ["is to recommend"]
+  },
+  {
+    "question": "I am writing to propose _____ our budget shortfall.",
+    "answers": ["a solution to"]
+  },
+  {
+    "question": "I am writing to suggest ____ increase sales.",
+    "answers": ["a way to"]
+  },
+  {
+    "question": "The purpose of this letter is to ____ the different choices...",
+    "answers": ["evaluate"]
+  },
+  {
+    "question": "This proposal ____ the different options for our new flavors and ____ the top three.",
+    "answers": ["compares...recommends"]
+  },
+  {
+    "question": "We recommend _____ a store near the university.",
+    "answers": ["that we open"]
+  },
+  {
+    "question": "Our team suggests that we ______ construction until next year.",
+    "answers": ["not start"]
+  },
+  {
+    "question": "I propose _____ on the new fall chocolate collection.",
+    "answers": ["focus"]
+  },
+  {
+    "question": "______ this research, I recommend that we continue with the cherry flavored chocolate.",
+    "answers": ["Based on"]
+  },
+  {
+    "question": "If we chose this location, we ____ construction immediately.",
+    "answers": ["could start"]
+  },
+  {
+    "question": "If we launch this product in August, we ______ an increase in sales by October.",
+    "answers": ["should see"]
+  },
+  {
+    "question": "I would be happy to discuss this with you _____.",
+    "answers": ["in more detail"]
+  },
+  {
+    "question": "Put the parts of a written proposal in order: Background Closing Findings Introduction Outcomes Recommendations",
+    "answers": [
+      "Introduction → Background → Findings → Recommendations → Outcomes → Closing"
+    ]
+  },
+  {
+    "question": "Select all that apply. An introduction can include _____.",
+    "answers": [
+      "The outline of the proposal",
+      "The purpose of the proposal",
+      "The writer of the proposal"
+    ]
+  },
+  {
+    "question": "If you have a few options you should summarize the advantages and disadvantages of each one and then make a recommendation.",
+    "answers": ["True"]
+  },
+  {
+    "question": "A closing often contains a summary of the proposal.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Asking yourself the question \"Who am I writing to?\" will mainly help you decide how formal you will be.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Asking yourself the question \"What do the readers know?\" will help you decide the appropriate content.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Choose the best way to connect these ideas. Costco is expanding internationally. It has recently opened a new warehouse store in Iceland. ____ there are discussions about moving into France.",
+    "answers": ["In addition,"]
+  },
+  {
+    "question": "Visitors can take a bus from the market to the Space Needle. ____, they can just walk.",
+    "answers": ["Alternatively,"]
+  },
+  {
+    "question": "At Costco warehouses in Taiwan fish is sold whole ____ in U.S. stores it is usually cut into smaller pieces.",
+    "answers": ["whereas"]
+  },
+  {
+    "question": "____ sales are only 1⁄4 of total sales, Costco’s international operations have expanded 4 times faster than its US operations.",
+    "answers": ["Although"]
+  },
+  {
+    "question": "The University Village shopping area is a great location. It is near the University of Washington Seattle campus. ____ it has a lot of free parking available.",
+    "answers": ["More importantly,"]
+  },
+  {
+    "question": "Costco builds its warehouses just outside the city limits ____ real estate prices are cheaper.",
+    "answers": ["because"]
+  },
+  {
+    "question": "A location in the shopping mall would be cheaper. ____ I think we would have less visibility.",
+    "answers": ["On the other hand,"]
+  },
+  {
+    "question": "A Pike Place Market location would attract a lot of customers. ____ tourists would probably just buy our smaller chocolate collections.",
+    "answers": ["However,"]
+  },
+  {
+    "question": "Part A Complete each sentence with a word from this lesson. We would like to make a decision ______ the end of January.",
+    "answers": ["by"]
+  },
+  {
+    "question": "The announcement should be sent out _______ a month.",
+    "answers": ["within"]
+  },
+  {
+    "question": "If you could call me this week, I _______ appreciate it.",
+    "answers": ["would"]
+  },
+  {
+    "question": "I’m not in a hurry. Call me when it’s _______.",
+    "answers": ["convenient"]
+  },
+  {
+    "question": "I look forward to talking to you ________.",
+    "answers": ["soon"]
+  },
+  {
+    "question": "Part B Choose the word of phrase that is NOT correct for this sentence. I’m calling ______ the planning meeting next week.",
+    "answers": ["because"]
+  },
+  {
+    "question": "Do you think you could email the details _____ March 1?",
+    "answers": ["until"]
+  },
+  {
+    "question": "We would like to discuss the menu ______.",
+    "answers": ["ASAP"]
+  },
+  {
+    "question": "You were going to send us a price list last week, but ______.",
+    "answers": ["you didn’t send it to me."]
+  },
+  {
+    "question": "We will notify the presenters in _____.",
+    "answers": ["June 1"]
+  },
+  {
+    "question": "Holly Reynolds says what makes the Edgewater Hotel unique is ___.",
+    "answers": ["the location right above the water"]
+  },
+  {
+    "question": "The most popular events at the Edgewater Hotel are ___.",
+    "answers": ["corporate events"]
+  },
+  {
+    "question": "Holly says the Edgewater is compared to other 5-star hotels, but the Edgewater ___.",
+    "answers": ["has a special feel"]
+  },
+  {
+    "question": "The events team at the Edgewater Hotel ___.",
+    "answers": ["does everything for an event"]
+  },
+  {
+    "question": "Holly is proud of her team for their ___.",
+    "answers": ["level of professionalism and service"]
+  },
+  {
+    "question": "Part 1 Based on this lesson, which of these should you include if you are describing a service? Check all that apply.",
+    "answers": [
+      "Who does the work: someone inside or outside the company",
+      "Things that are not included in the service or fee",
+      "Complimentary services",
+      "A short overview of the service",
+      "The company’s specialization",
+      "Action verbs that describe what you do"
+    ]
+  },
+  {
+    "question": "Part 2 Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. Mountain to Sea Tour Company is one of the premier tour companies in the Seattle area. We provide group tours to destinations in the Puget Sound area. We 1._____ (specialize, make) in tours to Mount Rainier. We 2._____ (manage, do) all the details of your day, so you can relax and enjoy the scenery. Which word would you choose for 1._____ ?",
+    "answers": ["specialize"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. Mountain to Sea Tour Company is one of the premier tour companies in the Seattle area. We provide group tours to destinations in the Puget Sound area. We 1._____ (specialize, make) in tours to Mount Rainier. We 2._____ (manage, do) all the details of your day, so you can relax and enjoy the scenery. Which word would you choose for 2._____?",
+    "answers": ["manage"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We provide 3._____ (complimentary, included) water bottles at the beginning of each tour. It makes a great souvenir of your trip! Lunch and park entrance fees are 4._____ (managed, included) in the tour price. We are proud that we make our wonderful Northwest lunches 5._____(specialized , ourselves). For early departures, we also 6._____ (offer, coordinate) delicious, healthy breakfast boxes. Which word would you choose for 3._____?",
+    "answers": ["complimentary"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We provide 3._____ (complimentary, included) water bottles at the beginning of each tour. It makes a great souvenir of your trip! Lunch and park entrance fees are 4._____ (managed, included) in the tour price. We are proud that we make our wonderful Northwest lunches 5._____(specialized , ourselves). For early departures, we also 6._____ (offer, coordinate) delicious, healthy breakfast boxes. Which word would you choose for 4._____?",
+    "answers": ["included"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We provide 3._____ (complimentary, included) water bottles at the beginning of each tour. It makes a great souvenir of your trip! Lunch and park entrance fees are 4._____ (managed, included) in the tour price. We are proud that we make our wonderful Northwest lunches 5._____(specialized , ourselves). For early departures, we also 6._____ (offer, coordinate) delicious, healthy breakfast boxes. Which word would you choose for 5._____?",
+    "answers": ["ourselves"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We provide 3._____ (complimentary, included) water bottles at the beginning of each tour. It makes a great souvenir of your trip! Lunch and park entrance fees are 4._____ (managed, included) in the tour price. We are proud that we make our wonderful Northwest lunches 5._____(specialized , ourselves). For early departures, we also 6._____ (offer, coordinate) delicious, healthy breakfast boxes. Which word would you choose for 6._____?",
+    "answers": ["offer"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We have a fleet of comfortable vehicles. We have both 7-person vans as well as full-sized buses so we can 7._____ (handle, offer) groups as large as 50. We also 8._____ (cover, do) smaller tours during the winter months. We 9._____ (provide, make) free WiFi in all of our vehicles. We hope you’ll join us for one of our tours in the beautiful Pacific Northwest Please note that the prices do not 10._____ (include, complimentary) tax or a tip for the driver. Which word would you choose for 7._____?",
+    "answers": ["handle"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We have a fleet of comfortable vehicles. We have both 7-person vans as well as full-sized buses so we can 7._____ (handle, offer) groups as large as 50. We also 8._____ (cover, do) smaller tours during the winter months. We 9._____ (provide, make) free WiFi in all of our vehicles. We hope you’ll join us for one of our tours in the beautiful Pacific Northwest Please note that the prices do not 10._____ (include, complimentary) tax or a tip for the driver. Which word would you choose for 8._____?",
+    "answers": ["do"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We have a fleet of comfortable vehicles. We have both 7-person vans as well as full-sized buses so we can 7._____ (handle, offer) groups as large as 50. We also 8._____ (cover, do) smaller tours during the winter months. We 9._____ (provide, make) free WiFi in all of our vehicles. We hope you’ll join us for one of our tours in the beautiful Pacific Northwest Please note that the prices do not 10._____ (include, complimentary) tax or a tip for the driver. Which word would you choose for 9._____?",
+    "answers": ["provide"]
+  },
+  {
+    "question": "Read this service description from a brochure about Mountain to Sea Tour Company. Complete these sentences with the appropriate word from this lesson. We have a fleet of comfortable vehicles. We have both 7-person vans as well as full-sized buses so we can 7._____ (handle, offer) groups as large as 50. We also 8._____ (cover, do) smaller tours during the winter months. We 9._____ (provide, make) free WiFi in all of our vehicles. We hope you’ll join us for one of our tours in the beautiful Pacific Northwest Please note that the prices do not 10._____ (include, complimentary) tax or a tip for the driver. Which word would you choose for 10._____?",
+    "answers": ["include"]
+  },
+  {
+    "question": "When did the Edgewater Hotel open?",
+    "answers": ["1962"]
+  },
+  {
+    "question": "What did the Beatles do at the hotel?",
+    "answers": ["Fish from their hotel room."]
+  },
+  {
+    "question": "What is special about the Edgewater Hotel?",
+    "answers": ["It is the only hotel on the Seattle waterfront."]
+  },
+  {
+    "question": "Which of these was NOT mentioned in the article?",
+    "answers": ["Spa and gift shop."]
+  },
+  {
+    "question": "Which of these can you do at the Edgewater Hotel now?",
+    "answers": ["Bring your dog."]
+  },
+  {
+    "question": "Part A Before taking this quiz, review the lecture with the video of Sarah, Trey, and Dylan compromising. Finish the sentence based on what you heard in that meeting. Both Sarah and Dylan compromise on the __________.",
+    "answers": ["view"]
+  },
+  {
+    "question": "At the end, Trey offers a solution to the _____.",
+    "answers": ["parking problem"]
+  },
+  {
+    "question": "The team chooses:",
+    "answers": ["Misha's Gallery"]
+  },
+  {
+    "question": "Next, Trey is going to _____",
+    "answers": ["send a message about the team’s decision"]
+  },
+  {
+    "question": "Part B Choose the right word from the list to complete the sentence. I think we should ____________ the price.",
+    "answers": ["consider"]
+  },
+  {
+    "question": "That's my __________.",
+    "answers": ["priority"]
+  },
+  {
+    "question": "We can look at other ________, of course, but that is most important.",
+    "answers": ["factors"]
+  },
+  {
+    "question": "Last year, we _________ a ski resort for our annual meeting.",
+    "answers": ["chose"]
+  },
+  {
+    "question": "It was a nice _______, but not everyone skis.",
+    "answers": ["choice"]
+  },
+  {
+    "question": "I think this year we should ________ a beach resort. Everyone loves the beach.",
+    "answers": ["choose"]
+  },
+  {
+    "question": "We need to ________ a decision soon.",
+    "answers": ["reach"]
+  },
+  {
+    "question": "I think we need to _________ on some of these details. If not, we'll never finish.",
+    "answers": ["compromise"]
+  },
+  {
+    "question": "I think we're considering too many choices. Maybe we should narrow it _______ to just a few items. Let's not give away the coffee cups. Why don't we give away a clothing item.",
+    "answers": ["down"]
+  },
+  {
+    "question": "That’s a good idea. But I still can’t decide ______ the t-shirts or the baseball caps.",
+    "answers": ["between"]
+  },
+  {
+    "question": "According to Dan Poston, the most important thing in a negotiation is to ___.",
+    "answers": ["make sure you know the other people"]
+  },
+  {
+    "question": "He also says that the team should go into a negotiation with ___.",
+    "answers": ["several solutions that will work"]
+  },
+  {
+    "question": "In his successful joint venture in China, his team took five years to ___.",
+    "answers": ["build up the relationship"]
+  },
+  {
+    "question": "Dan Poston thinks an important personal quality in negotiating is ___.",
+    "answers": ["understanding the other person and what their objectives are"]
+  },
+  {
+    "question": "According to Dan Poston, one thing that can make negotiations fail is ___.",
+    "answers": ["misrepresenting something"]
+  },
+  {
+    "question": "One big mistake in negotiating that Dan Poston mentions is ___.",
+    "answers": ["talking too much instead of listening"]
+  },
+  {
+    "question": "Part A Complete each sentence with the correct phrase. We need a room for 400 people. This room will only hold 350. The room is _____.",
+    "answers": ["not big enough."]
+  },
+  {
+    "question": "If we hire a photographer for the event, it will cost over $1500. We don’t have that much money in our budget. It would be _____.",
+    "answers": ["a little too expensive."]
+  },
+  {
+    "question": "I like the outdoors, but the weather is a little cool in March. It’s ______.",
+    "answers": ["not quite warm enough."]
+  },
+  {
+    "question": "My team want to start the event at 3:00 but I’d like to start it at sunset. I think that 3:00 is __________.",
+    "answers": ["a bit too early."]
+  },
+  {
+    "question": "Part B Read the sentences from an email below. Which ones are in an email about a decision?",
+    "answers": [
+      "We have come to a decision regarding the gifts for our guests.",
+      "We’ve come to a decision and would like to invite Melinda Gates as our guest speaker."
+    ]
+  },
+  {
+    "question": "Choose the right word to complete each sentence. A discussion that leads to an agreement is _________.",
+    "answers": ["negotiation"]
+  },
+  {
+    "question": "The sides in a negotiation are called the negotiating ____________.",
+    "answers": ["parties"]
+  },
+  {
+    "question": "If both sides are happy with the negotiation, it is a _________ situation.",
+    "answers": ["win-win"]
+  },
+  {
+    "question": "When you give something up during a negotiation, it is called a ________.",
+    "answers": ["concession"]
+  },
+  {
+    "question": "It’s important to build a good ~ with people you negotiate with.",
+    "answers": ["relationship"]
+  },
+  {
+    "question": "If you _________ carefully to the other side, you may learn something you didn’t expect.",
+    "answers": ["listen"]
+  },
+  {
+    "question": "Both sides in negotiations should look for ~, or similar interests.",
+    "answers": ["common ground"]
+  },
+  {
+    "question": "Part of preparation for a negotiation is to figure out your own interests and ___________.",
+    "answers": ["priorities"]
+  },
+  {
+    "question": "In the US, when you begin the discussion stage, it’s common to begin with ___________.",
+    "answers": ["small talk"]
+  },
+  {
+    "question": "When negotiating with people from another culture, it’s often better to be more __________.",
+    "answers": ["formal"]
+  },
+  {
+    "question": "Complete the sentences. \"I’d like to ______ this.\"",
+    "answers": ["propose"]
+  },
+  {
+    "question": "Could I _____ a suggestion?",
+    "answers": ["make"]
+  },
+  {
+    "question": "I’ll ______ you $1000 for your car.",
+    "answers": ["offer"]
+  },
+  {
+    "question": "_______ we’re proposing is that we start in two months instead of one.",
+    "answers": ["What"]
+  },
+  {
+    "question": "I suggest ___ a slightly different idea.",
+    "answers": ["that we consider"]
+  },
+  {
+    "question": "We’re prepared to _______ you $1000.",
+    "answers": ["offer"]
+  },
+  {
+    "question": "That’s an interesting ___.",
+    "answers": ["proposal"]
+  },
+  {
+    "question": "I’d like to ___ that we get more information before our next meeting.",
+    "answers": ["suggest"]
+  },
+  {
+    "question": "Match one of the six principles of persuasion with the correct example sentence. \"We will only be able to offer this through June.\"",
+    "answers": [
+      "scarcity: people want things that are limited in time or amount"
+    ]
+  },
+  {
+    "question": "\"A study by Pew Research shows that robotics are the way of the future.\"",
+    "answers": ["authority: people trust experts"]
+  },
+  {
+    "question": "\"Why don’t you try out our gym and see if you like it? Here’s a free 30-day pass.\"",
+    "answers": [
+      "reciprocity: people give back to those who offer a favor, gift, or service."
+    ]
+  },
+  {
+    "question": "\"You mentioned you’d be done by June. Can we still count on that?\"",
+    "answers": ["commitment: people keep their promises"]
+  },
+  {
+    "question": "\"I really liked the design elements you used in that project. Beautiful work.\"",
+    "answers": [
+      "liking: people say yes to people they like, and people who like them"
+    ]
+  },
+  {
+    "question": "Decide if these sentences are true or false about negotiating by email. The first contact in a negotiation is better by email.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Negotiation by email is harder because you lose some ways of communication.",
+    "answers": ["True"]
+  },
+  {
+    "question": "It’s always a good idea to respond to an email as soon as you receive it.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The organization in this sentence is the best way to say that you can’t do something. We can offer you a discount of $200 if you do the cleanup yourself, but unfortunately the event would need to end at 12:00.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Include important information near the start of the email.",
+    "answers": ["True"]
+  },
+  {
+    "question": "It is sometimes OK to not be specific while negotiating.",
+    "answers": ["True"]
+  },
+  {
+    "question": "You can build the relationship by sometimes adding positive personal expressions to an email.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Check to make sure that you include all the information that the other person needs and that you want to include.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Choose the correct word or phrase to complete these sentences. _________ the AV system, we can provide a projector, speakers and microphone.",
+    "answers": ["Regarding"]
+  },
+  {
+    "question": "_________ shipping, we can offer you free shipping on orders over $100.",
+    "answers": ["Concerning"]
+  },
+  {
+    "question": "_______ the deposit, it is 10% due a week before the event.",
+    "answers": ["As for"]
+  },
+  {
+    "question": "We can agree to your ______ one day delivery.",
+    "answers": ["request for"]
+  },
+  {
+    "question": "I’m not sure I understand your _________ the insurance.",
+    "answers": ["point about"]
+  },
+  {
+    "question": "Thank you for your ~ the increased delivery costs.",
+    "answers": ["explanation for"]
+  },
+  {
+    "question": "Thank you for your ~ free shipment in exchange for our agreement with your payment terms.",
+    "answers": ["offer of"]
+  },
+  {
+    "question": "What _________ exactly?",
+    "answers": ["do you mean"]
+  },
+  {
+    "question": "Which word or phrase does not fit? Choose the one that is wrong. Could you ~ something for me?",
+    "answers": ["understand"]
+  },
+  {
+    "question": "_______ a letter of agreement/contract.",
+    "answers": ["I'll write up"]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": ["Hello, Mr. Bennet."]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": ["This is Emily from Northwest Events."]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": [
+      "a. I’m calling about the dinner event we are organizing for you."
+    ]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": ["Unfortunately, we have a bit of a problem."]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": [
+      "It looks like The Cascades Hotel is unavailable on that day because there is another event."
+    ]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": [
+      "I was wondering if you could call me to discuss some alternatives."
+    ]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": ["My number is 232.455.3231 Again that’s 232.455.3231"]
+  },
+  {
+    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
+    "answers": ["I hope to speak you soon."]
+  },
+  {
+    "question": "Choose the best word to complete these sentences about describing a problem. I’m afraid the room is too _______. It won’t accommodate all our guests.",
+    "answers": ["small"]
+  },
+  {
+    "question": "Unfortunately, the room is ~. I’m really sorry, but we have to cancel the reservation.",
+    "answers": ["double-booked"]
+  },
+  {
+    "question": "It ________ be repaired as soon as possible.",
+    "answers": ["has to"]
+  },
+  {
+    "question": "It looks like you _________ us. Could you send us a refund as soon as possible?",
+    "answers": ["overcharged"]
+  },
+  {
+    "question": "It appears that your account is _________.",
+    "answers": ["overdue"]
+  },
+  {
+    "question": "We placed our order two weeks ago, but we _________.",
+    "answers": ["haven’t received it yet"]
+  },
+  {
+    "question": "We ________ have the Rainier Ballroom not the Olympic Ballroom.",
+    "answers": ["were supposed to"]
+  },
+  {
+    "question": "We received the delivery yesterday, but unfortunately the dishes are ________.",
+    "answers": ["the wrong color"]
+  },
+  {
+    "question": "9. Some of the plates are ______.",
+    "answers": ["damaged"]
+  },
+  {
+    "question": "10. I’m afraid the camera _______.",
+    "answers": ["isn’t working properly"]
+  },
+  {
+    "question": "Complete the following guidelines for handling a complaint with the appropriate word. Some letters have been provided already. You should l_________ actively.",
+    "answers": ["listen"]
+  },
+  {
+    "question": "You should not i_________ t while the other person is speaking.",
+    "answers": ["interrupt"]
+  },
+  {
+    "question": "You should try to i_________ y the problem by asking questions.",
+    "answers": ["identify"]
+  },
+  {
+    "question": "Use a c_________m voice.",
+    "answers": ["calm"]
+  },
+  {
+    "question": "Don’t let the client make you use an a_________ y voice.",
+    "answers": ["angry"]
+  },
+  {
+    "question": "Don’t b_________ other people or the client/customer.",
+    "answers": ["blame"]
+  },
+  {
+    "question": "Accept r_____________y if it is your fault.",
+    "answers": ["responsibility"]
+  },
+  {
+    "question": "Don’t be d_________ ive.",
+    "answers": ["defensive"]
+  },
+  {
+    "question": "Don’t make ex_________ s.",
+    "answers": ["excuses"]
+  },
+  {
+    "question": "Try to find a s_________ n to the problem together.",
+    "answers": ["solution"]
+  },
+  {
+    "question": "Complete the following sentences by choosing the appropriate word or phrase. ______ sorry about this.",
+    "answers": ["I’m really"]
+  },
+  {
+    "question": "Please accept my _______.",
+    "answers": ["apologies"]
+  },
+  {
+    "question": "I apologize _______.",
+    "answers": ["for the inconvenience"]
+  },
+  {
+    "question": "I can understand how _____ you feel.",
+    "answers": ["disappointed"]
+  },
+  {
+    "question": "I can understand how ______ that is.",
+    "answers": ["frustrating"]
+  },
+  {
+    "question": "You ______ very upset.",
+    "answers": ["must be"]
+  },
+  {
+    "question": "Unfortunately, I don't think we ______ do that in time.",
+    "answers": ["would be able to"]
+  },
+  {
+    "question": "________ I brought over a new microphone?",
+    "answers": ["What if"]
+  },
+  {
+    "question": "Would it help if we _______ a replacement?",
+    "answers": ["sent"]
+  },
+  {
+    "question": "Why don't I _______ the caterer to see if he can prepare something different?",
+    "answers": ["contact"]
+  },
+  {
+    "question": "Is that ______?",
+    "answers": ["acceptable"]
+  },
+  {
+    "question": "________ that be okay?",
+    "answers": ["Would"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Dear Ms. Ramsey,\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"I am writing again regarding the outstanding balance on your account, which is now 50 days past due.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"We contacted you two weeks ago, but as of today, July 1, we have received no response.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"This is an unacceptable situation.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Please contact us immediately to settle your account.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"I have attached the invoice again in case the previous one has gone missing.\"",
+    "answers": ["First Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Please feel free to call me to discuss this matter so that we can resolve this issue.\"",
+    "answers": ["First Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Sincerely, Ryan Dent\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Dear Alison,\"",
+    "answers": ["First Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"I wanted to follow up on the invoice that we sent for your print order #34545 dated June 6.\"",
+    "answers": ["First Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"We would appreciate your prompt payment of this account.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Unless we hear from you by the end of week, we will have no choice but to seek legal action.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Best, Ryan\"",
+    "answers": ["First Email"]
+  },
+  {
+    "question": "Complete the following sentences with the appropriate words. \"_______ speak to my colleague _________ call you right back.\"",
+    "answers": ["Let me...and I'll"]
+  },
+  {
+    "question": "\"I’ve managed _________ the problem.\"",
+    "answers": ["to fix"]
+  },
+  {
+    "question": "\"You should ___________ receive a new one tomorrow.\"",
+    "answers": ["expect to"]
+  },
+  {
+    "question": "\"________ contact you next week _________ make sure it is working properly.\"",
+    "answers": ["I'll...to"]
+  },
+  {
+    "question": "\"I’ve ________ the old one away and _________ a new one.\"",
+    "answers": ["taken...installed"]
+  },
+  {
+    "question": "\"The car ________ be working normally.\"",
+    "answers": ["should"]
+  },
+  {
+    "question": "\"I’ll call you later to __________ that it has arrived.\"",
+    "answers": ["confirm"]
+  },
+  {
+    "question": "\"I’ll drop by tomorrow to __________ there is anything else you need.\"",
+    "answers": ["see if"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"Your immediate attention to this matter is appreciated.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "MOHAI is supported by ________.",
+    "answers": ["CEOs of major companies in Seattle."]
+  },
+  {
+    "question": "One of Boeing’s first airplanes ____.",
+    "answers": ["hangs from the ceiling in the museum."]
+  },
+  {
+    "question": "Jeff Bezos, the CEO of Amazon gave _______ to the museum.",
+    "answers": ["$10 million"]
+  },
+  {
+    "question": "Jeff Bezos thinks that maybe there is a lot of innovation in Seattle because of ____________.",
+    "answers": ["the rain"]
+  },
+  {
+    "question": "MOHAI is popular for ______.",
+    "answers": ["corporate events and weddings"]
+  },
+  {
+    "question": "Look at the following sentences regarding an unpaid bill. Decide which sentence is from a first follow-up email or a final follow-up email. \"According to our records, we still have not received payment.\"",
+    "answers": ["Final Email"]
+  },
+  {
+    "question": "According to Christine, when should someone start planning an event most of the time?",
+    "answers": ["One year before."]
+  },
+  {
+    "question": "What does Christine think is the number 1 thing for someone to consider when they plan an event?",
+    "answers": ["The goal of an event."]
+  },
+  {
+    "question": "What should an events planner do to make a good first impression?",
+    "answers": ["Plan for things before guests enter, like parking or signs."]
+  },
+  {
+    "question": "What is one big mistake that people often make?",
+    "answers": ["Trying to do everything themselves on the day of the event ."]
+  },
+  {
+    "question": "Why makes MOHAI special for an event?",
+    "answers": ["The space is unique."]
+  },
+  {
+    "question": "Before taking this quiz, be sure to do the reading on the Washington State Tourism Network. After reading it, answer the following questions. Does this conference have a name?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What is the conference's name? NOTE: In order to get credit, be sure to use the full name, exact capitals, correct spacing, and correct spelling.",
+    "answers": ["State of Washington Tourism Conference"]
+  },
+  {
+    "question": "Is the organizer mentioned?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What is the name of the organizer? NOTE: In order to get credit, be sure to use the full name, exact capitals, correct spacing, and correct spelling.",
+    "answers": ["Washington State Tourism Network"]
+  },
+  {
+    "question": "What kind of people will attend this conference?",
+    "answers": ["Tourism professionals."]
+  },
+  {
+    "question": "Who is the announcement from?",
+    "answers": ["Susan Hogan, Conference Chair"]
+  },
+  {
+    "question": "How long is the conference?",
+    "answers": ["2 days"]
+  },
+  {
+    "question": "What is included in the registration?",
+    "answers": ["Lunch", "Networking event", "Seattle Water Tour"]
+  },
+  {
+    "question": "How do people get more information?",
+    "answers": ["On the website"]
+  },
+  {
+    "question": "Part 1 Which sentence is the best choice from an announcement of a conference?",
+    "answers": [
+      "The conference attracts thousands of top researchers from around the world."
+    ]
+  },
+  {
+    "question": "Which sentence is the best choice from an announcement of a conference?",
+    "answers": ["Lunch choices are posted on the website."]
+  },
+  {
+    "question": "Which sentence is the best choice from an announcement of a conference?",
+    "answers": [
+      "This conference is aimed at the best and brightest in the field of robotics."
+    ]
+  },
+  {
+    "question": "Which sentence is the best choice from an announcement of a conference?",
+    "answers": [
+      "The Farm and Food Network is pleased to announce the 36th Annual Conference on Sustainability, June 5."
+    ]
+  },
+  {
+    "question": "Which sentence is the best choice from an announcement of a conference?",
+    "answers": [
+      "Please visit our website at conferences@nnca.com for more detail."
+    ]
+  },
+  {
+    "question": "Part 2 Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. Please ___________ proposals by June 23.",
+    "answers": ["submit"]
+  },
+  {
+    "question": "Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. Please _______ to Mark Reynolds at mreynolds@mmu.edu by January 5.",
+    "answers": ["respond"]
+  },
+  {
+    "question": "Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. A tour of the city is __________ for medical professionals.",
+    "answers": ["included"]
+  },
+  {
+    "question": "Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. The conference is _________ for medical professionals.",
+    "answers": ["designed"]
+  },
+  {
+    "question": "Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. The WA Leadership Association is ________ to announce the 2016 Conference on Leadership for Women.",
+    "answers": ["pleased"]
+  },
+  {
+    "question": "Work Bank: designed included pleased respond speaker submit Fill in the blank with the correct word. Our keynote _________ will be Andrea McCormick from WX Analytics.",
+    "answers": ["speaker"]
+  },
+  {
+    "question": "Part 3 Complete each sentence with the correct preposition. Attendees need to register ____ the conference by June 10.",
+    "answers": ["for"]
+  },
+  {
+    "question": "Four hundred people will present _______ this conference.",
+    "answers": ["at"]
+  },
+  {
+    "question": "Members may participate _____ the workshops for free.",
+    "answers": ["in"]
+  },
+  {
+    "question": "Participants are asked to respond _____ email.",
+    "answers": ["by"]
+  },
+  {
+    "question": "a) Look at this chart from the UN World Travel Organization (UNWTO). Source: https://epthinktank.eu/2014/03/14/the-european-union-and-tourism-challenges-and-policy-responses/tourism2/ b) Choose the words to complete the sentences. Copy and paste the paragraph in the answer textbox and fill in the blank, then submit your answer and compare it with the correct answer. This chart f________ the UNWTO s___________ the international tourist arrivals by destination. A_____ y_____ c_____ s_____, Europe is the most common destination. However, a________ t____ the UNWTO, Europe’s s_________e of international tourists will decrease by 2030 as more p________e travel to Asia and the Pacific, the Middle East, and Africa. Travel to countries in the Americas a____________ f_____ 16% of arrivals in 2010, but is expected to fall by 2% in 2030.",
+    "answers": [
+      "from, shows, As you can see, according to, share, people, accounted for"
+    ]
+  },
+  {
+    "question": "Part 1: What is the purpose of each sentence? 1. So what can we do about this?",
+    "answers": ["to introduce possible solutions"]
+  },
+  {
+    "question": "2. Let’s look at this in more detail.",
+    "answers": ["to give more information"]
+  },
+  {
+    "question": "3. Let’s move on to talk about the cost.",
+    "answers": ["to go to the next point"]
+  },
+  {
+    "question": "4. This is important to avoid later problems.",
+    "answers": ["to explain why something is significant"]
+  },
+  {
+    "question": "5. We’ll discuss this in more detail in a few minutes.",
+    "answers": ["to promise more later"]
+  },
+  {
+    "question": "Backing up a minute, when I spoke about the issue, I didn't mean that it was impossible.",
+    "answers": ["to explain a previous point or return to a previous slide"]
+  },
+  {
+    "question": "7. Here’s an example of what I mean.",
+    "answers": ["to give an example"]
+  },
+  {
+    "question": "8. Now Sheila is going to talk about possible solutions.",
+    "answers": ["to change speakers"]
+  },
+  {
+    "question": "9. As I mentioned earlier, the cost is minimal.",
+    "answers": ["to refer back"]
+  },
+  {
+    "question": "10. To close, let me suggest a course of action.",
+    "answers": ["to end"]
+  },
+  {
+    "question": "11. In other words, there’s no easy solution.",
+    "answers": ["to rephrase"]
+  },
+  {
+    "question": "12. OK, so to recap, we’ve talked about these important issues: cost and timing.",
+    "answers": ["to review or summarize"]
+  },
+  {
+    "question": "Part 2: Choose the best word to complete these sentences. 13. Let’s move ______ to the next point.",
+    "answers": ["on"]
+  },
+  {
+    "question": "14. I’d like to ______ back just a minute to show you that chart again.",
+    "answers": ["go"]
+  },
+  {
+    "question": "15. Before we look ________ costs, let’s discuss the time involved in each option.",
+    "answers": ["at"]
+  },
+  {
+    "question": "16. There are several options _______.",
+    "answers": ["to consider"]
+  },
+  {
+    "question": "17. Thank you for ________.",
+    "answers": ["your attention"]
+  },
+  {
+    "question": "18. I’d like to close by ________ you one question.",
+    "answers": ["asking"]
+  },
+  {
+    "question": "19. Now I’m going to turn ________ to Professor Jenkins.",
+    "answers": ["it over"]
+  },
+  {
+    "question": "20. What I mean ________ it’s going to be expensive.",
+    "answers": ["is that"]
+  },
+  {
+    "question": "21. This step is important ______ prevent more problems.",
+    "answers": ["to"]
+  },
+  {
+    "question": "22. So, what ~ do about this problem?",
+    "answers": ["can we"]
+  },
+  {
+    "question": "Identify the problem with each slide.",
+    "answers": [
+      "The items in the list are not consistent.",
+      "There is too much information on the slide.",
+      "The color is not enough of a contrast.",
+      "There are too many font styles and sizes.",
+      "It has too much on it.",
+      "This long definition should not be written out on the slide.",
+      "There is not enough contrast to read the words on the photo.",
+      "The text is too small.",
+      "The sentences in the list are too long."
+    ]
+  },
+  {
+    "question": "What is Expedia?",
+    "answers": ["an online travel agency"]
+  },
+  {
+    "question": "How many brands does Expedia encompass?",
+    "answers": ["about 15"]
+  },
+  {
+    "question": "Is Expedia on mobile devices as well as online?",
+    "answers": ["yes"]
+  },
+  {
+    "question": "How many websites does Expedia have globally?",
+    "answers": ["200"]
+  },
+  {
+    "question": "What is the biggest change in recent years?",
+    "answers": ["use of social media"]
+  },
+  {
+    "question": "Complete the sentences. 1. ___, it is a bit cold here in the winter.",
+    "answers": ["a. To be honest"]
+  },
+  {
+    "question": "2. ___, you’re probably wondering about the cost.",
+    "answers": ["b. If you’re like me"]
+  },
+  {
+    "question": "3. ___ the truth, there is a lot of traffic, which is why the subway is a great way to get to work.",
+    "answers": ["b. To tell you"]
+  },
+  {
+    "question": "4. I’m sure ___ about the cost.",
+    "answers": ["b. you’d like to know"]
+  },
+  {
+    "question": "5. As you know, ___ one of the busiest airports in the world.",
+    "answers": ["a. we have"]
+  },
+  {
+    "question": "6. Everyone agrees ___ a great place to live.",
+    "answers": ["b. that this is"]
+  },
+  {
+    "question": "7. ___ a doubt, this is an amazing place to live.",
+    "answers": ["b. Without"]
+  },
+  {
+    "question": "8. The mountain is a ___ place to visit.",
+    "answers": ["b. spectacular"]
+  },
+  {
+    "question": "9. It will be one of the most ___ experiences of your life.",
+    "answers": ["b. memorable"]
+  },
+  {
+    "question": "10. Our _____ renovated hotel is located in the heart of the city.",
+    "answers": ["newly"]
+  },
+  {
+    "question": "Complete the following sentences by choosing the best word or phrase. 1. THFT ____ founded in 2014.",
+    "answers": ["was"]
+  },
+  {
+    "question": "2. We _____ in Chicago.",
+    "answers": ["are located"]
+  },
+  {
+    "question": "3. We _____ in Seattle.",
+    "answers": ["are based"]
+  },
+  {
+    "question": "4. I’m _____ of DigiMoth.",
+    "answers": ["the founder"]
+  },
+  {
+    "question": "5. I _____ a restaurant called BeniLux.",
+    "answers": ["own"]
+  },
+  {
+    "question": "6. Our goal ____ provide excellent customer service.",
+    "answers": ["is to"]
+  },
+  {
+    "question": "7. We ____ providing high quality, healthy food at a good price.",
+    "answers": ["believe in"]
+  },
+  {
+    "question": "8. We have designed a simple app ~ helps plan your daily commute.",
+    "answers": ["that"]
+  },
+  {
+    "question": "9. At DigiMoth we make a simple ____ to accurately locate your position on a map",
+    "answers": ["device"]
+  },
+  {
+    "question": "10. Goldi is a simple ~ the problem of sending money overseas.",
+    "answers": ["solution to"]
   }
 ]
