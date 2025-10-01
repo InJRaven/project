@@ -4759,5 +4759,626 @@
   {
     "question": "You are modeling a software solution for a medical lab using object-oriented analysis and design (OOAD). You want to illustrate the classes for the technician, nurse, and doctor to inherit from Medical Personnel. What type of UML diagram should you create?",
     "answers": ["Class"]
+  },
+  {
+    "question": "Who is more likely to work with databases?",
+    "answers": ["Back-end developer"]
+  },
+  {
+    "question": "Which of the following do version control systems help you to keep track of? (Select all that apply)",
+    "answers": [
+      "What changes were made to the code",
+      "Who made the changes",
+      "When the changes were made"
+    ]
+  },
+  {
+    "question": "Which of the following is not a development framework?",
+    "answers": ["Git"]
+  },
+  {
+    "question": "Which process automatically builds and tests your code?",
+    "answers": ["CI (Continuous Integration)"]
+  },
+  {
+    "question": "True or False: JavaScript can be used for both front-end and back-end development.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or False: 10car is a valid variable name in JavaScript.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following statement is the correct way to define a function with no parameters in JavaScript?",
+    "answers": ["function myFunction() { }"]
+  },
+  {
+    "question": "Which of the following statements is the correct way to include a script in an HTML?",
+    "answers": ["<script src = “/source/script.js”> </script>"]
+  },
+  {
+    "question": "How would you display a confirmation dialog box in a window?",
+    "answers": ["window.confirm(“message”)"]
+  },
+  {
+    "question": "Select all the following statements about errors which are true.",
+    "answers": [
+      "RangeError is created when a numeric value or parameter is outside a valid range",
+      "JavaScript has 6 core types of errors"
+    ]
+  },
+  {
+    "question": "In the following declaration, what is the type of the variable ‘pi’? var pi = “3.14”;",
+    "answers": ["string"]
+  },
+  {
+    "question": "How do you define an array called array1 in JavaScript?",
+    "answers": ["var array1 = [1,2,3]"]
+  },
+  {
+    "question": "What does the following statement do? var ndate = new Date() ;",
+    "answers": ["Assigns the current local time to ndate"]
+  },
+  {
+    "question": "Which DOM function returns a node object matching a div with an id value “example_id”?",
+    "answers": ["document.getElementById(“example_id”)"]
+  },
+  {
+    "question": "How are numbers converted to strings?",
+    "answers": ["(123).toString()"]
+  },
+  {
+    "question": "What is the value of ‘total’ after the following statement is executed? var total = 10 + 1 +” 3”;",
+    "answers": ["“113”"]
+  },
+  {
+    "question": "What would the alert be, when the following code is executed? var a = new String(“Hello”); var b = “Hello”; if (a ===b){ alert(“Same”); }else{ alert(“Different”); }",
+    "answers": ["Different"]
+  },
+  {
+    "question": "Which of the following is the proper way to create a `for` loop?",
+    "answers": ["for (var i = minVal; i < maxVal; i++) { ... }"]
+  },
+  {
+    "question": "Which JavaScript statement is best used to compare a value against multiple possible matches and execute code for the first matching case?",
+    "answers": ["switch statement"]
+  },
+  {
+    "question": "Which of the following is not an event binder in JavaScript?",
+    "answers": ["onhover"]
+  },
+  {
+    "question": "What is an API?",
+    "answers": [
+      "Code that works with data and provides a mechanism for software to access resources from the back-end"
+    ]
+  },
+  {
+    "question": "When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply)",
+    "answers": ["Full-stack Developer", "Back-end Developer"]
+  },
+  {
+    "question": "In addition to SQL, which tool can help you access databases?",
+    "answers": ["ORM"]
+  },
+  {
+    "question": "Build automation can automate which of the following tasks? (Select all that apply)",
+    "answers": [
+      "Running tests and deployment to production systems",
+      "Downloading dependencies",
+      "Packaging binary code"
+    ]
+  },
+  {
+    "question": "A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem?",
+    "answers": ["Front-end Developer"]
+  },
+  {
+    "question": "Which of the following describe a package manager? (Select all that apply)",
+    "answers": [
+      "Takes care of finding, installing, maintaining or uninstalling software packages",
+      "A way to distribute your pre-packaged application(s)"
+    ]
+  },
+  {
+    "question": "Which of the following adds interactivity and dynamic content to a website?",
+    "answers": ["JavaScript"]
+  },
+  {
+    "question": "Which of these is an open-source server side platform built on the Google Chrome JavaScript engine and uses an asynchronous single threaded architecture that allows it to serve a very large number of concurrent connections?",
+    "answers": ["Node.js"]
+  },
+  {
+    "question": "Which of the following frameworks and libraries are used for front-end? (Select all that apply)",
+    "answers": ["Vue.js", "Angular", "React.js"]
+  },
+  {
+    "question": "Which of the following is NOT a required skill for a front-end developer?",
+    "answers": ["Java"]
+  },
+  {
+    "question": "Which of the following are the standard bodies in HTML5 development?",
+    "answers": [
+      "The development of HTML5 is a collaboration between W3C and WHATWG after they started joint efforts in 2007."
+    ]
+  },
+  {
+    "question": "A software development company wants to build a rich, interactive website that provides consistent behavior for both mobile and desktop computers. Which HTML5 capabilities will they leverage?",
+    "answers": ["Supports cross-device compatibility"]
+  },
+  {
+    "question": "Which of the following statements embeds an image in an HTML document?",
+    "answers": ["<img src=”image URL”>"]
+  },
+  {
+    "question": "When defining a hyperlink (<a>), which attribute is used to specify the destination address?",
+    "answers": ["href"]
+  },
+  {
+    "question": "Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag",
+    "answers": ["<br>"]
+  },
+  {
+    "question": "How are comments written in HTML?",
+    "answers": ["< !-- This is a comment -- >"]
+  },
+  {
+    "question": "Which tag is used to denote a cell of data within a table?",
+    "answers": ["<td>"]
+  },
+  {
+    "question": "Which of the following is NOT an HTML tag?",
+    "answers": ["<!DOCTYPE html>"]
+  },
+  {
+    "question": "What is the <br> tag used for?",
+    "answers": ["To add a line break"]
+  },
+  {
+    "question": "Which of the following denotes the least important heading?",
+    "answers": ["<h6>"]
+  },
+  {
+    "question": "Which tag is used to create an ordered list?",
+    "answers": ["<ol>"]
+  },
+  {
+    "question": "Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options.",
+    "answers": [
+      "The user has not disabled scripting for the current browser context",
+      "The browser supports scripting"
+    ]
+  },
+  {
+    "question": "In a web form, you are asking users to enter their age, limited to 5 to 25 years only. Which HTML5 attributes has the developer used to limit the age field?",
+    "answers": ["number"]
+  },
+  {
+    "question": "Which of the following is a disadvantage of a component framework?",
+    "answers": ["Limited components to only what the framework provides"]
+  },
+  {
+    "question": "Sana wants to add a standalone image in the blog post with accompanying text related to the main content that exists independently. Which of the HTML5 elements should Sana use to group this visual content?",
+    "answers": ["Figure"]
+  },
+  {
+    "question": "You are setting the input type=\"number\" and defining a minimum of 5 and a maximum of 10. However, users can still enter values beyond 10 in the number field. What is the inaccuracy in this case?",
+    "answers": ["The required attributes are missing from the field."]
+  },
+  {
+    "question": "What is one key way JavaScript enhances the user experience on websites?",
+    "answers": ["By manipulating the DOM to dynamically change page content"]
+  },
+  {
+    "question": "Cristy is reviewing a DOM tree in a browser’s developer tools; a node is labeled with the value eight and contains a descriptive message not rendered on the page. Which type of node is this?",
+    "answers": ["Comment"]
+  },
+  {
+    "question": "If you want to return the first employee with a matching ID from an array of employee objects, which method is most appropriate?",
+    "answers": ["find()"]
+  },
+  {
+    "question": "While modifying a webpage, you want to retrieve a specific element by its unique ID to update content. Which JavaScript APIs function should you use?",
+    "answers": ["document.getElementById"]
+  },
+  {
+    "question": "What happens when the state of a React class component changes?",
+    "answers": ["The component re-renders to reflect the updated state."]
+  },
+  {
+    "question": "A programmer is building a security system where an alarm triggers when a motion sensor’s status changes from inactive to active. If the sensor’s status is stored as a Boolean and needs to be logged as a number, what would be recorded when sensor_active = True is converted to an integer?",
+    "answers": ["1"]
+  },
+  {
+    "question": "A web developer is creating a form that collects a user’s first and last name as separate inputs. Which Python code correctly combines the inputs “Maria” and “Rodriguez” into the full name “Maria Rodriguez” with a space between?",
+    "answers": ["“Maria” + “ “ + “Rodriguez”"]
+  },
+  {
+    "question": "For the string “Hello World” stored in variable text, what will text[0:5] return?",
+    "answers": ["“Hello”"]
+  },
+  {
+    "question": "Which field is Python NOT commonly used in?",
+    "answers": ["Hardware-level programming for microcontrollers"]
+  },
+  {
+    "question": "What distinguishes Jupyter Notebooks from traditional Python script files?",
+    "answers": [
+      "Jupyter Notebooks support interactive code execution in isolated cells with visible outputs."
+    ]
+  },
+  {
+    "question": "A developer is creating a program that needs to display the file path C:\\Users\\name\\Documents. Which Python string correctly represents this path?",
+    "answers": ["“C:\\Users\\name\\Documents”"]
+  },
+  {
+    "question": "A programmer is creating a music playlist system where artists and their songs are stored in tuples. The data structure playlist = ((\"Pop\", \"Rock\"), [\"Madonna\", \"Elvis\"], [\"Like a Prayer\", \"Jailhouse Rock\"]) contains genres, artists, and songs. Which code would extract only the list of songs?",
+    "answers": ["playlist[2]"]
+  },
+  {
+    "question": "If A is a list, what does the following syntax do? B=A[:]",
+    "answers": [
+      "Creates a new reference variable B that points to a copy or clone of the original list A"
+    ]
+  },
+  {
+    "question": "Which statement correctly describes how conditional execution flows in Python when an if-else statement is followed by additional code?",
+    "answers": [
+      "Code following an if-else block executes regardless of the if-else outcome."
+    ]
+  },
+  {
+    "question": "What is the output of the following lines of code? x = 5 while x != 2: print(x) x = x – 1",
+    "answers": ["5 4 3"]
+  },
+  {
+    "question": "A data analysis program processes financial records using the following code: try: file = open('financial_data.csv', 'r') data = file.read() result = process_data(data) print(f\"Total: ${result}\") except FileNotFoundError: print(\"Error: Financial data file not found.\") except ValueError: print(\"Error: Data contains invalid values.\") finally: file.close() What is the benefit of using specific error types rather than a single generic block?",
+    "answers": [
+      "Different errors can be handled with appropriate, specific responses."
+    ]
+  },
+  {
+    "question": "What is the result of running the following lines of code? class Points(object): def __init__(self, x, y): self.x = x self.y = y def print_point(self): print('x=', self.x, ' y=', self.y) p2 = Points('Boston', 'Chicago') p2.y = 'Denver' p2.print_point()",
+    "answers": ["x= Boston y= Denver"]
+  },
+  {
+    "question": "What distinguishes REST APIs from other types of APIs?",
+    "answers": [
+      "They communicate through the internet using HTTP methods and typically exchange data in formats like JSON."
+    ]
+  },
+  {
+    "question": "In Python, what signifies real numbers and utilizes a decimal point?",
+    "answers": ["float"]
+  },
+  {
+    "question": "What following code segment would produce an output of “0”?",
+    "answers": ["1//2"]
+  },
+  {
+    "question": "Complete the statement. Dictionary items can be:",
+    "answers": ["Numerous data types"]
+  },
+  {
+    "question": "What will this code segment “A[0]” obtain from a list or tuple?",
+    "answers": ["The first element of a list or tuple"]
+  },
+  {
+    "question": "What outcome does the following operation: '1,2,3,4'.split(',')produce?",
+    "answers": ["['1','2','3','4']"]
+  },
+  {
+    "question": "For the provided add function below, what is the return value of the following? def add(x): return(x + x) add('1')",
+    "answers": ["'11'"]
+  },
+  {
+    "question": "What is the rectangle's height in the Rectangle class? class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show()",
+    "answers": ["3"]
+  },
+  {
+    "question": "How can you sort list 'B' using a method to modify the original list instead of creating a new one?",
+    "answers": ["B.sort()"]
+  },
+  {
+    "question": "What outcome do the following lines of code produce? a=np.array([1,1,1,1,1]) a+1",
+    "answers": ["array([2,2,2,2,2])"]
+  },
+  {
+    "question": "Given the file object named file1, which of the following codes prints the first 2 lines of the content in it?",
+    "answers": ["for n in range(0, 2): print(file1.readline())"]
+  },
+  {
+    "question": "What are the three main parts to a URL?",
+    "answers": ["Scheme, internet address, and route"]
+  },
+  {
+    "question": "What is the first step you must check before performing matrix multiplication between two NumPy arrays A and B?",
+    "answers": [
+      "The number of columns in A must equal the number of rows in B."
+    ]
+  },
+  {
+    "question": "Given the following file content for \"Example1.txt\": This is line 1 This is line 2 This is line 3 What would be the output of this code? with open(\"Example1.txt\",\"r\") as file1: FileContent=file1.readline() print(FileContent)",
+    "answers": ["This is line 1"]
+  },
+  {
+    "question": "Consider the following line of code: with open(example1,\"r\") as file1: What mode is the file object in?",
+    "answers": ["read"]
+  },
+  {
+    "question": "You are a part of a testing team for a web development team. You have completed initial and integration testing for the website. Now you want to ensure that the website performs well during high traffic on the sales days. Which of the following tests will you perform?",
+    "answers": ["Performance testing"]
+  },
+  {
+    "question": "You're writing unit tests for a Python application. To improve maintainability, you create a class structure for your tests. What is the primary benefit of this approach?",
+    "answers": [
+      "It allows you to organize and execute test cases from a single unit."
+    ]
+  },
+  {
+    "question": "Which of the following could be one of your assumptions, while running a test on the square function using the input 2 for the test output “AssertionError: 8!=4”?",
+    "answers": [
+      "The function returned an incorrect value, causing the test to fail."
+    ]
+  },
+  {
+    "question": "You're working with a package structure that includes a directory mypackage and a module my_code.py with a simple function. How can you correctly call print_hello()?",
+    "answers": ["from mypackage import my_code then call my_code.print_hello()"]
+  },
+  {
+    "question": "You're building a test script for a Python package. What is the correct syntax to invoke a function from a module inside the package?",
+    "answers": ["{package_name}.{module_name}.{function_name}(parameters)"]
+  },
+  {
+    "question": "Your team is building a full-featured web application and needs a structure that supports efficient database management, built-in security, and reusable components. Which of the following options best describes the selection of frameworks like Django or Flask over a Python library?",
+    "answers": [
+      "Frameworks offer predefined architecture, built-in tools, and enable complete app development."
+    ]
+  },
+  {
+    "question": "Where should Sana write Flask server code and define routes for Flask application development?",
+    "answers": ["Python files"]
+  },
+  {
+    "question": "In the __________ cloud model, the cloud provider provisions the cloud infrastructure for exclusive use by a single organization.",
+    "answers": ["Private"]
+  },
+  {
+    "question": "Which of the following best describes a route?",
+    "answers": ["Path to a website or page that the user interacts with"]
+  },
+  {
+    "question": "In JavaScript, if you do not initialize a variable, what value will the variable have?",
+    "answers": ["undefined"]
+  },
+  {
+    "question": "In a Git team project, which team member uses the git-am command as part of their responsibilities?",
+    "answers": ["Integrator"]
+  },
+  {
+    "question": "React is an open-source library created and maintained by Facebook and community developers. What is it mainly used to build?",
+    "answers": ["Complex UIs"]
+  },
+  {
+    "question": "Which of the following is true for hooks?",
+    "answers": ["They can only be called inside React function components."]
+  },
+  {
+    "question": "The JavaScript application sends a web service request using JavaScript Object Notation (JSON) over ____.",
+    "answers": ["HTTP"]
+  },
+  {
+    "question": "When you import a Node.js module, what does the require function return?",
+    "answers": ["An explicit exports object"]
+  },
+  {
+    "question": "In the following code, if x=4, what is the output? if(x > 3): print('Hello') else: print('Bye') print('Hillary')",
+    "answers": ["Hello Hillary"]
+  },
+  {
+    "question": "To append text to a file, which mode argument should be passed into the open() function?",
+    "answers": ["‘a’"]
+  },
+  {
+    "question": "In a library entity-relationship data model, a book is an example of _____ and the book’s title, edition, and publication date are examples of _______.",
+    "answers": ["an entity; attributes"]
+  },
+  {
+    "question": "Which statement is true regarding object-relational mapping?",
+    "answers": ["ORM bridges the gap between OOP and SQL."]
+  },
+  {
+    "question": "What else does the Django template contain besides Python code?",
+    "answers": ["Static HTML elements"]
+  },
+  {
+    "question": "A Django project is a container for _________.",
+    "answers": ["Django apps"]
+  },
+  {
+    "question": "Which of the following statements is true with respect to declarative object configuration?",
+    "answers": ["It stores configuration data in files."]
+  },
+  {
+    "question": "Which of the following is a managed API Gateway?",
+    "answers": ["IBM DataPower"]
+  },
+  {
+    "question": "Which of the following is a type of cloud-computing service that allows you to execute code in response to events without a complex infrastructure?",
+    "answers": ["FaaS"]
+  },
+  {
+    "question": "In the Code Engine Context, which of the following represents a mechanism that can be used to create a container image from the source code?",
+    "answers": ["Build"]
+  },
+  {
+    "question": "OpenShift is most closely associated with which other technology?",
+    "answers": ["Kubernetes"]
+  },
+  {
+    "question": "A company wants to leverage generative AI’s capabilities to minimize manual bug detection efforts for recurring bugs. How does generative AI contribute to this case?",
+    "answers": ["By detecting bugs and suggesting fixes using data models."]
+  },
+  {
+    "question": "A development team adds an AI-driven testing tool to their CI/CD workflow. What benefit should they expect?",
+    "answers": ["Generate and prioritize high-impact tests automatically."]
+  },
+  {
+    "question": "You’re building a security feature using AI. What is one way it can protect users?",
+    "answers": [
+      "Identifying and preventing potentially malicious content from reaching you."
+    ]
+  },
+  {
+    "question": "Which AI technique can be used to automate test case generation from textual software requirements?",
+    "answers": ["Natural language processing (NLP) techniques"]
+  },
+  {
+    "question": "A product manager wants to enhance a mobile app using AI. Which feature is inappropriate that supports the objective of this scenario?",
+    "answers": ["Encouraging open discussions and diverse ideas"]
+  },
+  {
+    "question": "An enterprise AI system flags a developer account exhibiting abnormal login times and unusual access patterns. What AI capability is being utilized?",
+    "answers": ["User and entity behavior analysis (UEBA)"]
+  },
+  {
+    "question": "A DevOps engineer installs AI-based monitoring in a CI/CD pipeline. What outcome should they expect?",
+    "answers": [
+      "Anticipating deployment risks and suggesting minimization steps"
+    ]
+  },
+  {
+    "question": "A startup wants to implement an endpoint protection solution that uses deep learning to detect and neutralize threats before they can impact systems. Which of the following tools should they use?",
+    "answers": ["Sophos Intercept X"]
+  },
+  {
+    "question": "During a code review session, the team used static analysis. What does static analysis enable AI-powered tools to do?",
+    "answers": ["Detect issues without code execution"]
+  },
+  {
+    "question": "How does AI contribute to email security, particularly in filtering spam?",
+    "answers": ["Leveraging machine learning and AI algorithms"]
+  },
+  {
+    "question": "How can you address ethical challenges in natural language processing (NLP) model training while preparing a chatbot’s corpus with real user transcripts?",
+    "answers": ["By ensuring diversity in training data"]
+  },
+  {
+    "question": "During a peer code review, Ayaan mentioned using static analysis to catch syntax errors before runtime. Static analysis is a technique used in many AI-powered tools. What is it primarily used for in software development?",
+    "answers": ["To review AI-powered code"]
+  },
+  {
+    "question": "During a sprint review, the team discussed how AI had improved release cycles. What role does AI play in this case?",
+    "answers": ["Automated testing and quality assurance"]
+  },
+  {
+    "question": "Which of the following is a key advantage of generative AI in software development?",
+    "answers": ["It reduces the need for large, labeled datasets."]
+  },
+  {
+    "question": "During a review of an AI-generated hiring tool, the team found that the model favored certain profiles. Which ethical concern does this highlight?",
+    "answers": ["Bias and discrimination"]
+  },
+  {
+    "question": "You are aiming to generate highly realistic faces by using two neural networks that compete against each other to improve the quality and realism of the generated content. Which generative AI model should you leverage to complete this task?",
+    "answers": ["Generative adversarial networks (GANs)"]
+  },
+  {
+    "question": "A developer wants to ensure that the generated code shows fairness and inclusivity. Which key ethical issue related to large language models (LLMs) should the developer focus on to prevent unfairness in this scenario?",
+    "answers": ["Bias detection"]
+  },
+  {
+    "question": "Which role of AI helps a developer to automatically identify that the software adheres to common design patterns for better structure and readability?",
+    "answers": ["Evaluating code for design patterns"]
+  },
+  {
+    "question": "A startup is developing a new mobile application and wants to ensure the architecture is scalable and efficient. Which of the following tasks is typically the responsibility of a software engineer?",
+    "answers": [
+      "Planning the system’s design and ensuring components work together effectively"
+    ]
+  },
+  {
+    "question": "Michel is exploring a new career in software engineering. He noticed that businesses are adopting modern software and digital infrastructure. Which technical advancement does he require to apply for this position?",
+    "answers": ["Cloud computing"]
+  },
+  {
+    "question": "A recent graduate student is preparing for a software engineering position. Which of the following technical tools or skills should they acquire broadly to apply for this position?",
+    "answers": ["JavaScript, Java, Python, C#, C++"]
+  },
+  {
+    "question": "Megan is working on a personal project to add it to her portfolio before applying for junior data analyst roles. What would be a good approach for Megan to showcase it to potential employers?",
+    "answers": [
+      "Host the project on GitHub so others can easily view your work."
+    ]
+  },
+  {
+    "question": "What is a good way to make your resume work well with search engine optimization (SEO) and applicant tracking system (ATS) software?",
+    "answers": ["Use and repeat as many keywords as possible."]
+  },
+  {
+    "question": "Emily is preparing for an upcoming interview and wants to better understand the company’s values. While reading the company website, what should she pay special attention to?",
+    "answers": [
+      "The repeated keywords provide an idea of what is important to the company."
+    ]
+  },
+  {
+    "question": "Tim is considering switching from a full-time employee role to a contract position. He wants to know what to realistically expect from the change. Which of the following is accurate?",
+    "answers": [
+      "Contractors and FTEs usually work a similar number of hours weekly."
+    ]
+  },
+  {
+    "question": "While searching for a new role, Maya finds a job post, but she is unsure of applying. What might be a red flag that suggests she should look more closely before applying?",
+    "answers": [
+      "The job post is vague about responsibilities and clear details."
+    ]
+  },
+  {
+    "question": "Which of the following statements are correct about qualifications in job listings?",
+    "answers": ["The qualifications ignore expected years of experience."]
+  },
+  {
+    "question": "Jared is preparing for his upcoming job interview and wants to build confidence. His mentor suggests doing a mock interview. What does his mentor mean by a mock interview?",
+    "answers": [
+      "A simulated interview that helps Jared to rehearse real questions."
+    ]
+  },
+  {
+    "question": "Lena is practicing for her first job interview and wants to make a strong impression. Which of the following would help her prepare effectively?",
+    "answers": [
+      "Think and write down meaningful questions for the interviewer."
+    ]
+  },
+  {
+    "question": "During the interview process, you are given a coding challenge and asked to sign a non-disclosure agreement (NDA) before a code challenge. What is the most likely reason for this?",
+    "answers": [
+      "The company wants to prevent you from sharing the challenge with other candidates."
+    ]
+  },
+  {
+    "question": "After her first interview, Sara is sent a coding assignment by the hiring team. Which of the following is most accurate about coding challenges like this one?",
+    "answers": ["The coding challenge should be completed independently."]
+  },
+  {
+    "question": "Natalie just wrapped up a first interview for a tech role and wants to be better prepared for her second round. Which of the following should she focus on while reviewing her first interview?",
+    "answers": ["Think about moments that seemed to engage the interviewers"]
+  },
+  {
+    "question": "Andre is about to join a phone call scheduled by HR after he submitted his job application. Which of the following is likely to happen during that call?",
+    "answers": ["He’ll hear a short overview of the company and its services."]
+  },
+  {
+    "question": "Lily is expecting that the interviewer may ask her about her past work experiences and challenging situations. How can the STAR method help her to stand out during the interview?",
+    "answers": [
+      "It allows for providing structure for explaining actions and outcomes clearly."
+    ]
+  },
+  {
+    "question": "Viva meets senior managers and teammates to assess her fit for the team. What kind of interview is this?",
+    "answers": ["Team interview"]
+  },
+  {
+    "question": "Noah gets a call offering him a software engineering role, but the salary seems a little low. In the offer letter, she noticed that the company was providing stock options and flexible working hours. What should Noah consider before deciding?",
+    "answers": ["Review the benefits package in detail to make decisions"]
   }
 ]
