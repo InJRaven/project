@@ -1,0 +1,1637 @@
+[
+  {
+    "question": "Which type of database is used to store and analyze time-stamped data?",
+    "answers": ["Time series databases"]
+  },
+  {
+    "question": "What is the main advantage of using indexes in a database?",
+    "answers": ["Indexes speed up data retrieval operations."]
+  },
+  {
+    "question": "Which of the following is an SQL command that is part of the Data Manipulation Language (DML)?",
+    "answers": ["UPDATE"]
+  },
+  {
+    "question": "Which JDBC component is responsible for managing a list of database drivers?",
+    "answers": ["DriverManager"]
+  },
+  {
+    "question": "In JDBC, which component is used to run SQL queries?",
+    "answers": ["Statement"]
+  },
+  {
+    "question": "What is the main purpose of a PreparedStatement in JDBC?",
+    "answers": ["To run SQL queries with dynamic parameters"]
+  },
+  {
+    "question": "What does the executeQuery method of a PreparedStatement return?",
+    "answers": ["A ResultSet object containing the data produced by the query"]
+  },
+  {
+    "question": "What is the purpose of the 'spring.datasource.url' property in the application.properties file?",
+    "answers": [
+      "To specify the URL of the MySQL database to which the application should connect"
+    ]
+  },
+  {
+    "question": "Which annotation is used to define a JPA entity in a Spring Boot application?",
+    "answers": ["@Entity"]
+  },
+  {
+    "question": "How does Spring Boot handle SQL scripts for schema creation and data seeding?",
+    "answers": ["Spring Boot automatically runs these scripts on startup"]
+  },
+  {
+    "question": "What is the purpose of the 'logger.info' statement in the BookController's getAllBooks method?",
+    "answers": [
+      "It logs a message indicating that all books are being fetched from the database"
+    ]
+  },
+  {
+    "question": "What is the purpose of the @ControllerAdvice annotation in Spring Boot?",
+    "answers": ["To centralize exception handling for all controllers"]
+  },
+  {
+    "question": "When testing a REST API with cURL, what is the purpose of the '-d' flag in the POST request?",
+    "answers": ["It includes the data to be sent in the request body"]
+  },
+  {
+    "question": "What is the primary advantage of using the Bean Validation API (JSR 380) in a Java application?",
+    "answers": [
+      "It provides a standard way to validate Java objects using annotations"
+    ]
+  },
+  {
+    "question": "Which of the following is a feature of NoSQL databases?",
+    "answers": ["Data is often stored as key-value pairs"]
+  },
+  {
+    "question": "Which SQL command is part of the Data Definition Language (DDL)?",
+    "answers": ["CREATE"]
+  },
+  {
+    "question": "What is a key benefit of using a connection pool in a high-traffic application?",
+    "answers": ["Improved performance by reusing established connections"]
+  },
+  {
+    "question": "What is the purpose of using the setString() method in a PreparedStatement?",
+    "answers": ["To bind a String value to a placeholder in the SQL query"]
+  },
+  {
+    "question": "Which annotation is used in Hibernate to specify a class as an entity that maps to a database table?",
+    "answers": ["@Entity"]
+  },
+  {
+    "question": "In the context of Hibernate, what is lazy loading?",
+    "answers": [
+      "Deferring the loading of related entities until they are accessed"
+    ]
+  },
+  {
+    "question": "Which of the following describes the role of the @JoinTable annotation in a Many-to-Many relationship in Hibernate?",
+    "answers": ["It specifies the join table for the relationship"]
+  },
+  {
+    "question": "What is a common use case for using native SQL queries in Hibernate?",
+    "answers": ["To handle database-specific optimizations"]
+  },
+  {
+    "question": "Which one of the following statements about MongoDB document-based databases is true?",
+    "answers": ["It stores data using binary JSON (or BSON) documents"]
+  },
+  {
+    "question": "In the context of Neo4j, what does the Cypher query language primarily focus on?",
+    "answers": [
+      "Visually representing and querying relationships between nodes."
+    ]
+  },
+  {
+    "question": "What prefix is used in MongoDB to specify that a method should perform a query?",
+    "answers": ["findBy"]
+  },
+  {
+    "question": "What does the DDL command ALTER do in the context of SQL?",
+    "answers": ["It modifies existing database objects."]
+  },
+  {
+    "question": "Which of the following best describes a connection pool in JDBC?",
+    "answers": ["A collection of database connections that can be reused"]
+  },
+  {
+    "question": "Which JDBC object is specifically used to run stored procedures?",
+    "answers": ["CallableStatement"]
+  },
+  {
+    "question": "Which method is used to run INSERT, UPDATE, and DELETE commands with a PreparedStatement?",
+    "answers": ["The executeUpdate method"]
+  },
+  {
+    "question": "What is the role of the 'schema.sql' file in a Spring Boot project?",
+    "answers": ["To define the database schema, such as tables and columns"]
+  },
+  {
+    "question": "What is the role of the @GeneratedValue annotation in a JPA entity?",
+    "answers": ["It specifies how the primary key is generated."]
+  },
+  {
+    "question": "Which dependency is required to enable Spring Boot Actuator for health checks?",
+    "answers": ["spring-boot-starter-actuator"]
+  },
+  {
+    "question": "What is the purpose of the SessionFactory in Hibernate?",
+    "answers": ["To create sessions and handle configuration settings"]
+  },
+  {
+    "question": "In the context of Hibernate, what does the FetchType.LAZY strategy imply?",
+    "answers": ["Related entities are fetched only when accessed."]
+  },
+  {
+    "question": "In a Spring Boot application, how does the @Param annotation function within a repository method?",
+    "answers": ["Maps a method argument to a query parameter dynamically"]
+  },
+  {
+    "question": "Which method is used to insert a new document into a MongoDB collection?",
+    "answers": ["insertOne()"]
+  },
+  {
+    "question": "In MongoDB, which method is used to update a specific field in a document without affecting other fields?",
+    "answers": ["updateOne() with $set"]
+  },
+  {
+    "question": "In a time series database like InfluxDB, what is the purpose of a measurement?",
+    "answers": ["To categorize data points, similar to tables in SQL"]
+  },
+  {
+    "question": "In the context of InfluxDB, what are tags used for?",
+    "answers": ["Indexing key-value pairs for filtering and grouping data"]
+  },
+  {
+    "question": "Which of the following cloud deployment models makes use of cloud services through the open internet on cloud provider-owned hardware?",
+    "answers": ["Public cloud"]
+  },
+  {
+    "question": "What does Broad Network Access mean?",
+    "answers": [
+      "Accessing computing resources through standard mechanisms and platforms"
+    ]
+  },
+  {
+    "question": "Which layer of the cloud native stack defines the environment?",
+    "answers": ["Cloud infrastructure layer"]
+  },
+  {
+    "question": "Cloud native applications consist of microservices working together to comprise an application. Where are the microservices typically packaged?",
+    "answers": ["Containers"]
+  },
+  {
+    "question": "Which of the following cloud native solution stacklayers holds the cloud native apps?",
+    "answers": ["The Application Code layer"]
+  },
+  {
+    "question": "Which of the following is an effort that CNCF considers their responsibility?",
+    "answers": ["Making cloud native computing ubiquitous"]
+  },
+  {
+    "question": "CNCF technology projects progress through three ascending stages. Which of the following is the middle stage?",
+    "answers": ["Incubated"]
+  },
+  {
+    "question": "True or False, CNCF technology provides marketing and promotion efforts by the maturity of the project.",
+    "answers": ["True"]
+  },
+  {
+    "question": "The app modernization effort affects which stages of application development?",
+    "answers": ["Build, Deploy, and Run"]
+  },
+  {
+    "question": "Which of the following modernization patterns involves breaking down a monolithic application into small, loosely coupled microservices aligned to a feature or business function?",
+    "answers": ["Refactor to microservices"]
+  },
+  {
+    "question": "In a microservice architecture, you should",
+    "answers": ["Use a different technology stack for each service"]
+  },
+  {
+    "question": "Select the correct answer that completes this sentence: Monolith application has __________ components.",
+    "answers": ["Interconnected"]
+  },
+  {
+    "question": "Which component of services design in an SOA architecture defines how the service provider and service consumer should interact?",
+    "answers": ["Contract"]
+  },
+  {
+    "question": "What is the purpose of Backend For Frontend?",
+    "answers": ["Customized user experiences"]
+  },
+  {
+    "question": "What is the purpose of the Strangler pattern?",
+    "answers": ["Supports refactoring in stages"]
+  },
+  {
+    "question": "What are the key characteristics of a RESTful API? Select two answers.",
+    "answers": [
+      "It works on HTTP",
+      "Stateless communication between client and server"
+    ]
+  },
+  {
+    "question": "What does an API Gateway act as?",
+    "answers": ["An API management tool"]
+  },
+  {
+    "question": "Which type of framework is Flask?",
+    "answers": ["Micro web"]
+  },
+  {
+    "question": "Which one of the following statements is true about communication in a RESTful API?",
+    "answers": ["Resources are uniquely identified at individual endpoints."]
+  },
+  {
+    "question": "What are the potential drawbacks of an API Gateway? Select two answers.",
+    "answers": ["Bottleneck in scalability", "Single point of failure"]
+  },
+  {
+    "question": "Which cURL command should be used to query a list of products?",
+    "answers": [
+      "curl -X 'GET' \\ 'http://127.0.0.1:5000/products' \\ -H 'accept: application/json'"
+    ]
+  },
+  {
+    "question": "Which HTTP method is used to create new data in a REST API?",
+    "answers": ["POST"]
+  },
+  {
+    "question": "What is the purpose of Postman?",
+    "answers": ["Tests APIs"]
+  },
+  {
+    "question": "What are the steps used to create and run containers?",
+    "answers": [
+      "Create a Dockerfile, use it to create a container image, and then use the container image to create a running container."
+    ]
+  },
+  {
+    "question": "What is the function of the Docker ‘run’ command?",
+    "answers": ["Creates a container from an image"]
+  },
+  {
+    "question": "What applications are a good fit for Docker?",
+    "answers": ["Applications that require flexible scaling and portability"]
+  },
+  {
+    "question": "What is a Docker container?",
+    "answers": ["A runnable instance of an image"]
+  },
+  {
+    "question": "Do containers have to be on a specific operating system or platform?",
+    "answers": [
+      "No, containers work on many types of operating systems and platforms."
+    ]
+  },
+  {
+    "question": "What are three parts of Docker’s underlying technology?",
+    "answers": [
+      "Namespaces",
+      "Linux kernel features",
+      "The Go programming language"
+    ]
+  },
+  {
+    "question": "What does the Docker client-server architecture provide?",
+    "answers": ["A communication channel"]
+  },
+  {
+    "question": "What are volumes and bind mounts used for in Docker?",
+    "answers": ["Persisting data"]
+  },
+  {
+    "question": "How are digital containers like shipping containers?",
+    "answers": [
+      "Container size and specs are standardized, which makes them easier to move around."
+    ]
+  },
+  {
+    "question": "What Docker features create a container image?",
+    "answers": ["The build command and a Dockerfile"]
+  },
+  {
+    "question": "What is the primary reason for DevOps initiative failure?",
+    "answers": ["Lack of organizational learning and cultural change"]
+  },
+  {
+    "question": "What is the TDD workflow?",
+    "answers": [
+      "Write a failing test case, write enough code to make it pass, refactor the code to increase quality, and repeat the process."
+    ]
+  },
+  {
+    "question": "What is the purpose of unit testing?",
+    "answers": ["To validate that each unit is performing as designed."]
+  },
+  {
+    "question": "What levels are BDDs usually performed?",
+    "answers": ["Integration and system testing"]
+  },
+  {
+    "question": "How does CI/CD reduce code integration risk?",
+    "answers": [
+      "By automatically building, testing, and deploying code changes"
+    ]
+  },
+  {
+    "question": "Which of the following is true regarding Continuous Deployment?",
+    "answers": [
+      "Continuous Deployment is continuously pushing your code changes to production."
+    ]
+  },
+  {
+    "question": "How does CI help reduce the risk of code integration issues?",
+    "answers": ["By reducing the probability of errors during integration."]
+  },
+  {
+    "question": "What does Git allow developers to do that other version control systems may not?",
+    "answers": ["Check out the entire file"]
+  },
+  {
+    "question": "Which CI/CD tool is an open-source, flexible framework for building fully portable pipelines?",
+    "answers": ["Tekton"]
+  },
+  {
+    "question": "Which of the following is a cloud-based CI tool?",
+    "answers": ["Travis CI"]
+  },
+  {
+    "question": "Which answer is valued and emphasized in Agile?",
+    "answers": ["Adaptive planning and early delivery"]
+  },
+  {
+    "question": "Select the key problem with having a traditional product manager who becomes a product owner.",
+    "answers": [
+      "The product owner must be able to focus on vision over operations."
+    ]
+  },
+  {
+    "question": "Select the correct statement regarding the scrum master.",
+    "answers": ["The scrum master is a coach rather than a task master."]
+  },
+  {
+    "question": "What is the key difference between Agile and Scrum?",
+    "answers": ["Agile is a philosophy, while Scrum is a methodology."]
+  },
+  {
+    "question": "Which of the following is NOT part of the Scrum process?",
+    "answers": ["Waterfall Planning"]
+  },
+  {
+    "question": "The parts of a user story are: As a _____, I need _____, so that _____.",
+    "answers": ["role, function, benefit"]
+  },
+  {
+    "question": "INVEST says stories should be _____.",
+    "answers": ["independent"]
+  },
+  {
+    "question": "Select the correct statement regarding product backlog.",
+    "answers": ["The product backlog is ordered by importance."]
+  },
+  {
+    "question": "What is the primary purpose of a product backlog in Scrum?",
+    "answers": ["To list all the unimplemented stories in ranked order."]
+  },
+  {
+    "question": "What is the correct format for writing a user story in Scrum?",
+    "answers": ["\"As a role, I need a feature so that it benefits the user.\""]
+  },
+  {
+    "question": "Which of the following best describes cloud computing?",
+    "answers": [
+      "The on-demand availability of computing resources over the internet"
+    ]
+  },
+  {
+    "question": "What is a key characteristic of cloud-native applications?",
+    "answers": [
+      "They are designed to be scalable, resilient, and deployable in cloud environments."
+    ]
+  },
+  {
+    "question": "Which architecture is the best suited for high scalability and independent deployment?",
+    "answers": ["Microservices"]
+  },
+  {
+    "question": "Which of the following allows monolithic architecture for software development?",
+    "answers": [
+      "Simplified testing and debugging by having a single, unified codebase"
+    ]
+  },
+  {
+    "question": "In the context of Microservices architecture, what does the Single Page Application (SPA) pattern typically refer to?",
+    "answers": [
+      "A front-end application that communicates directly with individual microservices through REST APIs"
+    ]
+  },
+  {
+    "question": "Which one of the following principles is essential to RESTful API design?",
+    "answers": [
+      "REST APIs use HTTP methods (GET, POST, PUT, DELETE) to perform operations on resources."
+    ]
+  },
+  {
+    "question": "Which of the following is the primary function of an API Gateway in a microservices architecture?",
+    "answers": [
+      "Act as a reverse proxy that routes incoming client requests to the appropriate microservices"
+    ]
+  },
+  {
+    "question": "Which of the following parameters containers offer in modern software development and deployment?",
+    "answers": ["Allow for portability"]
+  },
+  {
+    "question": "Which of the following defines a Docker image?",
+    "answers": [
+      "A read-only template with instructions for creating a Docker container"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the architecture of Docker?",
+    "answers": [
+      "Docker architecture consists of a client-server model, with a Docker client interacting with a Docker daemon to manage containers."
+    ]
+  },
+  {
+    "question": "Which of the following is the primary function of implementing DevOps in a software development lifecycle?",
+    "answers": [
+      "Speeds up the development process by automating repetitive tasks and improving team collaboration"
+    ]
+  },
+  {
+    "question": "Which of the following is the primary goal of Test-Driven Development (TDD)?",
+    "answers": [
+      "To write tests before writing the actual code, ensuring the code meets specific requirements from the start"
+    ]
+  },
+  {
+    "question": "Which of the following is the primary function of DevOps?",
+    "answers": [
+      "It promotes building a culture of shared responsibility, transparency, and faster feedback to the foundation of every high-performing DevOps team."
+    ]
+  },
+  {
+    "question": "Which of the following is the impact of functional silos?",
+    "answers": ["Hindered communication and collaboration between teams"]
+  },
+  {
+    "question": "Which of the following statements is a core value from the Agile Manifesto?",
+    "answers": [
+      "Customer collaboration is more important than contract negotiation."
+    ]
+  },
+  {
+    "question": "Which of the following best describes the purpose of a user story in Agile development?",
+    "answers": [
+      "A user story describes a specific feature from the perspective of an end user, focusing on the value delivered."
+    ]
+  },
+  {
+    "question": "Which of the following best describes the product backlog in Agile development?",
+    "answers": [
+      "A prioritized list of features, enhancements, and bug fixes that need to be worked on in future iterations"
+    ]
+  },
+  {
+    "question": "What is the primary difference between classical GoF design patterns and their modern Java implementations?",
+    "answers": ["Use lambda expressions instead of classes"]
+  },
+  {
+    "question": "What advantage does lambda expression syntax provide when implementing design patterns with functional interfaces?",
+    "answers": ["Eliminate boilerplate while passing behavior data"]
+  },
+  {
+    "question": "What distinguishes the singleton pattern from other creational patterns in contemporary Java?",
+    "answers": ["Ensures one instance with global access"]
+  },
+  {
+    "question": "When would implementing the factory pattern add the most value to your code?",
+    "answers": ["Creating different objects based on runtime"]
+  },
+  {
+    "question": "How do functional interfaces improve observer pattern implementations over traditional class-based approaches?",
+    "answers": ["Enable dynamic registration without creating classes"]
+  },
+  {
+    "question": "What is the key advantage of using function composition over the traditional strategy pattern?",
+    "answers": ["Combine strategies dynamically without new classes"]
+  },
+  {
+    "question": "Which code structure most clearly indicates the builder pattern implementation?",
+    "answers": ["Method chaining with final build() method"]
+  },
+  {
+    "question": "When using JUnit 5’s @BeforeEach annotation, what happens before each test method execution?",
+    "answers": ["A fresh setup method runs"]
+  },
+  {
+    "question": "What is the primary advantage of AssertJ’s fluent API over traditional JUnit assertions?",
+    "answers": ["More readable and expressive syntax"]
+  },
+  {
+    "question": "In Test-Driven Development, what is the correct sequence of the Red-Green-Refactor cycle?",
+    "answers": ["Write failing test, make pass, improve"]
+  },
+  {
+    "question": "What is the main purpose of using mocks in Mockito for isolation testing?",
+    "answers": ["Test code without external dependencies"]
+  },
+  {
+    "question": "What key benefits do Testcontainers provide for integration testing in Java projects?",
+    "answers": ["Creates real isolated testing environments"]
+  },
+  {
+    "question": "In microservices architecture, what does contract testing primarily verify between services?",
+    "answers": ["Agreed on data formats and communications"]
+  },
+  {
+    "question": "When balancing testing thoroughness with development velocity, what should developers prioritize for optimal efficiency?",
+    "answers": ["Start small with basic methods"]
+  },
+  {
+    "question": "What percentage of Java applications in containers exceed memory limits due to default JVM settings?",
+    "answers": ["Nearly 75% of Java applications"]
+  },
+  {
+    "question": "What is the typical size range for JLink packages compared to traditional JDK installations?",
+    "answers": ["30–80 MB instead of JDK"]
+  },
+  {
+    "question": "What Maven command builds only a specific module in a multi-module project?",
+    "answers": ["mvn clean package -pl user-service"]
+  },
+  {
+    "question": "Which Kubernetes objects play key roles for Java developers deploying applications?",
+    "answers": ["Pods, deployments, services, and ConfigMaps"]
+  },
+  {
+    "question": "What characterizes a trunk-based CI/CD pipeline strategy for Java applications?",
+    "answers": ["All developers commit to the main"]
+  },
+  {
+    "question": "What does the Maven command check for dependency vulnerabilities before deployment?",
+    "answers": ["mvn dependency-check:check for scanning"]
+  },
+  {
+    "question": "Which JVM configuration setting ensures proper memory management in containerized environments?",
+    "answers": ["-XX:+UseContainerSupport for container awareness"]
+  },
+  {
+    "question": "What is the primary benefit of using AssertJ’s fluent interface over traditional JUnit assertions?",
+    "answers": ["It makes tests read like natural English"]
+  },
+  {
+    "question": "What happens during the “Red” step in the Red-Green-Refactor cycle of Test-Driven Development?",
+    "answers": [
+      "A failing test is written to specify the desired functionality"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of using mock objects with Mockito in unit testing?",
+    "answers": [
+      "To test code independently without relying on external services"
+    ]
+  },
+  {
+    "question": "Which design pattern ensures that only one class instance exists and provides global access?",
+    "answers": ["Singleton pattern"]
+  },
+  {
+    "question": "What is the main advantage of using functional interfaces and lambda expressions in modern Java design patterns?",
+    "answers": [
+      "They allow passing behaviors as data without creating new classes"
+    ]
+  },
+  {
+    "question": "In the observer pattern, what happens when the subject’s state changes?",
+    "answers": ["All registered observers are notified automatically"]
+  },
+  {
+    "question": "What is the primary benefit of using Testcontainers in Java integration testing?",
+    "answers": [
+      "It provides fresh, real environments for testing with actual services"
+    ]
+  },
+  {
+    "question": "Which Maven command creates deployment-ready “fat JAR” files that include all dependencies?",
+    "answers": ["mvn clean package"]
+  },
+  {
+    "question": "What is the primary security risk of hardcoding secrets, such as passwords, in Java configuration files?",
+    "answers": ["It exposes sensitive data in version control systems"]
+  },
+  {
+    "question": "What JVM setting should be configured to prevent memory crashes in containerized Java applications?",
+    "answers": ["UseContainerSupport and MaxRAMPercentage=75.0"]
+  },
+  {
+    "question": "In Kubernetes, what is the purpose of using readiness probes for Java applications?",
+    "answers": ["To ensure that the application is ready to serve traffic"]
+  },
+  {
+    "question": "What is the main advantage of trunk-based development in CI/CD pipelines for Java applications?",
+    "answers": [
+      "It enables rapid deployment cycles with continuous integration"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of JLink in Java application deployment?",
+    "answers": [
+      "To create custom runtime images with only the required Java modules"
+    ]
+  },
+  {
+    "question": "What determines which object gets created and returned in the factory design pattern?",
+    "answers": ["The input parameters passed to the factory method"]
+  },
+  {
+    "question": "What is the primary goal of image recognition in AI systems?",
+    "answers": [
+      "To enable computers to interpret and understand visual information like humans"
+    ]
+  },
+  {
+    "question": "What is the first step in setting up a Java environment for AI development?",
+    "answers": ["Installing the Java Development Kit (JDK)"]
+  },
+  {
+    "question": "What is the primary advantage of using the Java Virtual Machine (JVM) in AI development?",
+    "answers": ["Platform independence"]
+  },
+  {
+    "question": "In the context of AI, what is the primary purpose of natural language processing (NLP)?",
+    "answers": [
+      "To allow machines to understand, interpret, and respond to human language"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the process of developing a basic AI recommendation algorithm in Java?",
+    "answers": [
+      "Begin with import statements, create a two-level map to store user ratings, calculate user similarity using Euclidean distance, and recommend items based on similar users' ratings."
+    ]
+  },
+  {
+    "question": "Why is Java considered a suitable language for implementing natural language processing (NLP) solutions?",
+    "answers": [
+      "Java provides powerful NLP libraries and integrates well with big data technologies."
+    ]
+  },
+  {
+    "question": "What is a chatbot's primary mechanism for understanding and responding to user inputs in Java?",
+    "answers": ["Pattern matching and keyword detection"]
+  },
+  {
+    "question": "Have you carefully studied the provided architecture overview of the Smart Clinic application and the related reference diagram?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Do you understand the steps represented in the Reference diagram and the different layers of the Smart Clinic application architecture?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a file named schema-architecture.md in the base directory of your java-database-capstone GitHub repo?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Does Section 1 of the file include a brief architecture summary of the Smart Clinic application in your own words?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Does Section 2 include a 7-step numbered flow describing how data and control move through the system?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you save and push the file to GitHub successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a new repository using the template repository?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you name the new repository as ‘java-database-capstone’ as instructed?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you clone the repository in the lab IDE?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create the ‘user_stories.md’ inside the project root?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add the heading ‘## Admin User Stories’ to define the admin user stories?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add at least five admin user stories?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add the heading ‘## Patient User Stories’ and create at least five patient user stories?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add the heading ‘## Doctor User Stories’ and create at least five doctor user stories?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you save and commit your changes to the user_stories.md file successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What architectural pattern does the Smart Clinic Management System follow?",
+    "answers": [
+      "Three-tier architecture with presentation, application, and data layers"
+    ]
+  },
+  {
+    "question": "Which technologies are used in the presentation layer of the Smart Clinic System?",
+    "answers": ["Thymeleaf templates for dashboards and REST APIs for clients"]
+  },
+  {
+    "question": "What role do Spring MVC controllers play in this application?",
+    "answers": [
+      "They handle incoming requests and return views with dynamic data."
+    ]
+  },
+  {
+    "question": "Which module is served using RESTful APIs instead of Thymeleaf templates?",
+    "answers": ["Appointments and Patient dashboard"]
+  },
+  {
+    "question": "What is the function of the service layer in architecture?",
+    "answers": [
+      "Applies business logic, validations, and coordinates data access"
+    ]
+  },
+  {
+    "question": "Which Git command is used to permanently save local file changes to the remote repository?",
+    "answers": ["git push"]
+  },
+  {
+    "question": "What does a patient gain by viewing upcoming appointments?",
+    "answers": ["Preparation for upcoming consultations"]
+  },
+  {
+    "question": "Which user story best represents a doctor’s responsibility?",
+    "answers": [
+      "As a doctor, I can see the patient record so that patients have accurate medication."
+    ]
+  },
+  {
+    "question": "Why is it important to version-control user stories in GitHub?",
+    "answers": ["To track changes, collaborate, and prepare for implementation"]
+  },
+  {
+    "question": "A team member writes: “Allow patients to cancel bookings anytime.” What’s missing to make this a proper user story?",
+    "answers": ["User role, context, and outcome"]
+  },
+  {
+    "question": "Have you identified the key types of data a smart clinic should store (for example, patients, doctors, appointments, prescriptions)?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Have you identified which data should go into MySQL (relational) and which into MongoDB (document-based)?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a markdown file to document your schema design for both databases?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Does your schema contain tables for key resources such as Doctors, Patients, and Admin Users?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Does your schema include MongoDB collections and document structures, with nested structures if needed?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you commit and push the file to GitHub successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Admin model, did you define the class as a JPA entity?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Admin model, did you apply the required validation and JSON annotations to the fields?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Admin model, did you add getters and setters to support future authentication or authorization features?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Appointment model, did you establish proper relationships between entities?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Appointment model, did you implement custom methods to support UI display logic?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Appointment model, did you validate appointment timing to prevent past scheduling?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Doctor model, did you add detailed validations for fields?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Doctor model, did you ensure the password field is WRITE_ONLY?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you model the doctor’s time availability using structured JPA techniques such as an @ElementCollection instead of a plain list of strings?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Patient model, did you validate inputs to ensure clean and accurate patient data?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Patient model, did you follow consistent design and annotation patterns?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Patient model, did you prepare this model for use in authentication and reporting features?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Prescription model, did you design a MongoDB-compatible class with strict validation?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Prescription model, did you define a flexible schema using Spring Data MongoDB?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the Prescription model, did you include metadata relevant to prescriptions, while keeping doctor notes optional?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What annotation is used to define a database table in Java Persistence API (JPA)?",
+    "answers": ["@Enity"]
+  },
+  {
+    "question": "Which annotation is used to generate the primary key automatically?",
+    "answers": ["@GeneratedValue"]
+  },
+  {
+    "question": "What annotation enforces a future date in a field like appointmentTime?",
+    "answers": ["@Future"]
+  },
+  {
+    "question": "Which annotation is used to hide sensitive fields such as passwords from JSON responses?",
+    "answers": ["@JsonProperty(access = JsonProperty.Access.WRITE_ONLY)"]
+  },
+  {
+    "question": "Which annotation is used to define many-to-one relationships between Java Persistence API (JPA) entities?",
+    "answers": ["@ManyToOne"]
+  },
+  {
+    "question": "Which annotation is used to define a MongoDB document class?",
+    "answers": ["@Document"]
+  },
+  {
+    "question": "What validation annotation ensures a string field like name is not null?",
+    "answers": ["@NotNull"]
+  },
+  {
+    "question": "Which annotation allows a method to be excluded from being persisted in the database?",
+    "answers": ["@Transient"]
+  },
+  {
+    "question": "What is the purpose of @ElementCollection annotation in the Doctor model?",
+    "answers": ["To store a list of simple values like Strings"]
+  },
+  {
+    "question": "Which annotation is used to mark a field as the primary key in a MongoDB document model?",
+    "answers": ["@Id"]
+  },
+  {
+    "question": "What keyword is used to define a stored procedure in MySQL?",
+    "answers": ["PROCEDURE"]
+  },
+  {
+    "question": "Which clause is used to change the statement delimiter when defining a stored procedure?",
+    "answers": ["DELIMITER $"]
+  },
+  {
+    "question": "What does the IN keyword specify in a stored procedure parameter?",
+    "answers": ["The parameter is used as input."]
+  },
+  {
+    "question": "In the GetDailyAppointmentReportByDoctor procedure, what is the purpose of DATE(a.appointment_time) = report_date?",
+    "answers": ["To select appointments that match the given date"]
+  },
+  {
+    "question": "Which field is used to group appointment counts by doctor?",
+    "answers": ["doctor_id"]
+  },
+  {
+    "question": "Which SQL clause ensures the most visited doctor is selected in the stored procedures?",
+    "answers": ["LIMIT 1"]
+  },
+  {
+    "question": "What type of join is used in the GetDailyAppointmentReportByDoctor procedure?",
+    "answers": ["JOIN (INNER JOIN)"]
+  },
+  {
+    "question": "In the procedure GetDoctorWithMostPatientsByMonth, how are the month and year filtered?",
+    "answers": [
+      "WHERE MONTH(appointment_time) = input_month AND YEAR(appointment_time) = input_year"
+    ]
+  },
+  {
+    "question": "What does the CALL statement do in MySQL?",
+    "answers": ["Executes a stored procedure"]
+  },
+  {
+    "question": "Which of the following clauses is essential to calculate the total number of patients seen by each doctor in a month?",
+    "answers": ["COUNT(DISTINCT patient_id)"]
+  },
+  {
+    "question": "Did you review the directory structures?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create the 'index.html' file in 'app/src/main/resources/static/index.html'?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you build the main dashboard for admin users using 'adminDashboard.html'?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create the dashboard for doctor users, using 'doctorDashboard.html'?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you use the 'index.css' stylesheet controls?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you style the admin dashboard page using 'adminDashboard.css'?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you enhance the doctor dashboard using 'doctorDashboard.css'?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a dynamic header that changes based on 'userRole' and 'token' stored in localStorage?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you build a static footer with clear branding or informational sections?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you use the 'doctorCard.js' component to create doctor cards based on API data or user input?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you define and run the stored procedure for the doctor’s daily appointment report?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a stored procedure to view the doctor with the most patients for a month?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a stored procedure to view the doctor with the most patients for a year?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you commit and push the codes to GitHub successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create the MySQL instance in the IDE environment?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a database called CMS by executing the “create database cms;” command in the MongoDB CLI?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you insert data into tables for various users?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you complete the ‘Insert into prescriptions collection in MongoDB’ step?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you commit and push the stories to GitHub successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you configure Thymeleaf settings in application.properties file?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you set the static resource location to serve files like CSS/JS from the /static/ directory?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you annotate your dashboard controller class with @Controller to handle view rendering for Thymeleaf templates?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create the Dockerfile for the application with the file name `Dockerfile`?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you build your backend as a container?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you verify some best practices to follow when building Docker images and running containers?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you remove the running Docker container to free up resources?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Which annotation is used to handle REST API requests in a Spring controller?",
+    "answers": ["@RestController"]
+  },
+  {
+    "question": "What is the primary purpose of using GitHub Actions in a CI/CD workflow?",
+    "answers": ["To automate tasks such as linting, building, and testing code"]
+  },
+  {
+    "question": "Which annotation is used to mark a class as a Spring-managed service component?",
+    "answers": ["@Service"]
+  },
+  {
+    "question": "Which file extension is used to define a GitHub Actions workflow?",
+    "answers": [".yml"]
+  },
+  {
+    "question": "What is the main benefit of using DTOs in a Spring Boot application?",
+    "answers": ["They decouple internal models from external representations"]
+  },
+  {
+    "question": "What command is used to compile a Maven project in the GitHub Actions workflow?",
+    "answers": ["./mvnw clean compile"]
+  },
+  {
+    "question": "Which annotation is used to validate incoming DTOs in controller methods?",
+    "answers": ["@Valid"]
+  },
+  {
+    "question": "Which of the following Dockerfile features helps reduce image size?",
+    "answers": ["Using multi-stage builds"]
+  },
+  {
+    "question": "What Spring annotation enables binding a path segment from the URL to a method parameter?",
+    "answers": ["@PathVariable"]
+  },
+  {
+    "question": "Which linter is used to check Dockerfiles in the GitHub Actions workflow?",
+    "answers": ["Hadolint"]
+  },
+  {
+    "question": "Did you create a Data Transfer Object (DTO) class to represent appointment data?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add the “findByUsername” method when building the AdminRepository?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you use “@Query” and “LIKE” with “LOWER” and “CONCAT” when adding methods to the DoctorRepository interface?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a service class to manage appointment-related operations?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you create a service class to manage JSON Web Token (JWT) token generation, extraction, and validation?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you add a controller to manage all CRUD operations related to appointments?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you save and commit the file?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Did you push the file to GitHub successfully?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "What is the primary role of the Java Virtual Machine (JVM) in the Java ecosystem?",
+    "answers": ["Convert Java bytecode into machine code"]
+  },
+  {
+    "question": "Which Java component provides the necessary environment to run Java applications without development tools?",
+    "answers": ["Java Runtime Environment (JRE)"]
+  },
+  {
+    "question": "What Java language capability allows you to run Java applications on any system with a Java Virtual Machine (JVM)?",
+    "answers": ["Platform independence"]
+  },
+  {
+    "question": "Which Java language feature is responsible for automatic memory management?",
+    "answers": ["Garbage collection"]
+  },
+  {
+    "question": "Which Java version introduced Lambda Expressions and the Stream API, enhancing functional programming capabilities?",
+    "answers": ["Java 8"]
+  },
+  {
+    "question": "What is the role of the Java Virtual Machine (JVM) in memory management?",
+    "answers": ["It manages memory through garbage collection."]
+  },
+  {
+    "question": "What aspect of Java allows it to be used effectively in cloud-native and microservices architectures?",
+    "answers": ["Java's comprehensive standard library"]
+  },
+  {
+    "question": "Which of the following best describes the relationship between JVM, JDK, and JRE in the Java ecosystem?",
+    "answers": ["The JDK contains the JRE, which includes the JVM."]
+  },
+  {
+    "question": "What significant change did Sun Microsystems make to Java in 2006, and what was its impact?",
+    "answers": [
+      "Java was made open-source, allowing global contributions and the creation of numerous libraries."
+    ]
+  },
+  {
+    "question": "How does Java ensure platform independence, and what role does the JVM play in this process?",
+    "answers": [
+      "Java bytecode is executed by the JVM, allowing it to run on any platform with a JVM."
+    ]
+  },
+  {
+    "question": "How would you declare and initialize an array of integers in a Java program with the values 10, 20, 30, 40, and 50?",
+    "answers": ["int[] numbers = new int[]{10, 20, 30, 40, 50};"]
+  },
+  {
+    "question": "Alice, a developer at TechCorp, needs to iterate through an array of employee IDs to verify if the employee IDs are active. Which loop structure is most suitable for this task in Java?",
+    "answers": ["for-each loop"]
+  },
+  {
+    "question": "What is the primary function of comments in Java code?",
+    "answers": ["To provide explanations or annotations in the code"]
+  },
+  {
+    "question": "John is organizing a large Java project at CodeSolutions. Why should John use packages in his Java application?",
+    "answers": ["To group related classes and interfaces together"]
+  },
+  {
+    "question": "Which primitive data type in Java is best suited for storing a person's age?",
+    "answers": ["byte"]
+  },
+  {
+    "question": "A software engineer at InnovateTech is working on a scientific application requiring precise decimal calculations. Which primitive data type should she use?",
+    "answers": ["double"]
+  },
+  {
+    "question": "Which Java operator checks if two values are not equal?",
+    "answers": ["!="]
+  },
+  {
+    "question": "Michael is developing a Java application at DataCorp and needs to perform a logical AND operation. Which operator performs this task?",
+    "answers": ["&&"]
+  },
+  {
+    "question": "In Java, which operator is used to add a value to a variable and then assign the result back to the same variable?",
+    "answers": ["+="]
+  },
+  {
+    "question": "Sophia, a junior developer at TechInnovators, needs to use a shorthand conditional statement in her Java program. Which operator should she consider using?",
+    "answers": ["A ternary operator"]
+  },
+  {
+    "question": "Which statement accurately describes the use of conditional statements in Java?",
+    "answers": [
+      "Conditional statements allow a program to run code based on true or false conditions."
+    ]
+  },
+  {
+    "question": "Emily is developing a Java application at CodeWorks and needs to run a block of code at least once before checking a condition. Which loop should she use?",
+    "answers": ["do-while loop"]
+  },
+  {
+    "question": "Which Java method is used to compare two strings for identical content?",
+    "answers": ["equals()"]
+  },
+  {
+    "question": "Which Java method allows you to extract a part of the text in a string?",
+    "answers": ["substring()"]
+  },
+  {
+    "question": "What is the primary purpose of the package keyword in Java?",
+    "answers": ["To declare a namespace for organizing classes and interfaces."]
+  },
+  {
+    "question": "Tom is developing an application at SoftTech and needs to efficiently use classes from multiple packages. What should he consider when using imports?",
+    "answers": ["Use specific imports to include only the classes he needs."]
+  },
+  {
+    "question": "How does a method differ from a function in Java?",
+    "answers": [
+      "A method is associated with a class, whereas a function is standalone."
+    ]
+  },
+  {
+    "question": "Sarah is tasked with creating reusable code blocks at InnovateTech. She needs to decide between using functions or methods. What is a key factor she should consider?",
+    "answers": [
+      "Whether the code block needs to interact with class instance variables."
+    ]
+  },
+  {
+    "question": "Which statement best describes the purpose of the 'switch' statement in Java?",
+    "answers": [
+      "It checks a single variable against multiple values and runs a corresponding block of code."
+    ]
+  },
+  {
+    "question": "In Java, what is the primary purpose of using the 'switch' statement compared to multiple 'if-else' statements?",
+    "answers": [
+      "To manage multiple conditions for a single variable more cleanly"
+    ]
+  },
+  {
+    "question": "What is the key difference between checked and runtime exceptions in Java?",
+    "answers": [
+      "Checked exceptions must be handled or declared, while runtime exceptions do not"
+    ]
+  },
+  {
+    "question": "While running a Java program, you encounter a FileNotFoundException. What type of exception is this, and how should it be handled?",
+    "answers": [
+      "FileNotFoundException is a checked exception and should be handled using a try-catch block or declared with the throws keyword"
+    ]
+  },
+  {
+    "question": "In Java, what is the significance of using the 'throws' keyword in a method declaration?",
+    "answers": ["It indicates that the method can throw one or more exceptions"]
+  },
+  {
+    "question": "A Java program attempts to divide a number by zero, resulting in an ArithmeticException. How should this exception be handled?",
+    "answers": [
+      "Use a try-catch block to catch the ArithmeticException and handle it appropriately"
+    ]
+  },
+  {
+    "question": "In Java, what is the primary purpose of using try-catch blocks?",
+    "answers": ["To handle exceptions and prevent the program from crashing"]
+  },
+  {
+    "question": "Which of the following scenarios is most appropriate for using custom exceptions in Java?",
+    "answers": [
+      "Handling a specific error condition unique to your application"
+    ]
+  },
+  {
+    "question": "Consider a scenario where a Java program attempts to read a file that doesn't exist. Which type of exception is most appropriate for handling this situation, and how would you implement it?",
+    "answers": [
+      "Use a checked exception, specifically FileNotFoundException, with a try-catch block."
+    ]
+  },
+  {
+    "question": "During a network operation, a Java application encounters a checked exception. What is the best way to handle it?",
+    "answers": [
+      "Use a try-catch block to catch the exception and handle it appropriately."
+    ]
+  },
+  {
+    "question": "A Java program needs to handle both file-not-found and arithmetic exceptions. Which approach should be used?",
+    "answers": [
+      "Use multiple try-catch blocks to handle different exceptions separately."
+    ]
+  },
+  {
+    "question": "Consider a scenario where you are developing a Java application that processes user input and performs file operations. Which of the following correctly describes how you would handle exceptions for these tasks?",
+    "answers": [
+      "Use checked exceptions for file operations and runtime exceptions for user input validation."
+    ]
+  },
+  {
+    "question": "Which method in a class in Java, helps you run the class?",
+    "answers": ["public static void main(String s[])"]
+  },
+  {
+    "question": "Select the answer that provides the construct for an infinite loop.",
+    "answers": ["while(true)"]
+  },
+  {
+    "question": "Which of these code snippets can you use to create an array with a String of length 10?",
+    "answers": ["String[] strArr = new String[10]"]
+  },
+  {
+    "question": "Which class does a user-defined exception extend?",
+    "answers": ["Exception"]
+  },
+  {
+    "question": "Is this code valid to check if the String variable `s1` is the same, ignoring the case as \"GenerativeAI\"? s1.equals(GenerativeAI)?",
+    "answers": ["False"]
+  },
+  {
+    "question": "Review the following code snippet. Does this code snippet correctly evaluate whether the String variable s1 is identical to \"GenerativeAI\"? s1.equals(\"GenerativeAI\")",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Review the following code. Which loop does the control come out of when the condition i==5 is met? 1 2 3 4 5 6 7 8 9 10 //Loop 1 while(true) { //Loop 2 for(int i=0;i<10;i++) { if(i == 5) { break; } } }",
+    "answers": ["Loop 2"]
+  },
+  {
+    "question": "What output will be printed on the screen when the following code runs? 1 2 3 4 5 6 7 ``` String s1 = \"Hello\"; s1.concat(\" World!\"); System.out.println(s1); null",
+    "answers": ["Hello"]
+  },
+  {
+    "question": "Will the following code compile? 1 2 3 4 5 6 7 import java.util.Scanner; public class Class1 { public static void main(String args[]) { String s1 = scanner.nextLine(); System.out.println(s1.length()); } }",
+    "answers": ["No"]
+  },
+  {
+    "question": "What would be the output of the following code? 1 2 3 4 5 6 7 public class ClassExample { public static void main(String[] args) { System.out.println(\"Hello, World\") int x = 5; System.out.print(x); } }",
+    "answers": ["The code throws a compilation error"]
+  },
+  {
+    "question": "How does encapsulation enhance the security and flexibility of a program?",
+    "answers": [
+      "By bundling data and methods, it restricts unauthorized access and ensures data is used correctly."
+    ]
+  },
+  {
+    "question": "Which of the following statements about constructors in Java is accurate?",
+    "answers": [
+      "A constructor is automatically invoked when an object of the class is created."
+    ]
+  },
+  {
+    "question": "Jacob is developing a Java program and needs to ensure that other classes do not directly modify some attributes of his class. Which concept should he implement?",
+    "answers": ["Encapsulation"]
+  },
+  {
+    "question": "Which of the following statements best describes polymorphism in Java?",
+    "answers": [
+      "It allows objects to be treated as instances of their parent class."
+    ]
+  },
+  {
+    "question": "Alex is designing a Java application and wants to ensure that different classes can use certain methods without knowing their specific implementations. Which concept should Alex use?",
+    "answers": ["Abstraction"]
+  },
+  {
+    "question": "In Java, what is the purpose of a default constructor?",
+    "answers": ["To automatically provide a constructor when none are defined."]
+  },
+  {
+    "question": "Emily is tasked with developing a Java program that involves creating multiple objects with different initial states. Which constructor type should she utilize?",
+    "answers": ["Parameterized constructor"]
+  },
+  {
+    "question": "If you want to ensure that a method in a class cannot be overridden in any subclass, which modifier would you apply in Java?",
+    "answers": ["Final"]
+  },
+  {
+    "question": "Which access modifier would you use in Java to restrict access to a class member to only within the same class?",
+    "answers": ["Private"]
+  },
+  {
+    "question": "Alex is developing a Java program and has decided to use polymorphism to handle different types of vehicles. He creates a 'Vehicle' class with a method 'move'. He then creates two subclasses, 'Car' and 'Bicycle', each overriding the 'move' method. How will Alex's program benefit from using polymorphism in this scenario?",
+    "answers": [
+      "It allows Alex to treat objects of 'Car' and 'Bicycle' as 'Vehicle' types, enabling a unified interface for different vehicle types."
+    ]
+  },
+  {
+    "question": "In Java, how does the concept of inheritance promote code reusability?",
+    "answers": [
+      "By allowing a class to inherit methods and properties from another class"
+    ]
+  },
+  {
+    "question": "What is method overriding in Java, and how does it relate to inheritance?",
+    "answers": [
+      "It allows a subclass to change the implementation of a method defined in its superclass."
+    ]
+  },
+  {
+    "question": "How does polymorphism enhance flexibility and reusability in object-oriented programming?",
+    "answers": [
+      "By allowing objects to share the same interface while exhibiting different behaviors"
+    ]
+  },
+  {
+    "question": "Imagine a class 'Animal' with a method 'sound', whose subclass 'Dog' overrides this method. What will happen when the 'sound' method is called on an object of type 'Animal' but the instance of 'Dog'?",
+    "answers": ["The overridden method in 'Dog' will be run."]
+  },
+  {
+    "question": "How do Java interfaces differ from abstract classes in terms of inheritance and implementation?",
+    "answers": [
+      "Interfaces support multiple inheritance, whereas abstract classes do not."
+    ]
+  },
+  {
+    "question": "In a scenario where you need to define a contract for multiple unrelated classes to implement a 'drive' method, what should you use in Java?",
+    "answers": ["Use an interface to define the 'drive' method."]
+  },
+  {
+    "question": "What is the primary characteristic of a non-static inner class in Java?",
+    "answers": [
+      "It can access both static and non-static members of the outer class."
+    ]
+  },
+  {
+    "question": "Imagine you want to create a class that is only used within a specific method. Which type of inner class would you use?",
+    "answers": ["Method-local inner class"]
+  },
+  {
+    "question": "Why might you choose to use an anonymous inner class in Java?",
+    "answers": ["To instantiate a class that may not be reused elsewhere"]
+  },
+  {
+    "question": "David is developing an application in Java and wants to ensure that his classes can share common properties while also allowing for unique behaviors. He is considering using inheritance. Which of the following statements accurately describes how inheritance can be applied in this scenario?",
+    "answers": [
+      "Inheritance allows a class to inherit properties and methods from a parent class, enabling code reuse and flexibility."
+    ]
+  },
+  {
+    "question": "In the Java Collections Framework, what is the primary difference between a List and a Set?",
+    "answers": ["A List allows duplicate elements while a Set does not."]
+  },
+  {
+    "question": "Which of the following is a characteristic of a LinkedList in Java?",
+    "answers": ["It is ideal for frequent insertions and deletions."]
+  },
+  {
+    "question": "What is a TreeSet in Java best used for?",
+    "answers": ["Maintaining elements in a sorted order."]
+  },
+  {
+    "question": "How does a HashSet differ from a TreeSet in terms of element order?",
+    "answers": ["TreeSet maintains elements in a sorted order."]
+  },
+  {
+    "question": "Imagine that you need to process tasks in the order they arrive. Which Java collection would be most suitable in this situation?",
+    "answers": ["Queue"]
+  },
+  {
+    "question": "What is the main advantage of using a HashMap over a TreeMap?",
+    "answers": ["HashMap provides faster access to elements due to hashing."]
+  },
+  {
+    "question": "Which of the following scenarios is best suited for using a TreeMap in Java?",
+    "answers": [
+      "Storing data that needs to be accessed in a specific sorted order"
+    ]
+  },
+  {
+    "question": "Why might a task management system prefer using LinkedLists over ArrayLists?",
+    "answers": ["LinkedLists allow efficient insertion and removal of tasks."]
+  },
+  {
+    "question": "How can a combination of HashMap and HashSet be used effectively in a social media management system?",
+    "answers": [
+      "HashMap maps each user to their follower list, while HashSet ensures unique followers."
+    ]
+  },
+  {
+    "question": "In a library management system built using Java, which collection type would be most appropriate for dynamically storing and managing book entries, allowing for flexible data management?",
+    "answers": ["LinkedList"]
+  },
+  {
+    "question": "In Java file handling, which class is responsible for representing a file or directory path and checking its properties?",
+    "answers": ["File class"]
+  },
+  {
+    "question": "What is the purpose of the BufferedWriter class in Java file handling?",
+    "answers": ["To buffer output for efficient writing"]
+  },
+  {
+    "question": "Imagine a situation where a Java application needs to write large volumes of data efficiently. Which class should be used to improve performance?",
+    "answers": ["BufferedWriter"]
+  },
+  {
+    "question": "Which Java method efficiently reads a file, line by line?",
+    "answers": ["readLine()"]
+  },
+  {
+    "question": "When working with byte streams in Java, which class should be used for writing bytes to a file?",
+    "answers": ["FileOutputStream"]
+  },
+  {
+    "question": "Imagine a situation where a Java application needs to read binary data from a file efficiently. Which class should be used?",
+    "answers": ["FileInputStream"]
+  },
+  {
+    "question": "Which method is used to create directories and any necessary parent directories in Java?",
+    "answers": ["mkdirs()"]
+  },
+  {
+    "question": "Imagine a situation where a Java application needs to manage large amounts of data efficiently. Which API offers improved performance over traditional Java IO?",
+    "answers": ["Java NIO"]
+  },
+  {
+    "question": "Which Java NIO method is used to create a Path object representing a directory path?",
+    "answers": ["Paths.get()"]
+  },
+  {
+    "question": "Alex is developing a Java application that requires reading from and writing to files. He wants to ensure efficient data handling and error management. Which Java package should Alex use to achieve this?",
+    "answers": ["java.io package"]
+  },
+  {
+    "question": "In Java, which class would you use to represent a date with time zone information for scheduling an international meeting?",
+    "answers": ["ZonedDateTime"]
+  },
+  {
+    "question": "Which method would you use to retrieve the current date and time in Java, including time zone information?",
+    "answers": ["ZonedDateTime.now()"]
+  },
+  {
+    "question": "If you need to store a user's birthdate without any time or time zone information, which Java class would be most appropriate?",
+    "answers": ["LocalDate"]
+  },
+  {
+    "question": "Which Java class should you use to define a fixed time offset from UTC for precise time calculations?",
+    "answers": ["ZoneOffset"]
+  },
+  {
+    "question": "John is developing an application that needs to display the current time in New York. Which Java class and method should he use to achieve this?",
+    "answers": ["ZonedDateTime.now(ZoneId.of(\"America/New_York\"))"]
+  },
+  {
+    "question": "Which Java class would you use if you need to store date-time information with a fixed UTC offset but not a full-time zone?",
+    "answers": ["OffsetDateTime"]
+  },
+  {
+    "question": "Sarah wants to format a date in Java to display as 'Sunday, Dec 29, 2024'. Which pattern should she use with DateTimeFormatter?",
+    "answers": ["EEEE, MMM dd, yyyy"]
+  },
+  {
+    "question": "Which Java class and method should be used to parse a date string in the format '29/12/2024' into a LocalDate object?",
+    "answers": [
+      "LocalDate.parse(\"29/12/2024\", DateTimeFormatter.ofPattern(\"dd/MM/yyyy\"))"
+    ]
+  },
+  {
+    "question": "David is developing a system that needs to convert a user-inputted date string '21/02/2030' into a LocalDate object. Which pattern should he use with DateTimeFormatter?",
+    "answers": ["dd/MM/yyyy"]
+  },
+  {
+    "question": "When extracting multiple dates from a string of mixed content, which approach should be used to identify date patterns?",
+    "answers": ["Using regex to match date patterns"]
+  },
+  {
+    "question": "Select the access modifier you would use to create a class in Java that restricts direct access to its data fields.",
+    "answers": ["Private"]
+  },
+  {
+    "question": "Imagine that you are designing a Java class for a library system. You want to ensure that each book object is created with a title and author. Which type of constructor is most appropriate?",
+    "answers": ["Parameterized constructor"]
+  },
+  {
+    "question": "In a Java program, you need to create a single method that can handle different types of input. Which concept would you use?",
+    "answers": ["Method overloading"]
+  },
+  {
+    "question": "Consider a scenario where you are developing a GUI application in Java. How might you use inner classes to handle events?",
+    "answers": [
+      "By using anonymous inner classes to define event listeners directly where needed."
+    ]
+  },
+  {
+    "question": "In the Java Collections Framework, which of the following collection types allows duplicate elements and maintains order?",
+    "answers": ["List"]
+  },
+  {
+    "question": "In a Java program, John needs to store key-value pairs where the keys are unique and the order of insertion is not important. Which collection should he use?",
+    "answers": ["HashMap"]
+  },
+  {
+    "question": "What is the primary reason Java NIO (New Input/Output) is preferred over traditional Java IO for file operations?",
+    "answers": ["Improved performance and error handling"]
+  },
+  {
+    "question": "In a scenario where a Java application needs to handle large binary files efficiently, which combination of classes should be used to achieve this result?",
+    "answers": ["BufferedInputStream and BufferedOutputStream"]
+  },
+  {
+    "question": "You are tasked with handling international flight schedules. Which Java class should you use to ensure accurate date and time representation across different time zones?",
+    "answers": ["ZonedDateTime"]
+  },
+  {
+    "question": "Which Java method would you use to convert the string '2023-10-15' into a LocalDate object?",
+    "answers": ["LocalDate.parse()"]
+  }
+]

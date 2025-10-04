@@ -331,13 +331,6 @@
     ]
   },
   {
-    "question": "Which of the following is true about Scrum?",
-    "answers": [
-      "Burn-down and Burn-up charts help the team track the progress of the current sprint.",
-      "In the daily stand-up, everybody talks about what they worked on, what they are planning to work on, and any impediments they have."
-    ]
-  },
-  {
     "question": "Which of the following is TRUE about Scrum? (Select two)",
     "answers": [
       "Scrum is an adaptive model.",
@@ -1816,5 +1809,9 @@
       "Repairing a bug in the requirements can cost thousands of times less than in the later phases of the software development lifecycle.",
       "Spending time upfront in requirement specification can save time in the later phases of the software development lifecycle."
     ]
+  },
+  {
+    "question": "In predictive models, you are not sure of user needs so requirements are expected to change during development",
+    "answers": ["False"]
   }
 ]
