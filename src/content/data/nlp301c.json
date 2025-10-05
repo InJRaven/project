@@ -1,0 +1,720 @@
+[
+  {
+    "question": "When performing logistic regression on sentiment analysis, you represented each tweet as a vector of ones and zeros. However your model did not work well. Your training cost was reasonable, but your testing cost was just not acceptable. What could be a possible reason?",
+    "answers": [
+      "The vector representations are sparse and therefore it is much harder for your model to learn anything that could generalize well to the test set."
+    ]
+  },
+  {
+    "question": "Which of the following are examples of text preprocessing?",
+    "answers": [
+      "Stemming, or the process of reducing a word to its word stem.",
+      "Lowercasing, which is the process of removing changing all capital letter to lower case.",
+      "Removing stopwords, punctuation, handles and URLs"
+    ]
+  },
+  {
+    "question": "The sigmoid function is defined as h ( x ( i ) , θ ) = 1 1 + e − θ T x ( i ) h(x (i) ,θ)= 1+e −θ T x (i) 1 h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, equals, start fraction, 1, divided by, 1, plus, e, start superscript, minus, theta, start superscript, T, end superscript, x, start superscript, left parenthesis, i, right parenthesis, end superscript, end superscript, end fraction . Which of the following is true.",
+    "answers": [
+      "Large positive values of θ T x ( i ) θ T x (i) theta, start superscript, T, end superscript, x, start superscript, left parenthesis, i, right parenthesis, end superscript will make h ( x ( i ) , θ ) h(x (i) ,θ) h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis closer to 1 and large negative values of θ T x ( i ) θ T x (i) theta, start superscript, T, end superscript, x, start superscript, left parenthesis, i, right parenthesis, end superscript will make h ( x ( i ) , θ ) h(x (i) ,θ) h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis close to 0."
+    ]
+  },
+  {
+    "question": "The cost function for logistic regression is defined as J ( θ ) = − 1 m ∑ i = 1 m [ y ( i ) log ⁡ h ( x ( i ) , θ ) + ( 1 − y ( i ) ) log ⁡ ( 1 − h ( x ( i ) , θ ) ) ] J(θ)=− m 1 ∑ i=1 m [y (i) logh(x (i) ,θ)+(1−y (i) )log(1−h(x (i) ,θ))] J, left parenthesis, theta, right parenthesis, equals, minus, start fraction, 1, divided by, m, end fraction, sum, start subscript, i, equals, 1, end subscript, start superscript, m, end superscript, open bracket, y, start superscript, left parenthesis, i, right parenthesis, end superscript, log, h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, plus, left parenthesis, 1, minus, y, start superscript, left parenthesis, i, right parenthesis, end superscript, right parenthesis, log, left parenthesis, 1, minus, h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, right parenthesis, close bracket . Which of the following is true about the cost function above. Mark all the correct ones.",
+    "answers": [
+      "When y ( i ) = 1 y (i) =1 y, start superscript, left parenthesis, i, right parenthesis, end superscript, equals, 1 , as h ( x ( i ) , θ ) h(x (i) ,θ) h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis goes close to 0, the cost function approaches ∞ ∞ infinity .",
+      "When y ( i ) = 0 y (i) =0 y, start superscript, left parenthesis, i, right parenthesis, end superscript, equals, 0 , as h ( x ( i ) , θ ) h(x (i) ,θ) h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis goes close to 0, the cost function approaches 0 0 0 ."
+    ]
+  },
+  {
+    "question": "For what value of θ T x θ T x theta, start superscript, T, end superscript, x in the sigmoid function does h ( x ( i ) , θ ) = 0.5 h(x (i) ,θ)=0.5 h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, equals, 0, point, 5 .",
+    "answers": ["0"]
+  },
+  {
+    "question": "Select all that apply. When performing logistic regression for sentiment analysis using the method taught in this week's lecture, you have to:",
+    "answers": [
+      "Perform data processing.",
+      "Create a dictionary that maps the word and the class that word is found in to the number of times that word is found in the class.",
+      "For each tweet, you have to create a positive feature with the sum of positive counts of each word in that tweet. You also have to create a negative feature with the sum of negative counts of each word in that tweet."
+    ]
+  },
+  {
+    "question": "When training logistic regression, you have to perform the following operations in the desired order.",
+    "answers": [
+      "Initialize parameters, classify/predict, get gradient, update, get loss, repeat"
+    ]
+  },
+  {
+    "question": "Assuming we got the classification correct, where y ( i ) = 1 y (i) =1 y, start superscript, left parenthesis, i, right parenthesis, end superscript, equals, 1 for some specific example i. This means that h ( x ( i ) , θ ) > 0.5 h(x (i) ,θ)>0.5 h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, is greater than, 0, point, 5 . Which of the following has to hold:",
+    "answers": [
+      "Our prediction, h ( x ( i ) , θ ) h(x (i) ,θ) h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis for this specific training example is greater than ( 1 − h ( x ( i ) , θ ) ) (1−h(x (i) ,θ)) left parenthesis, 1, minus, h, left parenthesis, x, start superscript, left parenthesis, i, right parenthesis, end superscript, comma, theta, right parenthesis, right parenthesis ."
+    ]
+  },
+  {
+    "question": "What is the purpose of gradient descent? Select all that apply.",
+    "answers": [
+      "Gradient descent allows us to learn the parameters θ θ theta in logistic regression as to minimize the loss function J.",
+      "Gradient descent, grad_theta allows us to update the parameters θ θ theta by computing θ = θ − α ∗ g r a d _ t h e t a θ=θ−α∗grad_theta theta, equals, theta, minus, alpha, times, g, r, a, d, \\_, t, h, e, t, a"
+    ]
+  },
+  {
+    "question": "What is a good metric that allows you to decide when to stop training/trying to get a good model? Select all that apply.",
+    "answers": [
+      "When your accuracy is good enough on the test set.",
+      "When you plot the cost versus (# of iterations) and you see that your the loss is converging (i.e. no longer changes as much)."
+    ]
+  },
+  {
+    "question": "Assume that there are 2 happy people and 2 unhappy people in a room. Concretely, persons A and B are happy and persons C and D are unhappy. If you were to randomly pick a person from the room, what is the probability that the person is happy.",
+    "answers": ["1/2"]
+  },
+  {
+    "question": "Assume that there are 2 happy people and 2 unhappy people in a room. Concretely, persons A and B are happy and persons C and D are unhappy. If a friend showed you the part of the room where the two happy people are, what is the probability that you choose person B?",
+    "answers": ["1/2"]
+  },
+  {
+    "question": "From the equations presented below, express the probability of a tweet being positive given that it contains the word happy in terms of the probability of a tweet containing the word happy given that it is positive P ( Positive ∣ \"happy\" ) = P ( Positive ∩ \"happy\" ) P ( \"happy\" ) P( Positive ∣ \"happy\" )= P( \"happy\" ) P( Positive ∩ \"happy\" ) P, left parenthesis, start text, space, P, o, s, i, t, i, v, e, space, end text, \\mid, start text, space, \", h, a, p, p, y, \", space, end text, right parenthesis, equals, start fraction, P, left parenthesis, start text, space, P, o, s, i, t, i, v, e, space, end text, \\cap, start text, space, \", h, a, p, p, y, \", space, end text, right parenthesis, divided by, P, left parenthesis, start text, space, \", h, a, p, p, y, \", space, end text, right parenthesis, end fraction P ( \"happy\" ∣ Positive ) = P ( \"happy\" ∩ Positive ) P ( Positive ) P( \"happy\" ∣ Positive )= P( Positive ) P( \"happy\" ∩ Positive ) P, left parenthesis, start text, space, \", h, a, p, p, y, \", space, end text, \\mid, start text, space, P, o, s, i, t, i, v, e, space, end text, right parenthesis, equals, start fraction, P, left parenthesis, start text, space, \", h, a, p, p, y, \", space, end text, \\cap, start text, space, P, o, s, i, t, i, v, e, space, end text, right parenthesis, divided by, P, left parenthesis, start text, space, P, o, s, i, t, i, v, e, space, end text, right parenthesis, end fraction",
+    "answers": [
+      "P ( Positive ∣ \"happy\" ) = P ( \"happy\" ∣ Positive ) × P ( Positive ) P ( \"happy\" ) P( Positive ∣ \"happy\" )=P(\"happy\" ∣ Positive )× P( \"happy\") P( Positive ) P, left parenthesis, start text, space, P, o, s, i, t, i, v, e, space, end text, \\mid, start text, space, \", h, a, p, p, y, \", space, end text, right parenthesis, equals, P, left parenthesis, start text, \", h, a, p, p, y, \", space, end text, \\mid, start text, space, P, o, s, i, t, i, v, e, space, end text, right parenthesis, times, start fraction, P, left parenthesis, start text, space, P, o, s, i, t, i, v, e, space, end text, right parenthesis, divided by, P, left parenthesis, start text, space, \", h, a, p, p, y, \", end text, right parenthesis, end fraction"
+    ]
+  },
+  {
+    "question": "Bayes rule is defined as",
+    "answers": [
+      "P ( X ∣ Y ) = P ( Y ∣ X ) × P ( X ) P ( Y ) P(X∣Y)=P(Y∣X)× P(Y) P(X) P, left parenthesis, X, \\mid, Y, right parenthesis, equals, P, left parenthesis, Y, \\mid, X, right parenthesis, times, start fraction, P, left parenthesis, X, right parenthesis, divided by, P, left parenthesis, Y, right parenthesis, end fraction"
+    ]
+  },
+  {
+    "question": "Suppose that in your dataset, 25% of the positive tweets contain the word ‘happy’. You also know that a total of 13% of the tweets in your dataset contain the word 'happy', and that 40% of the total number of tweets are positive. You observe the tweet: ''happy to learn NLP'. What is the probability that this tweet is positive? (Please, round your answer up to two decimal places. Remember that 0.578 = 0.58 and 0.572 = 0.57)",
+    "answers": ["0.77"]
+  },
+  {
+    "question": "The log likelihood for a certain word w i w i w, start subscript, i, end subscript is defined as: log ⁡ ( P ( w i ∣ p o s ) P ( w i ∣ n e g ) ) log( P(w i ∣neg) P(w i ∣pos) ) log, left parenthesis, start fraction, P, left parenthesis, w, start subscript, i, end subscript, vertical bar, p, o, s, right parenthesis, divided by, P, left parenthesis, w, start subscript, i, end subscript, vertical bar, n, e, g, right parenthesis, end fraction, right parenthesis .",
+    "answers": [
+      "Positive numbers imply that the word is positive.",
+      "Negative numbers imply that the word is negative."
+    ]
+  },
+  {
+    "question": "The log likelihood mentioned in lecture, which is the log of the ratio between two probabilities is bounded between",
+    "answers": ["-1 and 1"]
+  },
+  {
+    "question": "When implementing naive Bayes, in which order should the following steps be implemented.",
+    "answers": [
+      "Get or annotate a dataset with positive and negative tweets Preprocess the tweets: process_tweet(tweet) ➞ Compute freq(w, class) Get P(w | pos), P(w | neg) Get λ(w) Compute logprior = log(P(pos) / P(neg))"
+    ]
+  },
+  {
+    "question": "To test naive bayes model, which of the following are required?",
+    "answers": [
+      "X v a l , Y v a l , l o g p r i o r X val ,Y val ,logprior X, start subscript, start text, v, end text, a, l, end subscript, comma, Y, start subscript, start text, v, end text, a, l, end subscript, comma, l, o, g, p, r, i, o, r"
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an application of naive Bayes?",
+    "answers": ["Numerical predictions"]
+  },
+  {
+    "question": "Given a corpus A, encoded as ( 1 2 3 ) ⎝ ⎜ ⎛ 1 2 3 ⎠ ⎟ ⎞ \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix} and corpus B encoded as ( 4 7 2 ) ⎝ ⎜ ⎛ 4 7 2 ⎠ ⎟ ⎞ \\begin{pmatrix} 4 \\\\ 7 \\\\ 2 \\end{pmatrix} , What is the euclidean distance between the two documents?",
+    "answers": ["5.91608"]
+  },
+  {
+    "question": "Given the previous problem, a user now came up with a corpus C defined as ( 3 1 4 ) ⎝ ⎜ ⎛ 3 1 4 ⎠ ⎟ ⎞ \\begin{pmatrix} 3 \\\\ 1 \\\\ 4 \\end{pmatrix} and you want to recommend a document that is similar to it. Would you recommend document A or document B?",
+    "answers": ["Document A"]
+  },
+  {
+    "question": "Which of the following is true about euclidean distance?",
+    "answers": [
+      "When comparing similarity between two corpuses, it does not work well when the documents are of different sizes.",
+      "It is the norm of the difference between two vectors."
+    ]
+  },
+  {
+    "question": "What is the range of a cosine similarity score, namely s, in the case of information retrieval where the vectors are positive?",
+    "answers": [
+      "0 ≤ s ≤ 1 0≤s≤1 0, is less than or equal to, s, is less than or equal to, 1"
+    ]
+  },
+  {
+    "question": "The cosine similarity score of corpus A = ( 1 0 − 1 ) ⎝ ⎜ ⎛ 1 0 −1 ⎠ ⎟ ⎞ \\begin{pmatrix} 1 \\\\ 0 \\\\ -1 \\end{pmatrix} and corpus B = ( 2 8 1 ) ⎝ ⎜ ⎛ 2 8 1 ⎠ ⎟ ⎞ \\begin{pmatrix} 2 \\\\ 8 \\\\ 1 \\end{pmatrix} is equal to ?",
+    "answers": ["0.08512565307587486"]
+  },
+  {
+    "question": "We will define the following vectors, USA = ( 5 6 ) ( 5 6 ) \\begin{pmatrix} 5 \\\\ 6 \\end{pmatrix} , Washington = ( 10 5 ) ( 10 5 ) \\begin{pmatrix} 10 \\\\ 5 \\end{pmatrix} , Turkey = ( 3 1 ) ( 3 1 ) \\begin{pmatrix} 3 \\\\ 1 \\end{pmatrix} , Ankara = ( 9 1 ) ( 9 1 ) \\begin{pmatrix} 9 \\\\ 1 \\end{pmatrix} , Russia = ( 5 5 ) ( 5 5 ) \\begin{pmatrix} 5 \\\\ 5 \\end{pmatrix} , and Japan = ( 4 3 ) ( 4 3 ) \\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix} . Using only the following vectors, Ankara is the capital of what country? Please consider the cosine similarity score in your calculations.",
+    "answers": ["Turkey"]
+  },
+  {
+    "question": "Please select all that apply. PCA is",
+    "answers": [
+      "used to reduce the dimension of your data;",
+      "visualize word vectors;"
+    ]
+  },
+  {
+    "question": "Please select all that apply. Which is correct about PCA?",
+    "answers": [
+      "You can think of an eigenvector as an uncorrelated feature for your data.",
+      "Computing the covariance matrix is critical when performing PCA"
+    ]
+  },
+  {
+    "question": "In which order do you perform the following operations when computing PCA?",
+    "answers": [
+      "mean normalize, get Σ Σ \\Sigma the covariance matrix, perform SVD, then dot product the data, namely X, with a subset of the columns of U to get the reconstruction of your data."
+    ]
+  },
+  {
+    "question": "Vector space models allow us to",
+    "answers": [
+      "To represent words and documents as vectors.",
+      "build useful applications including and not limited to, information extraction, machine translation, and chatbots.",
+      "create representations that capture similar meaning."
+    ]
+  },
+  {
+    "question": "Assume that your objective is to minimize the transformation of X as similar to Y as possible, what would you optimize to get R? ( X R ≈ Y (XR≈Y left parenthesis, X, R, approximately equals, Y )",
+    "answers": ["Minimize the distance between XR and Y"]
+  },
+  {
+    "question": "When solving for R R R , which of the following is true?",
+    "answers": [
+      "Initialize R, create a forloop, inside the forloop: (compute the gradient, update the loss)"
+    ]
+  },
+  {
+    "question": "The Frobenius norm of A = ( 1 3 4 5 ) ( 1 4 3 5 ) \\begin{pmatrix} 1 & 3 \\\\ 4 & 5 \\end{pmatrix} is (Answer should be in 2 decimal places)",
+    "answers": ["7.14"]
+  },
+  {
+    "question": "Assume X ∈ R m × n , R ∈ R n × n , Y ∈ R m × n X∈R m×n ,R∈R n×n ,Y∈R m×n X, \\in, R, start superscript, m, times, n, end superscript, comma, R, \\in, R, start superscript, n, times, n, end superscript, comma, Y, \\in, R, start superscript, m, times, n, end superscript which of the following is the gradient of ∥ X R − Y ∥ F 2 ∥XR−Y∥ F 2 \\|, X, R, minus, Y, \\|, start subscript, F, end subscript, squared ?",
+    "answers": [
+      "2 m X T ( X R − Y ) m 2 X T (XR−Y) start fraction, 2, divided by, m, end fraction, X, start superscript, T, end superscript, left parenthesis, X, R, minus, Y, right parenthesis"
+    ]
+  },
+  {
+    "question": "Imagine that you are visiting a city in the US. If you search for friends that are living in the US, would you be able to determine the 2 closest of ALL your friends around the world?",
+    "answers": ["No"]
+  },
+  {
+    "question": "What is the purpose of using a function to hash vectors into values?",
+    "answers": [
+      "To speed up the time it takes when comparing similar vectors.",
+      "To not have to spend time comparing vectors with other vectors that are completely different."
+    ]
+  },
+  {
+    "question": "Given the following vectors, determine the true statements. P P P : [ 1 1 ] [ 1 1 ] \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} V 1 V 1 V, start subscript, 1, end subscript : [ 1 1 ] [ 1 1 ] \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} V 2 V 2 V, start subscript, 2, end subscript : [ 2 2 ] [ 2 2 ] \\begin{bmatrix} 2 \\\\ 2 \\end{bmatrix} V 3 V 3 V, start subscript, 3, end subscript : [ − 1 − 1 ] [ −1 −1 ] \\begin{bmatrix} - 1 \\\\ - 1 \\end{bmatrix}",
+    "answers": [
+      "P V 1 T PV 1 T P, V, start subscript, 1, end subscript, start superscript, T, end superscript and P V 2 T PV 2 T P, V, start subscript, 2, end subscript, start superscript, T, end superscript have the same sign."
+    ]
+  },
+  {
+    "question": "We define H to be the number of planes and h i h i h, start subscript, i, end subscript to be 1 or 0 depending on the sign of the dot product with plane i. Which of the following is the equation used to calculate the hash for several planes.",
+    "answers": [
+      "∑ i H 2 i h i ∑ i H 2 i h i sum, start subscript, i, end subscript, start superscript, H, end superscript, 2, start superscript, i, end superscript, h, start subscript, i, end subscript"
+    ]
+  },
+  {
+    "question": "How can you speed up the look up for similar documents.",
+    "answers": ["Approximate Nearest Neighbors", "Locality sensitive hashing"]
+  },
+  {
+    "question": "Hash tables are useful because",
+    "answers": [
+      "allow us to divide vector space to regions.",
+      "can always be reproduced"
+    ]
+  },
+  {
+    "question": "The minimum edit distance between the words deep and creepy is:",
+    "answers": ["4"]
+  },
+  {
+    "question": "Which of the following is a NOT VALID example of an edit string operation?",
+    "answers": ["SWITCH a letter ‘Lusca’ --> ‘Lucas’"]
+  },
+  {
+    "question": "Autocorrect is only appliable when dealing with misspelled words.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Given the corpus: “I am happy because I am doing quizzes.” Based on this tiny corpus, consider the following sentence: “I sm very good at solving quizzes.” Which of the following is true?",
+    "answers": ["There is a unique correction for the misspelled word “sm”."]
+  },
+  {
+    "question": "About the probabilistic model defined in the lecture, select all that apply.",
+    "answers": [
+      "Replacing a character costs more than deleting a character.",
+      "If C ( w ) C(w) C, left parenthesis, w, right parenthesis is the number of times a word appear in a corpus and V V V is the corpus size, then the probability of the word w w w in the corpus is P ( w ) = C ( w ) V P(w)= V C(w) P, left parenthesis, w, right parenthesis, equals, start fraction, C, left parenthesis, w, right parenthesis, divided by, V, end fraction .",
+      "The sentence “Happy birthday deer friends” would not have any word corrected in the model defined in the lecture."
+    ]
+  },
+  {
+    "question": "Suppose we build a distance matrix D for the following case: Source: Pie --> Target: Bye What is the value for D[3,2]?",
+    "answers": ["4"]
+  },
+  {
+    "question": "About the Minimum edit distance algorithm, select all that apply. Let D D D be the distance matrix, for two words of same size. The matrix size is n n n .",
+    "answers": [
+      "D [ 0 , i ] > D [ 0 , j ] D[0,i]>D[0,j] D, open bracket, 0, comma, i, close bracket, is greater than, D, open bracket, 0, comma, j, close bracket if i > j i>j i, is greater than, j .",
+      "D [ i , j ] = m i n ( D [ i − 1 , j ] + del_cost , D [ i , j − 1 ] + ins_cost , D [ i − 1 , j − 1 ] + rep_cost ) D[i,j]=min(D[i−1,j]+del_cost,D[i,j−1]+ins_cost,D[i−1,j−1]+rep_cost) D, open bracket, i, comma, j, close bracket, equals, m, i, n, left parenthesis, D, open bracket, i, minus, 1, comma, j, close bracket, plus, start text, d, e, l, \\_, c, o, s, t, end text, comma, D, open bracket, i, comma, j, minus, 1, close bracket, plus, start text, i, n, s, \\_, c, o, s, t, end text, comma, D, open bracket, i, minus, 1, comma, j, minus, 1, close bracket, plus, start text, r, e, p, \\_, c, o, s, t, end text, right parenthesis",
+      "The algorithm avoids usage of brute force by implementing a dynamic programming approach."
+    ]
+  },
+  {
+    "question": "About the minimum edit distance, which of the following statement is not true?",
+    "answers": ["It is used to check if a word is misspelled."]
+  },
+  {
+    "question": "The minimum edit distance calculation is more computationally intensive if we have a big corpus.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Given the corpus “Autocorrect is a powerful tool and it is used on our computer.” The value for P ( is ) P(is) P, left parenthesis, start text, i, s, end text, right parenthesis is: The answer should have two decimal places (rounding up, if necessary). For example: 0.88888 should be answered as 0.89.",
+    "answers": ["0.17"]
+  },
+  {
+    "question": "The Transition matrix A defined in lecture allows you to:",
+    "answers": [
+      "Compute the probability of going from a part of speech tag to another part of speech tag."
+    ]
+  },
+  {
+    "question": "The Emission matrix B defined in lecture allows you to:",
+    "answers": [
+      "Compute the probability of going from a part of speech tag to a word."
+    ]
+  },
+  {
+    "question": "The column sum of the emission matrix has to be equal to 1.",
+    "answers": ["False."]
+  },
+  {
+    "question": "The row sum of the transition matrix has to be 1.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Why is smoothing usually applied? Select all that apply.",
+    "answers": [
+      "Applying smoothing, for the minority of cases, allows us to increase the probabilities in the transition and emission matrices and this allows us to have non zero probabilities."
+    ]
+  },
+  {
+    "question": "Given the following D matrix, what would be the sequence of tags for the words on the right?",
+    "answers": [
+      "t 2 , t 3 , t 1 , t 3 , t 1 t 2 ,t 3 ,t 1 ,t 3 ,t 1 t, start subscript, 2, end subscript, comma, t, start subscript, 3, end subscript, comma, t, start subscript, 1, end subscript, comma, t, start subscript, 3, end subscript, comma, t, start subscript, 1, end subscript"
+    ]
+  },
+  {
+    "question": "Previously, we have been multiplying the raw probabilities, but in reality we take the log of those probabilities. Why might that be the case?",
+    "answers": [
+      "We take the log probabilities because probabilities are bounded between 0 and 1 and as a result, the numbers could be too small and will go towards 0."
+    ]
+  },
+  {
+    "question": "Which of the following are useful for applications for parts of speech tagging?",
+    "answers": [
+      "Coreference Resolution",
+      "Named Entity Recognition",
+      "Speech recognition"
+    ]
+  },
+  {
+    "question": "Corpus: “In every place of great resort the monster was the fashion. They sang of it in the cafes, ridiculed it in the papers, and represented it on the stage. ” (Jules Verne, Twenty Thousand Leagues under the Sea) In the context of our corpus, what is the probability of word “papers” following the phrase “it in the”.",
+    "answers": ["P(papers|it in the) = 1/2"]
+  },
+  {
+    "question": "Given these conditional probabilities P(Mary)=0.1; P(likes)=0.2; P(cats)=0.3 . P(Mary|likes) =0.2; P(likes|Mary) =0.3; P(cats|likes)=0.1; P(likes|cats)=0.4 Approximate the probability of the following sentence with bigrams: “Mary likes cats”",
+    "answers": ["P(Mary likes cats) = 0.003"]
+  },
+  {
+    "question": "Given these conditional probabilities P(Mary)=0.1; P(likes)=0.2; P(cats)=0.3 P(Mary|<s>)=0.2; P(</s>|cats)=0.6 P(likes|Mary) =0.3; P(cats|likes)=0.1 Approximate the probability of the following sentence with bigrams: “<s> Mary likes cats </s>”",
+    "answers": ["P(<s> Mary likes cats </s>) = 0.0036"]
+  },
+  {
+    "question": "Given the logarithm of these conditional probabilities: log(P(Mary|<s>))=-2; log(P(</s>|cats))=-1 log(P(likes|Mary)) =-10; log(P(cats|likes))=-100 Approximate the log probability of the following sentence with bigrams : “<s> Mary likes cats </s>”",
+    "answers": ["log(P(<s> Mary likes cats </s>)) = -113"]
+  },
+  {
+    "question": "Given the logarithm of these conditional probabilities: log(P(Mary|<s>))=-2; log(P(</s>|cats))=-1 log(P(likes|Mary)) =-10; log(P(cats|likes))=-100 Assuming our test set is W=“<s> Mary likes cats </s>”, what is the model’s perplexity.",
+    "answers": ["log PP(W) = (-1/5)*(-113)"]
+  },
+  {
+    "question": "Given the training corpus and minimum word frequency=2, how would the vocabulary for corpus preprocessed with <UNK> look like? “<s> I am happy I am learning </s> <s> I am happy I can study </s>”",
+    "answers": ["V = (I,am,happy)"]
+  },
+  {
+    "question": "Corpus: “I am happy I am learning” In the context of our corpus, what is the estimated probability of word “can” following the word “I” using the bigram model and add-k-smoothing where k=3.",
+    "answers": ["P(can|I) = 3/(2+3*4)"]
+  },
+  {
+    "question": "Which of the following are applications of n-gram language models?",
+    "answers": [
+      "Speech recognitions",
+      "Auto-complete",
+      "Auto-correct",
+      "Augmentative communication"
+    ]
+  },
+  {
+    "question": "The higher the perplexity score the more our corpus will make sense.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The perplexity score increases as we increase the number of <UNK> tokens.",
+    "answers": ["False."]
+  },
+  {
+    "question": "Which one of the following word representations is most likely to correspond to a word embedding representation in a general-purpose vocabulary? In other words, which one is most likely to capture meaning and important information about the words?",
+    "answers": ["car -> (0.1 1) caravan -> (-0.1 0.9)"]
+  },
+  {
+    "question": "Which one of the following statements is correct?",
+    "answers": [
+      "The meaning of the words, as carried by the word embeddings, depends on the embedding approach."
+    ]
+  },
+  {
+    "question": "Which one of the following statements is false?",
+    "answers": [
+      "You need to train a deep neural network to learn word embeddings.",
+      "The continuous bag-of-words model learns to predict context words given a center word."
+    ]
+  },
+  {
+    "question": "Consider the corpus \"A robot may not injure a human being or, through inaction, allow a human being to come to harm.\" and assume you are preparing data to train a CBOW model. Ignoring punctuation, for a context half-size of 3, what are the context words of the center word \"inaction\"?",
+    "answers": ["“being or through allow a human”"]
+  },
+  {
+    "question": "You are designing a neural network for a CBOW model that will be trained on a corpus with a vocabulary of 8000 words. If you want it to learn 400-dimensional word embedding vectors, what should be the sizes of the input, hidden, and output layers?",
+    "answers": ["8000 (input layer), 400 (hidden layer), 8000 (output layer)"]
+  },
+  {
+    "question": "If you are designing a neural network for a CBOW model that will be trained on a corpus of 8000 words, and if you want it to learn 400-dimensional word embedding vectors, what should be the size of W1, the weighting matrix between the input layer and hidden layer, if it is fed training examples in batches of 16 examples represented by a 8000 row by 16 column matrix? Hint: if X is the input matrix, H the matrix for the hidden layer, and B1 the bias matrix, then H = ReLU(W1X + B1).",
+    "answers": ["400 rows by 16 columns"]
+  },
+  {
+    "question": "Given the input vector x below, a trained continuous bag-of-words model outputs the vector ŷ below. What is the word predicted by the model?",
+    "answers": ["Therefore"]
+  },
+  {
+    "question": "The following weighting matrix W_1 has been learned after training a CBOW model. You are also given word-to-row mapping for the input column vectors. What is the word embedding vector for \"ring\"?",
+    "answers": ["[0; 0; 1; 0; 0; 0]"]
+  },
+  {
+    "question": "Select all that are correct.",
+    "answers": [
+      "Extrinsic evaluation evaluates actual usefulness of embeddings, is time consuming and is more difficult to trouble shoot.",
+      "To evaluate word embeddings with extrinsic evaluation, you use the word embeddings to perform an external task, which is typically the real-world task that you initially needed the word embeddings for. Then, use the performance metric of this task as a proxy for the quality of the word embeddings.",
+      "You can perform intrinsic evaluation by using a clustering algorithm to group similar word embedding vectors, and determining if the clusters capture related words."
+    ]
+  },
+  {
+    "question": "For the embedding layer in your model, you’d have to learn a matrix of weights of what size?",
+    "answers": ["Equal to your vocabulary times the dimension of the embedding"]
+  },
+  {
+    "question": "What would be the probability of a five word sequence using a penta-gram?",
+    "answers": [
+      "P ( w 5 , w 4 , w 3 , w 2 , w 1 ) = P ( w 1 ) × P ( w 2 ∣ w 1 ) × P ( w 3 ∣ w 1 , w 2 ) × P ( w 4 ∣ w 1 , w 2 , w 3 ) × P ( w 5 ∣ w 1 , w 2 , w 3 , w 4 ) P(w 5 ,w 4 ,w 3 ,w 2 ,w 1 )=P(w 1 )×P(w 2 ∣w 1 )×P(w 3 ∣w 1 ,w 2 )×P(w 4 ∣w 1 ,w 2 ,w 3 )×P(w 5 ∣w 1 ,w 2 ,w 3 ,w 4 ) P, left parenthesis, w, start subscript, 5, end subscript, comma, w, start subscript, 4, end subscript, comma, w, start subscript, 3, end subscript, comma, w, start subscript, 2, end subscript, comma, w, start subscript, 1, end subscript, right parenthesis, equals, P, left parenthesis, w, start subscript, 1, end subscript, right parenthesis, times, P, left parenthesis, w, start subscript, 2, end subscript, \\mid, w, start subscript, 1, end subscript, right parenthesis, times, P, left parenthesis, w, start subscript, 3, end subscript, \\mid, w, start subscript, 1, end subscript, comma, w, start subscript, 2, end subscript, right parenthesis, times, P, left parenthesis, w, start subscript, 4, end subscript, \\mid, w, start subscript, 1, end subscript, comma, w, start subscript, 2, end subscript, comma, w, start subscript, 3, end subscript, right parenthesis, times, P, left parenthesis, w, start subscript, 5, end subscript, \\mid, w, start subscript, 1, end subscript, comma, w, start subscript, 2, end subscript, comma, w, start subscript, 3, end subscript, comma, w, start subscript, 4, end subscript, right parenthesis"
+    ]
+  },
+  {
+    "question": "The number of parameters in an RNN is the same regardless of the input's length.",
+    "answers": ["True."]
+  },
+  {
+    "question": "Select all the examples that correspond to a “many to one” architecture.",
+    "answers": [
+      "An RNN which inputs a sentence and determines the sentiment.",
+      "An RNN which inputs a conversation and determines the topic."
+    ]
+  },
+  {
+    "question": "What should be the size of matrix W h W h W, start subscript, h, end subscript , if h < t > h <t> h, start superscript, is less than, t, is greater than, end superscript had size 4x1 and x < t > x <t> x, start superscript, is less than, t, is greater than, end superscript 10x1? h < t > = g ( W h [ h < t − 1 > , x < t > ] + b h ) h <t> =g(W h [h <t−1> ,x <t> ]+b h ) h, start superscript, is less than, t, is greater than, end superscript, equals, g, left parenthesis, W, start subscript, h, end subscript, open bracket, h, start superscript, is less than, t, minus, 1, is greater than, end superscript, comma, x, start superscript, is less than, t, is greater than, end superscript, close bracket, plus, b, start subscript, h, end subscript, right parenthesis",
+    "answers": ["4x14"]
+  },
+  {
+    "question": "In the next equation, why is there a division by the number of time steps but not one for the number of classification categories? J = − 1 T ∑ t = 1 T ∑ j = 1 K y j < t > log ⁡ y ^ j < t > J=− T 1 ∑ t=1 T ∑ j=1 K y j <t> log y ^ j <t> J, equals, minus, start fraction, 1, divided by, T, end fraction, sum, start subscript, t, equals, 1, end subscript, start superscript, T, end superscript, sum, start subscript, j, equals, 1, end subscript, start superscript, K, end superscript, y, start subscript, j, end subscript, start superscript, is less than, t, is greater than, end superscript, log, y, with, hat, on top, start subscript, j, end subscript, start superscript, is less than, t, is greater than, end superscript",
+    "answers": [
+      "Because there is just one value in every vector y < t > y <t> y, start superscript, is less than, t, is greater than, end superscript different from zero."
+    ]
+  },
+  {
+    "question": "What problem, related to vanilla RNNs, do GRUs tackle?",
+    "answers": ["Loss of relevant information for long sequences of words."]
+  },
+  {
+    "question": "Bidirectional RNNs are acyclic graphs, which means that the computations in one direction are independent from the ones in the other direction.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Compared to Traditional Language models which of the following problems does an RNN help us with?",
+    "answers": [
+      "Helps us solve memory issues.",
+      "They are much simpler to understand."
+    ]
+  },
+  {
+    "question": "What type of RNN structure would you use when implementing machine translation?",
+    "answers": ["Many to Many"]
+  },
+  {
+    "question": "Identify the correct order of the gates that information flows through in an LSTM unit.",
+    "answers": ["Forget gate, input gate, output gate."]
+  },
+  {
+    "question": "Which are some applications of LSTMs?",
+    "answers": [
+      "Chatbots",
+      "Next character prediction",
+      "Music composition",
+      "Image captioning",
+      "Speech recognition"
+    ]
+  },
+  {
+    "question": "The tanh layer ensures the values in your network stay numerically stable, by squeezing all values between -1 and 1. This prevents any of the values from the current inputs from becoming so large that they make the other values insignificant.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What type of architecture is a named entity recognition using?",
+    "answers": ["Many to many"]
+  },
+  {
+    "question": "Extract the named entities from the following sentence: Younes, a Moroccan artificial intelligence engineer, travelled to France for a conference.",
+    "answers": ["Younes, Moroccan, France."]
+  },
+  {
+    "question": "In a vectorized representation of your data, equal sequence length allows more efficient batch processing.",
+    "answers": ["True."]
+  },
+  {
+    "question": "Why is it important to mask padded tokens when computing the loss?",
+    "answers": [
+      "Padded tokens are not part of the data and are just used to help us keep the same sequence length for more efficient batch processing. We should not include their loss."
+    ]
+  },
+  {
+    "question": "In which of the following orders should we train an Named Entity Recognition with an LSTM?",
+    "answers": [
+      "Create a tensor for each input and its corresponding number Put them in a batch => 64, 128, 256, 512 ... Feed it into an LSTM unit Run the output through a dense layer Predict using a log softmax over K classes"
+    ]
+  },
+  {
+    "question": "LSTMS solve vanishing/exploding gradient problems when compared to basic RNNs.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following are true about LSTMs and vanilla RNNs?",
+    "answers": [
+      "LSTMs can better retain information from earlier parts of the sentence.",
+      "A single LSTM cell is more complex than a single cell in vanilla RNN."
+    ]
+  },
+  {
+    "question": "Classification allows you to identify similarity between two things while siamese networks allow you to categorize things.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Do the two subnetworks in a siamese network share the same parameters?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "When training a siamese network to identify duplicates, which pairs of questions from the following questions do you expect to have the highest cosine similarity ? Is learning NLP useful for me to get a job? (ANCHOR) What should I learn to get a job? (POSITIVE) Where is the job? (NEGATIVE)",
+    "answers": ["Anchor, Positive"]
+  },
+  {
+    "question": "In the triplet loss function below, will decreasing the hyperparameter alpha from 0.5 to 0.2 require more, or less, optimization during training ? diff ⁡ = s ( A , N ) − s ( A , P ) diff=s(A,N)−s(A,P) d, i, f, f, equals, s, left parenthesis, A, comma, N, right parenthesis, minus, s, left parenthesis, A, comma, P, right parenthesis L ( A , P , N ) = max ⁡ ( d i f f + α , 0 ) L(A,P,N)=max(diff+α,0) L, left parenthesis, A, comma, P, comma, N, right parenthesis, equals, \\max, left parenthesis, d, i, f, f, plus, alpha, comma, 0, right parenthesis",
+    "answers": ["Less"]
+  },
+  {
+    "question": "The orange square below corresponds to the similarity score of question duplicates?",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the closest negative in this set of numbers assuming a duplicate pair similarity of 0.6? [-0.9,-0.4,0.4, 0.8]",
+    "answers": ["0.4"]
+  },
+  {
+    "question": "In one shot learning, is any retraining required when new classes are added? For example, a new bank customer’s signature.",
+    "answers": ["No"]
+  },
+  {
+    "question": "During training, you have to update the weights of each of the subnetworks independently.",
+    "answers": ["False."]
+  },
+  {
+    "question": "The mean negative is defined as the closest off-diagonal value to the diagonal in each row (excluding the diagonal).",
+    "answers": ["False"]
+  },
+  {
+    "question": "In what order are Siamese networks performed in lecture?",
+    "answers": [
+      "Convert each input into an array of numbers Feed arrays into your model Compare v1, v2 using cosine similarity Test against a threshold"
+    ]
+  },
+  {
+    "question": "Which of the following are bottlenecks when implementing seq2seq models?",
+    "answers": [
+      "You are trying to store variable length sequences in a fixed memory, for example, you are trying to store articles of different lengths in a fixed 100 dimensional vector.",
+      "There are vanishing/exploding gradient problems."
+    ]
+  },
+  {
+    "question": "What are some of the benefits of using attention?",
+    "answers": [
+      "It simplifies the model architecture by reducing the need for complex recurrent layers.",
+      "It improves the interpretability of the model by highlighting which parts of the input contribute to the output.",
+      "It allows you to focus on the parts that matter more.",
+      "It helps with the information bottleneck issue."
+    ]
+  },
+  {
+    "question": "In the context of Transformer models, which components are essential for the attention mechanism? Select all that apply.",
+    "answers": [
+      "Queries: Described as the component that represents the current item being processed, to find matching information.",
+      "Keys: Described as part of the mechanism that helps in identifying relevant information from the input data.",
+      "Values: These hold the actual information from the input that will be used to compute the output, once a match is found between a key and a query."
+    ]
+  },
+  {
+    "question": "Teacher forcing uses the actual output from the training dataset at time step y ( t ) y (t) y, start superscript, left parenthesis, t, right parenthesis, end superscript as input in the next time step X ( t + 1 ) X (t+1) X, start superscript, left parenthesis, t, plus, 1, right parenthesis, end superscript , instead of the output generated by your model.",
+    "answers": ["True."]
+  },
+  {
+    "question": "The BLEU score's range is as follows:",
+    "answers": [
+      "The closer to 0, the worse it is, the closer to 1, the better it is."
+    ]
+  },
+  {
+    "question": "BLEU (Vanilla Implementation) is defined as:",
+    "answers": [
+      "(Sum of unique n-gram counts, overlapping in the candidate and reference) / (Total # of n-grams in the candidate)"
+    ]
+  },
+  {
+    "question": "What aspect of text summaries does the Rouge metric primarily evaluate?",
+    "answers": ["The similarity of the summary to reference summaries."]
+  },
+  {
+    "question": "Greedy decoding",
+    "answers": [
+      "Allows you select the word with the highest probability at each time step."
+    ]
+  },
+  {
+    "question": "When implementing Minimum Bayes Risk method in decoding, let's say with 4 samples, you have to implement the following. Calculate similarity score between sample 1 and sample 2 Calculate similarity score between sample 1 and sample 3 Calculate similarity score between sample 1 and sample 4 Average the score of the first 3 steps (Usually a weighted average) Repeat until all samples have overall scores Pick the best candidate, with the highest similarity score.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Select all the correct answers.",
+    "answers": [
+      "With transformers, the vanishing gradient problem isn't related with length of the sequences because we have access to all word positions at all times.",
+      "Transformers are able to take more advantage from parallel computing than other RNN architectures previously covered in the course.",
+      "Even RNN architectures like GRUs and LSTMs don't work as well as transformers for really long sequences."
+    ]
+  },
+  {
+    "question": "Which of the following are applications of transformers?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "What is one of the biggest techniques that the T5 model brings about?",
+    "answers": [
+      "It makes use of transfer learning and the same model could be used for several applications. This implies that other tasks could be used to learn information that would benefit us on different tasks."
+    ]
+  },
+  {
+    "question": "When it comes to translating french to english using dot product attention:",
+    "answers": [
+      "The intuition is that each query q i q i q, start subscript, i, end subscript , picks most similar key k j k j k, start subscript, j, end subscript . This allows the attention model to focus on the right words at each time step.",
+      "The queries are the english words and the keys and values are the french words.",
+      "You find the distribution by multiplying the queries by the keys (you might need to scale), take the softmax and then multiply it by the values."
+    ]
+  },
+  {
+    "question": "Which of the following corresponds to the causal (self) attention mechanism?",
+    "answers": [
+      "In one sentence, words look at previous words (used for generation). They can not look ahead."
+    ]
+  },
+  {
+    "question": "Let's explore multi-headed attention in this problem. Select all that apply.",
+    "answers": [
+      "Each head learns a different linear transformation to represent words.",
+      "Those linear transformations are combined and run through a linear layer to give you the final representation of words.",
+      "Multi-Headed models attend to information from different representations at different positions"
+    ]
+  },
+  {
+    "question": "Which of the following is true about about bi-directional attention?",
+    "answers": ["It could attend to words before and after the target word."]
+  },
+  {
+    "question": "Why is there a residual connection around each attention layer followed by a layer normalization step in the in the decoder network?",
+    "answers": [
+      "To speed up the training, and significantly reduce the overall processing time."
+    ]
+  },
+  {
+    "question": "In the lecture, the way summarization is generated is using:",
+    "answers": ["Next word generation."]
+  },
+  {
+    "question": "Which of the following are true about pre-training in NLP?",
+    "answers": [
+      "It speeds training.",
+      "It allows you to use information learned from a different task while working on a specific task.",
+      "It allows you to get better results."
+    ]
+  },
+  {
+    "question": "What is fine-tuning in NLP?",
+    "answers": [
+      "Fine tuning means taking existing weights of deeplearning model, and tweaking them a little bit to get a desired output, usually better results, on some specific task."
+    ]
+  },
+  {
+    "question": "Select all that apply for Masked Language Modeling. (MLM)",
+    "answers": [
+      "Choose 15% of the tokens at random: mask them 80% of the time, replace them with a random token 10% of the time, or keep as is 10% of the time.",
+      "The cross entropy loss over V classes is used when predicting.",
+      "The goal is to predict the masked token."
+    ]
+  },
+  {
+    "question": "What does the BERT objective consist of?",
+    "answers": [
+      "It consists of the sum of a binary loss used for next sentence prediction and a cross entropy loss over V tokens used for the masked language modeling."
+    ]
+  },
+  {
+    "question": "Which of the following inputs could be used for the BERT model?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "How does the prefix language model attention work in the T5 model?",
+    "answers": [
+      "It uses bidirectional attention for the inputs (i.e. X's) and causal attention mapping the outputs (Y's ) at time t, to all the previous X's and outputs before timestep t."
+    ]
+  },
+  {
+    "question": "When training these latest NLP models, you end up training a model that can do many tasks. For example, you usually have data for sentiments, QA, chatbot, summarization, etc. The question now is how do you combine the datasets using temperature scaled mixing?",
+    "answers": [
+      "You will adjust the “temperature” of the mixing rates. This temperature parameter allows you to weight certain examples more than others. When T = 1, this approach is equivalent to examples-proportional mixing and as T increases the proportions become closer to equal mixing."
+    ]
+  },
+  {
+    "question": "When doing fine-tuning, how do adapter layers work?",
+    "answers": [
+      "It allows you to add a new layer and then you only fine-tune the new layer you added."
+    ]
+  },
+  {
+    "question": "Which of the following is not evaluated using the GLUE benchmark?",
+    "answers": ["Machine Translation"]
+  }
+]
