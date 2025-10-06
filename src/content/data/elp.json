@@ -1911,7 +1911,463 @@
   {
     "question": "What is \"Just in Time\" advice?",
     "answers": ["Letting students choose how they want to approach the task"]
+  },
+  {
+    "question": "Who handles course content issues?",
+    "answers": ["ASU"]
+  },
+  {
+    "question": "Who handles technical issues?",
+    "answers": ["Coursera", "Cousera"]
+  },
+  {
+    "question": "The deadlines are...",
+    "answers": ["simply a guide, except the last one at the end of the course."]
+  },
+  {
+    "question": "To alert your peers to review an assignment, you should...",
+    "answers": ["post a request with a shareable link in Discussions."]
+  },
+  {
+    "question": "In order to receive the 150 Hour TESOL certificate from ASU, you must...",
+    "answers": ["successfully complete Parts 1 and 2."]
+  },
+  {
+    "question": "Students are constantly judging teacher performance and classroom content. Which of the following statements explains how students can so quickly judge a teacher’s performance?",
+    "answers": [
+      "Students can quickly see teacher technique and ability, which speaks to the need for a teacher to help make meaning clear."
+    ]
+  },
+  {
+    "question": "Motivation matters in the classroom. Identify the four major factors students need to be intrinsically motivated:",
+    "answers": ["Belonging, power, freedom and fun"]
+  },
+  {
+    "question": "A teacher who has taken courses on how to teach, but has no control over what they teach would fall into which of these four quadrants?",
+    "answers": ["High technique, low content"]
+  },
+  {
+    "question": "Part of motivation is a feeling of competence. Both Stephen Krashen and Lev Vygotsky believe students work best just a little above their performance level. Stephen Krashen calls it i + 1 . Leo Vygotsky calls it...",
+    "answers": ["the zone of proximal development"]
+  },
+  {
+    "question": "Vygotsky’s theory of the Zone of Proximal Development has students working slightly above their level so they feel comfortable yet challenged. To assist students in this zone, teachers offer support – scaffolding – as they master a skill. Which of the following scenarios is an example of scaffolding?",
+    "answers": [
+      "Write an essay based on the science article discussed in class today. Use the model shown at the beginning of class to guide your writing. Also use the essay we created together for further support. Turn it in on Wednesday."
+    ]
+  },
+  {
+    "question": "Dr. Dixon demonstrated the word \"p'alante\" in order to share how teachers can support language through the use of",
+    "answers": ["body language"]
+  },
+  {
+    "question": "Drs. Ambady and Rosenthal performed a study that demonstrated how quickly and proficiently students can determine the effectiveness of their teachers. One of the reasons that the study is so controversial is that",
+    "answers": [
+      "students identified the \"good\" and \"bad\" teachers so quickly"
+    ]
+  },
+  {
+    "question": "Check all the characteristics of teacher talk:",
+    "answers": [
+      "repetition",
+      "elaboration",
+      "clarification questions",
+      "simplified vocabulary",
+      "signpost expressions"
+    ]
+  },
+  {
+    "question": "When it comes to studying a language, which is the BEST measure of your success at using the language?",
+    "answers": ["Acquisition"]
+  },
+  {
+    "question": "Which is an example of acquisition?",
+    "answers": [
+      "Andrea is in a Japanese grocery store, shopping for supplies. She wants to buy salt, but she doesn’t know the Japanese word for it. She thinks she’s found a bag of salt, but it could be sugar too! She is not able to read the Japanese character for “salt”. She looks up the word for “salt” in her English-Japanese dictionary and asks a store clerk if what she has is indeed salt. It is!"
+    ]
+  },
+  {
+    "question": "How is language learning like a camera?",
+    "answers": [
+      "Like a camera, language learning is about zooming in to focus on the details of a language’s structure as well as zooming out to learn to use language in a wider context."
+    ]
+  },
+  {
+    "question": "Compare Brown’s and Oakley’s metaphors. Choose the correct analogy.",
+    "answers": [
+      "Brown’s zoom lens = Oakley’s focused mode Brown’s wide-angle lens = Oakley’s diffuse mode"
+    ]
+  },
+  {
+    "question": "Which answer BEST defines your role as a language teacher?",
+    "answers": [
+      "You are a photographer, sometimes helping students to focus on a specific language structure, other times providing opportunities for students to use the language and practice the new grammatical or sentence structures in a wider context."
+    ]
+  },
+  {
+    "question": "Which are examples of learning? (Check all that apply.)",
+    "answers": [
+      "Practicing a dialogue with a partner.",
+      "Studying vocabulary.",
+      "Filling in the blanks with the proper form of a verb."
+    ]
+  },
+  {
+    "question": "TRUE or FALSE: Michael Jordan can teach you to play basketball just like him by teaching you all the rules.",
+    "answers": ["FALSE"]
+  },
+  {
+    "question": "How is a language teacher like a coach? (Select the BEST answer.)",
+    "answers": [
+      "A language teacher is like a coach because he or she teaches the rules of the game, makes sure everyone gets plenty of opportunity to practice the game in many different ways, and encourages players to take risks and keep trying."
+    ]
+  },
+  {
+    "question": "What is the 80/20 principle?",
+    "answers": [
+      "A language teacher should plan a lesson so that 20% of the time is used for focusing on the details of the language, and 80% of the time is used for students to practice the language."
+    ]
+  },
+  {
+    "question": "How can self-awareness be a positive thing? Check all that apply.",
+    "answers": [
+      "It helps you understand why you feel the way you do.",
+      "You have confidence because you know you look or feel good.",
+      "You know how you look or feel."
+    ]
+  },
+  {
+    "question": "How can self-awareness be a negative thing? Check all that apply.",
+    "answers": [
+      "It can paralyze you because it makes you feel like everyone is judging what you are doing.",
+      "You lose confidence because it feels like everything you do or say is wrong.",
+      "In new situations, it causes you to over-think what you are doing and saying."
+    ]
+  },
+  {
+    "question": "Which answer BEST describes how language learning is like being on stage?",
+    "answers": [
+      "Like being on stage, learning a new language creates a heightened sense of self-awareness, where the learner is afraid to make mistakes and is almost paralyzed with tension."
+    ]
+  },
+  {
+    "question": "TRUE or FALSE: The affective filter is the complex set of emotions language learners experience as they try to process new information and produce language.",
+    "answers": ["TRUE"]
+  },
+  {
+    "question": "Which of these is NOT a good way to lower the affective filter in your students?",
+    "answers": ["Correct errors frequently and as soon as they happen."]
+  },
+  {
+    "question": "After spending many days in his room studying vocabulary and grammar, why couldn't Francois Gouin speak German? Check all that apply.",
+    "answers": [
+      "He couldn't see the language with a \"wide-angle lens\".",
+      "He did not engage in activities in the diffuse mode.",
+      "He did not practice the language in real-world contexts."
+    ]
+  },
+  {
+    "question": "What main point about language learning did the Francois Gouin story illustrate?",
+    "answers": ["Language learning requires practice and taking risks."]
+  },
+  {
+    "question": "Which strategy is NOT associated with successful language learning?",
+    "answers": ["Memorizing thousands of words"]
+  },
+  {
+    "question": "One of the major difficulties in teaching language is the problem of time. As explained in the videos, the problem of time means that...",
+    "answers": [
+      "Most schools offer language instruction for one hour a day, meaning that students don't have enough time to practice language."
+    ]
+  },
+  {
+    "question": "What are some ways, explained in the video, to help support the learning of English OUTSIDE the classroom? Check all that apply.",
+    "answers": [
+      "invite students to write down a list of their language resources",
+      "create English clubs",
+      "offer student exchanges"
+    ]
+  },
+  {
+    "question": "As the story of Shane's 5 years of Spanish suggested, some learners fail to learn language outside of the classroom, even when they have the resources to do it. What did the story suggest about why learners fail?",
+    "answers": [
+      "Learners fail to see their resources as opportunities. They don't connect their academic life to the world outside."
+    ]
+  },
+  {
+    "question": "Identify the most common ways that students can learn language through the internet. Check all that apply.",
+    "answers": ["movies", "games", "music"]
+  },
+  {
+    "question": "The difference between language learning websites and websites that \"happen to be in English\" is that...",
+    "answers": [
+      "language learning websites are designed for specific levels and needs of students, and websites that \"happen to be in English\" present real contexts and real information."
+    ]
+  },
+  {
+    "question": "Which of the following strategies might best encourage student autonomy? Check all that apply.",
+    "answers": [
+      "empowering students to recognize language learning on the internet",
+      "helping students recognize their language resources",
+      "inviting students to see themselves as part of a global community"
+    ]
+  },
+  {
+    "question": "According to the lectures, why do language teachers experience high rates of teacher burnout?",
+    "answers": [
+      "They utilize a learner-centered approach to teaching language, which requires a lot of preparation and a lot of skill."
+    ]
+  },
+  {
+    "question": "What are the benefits of forming a network of teachers? Check all that apply.",
+    "answers": [
+      "Save time",
+      "Take advantage of the expertise of other teachers",
+      "Share ideas"
+    ]
+  },
+  {
+    "question": "In addition to forming networks at school, what are some other ways that teachers can network with other teachers? Check all that apply.",
+    "answers": [
+      "Join TESOL or other teacher organizations",
+      "Attend professional conferences",
+      "Search for teacher forums and communities on the internet"
+    ]
+  },
+  {
+    "question": "In Skinner and Edge's book about self-determination, which two factors help people avoid burn-out?",
+    "answers": ["forming a network and having a sense of control"]
+  },
+  {
+    "question": "What are some ways that teachers can maintain a sense of control? Check all that apply.",
+    "answers": [
+      "Cherish the rewards of teaching",
+      "Find balance between work and life.",
+      "Be an agent of change.",
+      "Focus on the things you can do, not the things you cannot."
+    ]
+  },
+  {
+    "question": "What is meant by finding your core? Check all that apply.",
+    "answers": [
+      "Know your own teaching philosophy.",
+      "Be sincere. Don't pretend to believe something you don't.",
+      "Find a cause or idea that you believe in."
+    ]
+  },
+  {
+    "question": "According to the videos, what are the three elements that teachers can think about when reviewing different teacher philosophies?",
+    "answers": ["Content", "Purpose", "Technique"]
+  },
+  {
+    "question": "When we ask “Who should we teach?” we think most directly about",
+    "answers": ["learners’ reasons and goals."]
+  },
+  {
+    "question": "According to the lecture, content shapes purpose and technique.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which statements are reasons for teachers to examine their own teaching philosophies?",
+    "answers": [
+      "to understand their own purposes.",
+      "to think about useful strategies and methodologies."
+    ]
+  },
+  {
+    "question": "The caricatures Dr. Dixon will show in the upcoming videos are a complete representation of each approach.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The example, \"Dogs make good pets,\" was used",
+    "answers": [
+      "to demonstrate both the strengths and weaknesses of an argument."
+    ]
+  },
+  {
+    "question": "What is the importance of the \"believing and doubting\" game?",
+    "answers": [
+      "It helps viewers critically analyze each historical figure and language approach."
+    ]
+  },
+  {
+    "question": "According to the videos, new approaches were usually created as a result of",
+    "answers": [
+      "doubts formed about language approaches from the last generation."
+    ]
+  },
+  {
+    "question": "The term “pendular swing” refers to",
+    "answers": [
+      "language approaches’ move from one extreme to another throughout history ."
+    ]
+  },
+  {
+    "question": "Teach English Now! encourages participants to make immediate decisions about the effectiveness of the language approaches as they’re presented.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Why was the grammar translation approach taught? Check all that apply.",
+    "answers": [
+      "to teach values and morals.",
+      "to teach correct grammar and language rules."
+    ]
+  },
+  {
+    "question": "Who was the typical student in the Grammar Translation approach?",
+    "answers": ["Wealthy young men"]
+  },
+  {
+    "question": "Which languages did the Grammar Translation Approach focus on? Select all that apply.",
+    "answers": ["Greek", "Latin"]
+  },
+  {
+    "question": "What is “back translation?\"",
+    "answers": [
+      "Translating a text into one’s own language, and then translating it back into its original language."
+    ]
+  },
+  {
+    "question": "Which are techniques taken from the Grammar Translation Approach that might still be used today? Choose all that apply.",
+    "answers": [
+      "Reading comprehension questions",
+      "Use of cognates",
+      "Fill-in-the-blank activities"
+    ]
+  },
+  {
+    "question": "Which of these strategies does the Direct Approach advocate?",
+    "answers": ["Total language immersion"]
+  },
+  {
+    "question": "What was one of the Devil’s arguments against the Direct Approach?",
+    "answers": [
+      "Most people won’t actually go visit other countries and spend years learning the local language."
+    ]
+  },
+  {
+    "question": "Which techniques were used in the Direct Approach? Choose all that apply.",
+    "answers": ["Student Self-Correction", "Drawing Pictures"]
+  },
+  {
+    "question": "What is “negative transfer?”",
+    "answers": [
+      "Incorrectly transferring a linguistic item from one language to another."
+    ]
+  },
+  {
+    "question": "According to the video, what was a major purpose behind teaching language using the Audio-Lingual Approach?",
+    "answers": ["to teach soldiers to communicate with allies and enemies"]
+  },
+  {
+    "question": "Whose behaviorist theories predominantly impacted the Audio-Lingual Approach?",
+    "answers": ["B. F. Skinner"]
+  },
+  {
+    "question": "What are some of the basic tenets of the Audio-Lingual Approach? Check all that apply.",
+    "answers": ["habit formation", "overlearning", "behavioral psychology"]
+  },
+  {
+    "question": "Which methods were used for instruction of the Audio Lingual Approach? Check all that apply.",
+    "answers": ["Minimal Pairs", "Language Labs", "Dialogues"]
+  },
+  {
+    "question": "The Audio-Lingual Approach is most effective for students who have a lot of time to study and focus on the target language.",
+    "answers": ["False."]
+  },
+  {
+    "question": "The Cognitive Approach was widely used in language education throughout the United States.",
+    "answers": ["False"]
+  },
+  {
+    "question": "The Cognitive Approach offered teachers techniques related to which ideas? Check all that apply.",
+    "answers": [
+      "feedback on errors",
+      "strategies for language learning",
+      "pre-reading activities"
+    ]
+  },
+  {
+    "question": "Which activities might learners engage in if they performed a \"rehearsal?\"",
+    "answers": [
+      "repeatedly practicing language",
+      "practicing alone",
+      "pre-learning key vocabulary",
+      "chunking ideas together by writing down vocabulary words."
+    ]
+  },
+  {
+    "question": "Analyzing students' errors gives teachers",
+    "answers": [
+      "ideas for which specific grammatical rules should be explicitly taught.",
+      "a clearer understanding on students mental processes."
+    ]
+  },
+  {
+    "question": "Why do cognitive scientists recommend pre-reading and pre-listening activities? Choose all that apply.",
+    "answers": [
+      "To prompt students to think about language that will probably be used in the main reading/listening activity."
+    ]
+  },
+  {
+    "question": "The Affective Humanistic Approach mostly focused on",
+    "answers": ["The value of human beings in society and culture."]
+  },
+  {
+    "question": "Why would students select names from the culture of the target language?",
+    "answers": [
+      "To more deeply connect to the culture and people of the target language."
+    ]
+  },
+  {
+    "question": "The concept of helping students conquer their fear of learning a language through an environment that would unlock the potential of the conscious and subconscious mind is called",
+    "answers": ["Desuggestopedia"]
+  },
+  {
+    "question": "What were some popular techniques used by Affective Humanistic teachers? Select all that apply.",
+    "answers": ["Dramatization", "Multiple Concerts", "Positive Reinforcement"]
+  },
+  {
+    "question": "What are some items that might be found in a classroom of a teacher subscribing to the Affective Humanistic Approach? Check all that apply.",
+    "answers": ["A piano", "A CD/tape/record player", "Food and Drinks"]
+  },
+  {
+    "question": "Which ideas are true regarding Krashen's ideas about the \"affective filter?\"",
+    "answers": [
+      "learners' emotional states affect their ability to learn and retain language.",
+      "students with less stress and anxiety are more successful at language learning because they can focus more clearly on their studies."
+    ]
+  },
+  {
+    "question": "Which of the following techniques are used in the Comprehension Approach? Select all that apply.",
+    "answers": [
+      "Use of visual aids to convey meaning.",
+      "Role reversal activities",
+      "Use of simple questions and dialogue"
+    ]
+  },
+  {
+    "question": "The main focuses of the Comprehension Approach are actual input and lowering the affective filter.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Teachers subscribing to the Comprehension Approach might use which materials or techniques in the classroom? Select all that apply.",
+    "answers": ["observable action verbs", "realia"]
+  },
+  {
+    "question": "According to the lectures, one of the biggest problems with the Communicative Approach is that its techniques and practices are too clearly defined.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which are some of the techniques used in the Communicative Approach? Select all that apply.",
+    "answers": ["Language Games", "Information Gaps", "Role Plays"]
+  },
+  {
+    "question": "Which activity helps students understand how ideas flow together?",
+    "answers": ["Sequencing"]
+  },
+  {
+    "question": "The focus of role plays, especially improvised, is the prevention of errors.",
+    "answers": ["False"]
   }
 ]
-
-
