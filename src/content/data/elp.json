@@ -548,7 +548,7 @@
   },
   {
     "question": "Which of the following represents the concept of teaching using inductive reasoning?",
-    "answers": ["Model, infer, and elaborate"]
+    "answers": ["Model, infer, and elaborate", "model, infer, and elaborate"]
   },
   {
     "question": "It is usually best to show students a model first, before introducing a lesson using inductive reasoning.",
@@ -727,7 +727,8 @@
     "answers": [
       "Fire up their neural receptors",
       "Connect lesson plans to each other.",
-      "Connect new information to prior knowledge."
+      "Connect new information to prior knowledge.",
+      "Stimulate recall of prior knowledge."
     ]
   },
   {
@@ -742,7 +743,8 @@
     "answers": [
       "long term goals",
       "action words like: comprehend, feel, learn",
-      "information that is not critically important to your lesson."
+      "information that is not critically important to the lesson.",
+      "words like comprehend, understand,feel, and learn."
     ]
   },
   {
@@ -780,7 +782,9 @@
     "question": "Two examples of guided instruction are:",
     "answers": [
       "Providing teacher-led activities to break down difficult tasks",
-      "providing students with a Cloze exercise to help them apply new vocabulary"
+      "providing students with a Cloze exercise to help them apply new vocabulary",
+      "Using a scripted dialogue to practice a new grammar point.",
+      "Prompting students to complete a sentence."
     ]
   },
   {
@@ -1953,7 +1957,8 @@
   {
     "question": "Vygotsky’s theory of the Zone of Proximal Development has students working slightly above their level so they feel comfortable yet challenged. To assist students in this zone, teachers offer support – scaffolding – as they master a skill. Which of the following scenarios is an example of scaffolding?",
     "answers": [
-      "Write an essay based on the science article discussed in class today. Use the model shown at the beginning of class to guide your writing. Also use the essay we created together for further support. Turn it in on Wednesday."
+      "Write an essay based on the science article discussed in class today. Use the model shown at the beginning of class to guide your writing. Also use the essay we created together for further support. Turn it in on Wednesday.",
+      "Write a paragraph about your favorite hero, using the writing frame we practiced together in class."
     ]
   },
   {
@@ -2369,5 +2374,529 @@
   {
     "question": "The focus of role plays, especially improvised, is the prevention of errors.",
     "answers": ["False"]
+  },
+  {
+    "question": "Learning is...",
+    "answers": ["the ability to comprehend and recall information."]
+  },
+  {
+    "question": "Acquisition refers to...",
+    "answers": ["the ability to learn and apply principles in the real world."]
+  },
+  {
+    "question": "Which activity represents language learning in the wide-angle or diffuse mode?",
+    "answers": ["Role playing a doctor's appointment"]
+  },
+  {
+    "question": "According to the 80/20 principle, 80% of class time should be spent on...",
+    "answers": ["instruction in the diffuse mode"]
+  },
+  {
+    "question": "Using a website to study vocabulary and mark words that you still haven't learned yet is an example of...",
+    "answers": ["focused mode of instruction."]
+  },
+  {
+    "question": "Brown's zoom lens metaphor is similar to...",
+    "answers": ["Oakley's focused mode."]
+  },
+  {
+    "question": "Spaced repetition refers to...",
+    "answers": [
+      "spending a limited time studying material, then coming back to it later, increasing amounts of time between study sessions"
+    ]
+  },
+  {
+    "question": "Which is an example of an activity that helps advanced learners think critically and use language to express ideas.",
+    "answers": [
+      "Compare and contrast wedding traditions from two different cultures."
+    ]
+  },
+  {
+    "question": "Identify the learner that values accuracy over fluency.",
+    "answers": [
+      "Beatriz is very particular about speaking correctly. Before speaking, she spends several minutes quietly thinking to herself, checking her dictionary, and planning how she should best phrase her sentences."
+    ]
+  },
+  {
+    "question": "Considering the descriptions above, which language learner do you think you would be the most like if you were learning a new language?",
+    "answers": ["Gabriel"]
+  },
+  {
+    "question": "Which is NOT a way to support language learners outside the classroom?",
+    "answers": [
+      "make food from an English-speaking country and bring it to class"
+    ]
+  },
+  {
+    "question": "Learners can acquire language through the internet in all of these places EXCEPT:",
+    "answers": ["textbooks"]
+  },
+  {
+    "question": "Student autonomy means that",
+    "answers": [
+      "students can learn for themselves without the help of another."
+    ]
+  },
+  {
+    "question": "The metaphor that language is outside a door means...",
+    "answers": [
+      "that language learning can't just happen within the walls of a classroom, but that outside of the classroom there are contexts and experiences that will help students acquire and love language."
+    ]
+  },
+  {
+    "question": "A student is an actor means that...",
+    "answers": [
+      "a student is empowered to move about and participate in a global society."
+    ]
+  },
+  {
+    "question": "In this module, we learned that language is a...",
+    "answers": [
+      "passport...it gives us access to visit and understand many parts of the world."
+    ]
+  },
+  {
+    "question": "Part of motivation is a feeling of competence. Both Stephen Krashen and Leo Vygotsky believe students work best just a little above their performance level. Stephen Krashen calls this...",
+    "answers": ["i + 1"]
+  },
+  {
+    "question": "In order to scaffold correctly, a teacher needs to break down difficult concepts by...",
+    "answers": [
+      "modeling: showing both real examples and steps of a process guided practice: working through a process with students so that it is \"controlled\" independent practice: giving students a chance to do the process on their own"
+    ]
+  },
+  {
+    "question": "Three techniques to help make meaning clear are...",
+    "answers": ["elaboration, body language, and repetition"]
+  },
+  {
+    "question": "Here is an example of effective teacher talk: Before: “Construction on the Panama Canal was halted for a period of time due to engineering problems and high mortality rates from disease.” After: “Engineers stopped construction of the Panama Canal for a period of time because of engineering problems and a high number of worker deaths from disease.\" This is an example of which teacher talk strategy?",
+    "answers": ["reduced grammatical forms"]
+  },
+  {
+    "question": "According to Glasser, the four basic psychological needs of belonging, competence, freedom and fun are the foundation for...",
+    "answers": ["intrinsic motivation"]
+  },
+  {
+    "question": "A Harvard research study showed that students often judge a teacher in the first 6 seconds of class, based on...",
+    "answers": ["their teaching technique"]
+  },
+  {
+    "question": "This illustration shows the importance of finding a balance between technique and content. Your goal should be to fit into which quadrant?",
+    "answers": ["High content, high technique"]
+  },
+  {
+    "question": "Which of the following sentences includes a cultural reference that English language learners might not understand?",
+    "answers": [
+      "The young couple wanted to make sure they had their family's approval before walking down the aisle."
+    ]
+  },
+  {
+    "question": "Showing students how to write a sentence in the passive voice is an example of...",
+    "answers": ["modeling"]
+  },
+  {
+    "question": "What is the phenomenon known as teacher burnout?",
+    "answers": [
+      "Teachers put so much time and energy into their teaching that they become exhausted and leave the teaching profession."
+    ]
+  },
+  {
+    "question": "What does the following statement mean? Teachers should be like actors, but not act.",
+    "answers": [
+      "Teachers should not act, or pretend to believe or feel something they don't."
+    ]
+  },
+  {
+    "question": "What are good ways to form a network? Check all that apply.",
+    "answers": [
+      "Find teachers and other ESL professionals at your school site that are willing to share ideas.",
+      "Join professional organizations.",
+      "Consult online forums and blogs about ESL teaching."
+    ]
+  },
+  {
+    "question": "What are recommended strategies for maintaining self-control over your career? Check all that apply.",
+    "answers": [
+      "Find a balance between work and life.",
+      "Find your core teaching beliefs.",
+      "Focus on the things you can do, and not the things you cannot."
+    ]
+  },
+  {
+    "question": "In Skinner and Edge's book about self-determination, they recommend which two strategies to avoid burnout?",
+    "answers": ["form a network and maintain a sense of control"]
+  },
+  {
+    "question": "Much like the metaphor “language is cake,” a Harvard research study showed that students often judge a teacher in the first 6 seconds of class, based on...",
+    "answers": ["their teaching technique"]
+  },
+  {
+    "question": "Much like an actor, good teachers use which three techniques to help make meaning clear?",
+    "answers": ["elaboration, body language, and repetition"]
+  },
+  {
+    "question": "Vygotsky’s theory of the Zone of Proximal Development has students working slightly above their level so they feel comfortable yet challenged. To assist students in this zone, teachers offer support, or scaffolding, as they master a skill. Which learning activity includes scaffolding?",
+    "answers": [
+      "Write a paragraph describing your favorite character from the story, using the writing frame we practiced together in class."
+    ]
+  },
+  {
+    "question": "In research studies, which strategies were good language learners found to use? Check all that apply.",
+    "answers": [
+      "They prepare in advance and take notes.",
+      "They pay attention selectively to the most important information.",
+      "They find answers in multiple ways.",
+      "They are not afraid to look ridiculous."
+    ]
+  },
+  {
+    "question": "Like a mother bird encourages her baby bird to leave the nest, how can teachers encourage student autonomy? (Check all that apply)",
+    "answers": [
+      "helping students recognize their language resources",
+      "inviting students to see themselves as part of a global community",
+      "empowering students to recognize language learning opportunities on the internet"
+    ]
+  },
+  {
+    "question": "Which metaphor explains the power that is gained by learning a language?",
+    "answers": [
+      "Language is like a passport...it gives us access to visit and understand many parts of the world."
+    ]
+  },
+  {
+    "question": "According to the video, what are some of the roles a teacher may play?",
+    "answers": ["Psychologist", "Lesson Planner", "Coach"]
+  },
+  {
+    "question": "Which is the first event that Gagne recommends for a lesson’s introduction?",
+    "answers": ["Gain the attention and interest of the audience"]
+  },
+  {
+    "question": "Teacher 1 struggled with her lesson introduction. Which two issues did she have?",
+    "answers": ["She gave vague objectives.", "She spoke too softly."]
+  },
+  {
+    "question": "Teacher 2 struggled with some issues in his introduction too. Which two weaknesses did his introduction contain?",
+    "answers": [
+      "He didn’t share details from past instruction which could’ve sparked the class’s interest.",
+      "He attempted to gain student’s attention by drawing attention to himself."
+    ]
+  },
+  {
+    "question": "Teacher 3 successfully delivered an effective lesson introduction. What were two of her strengths?",
+    "answers": [
+      "She used a visual aid.",
+      "She asked students to raise their hands to answer simple questions."
+    ]
+  },
+  {
+    "question": "Which three things should a good warm up include?",
+    "answers": [
+      "connect past ideas to new information",
+      "get students' attention",
+      "introduce new ideas"
+    ]
+  },
+  {
+    "question": "What three things did Teacher 1 accomplish in his warm up?",
+    "answers": [
+      "He paired vocabulary words to pictures.",
+      "He reviewed key vocabulary words.",
+      "He introduced the day's lesson."
+    ]
+  },
+  {
+    "question": "What three things did Teacher 2 accomplish in her warm up?",
+    "answers": [
+      "She introduced new vocabulary words.",
+      "She activated students' prior knowledge about the vocabulary.",
+      "She introduced the topic for the lesson."
+    ]
+  },
+  {
+    "question": "Students who get an A on a vocabulary test generally retain that information and can apply those words to future lessons.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What were Robert Gagne's next three events discussed in the videos? Check all that apply.",
+    "answers": [
+      "Elicit Performance",
+      "Provide “learner guidance”",
+      "Present the content"
+    ]
+  },
+  {
+    "question": "What is the basis of the 80/20 rule?",
+    "answers": [
+      "80% of the class time should be focused on student practice while teachers should spend 20% of the time presenting information to the students."
+    ]
+  },
+  {
+    "question": "Select all of Teacher 1's strengths from Video 4.",
+    "answers": [
+      "Asking questions throughout the instruction",
+      "Modeling the instruction by using an example of something she wrote when she was younger",
+      "Using diagrams and examples",
+      "Mentioning the objectives again to remind students they’d be required to do the same later.",
+      "Stimulating recall of prior learning."
+    ]
+  },
+  {
+    "question": "While Teacher 2’s lesson has some strengths, which three issues did she have with her lesson?",
+    "answers": [
+      "She didn’t truly model exercises for students",
+      "She moved too quickly from presenting content to providing learning guidance.",
+      "She didn’t use diagrams or examples"
+    ]
+  },
+  {
+    "question": "Which were issues with Teacher 3’s lesson? Check all that apply.",
+    "answers": [
+      "He didn't use group or pair work.",
+      "He didn't provide clear instruction of the lesson.",
+      "He didn't model the information that he'd taught."
+    ]
+  },
+  {
+    "question": "Which two things should a lesson plan objective include?",
+    "answers": [
+      "A clear statement of the instructional goals for the lesson.",
+      "Action words such as: identify, state or demonstrate"
+    ]
+  },
+  {
+    "question": "Which word is the closest in meaning to \"lesson plan objectives?\"",
+    "answers": ["goals"]
+  },
+  {
+    "question": "What are the four (4) important features of good objective discussions?",
+    "answers": [
+      "check for understanding",
+      "clearly state the instructional objectives",
+      "discuss the importance of the objectives",
+      "establish specifics"
+    ]
+  },
+  {
+    "question": "Teachers should generally use the objectives they find in books or on the Internet to make sure they have well-written objectives.",
+    "answers": ["False."]
+  },
+  {
+    "question": "Which three of the following strategies are good uses of \"teacher talk?\"",
+    "answers": [
+      "Asking questions",
+      "Using metaphors or analogies",
+      "Clarifying and elaborating"
+    ]
+  },
+  {
+    "question": "What are three strategies for keeping classes conversational?",
+    "answers": [
+      "Getting feedback",
+      "Asking questions",
+      "Sharing personal experience"
+    ]
+  },
+  {
+    "question": "Which of the following is the best example of something that helps make instruction \"sticky\"?",
+    "answers": ["acronyms"]
+  },
+  {
+    "question": "Which of the following is the meaning of the acronym \"mud\"?",
+    "answers": ["memorable, usable, durable"]
+  },
+  {
+    "question": "What is one good reason to use modeling as a teaching strategy?",
+    "answers": ["To help student comprehension."]
+  },
+  {
+    "question": "What is one disadvantage to modeling as a teaching technique?",
+    "answers": [
+      "Students may follow the model too closely and not use their own ideas."
+    ]
+  },
+  {
+    "question": "Which of the following is an example of modeling?",
+    "answers": ["Putting student examples up on the board."]
+  },
+  {
+    "question": "It is best to show only one model so that students don't get confused by different examples.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Guided practice is best defined as (select two):",
+    "answers": [
+      "Providing teacher-led activities to break down more difficult tasks.",
+      "Allowing students to process new information in a supported environment."
+    ]
+  },
+  {
+    "question": "What were two independent practice strategies that Teacher 1 performed successfully?",
+    "answers": [
+      "She explained clearly what she wanted her students to do.",
+      "She was available to answer questions."
+    ]
+  },
+  {
+    "question": "Independent practice should only be done in the classroom, and should not be completed at home.",
+    "answers": ["False."]
+  },
+  {
+    "question": "An independent practice and assessment are the same thing.",
+    "answers": ["False."]
+  },
+  {
+    "question": "One way to improve group-directed activities is to:",
+    "answers": ["Give low-performing students the most difficult task."]
+  },
+  {
+    "question": "A metaphor for guided practice is:",
+    "answers": ["A safety net"]
+  },
+  {
+    "question": "Which of the following did Teacher 1 forget to do in his lesson introduction?",
+    "answers": ["Model an example of what he wanted his students to do."]
+  },
+  {
+    "question": "It is best to introduce an independent practice:",
+    "answers": [
+      "AFTER information has been modeled and students have practiced applying new material."
+    ]
+  },
+  {
+    "question": "Teacher 3 gave students an independent practice to do at home. When they returned the next day, he:",
+    "answers": ["reviewed the problems that students had with the assignments."]
+  },
+  {
+    "question": "Clear and measurable objectives are the most important feature in aligning a lesson plan.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which two types of learning can be measured by assessments?",
+    "answers": ["Memory", "Knowledge"]
+  },
+  {
+    "question": "Which three of the following are examples of memory learning?",
+    "answers": [
+      "multiplication tables",
+      "synonyms and antonyms",
+      "irregular past tense verbs"
+    ]
+  },
+  {
+    "question": "\"Alignment\" in a lesson plan means:",
+    "answers": [
+      "Objectives, activities and assessments all point in the same direction."
+    ]
+  },
+  {
+    "question": "It is easier to plan strong assessments if:",
+    "answers": ["your lesson objectives are clear and measurable."]
+  },
+  {
+    "question": "To make your objectives, activities, and assessments all point in the direction you want them to go, it is best to:",
+    "answers": ["begin planning with the end result in mind."]
+  },
+  {
+    "question": "To design a well-aligned lesson plan, you should start with:",
+    "answers": ["your \"big picture\" goal."]
+  },
+  {
+    "question": "Which three of the following are examples of assessing knowledge?",
+    "answers": [
+      "A five-paragraph essay",
+      "A presentation to the class",
+      "A group project"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of an assessment based on memory learning?",
+    "answers": ["vocabulary quiz"]
+  },
+  {
+    "question": "What is one of the most important characteristics of performance-based assessment?",
+    "answers": ["authenticity"]
+  },
+  {
+    "question": "Which statement is NOT true about the concept of self-awareness.",
+    "answers": ["Self-awareness has nothing to do with language acquisition."]
+  },
+  {
+    "question": "TRUE or FALSE: A high affective filter leads to successful language acquisition.",
+    "answers": ["FALSE"]
+  },
+  {
+    "question": "TRUE or FALSE: An instructor describing mistakes as normal helps to lower the affective filter.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which classroom environment would most likely lower the affective filter of language learners.",
+    "answers": [
+      "The teacher shares stories about making mistakes when communicating in another language."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about formative assessments? Check all that apply.",
+    "answers": [
+      "Formative assessments give learners the opportunity to practice and prepare for future testing.",
+      "Formative assessments are used to provide feedback to the learner."
+    ]
+  },
+  {
+    "question": "Identify which activities would serve as a formative assessment. (Check all that apply.)",
+    "answers": [
+      "The students write about themselves, then conference with the teacher about how to improve their writing.",
+      "The students study 10 vocabulary words and then play a game with those words."
+    ]
+  },
+  {
+    "question": "After spending a year in Germany, why wasn't Francois Gouin able to learn German? Check all that apply.",
+    "answers": [
+      "He didn't spend enough time in the diffuse mode of language learning.",
+      "He didn't engage in meaningful practice."
+    ]
+  },
+  {
+    "question": "Identify the strategies used by good language learners. Check all that apply.",
+    "answers": [
+      "They pay attention selectively to the most important information.",
+      "They prepare in advance and take notes.",
+      "They are not afraid to look ridiculous."
+    ]
+  },
+  {
+    "question": "TRUE or FALSE: Students who play and experiment with language are typically good language learners.",
+    "answers": ["TRUE"]
+  },
+  {
+    "question": "As a reaction to the Direct Approach, the Reading Approach was developed for which reasons? Choose all that are correct.",
+    "answers": [
+      "Standardized testing became more wide-spread in public schools.",
+      "Many people didn't have the opportunities to travel at that time, so language as in depth as the Direct Approach wasn't needed.",
+      "Not enough teachers spoke target languages well enough to make the Direct Approach effective."
+    ]
+  },
+  {
+    "question": "Which two aspects of language did the Reading Approach mainly focus on?",
+    "answers": ["Grammar", "Vocabulary"]
+  },
+  {
+    "question": "Which technique was NOT discussed as a common activity of practitioners in the Reading Approach?",
+    "answers": ["Speed reading"]
+  },
+  {
+    "question": "In the video of the Reading Approach teacher, you saw a teacher that was convinced his approach would help students effectively learn French.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which techniques were commonly utilized in the Reading Approach?",
+    "answers": ["Memorization", "Extensive Reading"]
+  },
+  {
+    "question": "What is an important goal of knowledge learning?",
+    "answers": [
+      "Students should be able to transfer classroom knowledge to the real world."
+    ]
   }
 ]
