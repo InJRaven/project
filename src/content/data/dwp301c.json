@@ -465,7 +465,9 @@
   },
   {
     "question": "Sini has returned to her desk after the daily feedback meetings. What is the first step for Sini to optimize code performance?",
-    "answers": ["She analyzes profiling logs to detect runtime memory leaks."]
+    "answers": [
+      "She incorporates peer suggestions to restructure critical methods."
+    ]
   },
   {
     "question": "Kevin works to identify vulnerabilities in software, using penetration testing tools and encryption methods to strengthen security before product release. What should be Kevin’s job title in this case?",
@@ -1216,8 +1218,7 @@
     "question": "Sophia is learning JavaScript object-oriented programming and wants to add a color property to her “Vehicle” object. Which of the following are valid ways to add the color property? Select all that apply.",
     "answers": [
       "Vehicle.prototype.color = “Blue”",
-      "Modify the Vehicle object directly by adding a color parameter in its constructor",
-      "Vehicle.color = “Blue”"
+      "Modify the Vehicle object directly by adding a color parameter in its constructor"
     ]
   },
   {
@@ -4502,7 +4503,9 @@
   },
   {
     "question": "What are some good things to review after first-round interviews to prepare for second-round screens?",
-    "answers": ["Email the company showing your interest in the position"]
+    "answers": [
+      "Search on professional sites about the interviewers to know their roles"
+    ]
   },
   {
     "question": "Shane just received an invitation for an initial phone call with a company’s HR representative. What should he expect during this HR screening?",
@@ -4696,7 +4699,7 @@
   },
   {
     "question": "Which of the following architecture patterns should organizations follow to develop an application where users can send and receive messages via a server?",
-    "answers": ["Event-driven architecture"]
+    "answers": ["Two-tier architecture"]
   },
   {
     "question": "A team is writing new features for an application and regularly testing their code changes. Which environment are they working in?",
@@ -5313,7 +5316,7 @@
   },
   {
     "question": "What is a good way to make your resume work well with search engine optimization (SEO) and applicant tracking system (ATS) software?",
-    "answers": ["Use and repeat as many keywords as possible."]
+    "answers": ["Add alt-text to every image, photo, and graphic you use."]
   },
   {
     "question": "Emily is preparing for an upcoming interview and wants to better understand the company’s values. While reading the company website, what should she pay special attention to?",
@@ -5380,5 +5383,345 @@
   {
     "question": "Noah gets a call offering him a software engineering role, but the salary seems a little low. In the offer letter, she noticed that the company was providing stock options and flexible working hours. What should Noah consider before deciding?",
     "answers": ["Review the benefits package in detail to make decisions"]
+  },
+  {
+    "question": "While using a fully operational banking application, a customer noticed discrepancies in transaction details not appearing on the mobile devices. Which of the following actions should a software developer take in this scenario to resolve such issues?",
+    "answers": ["Test codes thoroughly"]
+  },
+  {
+    "question": "A company wants to adopt an approach where each development phase follows the testing phase for clear verification and validation. Which model is most likely the company should use?",
+    "answers": ["V-shape"]
+  },
+  {
+    "question": "The development team of an innovative online education platform is conducting comprehensive system tests. What primary aspect does functional testing address?",
+    "answers": [
+      "Ensuring the application meets core user interaction and accessibility standards."
+    ]
+  },
+  {
+    "question": "The lead developer is preparing a document that describes the internal code structure and APIs for future maintenance. Which type of document is this?",
+    "answers": ["Technical documentation"]
+  },
+  {
+    "question": "While browsing an e-commerce website, Alan added a product to his cart and proceeded to payment by entering credit card details, and selected Pay. He wants to ensure that his payment is secure. Which of the following developers ensures that the sensitive customer information is securely stored and processed?",
+    "answers": ["Back-end developer"]
+  },
+  {
+    "question": "Lama and Jacky are working together on the application, where one writes code and the other reviews and provides direction. They regularly switch their roles. Which pair programming style best suits this scenario?",
+    "answers": ["Navigator style"]
+  },
+  {
+    "question": "A team wants to collaborate on a large project that will involve developers from different programming backgrounds. Which method do you use to outline the code logic that is easy to understand, regardless of its preferred language?",
+    "answers": [
+      "Write pseudocode to describe the program steps in simple language, and the steps"
+    ]
+  },
+  {
+    "question": "A programmer wants to develop a lightweight web-based tool that should run on multiple devices without installation, and the code should be easily updated and executed directly on the user’s device every time they access the tool using an interpreted language. For this scenario, which of the following best describes the interpreted programming language?",
+    "answers": [
+      "A smaller program, normally scripted code, that must be created and repeated every time the code is run"
+    ]
+  },
+  {
+    "question": "In programming, where you want to check a user’s input age is 18 to allow restricted access, which of the following programming constructs will be suitable for you?",
+    "answers": ["if"]
+  },
+  {
+    "question": "Mary is designing a new program where she wants to store exactly ten numeric scores without changing the number of entries. Which type of container should she use in this scenario?",
+    "answers": ["Array"]
+  },
+  {
+    "question": "Amira is learning a programming methodology where real-world objects like cars or customers are modeled in code. What type of methodology is she learning?",
+    "answers": ["Object-Oriented Programming (OOP)"]
+  },
+  {
+    "question": "Sara is applying for a software engineer role and wants to highlight her expertise in Python and Java coding. Which type of skill should she demonstrate in her resume?",
+    "answers": ["Expertise in programming"]
+  },
+  {
+    "question": "According to labor market projections, what employment expansion rate is anticipated for software development professionals between 2020 and 2030?",
+    "answers": ["22%"]
+  },
+  {
+    "question": "A software development team wants to represent a hospital’s patient management system using object-oriented concepts. How will they define the relationship between patient Naya Patel and the patient class in the object-oriented system?",
+    "answers": [
+      "Naya Patel is an instance of the patient class with specific attribute values."
+    ]
+  },
+  {
+    "question": "While launching an application for public users, it is important to secure their information. Which environment should an organization use to launch this application?",
+    "answers": [
+      "The production team deploys a fully operational production system for general users."
+    ]
+  },
+  {
+    "question": "Technical career path can be a good choice if you:",
+    "answers": ["Enjoy solving problems"]
+  },
+  {
+    "question": "An employee is developing user interface and ensuring the layout and aesthetics of a website work efficiently across devices and browsers. Which job title is most suitable for this role?",
+    "answers": ["Front-end engineer"]
+  },
+  {
+    "question": "Lily is responsible for writing code that integrates software into smart home devices. Which job title best describes Lily’s role?",
+    "answers": ["Software integration engineer"]
+  },
+  {
+    "question": "At a technology conference, the ethics panel discusses the broader responsibilities of tech professionals beyond innovation. What is the fundamental objective of the Software Engineering Code of Ethics?",
+    "answers": ["Protecting public interest and trust"]
+  },
+  {
+    "question": "Emly wants to manage and store codes while using integrated development environment (IDE) that supports integration with code storage tools. Which of the following tools can help Emly with her requirements?",
+    "answers": ["Git"]
+  },
+  {
+    "question": "A team wants to trace the details of the code to make the application more efficient. Which of the following version control systems assists them with?",
+    "answers": ["Changes made to the code"]
+  },
+  {
+    "question": "During a professional development workshop on career growth in technology teams, participants discuss the key responsibilities of a senior software engineer. Which primary responsibility best defines this role?",
+    "answers": ["Designing comprehensive system architectures"]
+  },
+  {
+    "question": "Which of the following architectures is best suited for a file-sharing network, where each participant provides and consumes resources directly from other participants without a central server?",
+    "answers": ["Peer-to-peer"]
+  },
+  {
+    "question": "A web development team is building an interactive website that dynamically updates content based on user interactions. They want to use a language that does not require compilation before execution. Which programming language best meets their needs?",
+    "answers": ["JavaScript"]
+  },
+  {
+    "question": "What four key database operations does the acronym CRUD stand for?",
+    "answers": ["Create, Read, Update, Delete"]
+  },
+  {
+    "question": "Which of the following containers will be helpful to Nora for developing an application where users can upload any number of photos to their gallery?",
+    "answers": ["Vector"]
+  },
+  {
+    "question": "A software developer wants to design a “Car” component in his application and wants to define its characteristics, including color, speed, and actions, such as start() and stop(). Which programming concept will you use?",
+    "answers": ["Object"]
+  },
+  {
+    "question": "Emma, a junior developer, is new to pair programming and is working with Liam on a new feature for their company’s web application. They collaborate on the same computer, discussing approaches and reviewing each other’s work in real time. Which statement best describes pair programming?",
+    "answers": [
+      "Pair programming includes two developers work together, discussing and refining their approach as they develop a solution."
+    ]
+  },
+  {
+    "question": "A software consultancy is preparing to manage a complex, long-term client project with evolving requirements. What key advantage does the Software Development Life Cycle (SDLC) offer?",
+    "answers": ["Adapting to changing project requirements"]
+  },
+  {
+    "question": "While updating a system, you are informed to replace a payment gateway with a new payment component without affecting other components of the system. Which of the following component supports this scenario?",
+    "answers": ["Replaceable"]
+  },
+  {
+    "question": "A programmer wants to store the balance of users’ bank accounts in a software object, so that users can access and update it using various methods. Which element should be used in this scenario?",
+    "answers": ["Variable"]
+  },
+  {
+    "question": "A developer is creating a webpage that includes images. Which tag correctly inserts an image?",
+    "answers": ["<img src=\"image URL\">"]
+  },
+  {
+    "question": "A web developer wants to ensure that their web app runs smoothly across devices with modern browsers while using built-in support for video and structured page layout. Which of the following is best suitable for this scenario?",
+    "answers": [
+      "Includes native support for video and improves page structure compatibility"
+    ]
+  },
+  {
+    "question": "You want to access metadata from an HTML page, such as the title or linked stylesheets, from a script. Which of the following methods will you use?",
+    "answers": ["document.head"]
+  },
+  {
+    "question": "A developer is using JavaScript to dynamically create an input element and set its type to “date,” and the field appears as a text box in the internal browser. What does this show?",
+    "answers": ["Internet Explorer restricts support for input type=“date”"]
+  },
+  {
+    "question": "Which conditions allow scripts to run in a browser environment?",
+    "answers": ["The browser supports scripting."]
+  },
+  {
+    "question": "You’ve applied an external CSS file and used inline style for a few elements to style a webpage. However, one element does not reflect the external style rules. What could have caused this issue on the webpage?",
+    "answers": ["Inline CSS, placed directly in each HTML element"]
+  },
+  {
+    "question": "You want users to add their telephone number in the contact form with input characters, such as “+” and “-”. Which type of input attributes can you use in this case?",
+    "answers": ["tel"]
+  },
+  {
+    "question": "A developer is reviewing a DIV element in the DOM tree and sees an id set to section 1. Which type of node is this?",
+    "answers": ["Attributes"]
+  },
+  {
+    "question": "Emily wants to open a new browser window and display another webpage using JavaScript. Which JavaScript function should she use to complete this task?",
+    "answers": ["window.open"]
+  },
+  {
+    "question": "Which of the following HTML5 features directly supports a new web application that includes audio playback and supports offline functionality?",
+    "answers": [
+      "Includes built-in APIs and elements for audio and offline applications"
+    ]
+  },
+  {
+    "question": "A company is designing a website that needs to look good on both desktops and mobile devices. Which of the following statements about fluid and fixed layouts are correct? Select all that apply.",
+    "answers": [
+      "Fixed layouts remain the same size regardless of the viewport dimensions.",
+      "A fluid layout adjusts element widths proportionally based on the screen size."
+    ]
+  },
+  {
+    "question": "In a CSS utility framework, such as Tailwind CSS, what does the term “modifier” refer to?",
+    "answers": [
+      "A specialized prefix that conditionally applies styling based on specific states or contexts"
+    ]
+  },
+  {
+    "question": "A blog platform allows users to create posts that include comments from readers. When structuring the HTML, which semantic tag is most appropriate for each individual blog post that could stand alone as meaningful content?",
+    "answers": ["<article>"]
+  },
+  {
+    "question": "Paul is designing a webpage and wants to define the area at the bottom that contains copyright and contact information. Which of the HTML5 structural elements should he use for this task?",
+    "answers": ["Footer"]
+  },
+  {
+    "question": "What is the value of ‘total’ after the following statement is executed? var total = 10 + 1 + “3”;",
+    "answers": ["“113”"]
+  },
+  {
+    "question": "Kevin is working with JavaScript objects and wants to add a color property to his custom “House” object. Which of the following are valid ways to do this? Select all that apply.",
+    "answers": [
+      "House.prototype.color = “Beige”",
+      "Modify the House object directly by adding a “color” parameter in its constructor"
+    ]
+  },
+  {
+    "question": "A quality assurance team wants to reduce the time for writing and running manual test cases for each release cycle. How can AI help in improving the team’s efficiency in the testing phase?",
+    "answers": ["Create and run test cases using algorithms"]
+  },
+  {
+    "question": "During an AI workshop, a student asked how chatbots like ChatGPT generate replies that make sense in context. What technical foundation supports this ability?",
+    "answers": ["Deep neural models trained on large-scale texts"]
+  },
+  {
+    "question": "A team is working on speeding up the process for analyzing and validating the clarity and relevance of using AI tools for the requirement gathering task. Which AI approach is most useful for uncovering insights and patterns in client requirement documentation?",
+    "answers": ["Text processing for detecting language patterns"]
+  },
+  {
+    "question": "A startup wants to quickly generate compelling product descriptions and blog content for their new product. What output should they expect from an AI text generator in this context?",
+    "answers": ["Aesthetically pleasing content"]
+  },
+  {
+    "question": "A developer is using an AI-powered tool during debugging. What is one advantage of this tool?",
+    "answers": ["It detects potential bugs and errors efficiently."]
+  },
+  {
+    "question": "Leo noticed that the AI output occasionally included biased or inaccurate suggestions during a code generation task. What concern does this raise in software development?",
+    "answers": ["The risk of generating insecure and biased code outputs"]
+  },
+  {
+    "question": "While setting up a landing page for a new product, Luis used an AI web builder to quickly generate a logo and other design assets. Which feature supported this logo creation?",
+    "answers": ["AI logo maker"]
+  },
+  {
+    "question": "How does AI improve the software testing process during continuous integration in AI-enabled CI/CD pipeline?",
+    "answers": [
+      "By prioritizing and generating critical test cases automatically."
+    ]
+  },
+  {
+    "question": "Which of the following is least direct benefit of integrating AI-powered features into mobile apps?",
+    "answers": ["Open discussions and diverse ideas"]
+  },
+  {
+    "question": "AI leverages ____________ to stimulate attacks and identify runtime vulnerabilities.",
+    "answers": ["Dynamic Application Security Testing (DAST)"]
+  },
+  {
+    "question": "Kewin is integrating AI-powered code review tools to detect subtle design flaws early in the development process. How does AI improve software code review in this scenario?",
+    "answers": ["Enhancing analysis accuracy"]
+  },
+  {
+    "question": "What role do AI-based tools play in continuous deployment pipelines?",
+    "answers": ["Predicting delivery challenges and reducing failures"]
+  },
+  {
+    "question": "Sam highlights a key feature in Symantec Endpoint Security during a security audit. What is he referring to?",
+    "answers": ["Using machine learning defense to prevent threats"]
+  },
+  {
+    "question": "For a virtual interview with the prospective employer, what should your preparation be beforehand?",
+    "answers": ["Test equipment to avoid technical challenges"]
+  },
+  {
+    "question": "Carlos has his final interview tomorrow and is thinking about what questions to ask at the end of the meeting. What is a smart reason to ask thoughtful questions during this part of the interview?",
+    "answers": [
+      "Best ways to show your research about the company and interest in the role"
+    ]
+  },
+  {
+    "question": "You are reading text on the company website while preparing for an interview. You noticed that certain words and phrases are repeated throughout their mission statement. What can you infer from this repeated language?",
+    "answers": [
+      "Repeated keywords provide an idea of what is important to the company."
+    ]
+  },
+  {
+    "question": "Rachael is researching companies she might want to work for and decides to look at their social media accounts. Why is this a smart move?",
+    "answers": [
+      "She can understand the company’s image and corporate culture from what they post."
+    ]
+  },
+  {
+    "question": "Sien wants to apply for software development roles and wants to ensure recruiters can easily find him online. Which LinkedIn action is most technically effective?",
+    "answers": [
+      "Highlight skills, flag profile as open to work, and complete skill tests."
+    ]
+  },
+  {
+    "question": "Pam is scanning through job postings and wants to focus on qualifications. Which of the following are accurate statements to keep in mind when reviewing job qualifications?",
+    "answers": [
+      "The qualification section should include both technical and non-technical skills."
+    ]
+  },
+  {
+    "question": "An interviewer asked a candidate which platforms they’ve worked with in terms of cloud deployment and scalability. Which response would best demonstrate proficiency in cloud computing?",
+    "answers": ["AWS, GCP, and Microsoft Azure"]
+  },
+  {
+    "question": "Emily is updating her portfolio to apply for a UX design role. What is a smart way for her to determine which skills to emphasize?",
+    "answers": ["Reviewing job descriptions"]
+  },
+  {
+    "question": "If you decide to build a new project to include in your portfolio, what is good advice?",
+    "answers": ["Use GitHub to host your projects."]
+  },
+  {
+    "question": "Jessica is finalizing her resume for an entry-level position. She has a few personal interests she wants to mention. Which best practice should Jessica follow to add personal interest?",
+    "answers": ["Only add hobbies if a resume lacks direct experience."]
+  },
+  {
+    "question": "Adam is applying for roles online and wants to improve the chances of his resume being seen by automated systems. What is a helpful way to make his resume more compatible with search engine optimization (SEO) and applicant tracking system (ATS) software?",
+    "answers": ["Reuse the same keywords frequently to improve rankings."]
+  },
+  {
+    "question": "Which of the following skills is essential for a software developer to present a proposed system design to the stakeholders from the marketing and operations department?",
+    "answers": ["Communication and presentation skills"]
+  },
+  {
+    "question": "Which of the following actions best aligns with Miera, who wants to leverage LinkedIn for DevOps engineer roles?",
+    "answers": ["Complete skill tests and add testimonials."]
+  },
+  {
+    "question": "How can Lily best optimize her social media visibility for job-seeking in the tech field?",
+    "answers": [
+      "Following the company’s social media page and joining in discussions"
+    ]
+  },
+  {
+    "question": "Jordan wants to feel confident during the job interview. His friend suggested simulating the experience by preparing for the common interview questions and providing feedback. What type of interview rehearsal is this?",
+    "answers": [
+      "A practice interview that enables him to rehearse answers at home."
+    ]
   }
 ]
