@@ -3910,5 +3910,21 @@
       "To stay up to date with training requirements",
       "To set up training schedules, send reminders for upcoming events, and track employee attendance"
     ]
+  },
+  {
+    "question": "Why would you consider whether an organization is remote, hybrid work, or office-based when creating an employee communication strategy?",
+    "answers": [
+      "Choosing appropriate communication channels, such as email or face-to face-meetings, help ensure effective communication, collaboration, and decision-making."
+    ]
+  },
+  {
+    "question": "An HR team compiles an employee handbook. Which of the following should they include in this resource?",
+    "answers": [
+      "Operating policies, procedures, vision and mission, behavioral expectations, working conditions, and safety protocols"
+    ]
+  },
+  {
+    "question": "What type of emails can organizations send employees to keep them notified?Select all that apply.",
+    "answers": ["Company updates", "Leadership communications", "Newsletters"]
   }
 ]
