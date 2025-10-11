@@ -2920,5 +2920,55 @@
   {
     "question": "A student uploads a graph and asks the AI to interpret it and suggest how to improve their research. What prompt type is required?",
     "answers": ["Multimodal prompt combining the image and question"]
+  },
+  {
+    "question": "Which industry uses generative AI to generate synthetic scenarios that help assess risks and support better decision-making?",
+    "answers": ["Banking and Finance"]
+  },
+  {
+    "question": "Which of the following best describes how large language models (LLMs) generate meaningful text?",
+    "answers": ["By using language patterns to predict responses"]
+  },
+  {
+    "question": "Which tool can assist developers by suggesting code completions and offering real-time recommendations?",
+    "answers": ["GitHub Copilot"]
+  },
+  {
+    "question": "What impact did the introduction of GANs in 2014 have on generative AI development?",
+    "answers": ["Enabled models to generate highly realistic content"]
+  },
+  {
+    "question": "While building an AI system, Raj needs it to produce new content such as images and stories. Which type of model should he use?",
+    "answers": ["Generative AI"]
+  },
+  {
+    "question": "What distinguishes generative AI from earlier AI approaches?",
+    "answers": ["It creates new content based on learned patterns"]
+  },
+  {
+    "question": "Which factor most affects the quality of AI-generated output?",
+    "answers": ["Prompt specificity"]
+  },
+  {
+    "question": "Which tool is primarily used for generating conversational text?",
+    "answers": ["ChatGPT"]
+  },
+  {
+    "question": "Which generative AI capability allows marketers to create photorealistic product images without physical photography?",
+    "answers": ["Text-to-image generation with photorealistic rendering"]
+  },
+  {
+    "question": "Carlos noticed certain limitations while developing software and evaluating ChatGPT's coding abilities. At what point did the AI assistant struggle the most with code generation?",
+    "answers": ["Develop a complex programming solution independently"]
+  },
+  {
+    "question": "What is the fundamental difference between generative AI and discriminative AI?",
+    "answers": [
+      "Generative AI creates new content whereas discriminative AI classifies existing data"
+    ]
+  },
+  {
+    "question": "A content marketing team wants to use generative AI to enhance their campaigns. Which specific capability would be most valuable for creating brand-specific marketing copy?",
+    "answers": ["Text generation tools that adapt to a brand's unique voice"]
   }
 ]
