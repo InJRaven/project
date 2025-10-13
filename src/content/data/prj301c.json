@@ -3341,5 +3341,333 @@
     "answers": [
       "It helps you to structure your responses by explaining the situation, task, action, and result."
     ]
+  },
+  {
+    "question": "Software plays a crucial role in modern technology, making software engineering an essential discipline. Which of the following best defines software engineering?",
+    "answers": ["The full range of processes involved in software development"]
+  },
+  {
+    "question": "You want to incorporate multiple subsystems in your new inventory management platform. The project manager wants a document that contains user and software requirements to focus on the entire scope of the system. Which document should you use in this case?",
+    "answers": ["System requirements specifications (SysRS)"]
+  },
+  {
+    "question": "Tara is testing a new software application, ensuring it behaves efficiently according to users’ requirements and is easy to use. Which type of testing should Tara use?",
+    "answers": [
+      "Its goal is to make sure the application is usable and accessible."
+    ]
+  },
+  {
+    "question": "Your team has completed developing and testing a new software. Which process will you use to create a detailed technical document that helps future developers understand the system architecture and operation?",
+    "answers": ["System documentation"]
+  },
+  {
+    "question": "A product development team is discussing prioritizing features for their next release based on customer requirements. Which of the following roles makes decisions for feature priority?",
+    "answers": ["Product Owner"]
+  },
+  {
+    "question": "What is the primary function of back-end development in a web application that must manage dynamic content and ensure secure user interactions?",
+    "answers": ["Handling data processing and ensuring transaction security"]
+  },
+  {
+    "question": "You want to improve the internal structure of your code to make it clear and maintainable, without changing its external behavior. What technique should you apply?",
+    "answers": ["Code refactoring"]
+  },
+  {
+    "question": "A programmer wants to store and manage 1000 integers in a program efficiently. Which programming component should a programmer use?",
+    "answers": ["Container"]
+  },
+  {
+    "question": "When programmers use the term “scripting language” in technical discussions, which type of programming language do they commonly describe?",
+    "answers": ["An interpreted programming language"]
+  },
+  {
+    "question": "A programmer must repeat a code block until a certain condition becomes false. Which programming construct should they use?",
+    "answers": ["while"]
+  },
+  {
+    "question": "Sofia assigns a label to store values that should never change while her program runs. Which type of identifier should she choose?",
+    "answers": ["Constant"]
+  },
+  {
+    "question": "In software development, which of the following is typically considered the foundation for later design and implementation work?",
+    "answers": ["Early-stage architectural decisions"]
+  },
+  {
+    "question": "A software development team has finalized the architectural phase and started preparing for the design phase. Which type of documentation should be created at this stage?",
+    "answers": ["Unified modeling language (UML) diagrams document"]
+  },
+  {
+    "question": "Consider a patient, Teena, who wants to interact with the software to cancel her appointments. How would Teena’s instance help developers to use object-oriented analysis and design in this scenario?",
+    "answers": [
+      "Teena acts as an object instantiated from the patient class, which includes general attributes and methods for patients."
+    ]
+  },
+  {
+    "question": "You are designing a new social media site and want to build it using modular services that interact via APIs. Which architecture pattern is appropriate for this scenario?",
+    "answers": ["Microservices architecture"]
+  },
+  {
+    "question": "You are hiring a software engineer to create an application that helps customers order products online, aiming to improve their shopping experience. Which of the following is the primary task of a software engineer before the actual development of the application starts?",
+    "answers": ["Design and develop software that solves real-world problems."]
+  },
+  {
+    "question": "A software engineer is working on optimizing a database query to improve application performance. This task requires specialized knowledge and technical expertise. Which of the following is an example of a technical skill?",
+    "answers": ["Proficiency in coding"]
+  },
+  {
+    "question": "Sana always helps with project issues by discussing them with her team members and shows flexibility when her manager assigns new tasks. What type of skills does this show?",
+    "answers": ["Interpersonal skills"]
+  },
+  {
+    "question": "A university career counselor is advising students about job market trends. What percentage increase in employment is projected for software developers, analysts, and testers between 2020 and 2030, according to the U.S. Bureau of Labor Statistics?",
+    "answers": ["22%"]
+  },
+  {
+    "question": "As Alex navigates the career fair, he’s particularly curious about interdisciplinary collaborations in the software development world. Which technology professionals most frequently collaborate with creative specialists, bridging the gap between technical functionality and innovative design?",
+    "answers": ["Game developers"]
+  },
+  {
+    "question": "David is part of the product development team at a tech startup. They’re preparing to launch a new mobile application and want to ensure its reliability and performance before market release. Which technology professional is primarily responsible for validating software performance?",
+    "answers": ["Software quality assurance engineer"]
+  },
+  {
+    "question": "Which of the following tools are responsible for adding style and flair to enhance the appearance of the webpage?",
+    "answers": ["Cascading Style Sheet (CSS)"]
+  },
+  {
+    "question": "A developer wants to use a Cascading Style Sheet (CSS) extension that allows variables and nested rules to organize styles better. Which of the following tool is compatible for developers?",
+    "answers": ["Syntactically awesome style sheets (SASS)"]
+  },
+  {
+    "question": "In this digital world, organizations want to remain competitive and efficient. Hence, they are continuously investing in technical solutions, which build a strong job market. Which of the following factors mainly contributes to the strong job market for software developers?",
+    "answers": ["Most businesses require software applications and websites."]
+  },
+  {
+    "question": "You are working on a complex mobile application project, where you received feedback from the client that the application needs adjustments to the initial requirements. How does the following software development lifecycle (SDLC) help you in this situation?",
+    "answers": ["Respond to changing requirements"]
+  },
+  {
+    "question": "A healthcare technology company is preparing to launch a critical patient management application. What quality assurance process is essential to ensure the software meets all specified requirements?",
+    "answers": ["Testing"]
+  },
+  {
+    "question": "Which of the following software development methodologies easily handles changing requirements and enables feedback to be regularly incorporated into the solution?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "Which of the following programming languages will you leverage for updating the core modules of an embedded system that requires conversion of source code to machine code for faster execution?",
+    "answers": ["C"]
+  },
+  {
+    "question": "How does HTML5 help in optimizing a website for search engines and reducing load time without compromising interactivity and content richness?",
+    "answers": ["Uses optimization tags and APIs for SEO and page speed"]
+  },
+  {
+    "question": "A content writer is formatting text and needs to insert a single line break without creating a new paragraph. Which HTML tag should they use?",
+    "answers": ["<br>"]
+  },
+  {
+    "question": "You want to test a web form that includes an input type=\"date\" field. When you open this form in Microsoft Edge, you see spinning boxes to select the date. Which of the following describes Edge’s support for input type in this case?",
+    "answers": ["Edge supports the input type=“date”"]
+  },
+  {
+    "question": "Which of the following statements accurately describes the behavior of fixed and fluid layouts? Select all that apply.",
+    "answers": [
+      "Fixed layouts do not change their dimensions regardless of the device.",
+      "Fluid layouts use relative units to allow elements to scale dynamically."
+    ]
+  },
+  {
+    "question": "A web designer has inserted input type= “email” in a form; however, the form still accepts the value like “hello@com” without any error. What is missing in this scenario?",
+    "answers": ["The required attributes are missing from the field."]
+  },
+  {
+    "question": "Which semantic tag is used to display any content that is indirectly related to the main content of the document?",
+    "answers": ["<aside>"]
+  },
+  {
+    "question": "You’ve embedded a chart using the figure element in your webpage. Now you want to add a descriptive title directly in the chart. Which HTML5 tag will you use to complete this task?",
+    "answers": ["Figcaption"]
+  },
+  {
+    "question": "Which of the following is NOT a method JavaScript uses to display or output information to users?",
+    "answers": ["Changing the server's HTML files automatically"]
+  },
+  {
+    "question": "Sarah is debugging a JavaScript snippet and comes across the following statement. She is unsure of the final value stored in ‘total’ after execution. What will be the value of “total”? var total = 5 + 2 + “8”;",
+    "answers": ["“78”"]
+  },
+  {
+    "question": "Cristy is reviewing a DOM tree in a browser’s developer tools; a node is labeled with the value eight and contains a descriptive message not rendered on the page. Which type of node is this?",
+    "answers": ["Comment"]
+  },
+  {
+    "question": "Select all of the following that are proper ways to add a “color” property to a custom “Car” object.",
+    "answers": [
+      "Modify the code of the Car object directly to add a “color” parameter in the constructor",
+      "Car.prototype.color = “Red”"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of the pom.xml file in a Spring Boot project?",
+    "answers": [
+      "To manage project dependencies and ensure all required libraries are included"
+    ]
+  },
+  {
+    "question": "Which one of the following is a key advantage of using JPA over traditional JDBC?",
+    "answers": [
+      "JPA provides an abstraction over SQL, reducing boilerplate code"
+    ]
+  },
+  {
+    "question": "Which of the following annotations is used to ensure a field is not null in a JPA entity?",
+    "answers": ["@NotNull"]
+  },
+  {
+    "question": "Which of the following statements is true about how the @OneToMany annotation functions in Hibernate?",
+    "answers": [
+      "It requires a mappedBy attribute to define the owning side of the relationship"
+    ]
+  },
+  {
+    "question": "How does Spring Boot simplify the integration of NoSQL databases?",
+    "answers": [
+      "By abstracting complex configurations and providing repository support"
+    ]
+  },
+  {
+    "question": "What is the purpose of the @Pattern annotation in Spring Boot?",
+    "answers": ["It validates a field against a regular expression"]
+  },
+  {
+    "question": "A startup company is struggling with time-consuming bug fixes during rapid development sprints. They are exploring generative AI tools to improve their debugging process. What role can generative AI play in debugging?",
+    "answers": ["By applying trained models to fix the bugs."]
+  },
+  {
+    "question": "During sprint planning, the team realizes that testing slows delivery. They explore tools that can automate repetitive QA tasks. Which capability of AI can help automate quality assurance?",
+    "answers": ["Automate test execution using historical data."]
+  },
+  {
+    "question": "Which of the following is a future trend in software development that involves making AI systems understandable by humans?",
+    "answers": ["Explainable AI"]
+  },
+  {
+    "question": "A web development team is using AI to generate parts of a website. What kind of output is the AI tool most likely designed to create?",
+    "answers": ["Engaging content for web pages"]
+  },
+  {
+    "question": "Which of the following best describes AI’s role in automating testing within CI/CD pipelines?",
+    "answers": ["Using code change analysis to generate and prioritize tests."]
+  },
+  {
+    "question": "Which AI technique can be used to automate test case generation from textual software requirements?",
+    "answers": ["Natural language processing (NLP) techniques"]
+  },
+  {
+    "question": "What is one of the techniques used by AI-powered code review tools to enhance analysis accuracy?",
+    "answers": ["Static analysis"]
+  },
+  {
+    "question": "A developer is using AI-powered tools during a code review process to analyze source code for vulnerabilities with minimal false positives. Which AI security feature should a developer apply in this scenario?",
+    "answers": ["Static Application Security Testing (SAST)"]
+  },
+  {
+    "question": "How does AI help Mike peer review an application’s code to flag anti-patterns and suggest improvements before merging code?",
+    "answers": ["Increases analysis accuracy with machine learning"]
+  },
+  {
+    "question": "A DevOps engineer installs AI-based monitoring in a CI/CD pipeline. What outcome should they expect?",
+    "answers": [
+      "Anticipating deployment risks and suggesting minimization steps"
+    ]
+  },
+  {
+    "question": "Which issue must teams resolve when adding AI into continuous integration (CI) pipelines?",
+    "answers": ["Ensuring the AI system works smoothly with existing CI tools"]
+  },
+  {
+    "question": "A developer is using AI tools to examine the codebase for potential vulnerabilities before deploying the application for end users. Which approach should a developer apply to detect the code issues?",
+    "answers": ["Code analysis"]
+  },
+  {
+    "question": "Jimmy wants to automatically create a website layout and code based on his preferences using AI. Which tool best supports this?",
+    "answers": ["AI website generator"]
+  },
+  {
+    "question": "How does AI contribute to email security, particularly in filtering spam?",
+    "answers": ["Leveraging machine learning and AI algorithms"]
+  },
+  {
+    "question": "During an NLP project review, Ethan raised concerns about biased results in the model’s output. What approach can help address ethical issues like this?",
+    "answers": ["Ensuring diversity in training datasets"]
+  },
+  {
+    "question": "During a peer code review, Ayaan mentioned using static analysis to catch syntax errors before runtime. Static analysis is a technique used in many AI-powered tools. What is it primarily used for in software development?",
+    "answers": ["To review AI-powered code"]
+  },
+  {
+    "question": "Which of the following is a role played by AI in CI/CD?",
+    "answers": ["Automated testing and quality assurance"]
+  },
+  {
+    "question": "Which of the following is a key advantage of generative AI in software development?",
+    "answers": ["It reduces the need for large, labeled datasets."]
+  },
+  {
+    "question": "A developer wants to ensure that the generated code shows fairness and inclusivity. Which key ethical issue related to large language models (LLMs) should the developer focus on to prevent unfairness in this scenario?",
+    "answers": ["Bias detection"]
+  },
+  {
+    "question": "A company is hiring a software engineer to design scalable applications. Which key ability is most crucial for success in this role?",
+    "answers": [
+      "Communicating effectively and delivering clear technical presentations"
+    ]
+  },
+  {
+    "question": "A company is developing a new enterprise application, and the engineering team has been assigned various responsibilities. What is the core responsibility of a software engineer?",
+    "answers": ["Designing system components and planning how they integrate"]
+  },
+  {
+    "question": "Which of the following tools does a software engineer commonly leverage for version control and team collaboration in a software project?",
+    "answers": ["Git"]
+  },
+  {
+    "question": "Maya is building her portfolio to attract new clients. Which of the following would be the best addition?",
+    "answers": ["Project-based freelance experience"]
+  },
+  {
+    "question": "Tom is preparing a software development portfolio to apply for entry-level roles. Which is the best way to highlight his skills that emphasize his capabilities for this role?",
+    "answers": ["Reading job listings"]
+  },
+  {
+    "question": "How would Alice leverage social media networking to support his job search strategy?",
+    "answers": ["By joining the company’s online community"]
+  },
+  {
+    "question": "Tim is considering switching from a full-time employee role to a contract position. He wants to know what to realistically expect from the change. Which of the following is accurate?",
+    "answers": [
+      "Contractors and FTEs usually work a similar number of hours weekly."
+    ]
+  },
+  {
+    "question": "Ethan is preparing for his first technical interview. He’s confident in his skills but unsure if he really needs to rehearse. When getting ready for a job interview, which of the following is a helpful strategy?",
+    "answers": ["Saying answers aloud helps to build confidence."]
+  },
+  {
+    "question": "After her first interview, Sara is sent a coding assignment by the hiring team. Which of the following is most accurate about coding challenges like this one?",
+    "answers": ["The coding challenge should be completed independently."]
+  },
+  {
+    "question": "Rachael wants to make a great impression at the end of her upcoming interview. Why is it important to prepare questions for your interviewers in advance?",
+    "answers": [
+      "It helps show your genuine interest and preparation for the role."
+    ]
+  },
+  {
+    "question": "You have received a job offer for a software engineering role. What is your next most appropriate step?",
+    "answers": [
+      "Consider factors that might call for a compensation negotiation"
+    ]
   }
 ]
