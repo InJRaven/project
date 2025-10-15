@@ -2970,5 +2970,9 @@
   {
     "question": "A content marketing team wants to use generative AI to enhance their campaigns. Which specific capability would be most valuable for creating brand-specific marketing copy?",
     "answers": ["Text generation tools that adapt to a brand's unique voice"]
+  },
+  {
+    "question": "Which approach best ensures precise visual output when using generative AI for image creation?",
+    "answers": ["Use specific, detailed textual instructions"]
   }
 ]

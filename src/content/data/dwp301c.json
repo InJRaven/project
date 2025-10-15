@@ -5765,5 +5765,85 @@
   {
     "question": "Maya is building her portfolio to attract new clients. Which of the following would be the best addition?",
     "answers": ["Project-based freelance experience"]
+  },
+  {
+    "question": "Which technology is categorized as a structured system that provides developers with tools for building web applications?",
+    "answers": ["Vue.js"]
+  },
+  {
+    "question": "Which of the following best describes a program component, such as a stored value, method, interface, or class, by a custom-named label?",
+    "answers": ["Identifier"]
+  },
+  {
+    "question": "A developer is building a high-performance application that needs to run efficiently on the user’s machine. Which type of language would best support this goal?",
+    "answers": [
+      "One that takes longer to write but results in faster execution"
+    ]
+  },
+  {
+    "question": "A programmer wants to check whether the entered password matches the stored password or not while developing a simple login system. This decision-making process is based on a logic that evaluates two possible outcomes, that is, “true” or “false”. Which of the following types of programming logic should a programmer apply to their decision-making?",
+    "answers": ["Boolean expression"]
+  },
+  {
+    "question": "When programmers use the term “scripting language” in technical discussions, which type of programming language do they commonly describe?",
+    "answers": ["An interpreted programming language"]
+  },
+  {
+    "question": "While developing a patient management system, you need a behavior diagram of a patient as they progress in various stages of their treatment. Which type of unified modeling language (UML) diagram will you use?",
+    "answers": [
+      "A diagram that shows transitions in states, such as waiting, testing, and with the doctor, including events that cause transitions"
+    ]
+  },
+  {
+    "question": "A software developer wants to break down the technical requirements into structured components before starting actual coding to define interactivity and system boundaries. Which part of the software development lifecycle (SDLC) helps software developers?",
+    "answers": ["Design"]
+  },
+  {
+    "question": "A software company is about to release its new application to customers. The final version of the software will be hosted on a server where all users can access it. Which environment will the company use for this deployment?",
+    "answers": ["Production"]
+  },
+  {
+    "question": "You have identified a suspicious download while browsing a website. How does AI help in protecting against such a threat?",
+    "answers": [
+      "Identifying and preventing potentially malicious content from reaching you."
+    ]
+  },
+  {
+    "question": "Jessica is using an AI tool to auto-generate backend code for form submission but skips manual input validation. What type of vulnerability is most likely introduced in this scenario?",
+    "answers": [
+      "SQL injection, cross-site scripting (XSS), or similar injection attacks"
+    ]
+  },
+  {
+    "question": "A DevOps team is integrating AI tools into its established CI pipeline. They aim to improve testing and release efficiency without harming current workflows. Which primary challenge will the team encounter in this scenario?",
+    "answers": ["Achieving seamless integration for CI pipelines"]
+  },
+  {
+    "question": "Maya is working on a refactoring project, where she took help from an AI tool. The AI tool suggested using Singleton and Factory patterns across modules to complete her task. How can an AI tool assist Maya in this scenario?",
+    "answers": ["Recommending reusable designs"]
+  },
+  {
+    "question": "While reviewing a code for a website, you noticed a comment on the website that should be hidden from the public users. Which of the following codes will you use to hide that comment?",
+    "answers": ["<!-- This is a comment -->"]
+  },
+  {
+    "question": "Which of the following correctly describes an anonymous function in JavaScript?",
+    "answers": [
+      "A function without a name, often assigned to a variable or passed as an argument"
+    ]
+  },
+  {
+    "question": "Which keyword would you use to declare a variable that cannot be reassigned after its initial value is set?",
+    "answers": ["const"]
+  },
+  {
+    "question": "Ethan is preparing for his first technical interview. He’s confident in his skills but unsure if he really needs to rehearse. When getting ready for a job interview, which of the following is a helpful strategy?",
+    "answers": ["Saying answers aloud helps to build confidence."]
+  },
+  {
+    "question": "Jacky is preparing for the interview for both startup and large tech companies. What should she keep in mind while reviewing the interview process?",
+    "answers": [
+      "Interview processes can vary depending on factors such as the type of position and the size of the company."
+    ]
   }
 ]

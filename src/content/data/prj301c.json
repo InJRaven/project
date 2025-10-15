@@ -3669,5 +3669,249 @@
     "answers": [
       "Consider factors that might call for a compensation negotiation"
     ]
+  },
+  {
+    "question": "A software development company wants to reduce its development risks and ensure that the project is complete within the timeline with efficiency. Which of the following is best suited in this scenario to achieve the desired goal?",
+    "answers": [
+      "Use software development lifecycle (SDLC) to provide a structured process."
+    ]
+  },
+  {
+    "question": "A financial institution has launched a new online banking system. After a few months, customers report minor issues with the transaction history not displaying correctly on some devices. What is a key activity performed during the maintenance phase of the SDLC to address such issues?",
+    "answers": ["Correcting minor transaction display errors"]
+  },
+  {
+    "question": "After a software development, a logistics company is reviewing it. Which key activity should they perform primarily to ensure that the product works as expected?",
+    "answers": ["Ensuring the software meets requirements."]
+  },
+  {
+    "question": "A project manager is collecting input from the stakeholders about the new inventory system requirements. Which document should they develop to properly capture the system’s capabilities and constraints?",
+    "answers": ["Software requirements specification (SRS) document"]
+  },
+  {
+    "question": "What is the primary objective of software validation that focuses on user experience?",
+    "answers": ["Making sure the application is usable and accessible"]
+  },
+  {
+    "question": "You want to prepare a document that explains how to use software once it is deployed, which type of documentation should you prefer to create?",
+    "answers": ["User documentation"]
+  },
+  {
+    "question": "Meera tries to log into the website, but receives a 404 error continuously with her credentials. What is the most likely error in the back-end?",
+    "answers": ["Missing endpoints or incorrect routing"]
+  },
+  {
+    "question": "Which technology is categorized as a structured system that provides developers with tools for building web applications?",
+    "answers": ["Vue.js"]
+  },
+  {
+    "question": "While working with the cloud app, your team needs to manage changes in the source code to avoid overwriting each other’s work. Which tool will you use primarily to manage and track code changes during development?",
+    "answers": ["Version control system"]
+  },
+  {
+    "question": "Which of the following best describes a program component, such as a stored value, method, interface, or class, by a custom-named label?",
+    "answers": ["Identifier"]
+  },
+  {
+    "question": "A programmer wants to create a simple script that can be edited and executed immediately without the need for compiling it into a separate file. Which of the following types of languages should a programmer use to process directly by an interpreter each time it runs?",
+    "answers": ["They run each time without being compiled."]
+  },
+  {
+    "question": "A developer is building a high-performance application that needs to run efficiently on the user’s machine. Which type of language would best support this goal?",
+    "answers": [
+      "One that takes longer to write but results in faster execution"
+    ]
+  },
+  {
+    "question": "A programmer wants to check whether the entered password matches the stored password or not while developing a simple login system. This decision-making process is based on a logic that evaluates two possible outcomes, that is, “true” or “false”. Which of the following types of programming logic should a programmer apply to their decision-making?",
+    "answers": ["Boolean expression"]
+  },
+  {
+    "question": "While developing a patient management system, you need a behavior diagram of a patient as they progress in various stages of their treatment. Which type of unified modeling language (UML) diagram will you use?",
+    "answers": [
+      "A diagram that shows transitions in states, such as waiting, testing, and with the doctor, including events that cause transitions"
+    ]
+  },
+  {
+    "question": "A developer is tasked to create patients in object-oriented analysis and design-based healthcare applications, where the action is to cancel appointments for patients. Which approach does the developer use for representing a patient named Maya in the system?",
+    "answers": [
+      "By instantiating the patient class to create an object representing Maya with her specific details and capabilities."
+    ]
+  },
+  {
+    "question": "A company wants to ensure that external threats, such as malware or hackers, cannot directly access the internal network in the production environment. Which componentis most suitable to the requirement?",
+    "answers": ["Firewall"]
+  },
+  {
+    "question": "The US Bureau of Labor Statistics predicts approximately what percent growth for software developers, analysts, and tests from 2020-2030?",
+    "answers": ["22%"]
+  },
+  {
+    "question": "Priya noticed a performance issue in the application after its deployment. Which technical skill will help her resolve this issue?",
+    "answers": ["Monitoring and troubleshooting"]
+  },
+  {
+    "question": "During a team meeting, Alan, a senior software engineer, asked to create a collaborative environment for team growth. Which responsibility would best fit his position?",
+    "answers": ["Mentors other software engineers."]
+  },
+  {
+    "question": "A software developer wants to break down the technical requirements into structured components before starting actual coding to define interactivity and system boundaries. Which part of the software development lifecycle (SDLC) helps software developers?",
+    "answers": ["Design"]
+  },
+  {
+    "question": "Before starting a new project, a project manager conducts a meeting to ensure all the departments, including sales, customer support, and IT, are involved in defining the project scope. This statement caters to which requirement-gathering step?",
+    "answers": ["Identifying requirements"]
+  },
+  {
+    "question": "A software company is about to release its new application to customers. The final version of the software will be hosted on a server where all users can access it. Which environment will the company use for this deployment?",
+    "answers": ["Production"]
+  },
+  {
+    "question": "Roman wants to track the number of steps a user takes daily, which may vary throughout the day. What should Roman use to store the step count in his application?",
+    "answers": ["Variable"]
+  },
+  {
+    "question": "What should the developer use to implement functionality, such as creating a block of code that calculates the tax amount flexibly without repeating code?",
+    "answers": ["Function"]
+  },
+  {
+    "question": "What is the purpose of using the LIMIT clause in a SQL query?",
+    "answers": ["To restrict the number of rows returned by a query"]
+  },
+  {
+    "question": "Which one of the following statements about HQL is true?",
+    "answers": ["HQL queries are written using Java entity names"]
+  },
+  {
+    "question": "What does the following Cypher query do in Neo4j? MATCH (a:User {name: \"Alice\"})-[:FOLLOWS]->(b:User) RETURN b.name",
+    "answers": ["It retrieves the names of all users followed by Alice"]
+  },
+  {
+    "question": "What is the purpose of the '@GeneratedValue(strategy = GenerationType.IDENTITY)' annotation in a JPA entity?",
+    "answers": [
+      "To specify that the primary key should be generated automatically by the database"
+    ]
+  },
+  {
+    "question": "You have identified a suspicious download while browsing a website. How does AI help in protecting against such a threat?",
+    "answers": [
+      "Identifying and preventing potentially malicious content from reaching you."
+    ]
+  },
+  {
+    "question": "Jessica is using an AI tool to auto-generate backend code for form submission but skips manual input validation. What type of vulnerability is most likely introduced in this scenario?",
+    "answers": [
+      "SQL injection, cross-site scripting (XSS), or similar injection attacks"
+    ]
+  },
+  {
+    "question": "A security analyst wants to prevent advanced cyberthreats in their enterprise system by evaluating AI-powered tools. How does Symantec Endpoint Security in AI-driven cybersecurity help in this scenario?",
+    "answers": ["Exploiting machine learning and preventing malware"]
+  },
+  {
+    "question": "Maya is working on a refactoring project, where she took help from an AI tool. The AI tool suggested using Singleton and Factory patterns across modules to complete her task. How can an AI tool assist Maya in this scenario?",
+    "answers": ["Recommending reusable designs"]
+  },
+  {
+    "question": "A security engineer is using the generative pre-trained transformer (GPT) powered tool to analyze HTTP traffic for potential threats. Which tool should a security engineer leverage for requests and responses for detecting vulnerabilities?",
+    "answers": ["BurpGPT"]
+  },
+  {
+    "question": "What is one concern associated with generative AI models in software development?",
+    "answers": ["The potential for spreading false information"]
+  },
+  {
+    "question": "During a code review session, the team used static analysis. What does static analysis enable AI-powered tools to do?",
+    "answers": ["Detect issues without code execution"]
+  },
+  {
+    "question": "Tia wants to optimize her static website for more visibility and online performance. Which feature should she leverage to complete her task?",
+    "answers": ["Additional SEO measures"]
+  },
+  {
+    "question": "You are aiming to generate highly realistic faces by using two neural networks that compete against each other to improve the quality and realism of the generated content. Which generative AI model should you leverage to complete this task?",
+    "answers": ["Generative adversarial networks (GANs)"]
+  },
+  {
+    "question": "While reviewing a code for a website, you noticed a comment on the website that should be hidden from the public users. Which of the following codes will you use to hide that comment?",
+    "answers": ["<!-- This is a comment -->"]
+  },
+  {
+    "question": "Your team is building a web application that must run smoothly on desktops, tablets, and smartphones without separate versions. Which HTML5 feature best supports this requirement?",
+    "answers": ["Support multi-platform development"]
+  },
+  {
+    "question": "Which of the following methods will you use for listing the script elements embedded in the HTML for debugging purposes?",
+    "answers": ["document.scripts"]
+  },
+  {
+    "question": "In a web form, you are asking users to enter their age, limited to 5 to 25 years only. Which HTML5 attributes has the developer used to limit the age field?",
+    "answers": ["number"]
+  },
+  {
+    "question": "A startup is considering using Bootstrap for its new e-commerce platform. What limitations should they be aware of when adopting this component framework?",
+    "answers": ["The pre-built elements may limit design customization."]
+  },
+  {
+    "question": "Your team is developing a content management system and needs to access a specific content area using DOM manipulation. Which DOM method would you use to select the div element with id=“content_area”?",
+    "answers": ["document.getElementById(“content_area”)"]
+  },
+  {
+    "question": "Which of the following correctly describes an anonymous function in JavaScript?",
+    "answers": [
+      "A function without a name, often assigned to a variable or passed as an argument"
+    ]
+  },
+  {
+    "question": "Which type of node are you referring to while examining a DOM tree in Chrome DevTools for node with integer value 3?",
+    "answers": ["Text"]
+  },
+  {
+    "question": "What is the main purpose of the map() array method in JavaScript?",
+    "answers": [
+      "To create a new array by transforming each element using a provided function"
+    ]
+  },
+  {
+    "question": "Which keyword would you use to declare a variable that cannot be reassigned after its initial value is set?",
+    "answers": ["const"]
+  },
+  {
+    "question": "As companies continue to adopt emerging technologies, some shifts have significantly influenced the job market in tech. What recent technological trend has most contributed to the increased demand for software engineers?",
+    "answers": ["Rise of cloud-based infrastructure and services"]
+  },
+  {
+    "question": "A recent graduate student is preparing for a software engineering position. Which of the following technical tools or skills should they acquire broadly to apply for this position?",
+    "answers": ["JavaScript, Java, Python, C#, C++"]
+  },
+  {
+    "question": "Megan is working on a personal project to add it to her portfolio before applying for junior data analyst roles. What would be a good approach for Megan to showcase it to potential employers?",
+    "answers": [
+      "Host the project on GitHub so others can easily view your work."
+    ]
+  },
+  {
+    "question": "Paul is applying for an entry-level software developer role with limited relevant work experience. What should be his approach for adding hobbies and interests to his resume?",
+    "answers": [
+      "Only if you have limited experience or skills relevant to the job."
+    ]
+  },
+  {
+    "question": "You’re transitioning to a new industry and reviewing job postings. Which of the following is a primary correct statement about the qualifications listed that might help guide your application decisions?",
+    "answers": [
+      "The qualifications may include both technical and interpersonal skills."
+    ]
+  },
+  {
+    "question": "Jared is preparing for his upcoming job interview and wants to build confidence. His mentor suggests doing a mock interview. What does his mentor mean by a mock interview?",
+    "answers": [
+      "A simulated interview that helps Jared to rehearse real questions."
+    ]
+  },
+  {
+    "question": "Jacky is preparing for the interview for both startup and large tech companies. What should she keep in mind while reviewing the interview process?",
+    "answers": [
+      "Interview processes can vary depending on factors such as the type of position and the size of the company."
+    ]
   }
 ]
