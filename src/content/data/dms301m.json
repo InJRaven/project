@@ -2974,5 +2974,89 @@
   {
     "question": "Which approach best ensures precise visual output when using generative AI for image creation?",
     "answers": ["Use specific, detailed textual instructions"]
+  },
+  {
+    "question": "Which task can ChatGPT perform as part of its code generation capabilities?",
+    "answers": ["Generate Python code and guide how to execute it"]
+  },
+  {
+    "question": "Fatima wants to record her presentation using a natural-sounding AI voice that reflects different emotions and languages. Which tool should she try?",
+    "answers": ["LOVO"]
+  },
+  {
+    "question": "According to McKinsey, what is one projected impact of generative AI on work activities?",
+    "answers": ["Automate up to 50% of current tasks by 2060"]
+  },
+  {
+    "question": "John is developing a personal portfolio website and needs help creating the code structure. Which generative AI tool would be most useful for generating web page code?",
+    "answers": ["IBM Watson Code"]
+  },
+  {
+    "question": "What is a known limitation of ChatGPT when used for coding?",
+    "answers": ["Generating complex programs from scratch"]
+  },
+  {
+    "question": "What is the full range of content types that generative AI can produce?",
+    "answers": ["Text, images, audio, video, code, data, and virtual worlds"]
+  },
+  {
+    "question": "Which prompt best demonstrates effective prompt engineering for generating creative marketing ideas?",
+    "answers": [
+      "Develop three innovative digital marketing ideas for an eco-friendly fragrance, considering audience engagement, product features, and optimal advertising channels."
+    ]
+  },
+  {
+    "question": "How does incorporating the persona pattern dimension enhance prompt effectiveness? Select the best option.",
+    "answers": [
+      "By introducing a sense of character-driven context and perspective"
+    ]
+  },
+  {
+    "question": "A corporate trainer is explaining prompt engineering to a group of employees. To help them understand better, he emphasizes the importance of adding examples to prompts. Why is this beneficial when crafting a prompt for generative AI?",
+    "answers": [
+      "It helps the AI better interpret the prompt’s intent and produce relevant results."
+    ]
+  },
+  {
+    "question": "You are prompting an AI to solve logic puzzles. Which method helps the AI break down reasoning into steps?",
+    "answers": ["Chain-of-Thought prompting with example answers"]
+  },
+  {
+    "question": "What defines an effective prompt in generative AI usage?",
+    "answers": ["Clarity in objective and specificity"]
+  },
+  {
+    "question": "Where can users interactively test and refine prompts using GPT models online?",
+    "answers": ["OpenAI Playground"]
+  },
+  {
+    "question": "When is chain-of-thought prompting especially useful in AI task performance?",
+    "answers": ["When the task involves multi-step reasoning or deduction"]
+  },
+  {
+    "question": "Compared to chain-of-thought, tree-of-thought prompting enables:",
+    "answers": ["Simultaneous evaluation of several reasoning paths"]
+  },
+  {
+    "question": "Which of the following would most likely involve multimodal prompting?",
+    "answers": ["Analyzing a caption for a photograph"]
+  },
+  {
+    "question": "You want a generative AI tool to create product descriptions for an e-commerce site. Which prompt is likely to perform best?",
+    "answers": [
+      "“Generate a 50-word product description highlighting the main features and benefits of our new eco-friendly travel bag for outdoor enthusiasts.”"
+    ]
+  },
+  {
+    "question": "In the context of IBM watsonx.ai’s Prompt Lab, which feature helps users create prompts tailored to their specific needs by providing examples for various tasks like summarization and classification?",
+    "answers": ["Sample prompts for different use cases"]
+  },
+  {
+    "question": "The interview pattern is especially useful because it:",
+    "answers": ["Mimics a conversational flow to improve depth and relevance"]
+  },
+  {
+    "question": "The analytics tool Tableau is easy to use and can handle a great deal of data. Many may say that it is their “go-to” tool which can handle most of their visualization needs. Based on this statement, which quadrant of the data visualization tool market chart would Tableau be found?",
+    "answers": ["Upper right"]
   }
 ]
