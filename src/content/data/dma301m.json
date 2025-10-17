@@ -1,0 +1,2543 @@
+[
+  {
+    "question": "As a marketer, you plan to raise brand awareness as part of your social media strategy. What is this goal an example of?",
+    "answers": ["A marketing goal"]
+  },
+  {
+    "question": "Which of the following describes the relationship between a key performance indicator (KPI), a marketing goal, and a business goal?",
+    "answers": [
+      "A KPI is a measurement used to gauge how successful a business is in its effort to reach a business or marketing goal."
+    ]
+  },
+  {
+    "question": "A marketer measures a campaign’s performance for a company that aims to grow its revenue. They use the formula (number of units sold x cost per unit) / ad spend. What did they determine?",
+    "answers": ["Return on ad spend (ROAS)"]
+  },
+  {
+    "question": "When creating a media plan, you should consider the key performance indicators (KPIs). Why is this important?",
+    "answers": [
+      "It measures how well you are reaching the targeted performance goals."
+    ]
+  },
+  {
+    "question": "Consider the following scenario: Imagine that a marketer is working on a digital ad campaign for a single product. They learn that it costs $200 USD in advertising to sell 8 units of a $75 USD product. They apply the formula to calculate return on ad spend (ROAS). What is this marketer’s ROAS?",
+    "answers": ["(8 x 75) / 200 = 3"]
+  },
+  {
+    "question": "After completing an online test, a marketer deploys the better performing of two direct response ads. What type of testing strategy did the marketer use?",
+    "answers": ["A/B test"]
+  },
+  {
+    "question": "What is the difference between a micro conversion and a macro conversion?",
+    "answers": [
+      "A macro conversion is typically a completed purchase transaction. A micro conversion is a completed response that indicates a customer is moving towards a macro conversion."
+    ]
+  },
+  {
+    "question": "Big data plays a role in _____, which uses historical data to predict what might happen.",
+    "answers": ["predictive analytics"]
+  },
+  {
+    "question": "A marketer identifies the average CPA based on comparative data from historical campaigns. What does this enable them to do?",
+    "answers": ["Set the cost per acquisition (CPA) performance goal"]
+  },
+  {
+    "question": "A business decides to create a digital media plan. As part of the process, they clarify what the campaign should achieve and align this with higher-level marketing and business objectives. What media planning step does this describe?",
+    "answers": ["Define the campaign goals."]
+  },
+  {
+    "question": "A marketer uses Google Analytics to monitor campaign metrics. When setting up, certain events are automatically enabled to collect information. What information does the events feature collect?",
+    "answers": [
+      "Basic user properties, actions a user takes, and session information"
+    ]
+  },
+  {
+    "question": "When monitoring a website in Google Analytics, a marketer collects information on user behavior. Which of the following are considered advanced metrics they can track?",
+    "answers": ["View search results (when a user performs a search on a site)"]
+  },
+  {
+    "question": "Imagine that a marketer wants to use Google Analytics to monitor brand awareness. First, they confirm that the share event is enabled. Next, they add tags to URLs that can be shared and configure dimensions for these tags. Finally, they confirm that the page_view event is enabled. Which tags do they add to URLs? Select all that apply.",
+    "answers": ["utm_campaign tag", "utm_source tag", "utm_medium tag"]
+  },
+  {
+    "question": "In the Google Analytics Explorations feature, which Template gallery technique shows how user segments relate to each other?",
+    "answers": ["Segment overlap"]
+  },
+  {
+    "question": "In Google Ads, what is the impressions metric?",
+    "answers": [
+      "The number of times potential customers saw the ads in a campaign."
+    ]
+  },
+  {
+    "question": "In Google Ads, a marketer sets up a campaign and implements multiple ads that target a shared set of keywords. What does this best describe?",
+    "answers": ["An ad group"]
+  },
+  {
+    "question": "A marketer links a Google Ads account to Google Analytics. What does this enable them to do?",
+    "answers": ["Have a complete view of the marketing funnel in one place"]
+  },
+  {
+    "question": "Fill in the blank: An ads preferred attribution model attributes 100% of a conversion to _____.",
+    "answers": ["the first Google Ads channel that a customer engaged with"]
+  },
+  {
+    "question": "Imagine that a marketer wants to analyze the data from Google Ads and Google Analytics in a spreadsheet. How can they do that?",
+    "answers": ["Export data from Google Ads and Google Analytics."]
+  },
+  {
+    "question": "Consider the following scenario: Imagine that a marketer needs to monitor a website’s performance with analytics tools. The website’s tags are implemented using JavaScript code and the company works exclusively with Google tools. Which method of tagging is specifically designed to be used with all Google products and services?",
+    "answers": ["Google’s global site tag"]
+  },
+  {
+    "question": "What can digital marketers measure by using customer lifetime value?",
+    "answers": ["Return on investment (ROI)"]
+  },
+  {
+    "question": "A digital marketer calculates the revenue generated divided by the amount spent on advertising. What does this calculation determine?",
+    "answers": ["Return on ad spend (ROAS)"]
+  },
+  {
+    "question": "Fill in the blank: When preparing for _____, it is helpful to document past performance and desired improvement.",
+    "answers": ["A/B tests"]
+  },
+  {
+    "question": "Fill in the blank: A software tool that helps personalize web pages with machine learning conducts _____.",
+    "answers": ["continuous A/B testing"]
+  },
+  {
+    "question": "Which is a positive outcome of conducting A/B tests?",
+    "answers": [
+      "Improved customer experiences through redesigned web pages that have been tested"
+    ]
+  },
+  {
+    "question": "A digital marketer compares two ad variations to test changes to a holiday ad. What can you test with ad variations?",
+    "answers": ["Changes to ads, like a URL, headline, or a call to action"]
+  },
+  {
+    "question": "A digital marketer changes the call to action on an ad and plans to run an ad variation test to compare the two versions. How would they create this test?",
+    "answers": [
+      "Navigate to the Campaigns page in Google Ads, select All campaigns, and then click on Experiments in the navigation panel."
+    ]
+  },
+  {
+    "question": "A digital marketer views the results of an A/B test in a table. The table contains clicks and impressions as either a positive or negative percentage. What do these metrics indicate?",
+    "answers": [
+      "The amount of change there was between the two variations tested"
+    ]
+  },
+  {
+    "question": "At the end of a campaign, you evaluate whether or not the campaign was successful. What key factor indicates a successful marketing campaign?",
+    "answers": [
+      "A successful campaign achieves the performance goals that were set"
+    ]
+  },
+  {
+    "question": "A company aims to increase the number of leads and improve online sales by doubling the average order value. What are these examples of?",
+    "answers": ["Marketing success indicators"]
+  },
+  {
+    "question": "A marketer shares campaign insights with a director because the director funds the campaign and plans to make decisions based on its results. What is likely the director’s role in the campaign?",
+    "answers": ["Stakeholder"]
+  },
+  {
+    "question": "A marketer determines what type of interaction each stakeholder requires from them during a campaign. What visual assistance helps them gather this information?",
+    "answers": ["Stakeholder map"]
+  },
+  {
+    "question": "A marketer is working with a spreadsheet. What can they do to display only data that meets a certain condition and hide all non-matching data?",
+    "answers": ["Filter the data in a column"]
+  },
+  {
+    "question": "What feature can a marketer use to hide data in a pivot table?",
+    "answers": ["Filter"]
+  },
+  {
+    "question": "A marketer uses a graph to show how a metric changes over an extended period. The chart displays a connected series of data points. What type of chart did the marketer create?",
+    "answers": ["Line chart"]
+  },
+  {
+    "question": "When would you use a horizontal bar chart instead of a vertical column chart?",
+    "answers": ["To compare measurements with a significant difference"]
+  },
+  {
+    "question": "Which of the following tasks would a marketing coordinator be responsible for? Select all that apply.",
+    "answers": [
+      "Identifying target audiences through research",
+      "Running campaigns",
+      "Evaluating trends"
+    ]
+  },
+  {
+    "question": "Which of the following would enable a data analyst to communicate with databases developed by different vendors and hosted on multiple platforms?",
+    "answers": ["Structured query language"]
+  },
+  {
+    "question": "Why would a marketer create a data dashboard?",
+    "answers": [
+      "To track, analyze, and display KPIs, metrics, and real-time data in a centralized view"
+    ]
+  },
+  {
+    "question": "Which of the following is a best practice when creating slides for a presentation?",
+    "answers": ["Progress from general to specific topics"]
+  },
+  {
+    "question": "Imagine that a marketer is developing a specific campaign in a media plan and they set a target with a measurable, numeric value. What does this describe?",
+    "answers": ["A performance goal"]
+  },
+  {
+    "question": "Which of the following describes the relationship between a marketing goal and a business goal?",
+    "answers": ["A marketing goal supports a business goal."]
+  },
+  {
+    "question": "As a marketer, you are working on a digital ad campaign for a new product. You learn that advertising costs $200 to sell 10 units of a $115 product. How would you calculate the campaign’s return on ad spend (ROAS)?",
+    "answers": ["(10 x 115) / 200 = 5.75"]
+  },
+  {
+    "question": "A marketer uses detailed data to gain insights and quickly respond to events. Which big data trend allows them to do this?",
+    "answers": ["Real-time analytics"]
+  },
+  {
+    "question": "Which of the following can you use to set your cost per acquisition (CPA) performance goal? Select all that apply.",
+    "answers": [
+      "The average CPA based on comparative data from historical campaigns",
+      "The industry-average CPA value from a relevant industry"
+    ]
+  },
+  {
+    "question": "When creating a media plan, why should you identify the media mix?",
+    "answers": [
+      "It enables the right content selection on an allocated budget for any media channel."
+    ]
+  },
+  {
+    "question": "Fill in the blank: When a Google Analytics 4 property is initially set up for a website or app, certain _____ are automatically enabled to collect information.",
+    "answers": ["events"]
+  },
+  {
+    "question": "When monitoring a website in Google Analytics, you access information such as when a user first visits and engages with the website. Why did you gain access to user information before enabling any events?",
+    "answers": [
+      "Some events are automatically enabled, such as first visit and session start"
+    ]
+  },
+  {
+    "question": "Consider the following URL: www.example.com/utm_source=facebook&utm_campaign=winter-sale What do the UTM tags in the URL enable you to do?",
+    "answers": [
+      "Monitor users who click the link to the Winter Sale campaign page from Facebook"
+    ]
+  },
+  {
+    "question": "In the Google Analytics Explorations feature, which Template gallery technique shows the data for users that have been organized into groupings by their common attributes?",
+    "answers": ["Cohort exploration"]
+  },
+  {
+    "question": "In Google Ads, what is the conversion value per cost metric?",
+    "answers": ["The estimated return on investment"]
+  },
+  {
+    "question": "In Google Ads, what does an ad group contain?",
+    "answers": ["One or more ads that target a shared set of keywords"]
+  },
+  {
+    "question": "A marketer links a Google Ads account to Google Analytics. They learn which audience to spend more budget on in future campaigns. How does linking the accounts enable this insight?",
+    "answers": [
+      "It combines the conversion data from Google Ads with the audience demographics in Google Analytics."
+    ]
+  },
+  {
+    "question": "A marketer uses an attribution model that attributes 100% of a conversion to the last channel that a customer clicked through. Which model does this describe?",
+    "answers": ["Cross-channel last click"]
+  },
+  {
+    "question": "A marketer uses Google Tag Manager for universal tagging. Why would they choose this tag?",
+    "answers": [
+      "It enables the use and management of one tag for multiple advertising platforms and systems in a simple and centralized way."
+    ]
+  },
+  {
+    "question": "A marketer measures the ratio of money made to money spent for a campaign. Which calculation for the campaign’s return on investment will help them determine this?",
+    "answers": ["(sales growth - marketing cost) / marketing cost"]
+  },
+  {
+    "question": "What determines ROAS targets in a marketing campaign? Select all that apply.",
+    "answers": ["Marketing goals", "Performance goals"]
+  },
+  {
+    "question": "Which of the following is true about A/B tests? Select all that apply.",
+    "answers": [
+      "An A/B test identifies which version is more effective using a sample population tested during a short period of time.",
+      "An A/B test is an online experiment with two variants and a random 50% split of users between the variants."
+    ]
+  },
+  {
+    "question": "What can software tools test for when conducting an A/B test? Select all that apply.",
+    "answers": [
+      "Pages with the best performance",
+      "Touch points in the customer journey",
+      "Email messages and landing pages"
+    ]
+  },
+  {
+    "question": "Consider the following scenario: A company is considering changing their headline. They want to test how changing the headline from “Act now while supplies last” to “Huge savings, limited offer” will impact sales. What type of test should they run?",
+    "answers": ["An ad variation"]
+  },
+  {
+    "question": "A digital marketer changes an ad headline and sets up a test to determine which headline performs better. They go to the Campaigns page, select All campaigns, and then click on Experiments in the navigation panel. Next, they create a new headline. What did they set up?",
+    "answers": ["An ad variation - A type of A/B test in Google Ads"]
+  },
+  {
+    "question": "When reviewing the results of an A/B test, you notice many metrics appear with blue stars. What should you consider at this stage?",
+    "answers": ["Making the new variation a permanent ad change"]
+  },
+  {
+    "question": "Fill in the blank: The insights you use to evaluate the success of a campaign depend on the _____ and what the campaign was trying to address.",
+    "answers": ["marketing goals"]
+  },
+  {
+    "question": "Which of the following might be reasons to create a stakeholder map? Select all that apply.",
+    "answers": [
+      "To allow for people to better manage stakeholders’ expectations and avoid information overload",
+      "To make it easier to identify the type and amount of interaction needed to maintain each stakeholder",
+      "To help people work effectively without having the process consume too much of their time or energy"
+    ]
+  },
+  {
+    "question": "What spreadsheet feature does a marketer use to display data that match particular criteria?",
+    "answers": ["Filter"]
+  },
+  {
+    "question": "What is the purpose of a pivot table?",
+    "answers": [
+      "Pivot tables change the view of data in a spreadsheet to a different perspective to categorize it, or to identify an insight or trend."
+    ]
+  },
+  {
+    "question": "A marketer uses a chart to compare two variables side-by-side. The chart displays each variable as a bar. What type of chart did the marketer create?",
+    "answers": ["Vertical column chart"]
+  },
+  {
+    "question": "Which of the following is an example of a way a pie chart can be used to represent data?",
+    "answers": [
+      "Represent percentages of data in sections, all adding up to one hundred percent"
+    ]
+  },
+  {
+    "question": "An e-commerce business hires someone to organize its marketing activities and initiatives. Who is typically responsible for these tasks?",
+    "answers": ["A marketing coordinator"]
+  },
+  {
+    "question": "An e-commerce business hires someone to collect and analyze data as well as create visualizations. What role does this describe?",
+    "answers": ["Data analyst"]
+  },
+  {
+    "question": "A data analyst uses visual analytics software to analyze data and create unique dashboards and visualizations. What software does this refer to?",
+    "answers": ["Tableau"]
+  },
+  {
+    "question": "A marketer is creating a presentation using marketing analytics data: How can they use data to lead their audience to agree with their final conclusion? Select all that apply.",
+    "answers": [
+      "Develop a clear outline or flow for their presentation",
+      "Include the most relevant metrics that led to their insights"
+    ]
+  },
+  {
+    "question": "What is the term for any communication method or platform a business can use to reach its target audience online?",
+    "answers": ["Digital channel"]
+  },
+  {
+    "question": "A business owner wants to find new consumers for their clothing store. They plan to use social media to turn them into customers. What is this practice known as?",
+    "answers": ["Digital marketing"]
+  },
+  {
+    "question": "Digital channels like email and social media allow businesses to personalize their communication. What advantage of digital marketing does this refer to?",
+    "answers": [
+      "You can build relationships with customers through direct communication."
+    ]
+  },
+  {
+    "question": "Which of the following typically applies to marketing careers?",
+    "answers": [
+      "It is helpful to specialize in a marketing role that aligns with your strengths such as writing, visual design, or data analysis."
+    ]
+  },
+  {
+    "question": "As a digital marketer or e-commerce analyst, you often collect and organize information to identify patterns, uncover trends, and solve problems. Which skill does this refer to?",
+    "answers": ["Analytical thinking"]
+  },
+  {
+    "question": "As you consider your skills and interests in marketing, which of the following should you do? Select all that apply.",
+    "answers": [
+      "Make a note of skills that come up frequently",
+      "Learn industry terminology"
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of working as an in-house marketing employee? Select all that apply.",
+    "answers": [
+      "Get to know one company and its products",
+      "Gain knowledge and expertise in a specific industry",
+      "Likely have a clear path to promotion"
+    ]
+  },
+  {
+    "question": "You would like to work on different projects and develop a broad set of skills in your next role. Which of the following should you consider?",
+    "answers": ["An agency role"]
+  },
+  {
+    "question": "There are a variety of roles and responsibilities in digital marketing. Which of the following are typical entry-level roles? Select all that apply.",
+    "answers": [
+      "Digital marketing coordinator",
+      "Email marketing specialist",
+      "Marketing associate"
+    ]
+  },
+  {
+    "question": "As a new associate, you may be asked to check that customer interactions align with business objectives, and ensure that email ads generate the desired results on a website. Who typically fills this role?",
+    "answers": ["E-commerce analyst"]
+  },
+  {
+    "question": "Consider the following scenario about digital marketing: A pet store creates an online presence. The owner posts video ads on social media of products and discounts. The ads don't attract new customers. How can digital marketing help the pet store succeed?",
+    "answers": [
+      "By reaching potential customers and engaging with them effectively"
+    ]
+  },
+  {
+    "question": "How can a digital marketing strategy build customer trust and loyalty in a brand?",
+    "answers": [
+      "It provides value through digital channels before, during, and after a purchase"
+    ]
+  },
+  {
+    "question": "Consider the following scenario: A customer makes an online purchase. First, they discover the product. Then, they find answers to their questions, decide to make the purchase, and recommend the product to others. What is the path called that the customer takes from finding the product to recommending it?",
+    "answers": ["The customer journey"]
+  },
+  {
+    "question": "What does a customer journey map help marketers do?",
+    "answers": ["Create user-friendly experiences"]
+  },
+  {
+    "question": "What is a visual representation of the process through which people go from first learning about a brand to becoming loyal customers?",
+    "answers": ["A marketing funnel"]
+  },
+  {
+    "question": "When potential customers first learn about a brand, they enter the top of the marketing funnel. What is this stage called?",
+    "answers": ["Awareness"]
+  },
+  {
+    "question": "Which outcomes take place at the top of the marketing funnel? Select two answers.",
+    "answers": ["Customer engagement", "Awareness"]
+  },
+  {
+    "question": "Why do marketers track impressions, reach, and frequency at the top of the marketing funnel?",
+    "answers": ["It shows them how effective their ads are."]
+  },
+  {
+    "question": "How can digital marketers create a positive post-purchase experience and encourage customer loyalty?",
+    "answers": ["Invite them to join a rewards program"]
+  },
+  {
+    "question": "What funnel measurement helps companies better manage customer relationships and provides insight into how well the entire marketing funnel serves customers?",
+    "answers": ["Loyalty"]
+  },
+  {
+    "question": "Which term describes how much more customers are willing to pay for a name brand than a store brand?",
+    "answers": ["Brand equity"]
+  },
+  {
+    "question": "Why is it important to know about brands and their values?",
+    "answers": ["It guides marketing and sales efforts."]
+  },
+  {
+    "question": "When setting a digital marketing strategy, what should you do before picking your channels?",
+    "answers": ["Learn about your customers and set a budget"]
+  },
+  {
+    "question": "What is a marketing goal?",
+    "answers": [
+      "A small, targeted objective that is specific to marketing activities"
+    ]
+  },
+  {
+    "question": "A company that makes a software product wants to grow their customer base. Which of the following is a specific business goal for this company?",
+    "answers": [
+      "We want to increase our number of active customers by 25% over the next year. To do that, we will add three new features that make it easier for customers to access files on the cloud."
+    ]
+  },
+  {
+    "question": "Digital channels fit into three main categories. What are these categories?",
+    "answers": ["Paid, owned, and earned media"]
+  },
+  {
+    "question": "Which of the following applies to SEO? Select all that apply.",
+    "answers": [
+      "Quality content is useful because it helps customers and tends to rank better in SERPs.",
+      "Find the keywords that are most relevant for your audience and products and make sure they're part of your content."
+    ]
+  },
+  {
+    "question": "Why is social media marketing important?",
+    "answers": [
+      "It drives engagement and promotes a brand on social media channels."
+    ]
+  },
+  {
+    "question": "What do you call unwanted emails sent to a mass recipient list?",
+    "answers": ["Spam"]
+  },
+  {
+    "question": "What can businesses do to personalize their emails to customers? Select all that apply.",
+    "answers": [
+      "Send promotions for special events like birthdays and holidays",
+      "Follow up on previous interactions"
+    ]
+  },
+  {
+    "question": "To support an email marketing strategy, a business decides to personalize the email content they share with their list of subscribers. Which of the following strategies should they use? Select all that apply.",
+    "answers": [
+      "Send promotions for special events",
+      "Send messages that match where customers are in the marketing funnel",
+      "Address each recipient directly",
+      "Follow up on previous interactions"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Information about a company’s total number of social media followers is an example of _____.",
+    "answers": ["data"]
+  },
+  {
+    "question": "What is performance marketing?",
+    "answers": [
+      "Using concrete information about customer behaviors to plan and refine marketing and sales strategies."
+    ]
+  },
+  {
+    "question": "A marketer for a company organizes and summarizes data to track performance across marketing and sales efforts. What is this process called?",
+    "answers": ["Data reporting"]
+  },
+  {
+    "question": "What can performance marketing help a business do? Select all that apply.",
+    "answers": [
+      "Determine if specific marketing goals have been achieved",
+      "Refine marketing and sales strategies"
+    ]
+  },
+  {
+    "question": "What is attribution?",
+    "answers": [
+      "Determining which content and channels generate leads, conversions, or sign-ups"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ measures customer engagement with marketing content across channels to understand what is motivating customers to take action.",
+    "answers": ["Data-driven attribution"]
+  },
+  {
+    "question": "Which of the following statements is true about data storytelling?",
+    "answers": [
+      "Everyone brings their own perspectives, experiences, and biases to data storytelling"
+    ]
+  },
+  {
+    "question": "Data, a compelling narrative, and clear visualizations work together to engage audiences by explaining insights. What does this refer to?",
+    "answers": ["The three main components of a data story"]
+  },
+  {
+    "question": "What are the three characteristics of a well-structured narrative? Select all that apply.",
+    "answers": ["Persuasive", "Engaging", "Memorable"]
+  },
+  {
+    "question": "What are data visualizations?",
+    "answers": ["A graphic representation of data that conveys information"]
+  },
+  {
+    "question": "Fill in the blank: _____ is the buying and selling of goods and services online.",
+    "answers": ["E-commerce"]
+  },
+  {
+    "question": "Digital marketing enables potential customers to act the moment they experience the ad, such as when a customer clicks on a digital ad to purchase a product. Which advantage of digital marketing does this represent?",
+    "answers": ["Get faster results"]
+  },
+  {
+    "question": "What contains your samples of past work and demonstrates relevant work experience?",
+    "answers": ["Portfolio"]
+  },
+  {
+    "question": "Which role allows you to work for a single company to market and sell their products?",
+    "answers": ["In-house"]
+  },
+  {
+    "question": "Which role allows you to partner with companies to fill their digital marketing and advertising needs?",
+    "answers": ["In-house"]
+  },
+  {
+    "question": "What are typically associate-level roles in digital marketing? Select all that apply.",
+    "answers": [
+      "Search engine optimization (SEO) specialist",
+      "Search engine marketing (SEM) specialist",
+      "Social media specialist"
+    ]
+  },
+  {
+    "question": "What are typical job responsibilities for an e-commerce analyst? Select all that apply.",
+    "answers": [
+      "Use SEO to maximize traffic to the website",
+      "Analyze data from the website or mobile app",
+      "Execute and monitor loyalty programs"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Digital marketing helps online companies stand out from the competition by _____.",
+    "answers": ["reaching potential customers"]
+  },
+  {
+    "question": "How can a digital marketing strategy get customers to come back for an additional purchase?",
+    "answers": ["By building customer trust"]
+  },
+  {
+    "question": "When customers learn about a product, they might research it, decide to buy it, and later tell other people about it. What is this process called?",
+    "answers": ["The customer journey"]
+  },
+  {
+    "question": "What tool helps digital marketers better understand how customers find a company and learn about a company?",
+    "answers": ["A customer journey map"]
+  },
+  {
+    "question": "What is a marketing funnel?",
+    "answers": [
+      "A visual representation of the process through which people go from first learning about a brand to becoming loyal customers"
+    ]
+  },
+  {
+    "question": "What are the stages of a simple marketing funnel? Select four answers.",
+    "answers": ["Loyalty", "Consideration", "Conversion", "Awareness"]
+  },
+  {
+    "question": "What tactic can businesses use to increase their awareness and reach potential customers?",
+    "answers": [
+      "Improve search engine optimization rankings and results by optimizing website content around specific search terms"
+    ]
+  },
+  {
+    "question": "In the awareness stage, why is it important to measure impressions, reach, and frequency?",
+    "answers": [
+      "Digital marketers can find out how big an impact their ads are having and decide if they need to reevaluate their ad strategy."
+    ]
+  },
+  {
+    "question": "Which of these are conversion tactics? Select all that apply.",
+    "answers": [
+      "Follow-up emails",
+      "A clear returns policy",
+      "A smooth checkout process"
+    ]
+  },
+  {
+    "question": "What do loyalty metrics, such as the number of orders per customer, allow businesses to do?",
+    "answers": [
+      "Determine strategies to keep customers, boost sales, and save money"
+    ]
+  },
+  {
+    "question": "Which of the following best describes a brand?",
+    "answers": ["How a company is perceived by the public"]
+  },
+  {
+    "question": "Which of the following statements best describe how a company’s brand and marketing work together? Select all that apply.",
+    "answers": [
+      "A company’s marketing strategy can help a business build its brand.",
+      "A company’s brand is the foundation for its marketing strategy."
+    ]
+  },
+  {
+    "question": "Which of the following statements refer to marketing goals?",
+    "answers": [
+      "They are specific objectives in a plan or strategy that should support a business's larger aims."
+    ]
+  },
+  {
+    "question": "Which of the following refers to owned media?",
+    "answers": [
+      "It can be persuasive, but it doesn't advertise or sell products directly."
+    ]
+  },
+  {
+    "question": "Fill in the blank: The exposure you get from good _____ can last much longer than paid ads.",
+    "answers": ["Organic reach"]
+  },
+  {
+    "question": "Which of the following describe spam? Select all that apply.",
+    "answers": [
+      "Unwanted emails sent out in bulk to a mass recipient list",
+      "Emails with claims that are too good to be true",
+      "Emails sent to many recipients regardless of their interests"
+    ]
+  },
+  {
+    "question": "Imagine that a business divides their email subscriber list into smaller groups based on specific criteria. What is this process called?",
+    "answers": ["Segmentation"]
+  },
+  {
+    "question": "A business wants to send emails to its customers on their birthdays. They plan to offer a 50% discount on any item. What is this an example of?",
+    "answers": ["Personalization"]
+  },
+  {
+    "question": "Which of the following are examples of data? Select all that apply.",
+    "answers": [
+      "A company’s total number of social media followers",
+      "Year-end sales revenue",
+      "A list of sales that resulted from a touchpoint"
+    ]
+  },
+  {
+    "question": "Imagine that a company wants to successfully launch a new product. Which of the following processes would provide useful information about customer behaviors from measurable outcomes of marketing campaigns that could help the company plan and refine an effective sales strategy?",
+    "answers": ["Performance marketing"]
+  },
+  {
+    "question": "As an entry-level digital marketer, which of the following data analytics tasks might you be responsible for? Select all that apply.",
+    "answers": ["Pulling", "Analysis", "Reporting"]
+  },
+  {
+    "question": "What does attribution help businesses do?",
+    "answers": [
+      "Make informed decisions about where to invest time, budget, and resources"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of attribution models? Select all that apply.",
+    "answers": [
+      "Linear attribution",
+      "Data-driven attribution",
+      "First-click attribution"
+    ]
+  },
+  {
+    "question": "Consider the following scenario: A digital marketing team is analyzing recent sales data. They notice that customers are frequently engaging with a specific ad, but sales are low. They want to convince stakeholders to use a data-driven attribution model to understand why customers are not taking action. What might the digital marketing team do to convince their stakeholders?",
+    "answers": ["Use data storytelling to share insights with stakeholders"]
+  },
+  {
+    "question": "Fill in the blank: The _____ of a data story should engage your audience by explaining what you learned, and how you can use that information to take action.",
+    "answers": ["three main components"]
+  },
+  {
+    "question": "Fill in the blank: Appealing to your audience with a strong _____ can draw attention to your insights and encourage others to take action.",
+    "answers": ["narrative"]
+  },
+  {
+    "question": "A marketer creates interactive content for a brand’s Facebook page. Their goal is to promote a product and increase customer engagement. What marketing process did they follow?",
+    "answers": ["Social media marketing"]
+  },
+  {
+    "question": "Which of the following are benefits of social media marketing? Select all that apply.",
+    "answers": [
+      "Target new customers",
+      "Generate leads",
+      "Increase brand awareness"
+    ]
+  },
+  {
+    "question": "Why is it beneficial for a company to learn about their target audience’s likes, dislikes, and interests through social media?",
+    "answers": [
+      "It can help to inform and tailor a company’s marketing strategy to that audience."
+    ]
+  },
+  {
+    "question": "What will define the primary goals of your social media marketing campaign?",
+    "answers": ["Strategy"]
+  },
+  {
+    "question": "Fill in the blank: _____ can help a company understand what people think about their brand, which can inform their marketing and product-development decisions.",
+    "answers": ["Social listening"]
+  },
+  {
+    "question": "A digital marketer collects data from social media platforms to analyze a campaign's performance. What is typically the next step after they collect and analyze this data?",
+    "answers": ["Share social media reports with stakeholders"]
+  },
+  {
+    "question": "A digital marketer includes earned media in their social media marketing strategy. Where can they gain earned media from?",
+    "answers": [
+      "Customer reviews, testimonials, mentions, and comments on social media"
+    ]
+  },
+  {
+    "question": "Which is the most common form of owned social media?",
+    "answers": ["Websites"]
+  },
+  {
+    "question": "How can paid social media impact owned and earned media?",
+    "answers": [
+      "Paid media helps promote content which increases earned media and directs traffic to owned media."
+    ]
+  },
+  {
+    "question": "Fill in the blank: During the _____, a company can use paid remarketing campaigns to reach people who have already shown interest in the company’s brand.",
+    "answers": ["consideration stage"]
+  },
+  {
+    "question": "Why is setting goals for a social media marketing campaign important? Select all that apply.",
+    "answers": [
+      "Holds a company accountable",
+      "Guides a company’s budget",
+      "Measures a company’s success"
+    ]
+  },
+  {
+    "question": "What is a company trying to identify when they ask these questions: What problems are customers struggling with? What issues do customers have that our products or services could help solve?",
+    "answers": ["Their target audience’s needs"]
+  },
+  {
+    "question": "Why should a marketer consider how different platforms work when choosing a social media platform?",
+    "answers": ["It helps them understand how to communicate on the platform"]
+  },
+  {
+    "question": "Which of the following are examples of entertaining content? Select all that apply.",
+    "answers": ["Contests", "Comics"]
+  },
+  {
+    "question": "Which of the following are examples of educational content? Select all that apply.",
+    "answers": ["Case studies", "How-to posts", "Industry research"]
+  },
+  {
+    "question": "Which of the following are examples of promotional content? Select all that apply.",
+    "answers": ["Free gifts for sign-ups", "Discounts", "Coupons"]
+  },
+  {
+    "question": "Fill in the blank: _____ give social media users an immediate impression of a company’s brand.",
+    "answers": ["Images"]
+  },
+  {
+    "question": "Posting multiple times a day on a chronological feed enables you to do what?",
+    "answers": [
+      "Reach your target audience in different time zones and at various points throughout their day"
+    ]
+  },
+  {
+    "question": "What does a social media calendar enable digital marketers to do?",
+    "answers": ["Manage and organize their social media publishing schedule"]
+  },
+  {
+    "question": "Fill in the blank: When a digital marketer is ready to develop a social media calendar, they first need to identify the _____ they want to post on.",
+    "answers": ["social media platforms"]
+  },
+  {
+    "question": "Which of the following are potential benefits of using social listening to better understand how customers feel about a brand? Select all that apply.",
+    "answers": [
+      "Increased customer acquisition",
+      "Ability to address negative sentiment",
+      "Opportunities to analyze the competition"
+    ]
+  },
+  {
+    "question": "A digital marketer tracks and analyzes conversations related to a brand online. What social listening practice did they use to find these conversations?",
+    "answers": [
+      "Identify the most relevant keywords for the brand and its competitors"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Addressing customers by their first name and responding to comments with humor or warmth are all examples of _____.",
+    "answers": ["social media engagement"]
+  },
+  {
+    "question": "A digital marketer uses social listening to learn more about a brand’s perception online. They notice that people regularly share complaints about their customer service. How can they use this information to gain positive customer engagement on social media?",
+    "answers": [
+      "Respond to customer questions quickly and provide them with resources that help them with their issues"
+    ]
+  },
+  {
+    "question": "A digital marketer aims to make a brand more personable and relatable to its customers on social media. What best practice will help them achieve this goal?",
+    "answers": ["Share images or videos of employees"]
+  },
+  {
+    "question": "A digital marketer notices that their business has gained a large number of new followers on X in the last week. What does this increase likely indicate?",
+    "answers": [
+      "That they post engaging content and have influence in the space"
+    ]
+  },
+  {
+    "question": "Which of the following are characteristics of an effective X bio? Select all that apply.",
+    "answers": [
+      "Describes products and services",
+      "Captures the brand’s personality",
+      "Includes keywords"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Content that is _____ will be relevant over a long period of time.",
+    "answers": ["evergreen"]
+  },
+  {
+    "question": "Which of the following would likely result from having an authentic brand voice? Select all that apply.",
+    "answers": [
+      "Audience gains familiarity with the brand",
+      "Audience feels comfortable engaging online"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a call to action on social media? Select all that apply.",
+    "answers": ["Answer a question", "Subscribe to a newsletter", "Take a quiz"]
+  },
+  {
+    "question": "A marketer launches a campaign for a new product. They decide to gather data for the campaign by observing how people refer to the business. What type of data is this?",
+    "answers": ["Quantitative data"]
+  },
+  {
+    "question": "Imagine that a company launches a social media campaign for their newest product. What process can help them learn how well their audience is receiving the campaign?",
+    "answers": ["Social media analytics"]
+  },
+  {
+    "question": "Imagine that a marketer compiles demographic information about their target audience on social media. They use this information to refine their marketing tactics. What benefit of social media analytics does this describe?",
+    "answers": ["The ability to better understand your audience"]
+  },
+  {
+    "question": "How do social media goals and metrics work together?",
+    "answers": [
+      "Social media goals determine which metrics to focus on and optimize."
+    ]
+  },
+  {
+    "question": "In the awareness stage of the marketing funnel, a business measures the attention they receive across all social media platforms during a reporting period. What metric does this describe?",
+    "answers": ["Brand awareness"]
+  },
+  {
+    "question": "Imagine that a marketer tracks shares and retweets across social media. They spot an emerging trend that their audience is sharing posts about. How should they use this information?",
+    "answers": [
+      "Create real-time marketing content aligned with this emerging trend"
+    ]
+  },
+  {
+    "question": "A marketer uses a tool to visualize and present their social media data. They aim to make it easy to understand by justifying their strategy to colleagues and clients. What do they use to communicate this?",
+    "answers": ["Social media report"]
+  },
+  {
+    "question": "A marketer considers what data and insights will be used in a social media report. What does this help them determine?",
+    "answers": ["How to tailor reports to an audience"]
+  },
+  {
+    "question": "Fill in the blank: An effective social media report provides context, which helps the audience _____.",
+    "answers": [
+      "understand the report and connect to the story the data is telling"
+    ]
+  },
+  {
+    "question": "When you deliver a social media report, you should remember to guide your audience. What does this mean?",
+    "answers": [
+      "Clarify what you’ve noticed about the data, and move between sections by using phrases like \"as I mentioned before\""
+    ]
+  },
+  {
+    "question": "Which of the following refers to paid social media?",
+    "answers": [
+      "Displaying sponsored marketing messages on social media platforms to target an audience"
+    ]
+  },
+  {
+    "question": "What are the benefits of paid social media? Select all that apply.",
+    "answers": [
+      "Increase brand awareness",
+      "Reach audiences quickly",
+      "Target relevant customers"
+    ]
+  },
+  {
+    "question": "What does organic social media enable marketers to do?",
+    "answers": [
+      "Nurture connections with customers through communication and relationship-building"
+    ]
+  },
+  {
+    "question": "As a marketer, you remarket ads to connect with people who are familiar with a company. What does this paid social media tactic enable you to do?",
+    "answers": ["Increase engagement"]
+  },
+  {
+    "question": "What does a digital marketer first need to determine before developing a strategy for a paid social media campaign?",
+    "answers": ["Objective"]
+  },
+  {
+    "question": "If a company is launching their first paid social media campaign, what kind of platform should they use?",
+    "answers": [
+      "What platform does the company have an established audience on"
+    ]
+  },
+  {
+    "question": "As a digital marketer develops a paid social media strategy, they need to consider the budget of their campaign. To help determine the budget, what should they research?",
+    "answers": ["The average advertising cost for each platform"]
+  },
+  {
+    "question": "What are best practices of a remarketing strategy? Select all that apply.",
+    "answers": [
+      "Limit frequency of ads",
+      "Untag visitors who have purchased",
+      "Personalize ads"
+    ]
+  },
+  {
+    "question": "What are the components of a paid social media advertising budget? Select all that apply.",
+    "answers": ["Ad spend", "Content creation", "Tools"]
+  },
+  {
+    "question": "A marketer searches for a bidding strategy to increase conversions and generate value. Which of the following is ideal for these goals?",
+    "answers": ["Cost-per-action (CPA)"]
+  },
+  {
+    "question": "What is typically the goal of sending weekly emails to a subscriber list?",
+    "answers": [
+      "To offer valuable information to customers, encourage them to make purchases, and build an online community"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ are discovered through research or data analysis and can be used to inform an email strategy.",
+    "answers": ["Insights"]
+  },
+  {
+    "question": "Email marketers can expect that for every dollar they spend on email marketing, they will earn 42 dollars. This best describes what concept?",
+    "answers": ["Return on investment (ROI)"]
+  },
+  {
+    "question": "How can a company analyze the strengths, weaknesses, opportunities, and threats that may affect their marketing strategy?",
+    "answers": ["Conduct a SWOT audit"]
+  },
+  {
+    "question": "When setting campaign goals, you ensure that the goals align with the company’s values and overall goals. What element of the SMART framework did you apply when creating your campaign goals?",
+    "answers": ["Goals should be relevant"]
+  },
+  {
+    "question": "A sales-driven e-commerce store with a high volume of monthly orders wants to increase their online sales by 25%. What element should they consider to make this a SMART goal?",
+    "answers": ["Measurable"]
+  },
+  {
+    "question": "Which of the following statements is considered a do when it comes to email marketing? Select all that apply.",
+    "answers": [
+      "Segment email subscriber lists",
+      "Test various formats, lengths, links, and images in emails"
+    ]
+  },
+  {
+    "question": "Which term best describes unsolicited and unwanted email sent out in bulk to a broad recipient list?",
+    "answers": ["Spam"]
+  },
+  {
+    "question": "Why should you segment subscribers in an email marketing list?",
+    "answers": ["It allows you to send tailored emails to specific people."]
+  },
+  {
+    "question": "A digital marketer creates monthly emails with interesting stories their subscribers enjoy reading. What email marketing best practice does the marketer use?",
+    "answers": [
+      "Focus on delivering quality content instead of frequent content"
+    ]
+  },
+  {
+    "question": "Which of the following are examples of content you would likely find in an email for a furniture company’s marketing campaign? Select all that apply.",
+    "answers": [
+      "The subject line “Discount Code For 20% Off Inside!” for a new promotion on desks.",
+      "The headline “For The Remote Worker” along with an image of an office chair and a link to a landing page where customers can purchase the chair."
+    ]
+  },
+  {
+    "question": "A marketer creates an acquisition email. They include a product catalog and a banner offering customers free shipping on their first order. They also include unique and catchy email copy. What additional email best practice will help the marketer create a successful acquisition email?",
+    "answers": ["Add a clear call-to-action such as “Order now”"]
+  },
+  {
+    "question": "Which of the following are effective ways to use a welcome email? Select all that apply.",
+    "answers": [
+      "Encourage customers to buy a product by including a discount code.",
+      "Share external resources, like articles that might be relevant or interesting to customers.",
+      "Thank first time subscribers or customers who have purchased a product.",
+      "Encourage customers who have downloaded an app to use the app for the first time."
+    ]
+  },
+  {
+    "question": "Fill in the blank: A wellness company includes external resources, like articles featuring anxiety-reducing breathing exercises, in a _____.",
+    "answers": ["newsletter"]
+  },
+  {
+    "question": "Which of the following are reasons a company might want to send a promotional email? Select all that apply.",
+    "answers": [
+      "To offer free, downloadable content for a holiday",
+      "To announce the launch of a new product or service",
+      "To celebrate a customer's birthday by offering 10% off their next order"
+    ]
+  },
+  {
+    "question": "Why are follow-up emails an effective tactic to increase customer loyalty?",
+    "answers": ["It makes customers feel heard and appreciated."]
+  },
+  {
+    "question": "Fill in the blank: Sending a special offer to customers who are not engaging with a company’s newsletters is an example of a _____.",
+    "answers": ["retention email"]
+  },
+  {
+    "question": "Promotional emails, retention emails, and newsletters all fall into which marketing funnel stage?",
+    "answers": ["Loyalty"]
+  },
+  {
+    "question": "A digital marketer creates a promotional email that only a few recipients open. What tip will help them write better subject lines that recipients want to open?",
+    "answers": ["Introduce or tease the promotion in the subject line"]
+  },
+  {
+    "question": "Which of the following marketing emails should include a call to action? Select all that apply.",
+    "answers": ["Acquisition email", "Welcome email", "Retention email"]
+  },
+  {
+    "question": "As a digital marketer, you are building a list of recipients for an email marketing campaign. What can you use to build this email list?",
+    "answers": ["Display ads and referrals"]
+  },
+  {
+    "question": "Why would a marketer segment their email marketing lists?",
+    "answers": [
+      "To divide the list into smaller groups based on criteria like interest, location, or purchase history"
+    ]
+  },
+  {
+    "question": "As a digital marketer, you are dividing your email list by psychographic characteristics. Which of the following best represents psychographic characteristics?",
+    "answers": ["Lifestyle, values, hobbies"]
+  },
+  {
+    "question": "You’re writing an email and you consider what you are offering the reader. Where should this information go in your email?",
+    "answers": ["Subject line"]
+  },
+  {
+    "question": "When writing an email, you highlight a product by discussing its benefits instead of its features. What is this an example of?",
+    "answers": ["Email writing best practices"]
+  },
+  {
+    "question": "Which of the following are benefits of email marketing automation? Select all that apply.",
+    "answers": [
+      "Allows more focus to complete other tasks",
+      "Makes the email marketing process simpler and smoother",
+      "Ensures the campaign stays organized and on track"
+    ]
+  },
+  {
+    "question": "What can the Mailchimp, HubSpot, and Salesforce tools assist with?",
+    "answers": ["Automation"]
+  },
+  {
+    "question": "As a digital marketer, you accidentally send an email to a group of non-customers instead of to a group of previous customers. This is an example of what email marketing mistake?",
+    "answers": ["Sending to the wrong segmented list"]
+  },
+  {
+    "question": "Fill in the blank: In the context of email marketing, quality _____ is a process to ensure that the email you send does not have mistakes and errors.",
+    "answers": ["control"]
+  },
+  {
+    "question": "What can marketers include in an email marketing campaign to craft the narrative and communicate a story?",
+    "answers": [
+      "Details such as who came up with the idea for the product and what motivated them"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ are quantifiable measurements used to track and assess a business objective.",
+    "answers": ["Metrics"]
+  },
+  {
+    "question": "Which of the following is true of key performance indicators (KPIs)?",
+    "answers": ["KPIs are metrics, but not all metrics are KPIs."]
+  },
+  {
+    "question": "As a digital marketer, you learn how engaged your subscribers are. You divide the number of people who opened the email by the number who received the email. What metric did you calculate?",
+    "answers": ["Open rate"]
+  },
+  {
+    "question": "As an email marketer, you recently sent an email to 16,478 people. The email received 1,621 total clicks, 5,532 opens, and 5,189 unique opens. How would you calculate the click-to-open rate?",
+    "answers": ["1,621 / 5,189 (total clicks / number of unique opens)"]
+  },
+  {
+    "question": "As a digital marketer, you regularly check your email list and remove any inactive emails. What does this practice help with?",
+    "answers": ["Avoiding a high bounce rate"]
+  },
+  {
+    "question": "An email you sent was delivered to 32,967 recipients. 9,745 opened the email. 403 made a purchase. How would you calculate the conversion rate?",
+    "answers": [
+      "403 / 32,967 (number of purchases / number of emails delivered)"
+    ]
+  },
+  {
+    "question": "As an email marketer, you create an email marketing campaign to offer a product discount. The total revenue was $51,700 and the total cost was $2,068. How would you calculate the ROI?",
+    "answers": ["($51,700 / $2,068) x 100"]
+  },
+  {
+    "question": "As a digital marketer, you manage an email marketing campaign. How do you calculate the list growth rate?",
+    "answers": [
+      "[(new subscribers - unsubscribes) / total number of email addresses] x 100"
+    ]
+  },
+  {
+    "question": "Which of the following are recommendations for the email marketing report? Select all that apply.",
+    "answers": [
+      "Make the presentation more visual by using software such as Google Slides, Microsoft PowerPoint, or Canva",
+      "Use case studies or demos to make the report more engaging"
+    ]
+  },
+  {
+    "question": "A digital marketer creates a presentation for stakeholders. Before the presentation, they consider the audience and gather some information about them before the presentation. How will knowing their audience help them deliver an engaging presentation?",
+    "answers": [
+      "It allows them to adjust the tone and content to suit the audience."
+    ]
+  },
+  {
+    "question": "Consider the following SMART goal: Increase the click-to-open rate on sales emails to at least 8% within six months through more persuasive copy and clear calls to action. What part of the goal is related to time?",
+    "answers": ["“within six months”"]
+  },
+  {
+    "question": "Consider the following SMART goal: Increase the email open rate to at least 20% by the end of quarter three by creating more engaging and informational emails. What part of the goal is measurable?",
+    "answers": ["“to at least 20%”"]
+  },
+  {
+    "question": "Consider the following SMART goal: Use the email marketing software to remove all list subscribers that have not opened a message in over six months by March 31st. What part of the goal is specific?",
+    "answers": ["“that have not opened a message in over six months”"]
+  },
+  {
+    "question": "As a digital marketer for an amusement park, you are segmenting your email list to reach customers interested in themed family activities. You realize that this might be too broad, and would like to learn more about the audience’s psychographic characteristics. What questions will help you determine the audience’s psychographic characteristics? Select all that apply.",
+    "answers": [
+      "How often do you take family trips?",
+      "What activities do you enjoy as a family?"
+    ]
+  },
+  {
+    "question": "As a digital marketer for an amusement park, you are segmenting your email list to reach families with young children who live in large cities. To further tailor your emails to the customer, you are interested in learning more about the audience’s demographic data. What questions will help you determine the audience’s demographic data? Select all that apply.",
+    "answers": [
+      "Are you in a middle or upper-management position at work?",
+      "How old are the children in your family?"
+    ]
+  },
+  {
+    "question": "As a digital marketer for an online jewelry business, you are segmenting your email list to send more relevant emails to customers. Which of the following questions would help you segment by behavioral data? Select all that apply.",
+    "answers": [
+      "What jewelry products have you purchased in the past?",
+      "How often do you make a purchase from our website?"
+    ]
+  },
+  {
+    "question": "A marketer creates an email to promote a new product. Why should they include a call to action?",
+    "answers": ["To encourage readers to make a purchase"]
+  },
+  {
+    "question": "A digital marketer monitors an email list to determine the rate at which the list grows. They count 4,810 new subscribers and 224 unsubscribes from a list of 65,454 recipients. How would they calculate the list’s growth rate?",
+    "answers": ["[(4,810 - 224) / 65,454] x 100"]
+  },
+  {
+    "question": "As a digital marketer, an email you sent was delivered to 47,922 recipients. 15,001 recipients opened the email. 3,221 clicked on a link and 562 made a purchase. How would you calculate the purchase conversion rate?",
+    "answers": ["562 / 47,922 (purchases / emails delivered)"]
+  },
+  {
+    "question": "A digital marketer delivers 103,000 emails for an email marketing campaign. The emails received 60,320 unique opens and 5,811 clicks. How would they calculate the click-to-open rate?",
+    "answers": ["5,811 / 60,320 (total clicks / unique opens)"]
+  },
+  {
+    "question": "Fill in the blank: Digital goods and physical goods are examples of _____.",
+    "answers": ["things that can be sold online through e-commerce"]
+  },
+  {
+    "question": "A stock photography website allows customers to download images for a fee. What type of e-commerce product does the business sell?",
+    "answers": ["Digital goods"]
+  },
+  {
+    "question": "A brick-and-mortar store’s location and hours make it difficult for customers to visit. How does e-commerce offer the business a solution to its problem?",
+    "answers": [
+      "E-commerce stores allow customers to purchase a product at any time from anywhere."
+    ]
+  },
+  {
+    "question": "An e-commerce business receives a large amount of website traffic. What does this traffic data indicate?",
+    "answers": ["The number of visits to the website"]
+  },
+  {
+    "question": "An e-commerce business adds a shopping cart to its website. What is the purpose of the shopping cart?",
+    "answers": ["To track the items a customer plans to purchase"]
+  },
+  {
+    "question": "Which of the following are examples of market research considerations? Select all that apply.",
+    "answers": ["Competition", "Target audience", "Market size"]
+  },
+  {
+    "question": "Which of the following customer demographics enable a marketer to better understand their target audience?",
+    "answers": ["Income level, education level, and occupation"]
+  },
+  {
+    "question": "What is the formula for return on ad spend (ROAS)?",
+    "answers": ["Total sales revenue received / total sales revenue invoiced"]
+  },
+  {
+    "question": "Fill in the blank: Dropshipping, partnering with a vendor or wholesale supplier, and designing and creating custom products to manufacture are all examples of _____.",
+    "answers": ["ways a company can source products for their business"]
+  },
+  {
+    "question": "Which of the following are key characteristics of branding? Select all that apply.",
+    "answers": [
+      "How a company treats their customers and how they make things right when there is a mistake",
+      "How customers feel about a company and the products it sells",
+      "How customers connect with the values that the company supports"
+    ]
+  },
+  {
+    "question": "What is the typical process for purchasing products from an e-commerce store?",
+    "answers": [
+      "Search or browse for products, add them to a virtual shopping cart, and pay for the purchase online"
+    ]
+  },
+  {
+    "question": "What is the primary purpose of a navigation bar that appears at the top of an e-commerce website?",
+    "answers": [
+      "To help customers find the section of a website that will be most useful for them"
+    ]
+  },
+  {
+    "question": "Video captions are an example of which of the following e-commerce website features?",
+    "answers": ["Web accessibility"]
+  },
+  {
+    "question": "Imagine a shoe retailer is ready to open an online store. What should they use to create their shop?",
+    "answers": ["An e-commerce platform"]
+  },
+  {
+    "question": "Which of the following software allows the user to access and edit the original source code?",
+    "answers": ["Open-source software"]
+  },
+  {
+    "question": "What disadvantage of SaaS should a business consider when searching for an e-commerce platform?",
+    "answers": [
+      "It may only integrate with certain third-party apps or shopping channels."
+    ]
+  },
+  {
+    "question": "As a marketer uploads an image they add a brief written description. This description helps screen readers and search engines understand what is in the image. What feature did the marketer add to the page?",
+    "answers": ["Alt text"]
+  },
+  {
+    "question": "Which tip should you consider when you upload product images to an e-commerce website?",
+    "answers": ["Select high-resolution images that are not copyrighted"]
+  },
+  {
+    "question": "What tool offers e-commerce businesses accurate Google Shopping listings and exclusive Google Analytics support for online products?",
+    "answers": ["Google Merchant Center"]
+  },
+  {
+    "question": "What can a marketer do to add a new sales channel to a Shopify store?",
+    "answers": ["Visit the Shopify Channel Store"]
+  },
+  {
+    "question": "Consider the following scenario: An established business in the community is considering a move to online advertising. They typically market their products in various print publications, but have recently observed a decline in sales and overall customer traffic. However, they are not sure if they should try online advertising. What benefits of online advertising could convince this business to advertise online?",
+    "answers": ["It is cost effective and quick and easy to produce."]
+  },
+  {
+    "question": "A business aims to market its new product to an international audience. They require a method that generates ads easily, as their budget does not allow for additional expenses or detailed planning. How does online advertising enable them to do this?",
+    "answers": [
+      "By using automated structures that streamline the advertising process"
+    ]
+  },
+  {
+    "question": "What are the different campaign types that Google Ads offers? Select all that apply.",
+    "answers": ["Display", "Search", "Video", "Shopping"]
+  },
+  {
+    "question": "What is a benefit of using a Search campaign?",
+    "answers": ["Quickly helps identify solutions to a user’s search"]
+  },
+  {
+    "question": "What type of campaign provides a simpler business marketing experience by combining Search and Display campaigns and allows Google to control most of the campaign’s management?",
+    "answers": ["Smart campaigns"]
+  },
+  {
+    "question": "As an e-commerce marketer, you create a campaign that maximizes shopping potential by combining your single existing product feed and assets into ads across a variety of networks. What campaign is this?",
+    "answers": ["Smart Shopping campaign"]
+  },
+  {
+    "question": "Fill in the blank: When a digital marketer creates a Smart Shopping campaign in Google Ads, by default, it sets bids that maximize the _____ within their provided average daily budget.",
+    "answers": ["value of conversions"]
+  },
+  {
+    "question": "As an e-commerce marketer, you use the off-season to create additional campaigns. The goal is to obtain customer information and use this information to follow up with new promotions during the on-season. Why does this strategy work?",
+    "answers": [
+      "Off-season is a valuable time to build awareness and target new contacts and audiences"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The_____is a tool that allows a company to forecast the impact of different spending scenarios and events during upcoming seasons.",
+    "answers": ["Performance Planner"]
+  },
+  {
+    "question": "Fill in the blank: When optimizing your e-commerce strategy, consider adjusting certain product prices so that they match or are _____.",
+    "answers": ["lower than seasonal prices"]
+  },
+  {
+    "question": "Fill in the blank: One of the most important ways to engage customers and strengthen their connection to a brand is to _____ the customer experience.",
+    "answers": ["personalize"]
+  },
+  {
+    "question": "Fill in the blank: E-commerce stores can engage customers by creating a _____, which builds customer loyalty by providing incentives for customers to continue shopping with the brand.",
+    "answers": ["rewards program"]
+  },
+  {
+    "question": "An e-commerce business plans to optimize the checkout process on its website. Which of the following recommendations should they consider to reach their goal?",
+    "answers": [
+      "The checkout process should be fast, easy to understand, and secure."
+    ]
+  },
+  {
+    "question": "Which types of transactions can some point-of-sell (POS) systems process? Select all that apply.",
+    "answers": ["Digital", "In-person", "Telephone"]
+  },
+  {
+    "question": "What could cause an e-commerce business to experience a high cart abandonment rate?",
+    "answers": ["It offers slow delivery times."]
+  },
+  {
+    "question": "How can an e-commerce business reduce the number of abandoned carts on its website?",
+    "answers": ["Offer faster delivery times"]
+  },
+  {
+    "question": "What steps are involved in the order fulfillment process? Select all that apply.",
+    "answers": [
+      "Picking up the products from the warehouse",
+      "Shipping the package to the customer",
+      "Packing the products"
+    ]
+  },
+  {
+    "question": "When might an e-commerce company consider performing in-house order fulfillment instead of using a fulfillment service?",
+    "answers": [
+      "They have space to store products and staff to fulfill the orders."
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ is when products are shipped from the supplier directly to the customer.",
+    "answers": ["Dropshipping"]
+  },
+  {
+    "question": "An e-commerce business considers the best way to get its products to customers. Why would they use a fulfillment service to manage the order fulfillment process?",
+    "answers": [
+      "It offers multiple distribution centers that enable faster delivery times."
+    ]
+  },
+  {
+    "question": "Which of the following information can social media analytics provide to help a company improve their campaigns? Select all that apply.",
+    "answers": [
+      "The number of times a piece of content is displayed to a target audience",
+      "The number of approval actions—such as likes, mentions, retweets, or favorites—that a post receives relative to followers",
+      "The attention a company’s brand received across all social media platforms during a reporting period"
+    ]
+  },
+  {
+    "question": "A digital marketer gathers customer data for an e-commerce business. They notice a high customer lifetime value when measuring customer loyalty. Why is a high customer lifetime value beneficial to the company?",
+    "answers": [
+      "Because keeping existing customers is more cost-effective than gaining new customers"
+    ]
+  },
+  {
+    "question": "What metric indicates that a potential customer is moving towards a completed purchase transaction?",
+    "answers": ["Micro conversions"]
+  },
+  {
+    "question": "Which of the following information is available in Live View on Shopify? Select all that apply.",
+    "answers": [
+      "The number of customers who have added items to their cart, reached the checkout, or made purchases in the last 10 minutes",
+      "The number of visitors and total sales for a day"
+    ]
+  },
+  {
+    "question": "What is the purpose of determining cart abandonment rate?",
+    "answers": [
+      "To track the percentage of customers who leave a website before completing their purchase"
+    ]
+  },
+  {
+    "question": "A digital marketer needs to determine how much it costs to gain new customers for an e-commerce store. What metric should they track?",
+    "answers": ["Cost per acquisition"]
+  },
+  {
+    "question": "Why might a company use A/B testing on their website?",
+    "answers": [
+      "To compare two versions of a web page to find out which updates will have the biggest impact"
+    ]
+  },
+  {
+    "question": "Which of the following sales techniques is used to encourage customers to spend more by upgrading to a more expensive product?",
+    "answers": ["Upselling"]
+  },
+  {
+    "question": "A marketer calculates the percentage of customers who purchase a product after viewing it. The results indicate a low product conversion rate. Which tactic will help the marketer improve the product conversion rate?",
+    "answers": [
+      "Update the product description with product benefits and any information on the product packaging"
+    ]
+  },
+  {
+    "question": "Which of the following are ways a company might improve their product conversion rate? Select all that apply.",
+    "answers": [
+      "Update the product description to include the benefits of the product, technical specifications, a size chart, and any information that is available on the product packaging",
+      "Use higher-quality photos that allow customers to zoom in for more detail",
+      "Add photos of products in all available colors and from multiple angles"
+    ]
+  },
+  {
+    "question": "Which of the following is true about website portfolios?",
+    "answers": [
+      "Website portfolios create a professional appearance but may require advanced knowledge or more preparation time."
+    ]
+  },
+  {
+    "question": "Which of the following marketing strategies focuses on improving a website to increase its visibility in a search engine, such as Google Search or Microsoft Bing?",
+    "answers": ["Search engine optimization"]
+  },
+  {
+    "question": "What are the benefits and drawbacks of presenting your portfolio through printed documents? Select all that apply.",
+    "answers": [
+      "Printed documents cannot be submitted to online portals",
+      "Printed documents are portable"
+    ]
+  },
+  {
+    "question": "Which of the following are digital marketing and e-commerce blogs helpful for learning about? Select all that apply.",
+    "answers": ["Trends", "Best practices", "The latest news"]
+  },
+  {
+    "question": "The web publishing feature lets you adjust share settings for your portfolio site. How does this allow you to control sharing? Select all that apply.",
+    "answers": [
+      "You can make your website discoverable on search engines",
+      "You can make your website accessible by link only",
+      "You can add your URL to your resume for easy access"
+    ]
+  },
+  {
+    "question": "A marketer manages a website that sells exclusive products. They use rewards programs to build customer loyalty and Google Ads to drive traffic to the website. What marketing field do they likely work in?",
+    "answers": ["E-commerce marketing"]
+  },
+  {
+    "question": "Which of the following is true about in-house roles?",
+    "answers": [
+      "In-house roles offer full transparency between the team and the larger company."
+    ]
+  },
+  {
+    "question": "As an e-commerce marketer, you aim to build customer loyalty to a brand. You know that customers need to trust the brand to become loyal and make repeat purchases. How can you build customer trust in the brand?",
+    "answers": ["Offer free shipping and returns."]
+  },
+  {
+    "question": "As a digital marketer, you create an option for customers to easily set up an ongoing delivery of your products. What strategy are you using to make it easy for customers to stay connected?",
+    "answers": ["Subscription service"]
+  },
+  {
+    "question": "As a digital marketer, you offer a spend-based rewards program to incentivize customers to purchase from a brand. What incentive could you use for a spend-based rewards program?",
+    "answers": ["“Earn one point for every dollar you spend”"]
+  },
+  {
+    "question": "To create an effective e-commerce rewards program, businesses should consider how they can create a community within their customer base. Which of the following helps with community building?",
+    "answers": ["Create a members-only virtual event"]
+  },
+  {
+    "question": "A digital marketer learns that many customers are familiar with a business and have considered buying its products. However, they have not made a purchase. Why would the marketer use dynamic remarketing to reach these customers?",
+    "answers": [
+      "It encourages customers to return to the store and complete their purchase."
+    ]
+  },
+  {
+    "question": "A digital marketer uses post-purchase communication to build relationships with existing customers. Why would they consider sending post-purchase emails to reach these customers?",
+    "answers": [
+      "It helps customers feel like they made the right purchasing decision"
+    ]
+  },
+  {
+    "question": "As a digital marketer, you create a survey to understand customer needs and interests. You have learned that instead of asking leading questions, you should ask open-ended questions. Which of the following is an open-ended question you could ask?",
+    "answers": ["How was your shopping experience with us?"]
+  },
+  {
+    "question": "A digital marketer creates a post-purchase survey to target customers in the future and encourage them to return to the business’s website. What post-purchase survey question could the marketer ask to learn more about the customers?",
+    "answers": ["“When is your birthday?”"]
+  },
+  {
+    "question": "Providing customer service through social media platforms, online chat, email, and phone is an example of what?",
+    "answers": ["Multi-channel customer service"]
+  },
+  {
+    "question": "A marketer creates a Net Promoter ScoreR (NPS) survey and sends it to a business’s customers. What did they determine from the survey responses?",
+    "answers": ["How loyal customers are to the business"]
+  },
+  {
+    "question": "Please let us know if you plan to take this optional course. Your choice will not affect your Google Career Certificate, which you will receive regardless, but your response is required in order to send you information on how to claim your certificate.",
+    "answers": ["Yes, I want to learn how to accelerate my job search with AI!"]
+  },
+  {
+    "question": "When you create a customer persona, you want to identify who the customer is. What does this include?",
+    "answers": ["Their characteristics and demographics"]
+  },
+  {
+    "question": "Which strategies can collect research for customer personas? Select all that apply.",
+    "answers": [
+      "Conduct customer interviews",
+      "Send out surveys",
+      "Analyze web data"
+    ]
+  },
+  {
+    "question": "Consider the following customer persona: Someone that wants to shop at a health-conscious grocery store, but does not think they have time to cook meals after work. What component of the customer persona is missing?",
+    "answers": ["Demographic information"]
+  },
+  {
+    "question": "Which of the following are benefits of the marketing funnel? Select all that apply.",
+    "answers": [
+      "It optimizes the company’s marketing strategy.",
+      "It may increase the conversion rate.",
+      "It considers the buyer’s journey."
+    ]
+  },
+  {
+    "question": "Which of the following best describes a customer who is in the conversion stage?",
+    "answers": ["They are ready to begin the online checkout process."]
+  },
+  {
+    "question": "Which statements best describe strategies and tactics? Select all that apply.",
+    "answers": [
+      "Strategies support the plan to achieve the marketing goal and tend to be more general ideas.",
+      "Tactics are actions taken to make the plan happen."
+    ]
+  },
+  {
+    "question": "As a digital marketer, you place ads on social media platforms to reach potential customers who are not familiar with your brand. This strategy falls under which marketing funnel stage?",
+    "answers": ["Awareness"]
+  },
+  {
+    "question": "As a digital marketer, you encourage customers to leave a review and share their experience with the business. This strategy falls under which marketing funnel stage?",
+    "answers": ["Loyalty"]
+  },
+  {
+    "question": "As a digital marketer, you work on elements of the product page and checkout process that speed up the page load time. This strategy falls under which marketing funnel stage?",
+    "answers": ["Conversion"]
+  },
+  {
+    "question": "As a digital marketer, you send out ads to potential customers who recently visited the company website, but did not purchase anything. This strategy falls under which marketing funnel stage?",
+    "answers": ["Consideration"]
+  },
+  {
+    "question": "One of the main processes of the Google search engine is serving. What does this refer to?",
+    "answers": [
+      "The Google search algorithm sorts through billions of webpages to deliver the most relevant content for a user’s search"
+    ]
+  },
+  {
+    "question": "What best describes a search algorithm?",
+    "answers": [
+      "Automated software that requires users to discover information through categories."
+    ]
+  },
+  {
+    "question": "To rank search listings, the Google algorithm reviews the user experience of a webpage, such as the load speed and if it is mobile friendly. This represents which results key factor?",
+    "answers": ["Usability of webpages"]
+  },
+  {
+    "question": "Which search engine results pages (SERPs) feature displays a special box with information intended to help the searcher more easily discover what they are seeking?",
+    "answers": ["Featured snippet"]
+  },
+  {
+    "question": "As a marketer specializing in search engine optimization, you create articles with text, photos, and videos that satisfy searcher intent. This represents which SEO task?",
+    "answers": ["Content development"]
+  },
+  {
+    "question": "Which pre-SEO work includes studying content already in the SERPs so that you can create webpage content that is better and more appealing than what is available elsewhere?",
+    "answers": ["Know your competitors well"]
+  },
+  {
+    "question": "What keyword practice does Google's SEO quality guidelines recommend should be avoided?",
+    "answers": ["Keyword stuffing"]
+  },
+  {
+    "question": "Which of the following is true regarding a website’s structure and navigation?",
+    "answers": ["You should have a consistent and readable URL structure."]
+  },
+  {
+    "question": "Which of the following is true regarding URL text? Select two answers.",
+    "answers": [
+      "It should be simple and descriptive.",
+      "It should describe the content on the webpage."
+    ]
+  },
+  {
+    "question": "What provides search engines a summary of what a page is about?",
+    "answers": ["Meta description"]
+  },
+  {
+    "question": "An e-commerce business informs users that its checkout page has a secure connection for purchases. Which website optimization recommendation is this an example of?",
+    "answers": ["Act in a way that gains user trust"]
+  },
+  {
+    "question": "Which of the following are recommended ways to promote your website and attract backlinks? Select all that apply.",
+    "answers": [
+      "Connect with online communities related to your site, such as forums and social media groups",
+      "Share quality content on social media",
+      "Publish blog posts about new content or new services you offer"
+    ]
+  },
+  {
+    "question": "Why should a digital marketer avoid keyword stuffing when writing alt text for website images?",
+    "answers": [
+      "It can cause a negative user experience, and Google Search may recognize the site as spam."
+    ]
+  },
+  {
+    "question": "What recommendation will help a marketer create effective web page titles?",
+    "answers": ["A page title should relate to the content on the page."]
+  },
+  {
+    "question": "Which of the following are meta description recommendations? Select all that apply.",
+    "answers": [
+      "Add a meta description to every page.",
+      "Use unique meta descriptions for each page.",
+      "Use the meta description to accurately summarize the page content."
+    ]
+  },
+  {
+    "question": "You are interested in displaying interactive features and product pricing in your search results. What can you add to your website to achieve this goal?",
+    "answers": ["Structured data"]
+  },
+  {
+    "question": "Which of the following is true regarding sitemaps?",
+    "answers": [
+      "It is a best practice to submit a sitemap to improve the crawling process."
+    ]
+  },
+  {
+    "question": "When using Google Search Console, you will receive an email if an unusual event occurs. What is an example of such an unusual event?",
+    "answers": ["Google has difficulties crawling the website"]
+  },
+  {
+    "question": "Why would a website receive a Manual Action report?",
+    "answers": [
+      "The website has a low position in the SERPs, which means it will not receive many clicks."
+    ]
+  },
+  {
+    "question": "What does the URL inspection tool in Search Console provide a user?",
+    "answers": [
+      "Detailed crawl, index, and serving information about pages directly from the Google index"
+    ]
+  },
+  {
+    "question": "What does Pay-per-click (PPC) allow businesses to do?",
+    "answers": ["Pay only when someone takes action on its ad"]
+  },
+  {
+    "question": "A business hasn't built up enough authority or reputation to receive traffic for certain search terms in the search listings. Which benefit of search engine marketing addresses this need?",
+    "answers": ["You can quickly appear in the search results pages"]
+  },
+  {
+    "question": "What information does an ad extension include?",
+    "answers": ["Additional website links, a phone number, or an address"]
+  },
+  {
+    "question": "As a digital marketer, your first step in creating a Google ad is to define your campaign goal. Which question will help to determine this?",
+    "answers": ["What do you want to achieve with the ad?"]
+  },
+  {
+    "question": "Which of the following refers to the exact keyword match type?",
+    "answers": [
+      "It may show your ads on searches that have the same meaning or intent as the keyword"
+    ]
+  },
+  {
+    "question": "Which of the following statements regarding the Ad Rank factors are true?",
+    "answers": ["Ad extensions are an Ad Rank factor."]
+  },
+  {
+    "question": "Which of the following is a Google Ad best practice?",
+    "answers": [
+      "Include at least one keyword in the headlines.",
+      "Implement all ad extensions that make sense."
+    ]
+  },
+  {
+    "question": "Which of the following is true of responsive display ads?",
+    "answers": ["They have content optimized by Google Ads software."]
+  },
+  {
+    "question": "As a display ad best practice, you should use new display ads every few weeks. Why is this important?",
+    "answers": [
+      "Swapping lower-performing creative assets for new ads prevents potential customers from developing ad fatigue."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Ad _____ are a set of ad groups that share a budget, location targeting, and other settings.",
+    "answers": ["campaigns"]
+  },
+  {
+    "question": "The Google search engine delivers relevant content for a user's query. This represents which main process of a search engine?",
+    "answers": ["Serving"]
+  },
+  {
+    "question": "Which of the following does the algorithm consider when ranking a webpage for a search?",
+    "answers": ["What's on a website and information on other websites"]
+  },
+  {
+    "question": "Which search engine results pages (SERPs) feature displays a map and has listings of nearby businesses?",
+    "answers": ["Local results"]
+  },
+  {
+    "question": "As a marketer specializing in search engine optimization, you ensure that a website is well-organized and that it is easily crawled by search engines. This represents which SEO task?",
+    "answers": ["Technical website development"]
+  },
+  {
+    "question": "What is an example of keyword stuffing?",
+    "answers": [
+      "Blocks of text that lists cities and states that a webpage is trying to rank for"
+    ]
+  },
+  {
+    "question": "Which of the following are URL best practices? Select all that apply.",
+    "answers": [
+      "Make URLs easy to understand",
+      "Update URLs to avoid broken links",
+      "Create useful 404 pages"
+    ]
+  },
+  {
+    "question": "What is a webpage’s position in the search engine results pages (SERPs) called?",
+    "answers": ["Rank"]
+  },
+  {
+    "question": "Which component of a customer persona represents what is preventing the customer from achieving their goal?",
+    "answers": ["Barriers"]
+  },
+  {
+    "question": "Consider the following customer persona: A 38-year-old woman who exercises regularly and does not think that she has enough time to cook meals after work. What component of the customer persona is missing?",
+    "answers": ["Goal"]
+  },
+  {
+    "question": "How does the marketing funnel help your marketing strategy?",
+    "answers": ["It points out gaps and helps you fix them."]
+  },
+  {
+    "question": "Which of the following best describes a customer who is in the loyalty stage?",
+    "answers": ["They share how great the product is with family and friends."]
+  },
+  {
+    "question": "Fill in the blank: Search engine marketing increases a website's visibility in a search engine through _____.",
+    "answers": ["paid advertisement"]
+  },
+  {
+    "question": "You want to include an influencer in your awareness strategy. Which strategy should you consider?",
+    "answers": [
+      "Pay someone to use your product and share their experience with their followers in video, photo, or text format."
+    ]
+  },
+  {
+    "question": "Which of the following strategies helps to turn customers into loyal brand followers?",
+    "answers": ["Encourage customers to leave a positive review"]
+  },
+  {
+    "question": "Which of the following strategies motivates a potential customer to make a purchase in the conversion stage?",
+    "answers": [
+      "Change the purchase button from \"add to cart\" to \"buy now\""
+    ]
+  },
+  {
+    "question": "A marketer plans to build interest in a new product. Which strategy will help them during the consideration stage?",
+    "answers": ["Share customer testimonials on the website and social media"]
+  },
+  {
+    "question": "As a digital marketer creating a webpage, you start with keyword research to better understand the visitor. Then you create fresh and unique content tailored to your visitors. This represents which website optimization recommendation?",
+    "answers": ["Know what visitors want and give it to them."]
+  },
+  {
+    "question": "Which of the following are recommendations for anchor text? Select all that apply.",
+    "answers": [
+      "Use formatting that makes it stand out from regular text",
+      "Craft it in a few words or a short phrase",
+      "Make it descriptive of the page it is linking to"
+    ]
+  },
+  {
+    "question": "Which of the following is true regarding images on a website?",
+    "answers": [
+      "A descriptive page title helps Google understand the photo’s context."
+    ]
+  },
+  {
+    "question": "When creating meta descriptions, which of the following recommendations should you consider?",
+    "answers": ["Every web page should have a unique meta description"]
+  },
+  {
+    "question": "What is one difference between rich results and structured data?",
+    "answers": ["Structured data appears as schema"]
+  },
+  {
+    "question": "Fill in the blank: Many website platforms such as WordPress, Wix, or Blogger automatically create and make a _____ available for search engines.",
+    "answers": ["sitemap"]
+  },
+  {
+    "question": "What Search Console report shows the index status for all the pages in a website?",
+    "answers": ["Coverage report"]
+  },
+  {
+    "question": "As a digital marketer managing a website, you would like to prevent a webpage on your site from appearing in Google Search. What Search Console tool could provide a temporary fix?",
+    "answers": ["Removals tool"]
+  },
+  {
+    "question": "Which of the following statements regarding search engine marketing is true?",
+    "answers": ["You can learn which ads are driving sales"]
+  },
+  {
+    "question": "As a digital marketer, you will consider several best practices when creating effective ads. Which of the following is a Google ad best practice?",
+    "answers": [
+      "Use relatable calls to action, such as “book your dream vacation”"
+    ]
+  },
+  {
+    "question": "Which of the following are responsive display ad image tips? Select all that apply.",
+    "answers": [
+      "Ensure the background suits the product",
+      "Use images with a strong visual focus",
+      "Make the product the focus of the image"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The amount you are willing to spend each time a potential customer clicks your ad or calls you is known as a(n) _____.",
+    "answers": ["bid"]
+  },
+  {
+    "question": "Where do search engine marketing (SEM) ads typically appear?",
+    "answers": ["On the top and bottom of search results pages"]
+  },
+  {
+    "question": "A marketer is interested to learn which content is performing well and which can be improved. How does search engine marketing enable them to do this?",
+    "answers": [
+      "It allows them to drive traffic to specific webpages on a website to collect data and learn which ads are driving sales"
+    ]
+  },
+  {
+    "question": "Which of the following best describes the structured snippet extension?",
+    "answers": [
+      "Displays information that highlights a specific aspect of a product or service"
+    ]
+  },
+  {
+    "question": "Which of the following refers to the phrase keyword match type?",
+    "answers": [
+      "It is more flexible than exact match and more targeted than broad match"
+    ]
+  },
+  {
+    "question": "Which statement regarding Ad Rank factors is true?",
+    "answers": [
+      "Google assesses the quality and relevance of a landing page to a query."
+    ]
+  },
+  {
+    "question": "As a digital marketer, you may create ads. Which of the following refers to uploaded display ads?",
+    "answers": [
+      "You will have to create the ad graphic, meet the required specifications, and then upload the ad"
+    ]
+  },
+  {
+    "question": "To ensure a cohesive customer experience for a responsive display ad, what best practice should the landing page follow?",
+    "answers": [
+      "The messaging on the landing page should match the messaging on the ad"
+    ]
+  },
+  {
+    "question": "A digital marketer creates content for a company’s social media accounts. What does social media marketing enable the marketer to do with the content?",
+    "answers": [
+      "Connect with customers and help them better understand the company"
+    ]
+  },
+  {
+    "question": "Why is social media a cost-effective way to reach customers?",
+    "answers": [
+      "It allows businesses to reach a targeted audience based on interests and demographics."
+    ]
+  },
+  {
+    "question": "After you develop your social media strategy, what is the next core social media marketing pillar?",
+    "answers": ["Planning and publishing"]
+  },
+  {
+    "question": "A digital marketer tracks and analyzes conversations to learn what people think of a brand. What core pillar of social media marketing does this describe?",
+    "answers": ["Listening and engagement"]
+  },
+  {
+    "question": "Consider the following scenario: A company is setting up different reports to monitor a variety of metrics, such as followers, comments, or clicks. They plan to use these metrics to improve the performance of their social media marketing campaigns over time. Which core pillar is this company working on?",
+    "answers": ["Analytics and reporting"]
+  },
+  {
+    "question": "Fill in the blank: Whenever a customer posts on a social media platform or blog, or writes a review about a company’s product, they are producing _____ for the company’s brand.",
+    "answers": ["earned media"]
+  },
+  {
+    "question": "Fill in the blank: Sources of a brand’s _____ include blog sites, social media profiles, and community forums.",
+    "answers": ["owned social media"]
+  },
+  {
+    "question": "Fill in the blank: _____ social media can be used to target specific groups of people who might be interested in a company’s products and services, as well as promote a company’s content in order to drive more earned media.",
+    "answers": ["Paid"]
+  },
+  {
+    "question": "A marketer identifies topics their target audience is searching for to help capture their attention. What stage of the marketing funnel are they targeting?",
+    "answers": ["The awareness stage"]
+  },
+  {
+    "question": "A brand wants to increase its website traffic and gain customer insights. What kind of goals are these?",
+    "answers": ["Social media marketing goals"]
+  },
+  {
+    "question": "How can a company identify their target audience? Select all that apply.",
+    "answers": [
+      "Assess how people engage with their brand",
+      "Research what social media platforms their target audience uses",
+      "Compile information about their current customers and followers"
+    ]
+  },
+  {
+    "question": "When trying to determine the right social media platform, why should a company think about their goals?",
+    "answers": [
+      "Different social media platforms offer different advantages, so a company should choose the one that is better equipped to help them achieve their goals."
+    ]
+  },
+  {
+    "question": "A marketer posts amusing and interesting memes that help audiences relate to a brand. What type of content is this?",
+    "answers": ["Entertaining content"]
+  },
+  {
+    "question": "What type of content can build trust in a company’s brand and position them as an industry leader with information and wisdom to share?",
+    "answers": ["Educational content"]
+  },
+  {
+    "question": "A marketer posts free gifts to boost sales and encourage people to buy for the first time. What type of content is this?",
+    "answers": ["Promotional content"]
+  },
+  {
+    "question": "Which of the following are examples of content formats for social media? Select all that apply.",
+    "answers": ["Polls", "Links", "Written posts"]
+  },
+  {
+    "question": "For algorithm-based platforms, why is it better to publish quality content less frequently?",
+    "answers": ["Too many posts can cause a drop in engagement."]
+  },
+  {
+    "question": "A digital marketer decides which data to track and establishes a workflow and review process. What does this process refer to?",
+    "answers": ["Developing a social media calendar"]
+  },
+  {
+    "question": "Which of the following can help a company learn more about what people think about their brand and what pain points their customers are experiencing with their products or services?",
+    "answers": ["Social listening"]
+  },
+  {
+    "question": "Fill in the blank: _____ measures how people are interacting with a company’s social media accounts and content.",
+    "answers": ["Social media engagement"]
+  },
+  {
+    "question": "Based on social listening, a brand has learned a new product they recently launched is unpopular with their customers. How can they use social media engagement to improve their brand sentiment?",
+    "answers": ["Address their customers' pain points and answer questions"]
+  },
+  {
+    "question": "Imagine a skin care company wants to increase social media engagement by responding to comments and mentions from customers talking about their brand. Which of the following are best practices for engaging with customers? Select all that apply.",
+    "answers": [
+      "Respond to customers quickly",
+      "Provide excellent customer service"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ is someone who chooses to receive updates from a business or brand on a social media platform.",
+    "answers": ["A follower"]
+  },
+  {
+    "question": "A digital marketer creates a new strategy to market on X. What tactic can they use to increase their followers?",
+    "answers": ["Use hashtags that relate to a specific topic or category"]
+  },
+  {
+    "question": "A marketer compiles a list of high-performing posts, images, videos, and text. Why should they consider repurposing this content?",
+    "answers": [
+      "It allows them to adapt and publish the content in different formats."
+    ]
+  },
+  {
+    "question": "Which of the following are benefits to establishing brand voice guidelines? Select all that apply.",
+    "answers": [
+      "Serves as a useful reference when writing in a brand’s voice",
+      "Helps contributors create content that reflects the brand",
+      "Provides helpful direction to someone new to the field or organization"
+    ]
+  },
+  {
+    "question": "A marketer gathers campaign data, such as the number of clicks on a platform over a three-month campaign period. What type of data is this?",
+    "answers": ["Quantitative data"]
+  },
+  {
+    "question": "A company launches a social media campaign for its new service. What tool can help them measure the campaign’s traffic and sales on different platforms?",
+    "answers": ["Social media analytics"]
+  },
+  {
+    "question": "A company uses a tool to better understand its audience and what content they engage with the most. What is this an example of?",
+    "answers": ["A benefit of social media analytics"]
+  },
+  {
+    "question": "Each social media goal has related metrics that help you do what?",
+    "answers": ["Measure progress towards that goal"]
+  },
+  {
+    "question": "A marketer uses social media analytics to track a campaign’s performance. After three months, they learn that video content performs better on Facebook than on Instagram. What should the marketer do based on these results?",
+    "answers": [
+      "Continue publishing similar content on Facebook and adjust the content strategy for Instagram"
+    ]
+  },
+  {
+    "question": "What do social media reports allow marketers to do? Select all that apply.",
+    "answers": [
+      "Justify their strategy to colleagues or clients based on the data",
+      "Visualize and present their social media data in an easy-to-understand way",
+      "Provide valuable insights to colleagues or clients"
+    ]
+  },
+  {
+    "question": "What does it mean to tailor a social media report for your audience? Select all that apply.",
+    "answers": [
+      "Include more or less detailed data on specific items, depending on your audience",
+      "Present information that your audience wants to know",
+      "Adapt the report to the needs of your audience"
+    ]
+  },
+  {
+    "question": "As a marketer, you create a social media report that is easy to understand and allows your audience to connect to the story the data is telling. How do you achieve this?",
+    "answers": ["By providing context"]
+  },
+  {
+    "question": "Consider the following scenario: A marketer delivers a social media report presentation to a diverse group of partners. During the presentation, the marketer intentionally points out key aspects about the data. They use phrases like, “as I mentioned” and “as you may have noticed.” What presentation best practice does this example describe?",
+    "answers": ["Guide your audience"]
+  },
+  {
+    "question": "What is organic social media?",
+    "answers": ["Marketing without paid promotion"]
+  },
+  {
+    "question": "Consider the following scenario: A customer notices a company’s ad on their social media profile of a pair of shoes that they had just been checking out on that company’s website. As a result, that pair of shoes is more likely to be in the customer’s mind when they go to make a purchase. This outcome is one of the benefits of using paid social media. What is this benefit called?",
+    "answers": ["Remarketing"]
+  },
+  {
+    "question": "As a marketer, you regularly nurture your connections with customers through communication and relationship-building. Which type of social media helps you achieve this?",
+    "answers": ["Organic social media"]
+  },
+  {
+    "question": "How can paid social media help a company increase conversions?",
+    "answers": [
+      "By remarketing ads to reach people who are familiar with the company"
+    ]
+  },
+  {
+    "question": "A marketer is developing a paid social media strategy. They aim to guide users to the end goal and track the right metrics. What is the first thing they should do?",
+    "answers": ["Clearly define the objective of the strategy"]
+  },
+  {
+    "question": "A marketer is launching their first paid social media campaign. What is the best platform for them to use?",
+    "answers": ["The one that is currently their biggest source of leads"]
+  },
+  {
+    "question": "Which of the following can help marketers allocate a budget more effectively?",
+    "answers": ["Using filters to narrow the target audience"]
+  },
+  {
+    "question": "A marketer considers remarketing to their customers on social media. What two types of remarketing are available?",
+    "answers": ["Pixel-based and list-based"]
+  },
+  {
+    "question": "A business wants to create social campaigns to raise brand awareness, deliver specific messages, and increase engagement. Which bidding strategy is ideal for this?",
+    "answers": ["Cost-per-thousand impressions (CPM)"]
+  },
+  {
+    "question": "A company uses email marketing to promote its products because it offers a high return on investment. What other benefit makes email marketing an effective tool?",
+    "answers": [
+      "Once you have a customer’s email address, you can email them at no cost, making email marketing a low-cost tool."
+    ]
+  },
+  {
+    "question": "If a company has a high return on investment (ROI), which of the following scenarios is likely true?",
+    "answers": [
+      "The company made more money from a campaign than they spent on email marketing."
+    ]
+  },
+  {
+    "question": "Which of the following factors does a SWOT audit help a company analyze? Select all that apply.",
+    "answers": ["Threats", "Weaknesses", "Strengths"]
+  },
+  {
+    "question": "When creating a goal, what should you include to make it a measurable goal?",
+    "answers": ["Metrics that can be tracked and measured"]
+  },
+  {
+    "question": "Fill in the blank: When setting a goal, it is important to consider who is involved, the reason or purpose behind it, and the requirements and constraints. This helps to ensure the goal is _____.",
+    "answers": ["attainable"]
+  },
+  {
+    "question": "Which of the following statements is considered a don’t when it comes to email marketing? Select all that apply.",
+    "answers": [
+      "Stick to one length and format without testing",
+      "Send the same emails to every single subscriber",
+      "Send spam emails"
+    ]
+  },
+  {
+    "question": "Why is segmenting an effective email marketing strategy?",
+    "answers": [
+      "Segmenting allows a company to target tailored emails to specific people to ensure the customers will enjoy them."
+    ]
+  },
+  {
+    "question": "A digital marketer aims to deliver quality content to their recipient list. Which of the following is considered quality content the marketer can use?",
+    "answers": ["Resources or activities related to the business’s offering"]
+  },
+  {
+    "question": "Which of the following are common types of email marketing? Select all that apply.",
+    "answers": ["Newsletters", "Acquisition emails", "Retention emails"]
+  },
+  {
+    "question": "Which of the following best describes the content of a good welcome email?",
+    "answers": [
+      "A brief summary that tells customers what makes your brand unique, and a call-to-action"
+    ]
+  },
+  {
+    "question": "A digital marketer creates an email newsletter that contains relevant information about its product. However, only a few subscribers click on the call-to-action button. What recommendation will help the marketer increase the effectiveness of the newsletter?",
+    "answers": [
+      "Instead of selling a product, include articles or trending topics relevant to the subscriber’s lifestyle."
+    ]
+  },
+  {
+    "question": "Fill in the blank: A grocery store delivery app that sends an email with a code for free delivery is an example of a _____.",
+    "answers": ["promotional email"]
+  },
+  {
+    "question": "A marketer notices low engagement with their newsletters and promotional emails for a segment of customers. What can they do to encourage these customers to engage with the brand?",
+    "answers": ["Send them a special offer"]
+  },
+  {
+    "question": "What type of follow-up email does a company send after a customer makes a purchase asking for feedback on that customers’ shopping experience?",
+    "answers": ["Retention email"]
+  },
+  {
+    "question": "What is an example of relevant information you can include in an email newsletter?",
+    "answers": [
+      "Information about a new product or service the business is launching"
+    ]
+  },
+  {
+    "question": "Fill in the blank: The text in the main content of an email is called email _____.",
+    "answers": ["body"]
+  },
+  {
+    "question": "A marketer sends regular newsletters to customers. They include relevant content about the company and its products. What additional content should they include in their newsletters?",
+    "answers": [
+      "Resources such as articles relevant to the subscriber’s lifestyle"
+    ]
+  },
+  {
+    "question": "As a digital marketer, you are building an email list for an upcoming campaign. How can you use search engine marketing to help build your list?",
+    "answers": [
+      "Offer a discount in the ad that encourages people to subscribe to the list"
+    ]
+  },
+  {
+    "question": "What is the practice of dividing an email subscriber list into smaller groups based on criteria like interest, location, or purchase history?",
+    "answers": ["Segmentation"]
+  },
+  {
+    "question": "As a digital marketer, you are dividing your email list by demographics. Which of the following best represents demographics?",
+    "answers": ["Age, gender identity, family status"]
+  },
+  {
+    "question": "You’re writing an email and you include “Try it for free now” after your body copy. What is this an example of?",
+    "answers": ["Call-to-action button"]
+  },
+  {
+    "question": "Fill in the blank: In email writing, you should always address your readers by using _____ language. This point of view is used for giving directions, offering advice, or providing an explanation.",
+    "answers": ["second person"]
+  },
+  {
+    "question": "What can a marketer use to simplify the email marketing process and ensure a campaign stays organized?",
+    "answers": ["Email marketing automation"]
+  },
+  {
+    "question": "What tool helps marketers manage every part of an email marketing campaign, from sending a large volume of targeted emails to tracking insights?",
+    "answers": ["Automation"]
+  },
+  {
+    "question": "As a digital marketer, you accidentally send out an email with the wrong product page URL to your list. This is an example of what email marketing mistake?",
+    "answers": ["Sending a broken link"]
+  },
+  {
+    "question": "Mistakes happen in email marketing, such as sending an email to the incorrect segmented list. What process can marketers follow to prevent mistakes from happening?",
+    "answers": ["Quality control"]
+  },
+  {
+    "question": "How can marketers set the tone of an email marketing campaign?",
+    "answers": [
+      "Reflect on the purpose and narrative and what voice aligns with it"
+    ]
+  },
+  {
+    "question": "What is the relationship between metrics and data?",
+    "answers": ["Metrics are data with context."]
+  },
+  {
+    "question": "Which question should you ask to determine which metrics should be KPIs?",
+    "answers": ["Which metrics should we prioritize for success?"]
+  },
+  {
+    "question": "How would you calculate the open rate of an email?",
+    "answers": [
+      "Number of people who open an email / number of people who received the email"
+    ]
+  },
+  {
+    "question": "After emailing their subscriber list, a marketer divides the total number of undelivered emails by the number of emails sent, multiplied by 100. What metric are they calculating?",
+    "answers": ["Email complaint rate"]
+  },
+  {
+    "question": "After emailing their subscriber list, a marketer divides the number of conversions by the number of emails delivered. What metric are they calculating?",
+    "answers": ["Conversion rate"]
+  },
+  {
+    "question": "As a digital marketer, you are calculating your email list growth rate for the past month. The list gained 1,729 new subscribers. It had 245 unsubscribes. The list total is 76,921 subscribers. How do you calculate the list growth rate for the past month?",
+    "answers": ["[(1,729 - 245) / 76,921] x 100"]
+  },
+  {
+    "question": "As a marketer, you create email marketing reports to inform stakeholders how a campaign is performing. In the report, you tell a story related to the campaign’s metrics to capture their attention. Which of the following should you avoid when creating a report?",
+    "answers": ["Jargon and technical language"]
+  },
+  {
+    "question": "A marketer creates a SMART goal for an upcoming social media campaign. They are still determining when the goal should be reached by. Why is it important for a SMART goal to be time-bound?",
+    "answers": [
+      "Without a deadline, there's no way to know if you are making progress at a good pace."
+    ]
+  },
+  {
+    "question": "Consider the following SMART goal: Increase the click-to-open rate on sales emails to at least 8% within six months through more persuasive copy and clear calls to action. What part of the goal is measurable?",
+    "answers": ["“to at least 8%”"]
+  },
+  {
+    "question": "Which of the following SMART goals is specific?",
+    "answers": [
+      "Add 500 names to subscriber list during the three-month campaign"
+    ]
+  },
+  {
+    "question": "As a digital marketer for a travel booking company, you are segmenting your email list to send more relevant emails to customers. Which of the following questions would help you segment by psychographic characteristics? Select all that apply.",
+    "answers": [
+      "Do you enjoy staying at a certain hotel chain?",
+      "What type of destination do you typically enjoy traveling to?"
+    ]
+  },
+  {
+    "question": "As a digital marketer for a pet supplies business, you are segmenting your email list to send more relevant emails to customers. Which of the following questions would help you segment by demographic data for the customer’s pet? Select all that apply.",
+    "answers": ["How old is your pet?", "What type of pet do you own?"]
+  },
+  {
+    "question": "As a digital marketer for a wellness brand, you are segmenting your email list to reach customers who frequently shop online and try new online stores. What did you use to segment this list?",
+    "answers": ["Behavioral data"]
+  },
+  {
+    "question": "When crafting an email, which element addresses the reader in the second person, emphasizes potential benefits, and is no more than 90 words in length?",
+    "answers": ["Message body"]
+  },
+  {
+    "question": "A digital marketer monitors an email list to determine the rate at which the list grows. They emailed 60,345 recipients and gained 2,500 new subscribers and 530 unsubscribes. How would they calculate the list’s growth rate?",
+    "answers": ["[(2,500 - 530) / 60,345] x 100"]
+  },
+  {
+    "question": "A digital marketer creates an email campaign and delivers 76,230 emails with 33,944 email opens. The email receives 10,550 link clicks and 1,201 purchases. How would they calculate the purchase conversion rate?",
+    "answers": ["1,201 / 10,550 (purchases / link clicks)"]
+  },
+  {
+    "question": "Which of the following are things that can be sold online through e-commerce? Select all that apply.",
+    "answers": ["Services", "Software", "Physical goods"]
+  },
+  {
+    "question": "Health coaching, business consulting, or graphic design are examples of which type of e-commerce?",
+    "answers": ["Services"]
+  },
+  {
+    "question": "Which of the following is a software solution that allows a company to sell products or services online?",
+    "answers": ["E-commerce platform"]
+  },
+  {
+    "question": "What information does a marketer gather when researching a company’s market size?",
+    "answers": ["The level of demand for the company’s products or services"]
+  },
+  {
+    "question": "Why would you track a product’s return on ad spend (ROAS)?",
+    "answers": ["To determine if the product’s advertising is profitable"]
+  },
+  {
+    "question": "A company designs and produces custom products by partnering with a manufacturer. What is the benefit of using this product sourcing model?",
+    "answers": [
+      "It gives the company more control over the design and quality of its products."
+    ]
+  },
+  {
+    "question": "Which of the following are reasons why storytelling is an important part of branding? Select all that apply.",
+    "answers": [
+      "Customers want to know how the company is making a difference in the world.",
+      "Customers want to feel good about their purchases.",
+      "Customers want to understand the values that a company upholds."
+    ]
+  },
+  {
+    "question": "What type of store should a business consider if it wants to sell its products online?",
+    "answers": ["An e-commerce store"]
+  },
+  {
+    "question": "Which of the following features includes a collection of links to other pages within a website?",
+    "answers": ["Navigation bar"]
+  },
+  {
+    "question": "Which of the following means that a website or mobile app is designed and developed so that people with disabilities can use it?",
+    "answers": ["Web accessible"]
+  },
+  {
+    "question": "What are the two types of software typically used for e-commerce platforms?",
+    "answers": ["Open-source or SaaS (Software-as-a-Service)"]
+  },
+  {
+    "question": "Fill in the blank: The URL or web address for a website, such as www.example.com is called a _____.",
+    "answers": ["domain"]
+  },
+  {
+    "question": "Which of the following are characteristics of a good product description? Select all that apply.",
+    "answers": [
+      "Describes the basic features of the product",
+      "Includes bullet points for the features",
+      "Tells the customer how the product can meet their needs"
+    ]
+  },
+  {
+    "question": "A business registers with the Google Merchant Center. How does this decision benefit their company?",
+    "answers": [
+      "It increases product visibility with accurate Google Shopping listings."
+    ]
+  },
+  {
+    "question": "Which of the following are reasons adding multiple sales channels is good for a business? Select all that apply.",
+    "answers": [
+      "It helps a store promote and sell products, manage orders, and track inventory all in one place.",
+      "It helps a business reach more customers."
+    ]
+  },
+  {
+    "question": "Before online advertising, what type of audience was nearly impossible for small to medium-sized companies to reach?",
+    "answers": ["A global audience"]
+  },
+  {
+    "question": "A marketer uses various campaign types to create specific messaging for their online ads and attract and engage their target audience. What did they use?",
+    "answers": ["Google Ads"]
+  },
+  {
+    "question": "A marketer aims to connect with new customers by placing image ads across several websites. What is a benefit of using the Google Display Network to achieve their goal?",
+    "answers": ["It reaches over 90 percent of Internet users worldwide."]
+  },
+  {
+    "question": "As an e-commerce specialist, you create an automated campaign that only requires a few steps to complete and saves you time and money. What campaign does this refer to?",
+    "answers": ["A Smart campaign"]
+  },
+  {
+    "question": "As an e-commerce specialist, you create an automated campaign that allows you to optimize for more sales and reach shoppers across Google's sites and networks. What campaign does this refer to?",
+    "answers": ["Smart Shopping campaign"]
+  },
+  {
+    "question": "Consider the following scenario: A digital marketer is creating a Smart Shopping campaign in Google Ads. Their next step is to specify the products they want to advertise in the campaign. They decide that because there are so many products available, their entire feed should appear in their ads. Why is it problematic to take this approach?",
+    "answers": [
+      "It could reduce their specificity and worsen their performance."
+    ]
+  },
+  {
+    "question": "As an e-commerce marketer, you create a marketing strategy for when customers are much more likely to buy products due to related weather variables or special events. What season does this refer to?",
+    "answers": ["Holidays"]
+  },
+  {
+    "question": "As an e-commerce specialist, you use seasonality adjustments to inform Smart Bidding and prepare for seasonal events. What does this tool allow you to do?",
+    "answers": [
+      "Set a time and date for when you expect a short spike in the conversion rate"
+    ]
+  },
+  {
+    "question": "E-commerce specialists often use the Google Trends forum. What does this tool enable them to do?",
+    "answers": [
+      "Explore what customers around the world are searching for on Google"
+    ]
+  },
+  {
+    "question": "What strategies can an e-commerce brand use to provide personalized experiences to its customers?",
+    "answers": [
+      "Offer product recommendations based on customers’ browsing histories or recent purchases"
+    ]
+  },
+  {
+    "question": "Besides personalized recommendations, how else can an e-commerce store engage customers?",
+    "answers": ["Offer a rewards program"]
+  },
+  {
+    "question": "What step do customers typically complete before they enter the checkout process?",
+    "answers": ["They add an item to the shopping cart."]
+  },
+  {
+    "question": "An e-commerce business uses a point-of-sale (POS) system to capture payment information. What additional information might they capture at this stage? Select all that apply.",
+    "answers": ["Order history", "Promotional codes", "Email signups"]
+  },
+  {
+    "question": "Fill in the blank: The biggest reason for cart abandonment is when the costs for _____ are too high.",
+    "answers": ["shipping or taxes"]
+  },
+  {
+    "question": "Fill in the blank: _____ describes all the steps that take place between receiving an order and delivering the order to the customer.",
+    "answers": ["Order fulfillment"]
+  },
+  {
+    "question": "What are the benefits of in-house fulfillment? Select all that apply.",
+    "answers": [
+      "Custom packaging",
+      "Faster to launch",
+      "Control over the quality of the work"
+    ]
+  },
+  {
+    "question": "Fill in the blank: When an e-commerce store needs to fulfill an order, they can use a _____, which is a third-party company that prepares and ships orders from their fulfillment centers.",
+    "answers": ["fulfillment service"]
+  },
+  {
+    "question": "As an e-commerce marketer, you know that customer loyalty is necessary to build a brand. Which of the following will help you build customer trust and ultimately gain their loyalty?",
+    "answers": ["Offer useful products with a quality guarantee"]
+  },
+  {
+    "question": "As a digital marketer, you are creating a rewards program. Your program allows customers to graduate to a new status level based on the amount of money spent. What type of rewards program are you using?",
+    "answers": ["Tier-based model"]
+  },
+  {
+    "question": "A company builds customer loyalty through an e-commerce rewards program. Which of the following rewards program benefits can help with building customer loyalty? Select all that apply.",
+    "answers": [
+      "Tailor offers to customer shopping habits",
+      "Create an online community"
+    ]
+  },
+  {
+    "question": "As a digital marketer, you aim to remove any sense of regret customers may experience after making a purchase. What follow-up method can help ease these negative feelings? Select all that apply.",
+    "answers": [
+      "Send “thank you” emails that provide a short and friendly follow-up that shows your appreciation to customers",
+      "Send customer satisfaction surveys that let customers rate products using a type of scale system"
+    ]
+  },
+  {
+    "question": "As a digital marketer, you use surveys to help understand customer needs and interests. Which of the following tips should you consider when creating survey questions?",
+    "answers": ["Remember to use the brand’s tone of voice."]
+  },
+  {
+    "question": "Which of the following questions should you use to reflect on your survey after completing it? Select all that apply.",
+    "answers": [
+      "Is the wording used in the question simple and easy to understand?",
+      "Does this question make an assumption about my customer?",
+      "Does this question ask too much personal information?"
+    ]
+  },
+  {
+    "question": "Which of the following is true regarding customer service channels?",
+    "answers": [
+      "It is best for businesses to clearly state their email response time."
+    ]
+  },
+  {
+    "question": "A marketer uses a survey to determine how loyal customers are to the business. They use a single question that asks respondents to rate the likelihood that they would recommend the product or service to a friend or colleague. What type of survey did they use?",
+    "answers": ["Net Promoter ScoreR (NPS) survey"]
+  }
+]

@@ -24,6 +24,7 @@ const Quizz = () => {
     { value: "bdi302c", label: "BDI302c" },
     { value: "cry303c", label: "CRY303c" },
     { value: "det101c", label: "DET101c" },
+    { value: "dma301m", label: "DMA301m" },
     { value: "dms301m", label: "DMS301m" },
     { value: "dwp301c", label: "DWP301c" },
     { value: "eal202c", label: "EAL202c" },
