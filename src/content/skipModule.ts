@@ -1,5 +1,5 @@
 (() => {
-  const SCRIPT_NAME = "SkipMoocCoursera";
+  const SCRIPT_NAME = "SkipModuleCoursera";
 
   if (
     (window as any)._quizScriptRunning &&
@@ -10,6 +10,8 @@
     );
     return;
   }
+  (window as any)._quizScriptObservers =
+    (window as any)._quizScriptObservers || [];
 
   (window as any)._quizScriptRunning = SCRIPT_NAME;
   window.addEventListener("beforeunload", () => {
@@ -273,14 +275,14 @@
   };
 
   const skipAllMooc = async () => {
-    const modulePool = (await waitElement(
-      '[id^="circle-menu-item-"]'
-    )) as HTMLElement[];
+    const modulePool = await waitElement('[id^="circle-menu-item-"]').catch(
+      () => [] as HTMLInputElement[]
+    );
 
-    const modules = (await waitElement(
-      '[class="cds-button-disableElevation cds-button-primary"]'
-    )) as HTMLElement[];
-
+    const modules = await waitElement(
+      ".cds-button-disableElevation.cds-button-primary"
+    ).catch(() => [] as HTMLInputElement[]);
+    console.log(modules);
     const userId = await fetchUserId();
 
     const token = getToken();
@@ -290,9 +292,14 @@
       if (modules.length !== 0) {
         console.log(`📦 Tìm thấy ${modules.length} module từ slug`);
         const p = modules.map((a) => {
-          const slug = a.href.split("/")[4];
-          console.log(`➡️ Xử lý module slug: ${slug}`);
-          return processCourseraModuleBySlug(slug, userId, token);
+          if (a instanceof HTMLAnchorElement) {
+            const slug = a.href.split("/")[4];
+            console.log(`➡️ Xử lý module slug: ${slug}`);
+            return processCourseraModuleBySlug(slug, userId, token);
+          } else {
+            console.warn("❌ Skipped element: not an anchor tag", a);
+            return Promise.resolve(); // or skip, or handle differently
+          }
         });
         allModule.push(Promise.all(p));
       }
@@ -300,9 +307,14 @@
       if (modulePool.length !== 0) {
         console.log(`📦 Tìm thấy ${modulePool.length} module từ modulePool`);
         const p = modulePool.map((a) => {
-          const courseId = (a.dataset.js || "").split("~")[1];
-          console.log(`➡️ Xử lý module từ courseId: ${courseId}`);
-          return processCourseraModuleById(courseId, userId, token);
+          if (a instanceof HTMLElement) {
+            const courseId = (a.dataset.js || "").split("~")[1];
+            console.log(`➡️ Xử lý module từ courseId: ${courseId}`);
+            return processCourseraModuleById(courseId, userId, token);
+          } else {
+            console.warn("❌ Không tìm thấy courseId trong dataset.js", a);
+            return Promise.resolve(); // or skip, or handle differently
+          }
         });
         allModule.push(Promise.all(p));
       }

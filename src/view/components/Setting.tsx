@@ -1,6 +1,7 @@
 import { Fragment, useEffect, useId, useState } from "react";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Label } from "@/components/ui/label";
+import { Button } from "@/components/ui/button";
 
 const Setting = () => {
   const id = useId();
@@ -15,9 +16,33 @@ const Setting = () => {
     chrome.storage.local.set({ autoSubmit: checked });
   }, [checked]);
 
+  const handleSkipModule = async () => {
+    const [tab] = await chrome.tabs.query({
+      active: true,
+      currentWindow: true,
+    });
+    if (tab.id) {
+      await chrome.scripting.executeScript({
+        target: { tabId: tab.id },
+        files: ["content/skipModule.js"],
+      });
 
+      chrome.tabs.sendMessage(tab.id!, {
+        action: "SkipModule",
+      });
+    }
+  };
   return (
     <Fragment>
+      <div className="flex items-center space-x-2 mb-2">
+        <Button
+          size="md"
+          onClick={handleSkipModule}
+          className="bg-blue-500 hover:bg-blue-700 transition-colors"
+        >
+          Skip Video & Reading
+        </Button>
+      </div>
       <div className="flex items-center space-x-2">
         <Checkbox
           id={id}
@@ -30,7 +55,6 @@ const Setting = () => {
           Auto Submit
         </Label>
       </div>
-
     </Fragment>
   );
 };
