@@ -1411,5 +1411,13 @@
   {
     "question": "Which language is primarily used to structure the content of a web page?",
     "answers": ["HTML"]
+  },
+  {
+    "question": "What is a primary purpose of CSS in web development? Please answer in all lowercase, using one word.",
+    "answers": ["styling"]
+  },
+  {
+    "question": "Which of the following are common HTML tags used for structuring web pages?",
+    "answers": ["<header>", "<section>", "<footer>", "<article>"]
   }
 ]

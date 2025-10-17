@@ -2539,5 +2539,80 @@
   {
     "question": "A marketer uses a survey to determine how loyal customers are to the business. They use a single question that asks respondents to rate the likelihood that they would recommend the product or service to a friend or colleague. What type of survey did they use?",
     "answers": ["Net Promoter ScoreR (NPS) survey"]
+  },
+  {
+    "question": "What information can the marketer learn from email marketing analytics?",
+    "answers": [
+      "The percentage of emails sent that could not be delivered to the recipient’s inbox"
+    ]
+  },
+  {
+    "question": "Which of the following describes the purpose of brand advocacy?",
+    "answers": [
+      "Measure the number of customers who promote a company through elements like word-of-mouth marketing"
+    ]
+  },
+  {
+    "question": "An e-commerce store has been in business for five years. Over what period would this e-commerce store likely compare the results of their metrics?",
+    "answers": ["Year over year"]
+  },
+  {
+    "question": "A digital marketer is interested in an e-commerce store’s performance across all sales channels over the last three months. Where will they find this information on Shopify?",
+    "answers": ["The overview dashboard"]
+  },
+  {
+    "question": "A digital marketer learns that an e-commerce store has a large number of abandoned carts. What can they do to recover the lost sales?",
+    "answers": ["Send emails to remind customers about their items"]
+  },
+  {
+    "question": "Which of the following e-commerce metrics provides information about customer satisfaction so that companies can evaluate the customer experience and find ways to make improvements?",
+    "answers": ["Customer retention rate"]
+  },
+  {
+    "question": "A digital marketer updates an e-commerce website. They want to identify which new web page impacts customers most and use a method that compares two versions of the page. What method did they use to determine the best-performing web page?",
+    "answers": ["A/B testing"]
+  },
+  {
+    "question": "Which of the following are potential ways for a company to increase their average order value? Select all that apply.",
+    "answers": [
+      "Cross-selling",
+      "Upselling",
+      "Creating an order minimum for free shipping"
+    ]
+  },
+  {
+    "question": "What is the purpose of product analytics?",
+    "answers": [
+      "To monitor and evaluate data to gain insights into how users interact with a product or service"
+    ]
+  },
+  {
+    "question": "What can an e-commerce marketer do to help improve a product conversion rate?",
+    "answers": [
+      "Add photos of the product in all available colors and from multiple angles"
+    ]
+  },
+  {
+    "question": "Who is the intended audience for marketing proposals? Select all that apply.",
+    "answers": ["Internal stakeholders", "External clients"]
+  },
+  {
+    "question": "Which of the following describes a blog?",
+    "answers": [
+      "A discussion or informational website published on the internet consisting of discrete, often informal diary-style text entries."
+    ]
+  },
+  {
+    "question": "What are some of the potential ways you can use embedded content to build your portfolio on Google Sites? Select all that apply.",
+    "answers": [
+      "Import files directly from Google Drive, such as PDFs and spreadsheets",
+      "Upload your resume directly to your website"
+    ]
+  },
+  {
+    "question": "Which of the following is true about agencies?",
+    "answers": [
+      "Agencies often work independently from the business they have been hired by."
+    ]
   }
 ]
