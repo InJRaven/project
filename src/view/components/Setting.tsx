@@ -24,11 +24,11 @@ const Setting = () => {
     if (tab.id) {
       await chrome.scripting.executeScript({
         target: { tabId: tab.id },
-        files: ["content/skipReading.js"],
+        files: ["content/SkipAllVideoReading.js"],
       });
 
       chrome.tabs.sendMessage(tab.id!, {
-        action: "SkipReading",
+        action: "SkipVideoReading",
       });
     }
   };
@@ -40,7 +40,7 @@ const Setting = () => {
           onClick={handleSkipModule}
           className="bg-blue-500 hover:bg-blue-700 transition-colors"
         >
-          Skip Reading
+          Skip Reading & Video
         </Button>
       </div>
       <div className="flex items-center space-x-2">

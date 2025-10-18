@@ -270,15 +270,18 @@
     }
   };
 
-  const skipAllMooc = async () => {
+  const skipAllVideoReading = async () => {
     const modulePool = await waitElement('[id^="circle-menu-item-"]').catch(
       () => [] as HTMLInputElement[]
     );
+    const el = document.querySelector(
+      'div[data-track="true"][data-track-app="unified_description_page"][data-track-page^="consumer_"][data-track-action="click"][data-track-component="syllabus"][role="presentation"]'
+    );
+    const modules = Array.from(el?.querySelectorAll("a") ?? []).filter((a) =>
+      (a.ariaLabel ?? "").toLowerCase().includes("course")
+    );
 
-    const modules = await waitElement(
-      ".cds-button-disableElevation.cds-button-primary"
-    ).catch(() => [] as HTMLInputElement[]);
-    console.log(modules);
+    const modules2 = Array.from(el?.querySelectorAll("a") ?? []);
     const userId = await fetchUserId();
 
     const token = getToken();
@@ -289,7 +292,7 @@
         console.log(`📦 Tìm thấy ${modules.length} module từ slug`);
         const p = modules.map((a) => {
           if (a instanceof HTMLAnchorElement) {
-            const slug = a.href.split("/")[4];
+            const slug = a.href.split("/")[4].split("?")[0];
             console.log(`➡️ Xử lý module slug: ${slug}`);
             return processCourseraModuleBySlug(slug, userId, token);
           } else {
@@ -299,7 +302,20 @@
         });
         allModule.push(Promise.all(p));
       }
-
+      if (modules2.length !== 0) {
+        console.log(`📦 Tìm thấy ${modules2.length} module từ slug`);
+        const p = modules2.map((a) => {
+          if (a instanceof HTMLAnchorElement) {
+            const slug = a.href.split("/")[4].split("?")[0];
+            console.log(`➡️ Xử lý module slug: ${slug}`);
+            return processCourseraModuleBySlug(slug, userId, token);
+          } else {
+            console.warn("❌ Skipped element: not an anchor tag", a);
+            return Promise.resolve(); // or skip, or handle differently
+          }
+        });
+        allModule.push(Promise.all(p));
+      }
       if (modulePool.length !== 0) {
         console.log(`📦 Tìm thấy ${modulePool.length} module từ modulePool`);
         const p = modulePool.map((a) => {
@@ -314,7 +330,14 @@
         });
         allModule.push(Promise.all(p));
       }
-
+      if (!modules.length && !modules2.length && !modulePool.length) {
+        const part = location.href.split("/")[4] || "";
+        const slug = part.includes("?") ? part.split("?")[0] : part;
+        console.log(`➡️ Fallback: xử lý module slug: ${slug}`);
+        console.log(slug);
+        // push promise (không return) để Promise.all bên dưới đợi
+        allModule.push(processCourseraModuleBySlug(slug, userId, token));
+      }
       await Promise.all(allModule);
       console.log("🎉 Tất cả module đã được xử lý!");
     } catch (error) {
@@ -327,9 +350,9 @@
     sender: chrome.runtime.MessageSender,
     sendResponse: (response?: any) => void
   ) => {
-    if (message.action === "SkipModule") {
+    if (message.action === "SkipVideoReading") {
       (async () => {
-        await skipAllMooc();
+        await skipAllVideoReading();
       })();
     }
   };
