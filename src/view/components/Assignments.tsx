@@ -3,6 +3,7 @@ const Assignments = () => {
   const assignmentActions = [
     { label: "Graded Assignment" },
     { label: "Graded App" },
+    { label: "Video" },
     { label: "Practice Assignment" },
     { label: "Practice Peer-graded Assignment" },
     { label: "Submit Assignment" },

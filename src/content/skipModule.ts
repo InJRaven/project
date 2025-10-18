@@ -184,11 +184,7 @@
             "x-csrf3-token": token,
           },
           referrerPolicy: "strict-origin-when-cross-origin",
-          body: JSON.stringify({
-            userId,
-            courseId: courseIdFromMaterials,
-            itemId,
-          }),
+          body: `{\"userId\":${userId},\"courseId\":\"${courseIdFromMaterials}\",\"itemId\":\"${itemId}\"}`,
           mode: "cors",
           credentials: "include",
         }

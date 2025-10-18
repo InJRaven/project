@@ -15,12 +15,51 @@
       .replace(/\s+/g, " ")
       .trim();
   };
+  const delay = (time: number) => new Promise((res) => setTimeout(res, time));
 
-  const run = (type: string) => {
+  const waitElement = (selector: string, time = 1500): Promise<Element[]> => {
+    return new Promise((resolve, reject) => {
+      const found = Array.from(document.querySelectorAll(selector)).filter(
+        (el) => (el as HTMLElement).offsetHeight > 0
+      );
+
+      if (found.length > 0) return resolve(found);
+
+      const observer = new MutationObserver(() => {
+        const visible = Array.from(document.querySelectorAll(selector)).filter(
+          (el) => (el as HTMLElement).offsetHeight > 0
+        );
+        if (visible.length > 0) {
+          observer.disconnect();
+          resolve(visible);
+        }
+      });
+      (window as any)._quizScriptObservers.push(observer);
+      observer.observe(document.body, { childList: true, subtree: true });
+
+      setTimeout(() => {
+        observer.disconnect();
+        reject(new Error(`⏰ Timeout ${time}ms: Không tìm thấy ${selector}`));
+      }, time);
+    });
+  };
+  const run = async (type: string) => {
     const urls: string[] = [];
     const found = document.querySelectorAll(
       '[data-e2e="ungrouped-non-peer-assignment-row"]'
     );
+    const linkButton = Array.from(
+      document.querySelectorAll('.nostyle.link-button[aria-expanded="false"]')
+    ) as HTMLElement[];
+    if (linkButton.length !== 0) {
+      linkButton.forEach((item) => {
+        item.click();
+      });
+    }
+
+    await delay(500);
+
+    const links = (await waitElement("a")) as HTMLAnchorElement[];
 
     switch (type) {
       case "Practice Assignment": {
@@ -40,10 +79,16 @@
         });
         break;
       }
+      case "Video": {
+        links.forEach((link) => {
+          const text = link.textContent || "";
+          if (text.includes("Video") && link.href) {
+            urls.push(link.href);
+          }
+        });
+        break;
+      }
       case "Practice Peer-graded Assignment": {
-        const links = Array.from(
-          document.querySelectorAll("a")
-        ) as HTMLAnchorElement[];
         links.forEach((link) => {
           const text = normalizeText(link?.innerText);
           if (text.includes("Practice Peer-graded Assignment") && link.href) {
@@ -86,10 +131,6 @@
       }
 
       case "Discussion": {
-        const links = Array.from(
-          document.querySelectorAll("a")
-        ) as HTMLAnchorElement[];
-
         links.forEach((link) => {
           const text = link.textContent || "";
           if (
@@ -128,9 +169,9 @@
 
   // ✅ Chống đăng ký listener nhiều lần khi script được inject nhiều lần
   if (!(window as any)._courseraToolListenerAdded) {
-    chrome.runtime.onMessage.addListener((msg) => {
+    chrome.runtime.onMessage.addListener(async (msg) => {
       if (msg.action === "runAssignment" && msg.type) {
-        run(msg.type);
+        await run(msg.type);
       }
     });
 
