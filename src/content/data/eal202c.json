@@ -101,7 +101,7 @@
 
   {
     "question": "What language cue was used to state that the aim of the class was to focus on fundamental issues and not practical applications of the theory?",
-    "answers": ["nevertheless"]
+    "answers": ["rather not"]
   },
   {
     "question": "After listening to the Note-Taking Practice 3 lecture, use your notes to answer the following questions. Which of the following topics does Dave NOT lecture on?",
@@ -239,7 +239,12 @@
   },
   {
     "question": "Which of the following are good practices for taking notes during the lecture when using the Cornell Notes method? Check all that apply.",
-    "answers": ["use note-taking shortcuts", "skip lines on the page"]
+    "answers": [
+      "use note-taking shortcuts",
+      "skip lines on the page",
+      "indent the supporting details under each main point",
+      "use lots of space on the page"
+    ]
   },
   {
     "question": "Listen to the following TED talk. Take thorough notes using one of the templates you've been given. Then answer all of the questions that follow. Play Video What does the speaker think would make the audience relax as he begins his talk?",
@@ -614,7 +619,7 @@
   },
   {
     "question": "Complete the sentence. To conclude her presentation, the speaker says ________________.",
-    "answers": ["To conclude . . ."]
+    "answers": ["Thank you for watching."]
   },
   {
     "question": "Which mode of persuasion is about the step-by-step, logical development of your arguments?",
@@ -670,7 +675,7 @@
   {
     "question": "Which of the following statements is true, according to the lessons from this week?",
     "answers": [
-      "When there is no time left, it is important to politely interrupt an audience member who may be asking a question to let him/her know."
+      "If there are still questions to be answered when the presentation has ended, the presenter may offer his/her time to speak with individuals one-on-one following the presentation."
     ]
   },
   {
@@ -734,7 +739,8 @@
     "answers": [
       "The Consequences of Global Warming",
       "Diving into the Field of Hydrology",
-      "The Case for School Uniforms"
+      "The Case for School Uniforms",
+      "A Day in the Life of an Ant"
     ]
   },
   {
@@ -959,7 +965,11 @@
   },
   {
     "question": "Question 4 Clip Play Video",
-    "answers": ["The presenter speaks too quickly/ does not pause."]
+    "answers": [
+      "The presenter uses too many fillers.",
+      "The presenter speaks too quickly/ does not pause.",
+      "true"
+    ]
   },
   {
     "question": "True or false? Making an outline will help to alleviate nerves during the presentation.",
@@ -1106,7 +1116,10 @@
     "answers": [
       "The presenter is moving her legs in a distracting way.",
       "Valid",
-      "The presenter does not speak with inflection."
+      "The presenter does not speak with inflection.",
+      "at her office hours",
+      "Deductive inference",
+      "Mathematical necessity"
     ]
   },
   {
@@ -1115,7 +1128,8 @@
       "The presenter has her back to the audience.",
       "Deductive inference",
       "Invalid",
-      "She presented a surprising fact."
+      "She presented a surprising fact.",
+      "housekeeping"
     ]
   },
   {
@@ -1207,7 +1221,7 @@
   },
   {
     "question": "Which of the following topics will be presented third in the class?",
-    "answers": ["the foundations of General Relativity"]
+    "answers": ["development of the general principle"]
   },
   {
     "question": "Listen to the following TED talk. Take thorough notes using one of the templates you've been given. Then answer all of the questions that follow. Play Video The speaker says he was diagnosed with severe Attention Deficit Disorder (ADD) in the early 80s. This was not a positive diagnosis. How do you know, from the lecture, that it was not positive? (Choose 2 of the following answers.)",
@@ -1434,7 +1448,10 @@
     "answers": [
       "to support one’s ideas with related evidence",
       "to apply what was learned to new situations",
-      "to think of different possibilities"
+      "to think of different possibilities",
+      "to find patterns in seemingly unrelated ideas",
+      "to see things from different points of view",
+      "to give an opinion with relevant support"
     ]
   },
   {
@@ -2021,7 +2038,7 @@
   },
   {
     "question": "Which method of simplification is the phrase below used for? ...is commonly called...",
-    "answers": ["example"]
+    "answers": ["acronym"]
   },
   {
     "question": "Complete the sentence. If the presenter does not mention his/her preference regarding the right time to ask questions, audience members may ask questions ________________.",
@@ -2256,5 +2273,251 @@
   {
     "question": "An example of a distracting nonverbal mannerism is ___________.",
     "answers": ["touching your hair"]
+  },
+  {
+    "question": "Which of the following statements do you think is NOT true about the speaker, based on his talk?",
+    "answers": [
+      "He thinks students should learn from professors and professors should not learn from their students."
+    ]
+  },
+  {
+    "question": "Listen to the following TED talk titled “Embrace Your Disobedience” by Diego Rosso. Take thorough notes using one of the templates you've been given. Then answer the questions that follow. Lecture Clip Play Video In the introduction, the speaker describes how he was as a child: “If they told me I shouldn’t have done something, I thought, ‘Who says? Why?’ and they got me in trouble, just about all the time and I had a special preference for dismantling things and never putting them back together.” How does this comment relate to the main idea of his talk?",
+    "answers": [
+      "It illustrates the speaker's point. The speaker’s personality of questioning the way things are helps him to be the researching professor he is today."
+    ]
+  },
+  {
+    "question": "In what order were the following people mentioned in the talk? (note: This kind of question checks how well your notes are organized.)",
+    "answers": [
+      "June Wayne, Channa Horowitz, the student who came in his office, Copernicus"
+    ]
+  },
+  {
+    "question": "Which of the following might be hooks in a lecture? Choose all that apply.",
+    "answers": ["a story", "interesting fact"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he mentions the “cocktail party effect.” What limitation is he describing when he talks about the “cocktail party effect”?",
+    "answers": ["attention"]
+  },
+  {
+    "question": "When Professor Gazzaley was talking about one of the three limitations, he said, “It changes depending on complexity.” Which limitation is her referring to?",
+    "answers": ["working memory"]
+  },
+  {
+    "question": "True or False? The speaker believes that there are many ways to define the term “sustainability.”",
+    "answers": ["True"]
+  },
+  {
+    "question": "Listen to the following TED talk titled “The Future of Water” by Bill Cooper. Take thorough notes on one of the templates you've been given. Do your best to identify the important information that you should put in your notes based on the video lesson you have just watched. Then answer the following questions. Lecture Clip (This will open in a new window.) The speaker mentions the walk he takes on campus everyday and all the birds and animal life he sees and hears. What idea does he want to support with this information?",
+    "answers": ["That we need to care and connect with nature"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 2 Video Clip Play Video Which chart/graph did the professor use?",
+    "answers": ["line graph"]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 4 Video Clip Play Video Which chart/graph did the professor use in this clip?",
+    "answers": ["line graph"]
+  },
+  {
+    "question": "Listen to the lecture clip below and answer the question that follows. Question 3 Lecture Clip Play Video True or false? Professor Loftus agrees that memory works like a recording device.",
+    "answers": ["False"]
+  },
+  {
+    "question": "What does percent savings on the y-axis refer to?",
+    "answers": [
+      "How long it would take for the subject to relearn the new material after some time passes"
+    ]
+  },
+  {
+    "question": "Listen to the clip that belongs with each question. Then answer the question that follows. Question 1 Clip Play Video The belief held by ancient people that constellations cause seasonal changes on Earth is an example of:",
+    "answers": ["An inductive inference"]
+  },
+  {
+    "question": "What point was the speaker illustrating when he mentioned the topic of faith?",
+    "answers": [
+      "That the stories are what people connect to and attact them to the faith"
+    ]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 3 Video Clip Play Video Which statement(s) is/are true? Choose all that apply.",
+    "answers": [
+      "There is a downward trend of both property and violent crime.",
+      "There is a greater decrease of property crime than violent crime."
+    ]
+  },
+  {
+    "question": "Question 5 Clip Play Video True or false? Drawing pictures and putting them where you can see them often is one way of studying the lecture information.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Let’s see how effective the notes that you took in the Listening Strategies lecture are. See if they can help you answer the following questions. If not, listen to that lecture again. What is the topic of the lecture?",
+    "answers": ["ways to make listening to a lecture easier"]
+  },
+  {
+    "question": "For question 4, listen to the lecture clip below on psychology and take notes as you listen. Pay attention to the information in the charts or graphs. After you listen, use your notes to answer the following question. Question 4 Lecture Clip Play Video What is the reminiscence bump?",
+    "answers": [
+      "the tendency for older adults to have a higher recollection of early adulthood memories"
+    ]
+  },
+  {
+    "question": "See how well you can determine meaning of an actual professor giving an introduction to Einstein’s General Relativity and Gravitation. The lecture is 4 minutes 39 seconds long. First, watch the entire video, then answer each of the following questions. General Relativity and Gravitation Lecture Play Video How does the professor know many of the students?",
+    "answers": ["They took his class before."]
+  },
+  {
+    "question": "After listening to the Note-Taking Practice 3 lecture, use your notes to answer the following questions. Which of the following topics does Dave lecture on?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "True or false? The purpose of the Research Paragraph is to give specific examples of how the student and the university are a good match.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? Approximately 20% of the poster should be white space.",
+    "answers": ["True"]
+  },
+  {
+    "question": "True or false? If you manually create a poster by cutting and pasting items, most of the text still needs to be typewritten.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In which order should the elements of a powerful conclusion appear?",
+    "answers": ["summary, epiphany, thanks, questions "]
+  },
+  {
+    "question": "If you wish to invite the audience to ask questions, which part of the presentation would be a good time to do so?",
+    "answers": ["conclusion"]
+  },
+  {
+    "question": "Complete the word in this purpose for handouts. To provide an ______ that makes notetaking easier",
+    "answers": ["outline"]
+  },
+  {
+    "question": "Which of the following are critical thinking skills? Choose all the apply.",
+    "answers": [
+      "To give an opinion with appropriate support",
+      "To find relationships between different ideas",
+      "To see things from different points of view"
+    ]
+  },
+  {
+    "question": "What level of thinking does the following question represent? “Can you think of any alternatives to producing genetically modified foods that will provide the growing world population with food?”",
+    "answers": ["synthesis"]
+  },
+  {
+    "question": "True or false? If someone is talking a lot in a discussion and you haven’t said anything, you can interrupt.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Read the following statements from a discussion on whether or not the planet can sustain 9.2 billion people. - “Our earth can sustain 9.2 billion people, but not the way it is currently being managed. We need to do a better job at managing resources, educating people, and sharing wealth.” - “As with technology, there is potential to use our limited resources more efficiently, but we are not doing it.” - “We probably have enough resources to sustain 9.2 billion people; the question is whether or not people can live together or not. With so many people, there may be wars because of differences of opinion.” - “It comes back to if humans can live harmoniously with each other. The more people the more problems there are.” What is the best synthesizing statement for the ideas above?",
+    "answers": [
+      "The earth has the resources to sustain 9.2 billion people; the threatening issue is whether or not people can live in harmoniously with each other."
+    ]
+  },
+  {
+    "question": "After you watch the two improved videos of the discussion on water scarcity, answer the following questions about David’s academic conversation skills. Which of the following describe David’s physical presence? Choose all that apply.",
+    "answers": [
+      "He is on the same level as the rest of the group",
+      "He has a clear desk and no distractions in his hand.",
+      "He has eye contact with the other members of the group.",
+      "He leans into the conversation and uses positive conversational body language, including smiling and nods."
+    ]
+  },
+  {
+    "question": "Watch this video clip of the introduction to an academic discussion about poverty. Then answer the question that follows. Play Video The academic collocation “tackle a problem” was used in this video clip. Which of the following best explains this idea?",
+    "answers": ["To make a big effort to solve a difficult problem"]
+  },
+  {
+    "question": "True or false? The task of a discussion is similar to a blueprint of house because it guides the discussion and focuses the group members.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Complete the sentence. The speaker connects with the audience by asking the if they _____________.",
+    "answers": ["have a social media account"]
+  },
+  {
+    "question": "If your speech seems too long after rehearsing it, what should you do?",
+    "answers": ["Delete some information from the speech"]
+  },
+  {
+    "question": "True or false? To make your evidence stronger, it’s okay to exaggerate research findings.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Complete the sentence. While answering questions, seeking confirmation is a good way to ________________.",
+    "answers": ["make sure that you have satisfactorily answered a question"]
+  },
+  {
+    "question": "What is the purpose of inflection?",
+    "answers": ["to communicate something or keep the audience’s interest"]
+  },
+  {
+    "question": "Approximately what percentage of a poster should contain text?",
+    "answers": ["60%"]
+  },
+  {
+    "question": "True or false? It's a good idea to give out handouts at the end of the presentation instead of the beginning.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Complete the sentence. When you want to prepare for an academic discussion, the most important thing to do is ___________________",
+    "answers": ["To react to the assigned reading"]
+  },
+  {
+    "question": "You want to mark your text to prepare for a discussion. Which symbol should you use to show an important point to discuss?",
+    "answers": ["*"]
+  },
+  {
+    "question": "Which of the following are considered critical thinking? Choose all that apply.",
+    "answers": ["analysis", "synthesis", "evaluation"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. plausible ______________",
+    "answers": ["explanation"]
+  },
+  {
+    "question": "Why should you use evidence to support a claim when you’re disagreeing with someone?",
+    "answers": [
+      "It will show that your disagreement is based on logic, not on personal opinion."
+    ]
+  },
+  {
+    "question": "Of these disagreement phrases, which is the least confrontational?",
+    "answers": ["I understand what you’re saying, but . . ."]
+  },
+  {
+    "question": "Choose the word that completes the collocation. contribute ______________",
+    "answers": ["significantly", "to the development"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. basic ____________",
+    "answers": ["assumption"]
+  },
+  {
+    "question": "Choose the word that completes the collocation. vast _____________",
+    "answers": ["range"]
+  },
+  {
+    "question": "Which of the following is an appropriate statement if someone is talking too much?",
+    "answers": [
+      "“That’s interesting, but we haven’t heard from everyone about this yet.”"
+    ]
+  },
+  {
+    "question": "Choose the word that completes the collocation. vary ______________",
+    "answers": ["considerably"]
+  },
+  {
+    "question": "What should you do if you have something to say but nobody stops talking?",
+    "answers": ["Politely interrupt so you can contribute your idea."]
+  },
+  {
+    "question": "Choose the word that completes the collocation. get ___________",
+    "answers": ["involved"]
+  },
+  {
+    "question": "Which of the following is NOT a sentence frame that would precede a statement of synthesis?",
+    "answers": ["The next step should be to . . ."]
   }
 ]
