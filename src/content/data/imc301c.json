@@ -790,5 +790,25 @@
   {
     "question": "In the case you can see that one of the most used methods of Tesla to gain awareness was allowing journalists and influencers of the industry into the cars so they would talk about them (without getting paid). What type of communication would this be?",
     "answers": ["Publicity."]
+  },
+  {
+    "question": "Which of the following aspects is most important when developing a compelling brand message?",
+    "answers": ["Consistency across all channels"]
+  },
+  {
+    "question": "What is the typical range of years for a product to stay in the maturity stage in its lifecycle?",
+    "answers": ["5"]
+  },
+  {
+    "question": "Which characteristic is crucial for products with high involvement in purchasing decisions?",
+    "answers": ["Extended decision-making process"]
+  },
+  {
+    "question": "What is the primary goal during the market growth phase in product life cycle management?",
+    "answers": ["Maximize market share"]
+  },
+  {
+    "question": "Which of the following are strategies for brand portfolio expansion?",
+    "answers": ["Brand extension", "Strategic alliances", "Co-branding"]
   }
 ]
