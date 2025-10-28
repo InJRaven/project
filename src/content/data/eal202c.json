@@ -2519,5 +2519,21 @@
   {
     "question": "Which of the following is NOT a sentence frame that would precede a statement of synthesis?",
     "answers": ["The next step should be to . . ."]
+  },
+  {
+    "question": "Watch this video clip and then answer the question that follows. Question 1 Video Clip Play Video What is the most important finding?",
+    "answers": [
+      "The number of violent crime victims has been decreasing since the mid 1990s."
+    ]
+  },
+  {
+    "question": "True or false? The kinesthetic learning style is very familiar to people, according to the speaker.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Based on the lecture, what statement would the speaker probably agree with?",
+    "answers": [
+      "The characteristics of a lecture are more important than the characteristics of a learner when understanding a lecture."
+    ]
   }
 ]

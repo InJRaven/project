@@ -1071,5 +1071,9 @@
   {
     "question": "Which learning paradigm is most suitable for a data analysis task that involves summarizing the key findings of a research paper? Select the best answer.",
     "answers": ["Zero-shot learning"]
+  },
+  {
+    "question": "In the RACE framework, which phase focuses on defining the AI's area of expertise or the specific persona? Select the best answer.",
+    "answers": ["Role"]
   }
 ]

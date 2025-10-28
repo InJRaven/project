@@ -5845,5 +5845,45 @@
     "answers": [
       "Interview processes can vary depending on factors such as the type of position and the size of the company."
     ]
+  },
+  {
+    "question": "You want to incorporate multiple subsystems in your new inventory management platform. The project manager wants a document that contains user and software requirements to focus on the entire scope of the system. Which document should you use in this case?",
+    "answers": ["System requirements specifications (SysRS)"]
+  },
+  {
+    "question": "In a software development project, you want to ensure that your team project follows a structured process that involves transforming the collected user requirements into a usable structure for developers. Which of the following processes is best for you in this scenario?",
+    "answers": ["Software design"]
+  },
+  {
+    "question": "A product development team is discussing prioritizing features for their next release based on customer requirements. Which of the following roles makes decisions for feature priority?",
+    "answers": ["Product Owner"]
+  },
+  {
+    "question": "A development team is using a tool that automates code integration and testing, ensuring that all code components work together smoothly. What process are they implementing to automatically build and test your code?",
+    "answers": ["Continuous integration"]
+  },
+  {
+    "question": "A software engineer is using a version control system to manage changes to code over time. Which additional tool can enhance the efficiency of this process by automating tasks such as downloading dependencies and running tests?",
+    "answers": ["Build tool"]
+  },
+  {
+    "question": "As a software engineer, you are tasked with developing a web application that requires both client-side and server-side functionalities. Which development stack would allow you to use a single programming language across both the front-end and back-end, simplifying the development process?",
+    "answers": ["MEAN stack"]
+  },
+  {
+    "question": "An organization has developed a system where employees use installed client applications that connect them directly to the centralized database to manage records. Which system’s architecture pattern is being used in this system?",
+    "answers": [
+      "Clients send requests directly to a server for services and data"
+    ]
+  },
+  {
+    "question": "Mitra works as a team lead in an MNC where she encountered a major bug issue in the application. She communicates with clients and team members for solving complex design issues and adapts to changes in the project requirements. Which of the following skills will she used primarily in this situation to resolve the bug?",
+    "answers": [
+      "Soft skills, including communication, problem solving, and adaptability"
+    ]
+  },
+  {
+    "question": "A university career counselor is advising students about job market trends. What percentage increase in employment is projected for software developers, analysts, and testers between 2020 and 2030, according to the U.S. Bureau of Labor Statistics?",
+    "answers": ["22%"]
   }
 ]

@@ -1786,7 +1786,7 @@
   },
   {
     "question": "Lama and Jacky are working together on the application, where one writes code and the other reviews and provides direction. They regularly switch their roles. Which pair programming style best suits this scenario?",
-    "answers": ["Strong style"]
+    "answers": ["Navigator style"]
   },
   {
     "question": "As a developer, you are building a data-driven web application using PHP for server-side scripting and MySQL as the database. Which software stack would meet your requirements?",
@@ -3913,5 +3913,223 @@
     "answers": [
       "Interview processes can vary depending on factors such as the type of position and the size of the company."
     ]
+  },
+  {
+    "question": "After a software system is deployed, ongoing updates and issue resolution are required to ensure smooth operation. Which task is typically performed during the maintenance phase of the SDLC?",
+    "answers": ["Resolving minor software bugs and performance issues"]
+  },
+  {
+    "question": "A healthcare startup is finalizing its new software. They want to ensure that the program meets user requirements and is bug-free before the general launch. What should be the focus of the testing team during their testing phase?",
+    "answers": ["Verify software matches requirements."]
+  },
+  {
+    "question": "A startup company is using a development method where software is built in small increments, allowing frequent testing and feedback at each iteration. What do you call this approach?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "In a software development project, you want to ensure that your team project follows a structured process that involves transforming the collected user requirements into a usable structure for developers. Which of the following processes is best for you in this scenario?",
+    "answers": ["Software design"]
+  },
+  {
+    "question": "A development team is using a tool that automates code integration and testing, ensuring that all code components work together smoothly. What process are they implementing to automatically build and test your code?",
+    "answers": ["Continuous integration"]
+  },
+  {
+    "question": "A software engineer is using a version control system to manage changes to code over time. Which additional tool can enhance the efficiency of this process by automating tasks such as downloading dependencies and running tests?",
+    "answers": ["Build tool"]
+  },
+  {
+    "question": "As a software engineer, you are tasked with developing a web application that requires both client-side and server-side functionalities. Which development stack would allow you to use a single programming language across both the front-end and back-end, simplifying the development process?",
+    "answers": ["MEAN stack"]
+  },
+  {
+    "question": "While developing firmware for a custom microcontroller, you want to ensure precise control over hardware functions using a programming language that communicates directly with the CPU using mnemonics. Which of the following statements best describes the role of an assembly language in this scenario?",
+    "answers": [
+      "To write code that interacts directly with CPU registers and memory using mnemonics"
+    ]
+  },
+  {
+    "question": "An organization has developed a system where employees use installed client applications that connect them directly to the centralized database to manage records. Which system’s architecture pattern is being used in this system?",
+    "answers": [
+      "Clients send requests directly to a server for services and data"
+    ]
+  },
+  {
+    "question": "Which of the following best represents the states of login, processing, and log out for the user interaction with the system in various phases?",
+    "answers": [
+      "A diagram that illustrates different user states and events that trigger state change."
+    ]
+  },
+  {
+    "question": "A startup is hiring a software engineer to create an application that helps users track their expenses automatically. What is the primary responsibility of a software engineer in this role?",
+    "answers": ["Develop and design software to address practical challenges."]
+  },
+  {
+    "question": "Mitra works as a team lead in an MNC where she encountered a major bug issue in the application. She communicates with clients and team members for solving complex design issues and adapts to changes in the project requirements. Which of the following skills will she used primarily in this situation to resolve the bug?",
+    "answers": [
+      "Soft skills, including communication, problem solving, and adaptability"
+    ]
+  },
+  {
+    "question": "During the focus time, Mini wants to refine some code for better performance. What would she do?",
+    "answers": ["She disabled feature toggles to reduce conditional branching."]
+  },
+  {
+    "question": "Jimmy is responsible for integrating code into the production environment, ensuring smooth deployment, and managing support infrastructure. What type of software engineering role is Jimmy playing?",
+    "answers": ["DevOps engineer"]
+  },
+  {
+    "question": "A project team is working on a project where they need to deliver a complete system before the client performs acceptance testing. Which of the following software development methods is most suitable in this scenario?",
+    "answers": ["Sequential"]
+  },
+  {
+    "question": "Which of the following programming languages will you leverage to develop a fast-performing desktop application that should run directly on Windows and macOS without an interpreter?",
+    "answers": ["C++"]
+  },
+  {
+    "question": "Which fundamental database operations are represented by the acronym CRUD?",
+    "answers": ["Create, Read, Update, Delete"]
+  },
+  {
+    "question": "Which of the following does the main branch store?",
+    "answers": ["The deployable version of the project code"]
+  },
+  {
+    "question": "Which of the following best describes the function of a pull request?",
+    "answers": ["Helps to merge the child branch with the main branch"]
+  },
+  {
+    "question": "Identify the correct statement.",
+    "answers": [
+      "You can add files in the child branch without adding any to the main branch."
+    ]
+  },
+  {
+    "question": "Which of the following options do you use to request someone to review and approve your project changes before they become final?",
+    "answers": ["Pull request"]
+  },
+  {
+    "question": "What is the primary purpose of version control?",
+    "answers": ["Allows you to keep track of changes to your documents"]
+  },
+  {
+    "question": "Which of the following is a feature of the Git Repository model?",
+    "answers": ["It is a distributed version control system"]
+  },
+  {
+    "question": "What is an “organization” in reference to GitHub?",
+    "answers": ["A collection of user accounts that own repositories"]
+  },
+  {
+    "question": "How will you create a python file in GitHub?",
+    "answers": [
+      "Select Add File > Select Create New File> Provide the file name > Add a comment > Add the code > Commit changes to the repository"
+    ]
+  },
+  {
+    "question": "What is meant by an initial commit in a Git workflow?",
+    "answers": [
+      "Officially recording the current state of your project’s files in the local Git repository"
+    ]
+  },
+  {
+    "question": "Which git command allows you to see the state of your working directory and the staged snapshot of your changes?",
+    "answers": ["git status"]
+  },
+  {
+    "question": "Why do you fork a project?",
+    "answers": ["To use an existing repository as the base for a new project"]
+  },
+  {
+    "question": "Which of the following options should be used to fork a repository?",
+    "answers": [
+      "Navigate to the GitHub project and select Fork at the top of the page."
+    ]
+  },
+  {
+    "question": "Which Git command can an integrator use to undo any botched commits?",
+    "answers": ["git revert"]
+  },
+  {
+    "question": "Ryan, a web developer, is troubleshooting a webpage where an external CSS file does not apply the expected styles. On checking, he noticed that some elements have styles defined using different methods. Which method of applying CSS has the highest priority and will override others?",
+    "answers": ["Inline CSS applied directly to each HTML element"]
+  },
+  {
+    "question": "Which tag is used to represent an independent item of content in a document, which can be meaningful on its own?",
+    "answers": ["<article>"]
+  },
+  {
+    "question": "What keyword is used to declare a traditional named function in JavaScript?",
+    "answers": ["function"]
+  },
+  {
+    "question": "How do CI/CD pipelines help in AI-powered monitoring tools that are integrated to strengthen system performance?",
+    "answers": ["Detecting abnormal behavior and security threats"]
+  },
+  {
+    "question": "Which AI-based technique involves analyzing source code structures to support refactoring and architecture decisions?",
+    "answers": []
+  },
+  {
+    "question": "During a QA planning session, Mia looked for tools to create test cases, run them efficiently, and help focus efforts on the areas that matter most. Which advantage does AI bring to this process?",
+    "answers": []
+  },
+  {
+    "question": "You are accessing generative AI tools and need to be aware of ethical challenges to avoid unfair outputs. Which of the following is an ethical concern when using generative AI in software development?",
+    "answers": ["Bias and discrimination"]
+  },
+  {
+    "question": "Mike, a software engineer, wants his team to follow the codebase consistently for the established design patterns to improve maintainability and quality using AI. How can AI best support this effort?",
+    "answers": ["Analyzing code for design patterns"]
+  },
+  {
+    "question": "An engineering lead wants to improve defect detection early in the test cycle using data from past releases. How does AI assist with early-stage testing and issue prevention?",
+    "answers": ["Predict and delete bugs from past patterns."]
+  },
+  {
+    "question": "You want to ensure consistency in layout, typography, and spacing across all pages in your website. How can AI help in maintaining uniform design standards?",
+    "answers": ["Analyzes patterns and adheres to predefined design principles"]
+  },
+  {
+    "question": "What is a characteristic function that software engineers do?",
+    "answers": [
+      "Design each piece of an application or system and plan how the pieces will work together."
+    ]
+  },
+  {
+    "question": "James is applying for his first job after college and is unsure about how much content to include in his resume. What’s the best approach to listing hobbies and interests?",
+    "answers": [
+      "Include hobbies and interests only if he has limited experience or job-relevant skills."
+    ]
+  },
+  {
+    "question": "Claire is tailoring her resume for online applications and wants to ensure it’s optimized for Search Engine Optimization (SEO) and Applicant Tracking Systems (ATS). What step should she take?",
+    "answers": ["Add alt-text to any visuals or graphics she includes."]
+  },
+  {
+    "question": "Amy is a back-end developer actively looking for job opportunities. She wants to enhance her visibility to recruiters using online platforms. How should she leverage LinkedIn to increase her chances?",
+    "answers": [
+      "She can highlight skills, flag profile as open to work, and complete skill tests."
+    ]
+  },
+  {
+    "question": "During the interview process, you are given a coding challenge and asked to sign a non-disclosure agreement (NDA) before a code challenge. What is the most likely reason for this?",
+    "answers": [
+      "The company wants to prevent you from sharing the challenge with other candidates."
+    ]
+  },
+  {
+    "question": "You are nearing the end of the technical interview, and as best practice, the interview panel has asked you if you have any questions for them. What is the most effective way to take this opportunity?",
+    "answers": [
+      "Ask thoughtful questions to showcase your preparation and interest"
+    ]
+  },
+  {
+    "question": "Paul has completed the coding challenge for the front-end developer role. In the next round of interviews, she is meeting with a project manager and two developers, who will evaluate her understanding of the role and team compatibility. What type of interview is Paul participating in?",
+    "answers": ["Team interview"]
+  },
+  {
+    "question": "After receiving a job offer, Pristin feels excited but realizes that the job offer letter mentions a salary less than what she was expecting. What should Pristin do next in this scenario to respond appropriately?",
+    "answers": ["Express interest and explain her value to get a fair offer"]
   }
 ]
