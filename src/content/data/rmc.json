@@ -1,0 +1,1070 @@
+[
+  {
+    "question": "Positive and known selection probabilities are essential for ... [multiple correct answers possible]",
+    "answers": ["descriptive inference"]
+  },
+  {
+    "question": "Which big data characteristic captures issues of missing data? [multiple correct answers possible]",
+    "answers": ["Veracity"]
+  },
+  {
+    "question": "Administrative data ... [multiple correct answers possible]",
+    "answers": [
+      "are usually not generated with research purposes in mind",
+      "can be seen as big data"
+    ]
+  },
+  {
+    "question": "Confidence intervals for clustered samples tend to be ... [multiple correct answers possible]",
+    "answers": ["wider"]
+  },
+  {
+    "question": "ETL means ... [multiple correct answers possible]",
+    "answers": ["Extract - Transform - Load"]
+  },
+  {
+    "question": "Which of the following steps does not belong to post-processing? [multiple correct answers possible]",
+    "answers": ["Hypothesis generation"]
+  },
+  {
+    "question": "Survey interview data ... [multiple correct answers possible]",
+    "answers": [
+      "usually involve a sample",
+      "involve large variation in size and quality"
+    ]
+  },
+  {
+    "question": "Data generating process ... [multiple correct answers possible]",
+    "answers": [
+      "needs to be known to ensure valid inference",
+      "influences a type of research question we can answer"
+    ]
+  },
+  {
+    "question": "Twitter data have the following characteristics ... [multiple correct answers possible]",
+    "answers": ["volume", "variety", "velocity"]
+  },
+  {
+    "question": "Which of the following Statements is correct? [multiple correct answers possible]",
+    "answers": [
+      "In the private sector Big Data is used to manage work and to make decisions. Examples of research techniques used are predictive analytics and rapid cycle evaluation.",
+      "Surveys and Big Data are complementary methods, not competing methods. There are differences between the approaches, but this should be seen as an advantage rather than a disadvantage.",
+      "Research is about answering questions and the best way to start is to study all available information. Big Data is one such source that provides new ways of approaching old questions and to address new questions."
+    ]
+  },
+  {
+    "question": "The problem of equivalent models is ... [multiple correct answers possible]",
+    "answers": [
+      "that different theories yield the exact same predictions for some set of observations."
+    ]
+  },
+  {
+    "question": "Which of the following data sources are examples of organic / found data? [multiple correct answers possible]",
+    "answers": [
+      "Twitter feeds",
+      "Administrative records",
+      "Credit card transactions"
+    ]
+  },
+  {
+    "question": "Equivalent models ... [multiple correct answers possible]",
+    "answers": ["are a problem of inductive reasoning"]
+  },
+  {
+    "question": "An architectural approach that revolves around providing programmable interfaces to a set of services to different applications serving different types of consumers often used to automatically retrieve data is called ... [multiple correct answers possible]",
+    "answers": ["API"]
+  },
+  {
+    "question": "CATI surveys ... [multiple correct answers possible]",
+    "answers": ["allow interviewers to use computers when fielding the survey"]
+  },
+  {
+    "question": "Which of the following stages of a survey production is affected by the mode of data collection? [multiple correct answers possible]",
+    "answers": ["Sampling decisions", "Interviewing", "Responses"]
+  },
+  {
+    "question": "Mixing survey modes [multiple correct answers possible]",
+    "answers": [
+      "can affect all sources of survey error and costs",
+      "can be applied for the contact phase, the response phase, or the follow-up phase"
+    ]
+  },
+  {
+    "question": "Analysis plan ... [multiple correct answers possible]",
+    "answers": [
+      "can include creation of mock graphs and tables (i.e. using fictitious data)",
+      "involves planning what you want to observe at the outset of the study"
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a new mode of data collection? [multiple correct answers possible]",
+    "answers": ["API"]
+  },
+  {
+    "question": "ACASI surveys ... [multiple correct answers possible]",
+    "answers": [
+      "allow respondents to enter their information without an interviewer"
+    ]
+  },
+  {
+    "question": "Which of these statements about surveys is correct? [multiple correct answers possible]",
+    "answers": [
+      "In some studies, other methods of data collection are used to supplement survey data.",
+      "In a survey, information from a sample of entities of a larger population is collected to create quantitative descriptors of the characteristics of this larger population."
+    ]
+  },
+  {
+    "question": "Which of these statements about inference in surveys is correct? [multiple correct answers possible]",
+    "answers": [
+      "There are two types of survey inference, first from the response of one respondent to the characteristics of the respondent and then from the characteristics of a sample to the characteristics of the population."
+    ]
+  },
+  {
+    "question": "Which of these elements is not part of the measurement side of the survey life cycle? [multiple correct answers possible]",
+    "answers": ["Sampling frame"]
+  },
+  {
+    "question": "A sample is ... [multiple correct answers possible]",
+    "answers": [
+      "...a subset of the frame population chosen for measurement in a survey."
+    ]
+  },
+  {
+    "question": "Which of these statements about the Total Survey Error (TSE) framework is correct? [multiple correct answers possible]",
+    "answers": [
+      "The TSE framework considers all errors of nonobservation, errors of observation, and errors of processing in a survey.",
+      "TSE guides design decisions in surveys."
+    ]
+  },
+  {
+    "question": "Several studies found that respondents systematically underreport socially undesirable behaviors in face-to-face interviews. Is this an example of a variable error or bias? [multiple correct answers possible]",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "Although all interviewers went through the same training procedures for a study and were assigned similar sub-samples of respondents, the mean respondent income is high for some interviewers and low for others. Is this an example of a variable error or bias? [multiple correct answers possible]",
+    "answers": ["Variable Error"]
+  },
+  {
+    "question": "Which of these is not a source of measurement error? [multiple correct answers possible]",
+    "answers": ["Sampling frame"]
+  },
+  {
+    "question": "The absence of answers to specific questions (e.g. a person provides data, but data on particular questions are missing) refers to:",
+    "answers": ["Item non-response"]
+  },
+  {
+    "question": "Which of these errors can never be affected by choosing a mode? [multiple correct answers possible]",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "Which of the following surveys is conducted over the telephone with computer assistance? [multiple correct answers possible]",
+    "answers": ["BRFSS", "SCA"]
+  },
+  {
+    "question": "Which of the following surveys is a panel study? [multiple correct answers possible]",
+    "answers": ["NCVS", "SCA"]
+  },
+  {
+    "question": "Which of the following surveys includes physical measurements and direct linkage with administrative records? [multiple correct answers possible]",
+    "answers": ["SHARE"]
+  },
+  {
+    "question": "Which of these statements is correct? [multiple correct answers possible]",
+    "answers": [
+      "We need to have a Total Error perspective not only for designed but also for found data.",
+      "The TSE framework attempts to describe the nature of the error sources and what they may suggest about how the errors could affect inference.",
+      "Just like in the case of survey data, each step in the big data process will generate errors that will affect the estimates and each found data source will have its own set of errors."
+    ]
+  },
+  {
+    "question": "Which of these statements about ESS is correct? [multiple correct answers possible]",
+    "answers": [
+      "ESS conducts research on mixed-mode designs.",
+      "ESS continuously works on improving question quality, e.g. the SQP project (Survey Quality Predictor)."
+    ]
+  },
+  {
+    "question": "Which of these statements is correct? [multiple correct answers possible]",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "Which of the following surveys uses non-probability sampling?",
+    "answers": ["none of the above"]
+  },
+  {
+    "question": "Which of the following surveys uses organizations as a target population?",
+    "answers": ["CES"]
+  },
+  {
+    "question": "Which of these statements is correct? [multiple correct answers possible]",
+    "answers": [
+      "When a survey researcher constructs an instrument there are levels of planning and control that are necessarily absent in the organic data.",
+      "Administrative data arise organically through administrative processes."
+    ]
+  },
+  {
+    "question": "Which of these statements is correct? [multiple correct answers possible]",
+    "answers": [
+      "The availability of Big Data to support research provides a new way to approach old questions as well as an ability to address some new questions that in the past were out of reach.",
+      "The primary advantage of basing research on survey data is the control it provides for researchers - the survey can be designed specifically to support the needs of the research.",
+      "In thinking about how to blend Big Data with traditional research methods, it is important to be clear about the relevant questions to be addressed.",
+      "Compared with survey data, found data usually require less effort and time to collect and prepare for analysis."
+    ]
+  },
+  {
+    "question": "Please indicate whether this is an example of conversational or standardized interviewing. Interviewer: Have you had any expenses on furniture in the past month? Respondent: I bought a floor lamp. Does that count as furniture? Interviewer: Whatever it means to you. Respondent: Then no. I haven't.",
+    "answers": ["Standardized interviewing"]
+  },
+  {
+    "question": "Please indicate whether this is an example of conversational or standardized interviewing. Interviewer: How many bedrooms are in your home? Respondent: Well, my son sleeps in the basement. Does that count as a bedroom? Interviewer: Let me repeat the question. How many bedrooms are in your home? Respondent: Three.",
+    "answers": ["Standardized interviewing"]
+  },
+  {
+    "question": "Please indicate whether this is an example of conversational or standardized interviewing. Interviewer: And how many other rooms are there other than bedrooms and bathrooms? And by that I mean living room, dining room, kitchens, lodgers' rooms, finished basements or attic rooms, recreation rooms, or permanently enclosed sun porches, but these rooms would be considered separate rooms as long as there is a permanent partition from floor to ceiling between the two areas. So, with those definitions, how many rooms are there other than bedrooms and bathrooms? Respondent: One, it's the kitchen and front room combined, because there's no partition between them. Interviewer: Okay, so the living room, dining rooms, kitchen is all one. Respondent: Yes. Interviewer: Okay, and there are no other attic rooms or recreation rooms. Respondent: No. Interviewer: Okay, so I'm going to put one in.",
+    "answers": ["Conversational interviewing"]
+  },
+  {
+    "question": "Please indicate whether this is an example of conversational or standardized interviewing. Interviewer: In the past year, that is, since July of 2013, have you had any expenses for liquor for home use? Respondent: Just beer. Interviewer: Is that a yes or a no? Respondent: No.",
+    "answers": ["Standardized interviewing"]
+  },
+  {
+    "question": "Would you expect the following question to increase bias or variance? \"Last week were you victim of a crime?\"",
+    "answers": ["Variance"]
+  },
+  {
+    "question": "Would you expect the following question to increase bias or variance? \"Would you say the government should force people to have saving accounts?\"",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "Would you expect the following question to increase bias or variance? \"Were you aware that fur traders use methods including drowning and bludgeoning in order to save money and avoid damage to the fur?\"",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "What are the three main sources of measurement error in surveys?",
+    "answers": ["Interviewer", "Respondent", "Questionnaire"]
+  },
+  {
+    "question": "Ideally, when should questionnaire designers and their clients think about the analysis plan?",
+    "answers": ["Before the questionnaire design is finished."]
+  },
+  {
+    "question": "Which of the following questions best describes the goal of standardized interviewing?",
+    "answers": [
+      "The goal of standardization is that each respondent be exposed to the same question experience."
+    ]
+  },
+  {
+    "question": "For the following survey question, please indicate which phase of the response process is most likely to cause measurement error. Have you ever had a myocardial infarction?",
+    "answers": ["Comprehension"]
+  },
+  {
+    "question": "For the following survey question, please indicate which phase of the response process is most likely to cause measurement error. Thinking about the past 5 years, how many meals have you eaten in restaurants?",
+    "answers": ["Retrieval"]
+  },
+  {
+    "question": "For the following survey question, please indicate which phase of the response process is most likely to cause measurement error. Please indicate your marital status. Are you: 1. Married 2. A member of an unmarried couple 3. Divorced 4. Separated 5. Widowed 6. Never married",
+    "answers": [
+      "Reporting - Respondents has hard time finding right category because some response categories overlap"
+    ]
+  },
+  {
+    "question": "Which of the following statements about the ideal response process is correct?",
+    "answers": [
+      "The processes are sequential but respondents can back track to previous stages."
+    ]
+  },
+  {
+    "question": "Which of the following actions will help to improve comprehension? (multiple answers possible)",
+    "answers": [
+      "Using pretests to find terms that people understand in the same way.",
+      "Providing definitions that interviewers can easily administer.",
+      "Removing unrelated information from the question."
+    ]
+  },
+  {
+    "question": "Which of the following statements about retrieval are correct? (multiple answers possible)",
+    "answers": [
+      "The regularity with which events occur will influence how often respondents rely on episodic versus semantic memory when formulating their answers.",
+      "Using images as retrieval cues may remind respondents of very specific events only and should be selected carefully."
+    ]
+  },
+  {
+    "question": "There are three broad strategies respondents use when estimating behavioral frequencies, each of them generally leading to different types of error. Match the strategies to the error. (Multiple answers possible)",
+    "answers": [
+      "Rate based estimation generally leads to overestimation.",
+      "Impression based estimation generally leads to overestimation",
+      "Recall and count generally leads to underestimation."
+    ]
+  },
+  {
+    "question": "Which of these statements about satisficing is correct?",
+    "answers": [
+      "Satisficing refers to mental shortcuts that enable respondents to provide acceptable but not optimal answers leading, for example, to primacy effects."
+    ]
+  },
+  {
+    "question": "When faced with a question that requires recall over a long period of time such as ‘Over the last five years ...’ respondents ...",
+    "answers": ["may base their answers on estimates about their own behavior."]
+  },
+  {
+    "question": "Which, if any, of the following are true about primacy effects?",
+    "answers": ["Primacy effects are an example of survey satisficing."]
+  },
+  {
+    "question": "Which of these statements is true?",
+    "answers": [
+      "The U.S. Census Bureau allows for multiple race categories in the U.S. Census."
+    ]
+  },
+  {
+    "question": "Which of the following statements about recall is true?",
+    "answers": [
+      "If the information is never encoded it can't be retrieved from memory."
+    ]
+  },
+  {
+    "question": "Which of these statements about facts and quasi-facts are correct? Multiple correct answers are possible.",
+    "answers": [
+      "Race and ethnicity are examples of quasi-facts.",
+      "Factual questions can be about behaviors, such as exercise, food intake, shopping.",
+      "Quasi-facts share features of factual and attitudinal questions."
+    ]
+  },
+  {
+    "question": "\"Since January 2015, have you received any grocery vouchers or certificates through a government social service agency?\" To answer this question, a respondent has to... [multiple correct answers are possible]",
+    "answers": [
+      "...comprehend what the question means by \"receive\", \"grocery vouchers or certificates\", and \"government social service agency\".",
+      "...recall whether this event has happened since January 2015."
+    ]
+  },
+  {
+    "question": "Which of the following statements about recall methods is correct?",
+    "answers": [
+      "Cueing recall with examples might help the respondent to remember events but might also limit them in the events that come to mind."
+    ]
+  },
+  {
+    "question": "In June 2014, a survey asks, \"In the past year, that is from Jan 1, 2013 to Dec 31, 2013, how many times did you visit a doctor?\" What is the recall period in this question?",
+    "answers": ["Jun 2014 - Jan 2013"]
+  },
+  {
+    "question": "Check all factors that can have an influence on the amount of motivated misreporting to sensitive questions. [multiple correct answers possible]",
+    "answers": [
+      "Mode of data collection",
+      "Wording of the question",
+      "Presence of bystanders"
+    ]
+  },
+  {
+    "question": "In a survey, you want to collect information about illicit drug use among young adults. Which of these modes would probably yield the lowest estimate for illicit drug use?",
+    "answers": ["Face-to-face"]
+  },
+  {
+    "question": "What are methods that could be used to improve answers to factual questions? [multiple correct answers are possible]",
+    "answers": [
+      "Using records (e.g., receipts)",
+      "Using cues and context to structure the questionnaire",
+      "Asking respondents to keep a diary"
+    ]
+  },
+  {
+    "question": "Which of these statements about sensitive questions are correct? [multiple correct answers possible]",
+    "answers": [
+      "Personal perception might drive what a respondent thinks is sensitive.",
+      "Sensitive questions usually lead to higher item nonresponse than non-sensitive questions.",
+      "Sensitive questions can concern private information, illegal behavior, or socially stigmatized behaviors and opinions."
+    ]
+  },
+  {
+    "question": "Which one of these is an example of a bipolar scale?",
+    "answers": [
+      "Very dissatisfied-somewhat dissatisfied-somewhat satisfied-very satisfied"
+    ]
+  },
+  {
+    "question": "Which of the following are true about agree/disagree questions? (multiple answers possible)",
+    "answers": [
+      "They are quick to answer.",
+      "They are appealing to respondents."
+    ]
+  },
+  {
+    "question": "A question like \"Do you agree, disagree, or do you not have an opinion on that?\" is called a...",
+    "answers": ["...quasi-filter."]
+  },
+  {
+    "question": "Which of the following conditions is likely to increase satisficing compared to the opposite condition? (multiple answers possible)",
+    "answers": [
+      "Respondents have low cognitive ability",
+      "Questions are complex or cognitively demanding",
+      "Respondents have low motivation to respond"
+    ]
+  },
+  {
+    "question": "Attitude questions are less reliable (produce more variability) when...",
+    "answers": [
+      "...there are different, but equal amounts of conflicting and consistent information available to respondents."
+    ]
+  },
+  {
+    "question": "Which of these questions from a course evaluation survey are attitude questions? (multiple answers possible)",
+    "answers": [
+      "How much do you agree or disagree with the following statement? I prefer course material that really challenges me so I can learn new things. Do you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree?",
+      "How helpful were the additional materials provided on the course website in preparing for the final exam? Not at all helpful, a little helpful, somewhat helpful, very helpful, or extremely helpful?"
+    ]
+  },
+  {
+    "question": "Which of these statements about attitudes are correct? (multiple answers possible)",
+    "answers": [
+      "The traditional view about attitudes is that they are pre-existing, retrievable, and independent of context and time.",
+      "An attitude can be an enduring positive or negative feeling about some person, object, or issue.",
+      "Studies found that attitudes can be less stable than previously thought."
+    ]
+  },
+  {
+    "question": "If respondents include prior questions in interpreting and understanding the current questions, this is called...",
+    "answers": ["assimilation effect."]
+  },
+  {
+    "question": "In which of these survey modes would you expect to find a primacy effect when presenting a list of unordered response options? (multiple answers possible).",
+    "answers": [
+      "A Web survey",
+      "A face-to-face survey, where show cards are used",
+      "A mail survey"
+    ]
+  },
+  {
+    "question": "Which of theses statements about open-ended questions in surveys are correct? (multiple answers possible)",
+    "answers": [
+      "Open-ended questions can reduce socially desirable responding when asking about frequencies of sensitive behaviors.",
+      "Open-ended questions require the respondent to come up with their own answer."
+    ]
+  },
+  {
+    "question": "Which of the following statements are false? (multiple answers possible)",
+    "answers": [
+      "In expert reviews the information is obtained directly from the type of respondents that make up the target audience.",
+      "Expert reviews rely on input from the respondent.",
+      "The results of expert reviews are independent of the reviewer."
+    ]
+  },
+  {
+    "question": "Which of the following statements is correct when considering the question: \"What does the term MOOC mean to you?\"",
+    "answers": ["It examines respondents' comprehension."]
+  },
+  {
+    "question": "A question with unclear words or terms may lead to which of the following behaviors from respondents?",
+    "answers": ["All of these"]
+  },
+  {
+    "question": "Which of theses statements about coding respondent-interviewer interaction is correct? (multiple answers possible)",
+    "answers": [
+      "In practice, behavior is most often coded on the question-answer sequence level.",
+      "Coding at the interview level is not very helpful as it does not point questionnaire designers at questions that need changes.",
+      "By coding at the turn level it's possible to see if interviewer-provided clarification is preceded by respondent evidence of confusion."
+    ]
+  },
+  {
+    "question": "Cognitive interviewing is better than behavior coding for identifying which kinds of problems? (multiple answers possible)",
+    "answers": [
+      "Respondents don’t know the meaning of a particular word in the question.",
+      "The recall period is too long for respondents to carefully search their memories."
+    ]
+  },
+  {
+    "question": "Which of these statements about behavior coding are correct? (multiple answers possible)",
+    "answers": [
+      "Behavior coding can be used at different stages of the data collection process, i.e., prior to, during, or after the actual data collection.",
+      "Behavior coding includes methodical observations of the interviewer-respondent interaction.",
+      "Behavior coding provides relatively objective measures of problems with questions."
+    ]
+  },
+  {
+    "question": "Which of these are commonly used codes in behavior coding? (multiple answers possible)",
+    "answers": [
+      "Respondent requests repeat of question",
+      "Interviewer makes reading error",
+      "Respondent gives inadequate answer",
+      "Respondent interrupts interviewer"
+    ]
+  },
+  {
+    "question": "Which of these statements about Latent Class Analysis (LCA) are correct? (multiple answers possible)",
+    "answers": [
+      "LCA can identify problematic survey items.",
+      "LCA works based on the assumption that multiple observed indicators (i.e., survey questions) form a latent construct."
+    ]
+  },
+  {
+    "question": "You are beginning to draft questions for a new survey, and you need to know how your target population thinks and talks about the survey topic (i.e., what words they use, how they define those terms, etc.). What technique should you employ?",
+    "answers": ["Focus groups"]
+  },
+  {
+    "question": "Which of these problems could be revealed with the help of a field test that includes interviewer debriefing? (Multiple answers possible)",
+    "answers": [
+      "There is an error in the skip instructions.",
+      "There is an unusually high number of \"don't know\" responses to one question.",
+      "The questionnaire takes much longer to administer than anticipated."
+    ]
+  },
+  {
+    "question": "When designing a paper-and-pencil questionnaire, which of the following possible formatting guidelines are true? [Multiple correct answers possible]",
+    "answers": [
+      "Use close spacing or shading if you want respondents to consider elements as part of a group",
+      "Use narrow columns to encourage more complete reading of words",
+      "Ask one question at a time",
+      "Remove brightness or color of visual elements if you want something not to be noticed."
+    ]
+  },
+  {
+    "question": "Which of the following statements are true about context effects? [Multiple correct answers possible]",
+    "answers": [
+      "The presentation and order of response options may affect survey responses",
+      "Contrast effects may be observed when the respondent excludes information used to answer prior questions in answering the current item",
+      "Assimilation effects may be observed when the respondent includes information used to answer prior questions when formulating an answer to the current item"
+    ]
+  },
+  {
+    "question": "Why is pretesting necessary in questionnaire design? [Multiple correct answers possible]",
+    "answers": [
+      "It detects operationalization errors such as variability across respondents or interviewers",
+      "It identifies instrument features that lead to response errors",
+      "It identifies respondent processing issues that lead to response errors"
+    ]
+  },
+  {
+    "question": "A longer recall period may cause...",
+    "answers": ["Increased measurement error"]
+  },
+  {
+    "question": "The main source or sources of measurement error are...",
+    "answers": ["Interviewer, respondent, and questionnaire"]
+  },
+  {
+    "question": "Which statement about standardized survey interviewing is not true?",
+    "answers": ["Interviewers always read aloud all answer categories."]
+  },
+  {
+    "question": "Which of Grice’s Maxims can be summarized as \"Do not say something that you know is false\"?",
+    "answers": ["Maxim of Quality"]
+  },
+  {
+    "question": "The filtering procedure in self-administered questionnaires can be simplified by means of various elements. Which recommendation is NOT such an element?",
+    "answers": [
+      "All tips and instructions for respondents should be bundled and placed at the beginning of the questionnaire."
+    ]
+  },
+  {
+    "question": "The filtering procedures in paper-and-pencil questionnaires can result in “errors of commission”. Such an error...",
+    "answers": [
+      "as a rule, occurs more often than the so-called “error of omission”."
+    ]
+  },
+  {
+    "question": "Which of the following statements is true? The use of tips and cues...",
+    "answers": ["helps the respondent to recall events."]
+  },
+  {
+    "question": "Which of the following are components of the Response-Process Model? [Multiple correct answers possible]",
+    "answers": ["Judgment", "Retrieval", "Reporting", "Comprehension"]
+  },
+  {
+    "question": "Indirect questioning methods such as Randomized Response Technique (RRT):",
+    "answers": [
+      "Lead to a situation in which only the frequency of the sensitive behaviors across the sample can be estimated."
+    ]
+  },
+  {
+    "question": "Which of the following statements are correct? In surveys on sensitive topics it is preferable... [Multiple correct answers possible]",
+    "answers": [
+      "to first ask general questions on the topic and then move on to specific questions pertaining to the respondent's own behavior.",
+      "to test thoroughly which dimensions (privacy, legal consequences, social desirability) are affected and then choose the appropriate survey mode."
+    ]
+  },
+  {
+    "question": "What are the advantages of standardized interviews relative to conversational interviews? Check all that apply.",
+    "answers": [
+      "They are intended to avoid interviewer effects.",
+      "They result in faster interviews and reduce costs.",
+      "They increase the likelihood that all respondents receive the same stimulus material."
+    ]
+  },
+  {
+    "question": "Which of the following statements are correct? Check all that apply.",
+    "answers": [
+      "While confidential data permit conclusions about the identity of a respondent, access to this information is limited to specific persons.",
+      "Anonymized data do not permit any conclusions about the identity of a respondent."
+    ]
+  },
+  {
+    "question": "Problems retrieving information stored in people’s memories...",
+    "answers": ["can be caused by other similar events."]
+  },
+  {
+    "question": "Assume a questionnaire includes questions on drug use over the past 3 years and a respondent is currently using drugs. Which of the following techniques is LESS likely to reduce the sensitivity of questions as perceived by the respondent?",
+    "answers": ["Limiting the reference period to the past 12 months."]
+  },
+  {
+    "question": "What is/are the advantages of Think-Aloud Interviews? [Multiple correct answers possible]",
+    "answers": [
+      "They provide a window into how respondents think while answering survey questions."
+    ]
+  },
+  {
+    "question": "The central result of the JPSM 2005 Alumni Study by Kreuter, Presser and Tourangeau (2008) is that... [Multiple correct answers possible]",
+    "answers": [
+      "for sensitive questions, indirect questioning, as opposed to conventional, direct questioning, leads to higher estimates of prevalence.",
+      "sensitive questions in an online survey tend to be reported more frequently than in a comparable telephone survey",
+      "individual perceptions of sensitivity are central to the estimate of the sensitivity of this feature."
+    ]
+  },
+  {
+    "question": "In designing a self-administered questionnaire... [Multiple correct answers possible]",
+    "answers": [
+      "it is preferable to present the questions vertically",
+      "it is recommended that the question stem and answer categories are on the same page."
+    ]
+  },
+  {
+    "question": "In answering a survey question, a respondent who was “satisficing” would be taking the following approach:",
+    "answers": [
+      "The respondent seeks to minimize his or her effort on himself and uses just enough information to formulate a plausible answer"
+    ]
+  },
+  {
+    "question": "If survey responses to a target question are affected by questions that come before it this is called...",
+    "answers": ["a question order effect"]
+  },
+  {
+    "question": "Please read the following survey question: ”How often would you like to receive emails about blood donations?” The response categories were a. Every week, b. Once a month, c. Four times a year, or d. Once a year? Which of the following problems does this question have?",
+    "answers": ["Unwarranted Presupposition"]
+  },
+  {
+    "question": "What is the most likely reason that respondents interrupted the interviewer so many times in the question about payment for a doctor visits in the Oksenberg, Cannell & Kalton (1991) study discussed in Unit #5?",
+    "answers": [
+      "There are some instructions after the question. It would be natural for respondents to start answering after the main part of the question."
+    ]
+  },
+  {
+    "question": "Which of the following statements about expert reviews is false?",
+    "answers": ["Experts are only able to detect wording problems"]
+  },
+  {
+    "question": "Decisions about the most appropriate mode to choose for a particular research question can involve considerations about:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Measurement processes are primarily about",
+    "answers": ["Answers to particular survey questions"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of survey error. For each one, please indicate whether that type of error is variable error or bias? A. Reducing the size of a representative sample from 10,000 to 500 respondents.",
+    "answers": ["Variable error"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of survey error. For each one, please indicate whether that type of error is variable error or bias? B. Failing to collect data from a large subgroup (e.g. those who do not have internet access, who differ systematically from those who do have internet access on an attribute measured in the survey)",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of survey error. For each one, please indicate whether that type of error is variable error or bias? C. Switching from telephone to a self-administered mode, such as web (online) to ask questions about a sensitive topic.",
+    "answers": ["Bias"]
+  },
+  {
+    "question": "One of three descriptions of possible studies and their goals appears below. Please indicate whether it is a) sequential mixed mode b) concurrent mixed mode, or c) parallel mixed mode. I. A consortium of international organizations is conducting a multi-national survey of life satisfaction. In some countries, telephone coverage is far from complete, in others it is nearly universal. Thus different modes are used in different countries.",
+    "answers": ["Parallel mixed mode."]
+  },
+  {
+    "question": "One of three descriptions of possible studies and their goals appears below. Please indicate whether it is a) sequential mixed mode b) concurrent mixed mode, or c) parallel mixed mode. II. A government agency is conducting a general population survey. Because it is critical to achieve a high response rate, the agency first mails a paper questionnaire and then contacts nonrespondents by telephone for an interview. Telephone nonrespondents are contacted face-to-face for a personal visit interview.",
+    "answers": ["Sequential mixed mode"]
+  },
+  {
+    "question": "One of three descriptions of possible studies and their goals appears below. Please indicate whether it is a) sequential mixed mode b) concurrent mixed mode, or c) parallel mixed mode. III. A panel survey has both email and telephone contact information for each panelist, email addresses having been obtained from respondents in an earlier wave. In any given wave, panelists are either contacted by email and invited to complete an online questionnaire or contacted by telephone and invited to take part in a telephone interview.",
+    "answers": ["Concurrent mixed mode"]
+  },
+  {
+    "question": "In Keeter et al. 2006, participation and political engagement were correlated. What impact did this have on population estimates of political engagement based on the “Standard” 5-day study?",
+    "answers": ["Led to overestimate of political engagement"]
+  },
+  {
+    "question": "In Keeter et al. 2006, estimates of behaviors and attitudes that were not related to political engagement were unaffected by nonresponse. This means that:",
+    "answers": [
+      "Response rate and nonresponse error are not necessarily related to each other"
+    ]
+  },
+  {
+    "question": "Survey questions can be considered sensitive if:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "The primary reason that Web administration increases the reporting of sensitive information relative to telephone interviews is that it:",
+    "answers": ["Is self-administered"]
+  },
+  {
+    "question": "Imagine that a survey organization is conducting a Web survey in which respondents are asked to rate their athletic ability. An image of a professional athlete is added above the question. If respondents use this as a standard of comparison, what effect can you expect it to have on their answers:",
+    "answers": ["Make them rate themselves as less athletic"]
+  },
+  {
+    "question": "Conrad et al. (2006) describe different ways of providing clarification in Web surveys. According to them, definitions available via mouse roll-over are requested substantially more often than when available via clicking because roll-over definitions:",
+    "answers": ["Involve relatively little effort"]
+  },
+  {
+    "question": "Coverage errors are a concern in Web surveys because:",
+    "answers": ["Those persons without Internet access are excluded"]
+  },
+  {
+    "question": "Here are two scenarios that concern a change in the design of a Web survey. The change in each scenario is most likely to affect one type of survey error. For each scenario, please indicate whether the error most likely to be affected is coverage error or nonresponse error? I. Providing unconditional incentives, that is, respondents are paid whether or not they finish the questionnaire",
+    "answers": ["Nonresponse Error"]
+  },
+  {
+    "question": "Here are two scenarios that concern a change in the design of a Web survey. The change in each scenario is most likely to affect one type of survey error. For each scenario, please indicate whether the error most likely to be affected is coverage error or nonresponse error? II. Providing internet-enabled devices to the sample",
+    "answers": ["Coverage Error"]
+  },
+  {
+    "question": "According to Villar et al. (2013), what impact will displaying slow-to-fast progress indicators in Web surveys likely have on breakoffs?",
+    "answers": ["Reduce them"]
+  },
+  {
+    "question": "Some online panels appear below. Look for more information about the design of the panels by doing some searching online (for example, using Wikipedia). Then, for each one indicate whether it is a) an opt-in panel or b) a probability panel. I. The LISS panel (Longitudinal Internet Studies for the Social sciences)",
+    "answers": ["Probability Panel"]
+  },
+  {
+    "question": "Some online panels appear below. Look for more information about the design of the panels by doing some searching online (for example, using Wikipedia). Then, for each one indicate whether it is a) an opt-in panel or b) a probability panel. II. Google Consumer Surveys",
+    "answers": ["Opt-in Panel"]
+  },
+  {
+    "question": "Some online panels appear below. Look for more information about the design of the panels by doing some searching online (for example, using Wikipedia). Then, for each one indicate whether it is a) an opt-in panel or b) a probability panel. III. AmeriSpeak",
+    "answers": ["Probability Panel"]
+  },
+  {
+    "question": "Some online panels appear below. Look for more information about the design of the panels by doing some searching online (for example, using Wikipedia). Then, for each one indicate whether it is a) an opt-in panel or b) a probability panel. IV. Amazon Mechanical Turk",
+    "answers": ["Opt-in Panel"]
+  },
+  {
+    "question": "Interviewers can affect:",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Here is a scenario that involves a change in the survey design that will likely have an impact on the design effect (Deff) due to interviewers. For each one, please indicate whether the change will a) reduce the design effect, b) increase the design effect, or c) eliminate the design effect? Instead of hiring 20 interviewers to conduct a total of 500 interviews, hiring 10 interviewers to conduct 500 interviews.",
+    "answers": ["Increase the design effect"]
+  },
+  {
+    "question": "Here is a scenario that involves a change in the survey design that will likely have an impact on the design effect (Deff) due to interviewers. For each one, please indicate whether the change will a) reduce the design effect, b) increase the design effect, or c) eliminate the design effect? Intensifying training for certain types of questions to emphasize to the interviewers the importance of being neutral.",
+    "answers": ["Reduce the design effect"]
+  },
+  {
+    "question": "Here is a scenario that involves a change in the survey design that will likely have an impact on the design effect (Deff) due to interviewers. For each one, please indicate whether the change will a) reduce the design effect, b) increase the design effect, or c) eliminate the design effect? Switch to online (web) administration",
+    "answers": ["Eliminate the design effect"]
+  },
+  {
+    "question": "According to Conrad and Schober (2000), what is the main limitation of each of these interviewing techniques: I. Standardized interviewing",
+    "answers": ["prevents conversational grounding"]
+  },
+  {
+    "question": "According to Conrad and Schober (2000), what is the main limitation of each of these interviewing techniques: II. Conversational interviewing",
+    "answers": ["is slower than standardized interviewing"]
+  },
+  {
+    "question": "Conversational interviewing is collaborative because the interviewer and respondent work together to",
+    "answers": [
+      "ensure that the respondent understands the questions as intended"
+    ]
+  },
+  {
+    "question": "According to Davis et al. (2010), when are gender-of-interviewer effects and race-of-interviewer effects most likely to occur?",
+    "answers": [
+      "When answering gender-related and race-related questions, respectively"
+    ]
+  },
+  {
+    "question": "The Current Population Survey (CPS), the primary labor force survey in the US, allows proxy reporting. The questionnaire concerns the current employment status of each member of the household. The household respondent answers questions about himself/herself as well as for all the other household members, so is a proxy respondent for the other members. I. What is a rationale for allowing proxy reporting in this study?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "The Current Population Survey (CPS), the primary labor force survey in the US, allows proxy reporting. The questionnaire concerns the current employment status of each member of the household. The household respondent answers questions about himself/herself as well as for all the other household members, so is a proxy respondent for the other members. II. Imagine that CPS was actually concerned with respondent’s full employment history (e.g., names of employers, dates of employment, job title) over a 20 year period. What is a reason for only allowing self reporting in this hypothetical study?",
+    "answers": [
+      "Memory demands would be too great for proxies to accurately respond"
+    ]
+  },
+  {
+    "question": "According to Schober et al. (2015), the primary reason that text interviews increase the reporting of sensitive information relative to telephone interviews is:",
+    "answers": ["Reduced social presence of the interviewer"]
+  },
+  {
+    "question": "According to Mavletova & Couper (2014), what is the difference between scrolling and paging designs for mobile Web surveys with respect to survey completion?",
+    "answers": [
+      "Scrolling designs make the survey easier and faster to complete"
+    ]
+  },
+  {
+    "question": "One of four descriptions of possible studies appears below. For each one, indicate the type of data involved: a) survey data, b) social media data, or c) passively collected data. I. A researcher invites survey panelists to download a research app to their smart phones. Once downloaded, the app automatically collects information about the web sites that participants visit on their phones.",
+    "answers": ["Passively collected data"]
+  },
+  {
+    "question": "Here is the second possible study. Indicate whether it involves a) survey data, b) social media data, or c) passively collected data. II. A researcher invites survey panelists to download a research app. Once downloaded, the app invites participants once an hour to report their current activities, such as what websites they are visiting.",
+    "answers": ["Survey data"]
+  },
+  {
+    "question": "Here is the third possible study. Indicate whether it involves a) survey data, b) social media data, or c) passively collected data. III. A researcher recruits participants using Twitter advertisements and texts them five questions about their media usage.",
+    "answers": ["Survey data"]
+  },
+  {
+    "question": "Here is the fourth possible study. Indicate whether it involves a) survey data, b) social media data, or c) passively collected data.. IV. A researcher scrapes text from an online forum discussion among video game players.",
+    "answers": ["Social media data"]
+  },
+  {
+    "question": "What is the primary reason that coverage error is a concern when using social media data to make inference to the general population?",
+    "answers": ["Non-users cannot post content on social media"]
+  },
+  {
+    "question": "Imagine that a researcher is using a mobile app to passively measure people’s physical activity. Identify the source of error that the researcher is encountering in each scenario. I. Some smartphone users refuse to download the research app because of privacy concerns.",
+    "answers": ["Nonresponse error"]
+  },
+  {
+    "question": "Imagine that a researcher is using a mobile app to passively measure people’s physical activity. Identify the source of error that the researcher is encountering in each scenario. II. Some smartphone users download the research app but place their phones on top of the treadmill instead of in their pockets when exercising so it seems like there was no activity when in fact there was.",
+    "answers": ["Measurement error"]
+  },
+  {
+    "question": "Imagine that a researcher is using a mobile app to passively measure people’s physical activity. Identify the source of error that the researcher is encountering in each scenario. III. Those who do not own or know how to use smartphones are excluded.",
+    "answers": ["Coverage error"]
+  },
+  {
+    "question": "Mean square error (MSE) is computed by taking the sum of:",
+    "answers": [
+      "All variable errors and biases related to all sources of error"
+    ]
+  },
+  {
+    "question": "Why is MSE difficult to measure?",
+    "answers": [
+      "Researchers don’t have access to “true” values to use as a benchmarks"
+    ]
+  },
+  {
+    "question": "Which of these modes is a asynchronous?",
+    "answers": ["Automated text (SMS)"]
+  },
+  {
+    "question": "Which of these modes is visual with a high degree of interviewer involvement?",
+    "answers": ["Face-to-face with show cards"]
+  },
+  {
+    "question": "Below is one of several pairs of data collection modes that might be used in combination. Indicate whether or not this pair of modes represent a change of agent. I. Face-to-face and ACASI",
+    "answers": ["Change"]
+  },
+  {
+    "question": "Below is one of several pairs of data collection modes that might be used in combination. Indicate whether or not this pair of modes represent a change of agent. II. Face-to-face and CATI",
+    "answers": ["No change"]
+  },
+  {
+    "question": "Below is one of several pairs of data collection modes that might be used in combination. Indicate whether or not this pair of modes represent a change of agent. III. CATI and IVR",
+    "answers": ["Change"]
+  },
+  {
+    "question": "Below is one of several pairs of data collection modes that might be used in combination. Indicate whether or not this pair of modes represent a change of agent. IV. Video-mediated interviewing and mobile Web",
+    "answers": ["Change"]
+  },
+  {
+    "question": "Below is one of several pairs of data collection modes that might be used in combination. Indicate whether or not this pair of modes represent a change of agent. V. Virtual interviewers and Web administration",
+    "answers": ["No change"]
+  },
+  {
+    "question": "What is a difference between telephone surveys and Web surveys with respect to each of the following sources of error: I. Coverage error",
+    "answers": [
+      "Telephone excludes those without any kind of phones while the Web excludes those who don’t go online"
+    ]
+  },
+  {
+    "question": "What is a difference between telephone surveys and Web surveys with respect to each of the following sources of error: II. Nonresponse error",
+    "answers": [
+      "With telephone surveys, interviewers are able to explain the survey and motivate reluctant respondents; therefore response rates are likely to be higher."
+    ]
+  },
+  {
+    "question": "What is a difference between telephone surveys and Web surveys with respect to each of the following sources of error: III. Measurement error",
+    "answers": [
+      "With telephone surveys, it is possible to request help from an interviewer if having a problem, but the presence of the interviewer may reduce the disclosure of sensitive information compared to Web surveys."
+    ]
+  },
+  {
+    "question": "Why might nonresponse occur in a Web survey that uses email invitations?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Imagine that you are conducting a Web survey about technology use. Your email invitation mentions that the survey is about technology, and so you suspect that those who participate are especially interested in the topic. If this is true, what impact will it have on your estimates?",
+    "answers": ["Lead to overestimates of technology use"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of interviewer error. For each one, please indicate whether that type of error is a) interviewer variance or b) interviewer bias? I. Canceling an interviewer training program about the use of standard probes",
+    "answers": ["Interviewer variance"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of interviewer error. For each one, please indicate whether that type of error is a) interviewer variance or b) interviewer bias? II. Adding questions to a face-to-face survey about racial attitudes and gender norms",
+    "answers": ["Interviewer bias"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of interviewer error. For each one, please indicate whether that type of error is a) interviewer variance or b) interviewer bias? III. Instead of hiring 20 interviewers to conduct a total of 1000 interviews, hiring 10 interviewers to conduct 1000 interviews.",
+    "answers": ["Interviewer variance"]
+  },
+  {
+    "question": "Here is one of several scenarios that involve a change to the design of a survey that could well have an impact on one type of interviewer error. For each one, please indicate whether that type of error is a) interviewer variance or b) interviewer bias? IV. Adding open-ended questions to an interviewer-administered questionnaire",
+    "answers": ["Interviewer variance"]
+  },
+  {
+    "question": "Imagine that researchers are conducting a relatively long Web survey every year and want to reduce burden on respondents. How might they do that?",
+    "answers": [
+      "Use administrative records to replace self-reports for some questions"
+    ]
+  },
+  {
+    "question": "When might social media data give a different answer than population-based surveys?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "PNR_PeerAssess_Mod2_FacultySalaries.pdf PDF File Unit2_PRN_Week2QuizProblems.pdf PDF File Please download the Week 2 Quiz Problems and Faculty Salaries PDFs attached above. Please do not use fractions in calculations or answers; use decimals instead. Input your solution to problem 1 here. For the following sample values of salaries from a simple random sample of n = 20 faculty selected from the faculty salaries table, compute the specified statistics. 103, 55, 61, 77, 58, 60, 57, 64, 57, 79, 52, 39, 46, 55, 29, 40, 47, 103, 56, 118 (Credit awarded for answers within 2.0 of correct value.)",
+    "answers": ["1256"]
+  },
+  {
+    "question": "The value of the mean for problem 2 is... (Credit awarded for answers within 0.2 of correct value.)",
+    "answers": ["62.8"]
+  },
+  {
+    "question": "The sampling fraction = ? (5 decimal digits of precision; credit awarded for answers within 0.1 of correct value.)",
+    "answers": ["0.13333"]
+  },
+  {
+    "question": "The finite population correction is... (5 decimal digits of precision; credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["0.86667"]
+  },
+  {
+    "question": "The sum of squared deviations = (1 decimal digit of precision; credit awarded for answers within 10.0 of correct value.)",
+    "answers": ["9890.40"]
+  },
+  {
+    "question": "The sample variance = (2 decimal digits of precision; credit awarded for answers within 10.0 of correct value.)",
+    "answers": ["520.55"]
+  },
+  {
+    "question": "The sampling variance of the mean = (3 decimal digits of precision; credit awarded for answers within 2.0 of correct value.)",
+    "answers": ["22.557"]
+  },
+  {
+    "question": "The standard error of the mean = (4 decimal digits of precision; credit awarded for answers within 0.2 of correct value.)",
+    "answers": ["4.7494"]
+  },
+  {
+    "question": "The margin of error = (4 decimal digits of precision; credit awarded for answers within 0.5 of correct value.)",
+    "answers": ["9.4988"]
+  },
+  {
+    "question": "What simple random sample size is needed? (Hint: The provisional sample size can be computed as n = / [se()]2, and the sample size “adjusted” for the finite population size is n = n / (1 + n/N).) (Credit awarded for answers within 2.0 of correct value.)",
+    "answers": ["35"]
+  },
+  {
+    "question": "SamplingPRN_Week3QuizProblems.pdf PDF File Please download the Week 3 Quiz Problems PDF attached above. Please do not use fractions in calculations or answers; use decimals instead. Input your solution to problem 1 here. (6 decimal digits of precision; credit awarded for answers within 0.0001 of correct value.)",
+    "answers": ["0.004878"]
+  },
+  {
+    "question": "The design effect of the mean is... (Credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["2.05"]
+  },
+  {
+    "question": "What is the rate of homogeneity roh for this characteristic? (5 decimal digits of precision; credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["0.02625"]
+  },
+  {
+    "question": "Whit is the projected simple random sampling variance? (7 decimal digits of precision; credit awarded for answers within 0.0005 of correct value.)",
+    "answers": ["0.0095238"]
+  },
+  {
+    "question": "Compute the projected design effect deff (3 decimal digits of precision; credit awarded for answers within 0.1 of correct value.)",
+    "answers": ["1.525"]
+  },
+  {
+    "question": "Given that n = 1,050, compute a projected sampling variance of the mean for the characteristic from the new sample. (7 decimal digits of precision; credit awarded for answers within 0.005 of correct value.)",
+    "answers": ["0.0145238"]
+  },
+  {
+    "question": "Please download the Week 4 Quiz Problems PDF attached here. Unit4_PRN _Week4QuizProblems.pdf PDF File Please do not use fractions in calculations or answers; use decimals instead. Input your solution to problem 1 here. What is the overall proportion (across strata) of the population that has the characteristic of interest? (At least 1 decimal digit of precision; credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["0.4"]
+  },
+  {
+    "question": "What is the sampling variance of the mean from the proportionately allocated sample of n = 30? (Hint: W = 100 / 600 = 0.16667, and (W) = (0.16667) = 0.027778. Hence, for stratum 1, where v(p) = 0.038, the contribution to the sum is (0.027778)(0.038) = 0.0010556.) (At least 4 decimal digits of precision; credit awarded for answers within 0.0001 of correct value.)",
+    "answers": ["0.0067"]
+  },
+  {
+    "question": "What is the simple random sampling variance of the estimated proportion? (Hint: The sample size n = 30, sampling fraction is f = n / N = 30 / 600 = 0.05, and = 0.24.) (4 decimal digits of precision; credit awarded for answers within 0.0005 of correct value.)",
+    "answers": ["0.0076"]
+  },
+  {
+    "question": "What is the gain in precision from using proportionately allocated stratified sampling? (At least 3 decimal digits of precision; credit awarded for answers within 0.001 of correct value.)",
+    "answers": ["0.118"]
+  },
+  {
+    "question": "What is the sampling variance of the mean from the entire “equal allocation” sample of n = 30? (At least 4 decimal digits of precision; credit awarded for answers within 0.0001 of correct value.)",
+    "answers": ["0.0077"]
+  },
+  {
+    "question": "What is the design effect from using “equal allocation” stratified sampling? (At least 4 decimal digits of precision; credit awarded for answers within 0.001 of correct value.)",
+    "answers": ["1.013"]
+  },
+  {
+    "question": "SamplingPRN_Week6QuizProblems.pdf PDF File Please download the Week 6 Quiz Problems PDF attached above. Please do not use fractions in calculations or answers; use decimals instead. Input your solution to Part 1, Problem 1 here. What is the weighted mean number of visits to a doctor's office? (2 decimal digits of precision; credit awarded for answers within 0.02 of correct value.)",
+    "answers": ["2.27"]
+  },
+  {
+    "question": "What is the mean number of chronic conditions (CC) across the seven sample cases? (At least 1 decimal digit of precision; credit awarded for answers within 0.02 of correct value.)",
+    "answers": ["2.18"]
+  },
+  {
+    "question": "What is the unweighted mean for visits to a doctor’s office? (4 decimal digits of precision; credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["2.1429"]
+  },
+  {
+    "question": "What is the unweighted mean for chronic conditions (CC)? (2 decimal digits of precision; credit awarded for answers within 0.05 of correct value.)",
+    "answers": ["2.00"]
+  },
+  {
+    "question": "Part 2 For problems 5-14, you will calculate a weight for each sample person (each of ten students) that is the inverse of their probability of selection. (Hint: Compute the sampling fraction for each stratum. Here, for stratum A, a sample of size n = 4 is selected from N = 400 for a sampling fraction f = 4/400 = 1/100 = 0.01. Each selected case in the stratum has weight 1/f = 1/(0.01) = 100. Repeat the process for stratum B).” What is the weight of student 1? (Credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["250"]
+  },
+  {
+    "question": "What is the weight of student 2? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["166.67"]
+  },
+  {
+    "question": "What is the weight of student 3? (Credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["200"]
+  },
+  {
+    "question": "What is the weight of student 4? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["142.86"]
+  },
+  {
+    "question": "What is the weight of student 5? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["333.33"]
+  },
+  {
+    "question": "What is the weight of student 6? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["166.67"]
+  },
+  {
+    "question": "What is the weight of student 7? (Credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["200"]
+  },
+  {
+    "question": "What is the weight of student 8? (Credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["250"]
+  },
+  {
+    "question": "What is the weight of student 9? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["166.67"]
+  },
+  {
+    "question": "What is the weight of student 10? (2 decimal digits of precision; credit awarded for answers within 5.0 of correct value.)",
+    "answers": ["142.86"]
+  },
+  {
+    "question": "Given the weights computed in 5-14, what is the weighted mean number of binge drinking episodes? (At least 1 decimal digit of precision; credit awarded for answers within 0.2 of correct value.)",
+    "answers": ["1.69"]
+  }
+]
