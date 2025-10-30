@@ -204,35 +204,56 @@
     console.log(`📘 Bắt đầu xử lý module với slug: ${slug}`);
     const { courseIdFromMaterials, items } = await fetchMaterialsBySlug(slug);
     const filtered = filterTypeContent(items);
-    const promises: Promise<any>[] = [];
-    dispatchAllWithin5sJitter(filtered, (item: any) => {
-      console.log(
-        `⏳ Chuẩn bị gửi request cho item: ${item.id} (${item.contentSummary.typeName})`
-      );
-      const p = contentItem(
-        item.contentSummary.typeName,
-        userId,
-        slug,
-        item.id,
-        courseIdFromMaterials,
-        token
-      )
-        .then(() =>
-          console.log(
-            `✅ Hoàn tất item: ${item.id} (${item.contentSummary.typeName})`
-          )
-        )
-        .catch((e) =>
-          console.error(
-            `❌ Lỗi khi xử lý item: ${item.id} (${item.contentSummary.typeName})`,
-            e
-          )
-        );
 
-      promises.push(p);
+    if (filtered.length === 0) {
+      console.log(`⚠️ Không có item nào để xử lý cho slug: ${slug}`);
+      return;
+    }
+
+    const promises: Promise<any>[] = [];
+
+    // Wrap dispatchAllWithin5sJitter để đợi cho đến khi tất cả items được dispatch
+    await new Promise<void>((resolve) => {
+      let dispatchedCount = 0;
+
+      dispatchAllWithin5sJitter(filtered, (item: any) => {
+        console.log(
+          `⏳ Chuẩn bị gửi request cho item: ${item.id} (${item.contentSummary.typeName})`
+        );
+        const p = contentItem(
+          item.contentSummary.typeName,
+          userId,
+          slug,
+          item.id,
+          courseIdFromMaterials,
+          token
+        )
+          .then(() =>
+            console.log(
+              `✅ Hoàn tất item: ${item.id} (${item.contentSummary.typeName})`
+            )
+          )
+          .catch((e) =>
+            console.error(
+              `❌ Lỗi khi xử lý item: ${item.id} (${item.contentSummary.typeName})`,
+              e
+            )
+          );
+
+        promises.push(p);
+
+        // Khi đã dispatch hết tất cả items
+        dispatchedCount++;
+        if (dispatchedCount === filtered.length) {
+          resolve();
+        }
+      });
     });
 
-    return Promise.all(promises);
+    // Đợi tất cả promises hoàn thành
+    console.log(`⏳ Đợi ${promises.length} items hoàn thành cho slug: ${slug}`);
+    await Promise.allSettled(promises);
+    console.log(`✅ Hoàn thành module: ${slug}`);
   };
 
   /** Handle Module Pool */
@@ -264,7 +285,7 @@
         return;
       }
 
-      return processCourseraModuleBySlug(slug, userId, token);
+      return await processCourseraModuleBySlug(slug, userId, token);
     } catch (err) {
       console.error(`❌ Lỗi khi lấy slug cho courseId: ${courseId}`, err);
     }
@@ -290,58 +311,65 @@
       const allModule = [];
       if (modules.length !== 0) {
         console.log(`📦 Tìm thấy ${modules.length} module từ slug`);
-        const p = modules.map((a) => {
+        modules.forEach((a) => {
           if (a instanceof HTMLAnchorElement) {
             const slug = a.href.split("/")[4].split("?")[0];
             console.log(`➡️ Xử lý module slug: ${slug}`);
-            return processCourseraModuleBySlug(slug, userId, token);
+            allModule.push(processCourseraModuleBySlug(slug, userId, token));
           } else {
             console.warn("❌ Skipped element: not an anchor tag", a);
-            return Promise.resolve(); // or skip, or handle differently
           }
         });
-        allModule.push(Promise.all(p));
       }
       if (modules2.length !== 0) {
         console.log(`📦 Tìm thấy ${modules2.length} module từ slug`);
-        const p = modules2.map((a) => {
+        modules2.forEach((a) => {
           if (a instanceof HTMLAnchorElement) {
             const slug = a.href.split("/")[4].split("?")[0];
             console.log(`➡️ Xử lý module slug: ${slug}`);
-            return processCourseraModuleBySlug(slug, userId, token);
+            allModule.push(processCourseraModuleBySlug(slug, userId, token));
           } else {
             console.warn("❌ Skipped element: not an anchor tag", a);
-            return Promise.resolve(); // or skip, or handle differently
           }
         });
-        allModule.push(Promise.all(p));
       }
       if (modulePool.length !== 0) {
         console.log(`📦 Tìm thấy ${modulePool.length} module từ modulePool`);
-        const p = modulePool.map((a) => {
+        modulePool.forEach((a) => {
           if (a instanceof HTMLElement) {
             const courseId = (a.dataset.js || "").split("~")[1];
             console.log(`➡️ Xử lý module từ courseId: ${courseId}`);
-            return processCourseraModuleById(courseId, userId, token);
+            allModule.push(processCourseraModuleById(courseId, userId, token));
           } else {
             console.warn("❌ Không tìm thấy courseId trong dataset.js", a);
-            return Promise.resolve(); // or skip, or handle differently
           }
         });
-        allModule.push(Promise.all(p));
       }
       if (!modules.length && !modules2.length && !modulePool.length) {
         const part = location.href.split("/")[4] || "";
         const slug = part.includes("?") ? part.split("?")[0] : part;
         console.log(`➡️ Fallback: xử lý module slug: ${slug}`);
         console.log(slug);
-        // push promise (không return) để Promise.all bên dưới đợi
         allModule.push(processCourseraModuleBySlug(slug, userId, token));
       }
-      await Promise.all(allModule);
-      console.log("🎉 Tất cả module đã được xử lý!");
+
+      console.log(`⏳ Đang xử lý ${allModule.length} module...`);
+      const results = await Promise.allSettled(allModule);
+
+      const successful = results.filter((r) => r.status === "fulfilled").length;
+      const failed = results.filter((r) => r.status === "rejected").length;
+
+      console.log(
+        `✅ Hoàn thành! ${successful}/${allModule.length} module thành công, ${failed} module thất bại`
+      );
+      alert(
+        `✅ Hoàn thành! ${successful}/${allModule.length} module thành công${
+          failed > 0 ? `, ${failed} thất bại` : ""
+        }!`
+      );
     } catch (error) {
-      console.error("Có lỗi xảy ra:", error);
+      console.error("❌ Có lỗi xảy ra:", error);
+      alert("❌ Có lỗi xảy ra: " + error);
     }
   };
   // ===== Tạo listener mới =====
