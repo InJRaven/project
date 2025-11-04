@@ -4131,5 +4131,55 @@
   {
     "question": "After receiving a job offer, Pristin feels excited but realizes that the job offer letter mentions a salary less than what she was expecting. What should Pristin do next in this scenario to respond appropriately?",
     "answers": ["Express interest and explain her value to get a fair offer"]
+  },
+  {
+    "question": "A healthcare company is developing a new patient management system. To ensure smooth development and minimize risks, they choose to follow the software development life cycle (SDLC). Which of the following best describes a key advantage for a business to follow the SDLC?",
+    "answers": [
+      "Ensures a structured approach for improving efficiency and reducing risks."
+    ]
+  },
+  {
+    "question": "Ayesha is designing the layout of a website, focusing on content structure and visual organization. Which technology is she most likely working with?",
+    "answers": ["Hypertext Markup Language (HTML)"]
+  },
+  {
+    "question": "As a front-end developer, you are creating an online shopping website that is both visually appealing and interactive. Which combination of technologies would you primarily use to achieve this?",
+    "answers": ["HTML, CSS, and JavaScript"]
+  },
+  {
+    "question": "Seeni is managing third-party libraries and ensuring your application always uses the correct versions of dependencies. Which tool would should she use in this scenario?",
+    "answers": ["Package manager"]
+  },
+  {
+    "question": "Which environment should a company deploy if they want their employees to use an application that handles thousands of users at one time, ensuring high security and reliability?",
+    "answers": [
+      "Production environment designed for general users to load, secure, and scale data."
+    ]
+  },
+  {
+    "question": "A software development team is designing a new mobile application. One group is taking care of the application’s user interaction, where they want to add buttons, menus, and input forms. Which layer of solution are they working on?",
+    "answers": ["User interface layer"]
+  },
+  {
+    "question": "Lama is working on software features that rely on extensive user data which require large user data . He understands that this may risk the security of users’ data. Which of the following code of ethics he is expected to focus on?",
+    "answers": ["Promoting societal well-being"]
+  },
+  {
+    "question": "Which tool Rosy should leverage to enhance Cascading Style Sheet’s (CSS) features by adding more styles and functionality that is also backward compatible with CSS?",
+    "answers": ["Linear style sheet (LESS)"]
+  },
+  {
+    "question": "You are exploring agile practices and starting pair programming with your colleague to work on a new module. You both sit together and start exchanging feedback to work on the new module. Which of the following statements best describes this approach?",
+    "answers": [
+      "Pair programming is a type of agile development where two developers plan and discuss their ideas as they create a solution."
+    ]
+  },
+  {
+    "question": "The IT security team at a financial institution is investigating potential unauthorized code modifications during a recent audit. What critical information can version control systems provide to support their investigation?",
+    "answers": ["Code modification authors"]
+  },
+  {
+    "question": "Which of the following is one key reason for the ongoing high demand for software engineers in tech companies?",
+    "answers": ["Most organizations need software applications and websites."]
   }
 ]

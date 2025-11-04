@@ -1,0 +1,70 @@
+[
+  {
+    "question": "How does overfitting contribute to hallucination in text and image-generating LLMs?",
+    "answers": [
+      "Overfitting leads to a limited understanding of training data."
+    ]
+  },
+  {
+    "question": "What is the potential legal and ethical question that might arise if a gen AI model hallucinates code for a medical device, leading to incorrect treatments?",
+    "answers": [
+      "Questions about the responsibility of developers and creators of the AI model"
+    ]
+  },
+  {
+    "question": "Why does the lack of creative control become a challenge in AI-assisted portraits?",
+    "answers": [
+      "Results are based on the pattern established by machine learning algorithms"
+    ]
+  },
+  {
+    "question": "Which among the following raises concerns about accountability and reliability and is identified as a significant limitation of generative AI models from the users' perspective?",
+    "answers": ["Lack of transparency and predictability"]
+  },
+  {
+    "question": "In her report titled ‘Generative AI Insights’, Anita has identified ________________ as the business function that is expected to see the highest growth, but also cause the maximum job displacement due to generative AI.",
+    "answers": ["Customer operations"]
+  },
+  {
+    "question": "Charlie is interested in working in the field of generative AI. His colleague informs him that the job role of a __________________ has gained prominence due to the increasing use of foundation models.",
+    "answers": ["Prompt engineer"]
+  },
+  {
+    "question": "As the vice president of a big AI firm, what action can Amar take to reduce the firm’s carbon footprint?",
+    "answers": ["Fine-tuning existing foundation models for downstream tasks"]
+  },
+  {
+    "question": "As the lead developer in her organization, Tina is tasked with ensuring that their large language model (LLM) protects the privacy of user data. How can she accomplish this?",
+    "answers": ["Train the LLM using privacy-preserving algorithms"]
+  },
+  {
+    "question": "Despite easy access to generative AI tools, many people across the world will not be able to leverage them because of ____________.",
+    "answers": ["Digital exclusion"]
+  },
+  {
+    "question": "To ensure ______________ and ethical decision-making, companies can offer users non-technical explanations regarding the limits, capabilities, and risks associated with generative AI.",
+    "answers": ["Transparency"]
+  },
+  {
+    "question": "How can you improve the monitoring and reporting function to increase the safety associated with a generative AI model?",
+    "answers": [
+      "Continuously Oversee AI model behavior and provide issue reporting and resolution mechanisms."
+    ]
+  },
+  {
+    "question": "________________ is one of the most significant limitations generative AI faces today.",
+    "answers": ["Inability to generate new knowledge beyond training data"]
+  },
+  {
+    "question": "What of the following is a possible outcome resulting from inadequately sampled training data in generative AI models?",
+    "answers": ["Introduction of inaccuracies and biases"]
+  },
+  {
+    "question": "How can deepfake videos produced using generative AI models pose a threat to financial security and privacy?",
+    "answers": ["Creating forged identity documents for fraudulent purposes"]
+  },
+  {
+    "question": "Which of the following options accurately explains the meaning of the term \"hallucinations\" in code-generating large language models (LLMs)?",
+    "answers": ["Nonsensical or irrelevant code generation"]
+  }
+]

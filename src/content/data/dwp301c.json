@@ -5885,5 +5885,23 @@
   {
     "question": "A university career counselor is advising students about job market trends. What percentage increase in employment is projected for software developers, analysts, and testers between 2020 and 2030, according to the U.S. Bureau of Labor Statistics?",
     "answers": ["22%"]
+  },
+  {
+    "question": "A healthcare company is developing a new patient management system. To ensure smooth development and minimize risks, they choose to follow the software development life cycle (SDLC). Which of the following best describes a key advantage for a business to follow the SDLC?",
+    "answers": [
+      "Ensures a structured approach for improving efficiency and reducing risks."
+    ]
+  },
+  {
+    "question": "Which tool Rosy should leverage to enhance Cascading Style Sheet’s (CSS) features by adding more styles and functionality that is also backward compatible with CSS?",
+    "answers": ["Linear style sheet (LESS)"]
+  },
+  {
+    "question": "A software development team is designing a new mobile application. One group is taking care of the application’s user interaction, where they want to add buttons, menus, and input forms. Which layer of solution are they working on?",
+    "answers": ["User interface layer"]
+  },
+  {
+    "question": "You are hiring a software engineer to create an application that helps customers order products online, aiming to improve their shopping experience. Which of the following is the primary task of a software engineer before the actual development of the application starts?",
+    "answers": ["Design and develop software that solves real-world problems."]
   }
 ]
