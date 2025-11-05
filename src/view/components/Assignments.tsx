@@ -7,6 +7,7 @@ const Assignments = () => {
     { label: "Practice Assignment" },
     { label: "Practice Peer-graded Assignment" },
     { label: "Submit Assignment" },
+    { label: "Review Assignment" },
     { label: "Discussion" },
   ];
   const handleClick = async (type: string) => {

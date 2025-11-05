@@ -1014,23 +1014,13 @@
   },
   {
     "question": "Choose the best subject line.",
-    "answers": ["Thanks for your help"]
-  },
-  {
-    "question": "Choose the best subject line.",
-    "answers": ["Request for information"]
-  },
-  {
-    "question": "Choose the best subject line.",
-    "answers": ["Website redesign project update"]
-  },
-  {
-    "question": "Choose the best subject line.",
-    "answers": ["Website Project Problem"]
-  },
-  {
-    "question": "Choose the best subject line.",
-    "answers": ["Application Question"]
+    "answers": [
+      "Thanks for your help",
+      "Request for information",
+      "Website redesign project update",
+      "Website Project Problem",
+      "Application Question"
+    ]
   },
   {
     "question": "Answer these questions by choosing the correct answer. Which is more formal?",
@@ -1038,31 +1028,15 @@
   },
   {
     "question": "Which is more informal?",
-    "answers": ["Cheers"]
+    "answers": ["Cheers", "Want to go for a coffee?", "btw"]
   },
   {
     "question": "Which is more neutral?",
-    "answers": ["don’t"]
+    "answers": ["don’t", "I wanted to ask about"]
   },
   {
     "question": "Which is more formal?",
-    "answers": ["Sincerely,"]
-  },
-  {
-    "question": "5. Which is more informal?",
-    "answers": ["Want to go for a coffee?"]
-  },
-  {
-    "question": "Which is more formal?",
-    "answers": ["Did you receive it?"]
-  },
-  {
-    "question": "Which is more informal?",
-    "answers": ["btw"]
-  },
-  {
-    "question": "Which is more neutral?",
-    "answers": ["I wanted to ask about"]
+    "answers": ["Sincerely,", "Did you receive it?"]
   },
   {
     "question": "Remember when we looked at different situations to decide if we should be direct or indirect? Let’s see if now you can also choose the best language to match these situations in this short quiz. I want to borrow your stapler.",
@@ -1270,27 +1244,12 @@
   },
   {
     "question": "Which statement is correct?",
-    "answers": ["Today, we’re going to discuss our expansion plans."]
-  },
-  {
-    "question": "Which statement is correct?",
-    "answers": ["Shall we start with the budget?"]
-  },
-  {
-    "question": "Which statement is correct?",
-    "answers": ["Are we ready to make a decision?"]
-  },
-  {
-    "question": "Which statement is correct?",
-    "answers": ["How about postponing this until next week?"]
-  },
-  {
-    "question": "Which statement is correct? In response to: OK, thanks, Neil. You made a good point.",
-    "answers": ["The leader will probably ask someone else to speak now."]
-  },
-  {
-    "question": "Which statement is correct? In response to: How about postponing this discussion until later?",
-    "answers": ["The leader wants the discussion to stop now."]
+    "answers": [
+      "Today, we’re going to discuss our expansion plans.",
+      "Are we ready to make a decision?",
+      "How about postponing this until next week?",
+      "Shall we start with the budget?","The leader will probably ask someone else to speak now.","The leader wants the discussion to stop now."
+    ]
   },
   {
     "question": "Which statement is close in meaning? In response to: Let’s move on.",
@@ -1354,11 +1313,7 @@
   },
   {
     "question": "A: Southcenter would be great. B: __.",
-    "answers": ["I don’t think it’s a great location."]
-  },
-  {
-    "question": "A: Southcenter would be great. B: __.",
-    "answers": ["Yes, perfect."]
+    "answers": ["I don’t think it’s a great location.","Yes, perfect."]
   },
   {
     "question": "___ we opened a smaller store?",
@@ -1538,12 +1493,8 @@
   {
     "question": "Which choice is better for minutes of a meeting? (information about a discussion)",
     "answers": [
-      "The team discussed whether it was a problem that Godiva is at Southcenter."
+      "The team discussed whether it was a problem that Godiva is at Southcenter.","Godiva’s higher brand recognition might be a problem for us."
     ]
-  },
-  {
-    "question": "Which choice is better for minutes of a meeting? (information about a discussion)",
-    "answers": ["Godiva’s higher brand recognition might be a problem for us."]
   },
   {
     "question": "Which choice is better for minutes of a meeting? (information about a decision)",
@@ -2149,41 +2100,7 @@
   },
   {
     "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": ["Hello, Mr. Bennet."]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": ["This is Emily from Northwest Events."]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": [
-      "a. I’m calling about the dinner event we are organizing for you."
-    ]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": ["Unfortunately, we have a bit of a problem."]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": [
-      "It looks like The Cascades Hotel is unavailable on that day because there is another event."
-    ]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": [
-      "I was wondering if you could call me to discuss some alternatives."
-    ]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": ["My number is 232.455.3231 Again that’s 232.455.3231"]
-  },
-  {
-    "question": "Choose the best sentence for this voicemail from Emily Hamilton for Jeff Bennet describing a problem with a dinner event she is organizing for his company YT Solutions.",
-    "answers": ["I hope to speak you soon."]
+    "answers": ["Hello, Mr. Bennet.","This is Emily from Northwest Events.","a. I’m calling about the dinner event we are organizing for you.","Unfortunately, we have a bit of a problem.","It looks like The Cascades Hotel is unavailable on that day because there is another event.","I was wondering if you could call me to discuss some alternatives.","My number is 232.455.3231 Again that’s 232.455.3231","I hope to speak you soon."]
   },
   {
     "question": "Choose the best word to complete these sentences about describing a problem. I’m afraid the room is too _______. It won’t accommodate all our guests.",
@@ -2756,5 +2673,217 @@
   {
     "question": "10. Goldi is a simple ~ the problem of sending money overseas.",
     "answers": ["solution to"]
+  },
+  {
+    "question": "Part 1: Watch and Listen For Questions 1 Through Question 3, Watch and Listen to This Video: Play Video Nancy Friesen is calling ____.",
+    "answers": ["because she wants to do business with Lucy Peterson"]
+  },
+  {
+    "question": "Lucy Peterson’s office is located ____.",
+    "answers": ["outside of the city"]
+  },
+  {
+    "question": "They ____ to meet.",
+    "answers": ["make plans"]
+  },
+  {
+    "question": "Part 2: Which Sentence is Correct? Select the sentence with the best grammar.",
+    "answers": ["The meeting was longer than she expected."]
+  },
+  {
+    "question": "Select the sentence with the best grammar.",
+    "answers": [
+      "I’ll call you when I arrive.",
+      "This month isn’t nearly as busy as last month.",
+      "I’m thinking about calling a meeting to discuss this problem.",
+      "I don’t know where the meeting is.",
+      "I missed my last bus home. I should have left work earlier."
+    ]
+  },
+  {
+    "question": "Part 3: Complete the Sentence Could you ____ me with this?",
+    "answers": ["help"]
+  },
+  {
+    "question": "It’s important to be ____ to customers.",
+    "answers": ["kind"]
+  },
+  {
+    "question": "The sales people travel so much that they ____.",
+    "answers": ["don’t need desks at the office"]
+  },
+  {
+    "question": "Monday is a holiday, so we ____ work.",
+    "answers": ["don’t have to"]
+  },
+  {
+    "question": "I’m sorry we’re late. It ____.",
+    "answers": ["'s raining."]
+  },
+  {
+    "question": "The city of Seattle ____ in the United States.",
+    "answers": ["is located"]
+  },
+  {
+    "question": "If you didn’t work, what ____ do?",
+    "answers": ["would you"]
+  },
+  {
+    "question": "Person A: They accepted my team’s proposal!Person B: That’s great! You ____ very happy.",
+    "answers": ["must be"]
+  },
+  {
+    "question": "We ____ this project a week ago.",
+    "answers": ["started"]
+  },
+  {
+    "question": "Part 4: Which Sentence is Similar in Meaning? After reading the sentence, select a choice that is the most alike in meaning: That meeting took place last week.",
+    "answers": ["The meeting happened last week."]
+  },
+  {
+    "question": "After reading the sentence, select a choice that is the most alike in meaning: People lined up outside because the store was giving away free phones.",
+    "answers": ["The company wasn’t charging any money for the phones."]
+  },
+  {
+    "question": "After reading the sentence, select a choice that is the most alike in meaning: A letter to apply for a job needs to be quite formal.",
+    "answers": [
+      "In a letter to apply for a job, it’s important to use polite expressions."
+    ]
+  },
+  {
+    "question": "After reading the sentence, select a choice that is the most alike in meaning: I would really appreciate some suggestions about my problem.",
+    "answers": ["Please give me some ideas."]
+  },
+  {
+    "question": "After reading the sentence, select a choice that is the most alike in meaning: I sent an email, but it went to the wrong recipient.",
+    "answers": ["My message didn’t go to the right person."]
+  },
+  {
+    "question": "After reading the sentence, select a choice that is the most alike in meaning: I shared my ideas with my colleague in an email.",
+    "answers": ["I sent a message to a co-worker."]
+  },
+  {
+    "question": "Part 5: Read and Answer Read the paragraph Jake, Thanks for your message. I think it would be better to meet later in the month. It’s a bit busy around here right now. How does the 18th look for you? Let me know so I can book the conference room. Best, Sandy Fill in the Blank Sandy ____ meet soon.",
+    "answers": ["doesn't have time to"]
+  },
+  {
+    "question": "Read the paragraph Jake, Thanks for your message. I think it would be better to meet later in the month. It’s a bit busy around here right now. How does the 18th look for you? Let me know so I can book the conference room. Best, Sandy Fill in the Blank The meeting will be ____.",
+    "answers": ["in Sandy’s office building"]
+  },
+  {
+    "question": "Read the paragraph Public Service Announcement Passenger train service between Seattle and Vancouver has been halted because of heavy rains that caused landslides over the weekend. In addition, Amtrak has closed the tracks between Portland and Seattle due to high water north of Portland. Train service on both routes will be cancelled until at least Tuesday. Please contact the Amtrak office for information about bus service between Seattle and Vancouver. The phone number for the bus is available on our website below. Fill in the Blank ____ is the closest in meaning to halted.",
+    "answers": ["Stopped"]
+  },
+  {
+    "question": "Read the paragraph Public Service Announcement Passenger train service between Seattle and Vancouver has been halted because of heavy rains that caused landslides over the weekend. In addition, Amtrak has closed the tracks between Portland and Seattle due to high water north of Portland. Train service on both routes will be cancelled until at least Tuesday. Please contact the Amtrak office for information about bus service between Seattle and Vancouver. The phone number for the bus is available on our website below. Fill in the Blank ____ caused the problem for the area between Portland and Vancouver.",
+    "answers": ["Bad weather"]
+  },
+  {
+    "question": "Read the paragraph Public Service Announcement Passenger train service between Seattle and Vancouver has been halted because of heavy rains that caused landslides over the weekend. In addition, Amtrak has closed the tracks between Portland and Seattle due to high water north of Portland. Train service on both routes will be cancelled until at least Tuesday. Please contact the Amtrak office for information about bus service between Seattle and Vancouver. The phone number for the bus is available on our website below. Fill in the Blank Train service _____ begin again on Tuesday.",
+    "answers": ["might"]
+  },
+  {
+    "question": "Read the paragraph Public Service Announcement Passenger train service between Seattle and Vancouver has been halted because of heavy rains that caused landslides over the weekend. In addition, Amtrak has closed the tracks between Portland and Seattle due to high water north of Portland. Train service on both routes will be cancelled until at least Tuesday. Please contact the Amtrak office for information about bus service between Seattle and Vancouver. The phone number for the bus is available on our website below. Fill in the Blank Travelers ____ between Seattle and Vancouver.",
+    "answers": ["can probably take a bus"]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"Nice to meet you.\"",
+    "answers": ["Nice to meet you, too."]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"Where are you from?\"",
+    "answers": ["Toronto."]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"I just started a new job.\"",
+    "answers": ["Oh, interesting."]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"This is my first visit to Seattle.\"",
+    "answers": ["Oh, really?"]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"How do you like it?\"",
+    "answers": ["Oh, it's great."]
+  },
+  {
+    "question": "Select the correct response to the sentence below. \"Oh, look at the time! I have to rush.\"",
+    "answers": ["Well, it was nice to meet you."]
+  },
+  {
+    "question": "Can I _______ you on LinkedIn?",
+    "answers": ["find"]
+  },
+  {
+    "question": "I'd like to ________ you to connect with me.",
+    "answers": ["invite"]
+  },
+  {
+    "question": "You can see my professional ________ on LinkedIn.",
+    "answers": ["profile"]
+  },
+  {
+    "question": "You can _________ me on Twitter.",
+    "answers": ["follow"]
+  },
+  {
+    "question": "Thanks for the _________.",
+    "answers": ["retweet / RT"]
+  },
+  {
+    "question": "Thanks for ________ my post.",
+    "answers": ["liking"]
+  },
+  {
+    "question": "I am writing ___ your new product.",
+    "answers": ["to inquire about"]
+  },
+  {
+    "question": "I am writing ___ that I’ll be in Seattle next month.",
+    "answers": ["to inform you"]
+  },
+  {
+    "question": "I wanted to ___ that I’ll be a little late tomorrow.",
+    "answers": ["let you know"]
+  },
+  {
+    "question": "Thank you for your email ___ our summer promotion.",
+    "answers": ["regarding"]
+  },
+  {
+    "question": "I am writing ___ your previous email.",
+    "answers": ["in response to"]
+  },
+  {
+    "question": "I wanted to ___ your availability next week.",
+    "answers": ["ask about"]
+  },
+  {
+    "question": "Thank you ___ our start-up seminar.",
+    "answers": ["for your email inquiring about"]
+  },
+  {
+    "question": "Thanks for your email ___ tomorrow’s meeting.",
+    "answers": ["about"]
+  },
+  {
+    "question": "Read the following situation and write a text message for each one. You are going to be about 10 minutes late to a meeting with a client.",
+    "answers": ["a"]
+  },
+  {
+    "question": "The coffee shop where you planned to meet a client is very crowded.",
+    "answers": ["a"]
+  },
+  {
+    "question": "You are meeting someone at café in about 10 minutes. You’ve only spoken on the phone, so you want to describe yourself (wearing a green coat) and where you are sitting (next to the door).",
+    "answers": [
+      "You are meeting someone at café in about 10 minutes. You've only spoken on the phone, so you want to describe yourself (wearing a green coat) and where you are sitting (next to the door)."
+    ]
+  },
+  {
+    "question": "A business contact visiting your town has texted you to ask you to suggest a place to meet. What is your reply?",
+    "answers": [
+      "Quiz type: undefined, A business contact visiting your town has texted you to ask you to suggest a place to meet. What is your reply? |"
+    ]
   }
 ]

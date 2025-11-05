@@ -129,7 +129,23 @@
         }
         break;
       }
+      case "Review Assignment": {
+        const elements = document.getElementsByClassName("css-1kvxuy");
 
+        for (let k = 0; k < elements.length; k++) {
+          const linkEl = elements[k].querySelector(
+            'a[data-click-key="open_course_home.grades_page.click.grades_page_item_link"]'
+          ) as HTMLAnchorElement | null;
+
+          const text = linkEl?.textContent || "";
+          const href = linkEl?.getAttribute("href");
+
+          if (text.includes("Submit your assignment") && href) {
+            urls.push(`${window.location.origin}${href}/give-feedback`);
+          }
+        }
+        break;
+      }
       case "Discussion": {
         links.forEach((link) => {
           const text = link.textContent || "";
