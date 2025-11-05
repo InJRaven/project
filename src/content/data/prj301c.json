@@ -3460,7 +3460,7 @@
   },
   {
     "question": "How does HTML5 help in optimizing a website for search engines and reducing load time without compromising interactivity and content richness?",
-    "answers": ["Uses optimization tags and APIs for SEO and page speed"]
+    "answers": ["Enhances SEO tags and performance through meta tags"]
   },
   {
     "question": "A content writer is formatting text and needs to insert a single line break without creating a new paragraph. Which HTML tag should they use?",
@@ -4068,7 +4068,7 @@
   },
   {
     "question": "Which AI-based technique involves analyzing source code structures to support refactoring and architecture decisions?",
-    "answers": []
+    "answers": ["Code analysis"]
   },
   {
     "question": "During a QA planning session, Mia looked for tools to create test cases, run them efficiently, and help focus efforts on the areas that matter most. Which advantage does AI bring to this process?",
@@ -4181,5 +4181,147 @@
   {
     "question": "Which of the following is one key reason for the ongoing high demand for software engineers in tech companies?",
     "answers": ["Most organizations need software applications and websites."]
+  },
+  {
+    "question": "Your company is looking to hire a new software engineer. During the interview process, you ask candidates to define software engineering. Which of the following is the most accurate description?",
+    "answers": ["The use of scientific methods to design and build software"]
+  },
+  {
+    "question": "Alex is planning to build a dynamic user interface for a web application and is evaluating tools that provide a predefined structure and workflow for development. Which of the following development frameworks should Alex use in this scenario?",
+    "answers": ["Vue.js"]
+  },
+  {
+    "question": "You want to plan a visual logic for your team before they start writing actual code for the new program. You also want to ensure that the code is easy to read, maintain, and scale. Which of the following methods is most suitable for your planning phase of this program?",
+    "answers": [
+      "Use flowchart software to map the process with symbols and arrows"
+    ]
+  },
+  {
+    "question": "While reviewing the program, you noticed that the user information is stored in variables and manipulated through reusable code blocks. Which programming concept should you use to organize the code into reusable and structured parts?",
+    "answers": ["Modular programming"]
+  },
+  {
+    "question": "A new software team was provided with the unified modeling language (UML) diagram to understand the system’s components and their interactions in software architecture. What is the benefit of UML diagrams in software architecture?",
+    "answers": [
+      "They provide a visual overview for onboarding and collaboration."
+    ]
+  },
+  {
+    "question": "You want to design a distributed loan processing system that should continue functioning even if one of the services fails. Which of the following architecture approaches would you choose for your requirement?",
+    "answers": ["Microservices architecture"]
+  },
+  {
+    "question": "A software company is developing a new cloud-based software solution and needs to integrate data from multiple external sources into its system. Which component is responsible for retrieving and loading this data?",
+    "answers": ["Data integration layer"]
+  },
+  {
+    "question": "You are modeling a software solution for a medical lab using object-oriented analysis and design (OOAD). You want to illustrate the classes for the technician, nurse, and doctor to inherit from Medical Personnel. What type of UML diagram should you create?",
+    "answers": ["Class"]
+  },
+  {
+    "question": "Your task is to identify why a JavaScript function returns either a number or a string depending on its inputs. Which of the following is a correct statement for this?",
+    "answers": [
+      "JavaScript adapts the return value to the input types without type declarations."
+    ]
+  },
+  {
+    "question": "What is the main characteristic of let in terms of scope?",
+    "answers": [
+      "It is limited to the block enclosed by curly braces {} in which it is defined."
+    ]
+  },
+  {
+    "question": "A web designer is using Tailwind CSS to style a button. He wants the button to appear in a different color upon hover. What would you use to apply this style to your website?",
+    "answers": [
+      "A special class modifies the appearance of elements by applying a CSS attribute based on the condition described"
+    ]
+  },
+  {
+    "question": "A developer wants to add media features to the web application. Why is HTML5 specifically suitable for this task?",
+    "answers": [
+      "HTML5 requires markup and APIs for adding media features like video and storage."
+    ]
+  },
+  {
+    "question": "A user wants scripting features to work properly in their browser. Which of the following conditions must be true?",
+    "answers": ["The browser supports scripting."]
+  },
+  {
+    "question": "What is the primary benefit of using PreparedStatement over Statement in JDBC?",
+    "answers": [
+      "PreparedStatement allows for parameterized queries, reducing SQL injection risk"
+    ]
+  },
+  {
+    "question": "What does the SELECT command do in the context of SQL?",
+    "answers": ["It retrieves database records."]
+  },
+  {
+    "question": "How can you activate a specific profile in a Spring Boot application?",
+    "answers": [
+      "By setting the spring.profiles.active property in application.properties"
+    ]
+  },
+  {
+    "question": "What is a primary benefit of using NoSQL databases over traditional SQL databases for certain applications?",
+    "answers": [
+      "They support dynamic schema changes and handle unstructured data efficiently"
+    ]
+  },
+  {
+    "question": "How is a successful retrieval of a book by its ID handled in terms of response structure?",
+    "answers": [
+      "The book object is wrapped in an ApiResponse with a status of 'success'"
+    ]
+  },
+  {
+    "question": "Which of these are examples of successful AI-driven apps?",
+    "answers": ["Siri and Alexa"]
+  },
+  {
+    "question": "Which capability of large language models (LLMs) helps developers reduce the manual effort in coding?",
+    "answers": ["Code generation and auto-completion"]
+  },
+  {
+    "question": "A software developer wants to leverage AI in developing software architecture. Which of the following activities assist a software developer in this task?",
+    "answers": ["Analyzing code and suggesting design patterns"]
+  },
+  {
+    "question": "Which of the following app pairs showcases the successful use of artificial intelligence in voice interaction?",
+    "answers": ["Siri and Alexa"]
+  },
+  {
+    "question": "While reviewing AI-generated code, Jaya spots areas without input checks. Which risk should she be most concerned about?",
+    "answers": ["SQL injection and cross-site scripting"]
+  },
+  {
+    "question": "A product manager is listing several benefits while pitching an AI-enhanced mobile app. Which of the following is the least likely to be driven by AI features?",
+    "answers": ["Hosting collaborative open forums"]
+  },
+  {
+    "question": "Which AI technique generates test inputs by learning from past data and understanding software behavior patterns to improve test coverage?",
+    "answers": ["Machine learning algorithm techniques"]
+  },
+  {
+    "question": "How can AI help a reviewer technically in addressing the newly added code, ignores, memory leaks, or unused variables?",
+    "answers": ["Use learning algorithms to detect such issues"]
+  },
+  {
+    "question": "A team lead is evaluating AI tools that can generate realistic and meaningful technical documentation automatically. Which capability of LLM tools, such as GPT, help to perform this task effectively?",
+    "answers": ["Neural networks trained on huge text datasets"]
+  },
+  {
+    "question": "A software development team is exhausted by manually identifying bugs in a large project. They considered leveraging the capabilities of generative AI to ease the process. How can generative AI help them in this scenario?",
+    "answers": [
+      "By leveraging machine learning models to identify bugs and suggest fixes."
+    ]
+  },
+  {
+    "question": "While working on a large-scale project for creating a website, a developer wants to reduce their team’s efforts on recognizing and fixing bugs. What is the primary advantage of using an AI-powered debugging tool in this scenario?",
+    "answers": ["Detecting bugs quickly and accurately"]
+  },
+  {
+    "question": "What type of preprocessing supports a language model trained to interpret messages by reducing word complexity and aligning related word forms?",
+    "answers": ["Unifying word variations to simplify meaning"]
   }
 ]

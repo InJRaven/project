@@ -1,0 +1,680 @@
+[
+  {
+    "question": "Which of following protocol is HTTP built upon?",
+    "answers": ["TCP"]
+  },
+  {
+    "question": "Which of following requirements are necessary for packet networks to support multiple and diverse applications?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What was the concern of the telephone system that motivated the ARPANET design?",
+    "answers": ["Vulnerability"]
+  },
+  {
+    "question": "Which of the following is an application layer protocol?",
+    "answers": ["HTTP"]
+  },
+  {
+    "question": "Which of the following are features of ARPANET design?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Bluetooth is an example of",
+    "answers": ["Personal Area Network"]
+  },
+  {
+    "question": "In the layer hierarchy as the data packet moves from the upper to the lower layers, headers are",
+    "answers": ["Added"]
+  },
+  {
+    "question": "The ________ is the physical path over which a message travels",
+    "answers": ["Medium"]
+  },
+  {
+    "question": "Three or more devices share a link in ________ connection",
+    "answers": ["Multipoint"]
+  },
+  {
+    "question": "Which of the following is true for Transport Control Protocol",
+    "answers": ["Connection oriented"]
+  },
+  {
+    "question": "In a LAN, which address is used to transfer frames to appropriate destination?",
+    "answers": ["Physical address"]
+  },
+  {
+    "question": "Of the following services, which service(s) does the IP layer provides?",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "Which of the following is true about the ways in which the OSI reference model and TCP/IP reference model differ.",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "This layer is an addition to OSI model",
+    "answers": ["Presentation layer and Session layer"]
+  },
+  {
+    "question": "The functionalities of presentation layer includes",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Suppose an application layer entity wants to send an L-byte message to its peer process, using an existing TCP connection. The TCP segment consists of the message plus 20 bytes of header. The segment is encapsulated into an IP packet that has an additional 20 bytes of header. The IP packet in turn goes inside an Ethernet frame that has 18 bytes of header and trailer. What is the bandwidth utilization in terms of the percentage of the transmitted bits in the physical layer corresponds to message information if L = 500 bytes?",
+    "answers": ["90%"]
+  },
+  {
+    "question": "Which of following statements is true about how the data link layer and transport layer differ?",
+    "answers": [
+      "Data link layer is concerned with framing and the transport layer is not"
+    ]
+  },
+  {
+    "question": "In BSD socket API, which call is usually used for transmitting data in the connectionless mode?",
+    "answers": ["sendto()"]
+  },
+  {
+    "question": "Which of following statement about TCP/UDP sockets is wrong?",
+    "answers": ["TCP is faster than UDP"]
+  },
+  {
+    "question": "Which of following are commonly used as digital communication medium?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Consider a network link that has distance of 100 meters, and signal traverses at the speed of light in cable 2.5 x 10^8 meters per second. The link has transmission bandwidth of 100 megabits/second (100 x 10^6 bits per second). The packet size is 400 bits. What is the signal propagation delay?",
+    "answers": ["4 x 10^-7 seconds"]
+  },
+  {
+    "question": "Consider a network link that has distance of 100 meters, and signal traverses at the speed of light in cable 2.5 x 10^8 meters per second. The link has transmission bandwidth of 100 megabits/second (100 x 10^6 bits per second). The packet size is 400 bits. What is the packet transmission delay?",
+    "answers": ["4 x 10^-6 seconds"]
+  },
+  {
+    "question": "An API allows application programs to access certain resources through a predefined interface?",
+    "answers": ["True"]
+  },
+  {
+    "question": "In transport protocol, which of the following statements is true for User Datagram Protocol",
+    "answers": [
+      "It enables best-effort connectionless transfer of individual block of information"
+    ]
+  },
+  {
+    "question": "Which of the following sentences are true for connectionless stream mode of service",
+    "answers": [
+      "Destination address with each block",
+      "Send/receive to/from multiple peer processes",
+      "No setup overhead and delay"
+    ]
+  },
+  {
+    "question": "In transmission delay, in order to reduce the number of bits in a message we use data compression",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following is true of data compression algorithms",
+    "answers": [
+      "Recover information approximately",
+      "Recover original information exactly",
+      "Represent the information using fewer bits"
+    ]
+  },
+  {
+    "question": "Given an information polynomial code I(x) = X^7 + x^6 + x^1 + 1, which is its corresponding per-bit information frame?",
+    "answers": ["11000011"]
+  },
+  {
+    "question": "What is the remainder obtained by dividing x^7 + x^5 + 1 by the generator polynomial x^3 + 1?",
+    "answers": ["x^2 + x + 1"]
+  },
+  {
+    "question": "Given a generator polynomial g(x) = x^3 + x + 1. Consider the information sequence 1001. By CRC method, what is the resulted codeword for transmission?",
+    "answers": ["1001110"]
+  },
+  {
+    "question": "Which of following generator polynomial can detect all single bit errors in an information frame?",
+    "answers": ["g(x) = x + 1"]
+  },
+  {
+    "question": "Internet protocols use check bits to detect errors, instead of using CRC polynomial. The primary rationale is",
+    "answers": ["Simplicity of implementation"]
+  },
+  {
+    "question": "The two basic approaches in error control are error prevention and detection, and error correction and re-transmission",
+    "answers": ["False"]
+  },
+  {
+    "question": "Find parity bit for 1001011",
+    "answers": ["0"]
+  },
+  {
+    "question": "The divisor in a cyclic code is normally called the _________.",
+    "answers": ["Generator"]
+  },
+  {
+    "question": "The checksum of 0000 and 0000 is",
+    "answers": ["1111"]
+  },
+  {
+    "question": "In ASCII, a single parity bit code can detect ________ errors.",
+    "answers": ["An odd number of"]
+  },
+  {
+    "question": "Given 3 bits for sequence numbers, what is the maximum sliding window size at the receiver in Go Back 3 ARQ?",
+    "answers": ["7"]
+  },
+  {
+    "question": "Given 3 bits for sequence numbers in Selective Repeat ARQ. If the sender already set the sliding window size to be 4, what is the maximum sliding window size at the receiver?",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "Consider Selective Repeat ARQ flow control protocol. In the following scenario, what should be the value of frame number x at receiver B?",
+    "answers": ["2"]
+  },
+  {
+    "question": "In the scenario above, what should be the value of frame number y at receiver B?",
+    "answers": ["7"]
+  },
+  {
+    "question": "If the probability of error is very low in a communication link, which of the following statements is true about performance of ARQ protocol?",
+    "answers": [
+      "Go-back-N ARQ and Selective Repeat ARQ protocols have similar performance"
+    ]
+  },
+  {
+    "question": "In peer-to-peer protocol, the purpose of Automatic Repeat Request is",
+    "answers": [
+      "to ensure a sequence of information packet is delivered in order",
+      "to ensure a sequence of information packet is delivered without errors or duplication despite transmission errors and losses"
+    ]
+  },
+  {
+    "question": "Which of the basic elements of ARQ is associated with negative acknowledgement",
+    "answers": ["NAKs"]
+  },
+  {
+    "question": "In Go-Back-N ARQ, a procedure where transmission of a new frame is begun before the completion of time of the previous frame transmission is called",
+    "answers": ["Pipelining"]
+  },
+  {
+    "question": "In Stop-and-Wait protocol, sequence number are not required",
+    "answers": ["False"]
+  },
+  {
+    "question": "The disadvantage of Stop-and-Wait protocol",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Perform the bit stuffing procedure for the following binary sequence: 1101111111011111110101. What is the outcome?",
+    "answers": ["110111110110111110110101"]
+  },
+  {
+    "question": "Perform bit de-stuffing for the following sequence: 11101111101111100111110.",
+    "answers": ["11101111111111011111"]
+  },
+  {
+    "question": "PPP is a data link protocol for point-to-point lines in Internet. Its framing is based on which of the following?",
+    "answers": ["Byte stuffing"]
+  },
+  {
+    "question": "HDLC is another data link control protocol widely in use. Its framing is based on which of the following?",
+    "answers": ["Bit stuffing"]
+  },
+  {
+    "question": "Which of following statements are true for HDLC?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In PPP authentication, which of the following is true for Challenge-Handshake Authentication Protocol (CHAP)",
+    "answers": [
+      "Initiator and authenticator share a secret key",
+      "Authenticator can reissue challenge during session"
+    ]
+  },
+  {
+    "question": "In error detection and loss recovery, which of the following statement is correct",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In multiplexing, Last IN First Out (LIFO) is used to determine the order of packet transmission",
+    "answers": ["False"]
+  },
+  {
+    "question": "Generic Framing Procedure (GFP) allows the implementation of multiple transport modes that may coexist within the same transport channel",
+    "answers": ["True"]
+  },
+  {
+    "question": "In Generic Framing Procedure (GFP), which of the following sentences are correct",
+    "answers": [
+      "GFP provides flexible encapsulation framework that supports either a fixed or variable length frame structure",
+      "GFP uses a variation of HEC-based self delineation technique",
+      "GFP uses an explicit payload length indicator provided in its frame header to accommodate variable length PDUs"
+    ]
+  },
+  {
+    "question": "Polling is a scheduling approach for dynamic medium access control. Which of following statements are correct?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "2) In a collision-free reservation system that has a large number of light-traffic stations, and the delay-bandwidth product is larger than 1. Which of following MAC protocol is a good fit for stations to reserve mini-slots?",
+    "answers": ["Slotted ALOHA"]
+  },
+  {
+    "question": "In Carrier Sense Multiple Access with collision detection (CSMA-CD), how long will it take a collision to be detected and resolved?",
+    "answers": ["Round-trip propagation delay"]
+  },
+  {
+    "question": "Suppose that the ALOHA protocol is used to share a 56 kbps satellite channel. Suppose that frames are 1000 bits long. What is the maximum throughput of the system in number of frames per second.",
+    "answers": ["10 frames per second"]
+  },
+  {
+    "question": "Consider building a CSMA/CD network running at 1Gbps over a 1-km cable. The signal speed in the cable is 200,000 km/sec. What is the minimum frame size?",
+    "answers": ["1250 Bytes"]
+  },
+  {
+    "question": "In media access control, which of the following statements are true for Channelization",
+    "answers": [
+      "Inflexible in allocating bandwidth to users with different requirements",
+      "Inefficient for bursty traffic",
+      "Does not scale well to large numbers of users"
+    ]
+  },
+  {
+    "question": "Time-out period is equal to maximum possible propagation delay of",
+    "answers": ["Round-trip"]
+  },
+  {
+    "question": "In Carrier Sense Multiple Access (CSMA), if station senses medium before trying to use it then chance of collision can be",
+    "answers": ["Reduced"]
+  },
+  {
+    "question": "Carrier Sense Multiple Access (CSMA) is based on medium called",
+    "answers": ["Sense before transmit"]
+  },
+  {
+    "question": "Which of the following is not true for MAC scheduling",
+    "answers": ["Reduced computational or procedural complexity"]
+  },
+  {
+    "question": "Consider a Gigabit Ethernet hub with stations at a 100-meter distance and average frame size of 512 bytes. Assume the propagation speed is at 2/3 of light speed. What is the value of normalized delay-bandwidth product?",
+    "answers": ["0.122"]
+  },
+  {
+    "question": "Wireless data communication is compelling, because of",
+    "answers": [
+      "Its easy and low-cost deployment",
+      "Its support to personal and mobile devices"
+    ]
+  },
+  {
+    "question": "Why not use CSMA/CD in a wireless LAN? The primary reason is",
+    "answers": ["The hidden station problem"]
+  },
+  {
+    "question": "In IEEE 802.11 MAC for wireless LANs, which of following inter-frame space (IFS) is used to transmit high-priority frames such as ACKs?",
+    "answers": ["SIFS"]
+  },
+  {
+    "question": "Which of following statements identifies the similarity between HDLC (data link control) and Ethernet (medium access control)",
+    "answers": [
+      "Both contain framing information that delineates the beginning and end of each frame"
+    ]
+  },
+  {
+    "question": "Which multiple access technique is used by IEEE 802.11 standard for wireless LAN?",
+    "answers": ["CSMA/CA"]
+  },
+  {
+    "question": "Which of the following are management services offered by the MAC sublayer in wireless LAN",
+    "answers": ["Power management", "Roaming within ESS"]
+  },
+  {
+    "question": "In CSMA/CA, An amount of time divided into slots called",
+    "answers": ["Contention window"]
+  },
+  {
+    "question": "In medium access control sublayer, medium usage is mediated by the access control during contention period",
+    "answers": ["False"]
+  },
+  {
+    "question": "In Carrier Sense Multiple Access/Collision Detection (CSMA/CD), to continue transmission process we use a",
+    "answers": ["Loop"]
+  },
+  {
+    "question": "Which of the following functions can a home router perform?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Consider a three hop network from the source to the destination. Let m be the packet transmission time at each hop. Let n be the propagation delay at each hop. Assume there is no queuing delay and processing time at each hop. Based on store-and-forward, what is the total time for the packet to be transmitted to the destination?",
+    "answers": ["3m + 3n"]
+  },
+  {
+    "question": "Consider a three hop network from the source to the destination. Let m be the message transmission time at each hop. Let n be the propagation delay of each hop. Assume there is no queueing delay and processing time at each hop. Based on store-and-forward, what is the total time for three packets to be transmitted to the destination by packet pipelining?",
+    "answers": ["5m + 3n"]
+  },
+  {
+    "question": "Six stations (S1-S6) are connected to an extended LAN through transparent bridges (B1 and B2), as shown in the following figure. Initially, the forwarding tables are empty. Both bridges use backward learning to build their tables. Suppose station S2 transmits a frame to S1. Which of following statements is correct?",
+    "answers": ["The frame will reach both bridges B1 and B2"]
+  },
+  {
+    "question": "Following the above question. Suppose stations S 3 transmits a frame to S5. Which of following statements is correct?",
+    "answers": ["The frame will reach both bridges B1 and B2"]
+  },
+  {
+    "question": "One can use repeaters, bridges and routers to interconnect two LANs. Which of the following approaches will make local traffic appear in both LANs?",
+    "answers": ["Repeater"]
+  },
+  {
+    "question": "Packet pipelining can lead to latency in message delivery",
+    "answers": ["False"]
+  },
+  {
+    "question": "In internet, switching is done by using datagram approach to packet switching at the",
+    "answers": ["Network layer"]
+  },
+  {
+    "question": "A transparent bridge's duties include",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "For a 10Mbps Ethernet link, if the length of the packet is 32bits, the transmission delay is(in microseconds)",
+    "answers": ["3.2"]
+  },
+  {
+    "question": "Flooding may easily swamp the network as one packet creates multiple packets, possibly in exponential growth rate. What are possible means to reduce resource consumption in the network?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What are possible metrics for routing?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Consider the network as shown in the figure. We use the Bellman-Ford algorithm to find the set of shortest paths from all nodes to the destination node 2. Each node maintains an entry (n, cost) about the next node along the current shortest path and the current minimum cost from the node to the destination. Initially, each node has entry (-1, infinity). In the first algorithm iteration, which nodes will update their entries and inform their neighbors?",
+    "answers": ["1", "5"]
+  },
+  {
+    "question": "Following the above question, in the second algorithm iteration, which nodes will update their entries and inform their neighbors?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Following the above question, in the third algorithm iteration, which nodes will update their entries and inform their neighbors?",
+    "answers": ["6"]
+  },
+  {
+    "question": "In link state routing, after the construction of link state packets new routes are computed using",
+    "answers": ["Dijkstra's algorithm"]
+  },
+  {
+    "question": "A subset of a network that includes all the routers but contains no loops is called",
+    "answers": ["spanning tree"]
+  },
+  {
+    "question": "In a router, which of the following statement is true for creating routing tables",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In a virtual-circuit packet network, routing is determined during connection set-up",
+    "answers": ["True"]
+  },
+  {
+    "question": "In deflection routing, bufferless operation is considered a disadvantage due to packet loss",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of the following features are true for asynchronous transfer mode (ATM)?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Consider the network as shown in the figure. We use the Dijkstra’s algorithm to find the set of shortest paths from all nodes to the destination node 4. In Dijkstra’s algorithm, each iteration the next closet node is added to the set with the root node. At the first iteration, which node will be added to the set N?",
+    "answers": ["2"]
+  },
+  {
+    "question": "Following the question above, at the second iteration, which node will be added to the set N?",
+    "answers": ["3"]
+  },
+  {
+    "question": "Following the question above, at the third iteration, which node will be added to the set N?",
+    "answers": ["5"]
+  },
+  {
+    "question": "Following the question above, at the fourth iteration, which node will be added to the set N?",
+    "answers": ["6"]
+  },
+  {
+    "question": "In RIP operation, which of the following statement is correct",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What are the limitations of RIP protocol",
+    "answers": ["Limited metric use", "Slow convergence"]
+  },
+  {
+    "question": "In Open Shortest Path First (OSPF), which of the following statements are correct",
+    "answers": [
+      "Enables each router to learn complete network topology",
+      "Allows routers to build shortest path tree with router as root",
+      "Each router builds an identical link-state database"
+    ]
+  },
+  {
+    "question": "Which of the following is a type of router defined in OSPF",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In a distance vector routing, if a link fails",
+    "answers": [
+      "Neighboring routers exchange routing tables that may use failed links"
+    ]
+  },
+  {
+    "question": "Which of the following statements is wrong about fair queuing?",
+    "answers": ["Fair queueing attempts to provide equal-size buffers to flows"]
+  },
+  {
+    "question": "To guarantee network performance during the lifetime of admitted flows, open-loop control relies on the following mechanism except:",
+    "answers": ["Head-of-Line queueing"]
+  },
+  {
+    "question": "Which of following statements about leaky bucket is wrong?",
+    "answers": ["In the leaky bucket, the packet output rate can be variable"]
+  },
+  {
+    "question": "Consider a token bucket approach for traffic shaping. A token is generated every 5 micro-seconds. Each packet can hold 48 bytes of data. What is the sustainable data transmission rate by the token bucket?",
+    "answers": ["76.8 Mbps"]
+  },
+  {
+    "question": "Upon which of the following condition is token bucket and leaky bucket the same?",
+    "answers": ["Token bucket size is zero"]
+  },
+  {
+    "question": "In Head of Line (HOL) priority queueing, which of the following statement is a feature for this approach",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In buffer management, which feature requires packet to drop when buffer is full",
+    "answers": ["Drop strategy"]
+  },
+  {
+    "question": "In buffer management, which of the following statement is correct for Random Early Detection (RED) technique",
+    "answers": [
+      "Improves performance of cooperating TCP sources",
+      "Packets produced by TCP will reduce input rate in response to network congestion"
+    ]
+  },
+  {
+    "question": "In Closed-Loop flow control, which of the following mechanism is used in congestion control to regulate the flow from sources into network",
+    "answers": ["Buffer length", "Link utilization"]
+  },
+  {
+    "question": "In congestion warning, the feedback mechanism can be implicit or explicit. Which of the following is an example of implicit feedback",
+    "answers": ["A time-out due to missing acknowledgement"]
+  },
+  {
+    "question": "Which of following is the range of IPv4 addresses spanned by Class C?",
+    "answers": ["192.0.0.0 to 223.255.255.255"]
+  },
+  {
+    "question": "If a subnet needs to accommodate up to 500 hosts. How many bits for HostID would be sufficient?",
+    "answers": ["9"]
+  },
+  {
+    "question": "Consider a Class B network, where the subnet ID takes 9 bits. What will be the subnet mask?",
+    "answers": ["11111111 11111111 11111111 10000000"]
+  },
+  {
+    "question": "Given a subnet mask 255.255.255.240, how many hosts the subnet can support?",
+    "answers": ["14"]
+  },
+  {
+    "question": "A host in an organization has an IP address 150.32.64.34 and a subnet mask 255.255.240.0. What is the address of this subnet?",
+    "answers": ["150.32.64.0"]
+  },
+  {
+    "question": "What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask",
+    "answers": ["30"]
+  },
+  {
+    "question": "When calculating usable hosts per subnet, the following formula is used 2^bits - 2. For what reason is two subtracted? (choose two)",
+    "answers": ["Network", "Broadcast"]
+  },
+  {
+    "question": "How many hosts can be addressed on 10.0.0.0/16?",
+    "answers": ["65534"]
+  },
+  {
+    "question": "Which of the following is a valid IP host address given the network ID of 191.254.0.0 while using 11 bits for subnetting?",
+    "answers": ["191.254.1.29"]
+  },
+  {
+    "question": "DISCO Corporation has been assigned the Class B network address 165.87.0.0. DISCO needs to divide the network into eight subnets. What subnet mask should be applied to the network to provide the most hosts per subnet?",
+    "answers": ["255.255.240.0"]
+  },
+  {
+    "question": "Packet is to be forwarded to a network with MTU of 592 bytes. The packet has an IP header of 20 bytes and a data part of 1484 bytes. Which of following maximum data length per fragment is legitimate?",
+    "answers": ["568"]
+  },
+  {
+    "question": "What information is used as the entry of the lookup table in a Network Address Translation box?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "IPv6 allows fragmentation at",
+    "answers": ["Source only"]
+  },
+  {
+    "question": "Which of following fields that IPv6 dropped from IPv4?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of following techniques can be used for transitioning from IPv4 to IPv6?",
+    "answers": ["IP tunneling"]
+  },
+  {
+    "question": "Which fields in IP packet provide for fragmentation of datagrams to allow differing MTUs in the internet",
+    "answers": ["Fragmentation offset", "Identification", "Flags"]
+  },
+  {
+    "question": "IPv6 has a much larger space of",
+    "answers": ["2128"]
+  },
+  {
+    "question": "Which of these statements are true of IPv6 representation",
+    "answers": [
+      "Every IPv6 interface contains at least one loopback address",
+      "A single interface may be assigned multiple IPv6 addresses of any type"
+    ]
+  },
+  {
+    "question": "Which of the following statement is true for DHCP",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "In Network Address Translation (NAT), which of the following statement is true for a packet with an associated private IP address at the routers in the global internet",
+    "answers": ["Discarded due to the nature of the packet address"]
+  },
+  {
+    "question": "When a TCP client initiates a three-way handshake with a sequence number x, what will be the acknowledgement number when the TCP server replies?",
+    "answers": ["x + 1"]
+  },
+  {
+    "question": "In general, there are three phases of congestion behavior, i.e., light traffic, knee, congestion collapse. Which phase does TCP congestion avoidance maps to?",
+    "answers": ["Knee"]
+  },
+  {
+    "question": "When three duplicate acknowledgements arrive before timeout expires, what will TCP congestion control algorithm reset congestion threshold to for fast re-transmission and fast recovery?",
+    "answers": [
+      "Reset congestion threshold to half of the current congestion window size"
+    ]
+  },
+  {
+    "question": "Assume a TCP source writes a 1200-byte message in one write. Which of following is possible for the destination to receive the message?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "The process of combining multiple outgoing protocol streams at the Transport and Network layers in TCP/IP is called Multiplexing",
+    "answers": ["True"]
+  },
+  {
+    "question": "TIMELY provides a framework for rate control that depends on transport layer protocol for reliability",
+    "answers": ["False"]
+  },
+  {
+    "question": "The operation of TCP congestion control can be divided into three phases, which phase requires that the congestion window size be increased by one segment upon receiving an ACK from receiver",
+    "answers": ["Slow start"]
+  },
+  {
+    "question": "In a router, the control of the transmission rate at the sender's side such that the router's buffer will not be over-filled is called _________ if sender is transmitting too fast",
+    "answers": ["Network congestion"]
+  },
+  {
+    "question": "Congestion control is associated with the window size field",
+    "answers": ["False"]
+  },
+  {
+    "question": "What is the security requirement in case of Denial of Service?",
+    "answers": ["Availability"]
+  },
+  {
+    "question": "In a software defined network (SDN), which of the architectural layer is responsible for switch configuration and forwarding instruction?",
+    "answers": ["Middle layer"]
+  },
+  {
+    "question": "What is the security requirement in case of Malicious Code?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Which of the following is not a general misconception of SDN?",
+    "answers": ["SDN is a framework to solve a set of problems"]
+  },
+  {
+    "question": "Which component of NFV comprises of hardware and software required to deploy, manage and execute VNFs.",
+    "answers": ["NFVI"]
+  },
+  {
+    "question": "In Reverse-Path Broadcasting (RPB) scenario, assume each router knows current shortest path to source node. Which of the following statement denotes the router's action",
+    "answers": [
+      "If shortest path to source is through the same port, router forwards the packet to all other ports",
+      "If shortest path to source is through different port, router drops the packet"
+    ]
+  },
+  {
+    "question": "A peer with which a mobile node is communicating is called",
+    "answers": ["Correspondent node"]
+  },
+  {
+    "question": "Reverse Path Multicasting (RPM) is used to increase",
+    "answers": ["Efficiency"]
+  },
+  {
+    "question": "A network can receive a multicast packet from a particular source only through a",
+    "answers": ["designated parent router"]
+  },
+  {
+    "question": "TCP header has a field called window size. What value is the value window size set to?",
+    "answers": ["None of the above"]
+  },
+  {
+    "question": "In Reverse Path Forwarding, router receives a packet and extracts the",
+    "answers": ["Source address"]
+  }
+]

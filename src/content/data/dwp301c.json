@@ -5903,5 +5903,63 @@
   {
     "question": "You are hiring a software engineer to create an application that helps customers order products online, aiming to improve their shopping experience. Which of the following is the primary task of a software engineer before the actual development of the application starts?",
     "answers": ["Design and develop software that solves real-world problems."]
+  },
+  {
+    "question": "Your company is looking to hire a new software engineer. During the interview process, you ask candidates to define software engineering. Which of the following is the most accurate description?",
+    "answers": ["The use of scientific methods to design and build software"]
+  },
+  {
+    "question": "A software development team has finalized the architectural phase and started preparing for the design phase. Which type of documentation should be created at this stage?",
+    "answers": ["Unified modeling language (UML) diagrams document"]
+  },
+  {
+    "question": "Your task is to identify why a JavaScript function returns either a number or a string depending on its inputs. Which of the following is a correct statement for this?",
+    "answers": [
+      "JavaScript adapts the return value to the input types without type declarations."
+    ]
+  },
+  {
+    "question": "What is the main characteristic of let in terms of scope?",
+    "answers": [
+      "It is limited to the block enclosed by curly braces {} in which it is defined."
+    ]
+  },
+  {
+    "question": "A developer wants to add media features to the web application. Why is HTML5 specifically suitable for this task?",
+    "answers": [
+      "HTML5 requires markup and APIs for adding media features like video and storage."
+    ]
+  },
+  {
+    "question": "A software developer wants to leverage AI in developing software architecture. Which of the following activities assist a software developer in this task?",
+    "answers": ["Analyzing code and suggesting design patterns"]
+  },
+  {
+    "question": "Which of the following app pairs showcases the successful use of artificial intelligence in voice interaction?",
+    "answers": ["Siri and Alexa"]
+  },
+  {
+    "question": "Which AI-based technique involves analyzing source code structures to support refactoring and architecture decisions?",
+    "answers": []
+  },
+  {
+    "question": "Generative AI offers several benefits in software development. Which of the following is one of them?",
+    "answers": ["It enables creativity and novel solutions."]
+  },
+  {
+    "question": "Which capability of large language models (LLMs) helps developers reduce the manual effort in coding?",
+    "answers": ["Code generation and auto-completion"]
+  },
+  {
+    "question": "While reviewing AI-generated code, Jaya spots areas without input checks. Which risk should she be most concerned about?",
+    "answers": ["SQL injection and cross-site scripting"]
+  },
+  {
+    "question": "How can AI help a reviewer technically in addressing the newly added code, ignores, memory leaks, or unused variables?",
+    "answers": ["Use learning algorithms to detect such issues"]
+  },
+  {
+    "question": "What type of preprocessing supports a language model trained to interpret messages by reducing word complexity and aligning related word forms?",
+    "answers": ["Unifying word variations to simplify meaning"]
   }
 ]
