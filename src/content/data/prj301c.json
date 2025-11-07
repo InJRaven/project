@@ -4323,5 +4323,37 @@
   {
     "question": "What type of preprocessing supports a language model trained to interpret messages by reducing word complexity and aligning related word forms?",
     "answers": ["Unifying word variations to simplify meaning"]
+  },
+  {
+    "question": "An organization is planning its software development approach with a strict step-by-step development process in which one phase must be completed before starting a new phase. Which software development lifecycle (SDLC) model does this scenario describe?",
+    "answers": ["Waterfall"]
+  },
+  {
+    "question": "In the early planning stages of a complex enterprise software project, the team reviews documentation requirements. Which type of documentation details the software system’s expected features and functionality?",
+    "answers": ["Requirements documentation"]
+  },
+  {
+    "question": "Priya is a junior developer pairing with a senior engineer who directs the implementation but lets her write the code. Which pair programming style are they using?",
+    "answers": ["Strong style"]
+  },
+  {
+    "question": "Ricky is adding a user-friendly carousel feature while developing a cloud app, but he doesn’t want to build it from scratch. Which tool will Ricky use in this scenario?",
+    "answers": ["Libraries"]
+  },
+  {
+    "question": "You’ve expertise in writing code in multiple languages and developing applications. Which of the following skills best suits your expertise?",
+    "answers": ["Technical proficiency"]
+  },
+  {
+    "question": "Which type of architecture is a computing model in which a server hosts, delivers, and manages most of the resources and services delivered to a client?",
+    "answers": ["2-tier"]
+  },
+  {
+    "question": "Your team is handling a substantial set of user feedback documents to identify key requirements for a new product. They want to automate the extraction and validation of user needs. Which AI capabilities can they leverage to complete this task?",
+    "answers": ["Natural language processing for trend identification"]
+  },
+  {
+    "question": "An e-commerce site notices a sudden increase in fake product reviews. How can an AI-driven feature help limit this threat?",
+    "answers": ["It blocks suspicious content using pattern recognition."]
   }
 ]
