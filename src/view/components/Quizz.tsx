@@ -21,6 +21,7 @@ const Quizz = () => {
   const subjects = [
     { value: "ada201c", label: "ADA201c" },
     { value: "aet102c", label: "AET102c" },
+    { value: "ai-for-everyone", label: "AI For Everyone" },
     { value: "aid301c", label: "AID301c" },
     { value: "bdi302c", label: "BDI302c" },
     { value: "cry303c", label: "CRY303c" },

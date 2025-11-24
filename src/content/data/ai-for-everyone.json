@@ -1,0 +1,217 @@
+[
+  {
+    "question": "Which of these terms best describes the type of AI used in today’s email spam filters, speech recognition, and other specific applications?",
+    "answers": ["Artificial Narrow Intelligence (ANI)"]
+  },
+  {
+    "question": "What do you call the commonly used AI technology for learning input (A) to output (B) mappings?",
+    "answers": ["Supervised learning"]
+  },
+  {
+    "question": "You want to use supervised learning to build a speech recognition system. The figure above suggests that in order for a neural network (deep learning) to achieve the best performance, you would ideally use: (Select all that apply)",
+    "answers": [
+      "A large dataset (of audio files and the corresponding text transcript)",
+      "A large neural network"
+    ]
+  },
+  {
+    "question": "The only way to acquire data for a supervised learning algorithm is to manually label it. I.e., given the input A, to ask a human to provide B.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Which of these statements regarding data acquisition do you agree with?",
+    "answers": [
+      "Some types of data are more valuable than others; working with an AI team can help you figure out what data to acquire."
+    ]
+  },
+  {
+    "question": "You run a company that manufactures scooters. Which of the following are examples of unstructured data? (Select all that apply.)",
+    "answers": [
+      "Pictures of your scooters",
+      "Audio files of the engine sound of your scooters"
+    ]
+  },
+  {
+    "question": "Suppose you run a website that sells cat food. Which of these might be a good result from a data science project? (Select all that apply.)",
+    "answers": [
+      "A large dataset of images labeled as “Cat” and “Not Cat”",
+      "A slide deck presenting a plan on how to modify pricing in order to improve sales."
+    ]
+  },
+  {
+    "question": "Based on the terminology defined in Lesson 4 “The terminology of AI”, which of the following statements do you agree with? (Select all that apply.)",
+    "answers": [
+      "Deep learning is a type of machine learning. (I.e., all deep learning algorithms are machine learning algorithms.)",
+      "The terms “deep learning” and “neural network” are used almost interchangeably."
+    ]
+  },
+  {
+    "question": "Which of these do AI companies do well?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Say you want to input a picture of a person’s face (A), and output whether or not they are smiling (B). Because this is a task that most humans can do in less than 1 second, supervised learning can probably learn this A-to-B mapping.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Machine learning is an “iterative” process, meaning that an AI team often has to try many ideas before coming up with something that’s good enough, rather than have the first thing they try work.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Say you want to use Machine Learning to help your sales team with automatic lead sorting. I.e., Input A (a sales prospect) and output B (whether your sales team should prioritize them). The 3 steps of the workflow, in scrambled order, are: (i) Deploy a trained model and get data back from users (ii) Collect data with both A and B (iii) Train a machine learning system to input A and output B What is the correct ordering of these steps?",
+    "answers": ["(ii) (iii) (i)"]
+  },
+  {
+    "question": "What are the key steps of a Data Science project?",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "Machine learning programs can help: (select all that apply)",
+    "answers": [
+      "Customize product recommendations",
+      "Automate lead sorting in sales",
+      "Automate resume screening",
+      "Automate visual inspection in a manufacturing line"
+    ]
+  },
+  {
+    "question": "Unless you have a huge dataset (“Big Data”), it is generally not worth attempting machine learning or data science projects on your problem.",
+    "answers": ["False"]
+  },
+  {
+    "question": "Say you want to build an AI system to help recruiters with automated resume screening. Which of these steps might be involved in the “technical diligence” process? (Select all that apply.)",
+    "answers": [
+      "Making sure you can get enough data for this project",
+      "Making sure that an AI system can meet the desired performance",
+      "Defining an engineering timeline"
+    ]
+  },
+  {
+    "question": "Which of these statements about “business diligence” do you agree with?",
+    "answers": [
+      "Business diligence is the process of ensuring that the AI technology, if it is built, is valuable for your business."
+    ]
+  },
+  {
+    "question": "You want to use supervised learning for automated resume screening. Which of the following statements about the training set are true? (Select all that apply.)",
+    "answers": [
+      "It should give examples of both the input A (resume) and the desired output B (whether to move forward with a candidate).",
+      "It will be used by the AI team to train the supervised learning algorithm."
+    ]
+  },
+  {
+    "question": "For your automated resume screening application, you are now providing a test set to the AI team. Which of the following statements about the test set are true? (Select all that apply.)",
+    "answers": [
+      "It will be used by the AI team to evaluate the performance of the algorithm.",
+      "It should give examples of both the input A (resume) and the desired output B (whether to move forward with a candidate)"
+    ]
+  },
+  {
+    "question": "Which of these are reasons that it’s often unrealistic to expect an ML system to be 100% accurate?",
+    "answers": ["All of the above."]
+  },
+  {
+    "question": "Because a smart speaker can carry out multiple functions (such as tell a joke, play music, etc.) it is an example of Artificial General Intelligence (AGI).",
+    "answers": ["False"]
+  },
+  {
+    "question": "What are the key steps to a smart speaker function?",
+    "answers": [
+      "Trigger word detection -> speech recognition -> intent recognition -> command execution."
+    ]
+  },
+  {
+    "question": "Consider this system for building a self-driving car: The component for pedestrian detection is usually built using:",
+    "answers": ["Supervised learning"]
+  },
+  {
+    "question": "Suppose you are building a trigger word detection system, and want to hire someone to build a system to map from Inputs A (audio clip) to Outputs B (whether the trigger word was said), using existing AI technology. Out of the list below, which of the following hires would be most suitable for writing this software?",
+    "answers": ["Machine learning engineer"]
+  },
+  {
+    "question": "What is the first step in the AI Transformation Playbook for helping your company become good at AI?",
+    "answers": ["Execute pilot projects to gain momentum"]
+  },
+  {
+    "question": "According to the AI Transformation Playbook, what is the most important outcome of your first pilot project?",
+    "answers": ["Succeed and show traction within 6-12 months"]
+  },
+  {
+    "question": "Say you are building a smart speaker, and want to accumulate data for your product through having many users. Which of these represents the “Virtuous circle of AI” for this product?",
+    "answers": ["(A)"]
+  },
+  {
+    "question": "Why is developing an AI strategy NOT the first step in the AI Transformation Playbook?",
+    "answers": [
+      "Without having some practical AI experience and knowing what it feels like to build an AI project, a company usually does not know enough to formulate a sound strategy."
+    ]
+  },
+  {
+    "question": "According to the AI Transformation Playbook, broad AI training needs to be provided not only to engineers, but also to executives/senior business leaders and to leaders of divisions working on AI projects.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Which of the following are AI pitfalls to avoid? (Select all that apply)",
+    "answers": [
+      "Expecting AI to solve everything.",
+      "Expecting traditional planning processes to apply without changes."
+    ]
+  },
+  {
+    "question": "What are the current limitations of AI technology? (Select all that apply)",
+    "answers": [
+      "AI technology is susceptible to adversarial attacks",
+      "AI technology can be biased",
+      "AI technology can display discriminatory behavior",
+      "Explainability is hard"
+    ]
+  },
+  {
+    "question": "What is the Goldilocks Rule of AI?",
+    "answers": [
+      "One shouldn’t be too optimistic or too pessimistic about AI technology"
+    ]
+  },
+  {
+    "question": "Say you are building an AI system to help make diagnoses from X-ray scans. Which of the following statements about explainability of AI do you agree with?",
+    "answers": [
+      "Lack of explainability can hamper users’ willingness to trust and adopt an AI system."
+    ]
+  },
+  {
+    "question": "Using current AI technology, if a machine learning system learns from text containing unhealthy biases/stereotypes, then the resulting AI software tends to exhibit similarly unhealthy biases/stereotypes.",
+    "answers": ["True"]
+  },
+  {
+    "question": "Using current AI technology, if a machine learning system learns only from text that is completely neutral and does not reflect any gender biases, then we would expect it to exhibit no, or at most minimal, gender bias.",
+    "answers": ["True"]
+  },
+  {
+    "question": "What are recommended practices for mitigating bias in AI? (Select all that apply)",
+    "answers": [
+      "Systematic auditing processes to check for bias",
+      "Using more inclusive/less biased data",
+      "Technical solution such as “zeroing out” bias"
+    ]
+  },
+  {
+    "question": "Which of these are examples of adversarial attacks on an AI system? (Select all that apply)",
+    "answers": [
+      "Adding a sticker to a stop sign to make an AI system fail to detect it.",
+      "Subtly modifying an audio clip to make a speech recognition system think someone said “Yes, authorized” when they actually said “No, reject.”",
+      "Subtly altering an image to mislead an AI system into mistakenly recognizing a dog as a cat."
+    ]
+  },
+  {
+    "question": "If a developing economy has a strong and thriving coffee bean manufacturing industry (or any other vertical industry), then it has an advantage in applying AI to that that industry.",
+    "answers": ["True"]
+  },
+  {
+    "question": "In the decade or so, which jobs are most likely to be displaced by AI?",
+    "answers": ["Jobs that primarily involve routine, repetitive tasks"]
+  },
+  {
+    "question": "Congratulations! You deserve a pat on the back for finishing this course.",
+    "answers": ["True"]
+  }
+]
