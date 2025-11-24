@@ -5961,5 +5961,157 @@
   {
     "question": "What type of preprocessing supports a language model trained to interpret messages by reducing word complexity and aligning related word forms?",
     "answers": ["Unifying word variations to simplify meaning"]
+  },
+  {
+    "question": "In the car analogy used in the video to explain and differentiate between the three service models, which of the provided options is an analogy for PaaS?",
+    "answers": ["Renting a car"]
+  },
+  {
+    "question": "Which is a characteristic of cloud infrastructure as a service model?",
+    "answers": [
+      "Users can access networking resources on the cloud through virtualization"
+    ]
+  },
+  {
+    "question": "Which of these scenarios are good use cases for PaaS?",
+    "answers": ["IoT deployment"]
+  },
+  {
+    "question": "Which one of the following is a good use case for SaaS?",
+    "answers": [
+      "Organizations looking to reduce on-premises IT infrastructure and capital expenditure"
+    ]
+  },
+  {
+    "question": "In Python, which statement accurately describes how variable reassignment works?",
+    "answers": [
+      "Variables store the last value assigned to them, replacing previous values."
+    ]
+  },
+  {
+    "question": "What is the output of the following code segment? int(False)",
+    "answers": ["0"]
+  },
+  {
+    "question": "A data analyst is extracting information from standardized product codes like “ABC-12345-XYZ”. If the product code is stored in the variable product_code, which slicing operation would extract only the middle portion “12345”?",
+    "answers": ["product_code[4:9]"]
+  },
+  {
+    "question": "A data scientist is preparing to present findings from a complex analysis to non-technical stakeholders. Why would Jupyter Notebook be an appropriate tool for this task?",
+    "answers": [
+      "Jupyter Notebooks allow code, explanations, and visualizations to be combined in a narrative flow."
+    ]
+  },
+  {
+    "question": "A file download progress tracker uses the following code to show the percentage remaining: remaining_percent = 100 while remaining_percent > 25: print(f\"{remaining_percent}% remaining\") remaining_percent = remaining_percent-25 What will be displayed to the user during this download?",
+    "answers": ["100% remaining 75% remaining 50% remaining"]
+  },
+  {
+    "question": "What numerical result does this code sequence produce upon execution? a = 1 def do(x): a = 100 return x + a print(do(1))",
+    "answers": ["Sum of local variable and parameter"]
+  },
+  {
+    "question": "What is the purpose of the status code in an HTTP response’s start line?",
+    "answers": [
+      "To indicate whether the request was successful or encountered an error"
+    ]
+  },
+  {
+    "question": "How do HTML table elements relate to each other in the document tree structure?",
+    "answers": [
+      "The <table> element is the parent of <tr> elements, which are parents of <td> elements."
+    ]
+  },
+  {
+    "question": "How can you extract the JSON data from an HTTP response object in Python?",
+    "answers": ["By calling the json() method on the response object"]
+  },
+  {
+    "question": "What does the following code calculate in NumPy: np.dot(A.T, B)?",
+    "answers": [
+      "It performs matrix multiplication between the transposed version of A and matrix B"
+    ]
+  },
+  {
+    "question": "When using the double slash “//” for integer division the result will be?",
+    "answers": ["Truncated to return only integer part"]
+  },
+  {
+    "question": "A dictionary must have what type of keys?",
+    "answers": ["Unique"]
+  },
+  {
+    "question": "What code segment cast list “B” to the set “b”?",
+    "answers": ["b=set(B)"]
+  },
+  {
+    "question": "If x=1 what will produce the below output? Hi Mike",
+    "answers": ["if(x!=1): print('Hello') else: print('Hi') print('Mike')"]
+  },
+  {
+    "question": "Why is the “finally” statement used?",
+    "answers": [
+      "Ensures the execution of the remaining code regardless of the outcome."
+    ]
+  },
+  {
+    "question": "Which of the following properties of the cloud aligns with the scaling of the resources?",
+    "answers": ["Elasticity"]
+  },
+  {
+    "question": "____________ work on the parts of a website or app that the user interacts with, whereas ____________ work on the logic that supports the functionality of the website or the application.",
+    "answers": ["Front-end developers, back-end developers"]
+  },
+  {
+    "question": "Which HTML tag should you use for additional information that is related to the page's main discussion?",
+    "answers": ["<aside>"]
+  },
+  {
+    "question": "Which of the following is a correctly formatted variable name or identifier in JavaScript?",
+    "answers": ["newCustomer#1"]
+  },
+  {
+    "question": "Which of the following statements is true?",
+    "answers": [
+      "Git is free and open-source software distributed under the GNU General Public License."
+    ]
+  },
+  {
+    "question": "Which of the following is true for the shouldComponentUpdate() method?",
+    "answers": [
+      "It is called to check if the component should update if there is a state change."
+    ]
+  },
+  {
+    "question": "Which of the following Redux elements are involved in updating the component properties? Select all that apply.",
+    "answers": ["Center store", "Reducer", "Actions"]
+  },
+  {
+    "question": "What are the three states of a promise?",
+    "answers": ["Pending, resolved, and rejected"]
+  },
+  {
+    "question": "Which of the following Node.js web frameworks is associated with the below description? It is used for routing and middleware, provides debugging mechanisms to help easily pinpoint the errors in the application, and utilizes asynchronous programming to handle multiple operation requests concurrently.",
+    "answers": ["Express"]
+  },
+  {
+    "question": "Which of the following statements is true about tuples and lists?",
+    "answers": ["Tuples and lists are both ordered sequences."]
+  },
+  {
+    "question": "When using the open() function, what is the purpose of passing the parameter ‘a+’ into it?",
+    "answers": ["Appending and reading. It creates a new file if none exists."]
+  },
+  {
+    "question": "Which statement is true regarding OOP and CRUD?",
+    "answers": ["OOP performs CRUD on data using methods."]
+  },
+  {
+    "question": "Some of the common Docker CLI commands include___________ for creating container images and ___________ for retrieving images from a configured registry.",
+    "answers": ["build, pull"]
+  },
+  {
+    "question": "Which of the following API gateway is managed by Google?",
+    "answers": ["Apigee"]
   }
 ]

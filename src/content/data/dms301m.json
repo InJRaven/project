@@ -3058,5 +3058,59 @@
   {
     "question": "The analytics tool Tableau is easy to use and can handle a great deal of data. Many may say that it is their “go-to” tool which can handle most of their visualization needs. Based on this statement, which quadrant of the data visualization tool market chart would Tableau be found?",
     "answers": ["Upper right"]
+  },
+  {
+    "question": "Which platform provides a web-based tool called \"Playground\" to experiment with prompts using GPT models?",
+    "answers": ["OpenAI"]
+  },
+  {
+    "question": "Which scenario best reflects a multimodal use case for AI?",
+    "answers": ["Creating a description based on an uploaded image"]
+  },
+  {
+    "question": "Monica wants to enhance her sci-fi novel with unique character arcs using generative AI. Which feature of a prompt engineering tool would help her develop genre-specific and engaging prompts?",
+    "answers": [
+      "Generating customized prompt structures for character development, tailored to specific genres like sci-fi or fantasy"
+    ]
+  },
+  {
+    "question": "To ensure a consistent tone in AI-generated content for an e-commerce platform, Shan decides to improve his prompting strategy. Which of the following would most likely help?",
+    "answers": [
+      "Asking the model to act as a brand-focused content writer with tone-specific examples"
+    ]
+  },
+  {
+    "question": "You are creating a personalized shopping assistant using an AI model. Using the interview pattern, how would the assistant behave?",
+    "answers": [
+      "It would ask questions about your needs and offer suggestions."
+    ]
+  },
+  {
+    "question": "You’re designing prompts to avoid stereotypes in AI responses about different cultures. What should you focus on?",
+    "answers": ["Bias mitigation"]
+  },
+  {
+    "question": "Consider that you are developing a legal assistant chatbot to help users explore options after receiving a parking fine. The assistant must consider different paths: dispute the fine, pay early for a discount, or request an appeal hearing. Each path depends on user-specific conditions like timing, prior offenses, and available evidence. To generate a well-reasoned response that explores multiple options before offering advice, what’s the best approach?",
+    "answers": ["Prompt the model to explore each option with pros and cons."]
+  },
+  {
+    "question": "In an AI-driven resume builder, you ask the model to write three versions of a professional summary, critique them for tone and clarity, and pick the strongest. Which method is used?",
+    "answers": ["Tree-of-thought"]
+  },
+  {
+    "question": "A user is redecorating their living room and uploads a picture asking, \"What kind of interior design style is this, and what cushions would match it?\" Your AI assistant must analyze the visual content and provide personalized suggestions. What type of prompt should you use for the assistant to understand the image and generate contextual text?",
+    "answers": [
+      "A multimodal prompt combining the image and the user’s question"
+    ]
+  },
+  {
+    "question": "Neha uses a generative AI tool to reduce a lengthy research article into a concise summary. What capability is she using?",
+    "answers": ["Modifying existing content to generate a summary"]
+  },
+  {
+    "question": "Ravi has a detailed training script and wants to deliver it using AI in an engaging and informative way. Which approach is most aligned with this goal?",
+    "answers": [
+      "Use a tool that produces a full spoken presentation using text input"
+    ]
   }
 ]
