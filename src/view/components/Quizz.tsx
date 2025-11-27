@@ -40,6 +40,7 @@ const Quizz = () => {
     { value: "fim302c", label: "FIM302c" },
     { value: "fin306c", label: "FIN306c" },
     { value: "frs401c", label: "FRS401c" },
+    { value: "fsb", label: "FSB" },
     { value: "hrm202c", label: "HRM202c" },
     { value: "ift201c", label: "IFT201c" },
     { value: "imc301c", label: "IMC301c" },

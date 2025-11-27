@@ -1,0 +1,2822 @@
+[
+  {
+    "question": "Which of the following are benefits of an internship? Select all that apply.",
+    "answers": [
+      "Get short-term, hands on industry experience",
+      "Boost your resume",
+      "Network with people in your desired industry"
+    ]
+  },
+  {
+    "question": "What did researchers project in 2020 for job growth in the project management field?",
+    "answers": [
+      "Project management aligned roles will need nearly 90 million people to fill positions by the year 2027."
+    ]
+  },
+  {
+    "question": "Which of the following are benefits of a contracting job in project management? Select all that apply.",
+    "answers": [
+      "Developing a professional network",
+      "Building a portfolio",
+      "Experiencing different kinds of companies and project types"
+    ]
+  },
+  {
+    "question": "As a project manager for a renewable energy product, you regularly communicate key milestones to the larger team and your customers. Which project management responsibility is this an example of?",
+    "answers": ["Managing tasks"]
+  },
+  {
+    "question": "Which of the following are typical benefits of good project management?",
+    "answers": ["Time savings"]
+  },
+  {
+    "question": "Fill in the blank: Project management is valuable to businesses because it _____.",
+    "answers": [
+      "helps ensure that a project delivers the expected outcomes on time and within budget"
+    ]
+  },
+  {
+    "question": "Which of the following responsibilities involves gathering project requirements and creating a project plan?",
+    "answers": ["Planning and organizing"]
+  },
+  {
+    "question": "You’ve been asked to lead a team implementing a new production technique in one of your company’s factories. The implementation process starts next Monday and the company would like you to complete it within two weeks. Implementing a new production technique in a factory is an example of what characteristic of projects?",
+    "answers": ["A unique endeavor"]
+  },
+  {
+    "question": "You just finished a successful internship as a project support specialist at a large banking firm and are looking for a full-time project management job. The best project manager position listed near you is for an IT project manager. Why might you be a good candidate for this job?",
+    "answers": [
+      "Because project management skills learned in one industry can be applied to other industries."
+    ]
+  },
+  {
+    "question": "As you search for project management roles, you find a job listing for an “HR Program Coordinator” with a list of desired qualifications. Which of the following desired qualifications tell you that this job is a project management opportunity? Select all that apply.",
+    "answers": [
+      "Excellent communication skills",
+      "Demonstrated ability to lead others",
+      "Excellent time management, prioritization, and organizational skills"
+    ]
+  },
+  {
+    "question": "As a project manager, you are careful to recognize team members’ particular strengths and match them to tasks they are most capable of completing. What project management value does this represent?",
+    "answers": ["Delegation"]
+  },
+  {
+    "question": "As a project manager, you keep track of project activities so that you can demonstrate progress to your stakeholders. Which project management responsibility does this represent?",
+    "answers": ["Managing tasks"]
+  },
+  {
+    "question": "As a project manager on a product team, which of the following responsibilities are part of your role within the team? Select all that apply.",
+    "answers": [
+      "Collaborate with other teams at the organization.",
+      "Ensure that issues and risks are tracked and visible.",
+      "Hold all team members accountable for their assigned tasks."
+    ]
+  },
+  {
+    "question": "What can a project manager do to recognize individuals’ efforts on a team?",
+    "answers": [
+      "Learn what makes team members feel supported and provide positive feedback."
+    ]
+  },
+  {
+    "question": "You’re a project manager on a team that is improving a product. When inspecting the project, you discover a defect. What action can you take that will simultaneously communicate and escalate the newly-found problem?",
+    "answers": [
+      "Have a meeting with stakeholders to make them aware of the product problem."
+    ]
+  },
+  {
+    "question": "A project manager forgets to assess how national holidays and team member vacations will affect the project’s completion date. Now, because of team member time off, the project delivery will be two weeks late. What flexible planning strategy could the project manager have used to avoid the delay?",
+    "answers": ["Assess external constraints"]
+  },
+  {
+    "question": "A key team member on the project you are managing decides to quit because they cannot come into the office every day. You offer to let them work from home three days a week, if they will stay on. Which interpersonal skill are you using?",
+    "answers": ["Negotiation"]
+  },
+  {
+    "question": "As a project manager impacting an organization, you want to build a great team. Which of the following would a project manager do to build a great team? Select all that apply.",
+    "answers": [
+      "Take the time to understand each team member’s motivations, strengths, and weaknesses.",
+      "Allow the team members to have input and ask questions."
+    ]
+  },
+  {
+    "question": "Which of the following are examples of external customers? Select all that apply.",
+    "answers": ["Contractors", "Consumers", "Suppliers"]
+  },
+  {
+    "question": "As a project manager, you give your team members opportunities to work directly with stakeholders and their teams. In doing this, you are utilizing interpersonal skills to fulfill what responsibility?",
+    "answers": ["Empowering your team"]
+  },
+  {
+    "question": "Jamar just landed his first project management job with a construction company. Which of the following is necessary for Jamar to be an effective construction project manager?",
+    "answers": [
+      "Jamar must help the engineers and construction workers communicate with one another to ensure that they are all on the same page."
+    ]
+  },
+  {
+    "question": "A project manager evaluates how the project went and celebrates the team’s hard work. What phase of the project life cycle are they implementing?",
+    "answers": ["Close the project"]
+  },
+  {
+    "question": "Why should project managers always initiate a project (phase one) before making a plan (phase two)?",
+    "answers": [
+      "Because determining scope, cost, and timeline is crucial to creating a budget, setting a schedule, and determining roles and responsibilities"
+    ]
+  },
+  {
+    "question": "What is the term for a set of guiding principles and processes for owning a project through its life cycle?",
+    "answers": ["Project management methodology"]
+  },
+  {
+    "question": "As a project manager, you need to plan the catering for the week-long company retreat. The budget is very tight and catering is precise. What is the best project management methodology to use?",
+    "answers": ["Waterfall methodology"]
+  },
+  {
+    "question": "What project management strategy involves adjusting to changes as they emerge and working with regular client feedback to deliver the best value as quickly as possible?",
+    "answers": ["Agile methodology"]
+  },
+  {
+    "question": "A project manager monitors the current process of a project closely. They want to avoid the project reverting to previous inefficient ways. What phase of the Lean Six Sigma methodology involves these activities?",
+    "answers": ["Control"]
+  },
+  {
+    "question": "A project manager sets the schedule for the project and establishes team roles. In what phase of the project do these activities occur?",
+    "answers": ["Planning"]
+  },
+  {
+    "question": "A project manager writes weekly progress reports and adjusts the project timeline as the team completes tasks. At what stage of the project do these events occur?",
+    "answers": ["Execution"]
+  },
+  {
+    "question": "In which project plan phase does the project manager celebrate successes and release the team to support other projects within the company?",
+    "answers": ["Close the project"]
+  },
+  {
+    "question": "Which project management approach is an Agile framework that delivers products through an iterative process?",
+    "answers": ["Scrum"]
+  },
+  {
+    "question": "Fill in the blank: An organization's structure is most commonly mapped out using a _____ .",
+    "answers": ["top-down hierarchy"]
+  },
+  {
+    "question": "Which of the following refers to an internal group that defines and maintains project standards across the organization?",
+    "answers": ["Project Management Office (PMO)"]
+  },
+  {
+    "question": "Which of the following accurately describes how organizational structure impacts project management? Select all that apply.",
+    "answers": [
+      "It affects the project manager’s level of authority and their ability to make decisions that impact the larger organization.",
+      "It affects the availability of resources that can be devoted to a project."
+    ]
+  },
+  {
+    "question": "Which of the following concepts is a defining part of organizational culture?",
+    "answers": ["A company’s mission"]
+  },
+  {
+    "question": "When working in different geographies, why is awareness of established customs important for understanding organizational culture?",
+    "answers": ["It can help you form respectful relationships."]
+  },
+  {
+    "question": "Which of the following best describes an example of successful change management?",
+    "answers": [
+      "HR adopts the new onboarding process that your project team was tasked to develop."
+    ]
+  },
+  {
+    "question": "What can a project manager do to manage changes effectively and encourage project adoption? Select all that apply.",
+    "answers": [
+      "Communicate clearly by being transparent and upfront with their ideas",
+      "Create a sense of ownership and urgency around the project"
+    ]
+  },
+  {
+    "question": "As someone interviewing for a project management role, you want to understand the organizational culture of the company you’re interviewing with. Which of the following questions could help you learn about the company’s policies? Select all that apply.",
+    "answers": [
+      "What are appropriate ways for employees to share their identity in the workplace?",
+      "Does the company allow employees to work from home?"
+    ]
+  },
+  {
+    "question": "As a project manager, you want to integrate change management into your project. You do this by establishing a change management process early in the project. You also adopt portions of the company’s change management plan so that it aligns with your project. These actions represent which change management best practice?",
+    "answers": ["Follow a consistent process"]
+  },
+  {
+    "question": "Fill in the blank: _____ is the framework by which an organization achieves its goals and objectives.",
+    "answers": ["Corporate governance"]
+  },
+  {
+    "question": "As someone seeking an entry-level project management position, you want to include buzzwords and skills in your job search that can help you find an ideal job for your skill set. Which of the following are project management-related buzzwords you could include on your resume? Select all that apply.",
+    "answers": ["Executing plans", "Process improvement"]
+  },
+  {
+    "question": "As a Chief Operating Officer, a person is responsible for overseeing the day-to-day administrative functions of a business. Which project management job category best describes this role?",
+    "answers": ["Operational management"]
+  },
+  {
+    "question": "Which of the following are important project management responsibilities? Select all that apply.",
+    "answers": [
+      "Planning and organizing",
+      "Managing tasks",
+      "Controlling costs"
+    ]
+  },
+  {
+    "question": "You have recently been hired as a project manager leading a team of technical writers in completing a set of user manuals for a new product launch. Which of the following abilities are you expected to demonstrate?",
+    "answers": ["Task management"]
+  },
+  {
+    "question": "As a project manager your day-to-day responsibilities involve planning and organizing, managing tasks, budgeting, and controlling costs. In broadest terms, what is the purpose behind these responsibilities?",
+    "answers": ["To make sure project outcomes bring value to the company"]
+  },
+  {
+    "question": "You’ve been asked to lead a team implementing a new production technique in one of your company’s factories. The implementation process starts next Monday and the company would like you to complete it within two weeks. The two week window in this scenario is an example of what defining characteristic of projects?",
+    "answers": ["Having a clearly defined beginning and an end"]
+  },
+  {
+    "question": "As someone moving to a new location, you have several tasks. You have to plan for the various expenses like boxes and movers. You also have to clearly label the boxes, and manage all of the tasks leading up to and during the move. Which project management skills does the move require? Select all that apply.",
+    "answers": [
+      "Strong coordination and communication skills",
+      "Organizational ability",
+      "Budget preparation and monitoring"
+    ]
+  },
+  {
+    "question": "Suppose that as a project manager, you assign tasks to the team members who can best complete them. What project management value does this represent?",
+    "answers": ["Delegation"]
+  },
+  {
+    "question": "What is an example of measuring progress for a cross-functional team?",
+    "answers": [
+      "Asking team members if they anticipate being finished on time and, if not, how you can help them succeed."
+    ]
+  },
+  {
+    "question": "You’re a project manager on a team that is improving a product. You employ a variety of helpful tools and templates, along with your familiarity of popular project management styles, to help you document the project throughout its lifecycle. Which core project manager skill set are you demonstrating with these behaviors?",
+    "answers": ["Strong organizational skills"]
+  },
+  {
+    "question": "Suppose you have two teammates who disagree on the best way to complete a task. Which interpersonal skill can you use to help them resolve their disagreement?",
+    "answers": ["Conflict mediation"]
+  },
+  {
+    "question": "As a project manager impacting an organization, you want to break down barriers to help your team succeed. Which of the following would a project manager do to break down barriers?",
+    "answers": [
+      "Provide support for the team as they try new approaches to find solutions."
+    ]
+  },
+  {
+    "question": "As a project manager, you take the time to share the lessons that you, as a project manager, have learned. In doing this, you are utilizing interpersonal skills to fulfill what responsibility?",
+    "answers": ["Teaching and mentoring"]
+  },
+  {
+    "question": "To be an effective project manager, what important actions/steps should you take?",
+    "answers": [
+      "Ensure team members understand the team’s objectives and their individual tasks"
+    ]
+  },
+  {
+    "question": "A project manager creates a timeline and defines all tasks that the team needs to complete. What phase of the project life cycle are they implementing?",
+    "answers": ["Making a plan"]
+  },
+  {
+    "question": "As a project manager, you documented the deliverables for a project and showcased the project’s value to leadership. The project has been approved. What is the next phase of the project lifecycle?",
+    "answers": ["Execute the project"]
+  },
+  {
+    "question": "What project management methodology would work best for building a house?",
+    "answers": ["Linear methodology"]
+  },
+  {
+    "question": "A project manager starts a project to build a new website. The team will launch the new homepage first and then update the remaining pages. What project management methodology should the project manager use?",
+    "answers": ["Agile methodology"]
+  },
+  {
+    "question": "What is the main advantage of the Agile approach over the Waterfall methodology?",
+    "answers": [
+      "Agile takes a flexible approach, letting teams make adjustments as they go."
+    ]
+  },
+  {
+    "question": "What phase in the Lean Six Sigma methodology involves identifying gaps and issues from the data collected through surveys and reports?",
+    "answers": ["Analyze"]
+  },
+  {
+    "question": "Fill in the blank: Before moving into the planning phase, a project manager needs to receive _____ from the decision maker(s).",
+    "answers": ["project approval"]
+  },
+  {
+    "question": "A project manager completes a report to communicate final results with the project’s stakeholders. At what stage of the project would this event take place?",
+    "answers": ["Closing"]
+  },
+  {
+    "question": "Which project management approach uses the 5S quality tool, the DMAIC process, and Kanban boards?",
+    "answers": ["Lean Six Sigma"]
+  },
+  {
+    "question": "Which of the following refers to how a company arranges its employee hierarchy, divides and coordinates job tasks, and enables members of the organization to relate to one another?",
+    "answers": ["Organizational structure"]
+  },
+  {
+    "question": "Which main function of a PMO involves training employees about optimal approaches and best practices?",
+    "answers": ["Common project culture"]
+  },
+  {
+    "question": "Which of the following questions can help project managers learn about a company’s organizational culture? Select all that apply.",
+    "answers": [
+      "Are there company sanctioned social events?",
+      "How are projects typically run?"
+    ]
+  },
+  {
+    "question": "Which of the following are core concepts and best practices that change management centers around? Select all that apply.",
+    "answers": [
+      "Communicating effectively",
+      "Creating a sense of ownership and urgency around the project"
+    ]
+  },
+  {
+    "question": "Which of the following change management tools are designed to illustrate how the company's values, norms, and employees behavior may be affected by change?",
+    "answers": ["Culture mapping"]
+  },
+  {
+    "question": "Fill in the blank: A project manager becomes a _____ at a company—someone who helps an organization transform by focusing on organizational effectiveness.",
+    "answers": ["change agent"]
+  },
+  {
+    "question": "Which main function of a PMO involves defining project criteria, selecting projects according to the organization’s business goals, and then providing a business case for those projects to management?",
+    "answers": ["Strategic planning and governance"]
+  },
+  {
+    "question": "As a project manager, you believe limited access to the necessary people and equipment could cause the project to go past deadline. Which organizational topic could you discuss with your key stakeholder to get the project back on track?",
+    "answers": ["Resource availability"]
+  },
+  {
+    "question": "Which of the following refers to a company’s shared values, mission, and history?",
+    "answers": ["Organizational culture"]
+  },
+  {
+    "question": "How can project managers navigate organizational culture while working on projects? Select all that apply.",
+    "answers": [
+      "By asking questions",
+      "By understanding their impact",
+      "By making observations"
+    ]
+  },
+  {
+    "question": "Which term refers to the delivery of a completed project and its successful adoption by an organization?",
+    "answers": ["Change management"]
+  },
+  {
+    "question": "Which of the following change management tools are designed to visualize your stakeholder input?",
+    "answers": ["Feedback mechanisms"]
+  },
+  {
+    "question": "As someone interviewing for a project management role, you ask questions about sick days and vacation, working from home, and if the company supports employees sharing their identity in the workplace. Which part of a company’s culture do these questions help you learn more about?",
+    "answers": ["Policies"]
+  },
+  {
+    "question": "As a project manager, you want to integrate change management into your project. You do this by ensuring stakeholders are aware of the upcoming changes. You introduce the deliverable to stakeholders by hosting a demonstration and a question and answer forum. These actions represent which change management best practice?",
+    "answers": ["Be proactive"]
+  },
+  {
+    "question": "What action should a project manager take to ensure effective project governance?",
+    "answers": [
+      "Elicit the input of senior stakeholders since they are decision makers."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Project initiation includes determining resources, documenting key components, and _____.",
+    "answers": ["solidifying scope"]
+  },
+  {
+    "question": "As a project manager, you analyze the amount of time team members will need to spend on a project and the likely ongoing project expenses. What step of the cost benefit analysis are you completing?",
+    "answers": ["Cost analysis"]
+  },
+  {
+    "question": "What are the key components of project initiation?",
+    "answers": [
+      "Goals, scope, deliverables, success criteria, stakeholders, and resources"
+    ]
+  },
+  {
+    "question": "Imagine you’re the project manager of a new grocery delivery service. You meet with stakeholders to decide how to measure project success. Which project initiation component are you trying to determine?",
+    "answers": ["Success criteria"]
+  },
+  {
+    "question": "Imagine that the main supplier for a construction project runs out of steel girders and needs to obtain more to complete the order. Which key component of project initiation does this scenario concern?",
+    "answers": ["Resources"]
+  },
+  {
+    "question": "Which document allows project managers to get organized, sets up a framework for what needs to be done, and communicates the framework to stakeholders?",
+    "answers": ["A project charter"]
+  },
+  {
+    "question": "Fill in the blank: _____ are gains that are not quantifiable.",
+    "answers": ["Intangible benefits"]
+  },
+  {
+    "question": "You expect that a project will bring in $22,000 USD in revenue per year. You estimate it will cost $10,000 up front. You also estimate costs of $200 per month for the first 12 months, which equals $2,400 per year. Using the formula (G-C) ÷ C = ROI, how would you calculate the project’s return on investment (ROI) after the first 12 months?",
+    "answers": ["(22,000 - 12,400) ÷ 12,400 = 77%"]
+  },
+  {
+    "question": "As a project manager, you’re using the SMART criteria to craft revenue goals for your team. During the process, you determine that current business conditions will allow for a maximum revenue increase of about 4.5%. Based on this estimate, you set a goal for your team to show at least 1% revenue increase. In this instance, which SMART criteria are you using?",
+    "answers": ["Attainable"]
+  },
+  {
+    "question": "Which of the following demonstrates a project manager keeping the project in-scope? Select all that apply.",
+    "answers": [
+      "The key stakeholder meets with the project manager to set the scope and deliverable agreements in writing. The project manager keeps the key stakeholder informed while communicating with project team members.",
+      "The key stakeholder and the project manager clearly define the project scope in the initial planning stage. The project manager documents all the details to be referred to throughout the project life cycle."
+    ]
+  },
+  {
+    "question": "Suppose as a project manager you’re receiving requests from stakeholders to add new features to the product you’re developing. How would you deal with this external scope creep?",
+    "answers": [
+      "Agree on who can make formal requests and how your team will evaluate and act on those requests"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Deliverables help project managers, team members, and stakeholders _____ and realize the impact of the project.",
+    "answers": ["quantify"]
+  },
+  {
+    "question": "As a project manager for an online retailer, you meet with your company’s head of customer service and are asked to improve the response time to customer email inquiries by 15 percent by the end of the first quarter. Your team creates email templates for responding to typical questions from customers and produces an end-of-quarter report that shows a 17 percent improvement in response time after your templates were implemented. Which of the following best represents the project landing?",
+    "answers": [
+      "Producing an end-of-quarter report that shows a 17 percent improvement in response time"
+    ]
+  },
+  {
+    "question": "As a construction project manager, your crew has been hired to build a new warehouse for a corporate customer. After a few weeks working on the project your customer announces that they will need their warehouse completed several weeks sooner than originally expected, but that they cannot spend more money on the project. Using the triple constraint model, what trade-off could you use to meet your customer’s new requirements?",
+    "answers": ["Change the project scope"]
+  },
+  {
+    "question": "Which of the following is the best example of success criteria?",
+    "answers": [
+      "Achieve an 87% customer satisfaction rate within three months of product launch.",
+      "Create a new product feature that increases customer engagement by 10%."
+    ]
+  },
+  {
+    "question": "Which of the following is an adoption metric?",
+    "answers": ["A 35% increase in first-time customers"]
+  },
+  {
+    "question": "As a project manager, your team has been tasked to come up with a new service that increases revenue by 4% within one year. The team implements a new service, a website has gone live, catalogs have been printed and delivered, orders have been received, and revenue starts to go up. How can you show that you’ve successfully landed this project?",
+    "answers": [
+      "Demonstrate a 4% increase in customer engagement after implementation."
+    ]
+  },
+  {
+    "question": "The objective for a car company is to launch a new series of cars. Which three of the following could be examples of key results? Select all that apply.",
+    "answers": [
+      "Improve the customer satisfaction survey score by 15%.",
+      "Meet production deadlines 95% of the time.",
+      "Distribute 98% of the product on time to dealerships."
+    ]
+  },
+  {
+    "question": "To pass this practice quiz, you must receive at least 80%, or 4 out of 5 points, by completing the activity and answering corresponding quiz questions. You can learn more about the graded and practice items in the Course Overview . Activity Overview In this activity, you will apply your knowledge of RACI charts to a new phase of project planning. You will analyze a scenario about the execution phase of the Plant Pals project. Then you will use a RACI chart to determine each stakeholder’s relationship to project tasks. As a reminder, RACI charts help you determine who is: Responsible Accountable Consulted Informed Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. Note: This activity requires completion, but the completed document does NOT need to be submitted. All you need to do is mark the question at the end of this activity \"Yes\" when you've completed the following assignment. Scenario Review the scenario below. Then complete the step-by-step instructions. As the lead project manager for the Plant Pals project, you’re managing the launch of this new service. Previously, you worked with your project team as they developed a marketing plan, wrote promotional copy, designed marketing assets, and created a sales plan for customer outreach. Now you are gathering a new team to design and develop the Plant Pals landing page. When potential customers click on Plant Pals advertisements, the landing page is the first part of the Office Green website they will see. The team members you need to build the landing page include: Web Manager: Makes final decisions about new site features and content changes. They sign off on the landing page design and launch plans. They also coordinate maintenance and management tasks to keep the page operating smoothly. Graphic Designer: Creates and chooses images and typefaces for the landing page and submits them to the Web Designer for approval. They also provide feedback on the landing page design and mockup. Web Developer: Supports the product team by writing the code that powers the site. They give feedback to the Web Designer on the landing page mockup. The Web Developer also helps set quality standards for the project. Quality Assurance Tester: Reviews system specifications and runs quality tests for the new landing page. They run test scripts and review results, create reports, and document technical issues. These tests identify problems that the team can then resolve before launch. Content Writer: Creates the written content that explains how Plant Pals works and helps potential customers sign up for the service. They give feedback to the Web Designer on the landing page mockup. Web Designer: Creates the landing page design, determining how the page looks and how customers interact with it. The Web Designer connects the creative and technical elements of the project, ensuring that the website is both attractive and functional. They report to the Web Manager, who makes final decisions on new site features. To build and launch a landing page for Plant Pals, the team needs to accomplish the following tasks: Design a landing page Create a landing page mockup Design image assets Write content Code the landing page Test the landing page Step-by-step instructions: Step 1: Access the template To use the template for this course item, click the link below and select “Use Template.” Link to template: RACI Chart OR If you don’t have a Google account, you can download the template directly from the attachment below. Activity Template_ RACI Chart - Phase 2 XLSX File Step 2: Add tasks to the RACI chart Add the six tasks from the scenario to your RACI chart template under the Task/Deliverable heading. Replace “Task/Deliverable” with the name of each task. Step 3: Assign roles to the RACI chart Update the Role headers with each team member role from the scenario. Replace “Role A” with “Web Manager,” and so on. Step 4: Assign letters in the RACI chart For each task, assign the letters R, A, C, and I to the team members involved. Consult the descriptions below to determine how your team members relate to the tasks: Responsible: Who is responsible for completing this task? Consider these questions when determining who is responsible: Which department manages the work? Who should perform the work? Accountable: Who is accountable if the task isn’t completed? Remember that only one person should be accountable for each task or deliverable. When deciding who is accountable, ask yourself: Who might delegate the task to another team member? Who makes final decisions about the task? Who should review the work to confirm it is complete? Consulted: Who should be consulted for their insights, expertise, or strong opinions on the task? Here are a few questions to help identify whether someone should be consulted: Who can give feedback to responsible individuals to help them complete tasks? Who are the subject matter experts (SMEs) for the task? Informed: Who should be kept informed about task progress or project decisions? Key questions to ask yourself include: Who is invested in task completion but not directly involved in the work? Who is affected by the project outcome? Note: The number of stakeholders you keep informed about each task can vary depending on your situation. In some cases, you might choose to inform all stakeholders who aren't responsible, accountable, or consulted. In others, you could leave some cells in your RACI chart blank for certain tasks. Both approaches are fine for this activity. Pro Tip: Save the Template Finally, be sure to save a blank copy of the RACI chart template you used to complete this activity. You can use it for further practice or in your own personal or professional projects. Templates like this one will be useful as you put together a portfolio of project management artifacts. You can use them to talk through your thought processes as you demonstrate your experience to potential employers. What to Include in Your Response Be sure to address the following elements in your completed RACI chart: The RACI chart includes all of the project roles. The RACI chart includes all the tasks. The appropriate individuals are listed as Responsible, Accountable, Consulted, and Informed. Only one individual is accountable for each deliverable/task. At least one individual is responsible for each task. (Note that some tasks may not need Consulted or Informed individuals.) Did you complete this activity?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "In the RACI model, which role offers insights or expertise to help others complete project tasks?",
+    "answers": ["Consulted"]
+  },
+  {
+    "question": "What key questions should you consider when deciding who should be accountable for a task? Select all that apply.",
+    "answers": [
+      "Who should review the work to confirm it is complete?",
+      "Who might delegate the task to another team member?"
+    ]
+  },
+  {
+    "question": "In your completed RACI chart, how many stakeholders are accountable for the “code the landing page” task?",
+    "answers": ["1"]
+  },
+  {
+    "question": "In your completed RACI chart, who is responsible for coding the landing page?",
+    "answers": ["The Web Developer"]
+  },
+  {
+    "question": "Who is responsible for overseeing the scope, schedule, budget, and quality of a project?",
+    "answers": ["Project manager"]
+  },
+  {
+    "question": "How often should communication happen with project sponsors?",
+    "answers": ["Throughout all phases of the project"]
+  },
+  {
+    "question": "As a project manager, you are defining the goals and outcomes for a project. Who should help you with this?",
+    "answers": ["Stakeholders"]
+  },
+  {
+    "question": "Which responsibilities belong to project team members?",
+    "answers": [
+      "Use technical expertise and interpersonal skills to complete day-to-day tasks"
+    ]
+  },
+  {
+    "question": "Fill in the blank: Stakeholder analysis is the process of identifying stakeholders and grouping them by _____.",
+    "answers": ["interest and influence"]
+  },
+  {
+    "question": "Which of the following activities are steps in a stakeholder analysis? Select all that apply.",
+    "answers": [
+      "List the stakeholders impacted by the project",
+      "Assess each stakeholder’s level of interest and influence"
+    ]
+  },
+  {
+    "question": "What does the acronym RACI stand for?",
+    "answers": ["Responsible, Accountable, Consulted, Informed"]
+  },
+  {
+    "question": "Which three of the following situations can lead to role confusion on a project? Select all that apply.",
+    "answers": [
+      "When workloads are unbalanced",
+      "When ownership of decisions is unclear",
+      "When team members perform overlapping work"
+    ]
+  },
+  {
+    "question": "As a project manager, you make considerations when building a team. You decide how many people should be on the team, if they have the time to work on the project, and what expertise each team member needs for their tasks. What else should you consider when building a team?",
+    "answers": ["Team member motivation"]
+  },
+  {
+    "question": "A stakeholder needs additional time to make a decision on a project. What communication steps can a project manager make to help the stakeholder make their decision? Select all that apply.",
+    "answers": [
+      "Hold frequent meetings with the stakeholder",
+      "Over-communicate early on"
+    ]
+  },
+  {
+    "question": "As a project manager, you work with a small team to complete the launch of a new web tool in two months. What type of tool would you use to successfully complete this project?",
+    "answers": ["A simple and straightforward tool"]
+  },
+  {
+    "question": "What details should be in your project charter? Select all that apply.",
+    "answers": ["Project goals", "Scope", "Deliverables"]
+  },
+  {
+    "question": "Fill in the blank: A project manager needs to receive approval from stakeholders and ____ to move on to the next stage.",
+    "answers": ["the project sponsor"]
+  },
+  {
+    "question": "During the initiation phase of a project, the stakeholders introduce a new feature to add to the deliverables. What can you do to ensure the team remembers all the details for the added feature?",
+    "answers": ["Document the details in a shared document."]
+  },
+  {
+    "question": "What is a consequence of releasing a new tool to team members before testing it thoroughly?",
+    "answers": [
+      "The team will be hesitant to use the product if there are issues with the tool."
+    ]
+  },
+  {
+    "question": "A project manager needs a tool to track the number of tasks completed for the week. What type of tool should they use?",
+    "answers": ["Work management"]
+  },
+  {
+    "question": "What tool can you use to create presentations for stakeholders on a new project?",
+    "answers": ["Google Slides"]
+  },
+  {
+    "question": "A spreadsheet is a versatile tool that helps a project manager to do what? Select all that apply.",
+    "answers": ["Manage budgets", "Create timelines", "Build charts"]
+  },
+  {
+    "question": "In project management, the people who help execute the project are also referenced as what?",
+    "answers": ["Resources"]
+  },
+  {
+    "question": "What document can stakeholders reference to ensure the project is aligned with its goals?",
+    "answers": ["Project charter"]
+  },
+  {
+    "question": "What are two potential consequences of a project manager failing to properly initiate a project?",
+    "answers": [
+      "Stakeholders might not agree on what success looks like.",
+      "Resources can be underestimated."
+    ]
+  },
+  {
+    "question": "As a project manager, you investigate the value a project will create and how much time will be saved. What step of the cost benefit analysis are you completing?",
+    "answers": ["Benefit analysis"]
+  },
+  {
+    "question": "Fill in the blank: _____ are the first thing a project manager needs to consider during the initiation phase.",
+    "answers": ["Goals"]
+  },
+  {
+    "question": "As a project manager, you define the standards to meet for the project’s success. Which key component of project initiation does this scenario concern?",
+    "answers": ["Success criteria"]
+  },
+  {
+    "question": "What term refers to the budget, people, materials, and other items necessary to complete a project?",
+    "answers": ["Resources"]
+  },
+  {
+    "question": "As a project manager, you have completed key components of the initiation phase. What is the document you will put together and present to stakeholders?",
+    "answers": ["A project charter"]
+  },
+  {
+    "question": "Which of the following could be considered intangible benefits? Select all that apply.",
+    "answers": [
+      "Customer satisfaction",
+      "Brand perception",
+      "Employee satisfaction"
+    ]
+  },
+  {
+    "question": "You expect that a project will bring in $12,000 USD in revenue per year. You estimate it will cost $5,000 up front. You also estimate costs of $50 per month for the first 12 months, which equals $600 per year. Using the formula (G-C) ÷ C = ROI, how would you calculate the project’s return on investment (ROI) after the first 12 months?",
+    "answers": ["(12,000 - 5,600) ÷ 5,600 = 114%"]
+  },
+  {
+    "question": "As a project manager, you’re using the SMART criteria to craft revenue goals for your team. During the process, you determine that your team needs to achieve their goal by the end of the second quarter. In this instance, which SMART criteria are you using?",
+    "answers": ["Time-bound"]
+  },
+  {
+    "question": "As a project manager it is your responsibility to maintain the limits of the project. Which of the following are ways that scope creep is likely to affect your project? Select all that apply.",
+    "answers": [
+      "Losses to your bottom line",
+      "Schedule delays",
+      "Increased risk"
+    ]
+  },
+  {
+    "question": "Suppose as a project manager you receive a request from a team member to change a process they believe will make their work more efficient. However, you know that the change may increase the workload for other team members and extend the project’s completion date. How do you best address this potential internal scope creep?",
+    "answers": [
+      "Remind the team that any process changes will change project scope and may create unknown risks for the project"
+    ]
+  },
+  {
+    "question": "What is part of a project launch?",
+    "answers": ["Defining and managing the project scope"]
+  },
+  {
+    "question": "Define success criteria.",
+    "answers": [
+      "The standards by which the project will be judged once it’s been delivered to customers"
+    ]
+  },
+  {
+    "question": "As a project manager, you utilize your project management tools to check whether the project is progressing alongside the planned timelines. What type of metric would this be an example of?",
+    "answers": ["An efficiency metric"]
+  },
+  {
+    "question": "In the RACI model, which role completes the work for a task or deliverable?",
+    "answers": ["Responsible"]
+  },
+  {
+    "question": "What key questions should you consider when deciding who should be consulted about a task? Select all that apply.",
+    "answers": [
+      "Who can give feedback to responsible individuals to help them complete tasks?",
+      "Who are the subject matter experts (SMEs) for the task?"
+    ]
+  },
+  {
+    "question": "In your completed RACI chart, how many stakeholders are accountable for the “design the landing page” task?",
+    "answers": ["1"]
+  },
+  {
+    "question": "In your completed RACI chart, who is responsible for creating the landing page mockup?",
+    "answers": ["The Web Designer"]
+  },
+  {
+    "question": "Which of the following is a primary task of a project manager?",
+    "answers": ["Balance the scope, schedule, and cost of a project"]
+  },
+  {
+    "question": "Who is accountable for the project, ensures that it delivers the agreed-upon value, and may also fund the project?",
+    "answers": ["The project sponsor"]
+  },
+  {
+    "question": "Which stakeholders benefit directly(not indirectly) from a project’s success? Select all that apply.",
+    "answers": ["Primary stakeholders", "Key players"]
+  },
+  {
+    "question": "What group often provides the technical skills required for a project?",
+    "answers": ["Project team members"]
+  },
+  {
+    "question": "What type of chart is a visual representation of all stakeholders in a project?",
+    "answers": ["Stakeholder analysis chart"]
+  },
+  {
+    "question": "As a project manager, you have made a list of stakeholders and determined their interest and influence in a project. What is often the next step in a stakeholder analysis?",
+    "answers": [
+      "Assess each stakeholder’s ability to participate and find ways to involve them"
+    ]
+  },
+  {
+    "question": "In a RACI chart, how many people should be designated as accountable?",
+    "answers": ["One"]
+  },
+  {
+    "question": "As a project manager, you assign someone as responsible on a RACI chart. What do you expect them to do on the project?",
+    "answers": ["Carry out the work to complete the tasks"]
+  },
+  {
+    "question": "As a project manager, you’re prioritizing stakeholders using a power grid. One stakeholder has high power and high interest. What level of engagement should the team have with the stakeholder?",
+    "answers": ["Manage closely"]
+  },
+  {
+    "question": "Fill in the blank: For small projects, project managers should typically use _____.",
+    "answers": ["simple and straightforward tools"]
+  },
+  {
+    "question": "Who does the project manager need to get approval from before indicating a Go for the project? Select all that apply.",
+    "answers": ["Project sponsor", "Key stakeholders"]
+  },
+  {
+    "question": "In which of the following scenarios does the project manager implement documentation well? Select all that apply.",
+    "answers": [
+      "The project manager shares the project timeline on a cloud-based document sharing program.",
+      "The key stakeholder determines they want to add a feature to the product in development. The project manager includes this update in the project charter and communicates it to the team."
+    ]
+  },
+  {
+    "question": "Which are examples of work management tools?",
+    "answers": ["Asana, Basecamp, and Trello"]
+  },
+  {
+    "question": "A project manager needs to track changes in the project’s goal and scope. What type of tool should they use?",
+    "answers": ["Work management"]
+  },
+  {
+    "question": "What tool should you use to keep track of tasks for a small project with two team members?",
+    "answers": ["Spreadsheet"]
+  },
+  {
+    "question": "A project manager lists the assets the team needs to acquire to complete a project. What type of assets is the project manager listing?",
+    "answers": ["Project resources"]
+  },
+  {
+    "question": "When developing the project charter, who does the project manager typically work with?",
+    "answers": ["Teammates and stakeholders"]
+  },
+  {
+    "question": "As a project manager, you’re using the SMART criteria to craft goals for your team. During the process, you create goals that are a little challenging, but also encourage growth. In this instance, which SMART criteria are you using?",
+    "answers": ["Attainable"]
+  },
+  {
+    "question": "Which of the following scenarios best represents a project that is going out-of-scope?",
+    "answers": [
+      "During the project weekly meeting, the project sponsor adds a new deliverable requirement that costs $10,000 USD. This addition surpasses the budget by $5,000 USD."
+    ]
+  },
+  {
+    "question": "As a project manager for an online retailer, you meet with your company’s head of customer service and are asked to establish a rewards program and monitor its effect on the number of repeat online customers. Your team launches a finished website that introduces a new rewards program and add a link to the website on all new order confirmation emails. Which of the following is a project goal in this scenario?",
+    "answers": [
+      "Monitor the effect of a new rewards program on the number of repeat online customers"
+    ]
+  },
+  {
+    "question": "Consider the following scenario: The Director of Product requests a project cost reduction of 25%. However, they also state that the product’s final result needs to look and function as originally agreed with no additions to project workload. Using the triple constraint model, what trade-off could the project manager use to meet the Director of Product’s request?",
+    "answers": ["Change the timeline"]
+  },
+  {
+    "question": "Which of the following is an engagement metric?",
+    "answers": ["A 20% increase of participation time within an app"]
+  },
+  {
+    "question": "How will you quantify if you’re landing a project at its intended goal?",
+    "answers": ["Check if the project meets the initial success criteria."]
+  },
+  {
+    "question": "Fill in the blank: Objectives and Key Results (OKRs) combine both a goal and a _____ to determine a measurable outcome.",
+    "answers": ["metric"]
+  },
+  {
+    "question": "Please let us know if you plan to take this optional course. Your choice will not affect your Google Career Certificate, which you will receive regardless, but your response is required in order to send you information on how to claim your certificate.",
+    "answers": ["Yes, I want to learn how to accelerate my job search with AI!"]
+  },
+  {
+    "question": "In the project planning phase, you lay out higher-level milestones and break down the effort into project tasks. What type of methodology are you using?",
+    "answers": ["Top-down scheduling"]
+  },
+  {
+    "question": "Which of the following is a primary benefit of planning in project management?",
+    "answers": [
+      "It helps the project manager understand the work needed to achieve the goal."
+    ]
+  },
+  {
+    "question": "What items do stakeholders need to approve before the planning phase can begin? Select all that apply.",
+    "answers": ["Project scope", "Project deliverables", "Project name"]
+  },
+  {
+    "question": "What are the benefits of the project planning phase? Select all that apply.",
+    "answers": [
+      "Identify and prepare for risks.",
+      "Understand the work the team needs to do to achieve their goals.",
+      "Coordinate efforts and timelines with other teams."
+    ]
+  },
+  {
+    "question": "Suppose that as a project manager, you’re running a kick-off meeting. During the meeting, you give examples of tasks that you consider part of the project, and tasks you consider not part of the project. What agenda section does this represent?",
+    "answers": ["Goals and scope"]
+  },
+  {
+    "question": "What should a project manager do directly after completing a project kick-off?",
+    "answers": [
+      "Send a follow-up email summarizing key points and action items."
+    ]
+  },
+  {
+    "question": "Which of the following would be considered a project milestone?",
+    "answers": ["Host an event for the product launch"]
+  },
+  {
+    "question": "What are some consequences of missing a milestone in a project? Select all that apply.",
+    "answers": [
+      "There can be a delay in the project schedule.",
+      "The client could withhold payments due to the delay.",
+      "More resources may be needed to reach the deadline for the milestone."
+    ]
+  },
+  {
+    "question": "Project managers should follow which three best practices when assigning tasks to complete milestones? Select all that apply.",
+    "answers": [
+      "Consider teammates’ familiarity with the tasks.",
+      "Add an assignee and due date to each task.",
+      "Balance the workload of tasks between teammates."
+    ]
+  },
+  {
+    "question": "Suppose as a project manager, you have multiple team members working on similar tasks. How would you decide who should work on what tasks?",
+    "answers": [
+      "Learn about the team members’ backgrounds and who is familiar with the different types of tasks."
+    ]
+  },
+  {
+    "question": "You create a new project plan for your company’s staff training program. Which component of the project plan tracks team member activities?",
+    "answers": ["Tasks"]
+  },
+  {
+    "question": "Fill in the blank: Time estimation predicts the total amount of time required to complete a task, while the actual time it takes to complete a task _____.",
+    "answers": ["may vary depending on overlooked potential risks"]
+  },
+  {
+    "question": "You create a list of tasks for a project and determine which tasks the team must complete before another task can begin. What type of tasks have you identified?",
+    "answers": ["Dependencies"]
+  },
+  {
+    "question": "As a project manager, the project is your number one priority. However, you have team members with competing priorities from other projects. You want to influence them to make your project their priority. To do this, you bridge the high-level goals of the project and the day-to-day perspective of the team. You collaborate to find an outcome that works for everyone. What interpersonal skill did you mainly use in this scenario?",
+    "answers": ["Negotiate effectively"]
+  },
+  {
+    "question": "What type of document will you create to highlight tasks, assignments, and the timeline of a project?",
+    "answers": ["Project plan"]
+  },
+  {
+    "question": "You are a project manager helping a car company with a new vehicle launch. Your project goal is to ensure vehicle delivery to dealerships. To achieve this, you speak with stakeholders and subject matter experts to understand the specific details of the project. This information helps you know what steps to take to best achieve the project goal. This example includes which project plan best practice?",
+    "answers": [
+      "Carefully understand project deliverables, milestones, and tasks."
+    ]
+  },
+  {
+    "question": "As a project manager, you create timeline estimates for multiple tasks and assign them to team members. How can you decide which tasks to start first?",
+    "answers": ["Identify which tasks the team can execute in parallel."]
+  },
+  {
+    "question": "You are a project manager working to build a new house. You consider the upcoming storm forecast in your construction plan. How can you mitigate the storm disruption in the project planning stage?",
+    "answers": ["Add task buffers for the tasks that occur during the storm."]
+  },
+  {
+    "question": "Which of the following are some steps to create a critical path? Select all that apply.",
+    "answers": [
+      "Set dependencies.",
+      "Make time estimates.",
+      "Create a network diagram."
+    ]
+  },
+  {
+    "question": "Which of the following is a visual tool a project manager can use to manage tasks and workflows?",
+    "answers": ["Kanban board"]
+  },
+  {
+    "question": "As a project manager, you review your budget and notice one vendor is costing more than anticipated. You shift funds and recalibrate the budget to offset this increased vendor cost. What is the budgeting term for this task?",
+    "answers": ["Reforecasting"]
+  },
+  {
+    "question": "Which of the following is an example of using historical data to develop your project budget?",
+    "answers": [
+      "Reviewing past projects that are similar to yours to get an idea of what your budget could entail"
+    ]
+  },
+  {
+    "question": "As a project manager creating a budget, you proactively identify factors that may impact expenses. You then take action to minimize the budgetary impact of these factors. What is this task called?",
+    "answers": ["Cost control"]
+  },
+  {
+    "question": "As a project manager, you’re seeking a procurement approach that is more collaborative with the project teams and an adaptable, living contract. Which procurement approach should you choose?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "A document that keeps confidential information within the organization is known as what?",
+    "answers": ["Non-disclosure agreement (NDA)"]
+  },
+  {
+    "question": "Which of the following justifies sole-supplier sourcing?",
+    "answers": ["The company is cautious about exposing trade secrets."]
+  },
+  {
+    "question": "Which of the following do you consider an indirect cost in your budget?",
+    "answers": ["Security"]
+  },
+  {
+    "question": "At what phase in the procurement process would a project manager review a vendor’s performance and determine if they are meeting milestones?",
+    "answers": ["Controlling"]
+  },
+  {
+    "question": "Which of the following accurately describes total cost of ownership (TCO)?",
+    "answers": [
+      "TCO factors in expenses associated with a product or service over its lifetime."
+    ]
+  },
+  {
+    "question": "The budgeting process usually takes place at the same time as what other process?",
+    "answers": ["Scheduling"]
+  },
+  {
+    "question": "Fill in the blank: A potential event that can impact your project if it occurs is called a(n) _____.",
+    "answers": ["risk"]
+  },
+  {
+    "question": "When should project managers engage in risk management?",
+    "answers": ["Regularly throughout the project"]
+  },
+  {
+    "question": "As a project manager practicing risk management, you find and define potential project risks. Which risk management step does this represent?",
+    "answers": ["Identify risks"]
+  },
+  {
+    "question": "A project manager completes a fishbone diagram. They completed three steps: define the problem, identify categories, and brainstorm causes. What is the next step they should take to complete the fishbone diagram?",
+    "answers": ["Analyze the causes"]
+  },
+  {
+    "question": "Fill in the blank: Once an organization has explored the inherent risks of a project, its willingness to accept the possible outcomes of those risks is known as _____.",
+    "answers": ["risk appetite"]
+  },
+  {
+    "question": "What are the most common types of risk that can impact projects?",
+    "answers": ["Time risks, budget risks, and scope risks"]
+  },
+  {
+    "question": "A project manager is concerned about the workload an internal team is taking on for an upcoming project. The project manager decides to shift this workload to an external supplier. What kind of risk mitigation strategy is this?",
+    "answers": ["Transferring risk"]
+  },
+  {
+    "question": "Why should project managers communicate risks clearly to stakeholders? Select all that apply.",
+    "answers": [
+      "To get them to provide additional teammates, if necessary",
+      "To increase trust in the relationship",
+      "To convince them to provide an increase in budget, if necessary"
+    ]
+  },
+  {
+    "question": "As a project manager, you’re identifying task dependencies. Task B cannot finish until Task A has started. Which type of dependency does this situation represent?",
+    "answers": ["Start to Finish (SF)"]
+  },
+  {
+    "question": "Which steps should be taken when updating a risk management plan? Select all that apply.",
+    "answers": [
+      "Include any changes in the mitigation plans.",
+      "Add newly-identified risks.",
+      "Remove risks that are no longer relevant."
+    ]
+  },
+  {
+    "question": "As a project manager, you create a communication plan for a project. You need to identify potential barriers. Which of the following questions should you ask to identify a potential barrier?",
+    "answers": ["Are there any privacy or internet access issues?"]
+  },
+  {
+    "question": "Which of the following is true of effective communication in project management? Select all that apply.",
+    "answers": [
+      "It is clear, relevant, and frequent.",
+      "It helps projects run on time and meet expectations.",
+      "It continues throughout the entire project."
+    ]
+  },
+  {
+    "question": "Which of the following actions demonstrates an effective strategy to allow stakeholders and team members to find relevant information in a project?",
+    "answers": [
+      "Create a section in a communication plan for links to relevant documents."
+    ]
+  },
+  {
+    "question": "As a project manager, part of your communication plan is to have an in-person meeting with team members. What additional details should the communication plan include? Select all that apply.",
+    "answers": ["Goal", "Type of communication", "Frequency"]
+  },
+  {
+    "question": "How can a project manager evaluate which parts of a project communication plan are over-sharing or under-sharing information? Select all that apply.",
+    "answers": [
+      "Create anonymous feedback surveys for stakeholders and team members.",
+      "Have one-on-one conversations with stakeholders and team members."
+    ]
+  },
+  {
+    "question": "One of the items in the project communication plan is to give formal in-person presentations every quarter. Which group should these presentations target?",
+    "answers": ["Key stakeholders"]
+  },
+  {
+    "question": "What is the frequency of meetings for the core team members in the project communication plan?",
+    "answers": ["Daily"]
+  },
+  {
+    "question": "Which tools can help determine the best type of communication for those involved with the project? Select all that apply.",
+    "answers": ["RACI chart", "Stakeholder map"]
+  },
+  {
+    "question": "Fill in the blank: Documenting and organizing plans provides visibility for project team members and _____ for task owners.",
+    "answers": ["accountability"]
+  },
+  {
+    "question": "Which of the following should a project manager include in a centralized planning document, also known as a dashboard? Select all that apply.",
+    "answers": [
+      "Instructions for how to use the centralized planning document",
+      "Links to any non-spreadsheet files",
+      "A brief project description"
+    ]
+  },
+  {
+    "question": "As a project manager, you’re using the SMART criteria to craft goals for your team. During the process, you ask yourself if your team can misinterpret a goal. Which SMART criteria does this question represent?",
+    "answers": ["Specific"]
+  },
+  {
+    "question": "Suppose that you’re starting as a project manager for a new client. What three strategies can you use to decrease the likelihood of scope creep and make the project a success? Select all that apply.",
+    "answers": [
+      "Ask for constructive criticism on the initial product proposal.",
+      "Set ground rules and expectations for client involvement once the project begins."
+    ]
+  },
+  {
+    "question": "As a project manager for an online retailer, you meet with your company’s head of customer service and are asked to establish a rewards program and monitor the number of repeat online customers. Your team launches a finished website that introduces a new rewards program and add a link to the website on all new order confirmation emails. Which of the following is a project deliverable in this scenario?",
+    "answers": [
+      "Launch a finished website that introduces a new rewards program"
+    ]
+  },
+  {
+    "question": "Consider the following scenario: The Director of Product requests that the project manager do what they can to finish the project early. However, the Director states that they cannot spend any additional funds. Using the triple constraint model, what trade-off could the project manager use to meet the Director of Product’s request?",
+    "answers": ["Change the project scope"]
+  },
+  {
+    "question": "What’s a main difference between the adoption and engagement metrics?",
+    "answers": [
+      "Adoption is generally a one-time occurrence. Engagement is ongoing."
+    ]
+  },
+  {
+    "question": "Which of the following is true about Objectives and Key Results (OKRs)?",
+    "answers": [
+      "Adoption and engagement are often used as metrics to measure results."
+    ]
+  },
+  {
+    "question": "You create a work breakdown structure. One of the major milestones is securing a venue for a conference. There are smaller jobs that must be done to reach each milestone. What are the smaller jobs known as?",
+    "answers": ["Tasks and sub-tasks"]
+  },
+  {
+    "question": "In the project planning phase, you create a timeline that includes the start and end date, as well as dates for events in between. What is this timeline called?",
+    "answers": ["Schedule"]
+  },
+  {
+    "question": "Fill in the blank: After the stakeholders assign the project manager, the goals of the project have to be approved, as well as the scope of the project and its _____.",
+    "answers": ["deliverables"]
+  },
+  {
+    "question": "As a project manager, you notice that a new government regulation may add additional tasks to the project. You bring your concern about the new regulation to the stakeholders for a discussion on how to lessen its impacts. What component of the planning phase does this situation represent?",
+    "answers": ["Risk management"]
+  },
+  {
+    "question": "Suppose that as a project manager, you’re running a kick-off meeting. During the meeting, you discuss the project plan software the team will be using, which is Google Sheets. You also discuss how the team will communicate with each other, which includes a team chat and weekly check-in meetings. What agenda section does this represent?",
+    "answers": ["Collaboration"]
+  },
+  {
+    "question": "As a project manager, you facilitate a kick-off meeting. What is a step you can take to ensure all the details are stated in your notes?",
+    "answers": [
+      "Ask a team member to take notes on key points and action items."
+    ]
+  },
+  {
+    "question": "Which of the following would be considered tasks for opening a new cafe? Select all that apply.",
+    "answers": [
+      "Create marketing content",
+      "Research equipment",
+      "Research new locations"
+    ]
+  },
+  {
+    "question": "Imagine that you are a project manager trying to complete a website design. What activities might be tasks that must be accomplished to complete the project? Select all that apply.",
+    "answers": [
+      "Implement feedback by the designer.",
+      "Create initial mock-ups of the website.",
+      "Test the website for usability."
+    ]
+  },
+  {
+    "question": "When creating milestones as a project manager, what should you avoid? Select all that apply.",
+    "answers": [
+      "Using milestones as tasks because milestones should represent big moments in time and tasks are how to get there",
+      "Setting too many milestones because you want to appear ambitious to stakeholders",
+      "Having no milestones because tasks are all you need to complete the project"
+    ]
+  },
+  {
+    "question": "What are the benefits of making a work breakdown structure (WBS)? Select all that apply.",
+    "answers": [
+      "You have a visualization tool that assists in assigning tasks.",
+      "You and your teammates can easily identify the tasks you assigned to each milestone."
+    ]
+  },
+  {
+    "question": "As a project manager, you identify tasks to complete in a project. Who will you consult to create an accurate time estimate for each task?",
+    "answers": ["Team members working on the tasks"]
+  },
+  {
+    "question": "Fill in the blank: To determine the _____ of a project, list the milestones you must reach in order to meet the project goal on schedule.",
+    "answers": ["critical path"]
+  },
+  {
+    "question": "You are meeting with a teammate to get an estimate for a website launch page design. What question can you ask your teammate to get an accurate time estimate for the task?",
+    "answers": [
+      "How long does it typically take to mockup a website design like this one?"
+    ]
+  },
+  {
+    "question": "As a project manager, you schedule regular meetings with your team throughout the project to ask questions about the tasks and learn more about their skill sets. What project plan best practice does this represent?",
+    "answers": ["Staying curious"]
+  },
+  {
+    "question": "During the planning phase, you notice the project needs more developers to complete the project tasks within the timeline. Which of the following steps can you take to ensure the project can still be completed on time?",
+    "answers": [
+      "Communicate your concern to the team and ask for more resources on the project."
+    ]
+  },
+  {
+    "question": "What is a strategy to overcome the planning fallacy?",
+    "answers": ["Add task buffers."]
+  },
+  {
+    "question": "As a project manager, you create a critical path for a project. You add up the duration of the tasks on the critical path from the beginning to the end. What type of pass method did you use to calculate the critical path?",
+    "answers": ["Forward pass"]
+  },
+  {
+    "question": "Imagine you are in charge of the budget for a project. You understand the stakeholder needs and have budgeted for surprise expenses. Which of the following is a budgeting task you need to do over the course of the project?",
+    "answers": ["Review and reforecast"]
+  },
+  {
+    "question": "Imagine you create a budget and add it to a spreadsheet. You include the estimated costs for contractors who are working on the project based on the expected number of hours they work. What column should you enter this cost in your spreadsheet?",
+    "answers": ["Planned cost"]
+  },
+  {
+    "question": "As a project manager, the project sponsor gives you cost estimates with a set amount of money to spend. What challenge for effective budgeting does this represent?",
+    "answers": ["Pre-allocated budget"]
+  },
+  {
+    "question": "In the procurement process, what step comes after initiating the process?",
+    "answers": ["Selecting"]
+  },
+  {
+    "question": "“Honesty, responsibility, respect, and fairness are the values...” begins what type of saying of the Project Management Institute that serves as a guide to how they do procurement and other business?",
+    "answers": ["Code of ethics"]
+  },
+  {
+    "question": "To create a well-organized budget, a project manager includes different types of expenditures. Which type of budget expense creates a future benefit for a company?",
+    "answers": ["Capital expenses (CAPEX)"]
+  },
+  {
+    "question": "At what phase in the procurement process would a project manager define project resources and make the case for obtaining them?",
+    "answers": ["Initiating"]
+  },
+  {
+    "question": "A project manager writes a budget for an upcoming project. They break down the project by important points in the schedule like the completion of a phase. What are these important points known as?",
+    "answers": ["Milestones"]
+  },
+  {
+    "question": "Fill in the blank: A(n) _____ is a known and real problem that can affect a team’s ability to complete a task.",
+    "answers": ["issue"]
+  },
+  {
+    "question": "As a project manager you are practicing risk management. You have already defined potential risks, determined their likelihood and potential impact. Now, you prioritize the risks. This represents which risk management step?",
+    "answers": ["Evaluate risks"]
+  },
+  {
+    "question": "You are identifying risks for an upcoming project. You have already planned for time risks and budget risks. Which of the following is another common type of risk?",
+    "answers": ["Scope risk"]
+  },
+  {
+    "question": "A project manager has just learned that a supplier is currently running low on required materials for a project. The supplier is very confident that the materials will be restocked before they are needed for the project. The project manager decides to continue with the vendor rather than finding a new one. What kind of risk mitigation strategy is this?",
+    "answers": ["Accepting risk"]
+  },
+  {
+    "question": "Which of the following is the best way to communicate a high-level risk to stakeholders?",
+    "answers": [
+      "Meet with stakeholders in person to present serious risks and your plans to mitigate them."
+    ]
+  },
+  {
+    "question": "A project manager writes a risk management plan. Currently, they are working on a description of each risk, its risk rating, and a mitigation plan. What is the name of this section in the risk management plan?",
+    "answers": ["Risk register"]
+  },
+  {
+    "question": "Fill in the blank: Project managers should identify project stakeholders, communication methods, communication goals, and communication _____ before creating a communication plan.",
+    "answers": ["frequency"]
+  },
+  {
+    "question": "How can you foster effective communication within your team? Select all that apply.",
+    "answers": [
+      "Recognize and understand individual differences",
+      "Obtain feedback and incorporate it going forward"
+    ]
+  },
+  {
+    "question": "What is the purpose of a communication plan?",
+    "answers": [
+      "Organize and document the processes, types, and expectations of communication"
+    ]
+  },
+  {
+    "question": "What are the key benefits of a communication plan? Select all that apply.",
+    "answers": [
+      "Improves overall effectiveness of communication",
+      "Involves stakeholders in effective conversations",
+      "Keeps people engaged and motivated throughout the project"
+    ]
+  },
+  {
+    "question": "Which of the following communication methods are most appropriate for core project team members? Select all that apply.",
+    "answers": [
+      "Quick virtual check-ins to answer questions",
+      "Daily meetings to report on project progress"
+    ]
+  },
+  {
+    "question": "In a project communication plan, what are the goals of daily check-ins with core team members?",
+    "answers": ["Team members can give progress updates and blockers on tasks."]
+  },
+  {
+    "question": "A project manager has created documentation that includes information that does not need to be accessible to all team members. How can you ensure the documentation is accessible to the right people?",
+    "answers": [
+      "Summarize only the relevant information for those who need to keep informed and require them to request access to confidential information"
+    ]
+  },
+  {
+    "question": "As a project manager, you store the project RACI chart and Stakeholder analysis chart in two separate locations. What can you do to ensure team members have access to this information?",
+    "answers": [
+      "Attach the links for team members in a centralized planning document."
+    ]
+  },
+  {
+    "question": "What is project tracking?",
+    "answers": [
+      "A method for following the progress of a project's activities."
+    ]
+  },
+  {
+    "question": "Why should project managers track changes, dependencies, and risks throughout a project?",
+    "answers": ["Keep teams aligned on how to ensure project success"]
+  },
+  {
+    "question": "Which tracking method is most useful when project managers need a way to track big milestones in a project?",
+    "answers": ["Roadmap"]
+  },
+  {
+    "question": "A burndown chart tracks time and amount of remaining tasks. What data is typically represented on the graph's X-axis, the horizontal axis?",
+    "answers": ["Remaining time on the project"]
+  },
+  {
+    "question": "Imagine that an aerospace company builds a new line of passenger jets. Increased raw material costs cause the company to spend more on aluminum than planned. Which of the triple constraints does this change impact the most?",
+    "answers": ["Budget"]
+  },
+  {
+    "question": "During a project’s execution phase, what type of event does scope creep signify?",
+    "answers": ["Risk"]
+  },
+  {
+    "question": "Which of the following steps are part of dependency management? Select all that apply.",
+    "answers": [
+      "Continuous monitoring and control",
+      "Recording dependencies",
+      "Efficient communication"
+    ]
+  },
+  {
+    "question": "Imagine that a project manager creates a matrix with two variables: risk impact and probability. They use the matrix to measure potential future losses to a project resulting from specific activities or events. What is the project manager trying to determine?",
+    "answers": ["Risk exposure"]
+  },
+  {
+    "question": "What should you do in an escalation email? Select all that apply.",
+    "answers": [
+      "Explain the problem.",
+      "Make a request.",
+      "State your connection to the project."
+    ]
+  },
+  {
+    "question": "During the execution phase, an issue arises that will cause the project's costs to overrun the budget. How can the project manager address the issue?",
+    "answers": ["Escalate the issue to leadership"]
+  },
+  {
+    "question": "As a project manager, you’re implementing the ROAM technique for a new risk. You figure out how to work around the risk so it will no longer be a problem. Which ROAM action did you take?",
+    "answers": ["Resolved"]
+  },
+  {
+    "question": "As a project manager, you’re overseeing a product launch. You meet with customers to determine the product’s quality standards. Then, you create processes and documentation necessary to achieve the expected quality. Which quality management concept do these tasks represent?",
+    "answers": ["Quality planning"]
+  },
+  {
+    "question": "Which quality management concept must be well-defined at the beginning of the project to help avoid rework and schedule delays?",
+    "answers": ["Quality standards"]
+  },
+  {
+    "question": "A project manager sets clear expectations with customers about when they’ll communicate certain project updates and changes. To gain the customers’ confidence, the project manager also provides situational examples of when they may communicate. Which soft skill does this project manager use with their customers?",
+    "answers": ["Trust-building"]
+  },
+  {
+    "question": "As a project manager, you conduct user acceptance testing (UAT). You create a sequence of steps and its expected results for each item you are testing. Which UAT best practice did you follow?",
+    "answers": ["Create test cases"]
+  },
+  {
+    "question": "A project manager considers process improvements. They realize that the packaging the product ships in is causes a high percentage of the products to break. They believe that by using stronger packaging, less products will break. What is another term for this belief?",
+    "answers": ["Hypothesis"]
+  },
+  {
+    "question": "As a project manager, you identified a process-based problem you’d like to improve. Before implementing a solution, you conduct performance metrics and data collection. This establishes baseline data that will determine success. What DMAIC step did you apply?",
+    "answers": ["Measure"]
+  },
+  {
+    "question": "As a project manager, you’ve heard back from a customer who is not happy with product your company delivered. You decide to apply the PDCA process to fix the problem. What should you do in the first step of this process?",
+    "answers": ["Identify the root cause and brainstorm solutions"]
+  },
+  {
+    "question": "Who can take a beneficial process improvement from one project and implement it across several projects?",
+    "answers": ["Program manager"]
+  },
+  {
+    "question": "A team successfully delivers a product feature to a client, but misses the deadline. What should the project manager do to investigate why the product feature was late?",
+    "answers": ["Hold a retrospective"]
+  },
+  {
+    "question": "Fill in the blank: Through _____, you will learn how to use data to draw conclusions and make predictions and improve performance.",
+    "answers": ["data analysis"]
+  },
+  {
+    "question": "Fill in the blank: A(n) _____ is a quantifiable measurement project managers use to track and assess a business objective.",
+    "answers": ["metric"]
+  },
+  {
+    "question": "Which of the following is an activity that needs to be accomplished within a set period of time?",
+    "answers": ["Task"]
+  },
+  {
+    "question": "What is an observable change that helps determine health of a project and identify if something isn’t quite right?",
+    "answers": ["signal"]
+  },
+  {
+    "question": "As a project manager, you are tasked with increasing the number of users for your phone application. The first step you take is to review the number of monthly users from last year. What type of data do you review in this step?",
+    "answers": ["Quantitative"]
+  },
+  {
+    "question": "What is the third step in storytelling that vets the data for credibility and filters the information?",
+    "answers": ["Analyze the data"]
+  },
+  {
+    "question": "In data visualization, what type of chart is used to measure time against the amount of work done and amount of work remaining?",
+    "answers": ["Burndown charts"]
+  },
+  {
+    "question": "Which of the following are ways to help you give an effective presentation? Select all that apply.",
+    "answers": ["Be flexible", "Be precise", "Be memorable"]
+  },
+  {
+    "question": "As a project manager processing data, you avoid using data that isn’t representative of the population. This tactic helps avoid which data bias?",
+    "answers": ["Sampling bias"]
+  },
+  {
+    "question": "As a project manager analyzing data, you ensure the data is accurate by removing duplicate responses and inconsistencies, and confirm the data contains no typos or errors. Which data analysis best practice does this represent?",
+    "answers": ["Process"]
+  },
+  {
+    "question": "As a project manager creating a story, you ask yourself questions like: “Who are you presenting to?,” “What are their problems?,” and “What do they care about?”. In what storytelling step should you ask these questions?",
+    "answers": ["Define the audience"]
+  },
+  {
+    "question": "You are a project manager preparing a data presentation. To explain your data, you need to present the composition of house sizes in a city. Which data visualization tool should you use?",
+    "answers": ["Pie chart"]
+  },
+  {
+    "question": "A project manager thinks of ways to maximize individual strengths, foster creativity, and encourage accountability within their group. What team benefit is the project manager hoping to achieve?",
+    "answers": ["Increase teamwork within the group."]
+  },
+  {
+    "question": "Which of the five factors that impact team effectiveness is the most important?",
+    "answers": ["Psychological safety"]
+  },
+  {
+    "question": "While working on a project, you frequently request a list of completed tasks from your team members. To solve this, you create a process for team members to update their task status in a daily chat message. Which aspect of effective team building does this scenario demonstrate?",
+    "answers": ["Create systems that turn chaos into order."]
+  },
+  {
+    "question": "In what ways can project managers listen and communicate effectively? Select all that apply.",
+    "answers": [
+      "Hold regular team meetings.",
+      "Ask team members how they prefer to communicate."
+    ]
+  },
+  {
+    "question": "As a project manager, you begin working on a new project. You outline the project goals to the team. You also explain the tasks the team must complete for the project to succeed. What is this stage of Bruce Tuckman’s five stages of team development?",
+    "answers": ["Forming"]
+  },
+  {
+    "question": "As a project manager, you act as a role model, create a comfortable environment, and recognize team contributions. These actions demonstrate which inclusive leadership principle?",
+    "answers": ["Foster culture and respect for the team."]
+  },
+  {
+    "question": "A project manager drafts an email to a potential vendor and highlights in-depth feedback from surveys about the vendor’s products. Which step of effective influencing is the project manager demonstrating?",
+    "answers": ["Provide evidence."]
+  },
+  {
+    "question": "A project manager improves their ability to communicate with team members and focuses on their approach with an audience. What personal source of power are they improving?",
+    "answers": ["Expressiveness"]
+  },
+  {
+    "question": "Which of the following is not a step in the ethical decision-making framework developed by the Markkula Center for Applied Ethics?",
+    "answers": ["Consider the personal benefits."]
+  },
+  {
+    "question": "A stakeholder requests a new feature for the current milestone. How can the project manager protect the team and keep the stakeholder satisfied?",
+    "answers": [
+      "Provide air cover for the team and communicate with the stakeholder."
+    ]
+  },
+  {
+    "question": "When communicating with your team, it’s important to remember that people process information and learn in various ways. What do these ways include? Select all that apply.",
+    "answers": ["Listening", "Doing", "Watching"]
+  },
+  {
+    "question": "What type of communication allows team members to send a quick informal update on a task?",
+    "answers": ["Instant messaging"]
+  },
+  {
+    "question": "Fill in the blank: In order to set clear meeting expectations, help attendees prepare, keep everyone focused on the right topics, and clarify meeting expectations and goals, your meeting should have a(n) _____.",
+    "answers": ["agenda"]
+  },
+  {
+    "question": "Fill in the blank: A key component of inclusivity is ensuring your meetings and presentations are _____.",
+    "answers": ["accessible"]
+  },
+  {
+    "question": "A project manager wraps up the execution phase of a project and needs to schedule a meeting to reflect on what went well and potential improvements for the future. What type of meeting can they schedule?",
+    "answers": ["Retrospective"]
+  },
+  {
+    "question": "When writing an email, a project manager reviews two large paragraphs in the email and removes any excess content. What email best practice are they using?",
+    "answers": ["Keep content concise."]
+  },
+  {
+    "question": "What actions may help make a meeting accessible for someone who is hard of hearing? Select all that apply.",
+    "answers": [
+      "Add closed captions or subtitles to videos.",
+      "Face the person you are speaking with.",
+      "Include all the information presented in a spoken presentation on slides."
+    ]
+  },
+  {
+    "question": "According to a Google study, productive meetings have what three elements in common?",
+    "answers": [
+      "Active participation from attendees, a clear and concise agenda, and the correct attendees"
+    ]
+  },
+  {
+    "question": "In what type of meeting does the project manager typically discuss how many tasks have been completed, whether the team is on schedule, and any current issues?",
+    "answers": ["Status update"]
+  },
+  {
+    "question": "Which type of meeting is typically more formal, starts with a project update, and may include a decision to resolve a major issue?",
+    "answers": ["Stakeholder review"]
+  },
+  {
+    "question": "What is at risk for the team if a project is not closed properly? Select all that apply.",
+    "answers": ["Efforts", "Time", "Credibility"]
+  },
+  {
+    "question": "A project manager has completed a full review of remaining tasks and confirms work is complete. What task should they complete next to close out the project?",
+    "answers": [
+      "The project manager should make sure all project management processes have been executed."
+    ]
+  },
+  {
+    "question": "Consider the following project closing scenario: The project manager does a final review of tasks and deliverables to ensure they are complete. They make sure there is written proof from stakeholders documenting that they are happy with the outcome. The project manager leads a meeting with the team to document what went well, what could be improved, and overall lessons learned. Finally, the team is disbanded, and the project manager thanks them for their work. What step of the project closing phase is the project manager missing?",
+    "answers": ["Review all contracts and documentation"]
+  },
+  {
+    "question": "What are the main purposes of the project closeout report? Select all that apply.",
+    "answers": [
+      "Review the project’s performance in respect to budget and schedule",
+      "Document what the team did, how they did it, and what they delivered",
+      "Provide an evaluation of the quality of work"
+    ]
+  },
+  {
+    "question": "What is the purpose of the impact report?",
+    "answers": [
+      "Demonstrate how the project went and discuss the impact of its product or service"
+    ]
+  },
+  {
+    "question": "What items will help the customer understand the product after project closing? Select all that apply.",
+    "answers": ["How to guides", "Product manuals"]
+  },
+  {
+    "question": "Fill in the blank: When closing a project, you should gather _____ from your team to help you improve processes and grow as a project manager.",
+    "answers": ["feedback"]
+  },
+  {
+    "question": "A project manager recognizes after several months that the last two deliverables were not delivered to the client. What type of project has this become?",
+    "answers": ["A deadline project"]
+  },
+  {
+    "question": "Which questions should the lessons learned section of a closeout report answer? Select all that apply.",
+    "answers": [
+      "What went wrong",
+      "What were the problems areas",
+      "What went well"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A _____ is a meeting to discuss successes, failures, and possible future improvements on the project.",
+    "answers": ["retrospective"]
+  },
+  {
+    "question": "Imagine you are managing a project that hits a major milestone early, putting the team ahead of schedule. This alters the project plan’s original course of action. What is the name for this type of event?",
+    "answers": ["A deviation"]
+  },
+  {
+    "question": "Which items should you track throughout the project execution phase? Select all that apply.",
+    "answers": [
+      "Project costs",
+      "Key tasks and activities",
+      "Progress toward milestones"
+    ]
+  },
+  {
+    "question": "Which tool is most useful near the end of a project, when meeting deadlines is the top priority?",
+    "answers": ["Burndown chart"]
+  },
+  {
+    "question": "A software company builds an application to track employee satisfaction. A contractor delays the completion of a key task. Which of the triple constraints does this change impact the most?",
+    "answers": ["Timeline"]
+  },
+  {
+    "question": "A new communication tool released to your team leads to a communication breakdown for the project. What type of event does this represent during the project execution phase?",
+    "answers": ["Risk"]
+  },
+  {
+    "question": "A team starts a new project to launch a website. The first task is to create the designs of the webpage. The second task is to develop the web pages based on the designs. What type of dependency does this indicate?",
+    "answers": ["Internal dependency"]
+  },
+  {
+    "question": "You brainstorm with your team members to identify and list the events that might delay the project. What type of document are you creating in this scenario?",
+    "answers": ["Risk register"]
+  },
+  {
+    "question": "Three team members on your project cannot agree on an implementation for a key task. How can you ensure a decision is made in time?",
+    "answers": ["Escalate the question to leadership for feedback"]
+  },
+  {
+    "question": "How can escalation benefit a project? Select all that apply.",
+    "answers": [
+      "Provides checks and balances",
+      "Speeds up decision-making",
+      "Encourages team participation"
+    ]
+  },
+  {
+    "question": "In the ROAM technique, what does it mean to resolve a risk?",
+    "answers": [
+      "To classify a risk as addressed because it no longer creates a problem"
+    ]
+  },
+  {
+    "question": "During a project you are managing, a major disaster shuts down the design facility. What is this type of event called?",
+    "answers": ["A deviation"]
+  },
+  {
+    "question": "As a project manager, you ensure the team is accomplishing the necessary tasks to hit target dates along the way. What item are you tracking?",
+    "answers": ["Progress towards milestone"]
+  },
+  {
+    "question": "Which tracking method is best for teams with a lot of people and projects with many tasks or milestones that are dependent on one another?",
+    "answers": ["Gantt chart"]
+  },
+  {
+    "question": "What type of chart will you create to represent tasks with multiple dependencies?",
+    "answers": ["Gantt chart"]
+  },
+  {
+    "question": "Imagine an auto manufacturer has a project to build a new model of car. The project manager learns there is a delay of a key shipment of parts. Which of the triple constraints does this change impact the most?",
+    "answers": ["Timeline"]
+  },
+  {
+    "question": "Two team members in your project cannot seem to come to an agreement on a new design feature. What common issue does this represent in project management?",
+    "answers": ["Trench wars"]
+  },
+  {
+    "question": "Which of the following categories are part of the ROAM technique?",
+    "answers": ["Resolved, owned, accepted, and mitigated"]
+  },
+  {
+    "question": "As a project manager, you’re overseeing a product launch. You meet with customers and clients to determine the product standards and the usability standards. Which quality management concept do you apply in this scenario?",
+    "answers": ["Quality standards"]
+  },
+  {
+    "question": "During which step of the quality management process does a project manager evaluate whether or not the project is on track to deliver a high-quality product to the client?",
+    "answers": ["Quality assurance"]
+  },
+  {
+    "question": "As a project manager, you learn that a product is behind schedule. After communicating the delay to the customer, you listen to their frustrations, address them, and find a solution beneficial for both of you. Which soft skill does this represent?",
+    "answers": ["Empathetic listening"]
+  },
+  {
+    "question": "As part of user acceptance testing (UAT), you define requirements that must be met each time a test is carried out. Which best practice are you following?",
+    "answers": ["Acceptance criteria"]
+  },
+  {
+    "question": "As a project manager, you have already identified a process-based problem to improve, found its root cause, and implemented a solution. Now, you take the next step: You monitor the new process to ensure the changes are beneficial to the team. Which DMAIC step are you currently applying?",
+    "answers": ["Control"]
+  },
+  {
+    "question": "As a project manager applying the PDCA process, you’ve already attempted to fix a process that is causing a common customer complaint. As your next step, you compare your results to the goal to determine if you fixed the issue. What PDCA step will you apply?",
+    "answers": ["Check"]
+  },
+  {
+    "question": "Which parts of a company ecosystem rely on continuous improvement to have collective and separate successes? Select all that apply.",
+    "answers": ["Programs", "Projects", "Portfolios"]
+  },
+  {
+    "question": "Which of the following is a retrospective best practice?",
+    "answers": [
+      "Change perspectives so that the team can better understand another person’s point of view"
+    ]
+  },
+  {
+    "question": "As a project manager holding a retrospective, you discuss the successes and setbacks of the project and compile a document with team member’s feedback. As the project manager, how should you use this feedback?",
+    "answers": ["Create a plan that should be implemented for future projects"]
+  },
+  {
+    "question": "How does a roadmap differ from a burndown chart?",
+    "answers": [
+      "A roadmap tracks big milestones and includes a high-level project overview; a burndown chart measures time against the amount of work completed and remaining."
+    ]
+  },
+  {
+    "question": "Which of the following methods can be used to communicate change to stakeholders during a project? Select all that apply.",
+    "answers": ["Escalation email", "Change request form"]
+  },
+  {
+    "question": "A demolition team needs permits from the city before they can begin work. What type of dependency is this?",
+    "answers": ["External dependency"]
+  },
+  {
+    "question": "When writing an escalation email, you open the email with “I hope you all had a great, long weekend.” Which of the five keys to writing a strong escalation email is this an example of?",
+    "answers": ["Maintain a friendly tone"]
+  },
+  {
+    "question": "As a project manager, you’re overseeing a product launch. You have laid out a quality plan which you ensure is being followed by performing regular audits and check-ins with stakeholders. The audits and check-ins confirm your clients are receiving the exact high-quality product they expect. Which quality management concept does this represent?",
+    "answers": ["Quality assurance"]
+  },
+  {
+    "question": "During which step of the quality management process does a project manager ask questions such as: “How will I determine if the quality measures will lead to project success?” and “What outcome do my customers want at the end of this project?”",
+    "answers": ["Quality planning"]
+  },
+  {
+    "question": "To receive authentic and honest feedback from customers, what strategy should a project manager use?",
+    "answers": [
+      "Ask open-ended questions and listen to the customer’s current state versus their desired state"
+    ]
+  },
+  {
+    "question": "As a project manager, you’re doing a user acceptance test (UAT) to test your product. You present your users with the visual mockup of the product and walk them through each step they need to take to use the product. What UAT quality control step does this scenario represent?",
+    "answers": ["Critical user journey"]
+  },
+  {
+    "question": "A project manager engages in continuous improvement to enhance team performance. What is the purpose of the project manager’s continuous improvement?",
+    "answers": [
+      "To ensure that a product makes its way towards the best outcome"
+    ]
+  },
+  {
+    "question": "As a project manager, you identify a process-based problem you’d like to improve. To better understand the problem, you examine the technology to understand its root cause and interview the team on how it’s impacting their performance. Which DMAIC step did you apply?",
+    "answers": ["Analyze"]
+  },
+  {
+    "question": "As a project manager, you learn a customer is not satisfied with the quality of a finished product. You have already identified the root cause and brainstormed solutions to the problem with the team. Now, you and the team attempt to fix the problem by implementing a solution. Which PDCA step did you apply?",
+    "answers": ["Do"]
+  },
+  {
+    "question": "You work on a collection of projects and programs across the organization. What is the term for this collection of projects and programs?",
+    "answers": ["Portfolio"]
+  },
+  {
+    "question": "Fill in the blank: Retrospectives are organized meetings that allow a team to reflect on what went well and what didn’t go well on a project. Often, retrospectives are conducted after _____.",
+    "answers": ["major milestones"]
+  },
+  {
+    "question": "During your team’s sprint, there was a disagreement with another team which caused a missed deadline. What tactic should you use in the future to resolve the issue without further friction between teams?",
+    "answers": ["Encourage anonymous or private feedback"]
+  },
+  {
+    "question": "As a project manager overseeing a product launch, you monitor and inspect the results to ensure the project is meeting the quality standards. You notice one standard is not being met and take corrective action to improve the standard. Which quality management concept does the inspection and corrective action represent?",
+    "answers": ["Quality control"]
+  },
+  {
+    "question": "As part of fostering a relationship with a customer, it is important to understand their current state versus their desired state. Which of the following is an effective way to achieve this understanding?",
+    "answers": ["Ask open-ended questions"]
+  },
+  {
+    "question": "A project manager is considering process improvements. They identify that their team is too slow when delivering a service. They have an educated guess about what’s causing the problem and how to fix it. What’s the term for this educated guess?",
+    "answers": ["Hypothesis"]
+  },
+  {
+    "question": "Fill in the blank: The way a project manager decides to structure a retrospective depends on _____.",
+    "answers": ["team and workplace"]
+  },
+  {
+    "question": "What best describes the goal of collecting data on the best selling product of the month to place new orders with your supplier?",
+    "answers": ["To better understand user preferences and performance"]
+  },
+  {
+    "question": "Which of the following are examples of productivity metrics? Select all that apply.",
+    "answers": ["Milestones", "Durations", "Projections"]
+  },
+  {
+    "question": "Which of the following are examples of quality metrics? Select all that apply.",
+    "answers": ["Cost variance", "Issues", "Number of changes"]
+  },
+  {
+    "question": "Fill in the blank: A(n) ______ is an observable change that can help project managers determine the overall health of a project.",
+    "answers": ["Signal"]
+  },
+  {
+    "question": "Fill in the blank. Businesses and projects can use _____ to reveal insights, help inform actions, drive results and find solutions based on data predictions.",
+    "answers": ["data analysis"]
+  },
+  {
+    "question": "Which of the following include visual representations of data? Select all that apply.",
+    "answers": ["Infographics", "Charts", "Dashboards"]
+  },
+  {
+    "question": "Why should project managers use visual representations of data? Select all that apply.",
+    "answers": [
+      "To help the viewer make sense of and remember the information the project manager presents",
+      "To filter information by directing the audience to the most important data points and insights",
+      "To summarize information and condense long ideas and facts into a single image or representation"
+    ]
+  },
+  {
+    "question": "Which of the following are ways you can be flexible during a presentation? Select all that apply.",
+    "answers": [
+      "Practice to avoid mistakes that could distract from your message",
+      "Identify and come up with answers to potential audience questions",
+      "Imagine and prepare for possible objections"
+    ]
+  },
+  {
+    "question": "As a project manager processing data, you avoid understanding ambiguous data as either positive or negative. This tactic helps avoid which data bias?",
+    "answers": ["Interpretation bias"]
+  },
+  {
+    "question": "As a project manager analyzing data, you create data visualizations to organize your data in a format that is clear and digestible for your stakeholders. Which data analysis best practice does this represent?",
+    "answers": ["Prepare"]
+  },
+  {
+    "question": "As a project manager creating a story, you ask yourself questions like: “Is the content credible and trustworthy?”, “Are there any data points that skew the information”, and “What content can I eliminate?”. In what storytelling step should you ask these questions?",
+    "answers": ["Filter and analyze the data"]
+  },
+  {
+    "question": "You are a project manager preparing a data presentation. To explain your data, you have created a scatter plot and notice a pattern emerging in the data. You draw a line to represent this. What is this line often referred to in a scatter plot?",
+    "answers": ["Trend line"]
+  },
+  {
+    "question": "From the project manager perspective, which of the following are benefits of using data? Select all that apply.",
+    "answers": [
+      "Make better decisions",
+      "Improve processes",
+      "Understand your users"
+    ]
+  },
+  {
+    "question": "In which of the following categories can project managers group metrics? Select all that apply.",
+    "answers": ["Quality metrics", "Productivity metrics"]
+  },
+  {
+    "question": "Fill in the blank: _____ is when the project manager determines how long it will take to complete a project based on resources available.",
+    "answers": ["Projection"]
+  },
+  {
+    "question": "Project key stakeholders have concerns about meeting deadlines. Which of the following metrics do you need to focus on in order to prioritize the proper tasks? Select all that apply.",
+    "answers": ["Scope", "Time"]
+  },
+  {
+    "question": "Fill in the blank: _____ data are qualities or things that you can't measure with numerical data.",
+    "answers": ["Qualitative"]
+  },
+  {
+    "question": "What is the fifth stage in the storytelling process that involves tying all of your data and visuals into one cohesive narrative?",
+    "answers": ["Shaping the story"]
+  },
+  {
+    "question": "You are practicing a trial run of a presentation with a co worker emphasizing posture, tone of voice, pace and eye contact. Which presentation technique is your current focus?",
+    "answers": ["Being memorable"]
+  },
+  {
+    "question": "As a project manager processing data, you consult with others to make sure you are not selecting and interpreting data in a way that supports your own pre-existing beliefs. This tactic helps avoid which data bias?",
+    "answers": ["Confirmation bias"]
+  },
+  {
+    "question": "Which of the following are true of work groups? Select all that apply.",
+    "answers": [
+      "Their work is coordinated or controlled by a single person or entity.",
+      "They work toward a common goal."
+    ]
+  },
+  {
+    "question": "A project manager creates a safe space for teammates to feel comfortable taking risks and asking questions. Which of the five elements of effective teams are they providing?",
+    "answers": ["Psychological safety"]
+  },
+  {
+    "question": "Your project team just launched a new website. You schedule time for your team to meet and you treat them to lunch. Which aspect of effective team building does this scenario demonstrate?",
+    "answers": ["Celebrate team success."]
+  },
+  {
+    "question": "In what ways can project managers promote psychological safety? Select all that apply.",
+    "answers": [
+      "Schedule time for thoughtful, inclusive discussions.",
+      "Encourage contributions from team members of all ranks."
+    ]
+  },
+  {
+    "question": "What responsibilities do project managers have during the forming stage of team development? Select all that apply.",
+    "answers": [
+      "Clarify project roles and goals",
+      "Provide context about the project"
+    ]
+  },
+  {
+    "question": "How can a project manager invite and integrate the team's various perspectives?",
+    "answers": [
+      "Create a sense of psychological safety and ask team members to share their ideas."
+    ]
+  },
+  {
+    "question": "A project manager approaches another company for a project. They schedule only one meeting to define the partnership and discuss the details. What common mistake in effective influencing are they making?",
+    "answers": ["Assume you can work through issues in a single conversation."]
+  },
+  {
+    "question": "Which organizational source of power refers to your level of access and control over project details?",
+    "answers": ["Information"]
+  },
+  {
+    "question": "Which step in the ethical decision-making framework could include a question such as “Which option treats people equally or proportionally?”",
+    "answers": ["Evaluate alternative actions."]
+  },
+  {
+    "question": "As a project manager, you want to provide air cover for your team by intervening from behind the scenes. Which of the following strategies can help to achieve this?",
+    "answers": ["Meet with two team members to discuss options."]
+  },
+  {
+    "question": "As a project manager, you are removing personal data in the project systems and documents. Which data analysis best practice does this represent?",
+    "answers": ["Anonymizing data"]
+  },
+  {
+    "question": "As a project manager analyzing data, you begin by inquiring about the current state of the problem, the ideal outcome, and the expectations of your stakeholders. Which data analysis best practice does this represent?",
+    "answers": ["Ask"]
+  },
+  {
+    "question": "As a project manager creating a story, you are gathering data from reputable sources and leveraging relevant project resources. What step in the storytelling process are you enacting?",
+    "answers": ["Find the data"]
+  },
+  {
+    "question": "You are preparing a data presentation. To explain your data, you need to compare trends and display changes in the data over a set period of time. Which data visualization tool should you use?",
+    "answers": ["Line graph"]
+  },
+  {
+    "question": "Which of the following are benefits of teamwork? Select all that apply.",
+    "answers": [
+      "It fosters creativity.",
+      "It helps teams meet project goals.",
+      "It encourages accountability."
+    ]
+  },
+  {
+    "question": "A project manager works hard to improve team members’ sense of purpose towards a project. What factor are they trying to improve for team effectiveness?",
+    "answers": ["Meaning"]
+  },
+  {
+    "question": "You are managing a merger between two healthcare companies. The project is large and complex, so you send out weekly emails highlighting the most important tasks. Which aspect of effective team building does this scenario demonstrate?",
+    "answers": ["Prioritize tasks"]
+  },
+  {
+    "question": "How can project managers appreciate a team’s hard work after they complete milestones in a project?",
+    "answers": ["Schedule a team meeting to go out for lunch."]
+  },
+  {
+    "question": "What can project managers do to support ethical and inclusive leadership? Select all that apply.",
+    "answers": [
+      "Create equal opportunities for team members to succeed.",
+      "Invite and integrate diverse perspectives.",
+      "Foster a culture of respect."
+    ]
+  },
+  {
+    "question": "Which of the following are common mistakes a person makes when attempting to influence others? Select all that apply.",
+    "answers": [
+      "Assume they can work through issues quickly",
+      "Approach their audience too aggressively.",
+      "Resist compromise"
+    ]
+  },
+  {
+    "question": "As a project manager, which of the following are personal sources of power? Select all that apply.",
+    "answers": ["Knowledge", "Character"]
+  },
+  {
+    "question": "Which of the following statements best describes a project manager providing air cover for their team?",
+    "answers": [
+      "They support and protect a team from out-of-scope requests or criticism from leadership."
+    ]
+  },
+  {
+    "question": "When you create an email, in what section should you clearly state what the email is about?",
+    "answers": ["Subject line"]
+  },
+  {
+    "question": "The use, access, or sharing of what types of confidential or need-to-know information is likely prohibited unless you are given permission? Select all that apply.",
+    "answers": [
+      "Internal information about your organization’s products and services",
+      "Financial and business data",
+      "User data"
+    ]
+  },
+  {
+    "question": "Fill in the blank: _____ meetings have an agenda, time limit, and designated notetaker.",
+    "answers": ["Structured"]
+  },
+  {
+    "question": "Why should you send any pre-reading materials for a meeting in advance?",
+    "answers": ["To ensure everyone is prepared to participate"]
+  },
+  {
+    "question": "What can a project manager do after a meeting to facilitate a more productive meeting?",
+    "answers": [
+      "Send out an email for attendees with a key summary and action items."
+    ]
+  },
+  {
+    "question": "A project manager works with a stakeholder for months to open a community greenhouse. The stakeholder changes their expectations and the project timeline. What actions can the project manager take to resolve this issue? Select all that apply.",
+    "answers": [
+      "The project manager can establish a timeline to complete this project and propose a follow-up project.",
+      "The project manager can review the contracts with the stakeholder to include the timeline and the budget."
+    ]
+  },
+  {
+    "question": "What are the potential effects on a project team if a project is not closed properly? Select all that apply.",
+    "answers": [
+      "Negatively impacts the team’s time and effort",
+      "Lessons learned could be lost if not recorded correctly",
+      "Diminishes the team’s credibility"
+    ]
+  },
+  {
+    "question": "As a project manager, how can you determine if milestones need a closing process?",
+    "answers": [
+      "If the milestones won’t be re-addressed at a later time in the project"
+    ]
+  },
+  {
+    "question": "What items can a project manager include in a project closeout report? Select all that apply.",
+    "answers": ["Next steps and future considerations", "Project timelines"]
+  },
+  {
+    "question": "What should a project manager do at the end of a project to document acceptance from all stakeholders?",
+    "answers": [
+      "Ensure you have written proof that all stakeholders are happy with the outcome"
+    ]
+  },
+  {
+    "question": "What should a project closing report resources section include? Select all that apply.",
+    "answers": [
+      "Links to the original project plan",
+      "Documentation of stakeholder feedback",
+      "Technical information for product deliverables"
+    ]
+  },
+  {
+    "question": "Fill in the blank: A retrospective is the best tool for reflection and _____ .",
+    "answers": ["improvement"]
+  },
+  {
+    "question": "A project manager describes the purpose and process of a project in their closeout report. What section are they writing?",
+    "answers": ["Executive summary"]
+  },
+  {
+    "question": "Which of the following are true regarding a team celebration at the end of a project? Select all that apply.",
+    "answers": [
+      "It fuels positive change within the team.",
+      "It can be a team-building exercise.",
+      "It helps improve collaboration on future projects."
+    ]
+  },
+  {
+    "question": "What happens during a project closing? Select all that apply.",
+    "answers": [
+      "The team obtains formal recognition from key stakeholders that the project is complete.",
+      "The team executes remaining project management processes, such as procedural or administrative work.",
+      "The project manager and team confirms all project tasks are complete."
+    ]
+  },
+  {
+    "question": "What steps should a project manager take to make sure a project is closed? Select all that apply.",
+    "answers": [
+      "Get formal recognition from stakeholders that the project is done",
+      "Ensure all agreed upon project management processes are complete",
+      "Confirm all tasks and work are complete"
+    ]
+  },
+  {
+    "question": "As a project manager, you prepare a final presentation for stakeholders to summarize what your team has accomplished and answer any questions or concerns. What type of presentation should you prepare?",
+    "answers": ["An impact report presentation"]
+  },
+  {
+    "question": "What project closeout report section explains what went well and what went wrong during the project?",
+    "answers": ["Lessons learned"]
+  },
+  {
+    "question": "In what ways does a small closing process at the end of each milestone differ from a formal, more comprehensive closing phase at the end of the project? Select all that apply.",
+    "answers": [
+      "A formal closing, at the end of a project, includes an impact reporting meeting.",
+      "A formal closing, at the end of a project, is the last step before a team disbands.",
+      "After a milestone closing, during the project, stakeholders provide feedback regarding any changes that need to be made going forward."
+    ]
+  },
+  {
+    "question": "What team considerations should the project manager focus on during the closing process?",
+    "answers": [
+      "Build a culture that allows retrospectives so teams can collaborate and have positive changes"
+    ]
+  },
+  {
+    "question": "For what reasons is it important to close a project once it is complete? Select all that apply.",
+    "answers": [
+      "It protects the credibility of the project manager and project team.",
+      "It helps an organization avoid unfavorable scenarios, such as stakeholders that are unaware the project has ended.",
+      "It helps project managers avoid incidents such as abandoned projects or never-ending projects."
+    ]
+  },
+  {
+    "question": "Fill in the blank: Agile project management is _____; the team operates within many short blocks of time where deliverables will evolve and improve depending on the feedback received.",
+    "answers": ["iterative"]
+  },
+  {
+    "question": "Your Agile team is reducing waste in their processes. They need to reduce unnecessary documentation and ensure the client is happy with the current direction of the product. How can the team solve both forms of waste?",
+    "answers": ["Increase collaboration between stakeholders and the team"]
+  },
+  {
+    "question": "As an Agile project manager, you should value individuals and interactions over processes and tools. What does this mean for your team? Select all that apply.",
+    "answers": [
+      "Work together with your team to help each other achieve the best outcomes possible.",
+      "Have brief conversations rather than long, drawn out email exchanges."
+    ]
+  },
+  {
+    "question": "How does an Agile team create and maintain the right interpersonal and team dynamics to deliver value for the customers and the business? Select all that apply.",
+    "answers": [
+      "They know face-to-face conversations are the most effective way to communicate.",
+      "They build projects around motivated individuals."
+    ]
+  },
+  {
+    "question": "In the acronym VUCA, the “U” stands for “Uncertainty.” What does “Uncertainty” mean in the context of VUCA?",
+    "answers": ["Lack of predictability"]
+  },
+  {
+    "question": "In the following scenario about team management, the project manager blends which two methodologies? A team is developing a software product. During the retrospective for the last sprint, a team member says, “I need to implement a certain feature, but I don’t have much experience building that particular feature.” Someone else on the team is an expert on the feature, so the project manager pairs them up to build the feature during the next sprint.",
+    "answers": ["Scrum and XP"]
+  },
+  {
+    "question": "Where does Scrum get its name? Select all that apply.",
+    "answers": [
+      "The purpose of the rugby scrum is for each player on the team to play their role in order to work together and achieve their shared goal.",
+      "Scrum refers to a formation in rugby where players huddle closely together with their heads down while trying to gain possession of the ball."
+    ]
+  },
+  {
+    "question": "What innovative practices does the XP methodology use? Select all that apply.",
+    "answers": ["Write tests, not requirements", "Pair programming"]
+  },
+  {
+    "question": "Fill in the blank: To get the full benefits from Agile, you must adopt not only its processes, but also its _____.",
+    "answers": ["mindset"]
+  },
+  {
+    "question": "As a project manager, you're leading a project that has an initial set of requirements at kick off, but you know this list will grow and change. Your team will work with stakeholders to prioritize requirements as the project moves forward. What approach is the best choice for your project?",
+    "answers": ["Agile"]
+  },
+  {
+    "question": "When using Scrum, the team repeats project processes in a timebox. What Agile term does this approach represent?",
+    "answers": ["Iterations"]
+  },
+  {
+    "question": "In Scrum, what is the main responsibility of the Development Team?",
+    "answers": ["Determining how a team will deliver a product"]
+  },
+  {
+    "question": "The Scrum Master needs to make sure the team is able to get tasks done on time. How can they achieve this? Select all that apply.",
+    "answers": ["They can help remove blockers"]
+  },
+  {
+    "question": "Product Owners should have which of the following traits? Select all that apply.",
+    "answers": ["Customer-focused", "Collaborative", "Adaptive"]
+  },
+  {
+    "question": "Fill in the blank: In a Scrum team, the Scrum Master often assumes the same responsibilities, and in many ways is similar to the role of the _____.",
+    "answers": ["Project Manager"]
+  },
+  {
+    "question": "What are the benefits of locating a team in the same physical space (also known as co-locating)? Select all that apply.",
+    "answers": [
+      "The team delivers a higher quality of work at a quicker rate.",
+      "The team gets together quickly to get work done or solve a problem."
+    ]
+  },
+  {
+    "question": "What are the key characteristics of successful Product Owners? Select all that apply.",
+    "answers": ["Collaborative", "Customer-focused"]
+  },
+  {
+    "question": "A team member is concerned that the actions of another team member is counterproductive to the Scrum environment. They speak up at the next meeting in order to come to an amicable solution with this team member. What core Scrum value does this describe?",
+    "answers": ["Courage"]
+  },
+  {
+    "question": "As a project manager organizing a Development Team, you want to make sure the team has the skills necessary to build the product or carry out the service. Which trait does this represent?",
+    "answers": ["cross functional"]
+  },
+  {
+    "question": "Fill in the blank: A Product Owner and project manager typically both have the responsibility of _____.",
+    "answers": ["stakeholder management"]
+  },
+  {
+    "question": "To pass this graded quiz, you must receive at least 80%, or 4 out of 5 points, by completing the activity and answering corresponding quiz questions. You can learn about the graded and practice items in the Course Overview . Activity Overview In this activity, you will write user stories and create acceptance criteria for each story based on customer needs. These user stories, collected under one epic, will form the basis of a Product Backlog. Note: Throughout this course, you will complete tasks normally done by others (like the Development Team or Product Owner). Even if you don’t perform them yourself, it is important that you understand these processes. Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity. Scenario Review the scenario below. Then complete the step-by-step-instructions. Imagine you are overseeing the development and launch of Virtual Verde, Office Green's new product line. Virtual Verde’s mission is to make working from home more enjoyable by offering desk plants for home office use. New customers recently received the first batch of plants. As a next step, your team had planned to introduce new product offerings to the Virtual Verde catalog—starting with Bonsai trees. However, a customer survey discovered that 70% of the new customers had difficulty caring for their plants. Many of the plants wilted and died within a month. This information inspired the team to develop new offerings and companion products to help new owners care for their plants. From the survey, Office Green learned that they can create value for their customers by making it easy to: Find out which plants are easiest to care for Access care instructions easily Have the right tools to care for their plants Remember when to water their plants Get expert help and advice quickly Have a hassle-free way to return their orders You will work with your team to create user stories that will help them build solutions to address these customer needs, and add them to the Product Backlog. Your team has already added Bonsai tree user stories to the Backlog, but the new plant care stories have now become the top priority. Note: In general, the Product Owner leads in prioritizing the Backlog and addressing new concerns. Anyone can work on user stories, but the Development Team typically gives feedback on them. Step-by-Step Instructions Step 1: Access the template To use the template for this course item, click the link below and select “Use Template.” Link to template: Product Backlog OR If you don’t have a Google account, you can download the template directly from the attachment below. Activity Template_ Product Backlog XLSX File Step 2: Create six user stories Using the Bonsai tree stories in the Backlog template as a model, create six new user stories—one to address each of the six customer needs from the scenario. Your user stories should follow this construction: As a <user role>, I want <this action> so that I can <get this value>. For the <user role> part of each story, consider what sort of person might have that specific customer need. They might be a potential customer, a new plant owner, or something else. Keep in mind that these stories should help customers who may not have much experience caring for plants. For the <action> part of each user story, fill in the specific customer need. For the <value> part of each story, think about why your user might want to perform that particular action and how it will help them. When completed, each story should express a customer need the team can work to fulfill. For example, imagine that a customer wants to learn about different styles of Bonsai cutting and shaping. A related user story might read: “As a new Bonsai tree owner, I want to learn about different Bonsai styles so that I can pick the right one for my tree.” Step 3: Create acceptance criteria Create at least two acceptance criteria for each story, and add them to the template. Remember that acceptance criteria help your team establish a Definition of Done. They represent the things your team needs to accomplish before they can consider the user story complete. For example, the acceptance criteria for the Bonsai styles user story could include: \"Customers can access a guide to different styles (formal & informal upright, broom, cascade, etc.) on website\" \"Customers can take a quiz to match their trees to suitable styles\" Step 4: Check your stories against the I.N.V.E.S.T. criteria Next, consult the I.N.V.E.S.T. framework to make sure your user stories are concise, specific, and actionable. Independent: The story’s completion is not dependent on another story. Negotiable: There is room for negotiation and discussion about how to complete the story. Valuable: Completing the user story will deliver value for the user role. Estimable: The Definition of Done must be clear so that the team can give the story an estimate. Small: Each user story and the work necessary to complete it should fit within a planned Sprint. Testable: A test can be conducted to make sure the story meets the acceptance criteria (even if the test is not yet planned). You may not be able to account for all the I.N.V.E.S.T. criteria in this exercise, but you should try to meet as many as you can. If a story meets three or fewer criteria, consider revising it. Step 5: Title each user story Create a title for each story and add it to the template. The titles should briefly describe the desired outcome for the user role, so the team can reference them quickly. Step 6: Add an epic title Create an epic title that can serve as a heading or a theme for all six stories—for example, “Plant Care Initiatives”—and add it to the Backlog template. Note: Keep in mind that a real Product Backlog would encompass all aspects of the project, including many different epics. For your reference, we have created a second epic as an example. What to Include in Your Response Be sure to address the following elements in your completed Product Backlog: The Backlog contains six user stories. The stories follow the correct construction: “As a <user role> I want <this action> so that I can <get this value>.” The stories follow the I.N.V.E.S.T. framework. Each story has two pieces of acceptance criteria. The acceptance criteria are actionable tasks for the Scrum Team. Did you complete this activity?",
+    "answers": ["Yes"]
+  },
+  {
+    "question": "Select the user role that best completes the following user story: “As a(n) _____, I want to purchase hard-to-find plants so that I can expand my collection of rare flowers and greenery.”",
+    "answers": ["plant expert"]
+  },
+  {
+    "question": "Consider the following user story: “As a potential customer, I want to find out which plants are easiest to care for so that I can purchase low-maintenance options.” Which of the following pieces of acceptance criteria are appropriate for this story? Select all that apply.",
+    "answers": [
+      "Ability to sort plants by “beginner,” “intermediate,” and “advanced”"
+    ]
+  },
+  {
+    "question": "Which of the following user stories is complete and follows the correct structure?",
+    "answers": [
+      "“As a plant owner, I want to know how much sunlight my plant needs so that I can maximize its growth.”"
+    ]
+  },
+  {
+    "question": "Which of the following user stories could lead to an option to bundle a plant care kit with purchase? Select all that apply.",
+    "answers": [
+      "“As a plant owner, I want to trim and prune my plant so that it grows the right way.”",
+      "“As a plant owner, I want to have the right tools to care for my plant so that I can keep it healthy and beautiful.”"
+    ]
+  },
+  {
+    "question": "Who is typically the owner of the Product Backlog in an Agile project?",
+    "answers": ["The Product Owner"]
+  },
+  {
+    "question": "A Product Owner writing a user story needs the story to fit within the planned Sprint. If the user story is too large, they break it down into multiple scaled-down stories to meet which of the I.N.V.E.S.T. story writing criteria?",
+    "answers": ["Small"]
+  },
+  {
+    "question": "You are a Product Owner estimating some user stories with your team. Using the Planning PokerTM method of estimation, you notice one of your team members has chosen the coffee card as part of their estimation. What does this typically mean?",
+    "answers": ["They want to take a break."]
+  },
+  {
+    "question": "Who has the authority to cancel a Sprint if the Sprint Goal becomes outdated?",
+    "answers": ["The Product Owner"]
+  },
+  {
+    "question": "A Product Owner completes a Sprint cycle and prepares to start the next Sprint. They want to schedule a meeting to understand each team member’s availability and capacity. What type of meeting should they schedule to achieve this?",
+    "answers": ["Sprint Planning"]
+  },
+  {
+    "question": "What typically occurs during the Sprint Review? Select all that apply.",
+    "answers": ["Demonstrate and inspect the product."]
+  },
+  {
+    "question": "Fill in the blank: Retrospectives in Scrum happen _____ a traditional project.",
+    "answers": ["more often than in"]
+  },
+  {
+    "question": "What item can be used to track the number of tasks completed against time and see how many tasks are remaining on a project?",
+    "answers": ["Burndown chart"]
+  },
+  {
+    "question": "How would you best compare a Kanban board to a Scrum board?",
+    "answers": ["They’re essentially the same tool with minor differences."]
+  },
+  {
+    "question": "How can tools like Jira and Asana help teams who are practicing Scrum methodologies?",
+    "answers": ["They can help track work items in Product Backlog."]
+  },
+  {
+    "question": "Fill in the blank: You can make sure your team delivers value to customers by building the right thing, building the thing right, and _____.",
+    "answers": ["running it right"]
+  },
+  {
+    "question": "What are the components of a typical value roadmap?",
+    "answers": ["A product vision, a product roadmap, and release plans"]
+  },
+  {
+    "question": "Which of the following provides an overview of the expected product, its high-level requirements, and an estimated schedule for reaching milestones?",
+    "answers": ["A product roadmap"]
+  },
+  {
+    "question": "What are some common pitfalls of making a product roadmap? Select all that apply.",
+    "answers": [
+      "Let stakeholders think the roadmap is set and unchangeable",
+      "Pressure teams to achieve deadlines no matter what it takes",
+      "Put more work into the roadmap than the deliverables"
+    ]
+  },
+  {
+    "question": "Imagine you are a project manager for a software company. Your team plans to develop a new learning management system (LMS) for a local school district by the end of the quarter. Which of the following factors can potentially push back your release plan date? Select all that apply.",
+    "answers": [
+      "Your team realizes an epic will take more time to complete than anticipated.",
+      "The Product Owner expands the project to include two additional school districts.",
+      "A member of your development team leaves to take a new job."
+    ]
+  },
+  {
+    "question": "As a project manager, you help the product team adopt Agile values and workflow. To help the team with the change, you discuss with them what your competitors are doing to outperform your company in the market. What are you trying to make the team feel?",
+    "answers": ["A sense of urgency"]
+  },
+  {
+    "question": "You are a project manager for a company that is changing their feedback reporting process. To facilitate this change, you create a form for each team member to fill out every week. You send out a reminder email two days before the form is due. Which of the six sources of influence does this scenario demonstrate?",
+    "answers": ["Structural ability"]
+  },
+  {
+    "question": "What are signs of value delivery issues? Select all that apply.",
+    "answers": [
+      "Tasks are in progress for longer than usual.",
+      "Team members are working long hours."
+    ]
+  },
+  {
+    "question": "What two problems commonly arise when you fail to implement Scrum completely? Select all that apply.",
+    "answers": [
+      "A temptation to skip events or blend them to save time",
+      "A loss of clear roles and responsibilities"
+    ]
+  },
+  {
+    "question": "Which scaling method is not a true Agile framework, but can help organizations overcome the challenges of scaling?",
+    "answers": ["The Spotify Model"]
+  },
+  {
+    "question": "Which principles of the Agile Manifesto refer to team dynamics and culture? Select all that apply.",
+    "answers": [
+      "Face-to-face conversations are most efficient for conveying information",
+      "Stakeholders should be able to maintain a constant pace indefinitely"
+    ]
+  },
+  {
+    "question": "As a project manager, you never feel like the team can settle into a normal routine with the project because of constant disruptions. Which part of the acronym VUCA does this describe?",
+    "answers": ["Volatility"]
+  },
+  {
+    "question": "Why would an Agile approach be more successful than a Waterfall approach in a VUCA environment? Select all that apply.",
+    "answers": [
+      "The Agile method is better at adapting and reacting to change.",
+      "The Waterfall method requires proper planning and less flexibility."
+    ]
+  },
+  {
+    "question": "As a project manager, what are some reasons you might choose to follow a Scrum methodology? Select all that apply.",
+    "answers": [
+      "It offers a regular and predictable meeting and delivery schedule, with predefined agendas and outcomes for the meetings.",
+      "It has clear roles and responsibilities for your team, but emphasizes the power of the team as a whole."
+    ]
+  },
+  {
+    "question": "To create the most value for the customer, you ensure the customer can ask for additional features or incremental deliveries throughout the value stream. This is an example of what Lean methodology principle?",
+    "answers": ["Establish pull"]
+  },
+  {
+    "question": "Waterfall and Agile include how many of the same phases and tasks?",
+    "answers": ["Most"]
+  },
+  {
+    "question": "When does a formally approved project plan work best?",
+    "answers": ["When the end product is known and understood"]
+  },
+  {
+    "question": "Fill in the blank: The _____ is the single authoritative source that a Scrum team uses to pick up tasks and work towards the project goal.",
+    "answers": ["Product Backlog"]
+  },
+  {
+    "question": "What are some key skills a successful Scrum Master should have? Select all that apply.",
+    "answers": ["Leadership", "Coaching", "Communication"]
+  },
+  {
+    "question": "A Scrum Development Team is kept between three to nine members so that it is more effective at adapting to change. What could be possible downsides if the team is too small? Select all that apply.",
+    "answers": ["Lack of diverse skills", "Lack of diverse ideas"]
+  },
+  {
+    "question": "A team member runs into an issue within the project but they aren’t sure how to fix it. They share this problem with the team to ensure everyone is aware of the challenge they encountered. What core Scrum value is embodied in this scenario?",
+    "answers": ["Openness"]
+  },
+  {
+    "question": "Which traits are desirable on a Scrum team, regardless of the role? Select all that apply.",
+    "answers": ["Learns from mistakes", "Collaboration", "Openness to feedback"]
+  },
+  {
+    "question": "Fill in the blank: The _____ is the single authoritative source that a Scrum team uses to pick up tasks and work towards the project goal.",
+    "answers": ["Product Backlog"]
+  },
+  {
+    "question": "What are some key skills a successful Scrum Master should have? Select all that apply.",
+    "answers": ["Leadership", "Coaching", "Communication"]
+  },
+  {
+    "question": "A Scrum Development Team is kept between three to nine members so that it is more effective at adapting to change. What could be possible downsides if the team is too small? Select all that apply.",
+    "answers": ["Lack of diverse skills", "Lack of diverse ideas"]
+  },
+  {
+    "question": "A team member runs into an issue within the project but they aren’t sure how to fix it. They share this problem with the team to ensure everyone is aware of the challenge they encountered. What core Scrum value is embodied in this scenario?",
+    "answers": ["Openness"]
+  },
+  {
+    "question": "Which traits are desirable on a Scrum team, regardless of the role? Select all that apply.",
+    "answers": ["Learns from mistakes", "Collaboration", "Openness to feedback"]
+  },
+  {
+    "question": "As a Product Owner building a Backlog, what pieces of information should you include for each item? Select all that apply.",
+    "answers": [
+      "A clear description from the perspective of the customer",
+      "The level of effort required to complete the item"
+    ]
+  },
+  {
+    "question": "Which of the following is true regarding the factors that determine how long a Sprint should last in the Scrum Methodology?",
+    "answers": [
+      "The timeline of a Sprint should be short enough to generate a learning cycle."
+    ]
+  },
+  {
+    "question": "Which of the following indicates that a product meets the Definition of Done? Select all that apply.",
+    "answers": [
+      "An independent peer group reviews the product.",
+      "The product passes all testing requirements."
+    ]
+  },
+  {
+    "question": "What is a main benefit of a Sprint review for all team members working on the project?",
+    "answers": [
+      "Team members can get instant feedback from the team during the demo."
+    ]
+  },
+  {
+    "question": "When conducting a successful Sprint Retrospective, what type of questions should the Scrum Master ask the team?",
+    "answers": ["Open-ended questions that promote discussions"]
+  },
+  {
+    "question": "What’s the overall goal of a burndown chart?",
+    "answers": ["Keep the team aware of how they’re doing against their goals"]
+  },
+  {
+    "question": "Focus is one of the values of Scrum methodology. Which of the following items can help determine whether a team is being assigned more work than required to focus effectively?",
+    "answers": ["The work-in-progress (WIP) limit"]
+  },
+  {
+    "question": "As a Product Owner, you need to organize and visualize your Backlog. What is an example of a tool that would make this task easier?",
+    "answers": ["Jira or Trello"]
+  },
+  {
+    "question": "As a project manager or Scrum Master, what can you do to ensure your team is focused on value-driven delivery? Select all that apply.",
+    "answers": ["Build the thing right", "Build the right thing"]
+  },
+  {
+    "question": "What is the purpose of the product roadmap in a value roadmap? Select all that apply.",
+    "answers": [
+      "It provides a high-level view of requirements.",
+      "It outlines a tentative schedule for reaching milestones."
+    ]
+  },
+  {
+    "question": "Fill in the blank: The product vision defines what the product is, who uses it, and how it supports the customer’s _____.",
+    "answers": ["business strategy"]
+  },
+  {
+    "question": "Which of the following are product roadmap best practices? Select all that apply.",
+    "answers": [
+      "Indicate highest priority and highest value items.",
+      "Make the roadmap highly noticeable to the team and refer to it frequently.",
+      "Make the roadmap highly visible to stakeholders."
+    ]
+  },
+  {
+    "question": "Imagine you’re a project manager creating a project roadmap. You meet with the Product Owner to estimate the team’s capacity and velocity—their ability to complete work at a certain pace. Which Agile principle does this scenario represent?",
+    "answers": [
+      "Agile processes promote sustainable development—the team developers should be able to maintain a constant workload."
+    ]
+  },
+  {
+    "question": "You are a project manager at a company adopting the Agile approach. The team is intimidated by working in sprints, so you promise each team member a gift card at the end of the first sprint. Which of the six sources of influence does this scenario demonstrate?",
+    "answers": ["Structural motivation"]
+  },
+  {
+    "question": "You are a project manager overseeing the development of a new application. You notice a lack of motivation in your team and that many items are “in progress,” even though the deadline is tomorrow. Which Agile principle do these issues impact the most?",
+    "answers": ["Value delivery"]
+  },
+  {
+    "question": "What can you do to avoid making too many or unfounded product assumptions? Select all that apply.",
+    "answers": [
+      "Document assumptions and make them transparent to all.",
+      "Discuss assumptions as a team.",
+      "Conduct surveys or focus groups to double-check assumptions, where necessary."
+    ]
+  },
+  {
+    "question": "Which of the following scaled Agile frameworks is organized into four layers: Foundation, Disciplined DevOps, Value Streams, and Disciplined Agile Enterprise?",
+    "answers": ["Disciplined Agile Delivery (DAD)"]
+  },
+  {
+    "question": "As a project manager, what questions can you ask your Agile team to ensure they “run it right”? Select all that apply.",
+    "answers": [
+      "How will a user get support?",
+      "How will users get updates and new features?"
+    ]
+  },
+  {
+    "question": "You create a release plan for a new project. You include the estimated release date, company holidays and the business goals. What else can you add to this release plan to help the team stay focused?",
+    "answers": ["A backlog of items required for the release goal"]
+  },
+  {
+    "question": "How often should stakeholders and team members review a project roadmap?",
+    "answers": ["Multiple times throughout all stages of the project"]
+  },
+  {
+    "question": "As a project manager, your organization makes a shift to Agile. To create a sense of urgency, which questions should you ask your team about what’s working and what’s not working right now? Select all that apply.",
+    "answers": [
+      "What allows our competitors to outperform us and get their products and features to market more quickly?",
+      "How can we help you become more productive and supported in your work?"
+    ]
+  },
+  {
+    "question": "As a project manager, you need to rebuild trust and collaboration between the development team and the business team. What actions can you take to accomplish this? Select all that apply.",
+    "answers": [
+      "Address critical feedback with more demos",
+      "Add changes to backlog only in between sprints"
+    ]
+  },
+  {
+    "question": "Making too many assumptions about a product can cause an unstable product roadmap. What actions can a project manager take to lessen the impact these assumptions might have? Select all that apply.",
+    "answers": [
+      "Document the assumptions and make them transparent",
+      "Check assumptions against unbiased user research"
+    ]
+  },
+  {
+    "question": "Consider the following user story: “As a plant owner, I want to learn from other, more experienced plant owners so that I can better care for my plant.” Which of the following pieces of acceptance criteria are appropriate for this story? Select all that apply.",
+    "answers": [
+      "Ability to join an online discussion group for trading plant care tips",
+      "Ability to sign up for Q&A sessions with plant experts",
+      "Ability to access an “Expert Advice” section on the website"
+    ]
+  },
+  {
+    "question": "Which of the following user stories could lead to the creation of a discussion group or a live customer chat option? Select all that apply.",
+    "answers": [
+      "“As a plant expert, I want to connect with other customers so that I can discuss plant care tips and tricks.”",
+      "“As a plant owner, I want to get expert help and advice quickly so that I know what to do if my plant gets sick.”"
+    ]
+  },
+  {
+    "question": "You are a project manager working on completing a project charter. You know the project charter should include which of the following? Select all that apply.",
+    "answers": ["Goals", "Deliverables", "Executive Summary"]
+  },
+  {
+    "question": "You’re working on a project plan with a new client and they ask about the word “scope,” which they keep seeing in the project plan draft. What’s the best way to describe scope to your client?",
+    "answers": ["Scope refers to the boundaries of a project."]
+  },
+  {
+    "question": "You notice there is a potential for misalignment between stakeholders regarding project goals. What are some best practices for preventing and/or helping to resolve project misalignment? Select all that apply.",
+    "answers": [
+      "Take the time early on in the project to clearly define the project for stakeholders.",
+      "Record the feedback you receive from stakeholders and document any misalignments and their resolutions.",
+      "Facilitate a discussion between disagreeing stakeholders to try and reach an agreement."
+    ]
+  },
+  {
+    "question": "You’re in a project team meeting and notice some of the stakeholders are misaligned on the planned project tasks. Which of the following is the most effective way to document misalignments and their resolutions?",
+    "answers": [
+      "Create an appendix to the project charter with a timestamp for new or updated information."
+    ]
+  },
+  {
+    "question": "You’re working on making the goals in your project charter SMART goals. You’re starting the process by making your goals more specific. Which of the following questions can best help you make your goals specific? Select all that apply.",
+    "answers": [
+      "What are the requirements and constraints of this goal?",
+      "What am I aiming to accomplish?"
+    ]
+  },
+  {
+    "question": "You are a project manager working on making your project goals SMART goals. You know that there is a company-wide initiative calling for improved customer service. Which of the following project goals is the best representation of a relevant project goal?",
+    "answers": [
+      "Improve customer satisfaction rating from an average score of 3 (average) to 4 (good) by end of year."
+    ]
+  },
+  {
+    "question": "You’ve learned as a project manager that while drafting a project charter, it is important to define the project scope, benefits, and costs. What do “benefits” refer to?",
+    "answers": ["Benefits are the expected gains of a project."]
+  },
+  {
+    "question": "You’re a project manager working on completing your project charter for an upcoming project. As part of the process, you remember you need to complete a stakeholder analysis. What are three necessary parts of a stakeholder analysis? Select all that apply.",
+    "answers": [
+      "How your stakeholders prefer to communicate",
+      "Who your stakeholders are",
+      "What your stakeholders’ priorities are"
+    ]
+  },
+  {
+    "question": "You’ve encountered a disagreement among project team members regarding the costs and benefits list in the project charter. What are two constructive tools for enhancing communication, clarifying wants and needs, and achieving workable solutions for everyone involved? Select all that apply.",
+    "answers": ["Negotiation", "Persuasion"]
+  },
+  {
+    "question": "You’re a project manager experiencing some opposition to your project goals. You decide one good way to apply influence is to form a coalition. Which of the following represents the most important component for an effective coalition?",
+    "answers": ["People with the right mix of power and interest"]
+  },
+  {
+    "question": "One of the deliverables in your project involves marketing your new product with email blasts. Your team writes several drafts of the different marketing materials, generates an email list, and programs the emails to be sent on the correct dates. Which of the following represents a milestone in your project plan?",
+    "answers": ["Marketing emails are sent on scheduled dates."]
+  },
+  {
+    "question": "What is the purpose of your project plan?",
+    "answers": ["To keep your project on track"]
+  },
+  {
+    "question": "You start a new job as a project manager in the private banking industry. You need to have a basic understanding of topics such as how clients open accounts, back office operations, and how trade confirmations are verified. Which of the following terms refers to the knowledge you need?",
+    "answers": ["Domain knowledge"]
+  },
+  {
+    "question": "When populating your project plan with a set of tasks, when is the best time to hold a group brainstorming session with team members to help identify tasks? Select all that apply.",
+    "answers": [
+      "After you review project documentation",
+      "After brainstorming a task list with senior stakeholders"
+    ]
+  },
+  {
+    "question": "You have gathered information from project documentation and the project team. With this information, you identified and created a list of tasks for your project plan. What is the next step for completing your project plan?",
+    "answers": ["Identify the order in which tasks need to be completed."]
+  },
+  {
+    "question": "Which of the following may indicate a milestone for your project?",
+    "answers": [
+      "A task that has a major impact on the project's overall progress"
+    ]
+  },
+  {
+    "question": "What term refers to a time estimate that accounts for factors like getting approvals, prep work, testing, and so on?",
+    "answers": ["Total duration estimate"]
+  },
+  {
+    "question": "Which of the measures involved in “three-point” time estimations is based on how long the task usually takes under normal circumstances, with only slight adjustments to the best-case scenario?",
+    "answers": ["Most likely time estimates"]
+  },
+  {
+    "question": "Which of the following circumstances is likely to cause a low confidence rating for a task?",
+    "answers": ["It is a task that your team has never done before."]
+  },
+  {
+    "question": "Which of the following is a good way to bring empathy to a conversation?",
+    "answers": ["Listen with curiosity."]
+  },
+  {
+    "question": "You encounter a problem that requires changes to the project plan your stakeholders agreed upon. Which of the following is the best choice for how to address the problem?",
+    "answers": [
+      "Present the problem succinctly to your stakeholders and offer a solution."
+    ]
+  },
+  {
+    "question": "As a project manager, you notice there is a shipment delay from a supplier during a project. If shipments are delayed too long, the final project date will be postponed. When synthesizing this to the stakeholders, what are things you should include? Select all that apply.",
+    "answers": [
+      "A summary of the shipment problem and its impact on the project.",
+      "A proposed solution of finding a backup supplier."
+    ]
+  },
+  {
+    "question": "What are the two parts of an OKR?",
+    "answers": ["A goal and a metric"]
+  },
+  {
+    "question": "You have synthesized the information around a problem you encountered in your project. You are now ready to communicate the problem to your stakeholders. Which of the following best describes how OKRs can help persuade your stakeholder to take the problem seriously?",
+    "answers": [
+      "You can present how your proposed solution addresses key results of a company OKR."
+    ]
+  },
+  {
+    "question": "Which of the following are recommended subject lines if you need a stakeholder to read and respond to your email quickly? Select all that apply.",
+    "answers": ["Respond ASAP", "Decision needed"]
+  },
+  {
+    "question": "You are writing the closeout report for a project you are managing. You begin by adding the objectives of the project. Which part of your closeout report is the best place to document this information?",
+    "answers": ["Project summary"]
+  },
+  {
+    "question": "What is the purpose of the executive summary in an impact report?",
+    "answers": [
+      "To give senior stakeholders a concise description of positive outcomes within the project"
+    ]
+  },
+  {
+    "question": "What is the difference between a closeout report and an impact report?",
+    "answers": [
+      "A closeout report is written for future stakeholders to describe the details of the project. An impact report is written for senior stakeholders to get an overview of the project in its closing."
+    ]
+  },
+  {
+    "question": "How does quality management help decrease overhead?",
+    "answers": [
+      "By reducing the number of errors that are an expense to the organization"
+    ]
+  },
+  {
+    "question": "Which of the following are common categories of established quality standards? Select all that apply.",
+    "answers": ["Ease of use", "Effectiveness"]
+  },
+  {
+    "question": "What is the purpose of quality assurance in quality management?",
+    "answers": ["To evaluate and measure how well your project meets its goals"]
+  },
+  {
+    "question": "There are two main categories of evaluation questions: Questions that ask how you can make improvements and questions that help you measure and compare outcomes. Which of the following questions intends to help you make improvements?",
+    "answers": ["What are the most common participant reactions?"]
+  },
+  {
+    "question": "You are evaluating a customer experience initiative that you manage for a large grocery store. Which of the following evaluation indicators would answer the evaluation question: Is advertising on large billboards improving store sales?",
+    "answers": ["Store revenue has increased by 15% over the last quarter."]
+  },
+  {
+    "question": "You are creating a survey about a new product feature. What type of survey question are you asking when you say “What do you like most about this new feature?”",
+    "answers": ["An open-ended question"]
+  },
+  {
+    "question": "What is one element that helps an audience visualize data during a presentation?",
+    "answers": ["Use graphics or charts to show data."]
+  },
+  {
+    "question": "Which of the following are among the main purposes of a retrospective? Select all that apply.",
+    "answers": [
+      "To facilitate improved collaboration",
+      "To promote positive changes",
+      "To encourage team building"
+    ]
+  },
+  {
+    "question": "As a project manager, you are leading a project retrospective. You are nervous your team might not participate. You start the meeting by discussing a mistake that delayed the project by a couple of days as an example of the feedback you want to elicit from your team. What technique are you using to encourage participation in the retrospective?",
+    "answers": ["Model participation"]
+  },
+  {
+    "question": "As a project manager, you are leading a project retrospective. Some feedback is that the design feels detached from the visual direction of the app. You identify a follow-up item to invite the design lead to weekly meetings moving forward. What technique are you using to encourage team accountability in the retrospective?",
+    "answers": ["Turn complaints into SMART action items"]
+  },
+  {
+    "question": "You are a project manager who has just been assigned the task of drafting a project charter. In which ways are project charters helpful? Select all that apply.",
+    "answers": [
+      "A project charter helps create a framework for the work that needs to be done.",
+      "A project charter helps you organize vital project information.",
+      "A project charter helps communicate project details to the necessary people."
+    ]
+  },
+  {
+    "question": "Your manager has tasked you with writing the summary portion of a project charter for an upcoming project. Which is the best way to describe how a project charter summary should be written?",
+    "answers": [
+      "A summary should be brief—just a few sentences at most, and to the point."
+    ]
+  },
+  {
+    "question": "You are preparing your project charter draft, and you start by considering your audience. What are the most effective questions to ask when considering your audience when writing a project charter? Select all that apply.",
+    "answers": [
+      "Who are your stakeholders?",
+      "What details are most important to project stakeholders?",
+      "Are there project details stakeholders might disagree with?"
+    ]
+  },
+  {
+    "question": "As you are working on project goals for your project charter, you find it difficult to add specific numbers or measures to the goals. You turn to your project management mentor, who suggests you apply benchmarking to your goals. Which of the following best describes benchmarking?",
+    "answers": ["Evaluating success against the standard."]
+  },
+  {
+    "question": "As you are working through the planning stages of your project, you recognize you will need to address challenges called out by stakeholders, build consensus among the stakeholder groups, and de-escalate conflict. Which of the following is the best way to find solutions in situations like this?",
+    "answers": ["Find solutions that are mutually beneficial."]
+  },
+  {
+    "question": "You are working through negotiations with stakeholders of your project and want to find ways to more effectively influence. What are the four steps to effective influence according to Dr. Jay Conger?",
+    "answers": [
+      "Establish credibility, frame for common ground, provide evidence, and connect emotionally."
+    ]
+  },
+  {
+    "question": "You are developing a schedule for your team’s project plan. Why might you ask your stakeholders or colleagues to share with you emails that relate to the project?",
+    "answers": ["These emails can help you uncover tasks."]
+  },
+  {
+    "question": "Which of the following terms refer to knowledge of a specific industry, such as industry terms, techniques, and processes?",
+    "answers": ["Domain knowledge"]
+  },
+  {
+    "question": "You have created an ordered list of tasks for your project plan. What is the next step for identifying milestones?",
+    "answers": [
+      "Identify points in the task list where you can evaluate work completed so far."
+    ]
+  },
+  {
+    "question": "When identifying a project milestone, which of the following describes what you are seeking?",
+    "answers": ["Tasks that signal the completion of a project phase"]
+  },
+  {
+    "question": "What term refers to a time estimate that only takes into account the actual time it takes to complete a task?",
+    "answers": ["Effort estimate"]
+  },
+  {
+    "question": "You are making time estimates for your project plan. You ask your task expert to estimate how long the task would take if you assume you need to replace your vendor and you experience unexpected turnover right before the task begins. Which of the measures involved in “three-point” time estimations are you asking from your task expert?",
+    "answers": ["Pessimistic time estimates"]
+  },
+  {
+    "question": "Why is the three-point time estimating technique a good way to determine a confidence rating for your time estimates?",
+    "answers": [
+      "It ensures you have considered the best-case and worst-case conditions for a task."
+    ]
+  },
+  {
+    "question": "When you ask questions of your team members without showing empathy, you can leave them feeling too closely observed, controlled, or continuously reminded of the work they have been assigned. What is the term that expresses this negative impact your team members feel in this case?",
+    "answers": ["Micromanaging"]
+  },
+  {
+    "question": "Your quality management plan uses a panel of experienced users to preview new features. You find the benefit of this preview process is that it reduces the amount of time and money spent to implement features that users are not eager to use. Which of the following describes this benefit of your quality management plan?",
+    "answers": ["Decreased overhead"]
+  },
+  {
+    "question": "You are creating a quality management plan for a product redesign. You employ a panel of customers to do two tasks: preview new features and rate the desirability of new features. What aspect of quality management does your preview process represent?",
+    "answers": ["Stakeholder quality"]
+  },
+  {
+    "question": "There are two main categories of evaluation questions: Questions that ask how you can make improvements and questions that help you measure and compare outcomes. Which of the following questions intends to help you measure and compare?",
+    "answers": ["What are the costs and benefits?"]
+  },
+  {
+    "question": "You are evaluating a customer experience initiative that you manage for a large department store. Which of the following evaluation indicators answers the evaluation question: Have we improved customer satisfaction?",
+    "answers": [
+      "Customers are 47% more likely to recommend your store to a friend."
+    ]
+  },
+  {
+    "question": "You need to prepare an evaluation presentation for one of your project’s senior stakeholders. Which of the following presentation styles would be most appropriate for your audience?",
+    "answers": [
+      "A one-page write-up of information relevant to their investment in the project."
+    ]
+  },
+  {
+    "question": "In the context of a retrospective, what term best refers to responsibility for decisions associated with a project or task?",
+    "answers": ["Accountability"]
+  },
+  {
+    "question": "OKRs are a tool used for what?",
+    "answers": ["Organization-wide goal setting"]
+  },
+  {
+    "question": "Stakeholders are often focused on other work beyond your project. What is one way to establish the significance of a problem in your project to stakeholders?",
+    "answers": [
+      "Explain how the problem will negatively impact a company-wide OKR."
+    ]
+  },
+  {
+    "question": "Which of the following items should be included in the body of an effective email to escalate a problem? Select all that apply.",
+    "answers": [
+      "One or two sentences that summarize your problem.",
+      "A sentence that identifies how the problem may impact your organization's OKRs."
+    ]
+  },
+  {
+    "question": "You are writing the closeout report for a project you are managing. You describe the workflow you used with your team and that you implemented Agile principles in project management. Which part of your closeout report is the best place to document this information?",
+    "answers": ["Methodology section"]
+  }
+]
